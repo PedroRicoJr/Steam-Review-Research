@@ -1,0 +1,17 @@
+# Raw Steam API page dumps: NOT committed.
+#
+# ~1 GB across all groups, and recoverable by re-pulling. Everything else under
+# raw/ IS committed, because it is not recoverable:
+#
+#   _shape/grid.json   the corpus measurement every sampling decision rests on
+#   */*/sample/        the sampled reviews themselves (~25 MB) - re-pulling would
+#                      draw a DIFFERENT sample, so this is the only provenance
+#                      the summaries have
+#   */*/summaries/     the summarised reviews - the work product itself
+#   */patchnotes/      the patch history
+#
+# Why this changed: on 2026-08-30 a stray `build_grid.py --help` overwrote
+# grid.json with a partial run. Nothing under raw/ was tracked, so there was no
+# copy to restore and the measurement had to be rebuilt from scratch. A summary
+# lost the same way would be gone for good.
+pages/

@@ -1,0 +1,354 @@
+{
+ "appnews": {
+  "appid": 3696410,
+  "newsitems": [
+   {
+    "gid": "1819386365093406",
+    "title": "30% OFF for a limited time!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365093406",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/f59addbae17641bb6a5d4b0f85efcb0de93e276f.png\"][/img][/p][p][/p][p]Winter sale now on until 10:00 AM (PST) on January 5th, 2026![/p][p]Purchase “FULL METAL SCHOOLGIRL” during this sale period to receive [b]30% off[/b]! Don't miss this wonderful oppotunity![/p][p][/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/_/?beta=0\"][/dynamiclink][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1766113239,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410
+   },
+   {
+    "gid": "1818752592125504",
+    "title": "[Important] Update Information (Dec. 11th, 2025)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592125504",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/fa96c7a1301ec59e8d17052702e1b9e0cabba61d.png\"][/img][/p][p][/p][p]・Made some UI improvements.[/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1765505399,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "patchnotes"
+    ]
+   },
+   {
+    "gid": "1818118366175427",
+    "title": "[Important] Update Information (Dec. 5th, 2025)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366175427",
+    "is_external_url": true,
+    "author": "ystm_09",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/fa96c7a1301ec59e8d17052702e1b9e0cabba61d.png\"][/img][/p][p][/p][p]・Fixed an issue where the game would not progress even after defeating all enemies in a room.[/p][p][/p][p]・Fixed an issue where the character would sometimes freeze when rebooting after losing all HP.[/p][p][/p][p]・Fixed an issue in which the pause menu would sometimes not open.[/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1764924297,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "patchnotes"
+    ]
+   },
+   {
+    "gid": "1817483467044117",
+    "title": "ユーザーアンケート実施中！",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1817483467044117",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/acf8eb848e014c56937f29a919307c6b7098f6f8.png\"][/img][/p][p][/p][p]『ゼンシンマシンガール』ユーザーアンケートを12月14日（日）まで実施中！\n皆様からのご意見を、今後のゲームタイトル制作の参考にさせていただきます。\n\nプレイいただいた方はもちろん、ご購入者以外の方からも幅広くアンケートを募集しておりますので皆様のご協力をお願いいたします。\nアンケートにご回答いただいた方には[b]『ゼンシンマシンガール』オリジナルPC・スマートフォン用壁紙とXヘッダー画像[/b]をプレゼントいたします。\n\n[b]▼『ゼンシンマシンガール』ユーザーアンケート回答はこちら\n[url=\"https://questant.jp/q/JFLB8DXN\"]https://questant.jp/q/JFLB8DXN[/url][/b][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1764558023,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1817483467038190",
+    "title": "Gameplay Trailer (DLC Introduction③)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1817483467038190",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"xUDdbkuvYZo;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] is now available for purchase on Steam![/p][p][/p][p]PURCHASE NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1764298848,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1816849002012718",
+    "title": "Gameplay Trailer (Endless Mode)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002012718",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"Kj4LICUHSyU;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] is now available for purchase on Steam![/p][p][/p][p]PURCHASE NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1763694030,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1816307528941784",
+    "title": "[Important] Update Information (Nov. 14th, 2025)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528941784",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/fa96c7a1301ec59e8d17052702e1b9e0cabba61d.png\"][/img][/p][p][/p][p]・Fixed issue where, when changing the command for Prepare Punishment Move, the MOD Reshuffle command would display as the default command.[/p][p][/p][p]・Fixed issue causing the game to load in Japanese when creating a new data save, regardless of the console's language setting.[/p][p][/p][p]・Adjusted the cutscene skip command.[/p][p][/p][p]・Increased the rate at which MJP is dropped.[/p][p][/p][p]・Fixed an issue where mouse sensitivity decreased during free camera mode.[/p][p][/p][p]・Adjusted the transparency of the smoke from fire extinguishers.[/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1763114214,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "patchnotes"
+    ]
+   },
+   {
+    "gid": "1816307528932753",
+    "title": "Gameplay Trailer (DLC Introduction②)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528932753",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"LdK08D0dxKM;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] is now available for purchase on Steam![/p][p][/p][p]PURCHASE NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1763089226,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1815580768280865",
+    "title": "Gameplay Trailer (DLC Introduction①)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768280865",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"Z_G3-Byue3w;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] is now available for purchase on Steam![/p][p][/p][p]PURCHASE NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1762484453,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1815034432895704",
+    "title": "[Important] Update Information (Oct. 31st, 2025)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815034432895704",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/fa96c7a1301ec59e8d17052702e1b9e0cabba61d.png\"][/img][/p][p][/p][p]・Improved game stability.[/p][p][/p][p]・Increased the drop quantity for Organic Compound.[/p][p][/p][p]・Reduced the amount of damage dealt by traps.[/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1761893663,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "patchnotes"
+    ]
+   },
+   {
+    "gid": "1815034432890395",
+    "title": "Gameplay Trailer (Boss Introduction)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815034432890395",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"Wn1hKPZa6n0;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] is now available for purchase on Steam![/p][p]Purchase during the first 14 days of launch to receive [b]10% off[/b]![/p][p][/p][p]PURCHASE NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1761879601,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1814942955091327",
+    "title": "[Important] Update Information (Oct. 29th, 2025)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814942955091327",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/fa96c7a1301ec59e8d17052702e1b9e0cabba61d.png\"][/img][/p][p][/p][p]・Fixed issue of Camera Sensitivity unnaturally increasing when camera pulls out near a stage trap, when controlling the camera with a mouse.[/p][p][/p][p]・Fixed issue of Screen Resolution becoming locked at 1280 x 720 in certain environments.[/p][p][/p][p]・Increased the max speed setting for the Camera Sensitivity (Mouse) option.[/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1761719120,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "patchnotes"
+    ]
+   },
+   {
+    "gid": "1814309641441939",
+    "title": "\"FULL METAL SCHOOLGIRL\" Available Now!!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641441939",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"aWF-AryW8TY;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p]D3PUBLISHER's brand-new action shooting [b]“FULL METAL SCHOOLGIRL”[/b] is now available for purchase on Steam![/p][p]Purchase during the first 14 days of launch to receive [b]10% off[/b]![/p][p][/p][p]A fully armed cyborg heroine storms into a giant corporation and unleashes a relentless barrage of gunfire and sword action in this exhilarating cyborg schoolgirl action adventure.[/p][p]New heroines battle in a game that combines the close combat of \"Onechanbara” with the gun battles of “Earth Defense Force.”[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/45681582/73c2dc6ab5d483fd0afbc0fefeb8ab728d765543.jpg\"][/img][/p][p]For a limited time, receive [b]Akemi Costume: Saki's Battle Suit from \"OneeChanbara ORIGIN\"[/b] as an early purchase bonus. (*)[/p][p]Various DLCs such as costumes and accessories for the characters will be also released sequentially. Please check the respective stores for more details.[/p][p][/p][p]PURCHASE NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p][p][/p][p]* This offer is only available to customers who purchase the product by 10:00 (PDT) on April 1st, 2026.[/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1761228041,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1814309641441965",
+    "title": "My Steam account is now forever tainted with an achievement I got for accidentally upskirting a katana-wielding machine girl",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1814309641441965",
+    "is_external_url": true,
+    "author": "Mollie Taylor",
+    "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/fZysSAwFKiPnvtToWkkJyZ-1280-80.jpg\"/><br><br>\n                Even after a couple of hours with <a href=\"https://store.steampowered.com/app/3696410/FULL_METAL_SCHOOLGIRL/\" target=\"_blank\">Full Metal Schoolgirl</a>, I'm not entirely sure what it wants to be: a shooter, a roguelite, a campy yet lewd robo-corpo hack-and-slash? It's a little bit of everything, and doesn't particularly excel in any aspect. Yet I'm weirdly endeared to its bizarre late 2000s jankiness...\n                <a href=\"https://www.pcgamer.com/games/action/my-steam-account-is-now-forever-tainted-with-an-achievement-i-got-for-accidentally-upskirting-a-katana-wielding-machine-girl/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+    "feedlabel": "PC Gamer",
+    "date": 1761228000,
+    "feedname": "PC Gamer",
+    "feed_type": 0,
+    "appid": 3696410
+   },
+   {
+    "gid": "1813674388970236",
+    "title": "\"FULL METAL SCHOOLGIRL\" Coming Soon!!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388970236",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"rjsk9meEL_Q;full\"][/previewyoutube][p][/p][p]We are excited to announce [b]Full Metal Schoolgirl Launch trailer[/b] is now available! Purchase during pre-order period and the first 14 days of launch to receive [b]10% off[/b]!![/p][p][/p][p]PRE-ORDER NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1760704240,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1811772772504795",
+    "title": "Gameplay Trailer (Augments)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772504795",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"wcToIhmftXs;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] Coming October 23rd, 2025![/p][p][/p][p]PRE-ORDER NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1759485626,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1811772772360570",
+    "title": "Gameplay Trailer (Materials and Funds)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772360570",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"7RZgJqs0068;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] Coming October 23rd, 2025![/p][p][/p][p]PRE-ORDER NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1759114816,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1811772772203160",
+    "title": "\"FULL METAL SCHOOLGIRL\" is available for pre-order today!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772203160",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/45681582/1aeb8637fdc866595424185bb9a1a8e822c21173.png\"][/img][/p][p][/p][p]We are pleased to announce that [b]\"FULL METAL SCHOOLGIRL\"[/b] is now available for pre-order on Steam![/p][p]Purchase during pre-order period and the first 14 days of launch to receive [b]10% off[/b]![/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/45681582/8529f5097f035403e3637fc6afa13074392e4c33.jpg\"][/img][/p][p][/p][p]Pre-order to receive the in game item, [b]Accessory -\"Furball\" in 3 Color Varieties[/b]! (*1)[/p][p]For a limited time, receive [b]Akemi Costume: Saki's Battle Suit from \"OneeChanbara ORIGIN\"[/b] as an early purchase bonus. (*2)[/p][p][/p][p]PRE-ORDER NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p][p][/p][p]*1 This offer is only available to customers who purchase the product through pre-order by 23:59 (PDT) on October 22nd, 2025.[/p][p]*2 This offer is only available to customers who purchase the product by 2:00 (PST) on April 1st, 2026.[/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1758699030,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1811138915444680",
+    "title": "Gameplay Trailer (Weapon Introduction)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811138915444680",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"HxWiC3MZ0VI;full\"][/previewyoutube][p][/p][p]Full metal schoolgirl destroys a exploitative enterprise! (...with live streaming)[/p][p][b]“FULL METAL SCHOOLGIRL”[/b] Coming October 23rd, 2025! Pre-order will start at a later date on Steam.[/p][p][/p][p]WISHLIST NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1758337206,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1810503566435875",
+    "title": "主題歌「戦え！マシンガールZu」カラオケバージョン公開！",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1810503566435875",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"JocrMcuMwn0;full\"][/previewyoutube][p][/p][p]サイボーグJKがブラック企業をぶっ潰す！（…までを生配信するアクション）[/p][p]『ゼンシンマシンガール』主題歌「戦え！マシンガールZu」のカラオケバージョンを公開！[/p][p][/p][p]一度耳にしたらクセになると一部の民に話題の主題歌がカラオケ配信決定！[/p][p]……するといいなぁという期待を込めて作ったトレーラーです。[/p][p]みんなで歌えば盛り上がること間違いなし!? 間違いあり!?[/p][p][/p][p]『ゼンシンマシンガール』の予約は後日開始予定。ウィッシュリスト登録で最新情報をお届け！[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]▼公式サイトはこちら[/p][p] [url=\"https://www.d3p.co.jp/zmg/\"]https://www.d3p.co.jp/zmg/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1757646017,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1809869180031927",
+    "title": "The 2nd trailer is now available!!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809869180031927",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"Q8cTxRXYs5o;full\"][/previewyoutube][p][/p][p]We are excited to announce [b]Full Metal Schoolgirl 2nd trailer[/b] is now available!! Pre-order will start at a later date on Steam.[/p][p][/p][p]WISHLIST NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1756987211,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   },
+   {
+    "gid": "1803527891690335",
+    "title": "\"FULL METAL SCHOOLGIRL\" will be available on October 23rd!!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891690335",
+    "is_external_url": true,
+    "author": "d3p_staff",
+    "contents": "[p][/p][previewyoutube=\"-IVtzcKl89k;full\"][/previewyoutube][p][/p][p]We are excited to announce a brand-new explosive action shooter [b]Full Metal Schoolgirl[/b] is scheduled for a worldwide release on October 23rd, 2025 on Steam! Pre-order will start at a later date.[/p][p][/p][p]A fully armed cyborg heroine storms into a giant corporation and unleashes a relentless barrage of gunfire and sword action in this exhilarating cyborg schoolgirl action adventure. New heroines battle in a game that combines the close combat of \"Onechanbara” with the gun battles of “Earth Defense Force.”[/p][p][/p][p]WISHLIST NOW:[/p][p][dynamiclink href=\"https://store.steampowered.com/app/3696410/\"][/dynamiclink][/p][p]Official Website: [url=\"https://www.d3p.co.jp/zmg/en/\"]https://www.d3p.co.jp/zmg/en/[/url][/p]",
+    "feedlabel": "Community Announcements",
+    "date": 1751425255,
+    "feedname": "steam_community_announcements",
+    "feed_type": 1,
+    "appid": 3696410,
+    "tags": [
+     "workshop"
+    ]
+   }
+  ],
+  "count": 22
+ }
+}

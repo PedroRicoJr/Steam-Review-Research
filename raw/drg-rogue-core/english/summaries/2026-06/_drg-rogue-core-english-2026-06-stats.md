@@ -1,0 +1,193 @@
+# drg-rogue-core / english — 2026-06
+
+| | |
+|---|---|
+| Reviews that month (real) | **1,350** |
+| Reviews we read | 218 |
+| Excluded (not about the game) | 0 |
+| Counted | 218 |
+| **Average weight of its observations** | **6.19** |
+| Observations tagged | 645 |
+| Positive / negative observations | 265 / 359 |
+
+## Tags
+
+| Tag | | Seen | Weighted |
+|---|---|---|---|
+| `review.positive.unknown` | good | 28 | 173 |
+| `game-design.session-flexibility.a-clock-decides-when-you-leave` | bad | 26 | 161 |
+| `marketing.positioning.sold-as-a-different-kind-of-game` | bad | 23 | 142 |
+| `community.culture.shared-ritual` | good | 17 | 105 |
+| `game-design.progression.build-and-customisation.shallow-options` | bad | 16 | 99 |
+| `live-ops.patch-quality.fixed-what-mattered` | good | 15 | 93 |
+| `game-design.randomness.luck-decides-the-outcome` | bad | 14 | 87 |
+| `live-ops.patch-quality.made-it-better` | good | 14 | 87 |
+| `community.developer-communication.listens-and-acts` | good | 13 | 81 |
+| `community.playing-with-friends.much-better-with-friends` | good | 13 | 81 |
+| `marketing.reputation.judged-unfairly` | good | 13 | 81 |
+| `production.content-amount.too-little` | bad | 13 | 81 |
+| `game-design.co-op-design.demands-coordination` | good | 12 | 74 |
+| `production.content-amount.plenty` | good | 12 | 74 |
+| `production.craftsmanship.needs-more-work` | bad | 12 | 74 |
+| `game-design.progression.build-and-customisation.deep-and-varied` | good | 11 | 68 |
+| `game-design.game-feel.combat.impactful` | good | 10 | 62 |
+| `live-ops.update-cadence.awaiting-promised-content` | ~ | 10 | 62 |
+| `game-design.power-balance.some-options-are-useless` | bad | 9 | 56 |
+| `marketing.reputation.beaten-by-a-competitor` | bad | 9 | 56 |
+| `game-design.difficulty-tuning.satisfyingly-hard` | good | 8 | 50 |
+| `game-design.power-balance.resources-too-scarce` | bad | 8 | 50 |
+| `review.negative.unknown` | bad | 8 | 50 |
+| `game-design.pacing.no-let-up` | bad | 7 | 43 |
+| `game-design.power-balance.rules-favour-the-enemy` | bad | 7 | 43 |
+| `game-design.role-design.each-role-plays-its-own-way` | good | 7 | 43 |
+| `game-design.session-flexibility.demands-long-sessions` | bad | 7 | 43 |
+| `marketing.reputation.studio-earned-my-trust` | good | 7 | 43 |
+| `production.content-variety.repetitive` | bad | 7 | 43 |
+| `production.early-access.good-value-while-unfinished` | good | 7 | 43 |
+| `game-design.co-op-design.teammates-can-take-your-things` | bad | 6 | 37 |
+| `game-design.enemy-design.no-counterplay` | bad | 6 | 37 |
+| `marketing.positioning.invited-unfair-comparison` | bad | 6 | 37 |
+| `publishing.price.too-high-for-what-it-is` | bad | 6 | 37 |
+| `game-design.co-op-design.rewards-teamwork` | good | 5 | 31 |
+| `game-design.solo-viability.punishing-solo` | bad | 5 | 31 |
+| `game-design.world-interaction.chores-instead-of-play` | bad | 5 | 31 |
+| `game-design.co-op-design.scales-to-the-number-of-players` | good | 4 | 25 |
+| `game-design.difficulty-tuning.too-hard` | bad | 4 | 25 |
+| `game-design.enemy-design.bullet-sponges` | bad | 4 | 25 |
+| `game-design.level-design.badly-laid-out` | bad | 4 | 25 |
+| `game-design.new-player-experience.poorly-explained` | bad | 4 | 25 |
+| `game-design.power-balance.well-tuned` | good | 4 | 25 |
+| `game-design.progression.build-and-customisation.cannot-change-how-you-look` | bad | 4 | 25 |
+| `game-design.progression.build-and-customisation.changes-how-you-play` | good | 4 | 25 |
+| `game-design.progression.complexity.rewarding-once-learned` | good | 4 | 25 |
+| `game-design.punishment-model.damage-carries-over` | bad | 4 | 25 |
+| `game-design.role-design.role-underpowered` | bad | 4 | 25 |
+| `marketing.reputation.derivative-of-an-older-game` | bad | 4 | 25 |
+| `marketing.reputation.explained-by-naming-other-games` | ~ | 4 | 25 |
+| `production.early-access.not-worth-it-yet` | bad | 4 | 25 |
+| `community.player-conduct.welcoming-community` | good | 3 | 19 |
+| `engineering.bugs.buggy` | bad | 3 | 19 |
+| `engineering.bugs.rare-and-minor` | good | 3 | 19 |
+| `game-design.game-feel.movement.sluggish` | bad | 3 | 19 |
+| `game-design.level-design.too-linear` | bad | 3 | 19 |
+| `game-design.modes.expected-mode-missing` | bad | 3 | 19 |
+| `game-design.pacing.nothing-happens-between-fights` | bad | 3 | 19 |
+| `game-design.power-balance.one-option-dominates` | bad | 3 | 19 |
+| `game-design.progression.complexity.overwhelming-at-first` | ~ | 3 | 19 |
+| `marketing.promise-vs-reality.delivered-what-was-promised` | good | 3 | 19 |
+| `marketing.reputation.beats-its-rivals` | good | 3 | 19 |
+| `production.content-variety.recycled-assets` | bad | 3 | 19 |
+| `production.content-variety.varied-runs` | good | 3 | 19 |
+| `production.early-access.does-not-feel-unfinished` | good | 3 | 19 |
+| `production.scope-mismatch.wasted-its-potential` | bad | 3 | 19 |
+| `publishing.monetisation-practice.players-buy-in-to-support-the-studio` | good | 3 | 19 |
+| `community.developer-communication.ignores-feedback` | bad | 2 | 12 |
+| `community.developer-communication.open-about-what-it-is-doing` | good | 2 | 12 |
+| `community.playing-with-friends.needs-a-group` | bad | 2 | 12 |
+| `community.playing-with-friends.poor-with-strangers` | bad | 2 | 12 |
+| `community.social-features.cannot-communicate` | bad | 2 | 12 |
+| `engineering.performance.stutter` | bad | 2 | 12 |
+| `engineering.performance.well-optimised` | good | 2 | 12 |
+| `engineering.servers.frequent-disconnects` | bad | 2 | 12 |
+| `game-design.co-op-design.one-player-can-stall-everyone` | bad | 2 | 12 |
+| `game-design.co-op-design.working-together-buys-you-nothing` | bad | 2 | 12 |
+| `game-design.difficulty-tuning.badly-scaled` | bad | 2 | 12 |
+| `game-design.difficulty-tuning.too-easy` | bad | 2 | 12 |
+| `game-design.enemy-design.ignores-physical-logic` | bad | 2 | 12 |
+| `game-design.game-feel.controls.abilities-are-awkward-to-trigger` | bad | 2 | 12 |
+| `game-design.progression.build-and-customisation.only-a-few-builds-are-viable` | bad | 2 | 12 |
+| `game-design.progression.unlock-pace.grindy` | bad | 2 | 12 |
+| `game-design.progression.unlock-pace.slow-start` | bad | 2 | 12 |
+| `game-design.punishment-model.stakes-worth-the-risk` | good | 2 | 12 |
+| `game-design.readability.threats-unclear` | bad | 2 | 12 |
+| `game-design.role-design.a-role-is-missing` | bad | 2 | 12 |
+| `game-design.role-design.any-team-mix-works` | good | 2 | 12 |
+| `game-design.solo-viability.works-solo` | good | 2 | 12 |
+| `game-design.ui-ux.clear-and-usable` | good | 2 | 12 |
+| `game-design.ui-ux.hides-information` | bad | 2 | 12 |
+| `game-design.ui-ux.missing-quality-of-life` | bad | 2 | 12 |
+| `live-ops.abandonment.diverted-to-other-projects` | bad | 2 | 12 |
+| `live-ops.patch-quality.nerfs-what-players-liked` | bad | 2 | 12 |
+| `live-ops.update-cadence.steady-stream` | good | 2 | 12 |
+| `narrative.characters-writing.cast-politics-put-me-off` | bad | 2 | 12 |
+| `narrative.tone.wrong-tone-for-the-setting` | bad | 2 | 12 |
+| `narrative.world-and-setting.gets-its-subject-right` | good | 2 | 12 |
+| `production.craftsmanship.made-with-care` | good | 2 | 12 |
+| `publishing.sale-dependency.buy-on-sale-only` | bad | 2 | 12 |
+| `art.atmosphere.falls-flat` | bad | 1 | 6 |
+| `art.character-design.appealing-cast` | good | 1 | 6 |
+| `art.character-design.generic-cast` | bad | 1 | 6 |
+| `art.visual-direction.off-putting-look` | bad | 1 | 6 |
+| `audio.sound-effects.no-warning-sounds` | bad | 1 | 6 |
+| `audio.sound-effects.punchy` | good | 1 | 6 |
+| `audio.voice-performance.grating-or-repetitive` | bad | 1 | 6 |
+| `community.culture.no-shared-identity` | bad | 1 | 6 |
+| `community.culture.the-fanbase-puts-me-off` | bad | 1 | 6 |
+| `community.developer-communication.misreads-what-players-want` | bad | 1 | 6 |
+| `community.player-conduct.unskilled-or-careless` | bad | 1 | 6 |
+| `community.playing-with-friends.fine-with-strangers` | good | 1 | 6 |
+| `community.population.the-numbers-are-falling` | bad | 1 | 6 |
+| `engineering.bugs.breaks-play` | bad | 1 | 6 |
+| `engineering.netcode.a-disconnect-loses-the-run` | bad | 1 | 6 |
+| `engineering.performance.demanding-hardware` | bad | 1 | 6 |
+| `engineering.performance.unstable-framerate` | bad | 1 | 6 |
+| `engineering.platform-support.runs-well-on-my-platform` | good | 1 | 6 |
+| `engineering.servers.cannot-connect` | bad | 1 | 6 |
+| `engineering.servers.peer-to-peer-not-dedicated` | bad | 1 | 6 |
+| `game-design.co-op-design.competing-for-pickups-is-the-fun` | good | 1 | 6 |
+| `game-design.co-op-design.friendly-fire-unknown` | ~ | 1 | 6 |
+| `game-design.co-op-design.the-design-sets-players-against-each-other` | bad | 1 | 6 |
+| `game-design.difficulty-tuning.player-too-fragile` | bad | 1 | 6 |
+| `game-design.difficulty-tuning.unknown` | ~ | 1 | 6 |
+| `game-design.difficulty-tuning.well-graded` | good | 1 | 6 |
+| `game-design.enemy-design.good-variety` | good | 1 | 6 |
+| `game-design.enemy-design.memorable-specials` | good | 1 | 6 |
+| `game-design.enemy-design.unfair-spawns` | bad | 1 | 6 |
+| `game-design.expressive-play.not-enough-to-mess-about-with` | bad | 1 | 6 |
+| `game-design.expressive-play.useless-actions-players-love` | good | 1 | 6 |
+| `game-design.fairness.losses-feel-earned` | good | 1 | 6 |
+| `game-design.fairness.one-section-is-unfair` | bad | 1 | 6 |
+| `game-design.game-feel.combat.weightless` | bad | 1 | 6 |
+| `game-design.game-feel.controls.unresponsive` | bad | 1 | 6 |
+| `game-design.game-feel.movement.unreliable` | bad | 1 | 6 |
+| `game-design.game-feel.reward-moment.the-payout-lands-flat` | bad | 1 | 6 |
+| `game-design.level-design.confusing-layout` | bad | 1 | 6 |
+| `game-design.modes.good-selection` | good | 1 | 6 |
+| `game-design.new-player-experience.late-joiner-outmatched` | bad | 1 | 6 |
+| `game-design.new-player-experience.no-safe-place-to-learn` | bad | 1 | 6 |
+| `game-design.pacing.every-run-starts-with-dead-time` | bad | 1 | 6 |
+| `game-design.power-balance.unknown` | ~ | 1 | 6 |
+| `game-design.progression.build-and-customisation.choices-cannot-be-undone` | bad | 1 | 6 |
+| `game-design.progression.build-and-customisation.one-slot-is-compulsory` | bad | 1 | 6 |
+| `game-design.progression.cosmetic-rewards.not-worth-chasing` | bad | 1 | 6 |
+| `game-design.progression.unlock-pace.nothing-accumulates` | bad | 1 | 6 |
+| `game-design.progression.unlock-pace.satisfying-progression` | good | 1 | 6 |
+| `game-design.progression.unlock-pace.unknown` | ~ | 1 | 6 |
+| `game-design.punishment-model.harsh-restart` | bad | 1 | 6 |
+| `game-design.randomness.not-random-enough` | bad | 1 | 6 |
+| `game-design.randomness.randomness-keeps-it-fresh` | good | 1 | 6 |
+| `game-design.readability.too-dark-to-see` | bad | 1 | 6 |
+| `game-design.replayability.keeps-pulling-you-back` | good | 1 | 6 |
+| `game-design.replayability.runs-out-fast` | bad | 1 | 6 |
+| `game-design.replayability.worth-playing-without-a-reward` | good | 1 | 6 |
+| `game-design.role-design.forces-a-fixed-team-composition` | bad | 1 | 6 |
+| `game-design.session-flexibility.can-pause-anytime` | good | 1 | 6 |
+| `game-design.world-interaction.cannot-leave-a-mark` | bad | 1 | 6 |
+| `live-ops.patch-quality.content-thin` | bad | 1 | 6 |
+| `live-ops.patch-quality.made-it-worse` | bad | 1 | 6 |
+| `live-ops.patch-quality.the-game-keeps-changing-under-you` | bad | 1 | 6 |
+| `marketing.promise-vs-reality.claim-was-untrue` | bad | 1 | 6 |
+| `marketing.reputation.reputation-deserved` | bad | 1 | 6 |
+| `narrative.characters-writing.flat-or-annoying` | bad | 1 | 6 |
+| `narrative.world-and-setting.world-worth-exploring` | good | 1 | 6 |
+| `production.content-variety.the-generator-sometimes-breaks-the-run` | bad | 1 | 6 |
+| `publishing.dlc-and-editions.should-have-been-an-add-on` | bad | 1 | 6 |
+| `publishing.price.fair` | good | 1 | 6 |
+| `publishing.price.never-discounted-despite-its-state` | bad | 1 | 6 |
+| `publishing.refund.refunded` | bad | 1 | 6 |
+| `review.thumb-contradicts-text` | bad | 1 | 6 |
+| `review.thumb-is-a-protest-vote` | bad | 1 | 6 |
+
+> Each observation is weighted by the month the review was SAMPLED from, which is
+> not always this folder: an edited review is reported in the month it was last
+> updated (Rule 12) while its weight stays with the month it was drawn from.

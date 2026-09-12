@@ -1,0 +1,1033 @@
+game-design.game-feel.combat | ~ | How attacking and being hit feels: impact, weight, feedback.
+game-design.game-feel.movement | ~ | How moving feels: weight, responsiveness, traversal.
+game-design.game-feel.controls | ~ | Input, bindings, control scheme.
+game-design.game-feel.camera | ~ | Where the view sits and how it follows: distance, perspective, framing.
+game-design.game-feel.reward-moment | ~ | The instant the game pays the player — loot found, objective done, kill landed — and how that instant lands on
+game-design.readability | ~ | Whether the player can tell what is happening and what is coming.
+game-design.enemy-design | ~ | How enemies behave and what fighting them is like.
+game-design.level-design | ~ | How the places played in are built.
+game-design.world-interaction | ~ | How much the world responds to the player: destructible objects, things you can break, move or use.
+game-design.modes | ~ | Which ways to play exist, and which are missing.
+game-design.progression.build-and-customisation | ~ | Choosing how your character or loadout works.
+game-design.progression.unlock-pace | ~ | How fast things open up; grind.
+game-design.progression.complexity | ~ | Systems too complex, too shallow, or unexplained.
+game-design.difficulty-tuning | ~ | Whether the difficulty is set well.
+game-design.fairness | ~ | Whether losses feel earned or arbitrary.
+game-design.randomness | ~ | RNG's effect on outcome.
+game-design.power-balance | ~ | Relative strength of options, enemies, or roles. Renamed from `balance` — too easily confused with difficulty 
+game-design.punishment-model | ~ | Cost of failing: checkpoints, retries, restarts.
+game-design.replayability | ~ | Whether another run is worth starting.
+game-design.co-op-design | ~ | How the game supports players working together.
+game-design.role-design | ~ | Whether each class or role has a distinct, needed job.
+game-design.solo-viability | ~ | Whether the game works played alone.
+game-design.new-player-experience | ~ | Whether someone starting late can get in and keep up.
+game-design.session-flexibility | ~ | Whether it can be played in short sittings or demands a long one.
+game-design.ai-teammates | ~ | Bots standing in for human players: their quality and their presence.
+game-design.ui-ux | ~ | Menus, HUD, information design.
+game-design.unknown | ~ | Design is the subject, no aspect named.
+engineering.performance | ~ | Frame rate, stutter, load times, optimisation.
+engineering.stability | ~ | Crashes, freezes, hangs, save corruption.
+engineering.bugs | ~ | Incorrect behaviour that is not a crash.
+engineering.access.anticheat-blocks-play | ~ | Anti-cheat prevents launching or playing, false positives included.
+engineering.access.drm | ~ | Copy protection affects access or performance.
+engineering.access.account-or-platform-gate | ~ | A required account, launcher, or platform link blocks or annoys.
+engineering.access.unknown | ~ | Blocked from playing for an unnamed reason.
+engineering.netcode | ~ | Lag, desync, rubber-banding, hit registration online.
+engineering.servers | ~ | Server availability, capacity, latency, and where they are located.
+engineering.matchmaking | ~ | Finding and joining a game with others.
+engineering.platform-support | ~ | Behaviour specific to an OS, handheld, controller, or hardware class.
+engineering.unknown | ~ | Something technical is wrong, unnamed.
+art.visual-direction | ~ | The look: style, coherence, appeal.
+art.fidelity | ~ | Technical quality of the visuals: textures, models, lighting.
+art.character-design | ~ | How the cast looks.
+art.effects-and-gore | ~ | VFX, impacts, destruction, ragdolls.
+art.environment-art | ~ | How the places look, as distinct from how they are built.
+art.atmosphere | ~ | The combined felt mood produced by look, sound and setting together. **Deliberately homed in art** — see tiebr
+art.unknown | ~ | Visuals are the subject, no aspect named.
+audio.sound-effects | ~ | Weapon, impact, and world sound.
+audio.music | ~ | Score and its use.
+audio.voice-performance | ~ | Acting and delivery, in the original language.
+audio.mixing | ~ | Balance, clarity, spatial audio.
+audio.unknown | ~ | Sound is the subject, no aspect named.
+narrative.story | ~ | Plot and how it is told.
+narrative.world-and-setting | ~ | The world and its fiction.
+narrative.characters-writing | ~ | The cast as written: personality, dialogue, appeal.
+narrative.tone | ~ | Whether the attitude of the game lands.
+narrative.unknown | ~ | Story is the subject, no aspect named.
+production.content-amount | ~ | How much there is; length; whether it runs out.
+production.content-variety | ~ | Whether it repeats; recycled or reused material.
+production.launch-state | ~ | Condition of the game when it released.
+production.scope-mismatch | ~ | The game reaches for more than it delivers.
+production.unknown | ~ | What shipped is the subject, no aspect named.
+publishing.price | ~ | The asking price against what is delivered.
+publishing.sale-dependency | ~ | Worth buying at a discount but not at full price.
+publishing.dlc-and-editions | ~ | Paid add-ons or edition tiers; content behind a second purchase.
+publishing.monetisation-practice | ~ | In-game purchases, passes, currency.
+publishing.availability | ~ | Whether it can be bought or played from where the person lives.
+publishing.refund | ~ | The reviewer returned the game, tried to, or came back after doing so.
+publishing.preorder | ~ | Buying before release, and whether that turned out well.
+publishing.regional-pricing | ~ | The price level set for a region against local buying power.
+publishing.unknown | ~ | Money is the subject, direction unclear.
+marketing.promise-vs-reality | ~ | The game does not match how it was sold.
+marketing.positioning | ~ | What the game was framed as, and whether that framing served it.
+marketing.expectation-management | ~ | Whether buyers were set up to be disappointed.
+marketing.reputation | ~ | How the game is perceived and discussed, as distinct from what it is. Includes "judged unfairly" and "deserved
+marketing.unknown | ~ | The pitch is the subject, no aspect named.
+live-ops.update-cadence | ~ | Frequency and size of updates.
+live-ops.abandonment | ~ | Support has stopped, or is perceived to have.
+live-ops.patch-quality | ~ | Whether a change improved or worsened the game.
+live-ops.unknown | ~ | Running the live game is the subject, no aspect named.
+community.population | ~ | How many people are playing: enough to fill a match, or not.
+community.player-conduct | ~ | How other players act: griefing, cheating, quitting, carelessness — and the opposite, a community worth playin
+community.playing-with-friends | ~ | The experience specifically with known people.
+community.culture | ~ | Shared language, rituals and identity among players.
+community.moderation | ~ | How the studio runs its own community spaces.
+community.developer-communication | ~ | What the studio says, and whether it listens.
+community.social-features | ~ | Voice, text, pings, and other means of coordinating.
+community.user-created-content | ~ | Mods, workshop, custom content, or their absence.
+community.crossplay-and-platform-mix | ~ | Playing across platforms or input devices.
+community.unknown | ~ | The player relationship is the subject, no aspect named.
+localization.translation-quality | ~ | Accuracy and naturalness of translated text.
+localization.language-availability | ~ | Whether the person's language is supported at all.
+localization.voice-localization | ~ | Dubbed or localised speech.
+localization.text-rendering | ~ | Fonts, character sets, encoding, text fitting its box.
+localization.currency-and-formats | ~ | Whether currency, dates and number formats are adapted for the region. Display only.
+localization.language-barrier-in-multiplayer | ~ | Being matched with players you cannot communicate with.
+localization.unknown | ~ | A language or region issue, unspecified.
+accessibility.motor | ~ | What the game demands of the player's hands and reaction speed.
+accessibility.vision | ~ | Whether the game can be seen and read: colour, contrast, text size.
+accessibility.hearing | ~ | Whether information carried by sound is available another way.
+accessibility.phobia | ~ | Content depicting a common phobia: spiders, snakes, heights, flying, needles, drowning, clowns, clustered hole
+accessibility.trauma | ~ | Content depicting events tied to trauma: combat, assault, domestic abuse, death of a loved one, discrimination
+accessibility.addiction | ~ | Content depicting addictive substances or behaviour: alcohol, drugs, gambling, and gambling-shaped mechanics.
+accessibility.self-harm | ~ | Content depicting self-harm, suicide, or disordered eating.
+accessibility.mental-health-portrayal | ~ | How the game **writes** characters with mental health conditions, as experienced by a player who has one.
+accessibility.memory-and-attention | ~ | What the game asks the player to hold in their head - what an icon means, which key opens which door, how many
+accessibility.unknown | ~ | Accessibility raised, no aspect named.
+storefront.trading-cards | ~ | The platform's collectible cards for this game: whether they exist, and how they are given out.
+storefront.unknown | ~ | The shop's own features raised, no aspect named.
+storefront.trading-cards.no-cards-for-this-game | - | The game has no trading cards and the reviewer names that as a lack.
+storefront.trading-cards.cards-gated-behind-playtime | - | The cards only drop after hours of play, and the reviewer reads that as a trick to keep them playing.
+storefront.trading-cards.unknown | ~ | Cards raised, no mode given.
+accessibility.motor.playable-one-handed | + | The game can be played with one hand, by design or by accident.
+accessibility.motor.works-with-an-adapted-setup | + | A player who cannot use the standard controls found a setup that works, and says so.
+accessibility.motor.unknown | ~ | Physical demands raised, no mode given.
+accessibility.vision.unknown | ~ | Seeing or reading the game raised, no mode given.
+accessibility.hearing.unknown | ~ | Hearing the game raised, no mode given.
+sentiment | ~ | positive / negative | `voted_up`. Never inferred.
+genre | ~ | per game | Set on the game.
+helpfulness | ~ | `votes_up`, `weighted_vote_score` | A **weight**, not a bucket.
+acquisition | ~ | purchased / free / unknown | `steam_purchase`, `received_for_free`.
+game-design.ai-teammates.helps-in-combat | + | Bots contribute real damage or crowd control.
+game-design.ai-teammates.useless-in-combat | - | Bots fail to fight: poor aim, poor target choice, stand idle.
+game-design.ai-teammates.revives-reliably | + | Bots pick you up when you go down.
+game-design.ai-teammates.fails-to-revive | - | Bots ignore a downed player or cannot reach them.
+game-design.ai-teammates.follows-well | + | Bots keep up and stay useful in position.
+game-design.ai-teammates.gets-stuck | - | Bots snag on terrain, fall behind, or path badly.
+game-design.ai-teammates.available-offline | + | Bots let the game be played without other people or servers.
+game-design.ai-teammates.no-bots-provided | - | No bot fill, so a missing player cannot be replaced.
+game-design.ai-teammates.unknown | ~ | Bots raised, no mode given.
+game-design.game-feel.combat.impactful | + | Hits land with weight and feedback.
+game-design.game-feel.combat.weightless | - | Weapons lack punch; hits feel like nothing.
+game-design.game-feel.combat.unknown | ~ | Combat feel raised, no mode given.
+game-design.progression.unlock-pace.grindy | - | Too much repetition required to reach the next thing.
+game-design.progression.unlock-pace.gated-behind-farming | - | Progress requires farming before normal play is possible.
+game-design.progression.unlock-pace.everything-earnable | + | All content is reachable by playing, with no paid shortcut.
+game-design.progression.unlock-pace.unknown | ~ | Pace raised, no mode given.
+game-design.progression.complexity.overwhelming-at-first | ~ | Hard to grasp initially. Often paired with a positive verdict once learned.
+game-design.progression.complexity.rewarding-once-learned | + | The depth pays off after the learning cost.
+game-design.progression.complexity.overcomplicated | - | Complexity that adds nothing the simpler version lacked.
+game-design.progression.complexity.shallow | - | Too little depth to sustain interest.
+game-design.progression.complexity.unknown | ~ | Complexity raised, no mode given.
+game-design.enemy-design.too-few-on-screen | - | Fewer enemies present than the genre or the pitch implies.
+game-design.enemy-design.unfair-spawns | - | Enemies appear with no chance to react.
+game-design.enemy-design.variety-lacking | - | The same enemies repeat without meaningful difference.
+game-design.enemy-design.memorable-specials | + | Distinct enemy types that create stories.
+game-design.enemy-design.unknown | ~ | Enemies raised, no mode given.
+game-design.readability.geometry-unclear | - | Cannot tell what is walkable, solid, or a drop.
+game-design.readability.threats-unclear | - | Cannot tell what is attacking or from where.
+game-design.readability.unknown | ~ | Readability raised, no mode given.
+engineering.performance.runs-well-on-modest-hardware | + | Performs acceptably below the recommended spec.
+engineering.performance.unstable-framerate | - | Frame rate swings during normal play.
+engineering.performance.stutter | - | Hitching or micro-freezes.
+engineering.performance.unknown | ~ | Performance raised, no mode given.
+engineering.stability.crashes-repeatedly | - | Crashes often enough to interrupt play.
+engineering.stability.crashes-on-specific-event | - | Reproducible crash tied to one trigger.
+engineering.stability.progress-not-saved | - | Play is lost: saves, unlocks, or run state.
+engineering.stability.unknown | ~ | Stability raised, no mode given.
+publishing.price.too-high-for-what-it-is | - | Asking price exceeds delivered value.
+publishing.price.too-high-given-abandonment | - | Full price still charged for a game no longer supported.
+publishing.price.fair | + | Price matches what is delivered.
+publishing.price.unknown | ~ | Price raised, direction unclear.
+production.content-variety.repetitive | - | Sessions feel the same as each other.
+production.content-variety.recycled-assets | - | Later content visibly reuses earlier content.
+production.content-variety.varied-runs | + | Sessions differ enough to stay interesting.
+production.content-variety.unknown | ~ | Variety raised, no mode given.
+live-ops.abandonment.updates-stopped | - | No further updates, stated or observed.
+live-ops.abandonment.known-bugs-never-fixed | - | Defects persist across the whole support window.
+live-ops.abandonment.still-supported | + | Active, continuing support.
+live-ops.abandonment.unknown | ~ | Support raised, no mode given.
+community.player-conduct.quitting-mid-match | - | Players leave and abandon the team.
+marketing.positioning.successor-claim-backfired | - | Framed against a predecessor it then invited comparison to.
+marketing.positioning.invited-unfair-comparison | - | The framing set a bar the game was never going to clear.
+marketing.positioning.unknown | ~ | Positioning raised, no mode given.
+marketing.reputation.judged-unfairly | + | The reviewer argues the game's reputation is worse than the game.
+marketing.reputation.reputation-deserved | - | The reviewer argues the bad reputation is accurate.
+marketing.reputation.recovered-over-time | + | The game is seen as better now than at launch.
+marketing.reputation.unknown | ~ | Reputation raised, no direction given.
+community.culture.shared-ritual | + | Players have a catchphrase, salute or in-joke they use unprompted.
+community.culture.welcoming-to-newcomers | + | New or weak players are helped rather than blamed.
+community.culture.identity-players-adopt | + | Players describe themselves using the game's own language.
+community.culture.no-shared-identity | - | Nothing about the game gives players a common thing to be.
+community.culture.unknown | ~ | Culture raised, no mode given.
+community.moderation.heavy-handed | - | Moderation of the studio's own spaces feels punitive or opaque.
+community.moderation.took-away-community-spaces | - | A community space players relied on was closed or changed.
+community.moderation.well-run | + | The studio's spaces are managed in a way players endorse.
+community.moderation.unknown | ~ | Moderation raised, no mode given.
+game-design.solo-viability.works-solo | + | Fully playable and enjoyable alone.
+game-design.solo-viability.punishing-solo | - | Playable alone but noticeably harder or worse.
+game-design.solo-viability.unplayable-alone | - | Effectively unplayable without other people.
+game-design.solo-viability.unknown | ~ | Solo play raised, no mode given.
+game-design.session-flexibility.good-in-short-sittings | + | A satisfying amount can be done in a small block of time.
+game-design.session-flexibility.demands-long-sessions | - | A worthwhile run needs more time than a player can usually give.
+game-design.session-flexibility.unknown | ~ | Session length raised, no mode given.
+game-design.role-design.every-role-needed | + | Each class has a job the others cannot do.
+game-design.role-design.roles-feel-samey | - | Class choice does not meaningfully change the team.
+game-design.role-design.role-underpowered | - | One role is clearly worse than the others.
+game-design.role-design.unknown | ~ | Roles raised, no mode given.
+publishing.monetisation-practice.cosmetic-only | + | Paid extras never affect play.
+publishing.monetisation-practice.pay-affects-play | - | Money buys an advantage.
+publishing.monetisation-practice.aggressive-storefront | - | Selling is pushed at the player during normal play.
+publishing.monetisation-practice.unknown | ~ | Monetisation raised, no mode given.
+live-ops.abandonment.diverted-to-other-projects | - | Support moved to a sequel or spin-off while this game still needed it.
+live-ops.patch-quality.made-it-worse | - | A change degraded something that previously worked.
+live-ops.patch-quality.fixed-what-mattered | + | A change repaired a real complaint.
+live-ops.patch-quality.content-thin | - | Updates arrive but add little.
+live-ops.patch-quality.unknown | ~ | A patch is the subject, no mode given.
+production.content-variety.procedurally-varied | + | Generated content keeps sessions different from each other.
+localization.language-barrier-in-multiplayer.cannot-communicate-with-teammates | - | Matched with players who share no common language.
+localization.language-barrier-in-multiplayer.unknown | ~ | Raised, no mode given.
+game-design.new-player-experience.late-joiner-outmatched | - | Years of accumulated content or power leave a new player unable to keep up.
+game-design.new-player-experience.needs-carrying | - | Getting started requires experienced players to tow you.
+game-design.new-player-experience.easy-to-start | + | A newcomer can play properly on their first session.
+game-design.new-player-experience.unknown | ~ | Starting out raised, no mode given.
+game-design.difficulty-tuning.player-too-fragile | - | The player dies faster than the game's pace supports.
+game-design.difficulty-tuning.well-graded | + | Difficulty levels are distinct and let players pick their own.
+game-design.difficulty-tuning.too-easy | - | No meaningful resistance.
+game-design.difficulty-tuning.unknown | ~ | Difficulty raised, no mode given.
+game-design.progression.unlock-pace.grind-feels-earned | + | The repetition is long but the payoff justifies it.
+community.developer-communication.ignores-feedback | - | Players raise something repeatedly and nothing changes.
+community.developer-communication.adversarial | - | The studio is experienced as fighting its own players.
+community.developer-communication.misreads-what-players-want | - | The studio acts on a theory of the fun that players do not share.
+community.developer-communication.listens-and-acts | + | Feedback visibly changes the game.
+community.developer-communication.unknown | ~ | Communication raised, no mode given.
+live-ops.patch-quality.nerfs-what-players-liked | - | Repeated weakening of the things players enjoyed most.
+live-ops.patch-quality.forced-unwanted-feature | - | Something added that players want removed and cannot opt out of.
+community.playing-with-friends.much-better-with-friends | + | The game is transformed by playing with people you know.
+community.playing-with-friends.poor-with-strangers | - | Matchmade play is a markedly worse experience.
+community.playing-with-friends.fine-with-strangers | + | Random groups work well.
+community.playing-with-friends.unknown | ~ | Who you play with raised, no mode given.
+publishing.monetisation-practice.mtx-in-premium-game | - | In-game purchases on top of a full-price purchase.
+publishing.monetisation-practice.currency-earnable-by-playing | + | Paid currency can be obtained without paying.
+engineering.stability.destabilises-the-system | - | Damage beyond the game: the machine, audio, or OS needs recovery.
+engineering.servers.high-latency | - | Playable but laggy from where the player is.
+engineering.servers.frequent-disconnects | - | Players or whole teams drop mid-session.
+engineering.servers.requires-third-party-accelerator | - | A VPN or accelerator is needed for a playable connection.
+engineering.servers.unavailable-at-peak-hours | - | Unusable during the hours the player would normally play.
+engineering.servers.no-local-servers | - | No server presence near the player at all.
+engineering.servers.stable | + | Connections hold up.
+engineering.servers.unknown | ~ | Servers raised, no mode given.
+localization.translation-quality.well-localized | + | Translation reads naturally and carries the tone, not just the words.
+localization.translation-quality.machine-translated | - | Reads as untouched automatic translation.
+localization.translation-quality.partial | - | Some of the game is translated and some is not.
+localization.translation-quality.unknown | ~ | Translation raised, no mode given.
+narrative.tone.satire-lands | + | The game's joke is understood and enjoyed.
+narrative.tone.takes-itself-too-seriously | - | The tone is heavier than the game supports.
+narrative.tone.unknown | ~ | Tone raised, no mode given.
+audio.voice-performance.memorable-lines | + | Voice lines players quote or look forward to.
+audio.voice-performance.grating-or-repetitive | - | Lines wear out or irritate.
+audio.voice-performance.unknown | ~ | Voice raised, no mode given.
+game-design.ai-teammates.enables-solo-play | + | A bot companion makes playing alone genuinely viable.
+game-design.game-feel.camera.brings-you-close-to-the-action | + | The view puts the player inside the fight.
+game-design.game-feel.camera.obscures-the-action | - | The view hides what the player needs to see.
+game-design.game-feel.camera.disorienting | - | The view makes the game hard to read or physically uncomfortable.
+game-design.game-feel.camera.unknown | ~ | Camera raised, no mode given.
+game-design.punishment-model.quick-recovery-keeps-flow | + | Failing costs little and play resumes fast, so the session does not stall.
+game-design.punishment-model.harsh-restart | - | Failing costs a large amount of progress or time.
+game-design.punishment-model.one-retry-only | - | A single failure ends the whole attempt.
+game-design.punishment-model.unknown | ~ | The cost of failing is raised, no mode given.
+review.positive.unknown | + | Thumbs up, and the reviewer named nothing.
+review.negative.unknown | - | Thumbs down, and the reviewer named nothing.
+review.thumb-contradicts-text | - | **The thumb and the words disagree and we cannot tell which is meant.**
+game-design.progression.build-and-customisation.changes-how-you-play | + | Build choices genuinely alter play, not just numbers.
+game-design.progression.build-and-customisation.deep-and-varied | + | Many viable builds to explore.
+game-design.progression.build-and-customisation.shallow-options | - | Customisation exists but barely changes anything.
+game-design.progression.build-and-customisation.unknown | ~ | Building raised, no mode given.
+game-design.level-design.well-built | + | The spaces are designed well for play.
+game-design.level-design.confusing-layout | - | Hard to tell where to go.
+game-design.level-design.repetitive-layouts | - | The places blur into each other.
+game-design.level-design.unknown | ~ | Level design raised, no mode given.
+game-design.replayability.keeps-pulling-you-back | + | Worth starting again, repeatedly.
+game-design.replayability.runs-out-fast | - | Reasons to replay are exhausted quickly.
+game-design.replayability.unknown | ~ | Replaying raised, no mode given.
+game-design.co-op-design.demands-coordination | + | The game does not work unless the team works together.
+game-design.co-op-design.rewards-teamwork | + | Playing well together is visibly better than playing alone nearby.
+game-design.co-op-design.one-player-can-carry | - | A strong player makes the others unnecessary.
+game-design.co-op-design.unknown | ~ | Co-op raised, no mode given.
+game-design.modes.good-selection | + | The ways to play on offer satisfy.
+game-design.modes.expected-mode-missing | - | A mode the player expected does not exist.
+game-design.modes.unknown | ~ | Modes raised, no mode given.
+game-design.power-balance.well-tuned | + | Options and enemies are sensibly matched.
+game-design.power-balance.resources-too-scarce | - | Ammo, health or supplies run out faster than play allows.
+game-design.power-balance.resources-too-plentiful | - | Supply is so generous that nothing is at stake.
+game-design.power-balance.one-option-dominates | - | A single choice outclasses the rest.
+game-design.power-balance.unknown | ~ | Balance raised, no mode given.
+game-design.game-feel.movement.responsive | + | Moving feels immediate and controlled.
+game-design.game-feel.movement.sluggish | - | Moving feels heavy or delayed.
+game-design.game-feel.movement.unknown | ~ | Movement raised, no mode given.
+art.fidelity.looks-great | + | Visual quality impresses.
+art.fidelity.looks-dated | - | Looks older than its release.
+art.fidelity.rough-in-places | - | Quality is uneven; some assets let it down.
+art.fidelity.unknown | ~ | Visual quality raised, no mode given.
+art.character-design.appealing-cast | + | The characters look good.
+art.character-design.generic-cast | - | The characters look interchangeable or uninspired.
+art.character-design.unknown | ~ | Character looks raised, no mode given.
+art.environment-art.evocative-places | + | The places are worth looking at.
+art.environment-art.low-quality-assets | - | Textures or set dressing are visibly poor.
+art.environment-art.unknown | ~ | Environment art raised, no mode given.
+audio.sound-effects.punchy | + | Weapons and impacts sound powerful.
+audio.sound-effects.weak-or-thin | - | Sound undersells what is happening.
+audio.sound-effects.unknown | ~ | Sound effects raised, no mode given.
+narrative.characters-writing.funny-or-memorable | + | The cast's lines land.
+narrative.characters-writing.flat-or-annoying | - | The cast fails to charm or actively grates.
+narrative.characters-writing.unknown | ~ | Character writing raised, no mode given.
+production.content-amount.plenty | + | Enough to keep going for a long time.
+production.content-amount.too-little | - | Runs out sooner than expected for the price.
+production.content-amount.levels-too-short | - | Individual maps or missions end too quickly.
+production.content-amount.unknown | ~ | Amount raised, no mode given.
+engineering.matchmaking.finds-games-fast | + | Getting into a match is quick.
+engineering.matchmaking.slow-to-find-games | - | Long waits to fill a match.
+engineering.matchmaking.cannot-find-games | - | Matchmaking fails to produce a game at all.
+engineering.matchmaking.unknown | ~ | Matchmaking raised, no mode given.
+community.population.healthy | + | Enough people playing to fill matches.
+community.population.dead-game | - | Too few players left to play normally.
+community.population.unknown | ~ | Player numbers raised, no mode given.
+community.crossplay-and-platform-mix.works-well | + | Playing across platforms is smooth and widens the pool.
+community.crossplay-and-platform-mix.other-platform-players-worse | - | Players from another platform are experienced as a problem.
+community.crossplay-and-platform-mix.unknown | ~ | Crossplay raised, no mode given.
+live-ops.update-cadence.steady-stream | + | Updates arrive regularly.
+live-ops.update-cadence.awaiting-promised-content | ~ | Content has been announced and the player is waiting.
+live-ops.update-cadence.too-slow | - | Updates are too rare to hold interest.
+live-ops.update-cadence.unknown | ~ | Update pace raised, no mode given.
+game-design.enemy-design.overwhelming-numbers | - | More enemies at once than the player can reasonably handle. **The inverse of `.too-few-on-screen`.**
+game-design.difficulty-tuning.random-rule-changes-welcome | + | Rules that change per run (mutators, modifiers) keep it fresh and challenging.
+game-design.difficulty-tuning.random-rule-changes-frustrating | - | Rules that change per run feel arbitrary or unfair rather than interesting.
+engineering.performance.well-optimised | + | Runs smoothly. Use when no specific hardware claim is made.
+game-design.game-feel.controls.responsive-and-clear | + | Input does what the player expects, immediately.
+game-design.game-feel.controls.missing-expected-bindings | - | A control the player expected does not exist at all.
+game-design.game-feel.controls.unresponsive | - | Input is laggy, dropped, or badly tuned.
+game-design.game-feel.controls.rebind-anything | + | The player can remap any input to any key or button they want.
+game-design.game-feel.controls.cannot-rebind | - | The keys or buttons are fixed and the player cannot change them.
+game-design.game-feel.controls.profiles-for-every-setup | + | The game ships more than one saved control layout and lets the player switch between them.
+game-design.game-feel.controls.one-control-layout-only | - | A single fixed layout, with nothing to switch to.
+game-design.game-feel.controls.unknown | ~ | Controls raised, no mode given.
+game-design.ui-ux.clear-and-usable | + | Menus and on-screen information do their job.
+game-design.ui-ux.hard-to-navigate | - | Finding or selecting what you want is a chore.
+game-design.ui-ux.hides-information | - | The player cannot see something they need to decide.
+game-design.ui-ux.unknown | ~ | Interface raised, no mode given.
+narrative.story.worth-following | + | The story holds interest.
+narrative.story.thin-or-forgettable | - | There is a story and it does not land.
+narrative.story.unknown | ~ | Story raised, no mode given.
+community.user-created-content.mods-extend-the-game | + | Community content adds real life to the game.
+community.user-created-content.no-mod-support | - | The absence of mods or a workshop limits it.
+community.user-created-content.unknown | ~ | Mods raised, no mode given.
+publishing.sale-dependency.buy-on-sale-only | - | Recommended only at a discount.
+publishing.sale-dependency.worth-it-at-any-price | + | Worth buying without waiting.
+publishing.sale-dependency.unknown | ~ | Sale timing raised, no mode given.
+publishing.dlc-and-editions.content-behind-a-second-purchase | - | Things the player expected in the base game cost extra.
+publishing.dlc-and-editions.dlc-is-fair | + | Paid add-ons are optional and reasonably priced.
+publishing.dlc-and-editions.unknown | ~ | Paid add-ons raised, no mode given.
+marketing.promise-vs-reality.delivered-less-than-promised | - | What shipped falls short of what was advertised.
+marketing.promise-vs-reality.claim-was-untrue | - | A specific marketing claim did not hold.
+marketing.promise-vs-reality.unknown | ~ | The pitch raised, no mode given.
+publishing.refund.refunded | - | Says they returned the game and got their money back.
+publishing.refund.rebought-after-refund | ~ | Refunded it, then bought it again later — usually on sale.
+publishing.refund.wanted-to-but-could-not | - | Wanted a refund and was outside the window or refused.
+publishing.refund.considered-refunding | - | Says they nearly returned it.
+publishing.refund.unknown | ~ | A refund is mentioned with no direction.
+marketing.positioning.successor-framing-accepted | + | The reviewer endorses the successor framing rather than resenting it.
+game-design.progression.unlock-pace.satisfying-progression | + | There is a progression system and unlocking things feels good.
+community.player-conduct.unskilled-or-careless | - | Other players play badly or ignore what the game tells them. **Not malice — that is `.trolls-and-griefers`.**
+community.playing-with-friends.needs-a-group | - | The reviewer has nobody to play with and the game suffers for it.
+game-design.enemy-design.good-variety | + | Enough different enemies to keep encounters distinct. **Inverse of `.variety-lacking`.**
+game-design.enemy-design.forgettable-specials | - | The distinctive enemies fail to make an impression. **Inverse of `.memorable-specials`.**
+game-design.enemy-design.poor-ai-behaviour | - | Enemies behave stupidly or unconvincingly.
+game-design.difficulty-tuning.satisfyingly-hard | + | Demanding in a way the player enjoys.
+game-design.difficulty-tuning.lowered-after-complaints | - | The studio reduced the difficulty and this reviewer objects.
+game-design.difficulty-tuning.badly-scaled | - | The jump between difficulty levels is wrong — usually a cliff at the top.
+game-design.game-feel.combat.sluggish-weapon-handling | - | Swapping, reloading or readying a weapon is slower than it should be.
+game-design.world-interaction.world-reacts-to-you | + | Things break, move or light up, but it does not change how you play.
+game-design.world-interaction.destruction-changes-play | + | Breaking or moving the world changes what the player can do — cover, routes, sightlines.
+game-design.world-interaction.world-ignores-you | - | The world ignores the player. Shooting a lamp or a television does nothing.
+game-design.world-interaction.hazards-in-the-world | ~ | The world can hurt or help you — explosive barrels, alarms, collapsing floors.
+game-design.world-interaction.unknown | ~ | World interaction raised, no mode given.
+publishing.regional-pricing.fair-in-my-currency | + | The local price is reasonable for what the player earns.
+publishing.regional-pricing.priced-for-another-country | - | The local price is set for a richer market and is out of reach.
+publishing.regional-pricing.unknown | ~ | Local price named, no verdict on it.
+production.launch-state.shipped-in-good-shape | + | It worked on release day.
+production.launch-state.shipped-broken | - | It was unfinished, unstable or unplayable when it came out.
+production.launch-state.unknown | ~ | Release period named, no verdict on it.
+production.scope-mismatch.did-more-than-it-promised | + | It reached further than the player expected of it.
+production.scope-mismatch.wasted-its-potential | - | It could have been more and settled for less.
+production.scope-mismatch.unknown | ~ | Scope raised, no verdict on it.
+engineering.bugs.rare-and-minor | + | Few bugs, and none that matter.
+engineering.bugs.harmless-and-funny | ~ | Bugs the player noticed and enjoyed; they do not affect play.
+engineering.bugs.buggy | - | The player reports bugs and does not say what they break.
+engineering.bugs.breaks-play | - | A bug stops a session, loses progress, or spoils a run.
+engineering.bugs.exploit-players-enjoy | + | A bug players use on purpose because it is fun.
+engineering.bugs.exploit-ruins-the-game | - | A bug players use to gain an unfair advantage over others.
+engineering.bugs.unknown | ~ | Bugs raised, nothing said about them.
+art.visual-direction.looks-well-directed | + | The style works, and the player says so.
+art.visual-direction.copies-another-games-look | - | The look is lifted from something else.
+art.visual-direction.forgettable-look | - | Nothing about the look stays with the player.
+art.visual-direction.unknown | ~ | The look is the subject, no verdict on it.
+game-design.solo-viability.no-progression-solo | - | Playing alone earns none of the game's unlocks or currency, so solo players fall behind.
+game-design.progression.build-and-customisation.choices-cannot-be-undone | - | A build choice is permanent when the player expected to change it — an attachment that cannot come off, a card
+game-design.enemy-design.good-ai-behaviour | + | Enemies behave convincingly and make fights interesting. **Inverse of `.poor-ai-behaviour`.**
+engineering.matchmaking.cannot-rejoin-a-match | - | A player who drops, or whose team leaves, cannot get back into the game.
+publishing.data-and-privacy.collects-more-than-expected | - | The player found the game taking data they did not agree to give.
+publishing.data-and-privacy.unknown | ~ | Data collection raised, no verdict on it.
+engineering.platform-support.not-supported-at-all | - | No official build for the player's platform; they run it another way and lose things.
+engineering.netcode.smooth-online | + | Online play feels the same as offline: hits land, positions agree.
+engineering.netcode.lag-and-desync | - | Positions and hits disagree between machines — hit through walls, rubber-banding, delayed damage.
+engineering.netcode.unknown | ~ | Online behaviour raised, no mode given.
+engineering.performance.small-install-size | + | Takes little disk space or downloads quickly.
+engineering.performance.huge-install-size | - | Takes more disk space or download time than the player thinks it should.
+game-design.randomness.randomness-keeps-it-fresh | + | Chance makes each run different in a way the player enjoys.
+game-design.randomness.luck-decides-the-outcome | - | Whether the player wins is settled by the draw, not by how they played.
+game-design.randomness.unknown | ~ | Chance raised, no mode given.
+game-design.level-design.badly-laid-out | - | The places are built in a way that works against the player — cramped, narrow, or hard to move through.
+game-design.power-balance.some-options-are-useless | - | A whole class of choice is never worth taking. **Inverse of `.one-option-dominates`.**
+game-design.progression.unlock-pace.unlocks-too-fast | - | Everything opens up so quickly that unlocking stops meaning anything. **Inverse of `.grindy`.**
+engineering.matchmaking.no-skill-matching | - | Nothing separates players by skill, so runs are ruined by people out of their depth.
+community.developer-communication.punishes-criticism | - | Something a player said is met with removal rather than an answer — bans, deletions, or a fanbase that shouts 
+audio.sound-effects.no-warning-sounds | - | Nothing in the sound tells the player a threat is coming. Distinct from `.drowns-out-what-matters`: the cue is
+art.effects-and-gore.impacts-look-powerful | + | Hits, blood and explosions sell the force behind them.
+art.effects-and-gore.impacts-look-weak | - | Hits, blood and explosions undersell what just happened.
+art.effects-and-gore.unknown | ~ | Effects raised, no mode given.
+art.animation.smooth-and-convincing | + | Movement reads as real weight and effort.
+art.animation.stiff-or-clunky | - | Movement is rigid, snaps between poses, or does not match what is happening.
+art.animation.unknown | ~ | Animation raised, no mode given.
+audio.music.fits-the-game | + | The score suits the moment and the player notices it kindly.
+audio.music.forgettable-or-annoying | - | The score adds nothing, or wears out.
+audio.music.cannot-be-turned-off | - | No way to silence the music without losing sound the player needs.
+audio.music.blocks-streaming | - | The music risks a copyright strike for anyone streaming or recording.
+audio.music.unknown | ~ | Music raised, no mode given.
+game-design.co-op-design.rewards-selfish-play | - | The fastest way to succeed is to leave the team behind. **Distinct from `.one-player-can-carry`**, where the s
+game-design.randomness.not-random-enough | - | Chance is present and the runs still feel the same.
+marketing.reputation.studio-lost-my-trust | - | The judgement extends past this game to the studio: the player says they will not buy from them again.
+game-design.game-feel.movement.movement-feels-choppy | - | Moving does not flow: it jerks, snaps, or changes speed unexpectedly. **Distinct from `.sluggish`**, which is 
+game-design.session-flexibility.locked-in-once-started | - | A choice made at the start cannot be changed without throwing away the whole run.
+game-design.punishment-model.damage-carries-over | - | Harm taken in one level stays into the next with no way to recover it, so a run gets steadily harder for reaso
+game-design.modes.a-mode-falls-flat | - | A mode that exists is not worth playing. **Distinct from `.expected-mode-missing`**, which is about a mode tha
+game-design.co-op-design.teammates-can-take-your-things | - | Shared pickups let another player take what you were using or about to use.
+game-design.progression.unlock-pace.slow-start | - | The opening hours are weak because the systems that make the game good are still locked.
+engineering.access.unwanted-third-party-software | - | The game installs something extra the player did not want — anti-cheat, a launcher, a companion app. **Distinc
+publishing.dlc-and-editions.no-upgrade-path-between-editions | - | A player who bought the base game cannot reach content locked to a bigger edition, at any price.
+game-design.enemy-design.bullet-sponges | - | Enemies take so much damage that the fight is a timer, not a problem to solve.
+game-design.enemy-design.no-counterplay | - | An attack cannot be dodged, blocked or answered by skill — the only response is to out-damage it.
+game-design.readability.enemies-look-alike | - | Two enemy types read as the same thing and then behave completely differently.
+game-design.world-interaction.hazards-punish-unfairly | - | World hazards fire from beyond what the player can see or control.
+game-design.ui-ux.rules-poorly-worded | - | The game's own text does not say what a thing actually does.
+game-design.power-balance.rules-favour-the-enemy | - | The systems hand enemies advantages on terms the player is never offered.
+game-design.progression.complexity.requires-outside-research | - | Playing well means reading guides outside the game, because the game never teaches it.
+game-design.progression.cosmetic-rewards.worth-chasing | + | The cosmetic rewards are something the player actually wants.
+game-design.progression.cosmetic-rewards.not-worth-chasing | - | The cosmetic rewards do not motivate; unlocking them means nothing.
+game-design.progression.cosmetic-rewards.unknown | ~ | Cosmetics raised, no verdict on them.
+art.atmosphere.draws-you-in | + | Look, sound and setting combine into a mood the player wants to be in.
+art.atmosphere.falls-flat | - | The pieces are there and the place never feels like anywhere.
+art.atmosphere.unknown | ~ | Atmosphere raised, no mode given.
+publishing.availability.undercut-by-subscription | - | The same game costs far less on a subscription service, and the full-price buyer feels cheated.
+marketing.reputation.beaten-by-a-competitor | - | The reviewer names a **different** game that does this better and sends people there. **Distinct from `positio
+community.player-conduct.welcoming-community | + | The people you meet make the game better.
+community.player-conduct.trolls-and-griefers | - | Players deliberately spoil the run for others.
+community.player-conduct.cheaters-spoil-matches | - | Cheating is common enough that the player names it.
+community.player-conduct.unknown | ~ | Other players' behaviour raised, no mode given.
+game-design.ui-ux.missing-quality-of-life | - | Basic conveniences other games have are simply absent — no scoreboard, no leaving as a party, no automatic re-
+game-design.readability.reads-at-a-glance | + | The player can tell what is happening and what is coming without stopping to look.
+game-design.role-design.role-has-no-clear-job | - | A role exists without a defined job, so the player cannot tell what it is for. **Distinct from `.roles-feel-sa
+engineering.matchmaking.punished-for-leaving | - | Quitting a bad match costs the player a lockout, so a bad match has to be endured.
+engineering.servers.no-player-hosting | - | No dedicated servers and no way for a player to host, so the game only works on whatever the studio runs.
+publishing.dlc-and-editions.dlc-not-worth-it | - | The paid add-ons are not worth their price. **Inverse of `.dlc-is-fair`.**
+publishing.dlc-and-editions.sold-before-it-is-known | - | A pass or edition goes on sale before the buyer is told what is in it.
+publishing.monetisation-practice.feels-like-a-cash-grab | - | The player reads the game as built to take money rather than to be good.
+live-ops.patch-quality.removed-a-feature | - | Something the player was using was taken out. **Distinct from `.made-it-worse`**, which is a change that staye
+publishing.dlc-and-editions.dlc-forced-on-the-group | - | One player owning the add-on changes the game for everyone in the session, with no way to opt out.
+publishing.price.blocks-getting-a-group | - | A co-op game priced so that the friends the player needs cannot be talked into buying it. **The price is not j
+game-design.enemy-design.ignores-physical-logic | - | Enemies reach through or come out of places the world says they cannot.
+community.player-conduct.nobody-communicates | - | The people you are matched with never speak, so a game built on coordination is played in silence. **Distinct 
+community.social-features.cannot-stay-together-after-a-match | - | No way to keep playing with a group that just worked; a good team is broken up by the game itself.
+game-design.progression.unlock-pace.padding-a-short-game | - | The grind exists to stretch play time, not to reward the player. **Distinct from `.grindy`**, which is only ab
+game-design.role-design.forces-a-fixed-team-composition | - | Only one mix of roles works, so the group cannot play what they want to play. **The inverse failure of `.roles
+game-design.game-feel.camera.camera-works-well | + | The view sits where the player needs it and follows without fighting them.
+game-design.game-feel.camera.camera-gets-in-the-way | - | The view blocks, swings or sits wrong at the moment the player needs to see.
+game-design.enemy-design.pressure-feels-good | + | The numbers coming at the player create real pressure they enjoy. **The positive half `.overwhelming-numbers` 
+game-design.progression.unlock-pace.blocked-by-cosmetics | - | Useful unlocks sit behind cosmetic ones the player has to buy through first.
+engineering.access.requires-internet | - | The game will not run without a live connection, even played alone.
+publishing.availability.easy-to-try-first | + | A trial, demo or subscription let the player try it before paying. **The other side of `.undercut-by-subscript
+publishing.monetisation-practice.selling-while-broken | - | The studio is selling more content while the game the player already owns is still not working. **Sharper than
+publishing.ownership.owner-puts-players-off | - | Who owns the studio is itself a reason the player will not buy.
+publishing.ownership.unknown | ~ | Ownership raised, no verdict on it.
+game-design.session-flexibility.cannot-choose-when-joining-late | - | Joining a game in progress gives the player no say in their character, deck or loadout.
+game-design.session-flexibility.saved-runs-cannot-go-online | - | A run saved for later can only be continued alone, so saving and playing with people are exclusive.
+game-design.power-balance.options-feel-identical | - | Different choices produce the same result, so choosing does not matter. **Distinct from `.some-options-are-use
+publishing.dlc-and-editions.base-game-too-thin-for-dlc | - | Paid add-ons arrive while the game the player already bought is still short of content.
+game-design.game-feel.combat.shots-go-where-they-want | - | Where a shot lands is decided by spread rather than by aim, so the player's own accuracy stops mattering.
+game-design.game-feel.combat.feels-like-every-other-shooter | - | Nothing about how it plays tells it apart from any other game in the genre. **Nothing is wrong — that is the c
+game-design.enemy-design.always-knows-where-you-are | - | Enemies find the player without needing to see or hear them, so position and stealth stop mattering.
+community.social-features.no-private-games | - | No way to play with only the people the player chose.
+engineering.platform-support.built-for-another-platform | - | The game is shaped around a different platform's limits and the player's own is worse for it. **Distinct from 
+game-design.progression.achievements.completion-undone-by-updates | - | New achievements are added after a player finished the set, so work already done stops counting as finished.
+game-design.progression.achievements.unknown | ~ | Achievements raised, no mode given.
+game-design.new-player-experience.no-safe-place-to-learn | - | There is no practice space, so a first-timer's first game is a live match other people are depending on. **Dis
+game-design.new-player-experience.buried-in-setup-before-playing | - | The first session opens with settings, prompts and menus instead of with play.
+game-design.co-op-design.one-player-can-stall-everyone | - | Progress needs the whole team, so one player who stops moving holds the rest in place with no way around them.
+game-design.ui-ux.settings-only-in-a-config-file | - | An option the player needs is absent from the game's own menus and has to be edited in a file.
+engineering.stability.freezes-or-hangs | - | The game stops responding without closing. **Distinct from `.crashes-repeatedly`**, where the game exits — her
+engineering.matchmaking.rejoining-loses-what-you-had | - | A player who drops and comes back is returned without the gear or run progress they had. **Distinct from `.can
+localization.translation-quality.reads-badly | - | The text is in the player's language and the wording is still wrong, awkward or unclear. **Use when the review
+publishing.data-and-privacy.consent-wall-before-play | - | The player must agree to data collection terms before the game will start.
+game-design.power-balance.progression-outgrows-the-challenge | - | The player's accumulated power passes what the game asks of them, so late play stops requiring thought. **Dist
+game-design.progression.achievements.gated-behind-unreachable-content | - | Achievements are attached to content most players cannot complete, so the set is closed to them from the start
+game-design.ai-teammates.actively-harms-you | - | Bots do damage or get in the way: friendly fire, blocking your shot, blocking your view. **Distinct from `.use
+game-design.ai-teammates.bots-play-it-for-you | - | Bots are so effective the player's own contribution stops mattering. **The far side of `.helps-in-combat`.**
+game-design.ai-teammates.bots-forced-on-you | - | The player cannot play without bot companions, even when they want to play alone. **Distinct from `.available-
+community.social-features.can-remove-bad-players | + | A kick or report tool lets the group deal with a disruptive player. **Inverse of `.no-way-to-remove-bad-player
+game-design.power-balance.challenge-outgrows-the-player | - | The game's demands rise faster than the player's power, so late play is a losing slope. **The inverse of `.pro
+game-design.game-feel.controls.actions-trigger-by-themselves | - | The game performs an action the player did not ask for — grabbing a ledge, vaulting, sticking to cover.
+game-design.punishment-model.stakes-worth-the-risk | + | Failing costs enough to make play tense and not so much that losing is unbearable. **Distinct from `.quick-rec
+engineering.matchmaking.no-penalty-for-leaving | - | Nothing costs a player for abandoning a match, so matches break up constantly. **The inverse of `.punished-for
+audio.sound-effects.cues-sound-alike | - | The warning sounds exist and cannot be told apart, so the player cannot name the threat by ear. **Distinct fro
+publishing.dlc-and-editions.one-copy-covers-the-group | + | Only one player in the group needs to own the add-on for everyone to play it. **The other side of `.dlc-forced
+game-design.pacing.no-let-up | - | Pressure never stops, so there is no quiet to recover in or to feel the next wave arrive.
+game-design.pacing.rhythm-of-pressure-and-rest | + | Quiet and pressure alternate, and the quiet makes the pressure land.
+game-design.pacing.unknown | ~ | Pacing raised, no mode given.
+game-design.fairness.rules-change-without-telling-you | - | A rule the player learned stops applying in some situations and the game never says so.
+game-design.enemy-design.blocks-forward-progress | - | Enemies exist to stop the player advancing rather than to be fought, in a game whose levels ask them to advanc
+game-design.progression.build-and-customisation.does-not-belong-in-this-game | - | The player thinks the customisation layer is bolted on and the game would be better without it. **Distinct fro
+narrative.characters-writing.cast-politics-put-me-off | - | The player objects to the identity or politics of the cast rather than to how the characters are written. **Re
+art.effects-and-gore.effects-block-your-view | - | Blood, particles or explosions cover enough of the screen that the player cannot see the fight. **Distinct fro
+localization.language-availability.wrong-language-forced | - | The game plays in a language the player did not choose and cannot change.
+localization.language-availability.unknown | ~ | Language support raised, no mode given.
+game-design.co-op-design.cannot-plan-together-before-the-run | - | The team cannot see each other's choices before starting, so they cannot build to complement each other.
+game-design.ai-teammates.cannot-configure-your-bots | - | The player cannot choose the bot companions' loadout or build, even playing alone where it affects nobody else
+game-design.progression.unlock-pace.nothing-accumulates | - | Nothing carries forward between sessions, so playing builds towards nothing. **Inverse of `.satisfying-progres
+engineering.servers.cannot-connect | - | The player cannot reach the servers to start playing at all. **Distinct from `.frequent-disconnects`**, which 
+publishing.dlc-and-editions.add-ons-cost-more-than-the-game | - | The paid add-ons together cost more than the game itself did.
+narrative.world-and-setting.breaks-its-own-fiction | - | Something added contradicts the world the game set up, so it reads as a different game bolted on.
+game-design.game-feel.controls.stuns-take-control-away | - | A hit removes the player's input for a time, so they watch instead of play. **Distinct from `.unresponsive`**,
+marketing.expectation-management.store-page-hides-a-dealbreaker | - | The store page leaves out something that would change a buyer's decision — support ended, servers closing, an 
+marketing.expectation-management.unknown | ~ | Expectations raised, no mode given.
+game-design.ui-ux.cannot-hide-the-interface | - | No way to turn the on-screen display off, even for screenshots or video. **Distinct from `.cluttered-screen`**
+game-design.enemy-design.leaves-you-in-control | + | Enemy attacks pressure the player without taking their input away. **The positive counterpart of `game-feel.co
+publishing.dlc-and-editions.add-ons-outshine-the-base-game | ~ | The paid add-ons are better made than the game they extend. **Deliberately neutral** — the same fact reads as 
+game-design.progression.complexity.easy-to-grasp | + | The systems are simple enough to use straight away. **Distinct from `.rewarding-once-learned`**, which pays of
+game-design.co-op-design.needs-a-full-team | - | The game is not survivable below its full player count, so one missing player ends the run.
+game-design.level-design.no-memorable-moments | - | The levels hold nothing the player wants to go back for — no set piece, no place they remember afterwards. **D
+game-design.readability.cannot-spot-what-you-need | - | Items, objectives and interactive things do not stand out from the scenery, so the player hunts for them.
+community.population.dead-in-my-region | - | There are players, and not where this player lives, so their matches never fill. **Distinct from `.dead-game`*
+live-ops.abandonment.finished-not-abandoned | + | Updates stopped because the game was complete, and the player says so on purpose. **The same fact as `.updates
+game-design.ui-ux.a-choice-is-locked-at-first-launch | - | Something set on the first run — a name, a region, a profile — can never be changed afterwards.
+narrative.tone.tone-swings-around | - | The game switches between serious and joking without settling, so neither lands. **Distinct from `.takes-itsel
+game-design.ai-teammates.cannot-command-your-bots | - | There is no working way to tell bot companions where to go or what to do. **Distinct from `.cannot-configure-y
+game-design.progression.build-and-customisation.one-slot-is-compulsory | - | A build has a slot that must always hold the same thing, so it is not a choice. **Distinct from `.one-option-d
+engineering.matchmaking.playerbase-split-across-options | - | The remaining players are spread across too many modes, acts or difficulties, so no single queue fills. **Dist
+engineering.access.plays-offline | + | The game runs with no connection, so a bad line or a dead server does not stop play. **The inverse of `.requir
+game-design.readability.cannot-tell-friend-from-enemy | - | Teammates and enemies read the same in the moment, so the player shoots their own team. **Distinct from `.enem
+audio.sound-effects.cues-warn-you-in-time | + | Sound tells the player what is coming and from where, early enough to act on it. **Completes the set with `.no
+engineering.stability.rock-solid | + | Runs without crashing, freezing or losing progress. **The subject had six negative modes and no positive.**
+publishing.availability.left-the-subscription-service | - | The game was removed from a subscription the player's group was using, so they can no longer play together.
+narrative.story.cutscenes-are-badly-made | - | The cinematics are poorly paced, shot or directed, whatever the plot itself does. **Distinct from `.thin-or-fo
+engineering.access.stopped-working-on-my-setup | - | The game ran on the player's machine or setup before and no longer does, with nothing having changed on their 
+narrative.tone.wrong-tone-for-the-setting | - | The attitude the game takes does not match the world it built — too heroic, too light or too grim for what the
+game-design.pacing.spikes-out-of-nowhere | - | Pressure jumps from nothing to overwhelming with no build-up, so the player cannot read it coming. **Distinct 
+publishing.data-and-privacy.collection-is-normal-and-fine | + | The player read what is collected and judged it ordinary. **The same facts as `.collects-more-than-expected`, 
+game-design.pacing.nothing-happens-between-fights | - | The quiet stretches hold nothing to find or do, so the gaps between fights are dead time. **The third pacing f
+game-design.progression.achievements.a-fair-set-to-finish | + | The achievement set can be completed by playing normally, without grinding or luck. **The subject had two nega
+game-design.ui-ux.style-clashes-with-the-game | - | The interface looks like it belongs to a different game than the one it sits in. **Distinct from `.hard-to-nav
+game-design.progression.build-and-customisation.cannot-be-switched-off | - | A system the player would rather not use cannot be turned off, so it is compulsory rather than optional. **Dis
+game-design.progression.build-and-customisation.only-a-few-builds-are-viable | - | Of many possible builds only a handful survive the harder content, so a wide choice narrows to a short list. *
+game-design.game-feel.movement.no-modern-moves | - | The movement set lacks verbs the genre has since taken as standard — sliding, dodging, vaulting — so moving fe
+art.visual-direction.looks-machine-made | - | The player suspects the art was generated rather than authored, and says so. **Records the accusation, not whe
+game-design.punishment-model.lasting-damage-makes-you-careful | + | Harm that persists between levels gives the player a reason to avoid it, and they say so. **The same mechanic 
+game-design.game-feel.controls.input-tuning-fully-exposed | + | Every input-shaping setting — acceleration, aim assist, deadzone, response curve — can be changed or switched 
+game-design.readability.too-dark-to-see | - | The picture is so dark the player cannot make out the space or what is in it. **Distinct from `.threats-unclea
+engineering.matchmaking.no-backfill-for-leavers | - | When a player leaves, nobody can take the empty slot, so the rest of the run is played short-handed. **Distinc
+community.crossplay-and-platform-mix.slowest-platform-sets-the-pace | - | The whole group waits on whichever platform loads slowest, so mixed lobbies spend a large share of the session
+game-design.role-design.everyone-wants-the-same-character | - | One or two characters are strong or popular enough to be permanently taken, so late joiners never get to play 
+production.early-access.good-value-while-unfinished | + | Sold openly unfinished and already worth the money.
+production.early-access.grew-into-its-promise | + | The early access promise was kept: the finished game is what was described.
+production.early-access.unknown | ~ | Early access raised, no mode given.
+marketing.reputation.studio-earned-my-trust | + | The judgement extends past this game to the studio: the player says they will buy what these people make next.
+game-design.difficulty-tuning.harder-is-not-worth-it | - | The extra reward for a higher difficulty does not cover the extra cost, so the sensible play is to stay low. *
+game-design.role-design.a-role-is-missing | - | A role the player expected the roster to have does not exist. **Same shape as `modes.expected-mode-missing`, o
+game-design.co-op-design.loot-is-shared | + | Pickups count for everyone, so nobody competes with their own team for resources. **Inverse of `.teammates-can
+engineering.matchmaking.easy-to-drop-in-and-out | + | Players can join or leave a game in progress without breaking it. **Inverse of `.no-backfill-for-leavers` and 
+game-design.progression.unlock-pace.skill-can-beat-the-grind | + | A player who has unlocked nothing can still clear the hardest content by playing well. **Inverse of `.gated-be
+game-design.ui-ux.options-cover-what-you-need | + | The settings menus expose the display, audio and control options players actually want. **Inverse of `.setting
+marketing.reputation.beats-its-rivals | + | The reviewer names a competitor and says **this** game does it better. **Inverse of `.beaten-by-a-competitor`.
+game-design.progression.unlock-pace.gated-behind-real-world-time | - | Progress is limited by a clock rather than by play — a weekly reset, a daily cap — so playing more does not he
+engineering.servers.peer-to-peer-not-dedicated | - | Games run on a player's connection rather than a dedicated server, so quality depends on whoever is hosting. *
+marketing.promise-vs-reality.delivered-what-was-promised | + | The studio published a plan and kept to it. **The subject's first positive** — its two negatives stood alone f
+game-design.role-design.any-team-mix-works | + | The group can bring whatever roles they like, including four of the same, and still succeed. **Inverse of `.fo
+game-design.expressive-play.useless-actions-players-love | + | Actions with no mechanical effect are named as a highlight of the game.
+game-design.expressive-play.unknown | ~ | Non-functional actions raised, no verdict on them.
+production.early-access.does-not-feel-unfinished | + | The player says the polish is beyond what the early access label implies. **Distinct from `.good-value-while-u
+live-ops.patch-quality.made-it-better | + | A change improved something that already worked. **The missing inverse of `.made-it-worse`**; distinct from `.
+marketing.reputation.praise-is-undeserved | - | The reviewer argues the game's good reputation is better than the game. **The missing inverse of `.judged-unfa
+marketing.reputation.derivative-of-an-older-game | - | The reviewer says the design is lifted from an earlier game, and names it. **The design half of `art.visual-di
+game-design.enemy-design.killing-them-earns-nothing | - | Fighting produces no drop, currency or progress, so combat pays nothing back.
+art.visual-direction.look-undersells-the-game | - | The art puts buyers off a game they end up liking. **Distinct from `.forgettable-look`**, where nothing stays 
+game-design.world-interaction.cannot-leave-a-mark | - | Nothing the player builds or changes stays; the world resets and there is no place that is theirs.
+game-design.game-feel.camera.no-choice-of-view | - | The player cannot switch between first and third person and wants to.
+game-design.co-op-design.group-is-too-small | - | The maximum player count is below the size of the group that wants to play, so somebody is left out. **Distinc
+narrative.characters-writing.cast-is-too-narrow | - | The player asks for a roster that includes people it currently leaves out. **The request that `.cast-politics-
+publishing.dlc-and-editions.post-launch-content-is-free | + | New content after release costs nothing, and the player names it as a reason to trust the studio.
+accessibility.hearing.sound-only-information | - | Something the player must act on is carried by sound alone, with nothing on screen to replace it. **The divisi
+game-design.progression.unlock-pace.content-expires-if-you-miss-it | - | Content is open for a limited window and gone afterwards, so not playing costs the player something. **Distinc
+community.culture.the-fanbase-puts-me-off | - | The reviewer's objection is to the people who like the game rather than to the game. **The negative half of `.
+engineering.matchmaking.server-browser-tells-you-what-you-need | + | The list of games shows enough to choose one on purpose — what it is, how hard, how far away, how far in. **In
+community.developer-communication.open-about-what-it-is-doing | + | The studio explains its plans and its reasoning, so players can see where the game is going. **Distinct from `
+community.social-features.works-without-outside-tools | + | The game's own voice, text and markers are enough, so a group does not need Discord or a call to play it prope
+narrative.story.no-story-at-all | ~ | The game tells no story, and the reviewer records that. **Deliberately neutral** — the same fact is a relief t
+audio.voice-performance.everyone-sounds-the-same | - | The cast shares one voice or one delivery, so no character sounds like an individual. **Distinct from `.gratin
+narrative.world-and-setting.politics-put-me-off | - | The player objects to what the game's world takes for granted rather than to how it is written. **Records the 
+marketing.reputation.praise-is-earned | + | The reviewer argues the game's good reputation is accurate. **Completes the set**: `.judged-unfairly` and `.re
+marketing.expectation-management.let-me-try-before-buying | + | A demo, free weekend or trial let the player judge for themselves, and that decided the purchase. **The subjec
+game-design.progression.unlock-pace.nothing-left-to-chase | - | Everything worth unlocking is unlocked and the game sets no further goal, so play continues without a reason t
+engineering.stability.lost-progress-can-be-recovered | + | Progress the game lost can be got back, by a restore tool or by support. **The answer to `.progress-not-saved`
+accessibility.motor.a-job-that-does-not-need-aim | + | The game gives a player who cannot aim or react quickly a real job, so they can play alongside people who can.
+game-design.new-player-experience.newcomers-keep-up-with-veterans | + | Nothing a veteran has memorised lets them run ahead, so a first-timer plays the level rather than chasing some
+engineering.matchmaking.harder-settings-filter-the-players | + | Choosing a harder setting puts the player with people who are better at the game, so the difficulty acts as it
+community.social-features.the-host-can-remove-you-at-will | - | Whoever hosts can throw a player out for any reason, with no appeal. **The cost side of `.can-remove-bad-playe
+community.developer-communication.support-request-went-unanswered | - | The player asked for help with a specific problem and the thread went dead, leaving them with it. **Distinct f
+art.atmosphere.never-breaks-the-world | + | The game keeps the player inside its fiction — no cutscene, no menu pulled out of the world, no cut away betwe
+game-design.session-flexibility.can-pause-anytime | + | The player can stop mid-session and come back. **Inverse of `.cannot-pause`**, which stood alone.
+game-design.progression.cosmetic-rewards.nothing-to-show-for-it | - | There is no way to display what the player has done to anyone else — no title, badge or mark that others can s
+art.character-design.cast-is-off-putting | - | The player finds the characters unpleasant to look at, and says so. **Distinct from `.generic-cast`**, where t
+community.developer-communication.gets-there-before-players-ask | + | The studio adds what players wanted before they asked for it, so the wish list stays short. **The inverse of `
+game-design.difficulty-tuning.all-content-at-any-difficulty | + | Nothing is locked to a harder setting, so a player who wants an easy game still sees everything the game has. 
+game-design.co-op-design.scales-to-the-number-of-players | + | The game adjusts to however many people are in the session, so a short-handed group is not punished for it. **
+game-design.session-flexibility.you-choose-when-to-stop | + | The player decides when a run ends rather than the design deciding for them. **Distinct from `.good-in-short-s
+live-ops.patch-quality.the-game-keeps-changing-under-you | - | Changes arrive often enough that what the player learned, built or liked stops being true, so nothing settles.
+review.reviewer-wanted-a-neutral-option | - | The reviewer says the thumb misrepresents them and they would have chosen neutral if the store offered it. **D
+game-design.session-flexibility.cannot-save-and-come-back | - | A run has to be finished in one sitting; there is no way to put it down and return to it. **Distinct from `.ca
+game-design.pacing.a-game-you-can-unwind-to | + | Play is calm enough that the player uses the game to relax rather than to be tested, and says so. **Distinct f
+marketing.reputation.unlike-anything-else | + | The reviewer says nothing else plays like it. **The inverse of `.derivative-of-an-older-game`**, and the posit
+publishing.monetisation-practice.money-does-not-touch-the-grind | + | Paid items sit outside the earnable ones, so the studio has no reason to slow progression down in order to sel
+live-ops.patch-quality.polished-the-character-out-of-it | - | Successive fixes and refinements removed the rough edges the player liked, leaving something smoother and less
+game-design.co-op-design.uneven-playtime-is-fine | + | Friends who play different amounts can still play together; nobody is left out of step because the others play
+engineering.performance.quick-to-get-in | + | Loading takes little of the session. **Inverse of `.long-load-times`**, which stood alone.
+production.content-variety.the-generator-sometimes-breaks-the-run | - | Procedural generation occasionally produces a map that cannot be finished — a required item out of reach, a ne
+game-design.ui-ux.quality-of-life-is-looked-after | + | Small conveniences the player never asked for are present, and they notice. **Inverse of `.missing-quality-of-
+game-design.expressive-play.not-enough-to-mess-about-with | - | The player wants more of the non-functional actions the game offers — more emotes, more gestures, more to do i
+marketing.reputation.studio-politics-put-me-off | - | The player objects to the studio's public positions rather than to the game. **Records the objection, not whet
+narrative.world-and-setting.gets-its-subject-right | + | Someone with real knowledge of what the game depicts says it is accurate. **Distinct from `.world-worth-explor
+audio.voice-performance.voices-do-not-fit-the-characters | - | The delivery or accent does not match who the characters are meant to be. **Distinct from `.grating-or-repetit
+community.population.the-good-players-left | - | The skilled or committed part of the player base has gone and what remains is not who the player wants to play
+game-design.co-op-design.little-room-to-ruin-it-for-others | + | The design gives a hostile player almost nothing to work with, so griefing is difficult. **The answer to `frie
+review.written-for-a-reward | - | The reviewer says they wrote the review to earn something — an in-game item, a badge, a giveaway entry — rathe
+game-design.game-feel.movement.rewards-mastery | + | The movement has depth the player keeps finding, so getting better at moving is its own reward. **Distinct fro
+game-design.new-player-experience.non-gamers-can-play-it | + | Someone who does not play games picked it up and enjoyed it. **Distinct from `.easy-to-start`**, which is abou
+game-design.progression.unlock-pace.you-can-put-it-down-and-come-back | + | Time away costs nothing; there is no moving target to fall behind. **The answer to `.content-expires-if-you-mi
+game-design.replayability.worth-playing-without-a-reward | + | The play itself is the reason to keep going; the unlocks are not doing the work. **Distinct from `.keeps-pulli
+game-design.progression.unlock-pace.missed-content-comes-back | + | Content from a past event or season can still be obtained afterwards, so missing it costs nothing permanent. *
+accessibility.vision.causes-motion-sickness | - | Playing makes the player physically unwell — nausea, dizziness, headache. **The division's second mode that is
+game-design.game-feel.camera.narrow-view-is-a-handicap | - | Seeing less of the world — from a narrow field of view, an aspect ratio, or a setting that cannot be changed —
+game-design.progression.unlock-pace.currency-stops-being-worth-anything | - | Once everything has been bought, the money and materials the game keeps handing out have nothing to spend them
+game-design.difficulty-tuning.harder-pays-better | + | The higher setting pays out more than it costs, so raising the difficulty is a real choice worth making. **Inv
+game-design.progression.unlock-pace.you-cannot-choose-what-you-unlock | - | The game picks what opens up next, so the player cannot work towards the one thing they actually want. **Disti
+community.player-conduct.punished-for-playing-my-own-way | - | Other players remove or attack someone for playing in a way they disapprove of, with the run going fine. **Dis
+community.social-features.you-choose-who-can-join | + | The player sets who the session is open to — friends, strangers, or nobody. **Inverse of `.no-private-games`.*
+marketing.positioning.sold-as-a-different-kind-of-game | - | The store framing — genre labels, tags, trailer — describes a different experience from the one the player got
+production.craftsmanship.made-with-care | + | The player can see the effort in the detail and says so — polish, thoughtfulness, craft.
+production.craftsmanship.needs-more-work | - | The player says the game is not finished enough to recommend yet, without naming a specific defect.
+production.craftsmanship.unknown | ~ | Craft raised, no verdict on it.
+game-design.world-interaction.chores-instead-of-play | - | A required task is a wait rather than something to play — hold a button, stand still, watch a bar fill.
+game-design.level-design.too-linear | - | The route through is fixed where the player expected to choose their own way. **Distinct from `.badly-laid-out
+game-design.enemy-design.all-fought-the-same-way | - | The roster is large and every enemy has the same answer, so knowing more of them buys the player nothing. **Di
+game-design.co-op-design.teammates-cannot-share-progress | - | Objectives or rewards are set per player, so a group does not advance together and playing side by side gains 
+game-design.progression.unlock-pace.the-reward-only-buys-cosmetics | - | What the core activity pays out buys nothing that changes play, so the activity has no point beyond itself. **
+engineering.netcode.a-disconnect-loses-the-run | - | Dropping out of a session costs the player the work they had done in it, with nothing kept.
+accessibility.vision.too-bright-to-look-at | - | The brightness, contrast or colour choice physically hurts to look at. **Distinct from `.causes-motion-sicknes
+production.age-suitability.fine-for-younger-players | + | The reviewer says a younger player can play it, whatever small caveats they attach.
+production.age-suitability.not-for-younger-players | - | The reviewer names content — language, gore, sexual material — as a reason to keep a younger player away.
+production.age-suitability.unknown | ~ | Suitability raised, no verdict on it.
+publishing.monetisation-practice.players-buy-in-to-support-the-studio | + | The player buys optional paid items as a donation to the studio rather than for what the items give them. **Di
+game-design.progression.unlock-pace.time-gating-does-not-get-in-the-way | + | Progress is limited by a clock and the limit sits below what the player was going to play anyway, so it sets a
+marketing.discovery.found-it-through-someone-playing-it | ~ | The player names watching someone else play — a stream, a video, a friend's screen — as the reason they bought
+marketing.discovery.unknown | ~ | How the player found it is raised, no channel named.
+marketing.reputation.nominated-for-an-award-by-players | + | The reviewer says they voted for, nominated, or are campaigning for the game in a public award, and uses the r
+game-design.modes.no-pvp-is-a-feature | + | The reviewer names the **absence** of player-against-player modes as a reason the game is pleasant to be in. *
+game-design.new-player-experience.teaches-you-as-you-go | + | The game explains its own systems as they arrive, so the player learns by playing rather than by looking thing
+game-design.progression.unlock-pace.respects-your-time | + | The progression asks no more hours than the player wanted to give; nothing is stretched to fill time. **The mi
+game-design.game-feel.reward-moment.gives-a-dopamine-hit | + | The player names a physical reward from the moment the game pays out — a hit, a high, a rush, a compulsion the
+game-design.game-feel.reward-moment.gives-a-nostalgia-hit | + | The payout lands as a **return** rather than a rush — the player names an earlier time in their own playing li
+game-design.game-feel.reward-moment.unknown | ~ | The payout moment is raised, no verdict on how it lands.
+engineering.platform-support.cross-save-works | + | Progress follows the player between platforms, so buying or playing it somewhere else costs them nothing. **Th
+community.developer-communication.pays-players-for-their-work | + | The studio pays players for work it uses — community art, maps, mods, a contest with real money behind it. **D
+game-design.progression.build-and-customisation.cannot-change-how-you-look | - | The player names a **visual** detail of their character the game gives them no way to change — face, colour, b
+game-design.progression.build-and-customisation.cannot-change-how-you-sound | - | The player names their character's **voice** as something the game gives them no way to change.
+art.atmosphere.a-tool-undoes-the-mood | - | The game hands the player something that removes the atmosphere the game is built on — a light in a dark game,
+game-design.co-op-design.friendly-fire-makes-stories | + | Players can hurt each other, and they name that as a source of fun rather than a problem. **Distinct from `.li
+game-design.power-balance.the-challenge-keeps-up | + | A fully upgraded player still finds the hard settings hard, so power and difficulty stay in step. **The missin
+marketing.discovery.someone-gave-it-to-me | ~ | The player names a gift as how the game reached them. **Deliberately neutral**, like `.found-it-through-someon
+art.visual-direction.off-putting-look | - | The player finds the look actively unpleasant, not merely dull. **Distinct from `.forgettable-look`**, where n
+engineering.servers.player-hosted-so-it-outlives-the-studio | + | Sessions run on players' own machines rather than the studio's, so the player expects the game to keep working
+community.user-created-content.mods-made-it-worse | - | The player tried community content and found it worse than the base game, and warns others off it. **The missi
+game-design.difficulty-tuning.one-part-is-far-harder-than-the-rest | - | A single encounter, boss or section is harder than everything around it, so the run's difficulty is uneven **w
+game-design.co-op-design.dragged-into-content-above-your-level | - | Playing with a more advanced group puts the player into content they are not ready for, because the group pick
+engineering.stability.the-glitches-are-half-the-fun | + | The player names the game's defects as something they enjoy rather than tolerate. **Of the subject's eight exi
+community.crossplay-and-platform-mix.no-crossplay-at-all | - | Players on different platforms cannot play together, so the pool is split by what each person happens to own. 
+game-design.game-feel.camera.moves-more-than-you-asked-for | - | The camera adds motion the player did not ask for — shake, bob, recoil throw — and the settings do not remove 
+marketing.discovery.someone-recommended-it | ~ | A person the player knows talked them into it. **Distinct from `.someone-gave-it-to-me`** (a gift, no persuadi
+game-design.progression.build-and-customisation.you-can-change-your-mind | + | Build choices can be undone or reworked freely, so experimenting costs the player nothing. **The missing inver
+community.culture.unwritten-rules-players-keep | + | Players follow conventions the game never taught and does not enforce — an etiquette that makes sessions work.
+community.player-conduct.strangers-became-friends | + | The player names the game as where they met people they now count as friends. **Distinct from `.welcoming-comm
+game-design.co-op-design.the-run-falling-apart-is-the-fun | + | The player names the run going wrong — a swarm, a collapse, a panicked extraction — as the thing they came for
+game-design.progression.complexity.no-need-to-leave-the-game-to-learn-it | + | The game ships its own reference — a guide, a codex, a mission briefing the player can read — so learning it w
+accessibility.phobia.i-could-not-play-it | - | The content stopped the player. They name the trigger and say they could not continue.
+accessibility.phobia.a-setting-let-me-play-it | + | A toggle, slider or mode removed the barrier and they got in.
+accessibility.phobia.no-way-to-remove-it | - | They wanted the option and the game does not have one. **Distinct from `.i-could-not-play-it`**, which is the 
+accessibility.phobia.warned-me-first | + | Store page, launch screen or scene warning let them choose before they met the content.
+accessibility.phobia.no-warning-at-all | - | They met the content mid-session with no chance to opt out. **Separate from the settings pair because the reme
+accessibility.phobia.unknown | ~ | Raised, no mode given.
+accessibility.mental-health-portrayal.portrayed-with-care | + | A player who has the condition says the game got it right.
+accessibility.mental-health-portrayal.portrayed-as-a-stereotype | - | The depiction is one-dimensional, stigmatising, or ties the condition to villainy.
+accessibility.mental-health-portrayal.unknown | ~ | The portrayal is raised, no verdict on it.
+community.player-conduct.players-want-different-things-from-a-run | ~ | Teammates came for different things — clearing the objective, stripping the map for rewards, or messing about 
+marketing.discovery.came-through-a-subscription | ~ | The player names a subscription service as how the game reached them. **Deliberately neutral**, like the rest 
+marketing.reputation.best-in-its-category | + | The reviewer puts the game at the top of a genre or category — *"the best co-op game"*, *"the greatest horde s
+game-design.game-feel.movement.unreliable | - | A move the game **has** does not reliably do what the player asked — a ledge that will not grab, a vault that 
+game-design.new-player-experience.the-game-never-arrives | - | The player waits for the game to begin properly and it never does. **Distinct from `.slow-start`**, which name
+publishing.availability.not-sold-in-my-country | - | The game cannot be bought from where the player lives — delisted, region-locked, or gated behind an account ty
+game-design.difficulty-tuning.content-locked-to-harder-settings | - | Materials, rewards or upgrades can only be obtained on a difficulty above the one the player wants to play, so
+review.thumb-is-a-protest-vote | - | The reviewer says outright that the thumb records a protest about a business or platform decision rather than 
+live-ops.a-running-story-players-follow | ~ | ~ | The game runs a continuing, authored campaign — a war, a season-long event, a world that changes for every
+community.social-features.cannot-add-friends | - | The friend or invite system does not work, so the player cannot get the specific people they want into a sessi
+community.population.the-numbers-are-falling | - | The player says the population is dropping, **without saying it has dropped too low to play**. **Distinct from
+marketing.reputation.explained-by-naming-other-games | ~ | The reviewer describes what the game **is** by naming other games — *"X meets Y with a sprinkle of Z"* — and p
+community.developer-communication.players-know-the-staff-by-name | ~ | The reviewer names an **individual person** at the studio — a community manager, a designer, the person runnin
+review.i-never-write-reviews-and-wrote-this-one | ~ | The reviewer says outright that writing a review is out of character for them, and offers **that** as the argu
+review.the-controversy-did-not-change-my-verdict | ~ | The reviewer names an off-game dispute — a business decision, a platform row, a public argument — and says out
+marketing.reputation.the-best-one-since-a-named-game | + | The reviewer names a specific older game as the last one this good — *"the best co-op shooter since Left 4 Dea
+community.culture.the-fiction-organised-something-real | ~ | Players describe something that happened **outside the game** — a campaign, a protest, an organised action — u
+community.developer-communication.written-to-the-studio-not-to-the-buyer | ~ | The **substance** of the review is a message to the studio — a design proposal, an open letter, a request — ra
+live-ops.the-shared-war-counts-my-play | ~ | ~ | The game converts individual missions into a **visible total everyone shares** — a liberation percentage, 
+game-design.co-op-design.friendly-fire-is-just-a-cost | - | Players can hurt each other, it happens to this player constantly, and **they do not find it funny.** **The mi
+game-design.game-feel.combat.weapons-behave-as-you-would-expect | + | The player judges a weapon against **how the real object works** and says the game got it right — a chambered 
+storefront.the-refund-clock-counts-time-i-was-not-playing | - | The store's refund window is measured in recorded playtime, and the player says that clock ran while they were
+marketing.reputation.won-over-someone-who-avoids-the-genre | + | The reviewer says they normally **dislike or avoid games of this kind** — shooters, multiplayer, live service 
+live-ops.patch-quality.the-notes-do-not-match-the-patch | - | What the patch notes say and what the build does are different, **in either direction**: a note describing a c
+community.developer-communication.answered-in-character | ~ | The studio responds to a **real-world** event — a controversy, a protest, a review-bombing — using the game's 
+game-design.game-feel.reward-moment.the-payout-lands-well | + | The moment the game pays out is satisfying, and the reviewer names **no mechanism** for why. **Distinct from `
+game-design.game-feel.reward-moment.the-payout-lands-flat | - | The game builds to a payout — an extraction, a results screen, a level ending — and the moment produces nothin
+review.the-controversy-drove-me-away | - | The reviewer names an off-game dispute — a business decision, a platform row, a public argument between studio
+publishing.monetisation-practice.what-was-free-is-now-paid | - | Something the player already had for nothing is moved behind a payment. **Distinct from `.pay-affects-play`**,
+game-design.session-flexibility.a-clock-decides-when-you-leave | - | A timer inside the run ends it, so the player leaves on the design's schedule and not their own. **The inverse
+game-design.co-op-design.competing-for-pickups-is-the-fun | + | Players compete with their own team for shared pickups and name that competition as the point. **The missing p
+production.early-access.not-worth-it-yet | - | The reviewer says the game is not ready to buy and to come back later.
+publishing.dlc-and-editions.should-have-been-an-add-on | - | The player says the content does not justify a separate purchase and belonged in the game they already own.
+game-design.co-op-design.working-together-buys-you-nothing | - | Cooperating is allowed and pays too little to be worth doing, so players work side by side rather than togethe
+game-design.co-op-design.the-design-sets-players-against-each-other | - | The rules manufacture conflict between teammates who are trying to cooperate. **The missing negative of `.litt
+game-design.role-design.each-role-plays-its-own-way | + | Each character or class plays in its own way, and the reviewer says so. **The missing positive of `.roles-feel
+game-design.co-op-design.friendly-fire-enables-griefing | - | A player uses the ability to hurt teammates on purpose, to spoil their run. **Distinct from `.friendly-fire-is
+game-design.co-op-design.friendly-fire-unknown | ~ | The reviewer states that teammates can kill them and supplies no verdict.
+community.developer-communication.studio-stood-with-us-against-the-owner | + | The reviewer separates the studio from the company that owns or publishes it, and says the studio took the pla
+community.developer-communication.the-owner-says-the-game-is-failing | - | The reviewer reports that the publisher or owner has said the game is not working commercially, and offers tha
+game-design.pacing.every-run-starts-with-dead-time | - | A fixed stretch of nothing before every run begins — an entrance walk, a cutscene, a lobby ritual — that the p
+game-design.game-feel.controls.abilities-are-awkward-to-trigger | - | Using a character's own ability is fiddly: a key combination that is hard to hit under pressure, a wind-up bef
+marketing.discovery.came-free-with-hardware | ~ | The game reached the player bundled with a graphics card, a console or another piece of hardware rather than b
+production.launch-state.rushed-out-by-the-owner | - | The reviewer separates the studio from the company that owns or publishes it, and blames the **owner** for shi
+game-design.level-design.places-are-empty-until-their-mission-starts | - | A location holds nothing until the quest set there is active, so exploring ahead of the mission finds an empty
+game-design.level-design.an-area-closes-behind-you-for-good | - | Somewhere the player has been becomes permanently unreachable once the story moves on. **Distinct from `progre
+publishing.price.not-worth-it-at-any-price | - | The reviewer says the game is not worth having **even at a price of zero** — either because they paid nothing 
+engineering.performance.long-load-times | - | Waiting to get in takes a large share of the session.
+engineering.performance.demanding-hardware | - | Needs more machine than the player thinks it should.
+audio.mixing.clear-and-readable | + | You can hear what matters through everything else.
+audio.mixing.drowns-out-what-matters | - | Noise buries the sounds the player needs to hear.
+audio.mixing.unknown | ~ | Mixing raised, no mode given.
+publishing.preorder.regretted-preordering | - | Bought before release and wishes they had waited.
+publishing.preorder.preorder-was-worth-it | + | Bought before release and was glad of it.
+publishing.preorder.unknown | ~ | Pre-ordering raised, no direction given.
+localization.voice-localization.dubbed-well | + | Speech is localised and it works.
+localization.voice-localization.dub-is-poor | - | Localised speech is badly acted or badly matched.
+localization.voice-localization.no-dub-available | - | Only the original language is spoken.
+localization.voice-localization.unknown | ~ | Dubbing raised, no mode given.
+narrative.world-and-setting.world-worth-exploring | + | The fiction rewards paying attention to it.
+narrative.world-and-setting.setting-feels-thin | - | The world is a backdrop with nothing behind it.
+narrative.world-and-setting.unknown | ~ | The world raised, no mode given.
+game-design.session-flexibility.cannot-pause | - | No way to stop the game mid-session, even playing alone.
+community.social-features.good-tools-for-coordinating | + | Voice, pings or markers make working together easy.
+community.social-features.no-way-to-remove-bad-players | - | No kick or report, so a disruptive player cannot be dealt with.
+community.social-features.cannot-communicate | - | No usable way to talk to the people you are playing with.
+community.social-features.unknown | ~ | Social features raised, no mode given.
+engineering.performance.cannot-lower-settings | - | No way to turn the graphics down to make it run.
+game-design.new-player-experience.poorly-explained | - | The game never teaches its own systems, so the player never engages with them.
+game-design.progression.unlock-pace.progress-does-not-carry-over | - | Work put into a run is wiped at a boundary the player did not expect.
+engineering.platform-support.runs-well-on-my-platform | + | Works properly on the machine or handheld the player uses.
+engineering.platform-support.broken-on-my-platform | - | Specific to one OS, handheld or device, and it does not work.
+engineering.platform-support.no-cross-save | - | Progress does not follow the player between platforms, so they start again.
+engineering.platform-support.better-elsewhere | - | The same game runs noticeably better on another platform.
+engineering.platform-support.unknown | ~ | Platform raised, no mode given.
+publishing.monetisation-practice.no-microtransactions-at-all | + | Nothing is sold inside the game. Stronger than `.cosmetic-only`, which still has a shop.
+game-design.fairness.losses-feel-earned | + | When you die you can see what you did wrong.
+game-design.fairness.losses-feel-arbitrary | - | Deaths come from something the player had no way to prevent.
+game-design.fairness.one-section-is-unfair | - | A specific level or act is singled out as unreasonable.
+game-design.fairness.unknown | ~ | Fairness raised, no mode given.
+audio.sound-effects.sounds-out-of-place | - | A sound clashes with the moment it plays in. Distinct from `.weak-or-thin`, which is about force.
+engineering.matchmaking.no-server-browser | - | No way to see or choose a game; you are dropped into a random one.
+game-design.difficulty-tuning.too-hard | - | Harder than the player wanted, stated as a complaint rather than praise. **The inverse of `.too-easy`; `.satis
+game-design.ui-ux.cluttered-screen | - | Too much on screen at once; the display gets in the way of seeing the game.
+game-design.enemy-design.bosses-are-a-chore | - | A boss takes too long or has too many phases to be enjoyable. Distinct from `.forgettable-specials`, which is 
+marketing.reputation.falls-short-of-the-studios-earlier-games | - | The reviewer measures the game against **earlier games by the same studio, or by the publisher whose name is o
+marketing.reputation.lives-up-to-the-studios-earlier-games | + | The reviewer says the game holds the standard of the studio's earlier work. **Inverse of `.falls-short-of-the-
+community.developer-communication.went-silent-after-a-bad-launch | - | The studio has said nothing at all since a launch that went badly. **Distinct from `.ignores-feedback`**, whic
+community.developer-communication.admitted-the-game-was-bad | - | Someone responsible for the game — the studio, or the company that owns it — publicly said the game was bad, o
+game-design.power-balance.levelling-up-changes-nothing | - | Enemies scale with the player, so growing stronger buys nothing. **Distinct from `.challenge-outgrows-the-play
+game-design.co-op-design.more-players-makes-it-trivial | - | Bringing more people removes the challenge, because the game does not raise the difficulty to match. **Distinc
+engineering.matchmaking.no-public-matchmaking | - | There is no way to be matched with strangers at all: the only route into a session is a private invite. **Ever
+publishing.sale-dependency.play-it-on-the-subscription-instead | - | The reviewer sends buyers to a subscription service rather than the store: play it, do not own it. **Distinct 
+game-design.level-design.more-than-one-way-in | + | A place can be entered or solved more than one way, so the player picks the route. **Distinct from `.well-buil
+marketing.reputation.only-the-studio-name-is-the-same | - | The reviewer says the people who made the studio's earlier games have left, so the name on the box no longer m
+game-design.level-design.only-one-way-to-play-it | - | Every situation has the same answer, so the player never picks an approach. **Inverse of `.more-than-one-way-i
+community.developer-communication.talks-but-never-about-the-problem | - | The studio keeps posting — social media, quizzes, boilerplate support replies — and says nothing about the thi
+publishing.price.never-discounted-despite-its-state | - | The list price has not moved even though the game is unfinished or broken, and the reviewer reads that refusal
+game-design.co-op-design.only-the-host-keeps-the-progress | - | Playing in someone else's session advances the host's campaign and not the guest's, so a guest's world progres
+game-design.co-op-design.cannot-give-a-teammate-your-spare | - | There is no way to hand over or drop an item, so a pickup a teammate needs and you do not is sold or wasted. *
+live-ops.abandonment.the-owner-pulled-the-plug | - | The reviewer names the company that owns the studio as the party that ended support, or reports the studio bei
+game-design.game-feel.controls.aim-sensitivity-cannot-be-tuned | - | The aim settings are missing or too coarse to use — no aim-down-sights multiplier, a slider that only moves in
+marketing.expectation-management.low-expectations-made-it-better | + | The reviewer says the game's bad reputation set the bar so low that the game cleared it, and names that as why
+game-design.punishment-model.dying-costs-you-money | - | Dying charges the player currency — a revive fee, a percentage of what they carry. **Every other mode here pri
+community.player-conduct.players-teach-each-other-the-fix | + | Reviewers use the review itself to pass on a workaround — a launch trick, a setting to disable — so the next b
+community.player-conduct.attacked-for-writing-the-review | - | The reviewer is mocked or harassed in their own review's comments for the verdict they gave. **Distinct from `
+game-design.difficulty-tuning.the-final-fight-is-a-pushover | - | The encounter the game has been building towards is easier than what came before it, so the climax lands as an
+game-design.role-design.the-abilities-are-no-fun-to-use | - | The characters' own powers are dull to press, across the roster rather than in one case. **Distinct from `.rol
+engineering.stability.one-setting-causes-the-crashes | - | The player finds a **single graphics or engine option** behind the crashing, and turning it off stops it. **Di
+review.calls-it-average-rather-than-good-or-bad | ~ | The reviewer's whole verdict is that the game is **middling** — *"not bad, not good"*, *"mid"*, *"aggressively
+production.scope-mismatch.the-potential-is-still-there | + | The reviewer says the design underneath works and what is missing is content that can still arrive — *"all the
+production.early-access.never-grew-into-its-promise | - | The reviewer came back after time in early access, or after the 1.0 release, and says the game did not become 
+community.developer-communication.working-on-the-wrong-thing-first | - | The reviewer accepts that what the studio built is worth having and says it was built in the wrong order — bre
+marketing.discovery.i-bought-it-for-other-people | ~ | The reviewer bought copies for other people — gifts, a group they wanted to assemble — and offers that as evid
+marketing.reputation.beaten-by-games-it-does-not-name | - | The reviewer says other games do this better and **names none of them**, so the reader cannot go and look. **D
+production.content-amount.ends-before-it-wears-out | + | The game stops while the player still wants more, and the player names the restraint as a virtue. **Distinct f
+publishing.availability.unknown | ~ | Where and how the game can be bought is raised, and no mode covers what was said. **The subject had four modes
+game-design.power-balance.the-tool-everyone-carries-has-no-job | - | A tool the game issues to every player does almost nothing, so it is carried and never used. **Distinct from `
+game-design.punishment-model.dying-costs-nothing | - | Failing carries no cost the player can name, so nothing in the fight is at stake and they stop caring about it
+marketing.discovery.nobody-ever-heard-of-it | - | The reviewer says the game’s problem is that it never reached anyone — no marketing, no press coverage, no bra
+art.animation.the-faces-do-not-move | - | The characters’ faces stay still while they speak or react, so the cast reads as dead however good the writing
+community.social-features.only-the-studio-chat-fills-a-lobby | - | The game’s own matchmaking does not produce a full session, so the reliable route to a team is joining the stu
+game-design.difficulty-tuning.the-director-scales-to-how-you-are-doing | ~ | The game moves the difficulty under the player according to how well they are playing, rather than holding the
+community.developer-communication.disputes-the-player-count | - | The studio publicly contradicts a player-count figure the player can go and check, and the argument becomes th
+review.grades-it-against-the-studios-size | ~ | The reviewer says outright that they are judging the game against what the team behind it could reasonably man
+review.kept-as-a-ledger-of-what-the-studio-fixed | ~ | The review is maintained over time as a running record of the studio’s answers — complaints struck through as 
+accessibility.hearing.the-subtitles-do-not-match-the-speech | - | Subtitles or closed captions exist and are wrong — mistimed, misspelled, or not what was said — so a player wh
+production.craftsmanship.the-writing-was-never-edited | - | The game’s own text, in the language it was written in, carries typos and errors nobody corrected — and they s
+game-design.game-feel.combat.no-melee-attack | - | The player names the absence of a close-range attack, so an enemy already on top of them can only be shot. **D
+game-design.level-design.the-campaign-just-stops | - | The campaign ends with no climax — no final push, no escape, no last stand; it simply finishes. **Distinct fro
+review.unknown | ~ | Something about **how the review was written** is the subject, and no mode covers it. **The division held twel
+game-design.level-design.nothing-in-the-place-says-what-happened-here | - | The level carries no trace of the event the game is about — no bodies, no signage, no damage that explains its
+game-design.role-design.you-do-not-get-to-choose-who-you-play | - | The game assigns the character or the side rather than letting the player pick — including alone, where nobody
+game-design.ai-teammates.takes-over-when-you-step-away | + | A bot drives the player’s own character while they are away and hands it back when they return, so the rest of
+community.user-created-content.mods-are-expected-to-fill-the-gaps | - | The reviewer reads the studio as leaning on the workshop to supply content the game itself should have shipped
+production.craftsmanship.reads-as-machine-made | - | The reviewer says the game lands as generated rather than authored — the look, the dialogue, or both. **Record
+community.playing-with-friends.it-is-how-i-play-with-my-family | + | The player names a family member — a partner, a parent, a child, a grandparent — as the person they play it wi
+marketing.discovery.came-in-a-bundle | ~ | The player names a bundle as how the game reached them. **Deliberately neutral**, like the rest of `discovery.
+game-design.level-design.the-spaces-are-scaled-too-big | - | Rooms and corridors are built at a scale that dwarfs the player, so the same number of enemies and props reads
+marketing.expectation-management.the-mismatch-was-the-buyers-fault | ~ | The reviewer describes an expectation the game did not meet and says **the expectation was wrong, not the pitc
+marketing.discovery.installed-it-to-claim-an-outside-reward | ~ | The player says they installed the game to collect a reward from **somewhere else** — a chat-platform quest, a
+publishing.monetisation-practice.what-you-buy-is-a-random-draw | - | Money buys a **chance** at an item rather than the item — a gacha pull, a loot box, a randomised crate. **Dist
+art.character-design.the-cast-is-built-to-titillate | ~ | The reviewer names sexualised character design as a deliberate selling point — costumes, body physics, framing
+publishing.monetisation-practice.you-cannot-work-out-what-things-cost | - | The player cannot compute the price of anything — too many currencies, conversion rates the shop will not show
+game-design.progression.unlock-pace.you-must-beat-a-time-to-move-on | - | Progress is gated on finishing a mission **inside a time target** rather than on finishing it, so the player r
+game-design.progression.unlock-pace.gated-behind-a-different-mode | - | Progress in the mode the player wants is only released by clearing a **different** mode. **Distinct from `.gat
+review.says-the-other-reviews-are-not-about-the-game | ~ | The reviewer claims part of the review pool was written for a reason other than the game - a reward quest, a b
+accessibility.vision.no-colour-blind-support | - | The game offers no colour-blind option and the player names the absence. **Distinct from `.too-bright-to-look-
+accessibility.vision.colour-blind-support-works | + | The colour-blind options exist and do the job. **Inverse of `.no-colour-blind-support`. Closes gap 42.**
+game-design.ui-ux.changing-a-setting-does-nothing | - | The option is there, the player sets it, and the game carries on as before. **Distinct from `.missing-quality-
+production.craftsmanship.reads-as-a-cheap-free-to-play-template | - | The reviewer places the game in a category of cheap, disposable free-to-play products rather than naming a def
+live-ops.abandonment.expects-it-to-be-switched-off | - | The player says they will not invest time or money because they expect the game to be shut down. **Distinct fr
+narrative.world-and-setting.politics-drew-me-in | + | The reviewer names the game's political content, **or its absence**, as a reason they like it. **Inverse of `.
+game-design.ui-ux.does-not-support-my-screen-shape | - | The game does not adapt to the player's display, so it renders wrongly on it - black bars, offset interface, s
+game-design.ui-ux.reward-popups-get-in-the-way | - | A run of prompts to collect rewards, passes or currencies stands between the player and playing, and each one 
+publishing.data-and-privacy.suspected-of-spying | - | The player reports behaviour they cannot explain - a permission prompt at install, background processor use, a
+review.the-thumb-will-flip-when-one-thing-is-fixed | ~ | The reviewer states outright that the thumb is conditional and names the single fix that would reverse it - *"
+publishing.monetisation-practice.asks-to-be-sold-it-outright | - | The reviewer offers to pay a plain price and asks the studio to drop the free-to-play model - *"just make skin
+audio.voice-performance.badly-acted | - | The delivery itself is poor - flat, without emotion, or plainly badly performed. **The subject's fourth negati
+review.copied-word-for-word-from-another-review | ~ | The review's text is taken from another review of the same game, whether or not the copier says so. **Records 
+publishing.data-and-privacy.asks-for-a-credit-card-just-to-start | - | The player is asked for payment details as a condition of getting into the game - age verification, account se
+publishing.availability.my-country-is-missing-from-the-in-game-list | - | A list inside the game - a country picker, a region selector - omits the player's country, and that omission c
+marketing.discovery.came-for-a-crossover-with-something-i-already-like | ~ | The player names a crossover - a character, skin or event borrowed from a series, film or game they already fo
+publishing.data-and-privacy.anti-cheat-runs-at-kernel-level | ~ | The reviewer names how deep into their machine the anti-cheat installs - kernel level, ring 0, a driver - and 
+marketing.reputation.the-crossover-partner-should-not-have-lent-its-name | - | The reviewer addresses the **owner of the borrowed series**, not the studio, and says lending the name to this
+live-ops.patch-quality.replaced-the-core-loop-with-a-different-one | - | An update swapped the shape of play itself - the run structure, the session format, the thing the player came 
+production.launch-state.the-test-build-ran-better-than-the-release | - | The player played a demo, beta or test build, says it ran or played better than the shipped game, and offers t
+community.developer-communication.the-updates-are-not-in-a-language-i-can-read | - | The studio publishes its patch notes, update posts or support replies only in its own language, so a player wh
+narrative.world-and-setting.faithful-to-the-source-it-adapts | + | The game is built on a book, film or series the player already knows, and they say it gets that source right -
+narrative.world-and-setting.does-not-feel-like-the-source-it-adapts | - | The game is built on a book, film or series the player already knows, and they say it fails to be that thing -
+game-design.progression.cosmetic-rewards.too-few-to-choose-from | - | There are not enough cosmetic items in the game for the player to pick from. **The subject's other three modes
+engineering.matchmaking.bots-fill-the-slots-before-people-can-join | - | The search for other players runs on a short timer, and when it expires the game puts AI in the empty seats an
+review.warns-they-are-a-fan-of-the-source | ~ | The reviewer says outright that they are a fan of the book, film or series the game is built on, and offers th
+review.the-thumb-was-flipped-from-its-first-verdict | ~ | The reviewer says outright that this thumb reverses a verdict they gave earlier, and the review now records th
+community.social-features.getting-your-friends-in-works | + | The route for putting specific chosen people into a session does its job - a friend list, an invite, a store o
+game-design.progression.build-and-customisation.most-classes-are-shut-out-of-a-weapon-type | - | A whole category of gear belongs to one class, so every other class is barred from it and their loadout is nar
+game-design.ui-ux.does-not-show-what-is-left-to-earn | - | The game never lists the weapons, perks or rewards still waiting to be unlocked, so the player cannot see how 
+marketing.reputation.plays-as-revenge-for-a-game-that-frightened-me | + | The reviewer names a game that made them the prey, and recommends this one because it hands the same fiction b
+game-design.difficulty-tuning.harder-only-changes-the-numbers | - | Raising the difficulty adds no new enemy, place or rule - it only moves values: more enemy health, more enemy 
+game-design.enemy-design.enemies-arrive-in-the-same-places-every-run | - | The attacks come from the same positions in the same order on every run, so the player learns the script and n
+game-design.enemy-design.no-boss-to-fight | - | The game has no boss encounter where the player expected one, so the campaign or the mode has no peak to build
+game-design.level-design.exploring-off-the-path-finds-nothing | - | The level invites the player to look around - side rooms, dead ends, places that read as holding a secret - an
+community.user-created-content.the-studio-blocks-mods | - | Mods for the game exist or would work, and a decision by the studio stops the player using them - multiplayer 
+game-design.progression.build-and-customisation.only-one-build-can-be-saved-at-a-time | - | The game keeps one saved build or loadout per character, so a player with two ways to play must rebuild by han
+game-design.ai-teammates.no-personality-of-their-own | - | The bot companions are competent or not, and either way they are nobody - no voice, no quirks, no character th
+narrative.world-and-setting.only-worth-it-if-you-already-love-the-source | - | The reviewer says the game repays a fan of the book, film or series and tells anyone who is not one to stay aw
+game-design.enemy-design.they-come-one-at-a-time-instead-of-swarming | - | The enemies arrive in a queue or a straight line rather than closing from several sides, so a fight the game s
+community.social-features.the-missing-chat-keeps-it-civil | + | The reviewer names the **absence** of voice or text chat as the reason the game is pleasant to be in, because 
+narrative.world-and-setting.none-of-the-sources-characters-are-here | - | The game adapts a book, film or series and brings none of its people with it, so the player recognises the wor
+community.crossplay-and-platform-mix.crossplay-made-the-connection-worse | - | Turning on play across platforms cost the player stability rather than players - lag, audio faults, crashes, d
+game-design.difficulty-tuning.the-lower-settings-are-not-worth-playing | - | The game's interest sits at the top of the difficulty ladder, and everything below it is a formality - no tact
+marketing.reputation.the-licence-fails-every-time-it-becomes-a-game | - | The reviewer says games made from this book, film or series have a record of being bad, and reads this one as 
+art.atmosphere.your-own-character-gives-the-scare-away | - | A scripted line from the player's own character announces a threat before the player could have seen it, so th
+narrative.world-and-setting.the-additions-do-not-belong-in-the-source | - | The adaptation adds weapons, classes or items the book, film or series never had, and the player names them as
+game-design.world-interaction.a-button-prompt-stands-in-for-play | - | A scripted button prompt takes the place of playing - a quick time event to escape a grab, a timing minigame t
+community.player-conduct.the-review-teaches-you-how-to-play | + | The reviewer spends part of the review teaching the game's own rules - a control the game never mentions, a co
+engineering.netcode.a-disconnect-burns-what-you-spent | - | Dropping out consumes a limited item the player had already committed to the run - a challenge card, a key, a 
+community.user-created-content.only-playable-after-modding | - | The player says the game did not work for them until they installed community content, and names what the mods
+game-design.enemy-design.the-best-enemy-barely-appears | - | The roster holds an enemy the player rates highly and the game puts it in one or two places, so the idea is sp
+game-design.pacing.the-pace-leaves-no-time-to-explore | - | The mission moves faster than the player can look around, so optional rooms, secrets and collectibles go unsee
+game-design.progression.build-and-customisation.every-class-can-use-every-weapon | + | No weapon or attachment belongs to one role, so anything the player unlocks is usable on every character they 
+engineering.bugs.the-audio-breaks-and-stays-broken | - | A sound fault starts and runs for the rest of the session - a weapon that loops its firing sound forever, or o
+production.craftsmanship.looks-assembled-from-bought-parts | - | The reviewer says the game reads as store-bought pieces put together rather than made - a marketplace plug-in,
+review.the-claim-comes-from-another-review | ~ | The reviewer states outright that a fact in their review was learned from someone else's review rather than fr
+game-design.ui-ux.turning-the-display-off-made-it-better | + | The player switched part of the on-screen display off and says the game improved for it - better aim, more atm
+marketing.promise-vs-reality.the-promise-was-quietly-deleted | - | The studio removed the record of a commitment - edited posts, pulled marketing, scrubbed a store page - before
+game-design.enemy-design.you-cannot-learn-where-they-come-from | + | Replaying does not teach the player where the attacks will start, so the same level keeps its tension after ma
+marketing.reputation.the-design-is-a-decade-behind-the-genre | - | The reviewer says the game would have been fine years ago and that the genre has moved past it, naming the tim
+publishing.availability.a-third-party-key-site-is-cheaper | ~ | The reviewer names a key reseller as where the game should be bought, or where they bought it. **Deliberately 
+review.rules-out-their-own-connection-first | ~ | The reviewer names their own hardware or line - gigabit, wired, fibre, no trouble in other games - to close of
+game-design.progression.unlock-pace.every-unlock-is-a-sideways-swap | ~ | What the player unlocks changes a build rather than strengthening it - every gain is paired with a loss, and n
+narrative.world-and-setting.an-iconic-thing-from-the-source-is-missing | - | The adaptation leaves out a thing the source is known for - a vehicle, a machine, a set piece the audience exp
+game-design.co-op-design.the-small-team-is-the-right-size | + | The reviewer names a team smaller than the genre standard as a good thing - tighter, tenser, easier to fill. *
+community.playing-with-friends.the-bots-are-better-company-than-the-strangers | - | The player says they would rather take the AI companions than the people matchmaking gives them. **Distinct fr
+engineering.performance.no-modern-graphics-options | - | The game ships without the current generation's rendering options - upscaling, ray tracing, frame generation -
+community.user-created-content.a-mod-adds-a-mode-the-studio-never-shipped | + | Community software gives the game a way to play it that was never built - virtual reality, a first-person view
+publishing.dlc-and-editions.the-paid-tier-did-not-cover-what-came-next | - | The player bought the largest edition or the season pass and the content that followed was outside it. **Disti
+game-design.world-interaction.the-people-in-the-hub-do-nothing | - | The place between missions is populated and inert - crew standing about, no conversation to start, no animatio
+narrative.world-and-setting.carries-over-the-part-of-the-source-i-dislike | - | The adaptation is faithful to material from the book, film or series that **this** player rejects, and they na
+game-design.ai-teammates.the-bots-have-no-role-of-their-own | - | The bot companions do not fill a class or a job - they are one fixed kit, or none at all - so the team the gam
+game-design.ai-teammates.the-game-itself-warns-you-off-its-bots | - | The game tells the player not to rely on its own AI companions above a certain difficulty. **The studio agreei
+review.says-to-watch-it-rather-than-play-it | - | The reviewer tells the reader to watch a playthrough instead of buying, usually because the story is the only 
+production.content-variety.the-maps-should-have-been-generated | - | The reviewer says the hand-built levels are the ceiling on the game and names procedural generation as the fix
+community.crossplay-and-platform-mix.crossplay-skips-the-platform-i-bought-it-on | - | Play across platforms exists and does not reach the store this player bought the game from, so they are outsid
+storefront.measured-against-the-refund-window | ~ | The reviewer weighs the purchase against the platform's refund rule - telling the reader to test the game insi
+publishing.monetisation-practice.free-items-still-sold-through-a-shop | - | Something the game gives away for nothing still has to be bought from a shop, one at a time, and often at rand
+narrative.story.no-cutscenes-to-carry-the-story | - | The game has a story and no cinematics to deliver it, so what happens between missions is carried by radio cha
+review.promotes-the-reviewers-own-curator-page | ~ | The review carries a link or an appeal to the reviewer's own Steam curator channel. **Deliberately neutral** -
+review.answers-a-claim-made-in-another-review | ~ | The review engages a specific claim from the review pool - conceding it, rebutting it, correcting its reasonin
+narrative.world-and-setting.an-iconic-thing-is-there-and-you-never-use-it | - | The adaptation puts a thing the source is known for **in front of the player** and never lets them use it, fig
+game-design.progression.achievements.only-repetition-completes-the-set | - | Finishing the achievements requires playing the same content again several times rather than doing anything ne
+engineering.matchmaking.cannot-join-a-match-in-progress | - | A session that has already begun is closed to everyone, so the only way in is to be there when it starts. **Di
+audio.voice-performance.well-acted | + | The delivery itself is good - the reviewer praises the performance rather than the lines. **The missing invers
+narrative.world-and-setting.the-monster-is-no-longer-frightening | - | The game adapts a book, film or series whose creature is the thing people remember being afraid of, and this v
+marketing.reputation.i-want-a-sequel-to-this-one | + | The reviewer's verdict lands on wanting **this game again** - naming the sequel, asking for one, or saying the
+game-design.enemy-design.the-enemies-fight-each-other | ~ | The game's hostile sides attack each other as well as the player, so a fight can be watched or used rather tha
+narrative.world-and-setting.faithful-to-one-part-of-the-series | ~ | The source is a series with more than one instalment, and the reviewer names **which one** the game is built o
+game-design.game-feel.controls.you-have-to-switch-input-device-to-play-well | - | The reviewer says the game is materially harder on one input device than another and tells the reader which on
+engineering.performance.one-setting-causes-the-slowdown | - | The player finds a **single graphics or engine option** behind the poor framerate, and turning it down fixes i
+review.says-the-recorded-playtime-is-wrong | ~ | The reviewer states outright that the hours Steam shows for them are not the hours they played, in either dire
+game-design.level-design.the-spaces-are-scaled-too-small | - | The arena is too tight for the game's own verbs - there is no room to flank, dodge, or use the camera the game
+review.says-how-much-of-the-genre-they-have-played | ~ | The reviewer states their own record in the genre before giving a verdict - how many of the comparable games t
+community.developer-communication.replied-to-my-review | ~ | The studio answered **this review, on the store page**, and the reviewer says so. **Neutral, because the fact 
+engineering.bugs.you-fall-through-the-floor | - | The player's own body passes through a surface that should hold it - falling through the floor or the map, sin
+game-design.game-feel.combat.the-lock-on-holds-the-body-not-the-weak-point | - | The game's assisted targeting takes the shot away from where the player aimed it and puts it on the centre of 
+game-design.ui-ux.cannot-skip-what-the-game-plays-at-you | - | The game holds the player through something with no input to give - a cutscene, an emote, a landing sequence, 
+game-design.progression.build-and-customisation.the-class-decides-your-gender | - | Picking a role fixes the character's sex, so a player who wants a role and an identity cannot have both. **Dis
+review.discloses-a-free-copy-from-the-studio | ~ | The reviewer states that the studio or publisher gave them the game, usually as a review key. **Neutral: it is
+game-design.progression.achievements.do-not-track-what-you-actually-did | - | An achievement stays locked after the player did the thing, or unlocks when they did not. **The subject had fo
+storefront.played-it-for-the-platform-reward | ~ | The reviewer says they bought or kept playing the game for something the **platform** awards - a badge, tradin
+game-design.game-feel.combat.the-scenery-swallows-your-shots | - | A shot that visibly should pass is stopped by the level - a fence, a rail, a lamp post, an ankle-high ledge, o
+review.used-a-cheat-to-get-through-it | ~ | The reviewer states that they modified the game - a trainer, a memory editor, an edited save - to get past som
+marketing.promise-vs-reality.the-content-is-visibly-censored | - | The game draws the hiding on screen - a black void, a blur, a cut - and the reviewer names **the act of hiding
+game-design.punishment-model.the-checkpoint-is-single-use | - | A checkpoint, skip or shortcut the player earned is consumed when used, so the second failure costs more than 
+accessibility.memory-and-attention.relies-on-remembering-with-no-text | - | The game asks the player to remember what something is or does, and puts nothing on screen to say so - an icon
+accessibility.memory-and-attention.unknown | ~ | Memory or mental load raised, no mode given.
+community.player-conduct.strangers-team-up-instead-of-fighting | + | In a game where the other players could attack you, the reviewer says most of them choose to cooperate, trade,
+community.player-conduct.a-third-player-swoops-on-your-fight | - | While the player is busy with one fight - usually with the machine enemies - another player arrives and takes 
+community.player-conduct.players-camp-the-exit | - | Other players wait at extraction or spawn points to kill whoever arrives. **Distinct from `.trolls-and-griefer
+engineering.matchmaking.dropped-into-a-match-already-underway | - | The player is placed into a session that has been running for some time - the map already looted, the exits al
+community.player-conduct.says-friendly-then-shoots-you-in-the-back | - | Another player signals that they are friendly - says it in voice chat, waves, teams up for a while - and then 
+community.player-conduct.not-knowing-who-to-trust-is-the-thrill | + | The reviewer says that never being sure whether the next player will help them or kill them is the reason the 
+community.developer-communication.does-nothing-about-the-cheaters | - | The reviewer says cheating is visible and the studio does not ban, or bans the wrong people. **Distinct from `
+game-design.replayability.the-runs-turn-into-stories-you-retell | + | The reviewer names the game as a maker of stories - things that happened in a run that they tell afterwards - 
+engineering.bugs.you-get-stuck-on-the-scenery | - | The player's own body snags on the level - a rock, a ledge, *"nothing"* - and cannot move, and the game gives 
+audio.voice-performance.the-voices-are-generated-and-it-shows | - | The reviewer says the voice work was made by a machine and that they can hear it. **Distinct from `.badly-acte
+engineering.matchmaking.smaller-teams-are-matched-against-full-squads | - | A duo or a solo is put into the same match as full three-player squads, and the reviewer names the numbers as 
+community.social-features.no-shared-place-between-runs | - | The space between runs is a menu, and the reviewer wants a place - somewhere players can walk, meet, and be se
+engineering.matchmaking.sorted-by-how-you-play-and-it-works | + | The game matches players by how they behaved in past matches - how often they attacked other players - rather 
+community.player-conduct.the-players-turned-hostile-after-launch | - | The reviewer says the other players were cooperative in the launch window and are not now - shoot-on-sight has
+review.repeats-a-copied-meme-text | ~ | The review is a text that circulates across many games' review pages word for word - a copypasta - with the ga
+game-design.co-op-design.the-shared-threat-turns-strangers-into-allies | + | A danger from the world - a big machine, a boss, a horde - makes players who could fight each other stop and w
+engineering.access.banned-with-no-reason-given | - | The player's account was suspended or banned, they say they did nothing, and nobody told them what tripped it.
+community.developer-communication.support-replied-with-a-form-letter | - | The player asked for help and got an answer that was written for nobody - a template, a copy-paste, a message 
+game-design.level-design.players-spawn-on-top-of-each-other | - | Where the game puts arriving players is the complaint - they appear beside or behind players already there, so
+game-design.ui-ux.managing-the-inventory-is-a-chore | - | Sorting, stacking, storing and restocking what the player carries takes time they resent - the stash is always
+engineering.matchmaking.wants-players-sorted-by-how-they-play | - | The reviewer asks for matchmaking that separates players by conduct - who shoots first, who hunts players, who
+narrative.world-and-setting.the-rules-contradict-the-story | - | What the game rewards the player for doing is the opposite of what its own fiction says the player is there to
+audio.sound-effects.cannot-tell-above-from-below | - | The sound places a source left, right, near or far and not up or down, so the player hears someone clearly and
+game-design.co-op-design.wants-a-price-on-attacking-other-players | - | The reviewer asks for a rule that makes attacking another player cost something - a rogue flag, a bounty, a re
+game-design.punishment-model.too-afraid-to-use-the-good-gear | - | The cost of dying is high enough that the player keeps their best equipment in the stash and plays with the ch
+game-design.power-balance.the-gear-gap-decides-the-fight | - | In a fight between players, whoever brought the higher tier of equipment wins, and the reviewer names the tier
+game-design.world-interaction.interacting-freezes-you-and-that-is-when-you-die | - | Looting, reviving, healing or opening something holds the player in an animation they cannot break, and the re
+community.player-conduct.slurs-and-abuse-over-voice-chat | - | Other players use the game's own voice or text channel to hurl slurs and hateful insults at this player, and t
+engineering.matchmaking.shooting-back-once-sorts-you-with-the-killers | - | The game sorts players by how often they attack other players, and the reviewer says it cannot tell defence fr
+game-design.progression.unlock-pace.the-optional-reset-is-not-worth-what-it-costs | - | The game offers a voluntary wipe - a prestige, an expedition - that trades everything the player built for a s
+game-design.power-balance.whoever-shoots-first-wins | - | A fight between players is over before the second player can respond - the time to kill is so short that the f
+community.player-conduct.solo-queue-is-friendly-and-squads-shoot-on-sight | ~ | The reviewer says how other players behave depends on the team size they queued with - alone, people talk and 
+engineering.matchmaking.the-fighters-lobbies-are-where-the-cheaters-are | - | The game sorts players by how often they attack other players, and the reviewer says the cheaters are concentr
+game-design.modes.the-pvp-feels-bolted-onto-a-pve-game | - | The reviewer says the game was built or announced as a co-op game against the world and had player-versus-play
+engineering.matchmaking.killers-play-nice-to-get-sorted-in-with-the-peaceful | - | The game sorts players by how they behaved in past matches, and the reviewer says hunters game it - behave for
+community.developer-communication.what-a-cheater-took-is-never-given-back | - | The player lost gear or progress to a cheater or an exploiter, reported it, and the studio returned nothing. T
+game-design.co-op-design.wants-hostile-players-flagged-before-they-strike | - | The reviewer asks the game to show who is hostile before contact - a mark on the player, a meter for the lobby
+engineering.matchmaking.the-conduct-sorting-used-to-work-and-no-longer-does | - | The reviewer says the matching by conduct once put them with players like themselves and has stopped doing so 
+live-ops.patch-quality.the-studio-wiped-what-i-had-earned | - | The studio took away currency, items or progress the player had, on purpose and across the player base - a wip
+engineering.matchmaking.peaceful-players-still-land-with-the-killers | - | The game sorts players by how often they attack other players, and the reviewer - who says they attack nobody 
+game-design.game-feel.combat.makes-you-feel-superhumanly-strong | + | The reviewer names feeling far stronger than what they fight - cleaving through crowds of weaker enemies, shru
+engineering.performance.runs-the-machine-hot | - | The game drives the CPU or GPU hotter than the player expects for what is on screen - at low settings, or sitt
+game-design.role-design.one-of-each-class-so-someone-loses-theirs | - | A team may hold each class only once, so when two players want the same one, one of them is made to play somet
+game-design.enemy-design.ranged-enemies-hit-you-from-anywhere-while-you-are-swarmed | - | The enemies that shoot are the problem: tankier than the crowd, aimed at the player, landing from any distance
+game-design.game-feel.combat.never-makes-you-feel-as-strong-as-the-fiction-says | - | The game casts the player as something far stronger than what it fights and the play does not deliver it - the
+game-design.power-balance.health-does-not-come-back-between-fights | - | Damage taken stays taken: no regeneration, no reliable heal on a kill or an execution, and the pickups are too
+review.promotes-the-reviewers-own-stream-channel | ~ | The review carries a link to the reviewer's own stream or video channel - Twitch, YouTube - either as the whol
+community.developer-communication.the-studio-does-not-play-its-own-game | - | The reviewer says outright that the people who made the game do not play it, and offers the game's own state -
+community.crossplay-and-platform-mix.crossplay-covers-one-mode-and-not-the-other | - | Play across platforms exists for one mode and is missing from another - here the co-op has it and the player-v
+art.animation.the-finishing-moves-repeat-until-they-are-stale | - | The kill or execution animations are few enough that the player sees the same one again and again, in a game w
+marketing.reputation.old-fashioned-and-better-for-it | + | The reviewer says the game plays like games from an earlier time - a complete, plain game with no live-service
+live-ops.patch-quality.the-updates-add-to-what-i-did-not-come-for | - | Updates keep arriving, but they go to a part of the game the reviewer does not value - cosmetics, a mode they 
+game-design.game-feel.combat.the-parry-fails-when-you-need-it | - | The block, parry or counter the combat is built around does not land reliably - it fails against more than one
+review.says-they-are-the-target-audience | ~ | The reviewer states outright that the game is aimed at people like them - a fan of the genre, the licence, the
+review.clears-the-game-and-blames-their-own-setup | ~ | The reviewer had a technical problem - crashes, a low frame rate - and says outright that the cause was their 
+marketing.positioning.made-for-its-fans-and-better-for-it | + | The reviewer praises the game for being aimed squarely at the people who already wanted it - the licence's fan
+game-design.role-design.the-same-class-is-weaker-in-one-mode-than-another | - | A class, or one piece of its kit, behaves worse in one mode of the game than in the others - the jump pack tha
+game-design.modes.the-story-mode-leaves-out-the-class-system | - | The campaign is played as one fixed character while the rest of the game is built on classes, builds and progr
+game-design.replayability.no-way-to-replay-one-chapter | - | The campaign has no chapter select, mission list or reloadable checkpoint, so a finished mission, a section or
+review.written-in-the-games-own-voice | ~ | The review's prose is written as a character of the game's fiction - an Ork, a Guardsman, a tech-priest - for 
+game-design.enemy-design.a-whole-loadout-cannot-hit-it | - | One enemy sits out of reach of a whole category of loadout - it flies above melee, it hovers out of range, abi
+game-design.game-feel.controls.take-hours-to-get-used-to | - | The controls work, but the player says outright that it took them hours - or a whole campaign - before the lay
+engineering.matchmaking.cannot-start-your-own-lobby | - | The player can only join sessions the game picks for them; there is no way to open a lobby of their own and ha
+game-design.progression.build-and-customisation.you-can-look-how-you-want | + | The player praises the freedom to make their character look the way they want - their own chapter, colours, he
+publishing.dlc-and-editions.paid-content-still-has-to-be-earned | - | The player bought an edition, a pass or an add-on and the items inside it are still locked behind in-game curr
+art.animation.the-finishing-moves-are-a-highlight | + | The kill or execution animations are named as one of the best things in the game - what makes the player feel 
+game-design.game-feel.controls.the-default-layout-is-awkward | - | The shipped binding puts an action somewhere the player did not expect or cannot reach comfortably - a parry o
+game-design.pacing.the-level-pads-itself-with-lifts-and-walks | - | Inside a mission the game fills time with scripted waiting that is not play - a lift ride, a slow door, a heav
+game-design.game-feel.combat.forces-the-melee-on-you | - | The design pushes the player into close combat, or into switching between sword and gun, whether or not that i
+marketing.reputation.praised-for-simply-being-a-good-game | + | The reviewer's whole account of the game's success is that the studio set out to make a good game and did - no
