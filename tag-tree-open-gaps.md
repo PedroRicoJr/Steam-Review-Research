@@ -8465,3 +8465,26 @@ tags and a reworked relic menu, on `no-way-to-save-a-loadout` and `listens-and-a
 players who do not own the DLC (`166893580` on `dlc-forced-on-the-group` - the row's definition is about the owner
 changing the game for the group; this is the inverse cost, and the row still holds it); the Epic account gate for
 crossplay (`169285736`, the second); the first-game-was-bigger pattern, two more (`167914818`, `169275045` - eight).
+
+## No mode built; three notes - round 334 (Remnant II batch 18)
+
+**Launched in the shadow of a bigger game - one sighting.** `174461518` (80 helpful): *"A very good game that should
+receive more attention, probably it was just unlucky to be launched together with another big title."* On
+`discovery.nobody-ever-heard-of-it`, which holds the effect (it never reached people) and not the cause named here
+(the release date). If a second review blames the launch window, build `marketing.discovery.launched-in-the-shadow-of-
+a-bigger-game` (−).
+
+**The checkpoint rest is a flashbang - one sighting.** `171642886`: *"I just wish they would add an accessibility option
+to dim or darken the flashbang that occurs when resting at a checkpoint."* On `accessibility.vision.too-bright-to-look-
+at`, which fits; recorded because it names one repeated moment rather than the game's palette.
+
+**Relic and accessory bonuses too small to matter - two sightings, homed, watch.** `175574627`: *"wow, i can hold 1.34%
+more ammo, cool"*; `173099574`: *"Accessories, while plentiful, offer only minor effects most of the time."* Both on
+`power-balance.options-feel-identical` with `155511319` (batch 15, the '.0005%' line). The row says choosing does not
+matter; these say the increments are too small to feel. Close enough to hold; a loot subject would split them.
+
+**Counted, no gap:** the generator builds an unreachable dungeon (`170567298` on `the-generator-sometimes-breaks-the-
+run` - the first Remnant II case, with the workaround); the final boss unreadable a third time (`175048994` - *"switch
+the whole environment around like it's having a seizure"*) and a fourth (`173099574`); the checkpoint-to-boss walk as a
+time cost (`171634525` on `harsh-restart`); the first game's worlds and armour-set bonuses missed again (`175574627`,
+`175051948`, `171142605`, `173099574` - twelve reviews now measure this game against the first and find it short).
