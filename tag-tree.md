@@ -7552,6 +7552,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in the same game.** Remnant II 178580577 (batch 19, "downclocking my processor significantly, which end-users should never really have to do") and 186235336 ("I use an Intel i7-13700K and have to use Intel Extreme Tuning Utility to underclock my processor to prevent crashes"). ✅ **Re-homes**: none - 178580577's will-not-start bullet stays; a second bullet was appended under the new mode.
 
 
+## Modes added during the Remnant II run - batch 21
+
+### `game-design.readability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-final-fight-cannot-be-read` | **−** | The rest of the game reads fine, but the **last fight** throws so many effects, arena changes and overlapping cues that the player cannot tell what is happening or what to avoid. **Distinct from `.threats-unclear`**, which is the whole game, and from `difficulty-tuning.one-part-is-far-harder-than-the-rest`, which is about how hard a part is, not whether it can be seen. **Records a readability failure concentrated in one fight.** |
+
+🔑 **Sixth sighting in one game, all filed on `.threats-unclear` until now.** Remnant II 160046409 ("confusing mess"), 161296644 ("a visual tragedy to read"), 173099574, 175048994 ("spams light effects across the screen and switches the whole environment like a seizure"), 186235336 ("turn the in-game music off and listen for the sound cues"), 193311899 ("like having an epileptic fit … timing with the audio cues is weird"). ✅ **Re-homes**: the five earlier bullets moved off `.threats-unclear`.
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.invisible-walls-block-the-way` | **−** | The player runs into **unseen barriers** where the space looks open, and calls them arbitrary. **Distinct from `readability.geometry-unclear`**, where the player cannot tell what is solid; here the place plainly looks passable and is not. **Records a boundary the level did not draw.** |
+
+🔑 **Third sighting in one game.** Remnant II 175574627 ("hopping off cliffs into invisible walls"), 188939763 ("invisible walls scattered around the environment create unnecessary roadblocks that break immersion"), 189605023 ("absolutely random invisible walls"). ✅ **Re-homes**: none - 175574627 had no bullet for it; one was appended.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

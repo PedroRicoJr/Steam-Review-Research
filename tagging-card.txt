@@ -1060,3 +1060,5 @@ game-design.enemy-design.attacks-are-timed-to-bait-your-dodge | - | Enemy attack
 game-design.game-feel.combat.healing-is-too-slow-for-the-pace | - | The heal - a relic, a flask, a kit - takes long enough to use that the player is hit or killed during it, and 
 community.user-created-content.a-tool-exists-to-beat-the-reroll | ~ | The reviewer names a community-made tool whose purpose is to shortcut the game's own randomness - a world anal
 engineering.stability.only-stable-with-the-cpu-slowed-down | - | The player keeps the game running only by **slowing their own processor** - underclocking or a tuning utility 
+game-design.readability.the-final-fight-cannot-be-read | - | The rest of the game reads fine, but the **last fight** throws so many effects, arena changes and overlapping 
+game-design.level-design.invisible-walls-block-the-way | - | The player runs into **unseen barriers** where the space looks open, and calls them arbitrary. **Distinct from
