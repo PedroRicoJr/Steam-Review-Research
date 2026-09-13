@@ -8228,3 +8228,24 @@ over time. Build `sound-effects.a-sound-that-wears-you-down` (−) on the second
 **Counted, no gap:** the trait cap again (`145397315`, the fourth), Epic Online Services as a gate (`145396918` on
 `access.account-or-platform-gate`), the Labyrinth boss called zero-skill RNG (`144833095` on `bosses-are-a-chore` - the
 same boss `144853572` called gold), multiplayer broken by a bug for many players (`145410081`).
+
+## One mode built; two notes - round 324 (Remnant II batch 8)
+
+**Built:** `performance.lowering-the-settings-does-not-help` (−; `145357569`, `145352163`; `144863817` re-homed off
+`.demanding-hardware`). The subject had the missing options (`.cannot-lower-settings`) and the one guilty option
+(`.one-setting-causes-the-slowdown`) and not the case where the options are there and do nothing.
+
+**Wants every class open from the start - one sighting.** `145364531`: *"Just wish all the archetypes were available at
+the beginning and we did not have to unlock them as we played."* On `unlock-pace.unknown`. The subject's complaints are
+about pace and gates; none says the choice itself should not be an unlock. If a second review asks for the roster open
+at the start, build `unlock-pace.the-choice-of-class-should-not-be-an-unlock` (−).
+
+**The studio mocks the players' machines - homed, publisher-communication evidence.** `145361860` on
+`developer-communication.adversarial`: *"they come out with 'potato mode' ... and then they insult people that don't have
+rigs that can cost upwards of $1000."* The reviewer names the development team, so it sits with the studio; counted
+against the open publisher split only as a case where the reviewer did not distinguish the two.
+
+**Counted, no gap:** the crash-loses-the-boss-loot note from round 323 has a cousin here - `145352163` says bugs
+*"RESET YOUR ENTIRE CAMPAIGN/ADVENTURE"* (on `breaks-play` and `progress-not-saved`); still no second lost-reward case.
+One-shots again (`145351382`, the fifth); the guide again (`145394826`, `145362761` - the second recommends it as advice,
+not a complaint, and is filed on the same mode with that reading in the text).

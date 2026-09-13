@@ -7320,6 +7320,23 @@ first try if not for their one shot moves."* Corpus grep for one-shot / insta-ki
 
 
 
+## Mode added during the Remnant II run - batch 8
+
+### `engineering.performance`
+| Mode | | Definition |
+|---|---|---|
+| `.lowering-the-settings-does-not-help` | **−** | The graphics options exist and turning them down changes little or nothing - the frame rate is the same at low as at ultra, or only resolution moves it - so the player has no lever to pull. Distinct from `.cannot-lower-settings` (the options are missing), from `.one-setting-causes-the-slowdown` (one option is the culprit and turning it off works) and from `.demanding-hardware` (the game runs, on a machine strong enough). |
+
+🔑 **Two sightings this batch, one earlier re-homed.** `145357569`: *"there is no difference between quality and
+ultra performance, the only settings that make a difference are resolution and the extra shadows button."*
+`145352163`: *"Changing the graphics settings has little to no impact."* `144863817` (batch 6): *"no matter what
+settings I'm on I have issues."* Corpus grep for the phrase: four more across this game, Terminull Brigade and Zcrew,
+with `152599280` still to come in this sample.
+
+✅ **One re-home**: `144863817` off `.demanding-hardware`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
