@@ -7650,6 +7650,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Remnant II 220764483 ("I was expecting a big upgrade from the first game, but it's just more of the same") and 222191203 ("remnant 1 and 2 are really good games but they kind of the same, not really that much has changed"). Three earlier "more of the same" reviews (144881749, 176589142, 192807046) say it approvingly and stay where they are. ✅ **Re-homes**: none.
 
 
+## Mode added during the Remnant II run - batch 27
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-dead-player-spectates-until-the-next-checkpoint` | **−** | A downed player who is not revived **watches the others play** - for minutes, sometimes a whole boss - until the group reaches a checkpoint. **Distinct from `.one-player-can-stall-everyone`**, where a live player holds the group up; here the dead one is held up by the live ones. **Records dead time built into dying in co-op.** |
+
+🔑 **Third sighting in one game.** Remnant II 143613520 ("Forced spectating" for fifteen minutes while the active player kills a boss), 223833959 ("if you die and are not revived in time, you're stuck waiting for several minutes until your group reaches the next checkpoint"), 227435264 ("so they aren't just spectating me for who knows how long until the next checkpoint"). ✅ **Re-homes**: 143613520 and 223833959 off `.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
