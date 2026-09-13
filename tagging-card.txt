@@ -1036,3 +1036,5 @@ game-design.progression.unlock-pace.the-cap-stops-you-short | - | Progression ha
 narrative.story.the-ending-lets-it-down | - | The story held up until its close and the ending lands empty - no conclusion, nothing the fight turned out to 
 engineering.performance.only-runs-right-with-upscaling-on | - | The game only reaches a playable frame rate, or only looks acceptable, with DLSS, FSR or another upscaler swit
 game-design.new-player-experience.no-need-to-have-played-the-earlier-games | + | A sequel or a series entry that a newcomer can pick up without the earlier games - the story catches them up, 
+game-design.enemy-design.attacks-land-beyond-their-visible-reach | - | An enemy's attack connects before or outside where its animation shows it - the swing hits before the arm arri
+engineering.netcode.the-guest-fights-at-a-disadvantage | - | In a session hosted on another player's machine, the guest's timing is worse than the host's - dodge windows l

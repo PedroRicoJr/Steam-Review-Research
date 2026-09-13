@@ -7204,6 +7204,36 @@ up."* `143620475`: *"You do not need to play previous games to feel apart of the
 
 
 
+## Modes added during the Remnant II run - batch 3
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.attacks-land-beyond-their-visible-reach` | **−** | An enemy's attack connects before or outside where its animation shows it - the swing hits before the arm arrives, the hitbox is far bigger than what is drawn, the player is struck while visibly clear of it. The complaint is about the enemy's reach against the player, not the player's shots against the enemy. Distinct from `game-feel.combat.shots-go-where-they-want` (the player's own hits fail to register), from `.ignores-physical-logic` (enemies reach through walls or out of places the world says are closed) and from `readability.threats-unclear` (the attack could not be read at all). |
+
+🔑 **Two sightings this game, two earlier in Immortal: Unchained.** `143616656` (34 helpful, thumbs-down): *"their
+attack hit-boxes are far bigger that they show on screen ... I can't learn from bad design."* `143616604`:
+*"Abomination's hitboxes are messed up. It hits you before it reaches you."* Earlier: `169563263` (*"Enemy weapons hit
+you even if you should be outside their hitbox"*, filed with two other faults on `.ignores-physical-logic` and left
+there) and `229363829` (*"zombies with broken melee hitboxes"*, untagged in a list). A word search for *hitbox*
+returns 30 hits; the Redfall ones are the player's shots and stay on `shots-go-where-they-want`.
+
+### `engineering.netcode`
+| Mode | | Definition |
+|---|---|---|
+| `.the-guest-fights-at-a-disadvantage` | **−** | In a session hosted on another player's machine, the guest's timing is worse than the host's - dodge windows land late or inconsistently, hits register against them that the host would have escaped, and the fix the reviewer names is to play host or to check the host's latency before joining. The complaint is the asymmetry between host and guest, not general lag. Distinct from `.lag-and-desync` (everyone in the session suffers) and from `co-op-design.only-the-host-keeps-the-progress` (the guest loses progress, not fights). |
+
+🔑 **Two sightings, this game, a week apart.** `143621306`: *"Iframes on dodges feel inconsistent if you are not the
+host ... playing as non host can feel rather helpless at times."* `143616604`: *"if the host's internet has slightly
+higher latency, you have to dodge before the strike or right on the audio indicator. Would be nice to be able to
+look at latency before joining a match."* A word search for *host* near *latency / lag / disadvantage* returns ten
+hits, including a Remnant II review not yet read (`145882248`: *"non-host players have a disadvantage"*). Opened as a
+one-sighting note in round 318.
+
+✅ **One re-home**: `143621306` off `.lag-and-desync`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

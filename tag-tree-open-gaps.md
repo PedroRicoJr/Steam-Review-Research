@@ -8097,3 +8097,35 @@ mode in a listen-server co-op game is a real shape and the corpus has other host
 **Final boss, five ways in one batch.** `143170844`, `143621077`, `143620125` on `one-part-is-far-harder-than-the-rest`;
 `143171025` glitched with no way back but a full restart (`bugs.breaks-play` + `no-way-to-replay-one-chapter`);
 `143171204` the same boss as the best thing in the genre (`memorable-specials`). Counted for the findings page.
+
+
+## Two modes built; four notes - round 319 (Remnant II batch 3)
+
+**Built:** `enemy-design.attacks-land-beyond-their-visible-reach` (−; `143616656`, `143616604`, plus two earlier
+Immortal: Unchained sightings left where they were) and `netcode.the-guest-fights-at-a-disadvantage` (−; `143621306`
+re-homed off `lag-and-desync`, `143616604`; closes the round-318 note).
+
+**You need a guide to find most of the game - one complaint sighting.** `143616656` (34 helpful): *"If you don't play
+with a guide doing everything step by step you miss out of 80% of the game ... 'lets watch a YouTube to find out how
+to do this' instead of just enjoying my play-through."* On `unlock-pace.unknown`. `143621077` says the same thing as
+praise (*"secret quests and puzzles to look up on youtube"*), filed on `world-worth-exploring`. The complaint form
+builds on its second sighting: `progression.unlock-pace.the-good-things-are-hidden-behind-a-guide` (**−**).
+
+**Bosses drop mods, not weapons - homed.** `143616656` and `143613520` both say a boss kill pays out nothing the
+player wanted. Both on `reward-moment.the-payout-lands-flat`, whose definition (the game builds to a payout and it
+lands flat) covers it. Counted for the findings page.
+
+**Levelling up gives nothing - one sighting.** `143613520`: *"Making leveling up completely pointless by not
+rewarding the player with anything."* On `unlock-pace.unknown`. Distinct from `every-unlock-is-a-sideways-swap`.
+Build on the second.
+
+**Forced spectating while the host finishes a boss - one sighting.** `143613520`: *"wait in spectator mode for 15
+minutes while the active player finishes killing a boss, then they quit and you get disconnected."* On
+`co-op-design.unknown`. A word search for *spectat* returns eleven hits across the corpus; a `co-op-design` or
+`punishment-model` mode for the dead player's wait is due on the next one that says it plainly.
+
+**Achievements that do not unlock - three sightings, homed.** `143616604`, `143611737` on
+`achievements.do-not-track-what-you-actually-did`; `143172313` (batch 1) sits on `bugs.buggy` and stays.
+
+**NPC dialogue is too much and changes nothing - one sighting.** `143616656`. On `story.unknown`;
+`narrative.characters-writing` is a parent with no modes yet.
