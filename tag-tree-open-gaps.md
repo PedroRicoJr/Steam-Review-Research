@@ -8175,3 +8175,32 @@ discovery as part of the game, build `community.culture.the-players-map-the-secr
 
 **Steam-sync rollback took the loot - homed, counted.** `144288399` on `stability.progress-not-saved`; the third
 save-loss review in 250 (`143618057`, `143617899` before it).
+
+## Two modes built; four notes - round 322 (Remnant II batch 6)
+
+**Built:** `power-balance.upgrading-makes-the-game-harder` (−; `144873355`, `144852221` - two in one batch; three more
+waiting later in the sample) and `enemy-design.one-hit-kills` (−; `144865141`, `144860491`; `144291151` re-homed off
+`.no-counterplay`, `143171041` off `.bosses-are-a-chore`).
+
+**The round-320 note on arguing with other reviews - closed, no build.** The tree already held
+`review.answers-a-claim-made-in-another-review`; the round-320 grep missed it. `144879571` filed there (the puzzle-lookup
+rebuttal) and a bullet appended to `144296899` for the high-end-rig rebuttal. The proposed
+`review.argues-with-the-other-reviews` is withdrawn.
+
+**A guest can make the host's quest decisions - one sighting.** `144882997`: *"As the host, if a random joins your
+campaign, they can interact and make quest decisions without your input... this is horrible."* On `co-op-design.unknown`.
+The inverse of `.only-the-host-keeps-the-progress` (there the guest gets nothing; here the guest spends the host's
+choices). If a second review says a joiner can commit the host's world to a choice, build
+`co-op-design.a-guest-can-spend-the-hosts-choices` (−).
+
+**A puzzle that needs a second player - one sighting each way.** `144853704`: *"some are mandatory co-op just jump into
+a game with a friend to complete"* (on `co-op-design.unknown`) and `144853572`, the same design praised: *"one puzzle
+in particular that actually required both players to act in concert"* (on `.demands-coordination`). The complaint form -
+solo players are locked out of a reward - has no mode under `solo-viability`. If a second solo player names it, build
+`solo-viability.some-rewards-need-a-second-player` (−).
+
+**Bosses that summon small enemies during the fight - one sighting.** `144881421`: *"Gimmick bosses, spamming and
+ganking small enemies in boss battles."* On `enemy-design.bosses-are-a-chore`. A named complaint in the genre; if a
+second review names the adds rather than the length, build `enemy-design.the-boss-hides-behind-its-adds` (−).
+
+**Survival mode dropped from the sequel - homed.** `144865141` on `modes.expected-mode-missing`. Counted; no gap.

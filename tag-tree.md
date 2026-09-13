@@ -7293,6 +7293,33 @@ under `level-design` because the complaint is about where things are put, not th
 
 
 
+## Modes added during the Remnant II run - batch 6
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.upgrading-makes-the-game-harder` | **−** | The enemies scale off the player's upgrades, so raising a weapon or a level makes the enemies hit harder or take more, and the reviewer says the sensible play is to stop upgrading. Distinct from `.levelling-up-changes-nothing` (growth buys nothing - here it costs), from `.challenge-outgrows-the-player` (the game pulls ahead on its own schedule, not because of what the player did) and from `difficulty-tuning.harder-is-not-worth-it` (a setting the player chose, not a consequence of their own progress). |
+
+🔑 **Two complaint sightings in one batch.** `144873355`: *"Enemy HP, ATK, Spawn Rate, Elite Spawn Rate scales with
+the player power ... Get guns to lvl 10, and keep it that way ... Upgrading further only make the game harder."*
+`144852221`: *"upgrading your weapons makes enemies do more damage, why???"* Three more are waiting later in the
+sample: `209854285`, `223833959`, `153663823` (the last as a cost of trying new weapons).
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.one-hit-kills` | **−** | A boss, trap or attack takes the whole health bar at once, so the fight is decided by one mistake rather than by the damage traded, and the reviewer names that as a complaint. Distinct from `.no-counterplay` (the attack cannot be answered at all - a one-hit kill can usually be dodged; the complaint is the price of not dodging), from `difficulty-tuning.player-too-fragile` (the player dies fast in general) and from `.bullet-sponges` (the inverse shape: the enemy takes too long to die). |
+
+🔑 **Two sightings this batch, two earlier ones re-homed.** `144865141`: *"a lot of '1 hit' kill mechanics on some of
+the bosses now that aren't very fun to deal with and make the idea of playing Hardcore very unappealing."*
+`144860491`: *"The difficulty is then just dealing with clunky one shot kills in the arena. It's boring."*
+`144291151`: *"insta kills are the worst and laziest kind of game design."* `143171041`: *"you'd likely kill them all
+first try if not for their one shot moves."* Corpus grep for one-shot / insta-kill: 67 hits, eleven in this game.
+
+✅ **Two re-homes**: `144291151` off `.no-counterplay`, `143171041` off `.bosses-are-a-chore`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
