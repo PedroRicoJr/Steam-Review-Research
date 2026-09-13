@@ -7436,6 +7436,24 @@ The subject had no positive row for the player's hand in the story at all.
 
 
 
+## Mode added during the Remnant II run - batch 14
+
+### `art.visual-direction`
+| Mode | | Definition |
+|---|---|---|
+| `.drab-and-colourless` | **−** | The palette is grey, brown or washed out and the reviewer names the missing colour as the fault - the places run together, the eye has nothing to hold. Distinct from `.forgettable-look` (nothing stays with the player, with no cause named), from `.off-putting-look` (the look is actively ugly), from `environment-art.low-quality-assets` (the textures or props are poor - here they may be fine and still grey) and from `accessibility.vision.too-bright-to-look-at` (the opposite fault, and a physical one). |
+
+🔑 **Two this batch, three earlier re-homed.** `153651785` (17 helpful): *"Two other locations are way too gray. This
+game could stand to get a splash of colour."* `154242443`: *"The second world, 'the labyrinth' is the dullest level
+design and makes me want to rip my eyes out it is SO GREY."* Helldivers 2 `195507514`: *"fetch quests dressed in
+different shades of brown and gray."* The Anacrusis `110786440`: *"the color contrast in the game is very grey, even on
+the surface."* Aliens: Fireteam Elite `120249336`: *"very drab and detract from the experience."*
+
+✅ **Three re-homes**: `195507514` off `.forgettable-look`; `110786440` and `120249336` off
+`environment-art.low-quality-assets`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

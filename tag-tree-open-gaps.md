@@ -8362,3 +8362,31 @@ option, and this is a BIOS or driver option, so the definition reads a little na
 restore, on `progress-not-saved`); guest progress not carried home (`152599734` on `only-the-host-keeps-the-progress` -
 *"map exploration and key progression check points = no"*); settings change nothing, one more (`152599280`, with
 frametimes - the sixth); the Survival-mode wish again (`151185274`, `152598647` - six mentions of the dropped mode now).
+
+## One mode built; three notes - round 330 (Remnant II batch 14)
+
+**Built:** `art.visual-direction.drab-and-colourless` (−; `153651785`, `154242443`; Helldivers 2 `195507514`, The
+Anacrusis `110786440` and Aliens `120249336` re-homed). Two of the three earlier ones sat on `low-quality-assets`, which
+is about texture quality, not palette.
+
+**Delayed attacks that punish the instinctive dodge - one sighting.** `153663823`: *"basically all enemies tend to
+employ delayed attacks that punish you if you try to dodge instinctively. The times are easy enough once you learn
+them, but feel unnecessarily punishing on initial encounters."* On `enemy-design.unknown`. The subject has
+`.attacks-land-beyond-their-visible-reach` (space) and `.no-counterplay` (no answer at all); nothing for timing built
+to bait the dodge. Corpus grep for delayed-attack phrasing: this one only. Build
+`enemy-design.attacks-are-timed-to-bait-your-dodge` (−) on the second.
+
+**Items usable when they do nothing - one sighting.** `154242443`: *"why tf would the game let me use items for healing
+or clearing status when I am uninjured or don't have the status. Super easy to burn through resources."* On
+`ui-ux.missing-quality-of-life`. If a second review names a consumable the game lets you waste, build
+`ui-ux.lets-you-waste-a-consumable-that-does-nothing` (−).
+
+**Menus that only the analog stick can drive - one sighting.** `154242725`: *"The navigation through the menu is being
+completely performed with your analog stick ... while its menus are typical grids and lines totally suitable for the
+dpad."* On `controls.unknown`. Build `controls.the-menus-ignore-the-d-pad` (−) on the second.
+
+**Counted, no gap:** enemies scale off the highest upgraded weapon (`153663823` - the third sighting since the build,
+with the cost named: trying new weapons early is expensive); the class-ability input the game never explains
+(`153663823` on `poorly-explained` and `the-review-teaches-you-how-to-play`); switched to a controller to cope with the
+dodging (`154235882` on `you-have-to-switch-input-device-to-play-well`); "Gunfire/Gearbox" blamed together for crashes
+(`153081357` - publisher-communication evidence, the reviewer names both without distinguishing).
