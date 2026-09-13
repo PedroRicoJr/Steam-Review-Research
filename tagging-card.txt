@@ -1073,3 +1073,4 @@ narrative.story.the-game-talks-too-much | - | The player says the game **talks m
 engineering.bugs.equipped-things-vanish-or-unequip-themselves | - | A mod, trait, ring or amulet the player had **on** is gone or switched off the next time they look, with no ac
 marketing.positioning.the-sequel-changes-too-little | - | The player came for a step up from the earlier game and found **the same game again**. **Distinct from `reputa
 game-design.co-op-design.a-dead-player-spectates-until-the-next-checkpoint | - | A downed player who is not revived **watches the others play** - for minutes, sometimes a whole boss - until t
+publishing.dlc-and-editions.the-guest-can-play-the-add-on-but-not-keep-its-loot | - | One owner lets the group into the add-on, but a player who does not own it **cannot use the weapons and gear**

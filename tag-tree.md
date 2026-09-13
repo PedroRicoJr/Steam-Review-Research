@@ -7660,6 +7660,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting in one game.** Remnant II 143613520 ("Forced spectating" for fifteen minutes while the active player kills a boss), 223833959 ("if you die and are not revived in time, you're stuck waiting for several minutes until your group reaches the next checkpoint"), 227435264 ("so they aren't just spectating me for who knows how long until the next checkpoint"). ✅ **Re-homes**: 143613520 and 223833959 off `.unknown`.
 
 
+## Mode added during the Remnant II run - batch 28
+
+### `publishing.dlc-and-editions`
+| Mode | | Definition |
+|---|---|---|
+| `.the-guest-can-play-the-add-on-but-not-keep-its-loot` | **−** | One owner lets the group into the add-on, but a player who does not own it **cannot use the weapons and gear** it drops. **Distinct from `.one-copy-covers-the-group`**, which is the door being open; this is what the guest finds once inside. **Records the half-share.** |
+
+🔑 **Second sighting in one game.** Remnant II 203273925 ("just be warned, the person without the dlc cannot use the DLC-related items that can be gained") and 233554645 ("Only the host needs the DLCs to make it available for co-op, but without the DLCs then you wouldn't be able to access its weapons and equipement"). ✅ **Re-homes**: 203273925 off `.one-copy-covers-the-group` - the bullet carries both halves and the warning is its point.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
