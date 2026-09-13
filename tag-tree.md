@@ -7599,6 +7599,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one batch.** Remnant II 202739424 ("I'm not even guaranteed to see the other bosses or areas I didn't see the first time … should be an option to just have a true-playthrough") and 204919510 ("relying on RNG to reroll maps to experience everything, as some of the maps and questlines are actually pretty interesting yet no one will experience them on their first playthrough"). 201175078 says the same thing approvingly ("That secret .50 cal room? Might not exist in your seed") and stays on `procedurally-varied`. ✅ **Re-homes**: none.
 
 
+## Modes added during the Remnant II run - batch 24
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.one-area-drags-the-rest-down` | **−** | The player names **one area** as the part that sours an otherwise good game - the place they dread, the point where the review turned. **Distinct from `difficulty-tuning.one-part-is-far-harder-than-the-rest`**, which is about hardness; here the complaint is the area itself - its look, its enemies, its layout, its pacing. **Records that one place carries the weight of the complaint.** |
+
+🔑 **Three reviews name the same area.** Remnant II: the Labyrinth in 188347593 ("a minecraft kids level where you fight literal slabs of rock"), 191662834 ("the level design takes a steep decline in the labyrinth" - stays on its falls-short bullet), 212193521 ("the labrynth and the yaesha proving grounds suck ass but beyond that solid game"); N'Erud in 193929652 ("N'erud is terrible and the last part of the game as well"). ✅ **Re-homes**: 188347593 and 193929652 off `.unknown`.
+
+### `engineering.platform-support`
+| Mode | | Definition |
+|---|---|---|
+| `.no-cloud-save` | **−** | The game keeps its save **only on the local disk**, and the player found out when a save was lost. **Distinct from `.no-cross-save`**, which is between platforms, and from `stability.progress-not-saved`, which is the loss itself; this is the missing safety net. **Records the absence the loss revealed.** |
+
+🔑 **Second sighting in one game.** Remnant II 152601001 ("cloud saves should have made a local backup unnecessary" - a second bullet appended) and 213370670 ("NO CLOUD SAVE?! seriously my partner lost a 80 hour save coz of this"). ✅ **Re-homes**: none - both keep their save-loss bullets on `progress-not-saved`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
