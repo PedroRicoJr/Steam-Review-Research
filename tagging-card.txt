@@ -1038,3 +1038,6 @@ engineering.performance.only-runs-right-with-upscaling-on | - | The game only re
 game-design.new-player-experience.no-need-to-have-played-the-earlier-games | + | A sequel or a series entry that a newcomer can pick up without the earlier games - the story catches them up, 
 game-design.enemy-design.attacks-land-beyond-their-visible-reach | - | An enemy's attack connects before or outside where its animation shows it - the swing hits before the arm arri
 engineering.netcode.the-guest-fights-at-a-disadvantage | - | In a session hosted on another player's machine, the guest's timing is worse than the host's - dodge windows l
+game-design.ui-ux.no-way-to-save-a-loadout | - | The game has enough gear, rings, skills or classes that players switch builds often, and gives them no way to 
+game-design.progression.unlock-pace.a-new-weapon-starts-the-grind-again | - | A weapon, class or item the player has not used yet must be levelled from nothing before it can compete with t
+review.filled-in-from-a-template | ~ | The review is a pre-made form - a checklist of categories with one box ticked in each, or a generated score ca

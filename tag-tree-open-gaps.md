@@ -8129,3 +8129,30 @@ minutes while the active player finishes killing a boss, then they quit and you 
 
 **NPC dialogue is too much and changes nothing - one sighting.** `143616656`. On `story.unknown`;
 `narrative.characters-writing` is a parent with no modes yet.
+
+
+## Three modes built; three notes - round 320 (Remnant II batch 4)
+
+**Built:** `ui-ux.no-way-to-save-a-loadout` (−; four sightings in 200 reviews; `143614269` re-homed),
+`unlock-pace.a-new-weapon-starts-the-grind-again` (−; closes the round-317 note; `143172124` re-homed) and
+`review.filled-in-from-a-template` (~; third sighting `144293650`, closes the round-314 note; form bullets appended to
+`220787298` and `223870173`).
+
+**A mod fixed what the studio left - homed, the SM2 note stays open.** `144290210`: *"now that the mod community
+... has a mod to fix the stupid ammo drop problems, this game is pretty good."* Filed on
+`user-created-content.only-playable-after-modding`, which already exists and fits. The Space Marine 2 shape from round
+315 - a community fix that arrived **before** the studio's - is a different claim and stays at one sighting on
+`mods-extend-the-game`.
+
+**Falling out of the map is the only way to die - one sighting.** `144295331` (110 hours, Hardcore): *"EVERY, SINGLE,
+DEATH has been falling out of the map because of either faulty platforms or ground being shown in the minimap, but
+there not actually being any ground."* Split across `bugs.you-fall-through-the-floor` and `ui-ux.unknown` (the minimap
+lies). If a second review says the map draws ground that is not there, build `ui-ux.the-map-shows-ground-that-is-not-there`.
+
+**A hard-coded key an alternate layout cannot escape - homed.** `144290492` (ESDF player surrenders instead of
+crawling) on `controls.cannot-rebind`. Counted.
+
+**Dismissing other reviewers' performance complaints - one sighting.** `144296899`: *"For those that are saying they
+have 'high end rigs' ... I doubt they are telling the truth ... maybe it's your system."* Filed on
+`stability.rock-solid` for his own experience. The move - a reviewer arguing with other reviews - has no `review.*`
+mode; build `review.argues-with-the-other-reviews` (~) on the second.

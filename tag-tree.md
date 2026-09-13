@@ -7234,6 +7234,47 @@ one-sighting note in round 318.
 
 
 
+## Modes added during the Remnant II run - batch 4
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.no-way-to-save-a-loadout` | **−** | The game has enough gear, rings, skills or classes that players switch builds often, and gives them no way to save a set and load it back - every swap is done by hand, piece by piece, while the group waits. The complaint names the missing save-and-load, not the inventory screen. Distinct from `.managing-the-inventory-is-a-chore` (sorting and storing what you carry) and from `.missing-quality-of-life` (the catch-all, for conveniences with no mode of their own). |
+
+🔑 **Four sightings in 200 reviews of this game.** `143616604`: *"Profiles for build saving (it's a pain at the moment
+and everyone else has to wait)."* `143614269`: *"the option to save sets rings/necklaces at least (due to the high number
+of rings)."* `144292500`: *"the lack of loadouts for easily switching between them."* `144290492`: *"It would be really
+nice to be able to load them by touching a stone."*
+
+✅ **One re-home**: `143614269` off `.missing-quality-of-life`. `143616604`'s bullet also asks for emotes and stays where it is.
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.a-new-weapon-starts-the-grind-again` | **−** | A weapon, class or item the player has not used yet must be levelled from nothing before it can compete with the one they have, so trying something new means repeating the grind - and the player stops trying new things. The complaint is about the cost of switching, not the length of the grind. Distinct from `.grindy` (the pace itself), from `.every-unlock-is-a-sideways-swap` (unlocks change a build without strengthening it) and from `build-and-customisation.only-a-few-builds-are-viable` (the alternatives are weak by design, not by level). |
+
+🔑 **Two sightings, this game.** `143172124`: *"swapping weapons feels not worth it because you need to level them in
+order for them to be worth using over your current weapon ... it just feels unfortunate that I'm discouraged from
+trying different weapons."* `144290492`: *"increasingly difficult to get lower level materials to level up lower guns
+you may want to try ... the playstyles of focus everything on one build and wanting to try everything are [not] very
+compatible."* Opened as a one-sighting note in round 317.
+
+✅ **One re-home**: `143172124` off `.unknown`.
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.filled-in-from-a-template` | ~ | The review is a pre-made form - a checklist of categories with one box ticked in each, or a generated score card - rather than sentences the reviewer wrote. The content of the ticks is still filed on its own subjects; this mode records the form. Distinct from `.repeats-a-copied-meme-text` (text that circulates word for word) and from `.calls-it-average-rather-than-good-or-bad` (a verdict, which a form may also carry). |
+
+🔑 **Third sighting, third game.** `144293650` (Remnant II): the tick-box card - *Graphics / Gameplay / Audio / Audience
+/ PC Requirements / Difficulty / Grind / Story / Game Time / Price / Bugs / ?/10*. Earlier: `220787298` (Space Marine 2,
+the same checklist) and `223870173` (Space Marine 2, *"Generate your review at playeropinion.com"*, 64/100). Round 314
+said build on the third.
+
+✅ **Two appends**: a form bullet added to `220787298` and `223870173`; their content bullets stay where they are.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
