@@ -8488,3 +8488,29 @@ run` - the first Remnant II case, with the workaround); the final boss unreadabl
 the whole environment around like it's having a seizure"*) and a fourth (`173099574`); the checkpoint-to-boss walk as a
 time cost (`171634525` on `harsh-restart`); the first game's worlds and armour-set bonuses missed again (`175574627`,
 `175051948`, `171142605`, `173099574` - twelve reviews now measure this game against the first and find it short).
+
+## Two modes built; three notes - round 335 (Remnant II batch 19)
+
+**Built:** `combat.healing-is-too-slow-for-the-pace` (−; `178581678`, `169282682` re-homed off `combat.unknown`) and
+`user-created-content.a-tool-exists-to-beat-the-reroll` (~; `177611197`, `149688920` re-homed off `.unknown` - closes the
+round-327 note).
+
+**Dying can spawn a stronger enemy - one sighting.** `178581678`: *"every time you die in area there's a chance for even
+stronger mini boss that can spawn."* On `punishment-model.unknown`. The subject prices death in progress, money, time
+and gear; nothing says death makes the next attempt harder. Build `punishment-model.dying-makes-the-next-try-harder`
+(−) on the second.
+
+**Bought the DLC, got half of it - one sighting.** `176116565`: *"with this latest dlc, i got the boss rush mode but not
+the storyline for campaign/adventure."* On `dlc-and-editions.unknown`. Could be `bugs.the-reward-never-arrives` (paid
+content not delivered) or a store-edition confusion; the review does not say which. Left neutral.
+
+**A save-loss review with its own restore recipe - homed both ways.** `177114995` (429 hours): DLC 3 crashes killed every
+character; copying the `.bak3` files over the `.sav` files brought them back. On `progress-not-saved` and
+`lost-progress-can-be-recovered`, with the recipe on `players-teach-each-other-the-fix`. The sixth save-loss review in
+this game and the first that recovered.
+
+**Counted, no gap:** will-not-start a year on, with the CPU-downclock and Windows 7 workarounds (`178580577`, 20 helpful
+- the seventh in this game, on `will-not-start-at-all` and `known-bugs-never-fixed`); the prism system as the new
+grind (`177122023`, `177599821`); no chat, three more (`176119385`, `177122023`, `177116988` - the last for coordinating
+an item trade with a random; seven communication complaints now); *"lost 80% of its playerbase after the first month"*
+(`177599821` on `the-numbers-are-falling` - the first population claim in this game).

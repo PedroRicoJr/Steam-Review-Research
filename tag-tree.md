@@ -7517,6 +7517,31 @@ capability. This is also very problematic when you have more than 1 opponent."* 
 
 
 
+## Modes added during the Remnant II run - batch 19
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.healing-is-too-slow-for-the-pace` | **−** | The heal - a relic, a flask, a kit - takes long enough to use that the player is hit or killed during it, and the reviewer names the heal's own speed against the speed of the fights around it. Distinct from `.sluggish-weapon-handling` (swapping, reloading, readying a weapon), from `power-balance.resources-too-scarce` (there is not enough healing, rather than healing that is too slow) and from `controls.stuns-take-control-away` (the enemy removes input; here the player's own action removes it). |
+
+🔑 **Two sightings, this game.** `169282682`: *"Using the relic to heal yourself takes several seconds without
+modifications to the build, and becomes an issue when you need the heals most."* `178581678`: *"heals need to be much
+faster in a fast pace game."* Corpus grep for slow-heal phrasing: these two only.
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.a-tool-exists-to-beat-the-reroll` | ~ | The reviewer names a community-made tool whose purpose is to shortcut the game's own randomness - a world analyser that reads the roll before the player commits to it. Neutral: one reviewer names it as relief, another as a symptom. Distinct from `.mods-extend-the-game` (content or features added), from `.only-playable-after-modding` (a fix for something broken) and from `randomness.the-thing-you-need-may-never-roll` (the complaint the tool exists to answer, which usually sits beside it). |
+
+🔑 **Two sightings, this game.** `149688920`: *"Downloaded a tool to let me see what dungeons I'd roll just by
+resetting my world without having to go into it over and over, and rolled 120 times."* `177611197`: *"there's a world
+analyzer to help - because no one likes the idea of replaying for 10 hours just to get that one gun."* Opened in round
+327; closed here.
+
+✅ **Two re-homes**: `169282682` off `combat.unknown`; `149688920` off `user-created-content.unknown`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

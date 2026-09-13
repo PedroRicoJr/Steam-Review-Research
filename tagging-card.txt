@@ -1057,3 +1057,5 @@ review.written-in-a-language-other-than-its-steam-tag | ~ | The review's text is
 game-design.enemy-design.the-boss-hides-behind-its-adds | - | The boss fight's difficulty comes from the smaller enemies it keeps spawning rather than from the boss itself,
 game-design.solo-viability.some-rewards-need-a-second-player | - | A subset of the game's rewards - a puzzle, an item, a door - can only be obtained with another player present,
 game-design.enemy-design.attacks-are-timed-to-bait-your-dodge | - | Enemy attacks hold, delay or vary their timing so that a dodge on instinct lands in the swing, and the reviewe
+game-design.game-feel.combat.healing-is-too-slow-for-the-pace | - | The heal - a relic, a flask, a kit - takes long enough to use that the player is hit or killed during it, and 
+community.user-created-content.a-tool-exists-to-beat-the-reroll | ~ | The reviewer names a community-made tool whose purpose is to shortcut the game's own randomness - a world anal
