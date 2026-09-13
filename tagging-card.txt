@@ -1053,3 +1053,4 @@ game-design.game-feel.controls.stuck-in-aim-down-sights | - | Once the player ai
 game-design.co-op-design.a-guest-can-decide-your-campaign | - | A player who joins the host's world can commit the host's campaign to something the host did not choose - answ
 narrative.story.your-choices-change-the-story | + | The reviewer names a decision they made - a dialogue answer, a quest branch, a side taken - as having changed 
 art.visual-direction.drab-and-colourless | - | The palette is grey, brown or washed out and the reviewer names the missing colour as the fault - the places r
+review.written-in-a-language-other-than-its-steam-tag | ~ | The review's text is in a language other than the one Steam filed it under - a Chinese or Russian review insid

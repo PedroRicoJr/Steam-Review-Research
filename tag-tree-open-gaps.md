@@ -8390,3 +8390,24 @@ with the cost named: trying new weapons early is expensive); the class-ability i
 (`153663823` on `poorly-explained` and `the-review-teaches-you-how-to-play`); switched to a controller to cope with the
 dodging (`154235882` on `you-have-to-switch-input-device-to-play-well`); "Gunfire/Gearbox" blamed together for crashes
 (`153081357` - publisher-communication evidence, the reviewer names both without distinguishing).
+
+## One mode built; two notes - round 331 (Remnant II batch 15)
+
+**Built:** `review.written-in-a-language-other-than-its-steam-tag` (~; `156627574`, `158312464`, both Simplified Chinese
+inside the English pool). A bounded script pass over every English sample found 28 of ~17,300 (0.16%); the 24 already
+summarised got a bullet appended across ten games. This is a fact about the sample, not the game - Steam's language
+filter leaks a little, and the number is now on record for the method write-up.
+
+**The studio added the region filter - the ping note closes for this game.** `158307433` (589 hours): *"they later
+implemented the option to select regions for the matchmaking."* On `developer-communication.listens-and-acts`, with the
+earlier complaint on `matchmaking.no-ping-shown-before-you-join`. Five reviews raised the missing region or ping
+control; one records the fix. The mode stays - it is a complaint other games still earn.
+
+**Opens quietly - one sighting.** `155513808`: *"A modern game that does not blow out your eardrums when you first open
+it 10/10."* On `sound-effects.unknown`. The subject has nothing about start-up or menu volume. If a second review names
+the opening volume either way, build `audio.sound-effects.the-menu-is-not-deafening` (**+**) or its inverse.
+
+**Counted, no gap:** the join-mid-boss bug and Engineer turret bugs from the second Chinese review (`158312464` on
+`buggy` and `the-studio-does-not-play-its-own-game`); armour progression cut (`156627085`) and armour set bonuses gone
+(`158307433`) - the dropped-from-the-first-game pattern is now six reviews, see round 327; hold the upgrades until a
+new arena outlevels you (`157288214` - the fourth scaling sighting, given as advice).

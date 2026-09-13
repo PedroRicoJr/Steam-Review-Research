@@ -7454,6 +7454,25 @@ the surface."* Aliens: Fireteam Elite `120249336`: *"very drab and detract from 
 
 
 
+## Mode added during the Remnant II run - batch 15
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.written-in-a-language-other-than-its-steam-tag` | ~ | The review's text is in a language other than the one Steam filed it under - a Chinese or Russian review inside the English pool. The content is still summarised and filed on its own subjects; this mode records the mismatch so the sample's language filter can be audited. Distinct from `localization.*` (the game's languages, not the review's) and from `.repeats-a-copied-meme-text` (the text may be original). |
+
+🔑 **Two in this batch; 28 in the whole English corpus, counted by script.** `156627574` and `158312464` (Remnant II,
+both Simplified Chinese; the second reports a join-mid-boss bug and Engineer turret bugs and is filed on those). A
+bounded pass over every English sample - 6+ consecutive CJK, 8+ Cyrillic, 6+ Hangul or kana - found 28 of ~17,300
+English-tagged reviews (0.16%): Rogue Core 7, Deep Rock 4, Remnant II 4, Aliens 3, Zombie Girl 3, Arc Raiders 2, and one
+each in Helldivers 2, Redfall, Space Marine 2, The Anacrusis, Zcrew. All were summarised in translation without the
+mismatch recorded; a bullet is appended to each summarised one this round.
+
+✅ **24 appended bullets**, ten games, no re-homes. The two later Remnant II ones (`218878449`, `235081648`) will
+be filed when reached.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
