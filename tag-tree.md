@@ -7275,6 +7275,24 @@ said build on the third.
 
 
 
+## Mode added during the Remnant II run - batch 5
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-best-things-are-hidden-behind-a-guide` | **−** | The weapons, classes or areas that matter are placed behind secrets so obscure that a player following the game's own signposts never finds them, and the reviewer says they had to use a guide or a video to see most of the game. The complaint is about how the content is hidden, not how fast it unlocks. Distinct from `.exploring-off-the-path-finds-nothing` (the opposite: looking around pays nothing), from `randomness.the-thing-you-need-may-never-roll` (the item exists in the run only by chance) and from `narrative.world-and-setting.world-worth-exploring` (the same secrets, enjoyed - the praise form stays there). |
+
+🔑 **Two complaint sightings, this game.** `143616656` (34 helpful): *"If you don't play with a guide doing everything
+step by step you miss out of 80% of the game ... I paid for a game and have to play 'lets watch a YouTube to find out
+how to do this' instead of just enjoying my play-through."* `144278243`: *"The developer has hidden a majority of the
+items in secret rooms and areas which some have convoluted solutions you wouldn't ever think of. So your going to miss
+out on a lot of items, weapons and archtypes without a guide."* Opened in round 319 as an `unlock-pace` note; built
+under `level-design` because the complaint is about where things are put, not the pace.
+
+✅ **One re-home**: `143616656` off `unlock-pace.unknown`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

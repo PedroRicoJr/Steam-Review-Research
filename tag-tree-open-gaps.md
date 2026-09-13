@@ -8156,3 +8156,22 @@ crawling) on `controls.cannot-rebind`. Counted.
 have 'high end rigs' ... I doubt they are telling the truth ... maybe it's your system."* Filed on
 `stability.rock-solid` for his own experience. The move - a reviewer arguing with other reviews - has no `review.*`
 mode; build `review.argues-with-the-other-reviews` (~) on the second.
+
+
+## One mode built; two notes - round 321 (Remnant II batch 5)
+
+**Built:** `level-design.the-best-things-are-hidden-behind-a-guide` (−; `143616656` re-homed off `unlock-pace.unknown`,
+`144278243`; closes the round-319 note, under `level-design` rather than `unlock-pace`).
+
+**No support channel from the publisher - publisher-communication evidence.** `144288399` (lost every boss gun to a
+sync or rollback): *"Their is no support listed on Gearbox's website and steam just recommends articles."* Filed on
+`developer-communication.unknown`. Gearbox is the publisher, Gunfire the studio; the publisher-communication split is
+open with Rico and this is one more case for it.
+
+**A community that keeps discovering together - one sighting.** `144280701`: *"The game is not only when you playing
+but on the community too, people posting stuff they discover discussing about the game."* On `culture.unknown`. Distinct
+from `players-teach-each-other-the-fix` (a workaround) and from `shared-ritual`. If a second review names the shared
+discovery as part of the game, build `community.culture.the-players-map-the-secrets-together` (**+**).
+
+**Steam-sync rollback took the loot - homed, counted.** `144288399` on `stability.progress-not-saved`; the third
+save-loss review in 250 (`143618057`, `143617899` before it).

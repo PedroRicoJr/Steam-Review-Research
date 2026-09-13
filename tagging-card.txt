@@ -1041,3 +1041,4 @@ engineering.netcode.the-guest-fights-at-a-disadvantage | - | In a session hosted
 game-design.ui-ux.no-way-to-save-a-loadout | - | The game has enough gear, rings, skills or classes that players switch builds often, and gives them no way to 
 game-design.progression.unlock-pace.a-new-weapon-starts-the-grind-again | - | A weapon, class or item the player has not used yet must be levelled from nothing before it can compete with t
 review.filled-in-from-a-template | ~ | The review is a pre-made form - a checklist of categories with one box ticked in each, or a generated score ca
+game-design.level-design.the-best-things-are-hidden-behind-a-guide | - | The weapons, classes or areas that matter are placed behind secrets so obscure that a player following the gam
