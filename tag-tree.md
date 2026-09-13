@@ -7616,6 +7616,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Remnant II 152601001 ("cloud saves should have made a local backup unnecessary" - a second bullet appended) and 213370670 ("NO CLOUD SAVE?! seriously my partner lost a 80 hour save coz of this"). ✅ **Re-homes**: none - both keep their save-loss bullets on `progress-not-saved`.
 
 
+## Modes added during the Remnant II run - batch 25
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.melee-has-no-parry-or-block` | **−** | The player wants to **parry or block** at melee range and the game gives no such move, so close fighting is dodge-or-die. **Distinct from `role-design.role-underpowered`**, which is that the melee class is weak; here the missing verb is the complaint, whatever the class. **Records an absent defensive move.** |
+
+🔑 **Second sighting in one game.** Remnant II 205578816 ("since there are no parries or actual true you-to-enemy stun, you just die in a few hits") and 217281349 ("a massive missed opportunity to implement parry and block combos along with shields"). ✅ **Re-homes**: none - 205578816's melee-class bullet stays on `role-underpowered`; a parry bullet was appended.
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-game-talks-too-much` | **−** | The player says the game **talks more than they want to listen** - dialogue, lore dumps, characters that will not stop. **Distinct from `.thin-or-forgettable`**, which is quality, and from `ui-ux.cannot-skip-what-the-game-plays-at-you`, which is the missing skip button; here the volume of talk is the complaint even when it can be skipped. **Records quantity, not quality.** |
+
+🔑 **Second sighting in one game.** Remnant II 146779750 (batch 13, "They usually lore dump you a lot of information though" - a bullet appended) and 214777215 ("enjoyed it but too much yapping", 15 helpful). 204927858 ("less cutscenes and dialogue that lock me in place") stays on `cannot-skip-what-the-game-plays-at-you` - the lock is the complaint there. ✅ **Re-homes**: none.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1068,3 +1068,5 @@ game-design.game-feel.combat.the-stamina-runs-out-too-fast | - | The **stamina p
 game-design.randomness.the-roll-decides-which-content-you-see | - | Whole **areas, bosses or quest lines** exist that a run may never show, and the player resents having to rerol
 game-design.level-design.one-area-drags-the-rest-down | - | The player names **one area** as the part that sours an otherwise good game - the place they dread, the point 
 engineering.platform-support.no-cloud-save | - | The game keeps its save **only on the local disk**, and the player found out when a save was lost. **Distinct 
+game-design.game-feel.combat.melee-has-no-parry-or-block | - | The player wants to **parry or block** at melee range and the game gives no such move, so close fighting is do
+narrative.story.the-game-talks-too-much | - | The player says the game **talks more than they want to listen** - dialogue, lore dumps, characters that will 
