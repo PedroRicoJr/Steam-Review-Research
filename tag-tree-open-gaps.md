@@ -8249,3 +8249,25 @@ against the open publisher split only as a case where the reviewer did not disti
 *"RESET YOUR ENTIRE CAMPAIGN/ADVENTURE"* (on `breaks-play` and `progress-not-saved`); still no second lost-reward case.
 One-shots again (`145351382`, the fifth); the guide again (`145394826`, `145362761` - the second recommends it as advice,
 not a complaint, and is filed on the same mode with that reading in the text).
+
+## Three modes built; two notes - round 325 (Remnant II batch 9)
+
+**Built:** `content-variety.the-generation-adds-nothing` (−; `144828901` re-homed, `146779750` - closes the round-323
+note), `bugs.the-reward-never-arrives` (−; `145344268`, with `144863193`, `144828901`, `144827081` re-homed - closes the
+round-323 crash-loses-the-loot note, under `bugs` rather than `stability` because the trigger varies) and
+`matchmaking.no-ping-shown-before-you-join` (−; `146811389`, with bullets appended to `144882997` and to Aliens
+`129788115`).
+
+**Loot that is never a numbered upgrade - loot-subject evidence.** `146811389`: *"Loot always feels meaningful and unique
+(you never go from a level 10 blue shotgun to a level 11 purple shotgun)."* Filed on
+`unlock-pace.every-unlock-is-a-sideways-swap` (~) because that is the nearest home and it is neutral; the reviewer means
+it as praise. The missing `game-design.loot` subject is open with Rico; this is the praise form of the same gap that
+`randomness.the-thing-you-need-may-never-roll` and `reward-moment.the-payout-lands-flat` hold the complaint forms of.
+
+**Lore delivered in dumps - one sighting.** `146779750`: *"They usually lore dump you a lot of information though."* On
+`world-and-setting.unknown`. The subject has `.setting-feels-thin` and `.world-worth-exploring` and nothing about how the
+lore is delivered. If a second review names the delivery, build `world-and-setting.the-lore-arrives-in-dumps` (−).
+
+**Counted, no gap:** the guest disadvantage a third time (`145882248` - server-side hit registration, named as the cause);
+kill XP removed so players avoid fights (`145881325`, `145881806` - both on `killing-them-earns-nothing`); the campaign
+ends on a cliffhanger for DLC (`146779750`, `146355088`, `144865141` in batch 6 - all on `the-ending-lets-it-down`).

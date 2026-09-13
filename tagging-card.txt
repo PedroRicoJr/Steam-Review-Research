@@ -1045,3 +1045,6 @@ game-design.level-design.the-best-things-are-hidden-behind-a-guide | - | The wea
 game-design.power-balance.upgrading-makes-the-game-harder | - | The enemies scale off the player's upgrades, so raising a weapon or a level makes the enemies hit harder or ta
 game-design.enemy-design.one-hit-kills | - | A boss, trap or attack takes the whole health bar at once, so the fight is decided by one mistake rather than 
 engineering.performance.lowering-the-settings-does-not-help | - | The graphics options exist and turning them down changes little or nothing - the frame rate is the same at low
+production.content-variety.the-generation-adds-nothing | - | The levels are procedurally generated and the reviewer says the generation buys nothing - the rerolled version
+engineering.bugs.the-reward-never-arrives | - | The player did the thing and the game failed to hand over what it owed - the boss dropped nothing, the campaig
+engineering.matchmaking.no-ping-shown-before-you-join | - | The game gives the player no way to see or filter the connection quality of a session before joining it - no p

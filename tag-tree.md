@@ -7337,6 +7337,47 @@ with `152599280` still to come in this sample.
 
 
 
+## Modes added during the Remnant II run - batch 9
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.the-generation-adds-nothing` | **−** | The levels are procedurally generated and the reviewer says the generation buys nothing - the rerolled versions are too alike to be worth replaying, and its only real effect is to make the content harder to reach. Distinct from `.procedurally-varied` (the inverse: generation keeps runs different), from `.the-maps-should-have-been-generated` (the wish for generation the game lacks), from `.repetitive` (sessions feel the same, with no claim about why) and from `randomness.the-thing-you-need-may-never-roll` (the reroll cost itself, which usually sits beside this). |
+
+🔑 **Two sightings, this game.** `144828901`: *"Idk why they keep insisting on making the worlds procedurally
+generated, it really doesn't help the game at all. It doesn't really add replay value."* `146779750`: *"On paper, the
+procedural generation would add a lot of replayability to the game, but because of the way it was designed in this
+game, it just adds boredom ... the procedural generation just makes accessing the content more difficult to
+artificially increase the playing time."* Opened in round 323; closed here.
+
+### `engineering.bugs`
+| Mode | | Definition |
+|---|---|---|
+| `.the-reward-never-arrives` | **−** | The player did the thing and the game failed to hand over what it owed - the boss dropped nothing, the campaign gave no completion credit, the item the run was for never appeared - and the player calls it a bug. Distinct from `enemy-design.killing-them-earns-nothing` (a design choice: kills pay nothing by rule), from `stability.progress-not-saved` (the player had it and lost it), from `game-feel.reward-moment.the-payout-lands-flat` (the reward arrived and disappointed) and from `.breaks-play` (the bug stopped the run rather than emptying its end). |
+
+🔑 **Four sightings in 450, three re-homed.** `145344268`: *"if you kill the final boss you might just not get any
+reward ... killed the boss on nightmare still no rewards bug exist ... for more than a month."* `144863193`: *"you spend
+hours progressing through the campaign, but guess what, you wont get credit for beating it."* `144828901`: *"you'll
+miss the loot from a boss when crashing during or after the bossfight."* `144827081`: *"my game glitched out the first
+3 times I tried to get it so... wasted a whole 6 hours to get nothing."* The round-323 note proposed a stability home;
+built under bugs because the trigger varies (crash, glitch, nothing) and the loss is the same.
+
+### `engineering.matchmaking`
+| Mode | | Definition |
+|---|---|---|
+| `.no-ping-shown-before-you-join` | **−** | The game gives the player no way to see or filter the connection quality of a session before joining it - no ping number, no region setting - so a bad host is discovered only after the run has started. Distinct from `servers.high-latency` and `netcode.lag-and-desync` (the lag itself), from `servers.peer-to-peer-not-dedicated` (why the host matters) and from `.server-browser-tells-you-what-you-need` (the inverse, for the browser as a whole). |
+
+🔑 **Three sightings, two games.** `144882997`: *"There are no regional settings, or ping settings ... I'm located in
+CST USA, about 3/4 of the time I'm paired with someone who has Asian characters in their name."* `146811389`: *"no
+ping/connection quality indicator when joining public lobbies."* Aliens: Fireteam Elite `129788115`: *"Peer to peer with
+no ping display, so bad hosts can lag, drop, and burn a run."*
+
+✅ **Re-homes**: `144828901` off `content-variety.unknown` and off `stability.crashes-on-specific-event`;
+`144863193` off `stability.progress-not-saved`; `144827081` off `bugs.breaks-play`. **Appended**: a ping bullet on
+`144882997` and on `129788115` (their existing bullets stay on the lag and the peer-to-peer).
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
