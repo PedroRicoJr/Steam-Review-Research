@@ -177,7 +177,7 @@ a counterpart.** Every row was checked against Steam's own data on 2026-09-10.
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | ARC Raiders | `arc-raiders` | 1808500 | **Done** 2026-09-11, 1,473 read, +/-2.69% | 415,579 | 82.0% | Very Positive | 2025-10 | **251,586** | 1,541 at +/-2.5% | the closest thing on Steam to Dominion: TPS, sci-fi, PvPvE extraction, a success |
 | 2 | Warhammer 40,000: Space Marine 2 | `space-marine-2` | 2183900 | **Done** 2026-09-12 - 1,418 of 1,527 planned read, +/-2.60%; findings written | 224,749 | 84.0% | Very Positive | 2024-09 | **124,835** | +/-2.5% | TPS PvE co-op horde, big launch, sustained |
-| 3 | REMNANT II | `remnant-2` | 1282100 | queued | 68,559 | 82.3% | Very Positive | 2023-07 | **38,117** | +/-2.5% | TPS soulslike co-op - the game every Immortal: Unchained review named |
+| 3 | REMNANT II | `remnant-2` | 1282100 | **WIP** - pulled 2026-09-12, 1,382 of 1,602 planned, +/-3.27% | 68,559 | 82.3% | Very Positive | 2023-07 | **38,117** | +/-2.5% | TPS soulslike co-op - the game every Immortal: Unchained review named |
 | 4 | Risk of Rain 2 | `risk-of-rain-2` | 632360 | queued | 352,630 | 93.8% | Very Positive | EA 2019-03, 1.0 2020-08 | **239,276** | +/-2.5% | TPS roguelite co-op - the game every ArcRunner review named; an early access that succeeded |
 | 5 | Warframe | `warframe` | 230410 | queued | 676,726 | 87.8% | Very Positive | 2013-03 | **300,944** | +/-2.5% | TPS co-op looter, free, thirteen years of live service |
 | 6 | OUTRIDERS | `outriders` | 680420 | queued | 61,297 | 67.0% | Mixed | 2021-04 | **38,370** | +/-2.5% | TPS co-op looter that did not hold - the failure counterpart to rows 1-5 |

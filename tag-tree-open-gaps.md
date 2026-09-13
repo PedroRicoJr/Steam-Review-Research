@@ -8048,3 +8048,29 @@ escalates (187921153), story lost during combat (189003013) + cluttered-screen t
 feels unique (199241571), not-a-live-service praise (185057274), the three defence-layer shapes (206151338,
 208087833, 216646575), bots do the fighting (204978219), template reviews (220787298, 223870173), several genres
 at once (228059310), money past the cosmetic grind (228059310), community fix beat the studio (230569458).
+
+
+## One mode built, four one-sighting notes - round 317 (Remnant II batch 1)
+
+**Built: `game-design.randomness.the-thing-you-need-may-never-roll` (−)** on three sightings in fifty reviews
+(`143174172`, `143171802`, `143172313`). Loot evidence for gap 331; the home is `randomness` until Rico decides
+the loot subject.
+
+**A progression cap the players want lifted - one sighting, 174 helpful.** `143173782`: *"uncap trait points"*, the
+whole review. On `unlock-pace.unknown`. If a second review asks for a cap to go, build
+`unlock-pace.the-cap-stops-you-short` (**−**).
+
+**Switching gear costs the levels you put in - one sighting.** `143172124`: *"swapping weapons feels not worth it
+because you need to level them in order for them to be worth using ... I'm discouraged from trying different
+weapons."* On `unlock-pace.unknown`. Distinct from `every-unlock-is-a-sideways-swap`; build on the second.
+
+**The interact key picks the wrong target - one sighting.** `143172124`: waiting for the revive prompt, *"or if
+some ammo is nearby and you pick up the ammo instead of ressing them."* On `world-interaction.unknown`. Build on
+the second - it is a common co-op shape.
+
+**Music cuts in and out - one sighting.** `143173256`: *"really good music but cuts in and out weirdly and
+abruptly."* On `music.unknown`; a transition defect, not a taste complaint. Build on the second.
+
+**"Pet the dog" three times in one batch** (`143173673`, `143173339`, `143172033`), all filed on
+`world-interaction.world-reacts-to-you` by its own definition - a thing the world lets you do that changes nothing.
+No new mode; noted so the count is not lost.

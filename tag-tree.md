@@ -7137,6 +7137,25 @@ round 305 said to split this off `old-fashioned-and-better-for-it` on a third wi
 
 
 
+## Mode added during the Remnant II run - batch 1
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.the-thing-you-need-may-never-roll` | **−** | The dungeon, boss, weapon or item the player needs for a build or a goal is placed by chance, so they reroll the world again and again and may still not get it - the item drops are one type over and over, the boss spawned once in five rerolls, the dungeon with the armour never came. The complaint is about progress being held behind a draw, not about a fight. Distinct from `.luck-decides-the-outcome` (chance settles a fight the player could have won), from `content-variety.the-generator-sometimes-breaks-the-run` (the generated map cannot be finished at all) and from `.randomness-keeps-it-fresh` (the same rerolling, enjoyed). |
+
+🔑 **Three sightings in the first fifty reviews of this game.** `143174172`: *"most items are locked in certain
+dungeons you are not guaranteed to get ... Tried two different biomes and had to luck on getting the dungeons I
+needed. As a result I am stuck with potato rolls armor."* `143171802`: *"I found 3 SMGs in the first like 4 hours,
+but heaven forbid you want a shotgun."* `143172313`: *"Trying to find an item, dungeon, or boss only to not get it
+was rather annoying. One particular boss only spawned once in our entire game play and it took about 5 rerolls."*
+Built on sight because three are more than the second-sighting rule asks for.
+
+⚠️ **This is loot evidence for gap 331.** The missing `game-design.loot` subject is Rico's call; until it exists
+the mode sits under `randomness` because what the players describe is the draw, not the inventory.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

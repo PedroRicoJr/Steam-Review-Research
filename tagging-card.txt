@@ -1031,3 +1031,4 @@ game-design.game-feel.controls.the-default-layout-is-awkward | - | The shipped b
 game-design.pacing.the-level-pads-itself-with-lifts-and-walks | - | Inside a mission the game fills time with scripted waiting that is not play - a lift ride, a slow door, a heav
 game-design.game-feel.combat.forces-the-melee-on-you | - | The design pushes the player into close combat, or into switching between sword and gun, whether or not that i
 marketing.reputation.praised-for-simply-being-a-good-game | + | The reviewer's whole account of the game's success is that the studio set out to make a good game and did - no
+game-design.randomness.the-thing-you-need-may-never-roll | - | The dungeon, boss, weapon or item the player needs for a build or a goal is placed by chance, so they reroll t
