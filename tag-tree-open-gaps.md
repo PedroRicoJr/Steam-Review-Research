@@ -8074,3 +8074,26 @@ abruptly."* On `music.unknown`; a transition defect, not a taste complaint. Buil
 **"Pet the dog" three times in one batch** (`143173673`, `143173339`, `143172033`), all filed on
 `world-interaction.world-reacts-to-you` by its own definition - a thing the world lets you do that changes nothing.
 No new mode; noted so the count is not lost.
+
+
+## Four modes built; gap 332 closed; two notes - round 318 (Remnant II batch 2)
+
+**Built:** `unlock-pace.the-cap-stops-you-short` (−; three sightings, closes the round-317 note; `143173782`
+re-homed), `narrative.story.the-ending-lets-it-down` (−; `143171238`, `143171047`),
+`engineering.performance.only-runs-right-with-upscaling-on` (−; `209802519` ARC + `143171204` - **gap 332 closed**,
+`209802519` re-homed off `demanding-hardware`), `new-player-experience.no-need-to-have-played-the-earlier-games`
+(+; `143173032` re-homed off `story.unknown`, `143620475`).
+
+**The previous game's protagonist is dropped without a word - one sighting.** `143171238`: *"Your character from
+Remnant from the ashes Is completly missing and there is no follow up on them."* On `story.unknown`. A sequel-specific
+complaint; build under `narrative.story` on the second.
+
+**Non-host dodge windows are inconsistent - homed, noted.** `143621306`: *"Iframes on dodges feel inconsistent if you
+are not the host ... playing as non host can feel rather helpless."* On `netcode.lag-and-desync`. A host-advantage
+mode in a listen-server co-op game is a real shape and the corpus has other hosting modes (`only-the-host-keeps-the-progress`,
+`the-host-can-remove-you-at-will`); if a second review says the guest fights at a disadvantage, build
+`engineering.netcode.the-guest-plays-at-a-disadvantage` (−).
+
+**Final boss, five ways in one batch.** `143170844`, `143621077`, `143620125` on `one-part-is-far-harder-than-the-rest`;
+`143171025` glitched with no way back but a full restart (`bugs.breaks-play` + `no-way-to-replay-one-chapter`);
+`143171204` the same boss as the best thing in the genre (`memorable-specials`). Counted for the findings page.

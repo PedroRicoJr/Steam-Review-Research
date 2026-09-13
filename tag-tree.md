@@ -7156,6 +7156,54 @@ the mode sits under `randomness` because what the players describe is the draw, 
 
 
 
+## Modes added during the Remnant II run - batch 2
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-cap-stops-you-short` | **−** | Progression has a hard ceiling - a level cap, a point cap, a trait cap - and the player reached it with more they wanted to do, so playing on earns nothing. The complaint names the cap itself and asks for it to go. Distinct from `.nothing-left-to-chase` (everything worth having is unlocked and the game sets no goal - the content ran out, not a number) and from `.grindy` (the pace to the ceiling, not the ceiling). |
+
+🔑 **Three sightings, this game.** `143173782` (174 helpful, the whole review): *"uncap trait points."* `143619186`:
+*"remove trait cap ffs."* `143619003` (thumbs-down): *"there's one thing that killed it for me: Trait points capped ...
+a cap of 65 ... after a playthrough and some multiplayer sessions, I'm capped out ... It's not a PvP game. Me
+leveling up after putting hours in should be allowed."* Opened as a one-sighting note in round 317; a word search
+for *trait cap / trait points* returns seven hits in this game alone.
+
+✅ **One re-home**: `143173782` off `.unknown`.
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-ending-lets-it-down` | **−** | The story held up until its close and the ending lands empty - no conclusion, nothing the fight turned out to mean, a finish that reads as rushed. The complaint is aimed at the ending specifically, not at the story as a whole. Distinct from `.thin-or-forgettable` (the whole story fails to land), from `level-design.the-campaign-just-stops` (no final push or set piece at all - the shape of the last level, not the meaning of the story) and from `difficulty-tuning.the-final-fight-is-a-pushover` (the last fight is too easy). |
+
+🔑 **Two sightings, this game, same day.** `143171238`: *"your fight against the root and everything literally
+means nothing in the end. not really a point to play the game when the ending Is so anti climatic."* `143171047`:
+*"the Ending felt like... opening a bag of chips and realising it's just filled with air ... no real conclusion or
+feeling or accomplishment at all to it. It sort of just ends like it was rushed."*
+
+### `engineering.performance`
+| Mode | | Definition |
+|---|---|---|
+| `.only-runs-right-with-upscaling-on` | **−** | The game only reaches a playable frame rate, or only looks acceptable, with DLSS, FSR or another upscaler switched on - the native image is bad or too slow, and the upscaler is doing the renderer's job. The complaint is about the dependence, not about the hardware. Distinct from `.demanding-hardware` (the machine is too slow for it), from `.no-modern-graphics-options` (the upscaler is missing) and from `.well-optimised`. |
+
+🔑 **Two sightings, two games - closes gap 332.** `209802519` (ARC Raiders, round 270): *"The game looks like crap if
+u ever dare to turn off ai upscalers."* `143171204` (Remnant II): *"poor perfomance at what devs said that it
+supposed to run with DLSS permanently on to perform decently."*
+
+✅ **One re-home**: `209802519` off `.demanding-hardware`.
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.no-need-to-have-played-the-earlier-games` | **+** | A sequel or a series entry that a newcomer can pick up without the earlier games - the story catches them up, or simply does not require the history - and the reviewer names that as a good thing. Distinct from `.easy-to-start` (the play is easy to learn on the first session - mechanics, not history) and from `positioning.successor-framing-accepted` (a returning player judging the sequel against the original). |
+
+🔑 **Two sightings, this game.** `143173032`: *"Did not play the first. This though does a great job catching you
+up."* `143620475`: *"You do not need to play previous games to feel apart of the story."*
+
+✅ **One re-home**: `143173032` off `narrative.story.unknown`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

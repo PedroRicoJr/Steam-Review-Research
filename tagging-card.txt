@@ -1032,3 +1032,7 @@ game-design.pacing.the-level-pads-itself-with-lifts-and-walks | - | Inside a mis
 game-design.game-feel.combat.forces-the-melee-on-you | - | The design pushes the player into close combat, or into switching between sword and gun, whether or not that i
 marketing.reputation.praised-for-simply-being-a-good-game | + | The reviewer's whole account of the game's success is that the studio set out to make a good game and did - no
 game-design.randomness.the-thing-you-need-may-never-roll | - | The dungeon, boss, weapon or item the player needs for a build or a goal is placed by chance, so they reroll t
+game-design.progression.unlock-pace.the-cap-stops-you-short | - | Progression has a hard ceiling - a level cap, a point cap, a trait cap - and the player reached it with more t
+narrative.story.the-ending-lets-it-down | - | The story held up until its close and the ending lands empty - no conclusion, nothing the fight turned out to 
+engineering.performance.only-runs-right-with-upscaling-on | - | The game only reaches a playable frame rate, or only looks acceptable, with DLSS, FSR or another upscaler swit
+game-design.new-player-experience.no-need-to-have-played-the-earlier-games | + | A sequel or a series entry that a newcomer can pick up without the earlier games - the story catches them up, 
