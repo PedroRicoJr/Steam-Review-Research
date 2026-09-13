@@ -7542,6 +7542,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 
 
+## Mode added during the Remnant II run - batch 20
+
+### `engineering.stability`
+| Mode | | Definition |
+|---|---|---|
+| `.only-stable-with-the-cpu-slowed-down` | **−** | The player keeps the game running only by **slowing their own processor** - underclocking or a tuning utility - and says an end user should never have to. **Distinct from `.one-setting-causes-the-crashes`**, where the fix is an option inside the game, and from `.crashes-repeatedly`, where no fix is named. **Records that the game asked the player to change their hardware, not its settings.** |
+
+🔑 **Second sighting in the same game.** Remnant II 178580577 (batch 19, "downclocking my processor significantly, which end-users should never really have to do") and 186235336 ("I use an Intel i7-13700K and have to use Intel Extreme Tuning Utility to underclock my processor to prevent crashes"). ✅ **Re-homes**: none - 178580577's will-not-start bullet stays; a second bullet was appended under the new mode.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

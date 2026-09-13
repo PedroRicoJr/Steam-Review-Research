@@ -8514,3 +8514,14 @@ this game and the first that recovered.
 grind (`177122023`, `177599821`); no chat, three more (`176119385`, `177122023`, `177116988` - the last for coordinating
 an item trade with a random; seven communication complaints now); *"lost 80% of its playerbase after the first month"*
 (`177599821` on `the-numbers-are-falling` - the first population claim in this game).
+
+## Notes - round 336 (Remnant II batch 20)
+
+- **Built** `engineering.stability.only-stable-with-the-cpu-slowed-down` (−) on the second sighting: 178580577 (batch 19, filed under will-not-start; a second bullet appended) and 186235336 (i7-13700K, Intel Extreme Tuning Utility, to prevent crashes). Arc Raiders 209803634 names a 13900HX with crashes but no underclock - not counted.
+- **No build - a home existed.** 182187651 "wish there was a way in-game to see what you are missing" went to `game-design.ui-ux.does-not-show-what-is-left-to-earn`, the mode built for Immortal: Unchained 44987381. 204418952 (later in this group) says "wiki-checklist styled secrets" - watch whether it is this or the guide mode.
+- **One sighting, note only:** 187410273 - with the Epic-launcher save workaround, the launcher you start from decides which friends you can see (filed on `co-op-design.unknown`). Same review: save corruption unfixed for a year, argues it breaks consumer law; the seventh save-loss review in this game, the first to name a fix the players found themselves.
+- **One sighting, note only:** 186235336 - turn the in-game music off to hear the final boss's sound cues (filed on `readability.threats-unclear`). Fifth final-boss-unreadable review; first to name the music as the reason.
+- **One sighting, note only:** 186235336 - boss rush does not save progress inside a long gauntlet; a kick loses an hour (filed on `netcode.a-disconnect-loses-the-run`; the home fits).
+- **Rico-open loot subject, tally:** 187405015 "way too many rings" - fourth rings-as-filler review (147371910, 148751723, 163946710), all on `power-balance.some-options-are-useless`.
+- **Rico-open "the first game had X" pattern:** 184993894 asks Remnant 3 to go back to the first game's boss and elite design; 184308304 "buy the first game". Filed on bosses-are-a-chore and falls-short-of-the-studios-earlier-games.
+- **Counted this batch:** nerfs named as constant (183452969 - first nerf complaint in this game); "developers don't seem to like us" (adversarial, first in this game); performance worse after the DLC patches (183452969, second); lowest difficulty not worth playing (183508483, second in this game); power level barely changes (183498701, NOLEVEL, third).
