@@ -7569,6 +7569,19 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting in one game.** Remnant II 175574627 ("hopping off cliffs into invisible walls"), 188939763 ("invisible walls scattered around the environment create unnecessary roadblocks that break immersion"), 189605023 ("absolutely random invisible walls"). ✅ **Re-homes**: none - 175574627 had no bullet for it; one was appended.
 
 
+## Modes added during the Remnant II run - batch 22
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-jumping-sections-do-not-belong-in-a-shooter` | **−** | The level asks the player to **jump between platforms** in a game they bought to shoot, and the jumping is the part they hate. **Distinct from `game-feel.movement.unreliable`**, where the jump itself misfires, and from `readability.geometry-unclear`, where the player cannot tell what is solid; here the section exists and the player says it should not. **Records a mismatch between the level and the genre.** |
+| `.slow-doors-and-lifts-pad-the-run` | **−** | The player names **waiting on doors and lifts** as dead time the level adds to every run. **Distinct from `progression.unlock-pace.padding-a-short-game`**, where the padding is grind, and from `engineering.performance.long-load-times`, where the player names loading; here the wait is a piece of the level. **Records dead time built into the space.** |
+
+🔑 **Jumping - fifth sighting in one game.** Remnant II 144295331 ("why is the platforming the worst enemy in a third-person shooter"), 163946710 (jumping puzzle, jump badly implemented - stays on `movement.unreliable`), 174475268 ("platforming is hard sometimes so your friends might rage"), 188939763 ("the jumping puzzles are a nightmare"), 196589498 ("Remove the puzzles. This is not a platforming game."). ✅ **Re-homes**: 174475268 off `movement.unknown`, 188939763 off `readability.geometry-unclear`.
+
+🔑 **Lifts - third sighting in one game.** Remnant II 144828901 ("a lot of artificial time increase with very slow-opening doors and elevators"), 176586476 ("waiting for the same long elevators" - stays on `padding-a-short-game`, the bullet is the whole loop), 195506924 ("20 elevators in 2 hours"). ✅ **Re-homes**: 144828901 off `padding-a-short-game`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

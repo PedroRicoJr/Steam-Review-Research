@@ -1062,3 +1062,5 @@ community.user-created-content.a-tool-exists-to-beat-the-reroll | ~ | The review
 engineering.stability.only-stable-with-the-cpu-slowed-down | - | The player keeps the game running only by **slowing their own processor** - underclocking or a tuning utility 
 game-design.readability.the-final-fight-cannot-be-read | - | The rest of the game reads fine, but the **last fight** throws so many effects, arena changes and overlapping 
 game-design.level-design.invisible-walls-block-the-way | - | The player runs into **unseen barriers** where the space looks open, and calls them arbitrary. **Distinct from
+game-design.level-design.the-jumping-sections-do-not-belong-in-a-shooter | - | The level asks the player to **jump between platforms** in a game they bought to shoot, and the jumping is the
+game-design.level-design.slow-doors-and-lifts-pad-the-run | - | The player names **waiting on doors and lifts** as dead time the level adds to every run. **Distinct from `pro
