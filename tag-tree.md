@@ -7633,6 +7633,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Remnant II 146779750 (batch 13, "They usually lore dump you a lot of information though" - a bullet appended) and 214777215 ("enjoyed it but too much yapping", 15 helpful). 204927858 ("less cutscenes and dialogue that lock me in place") stays on `cannot-skip-what-the-game-plays-at-you` - the lock is the complaint there. ✅ **Re-homes**: none.
 
 
+## Modes added during the Remnant II run - batch 26
+
+### `engineering.bugs`
+| Mode | | Definition |
+|---|---|---|
+| `.equipped-things-vanish-or-unequip-themselves` | **−** | A mod, trait, ring or amulet the player had **on** is gone or switched off the next time they look, with no action of theirs. **Distinct from `stability.progress-not-saved`**, which is the save; here the save loads and the loadout is wrong. **Records the loadout coming apart on its own.** |
+
+🔑 **Second sighting in one game.** Remnant II 219491161 ("randomly loosing traits and amulet") and 220078219 ("your mod will disappear or your traits will unequip them selves"). ✅ **Re-homes**: 219491161 off `.buggy`.
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-sequel-changes-too-little` | **−** | The player came for a step up from the earlier game and found **the same game again**. **Distinct from `reputation.falls-short-of-the-studios-earlier-games`**, where the sequel is worse, and from `.successor-framing-accepted`, where "more of the same" is the praise; here sameness is the complaint. **The negative half of `.successor-framing-accepted`.** |
+
+🔑 **Second sighting in one game.** Remnant II 220764483 ("I was expecting a big upgrade from the first game, but it's just more of the same") and 222191203 ("remnant 1 and 2 are really good games but they kind of the same, not really that much has changed"). Three earlier "more of the same" reviews (144881749, 176589142, 192807046) say it approvingly and stay where they are. ✅ **Re-homes**: none.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

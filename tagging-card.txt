@@ -1070,3 +1070,5 @@ game-design.level-design.one-area-drags-the-rest-down | - | The player names **o
 engineering.platform-support.no-cloud-save | - | The game keeps its save **only on the local disk**, and the player found out when a save was lost. **Distinct 
 game-design.game-feel.combat.melee-has-no-parry-or-block | - | The player wants to **parry or block** at melee range and the game gives no such move, so close fighting is do
 narrative.story.the-game-talks-too-much | - | The player says the game **talks more than they want to listen** - dialogue, lore dumps, characters that will 
+engineering.bugs.equipped-things-vanish-or-unequip-themselves | - | A mod, trait, ring or amulet the player had **on** is gone or switched off the next time they look, with no ac
+marketing.positioning.the-sequel-changes-too-little | - | The player came for a step up from the earlier game and found **the same game again**. **Distinct from `reputa
