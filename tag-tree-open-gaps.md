@@ -8323,3 +8323,21 @@ gone (on `falls-short-of-the-studios-earlier-games`); `150195079`: armour set pe
 the tree records what was lost, not that it was lost from the predecessor. If Rico wants the pattern itself, it would
 be a `marketing.positioning` mode - `the-sequel-dropped-something-the-first-game-had` (−). Noted, not built:
 `positioning` rows are about how the game is framed, and this is a design claim.
+
+## No mode built; two notes - round 328 (Remnant II batch 12)
+
+**Will-not-start, two more in the first batch after the build.** `150183509` (crashes at the intro cutscene on a machine
+above recommended specs, every fix tried) and `150192770` (will not open without Windows 7/8 compatibility mode - the
+'out of video memory' error on a 4070 Ti). Both on `access.will-not-start-at-all`; four in this game now.
+
+**Made a friend through the game - home found, no build.** `151193907`: *"met an amazing friend through this."* The
+corpus grep found four earlier cases and they sit on `player-conduct.strangers-became-friends` (Deep Rock, Space Marine
+2). Filed there. Recorded so the next reader does not grep the same phrase again.
+
+**The dropped-from-the-first-game pattern, a fourth case.** `151192360`: *"Missed the desert biome though..."* On
+`world-and-setting.unknown`. See the round-327 note; still not built, still Rico's call.
+
+**Counted, no gap:** Linux via Proton unplayable at the character screen (`150193370` on `broken-on-my-platform`, the
+first Linux report in this game); full game plus two DLC equals one AAA price, named as the right way to sell
+(`150193099` on `dlc-is-fair`); the copypasta that breaks itself to tell you to buy the game (`151193776` on
+`repeats-a-copied-meme-text`).
