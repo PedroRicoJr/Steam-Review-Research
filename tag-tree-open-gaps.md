@@ -8298,3 +8298,28 @@ direction given, build `new-player-experience.tells-you-where-not-how` (**+**).
 covers it); cannot pause in single player (`147380758`, homed); the final-boss phase-two crash unfixed for months
 (`148301219` on `crashes-on-specific-event` and `known-bugs-never-fixed`); globe-wide pairing with no ping control a
 fourth time (`149259423`).
+
+## Two modes built; two notes - round 327 (Remnant II batch 11)
+
+**Built:** `controls.stuck-in-aim-down-sights` (−; `144863817` re-homed off `.unresponsive`, `149708864`) and
+`co-op-design.a-guest-can-decide-your-campaign` (−; `144882997` re-homed off `.unknown`, `149678700` - two joiners ran
+the host to the credits in half an hour; closes the round-322 note).
+
+**Melee cannot reach the bosses - a whole class of build, counted.** `149679985` (4 helpful): *"Then you hit the first
+boss that flies, or sits over a void out of melee range ... As you play through this game as a melee build, you will
+progress through every stage of grief, one boss at a time."* `149710937`: *"some bosses are basically immune"* to
+melee. Both on `enemy-design.a-whole-loadout-cannot-hit-it`, which fits exactly; with `146814499` (batch 9, melee needs
+more gear) that is three melee-viability reviews in 550.
+
+**A tool that previews the world roll - one sighting.** `149688920`: *"Downloaded a tool to let me see what dungeons
+I'd roll just by resetting my world without having to go into it over and over, and rolled 120 times."* On
+`user-created-content.unknown`. The subject has mods that extend, fix, or add a mode; nothing for a tool that exists
+to shortcut the game's own randomness. If a second review names such a tool, build
+`user-created-content.a-tool-exists-to-beat-the-reroll` (~).
+
+**A feature from the earlier game removed in the sequel - counted, watch.** `150196497`: armour and accessory upgrades
+gone (on `falls-short-of-the-studios-earlier-games`); `150195079`: armour set perks gone (on `shallow-options`);
+`144865141` in batch 6: Survival mode gone (on `modes.expected-mode-missing`). Three sightings, three homes, because
+the tree records what was lost, not that it was lost from the predecessor. If Rico wants the pattern itself, it would
+be a `marketing.positioning` mode - `the-sequel-dropped-something-the-first-game-had` (−). Noted, not built:
+`positioning` rows are about how the game is framed, and this is a design claim.

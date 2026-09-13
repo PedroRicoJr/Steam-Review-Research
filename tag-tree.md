@@ -7395,6 +7395,31 @@ named gate and no row for the plain case. Windows 7 (`120237242`) stays on `.unk
 
 
 
+## Modes added during the Remnant II run - batch 11
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.stuck-in-aim-down-sights` | **−** | Once the player aims, the game holds them in the aimed view past the point they let go - a toggle that will not untoggle, a scope that stays on - and they lose the fight or the moment getting out of it. Distinct from `.unresponsive` (input in general is late or dropped), from `.actions-trigger-by-themselves` (the game starts an action the player never asked for - here the player asked for it and cannot end it) and from `camera.camera-gets-in-the-way` (the view is wrong on its own, not because of an input state). |
+
+🔑 **Two sightings, this game.** `144863817`: *"the worst of all it gets stuck on aim down sights, which has quite
+literally got me killed more than once."* `149708864`: *"Since we have 'toggle aim', can't just let us stop scope the
+fxxk in when just wanna to tap twice to stop aiming?"* Corpus grep for stuck-in-aim phrasing: these two only.
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-guest-can-decide-your-campaign` | **−** | A player who joins the host's world can commit the host's campaign to something the host did not choose - answer a quest, take a branch, run it to the credits - and the host has no say and no way back. Distinct from `.only-the-host-keeps-the-progress` (the guest's loss: their own world gains nothing), from `social-features.you-choose-who-can-join` (the door - closing it is the workaround these reviewers use) and from `.one-player-can-stall-everyone` (a guest who stops progress rather than spends it). |
+
+🔑 **Two sightings, this game.** `144882997`: *"As the host, if a random joins your campaign, they can interact and
+make quest decisions without your input... this is horrible. I end up placing my game on Friends Only mode."*
+`149678700`: *"I was at Losomn ready to meet Red Prince, two players joined, half hour later, I saw game credits...
+what happened? where was I? why I am here?"* Opened in round 322; closed here.
+
+✅ **Two re-homes**: `144863817` off `controls.unresponsive`; `144882997` off `co-op-design.unknown`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

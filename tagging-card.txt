@@ -1049,3 +1049,5 @@ production.content-variety.the-generation-adds-nothing | - | The levels are proc
 engineering.bugs.the-reward-never-arrives | - | The player did the thing and the game failed to hand over what it owed - the boss dropped nothing, the campaig
 engineering.matchmaking.no-ping-shown-before-you-join | - | The game gives the player no way to see or filter the connection quality of a session before joining it - no p
 engineering.access.will-not-start-at-all | - | The game never gets past launch on the player's machine - an error dialog, a crash before the menu, a black sc
+game-design.game-feel.controls.stuck-in-aim-down-sights | - | Once the player aims, the game holds them in the aimed view past the point they let go - a toggle that will no
+game-design.co-op-design.a-guest-can-decide-your-campaign | - | A player who joins the host's world can commit the host's campaign to something the host did not choose - answ
