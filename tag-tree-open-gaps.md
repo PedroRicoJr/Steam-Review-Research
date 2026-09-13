@@ -8341,3 +8341,24 @@ corpus grep found four earlier cases and they sit on `player-conduct.strangers-b
 first Linux report in this game); full game plus two DLC equals one AAA price, named as the right way to sell
 (`150193099` on `dlc-is-fair`); the copypasta that breaks itself to tell you to buy the game (`151193776` on
 `repeats-a-copied-meme-text`).
+
+## One mode built; two notes - round 329 (Remnant II batch 13)
+
+**Built:** `narrative.story.your-choices-change-the-story` (**+**; `151182189`, `148759658` re-homed off
+`procedurally-varied`). The subject had no positive row for the player steering the story.
+
+**Motion-sickness options that miss some sources - one sighting.** `152602378`: *"There are also a number of
+accessibility controls for motion sickness, but they don't include the spinning loading screens and elevators, or the
+sprint POV change."* On `accessibility.vision.unknown`. The subject has `.causes-motion-sickness` (no option at all
+helped) and nothing for options that exist and leave gaps. `152598647` jokes the same way about N'Erud (*"vomiting is
+always fun"*). If a second review names an uncovered source, build
+`accessibility.vision.the-motion-sickness-options-miss-some-of-it` (−).
+
+**A single setting outside the game fixed the drops - homed.** `152598647`: turning off AMD Smart Access Memory turned
+15 fps drops into 60. On `performance.one-setting-causes-the-slowdown`; the row's definition says a graphics or engine
+option, and this is a BIOS or driver option, so the definition reads a little narrow. Not widened; noted.
+
+**Counted, no gap:** the fifth save-loss review (`152601001` - all data gone the day they bought the DLC, 130 hours, no
+restore, on `progress-not-saved`); guest progress not carried home (`152599734` on `only-the-host-keeps-the-progress` -
+*"map exploration and key progression check points = no"*); settings change nothing, one more (`152599280`, with
+frametimes - the sixth); the Survival-mode wish again (`151185274`, `152598647` - six mentions of the dropped mode now).

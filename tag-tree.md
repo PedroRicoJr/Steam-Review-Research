@@ -7420,6 +7420,22 @@ what happened? where was I? why I am here?"* Opened in round 322; closed here.
 
 
 
+## Mode added during the Remnant II run - batch 13
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.your-choices-change-the-story` | **+** | The reviewer names a decision they made - a dialogue answer, a quest branch, a side taken - as having changed what the story did next, and counts that as a good thing. Distinct from `.worth-following` (the story is good to watch, with no claim that the player steered it), from `production.content-variety.procedurally-varied` (the game varies the run; here the player varies it) and from `world-and-setting.world-worth-exploring` (attention pays off; here a choice pays off). |
+
+🔑 **Two sightings, this game.** `151182189`: *"decisions having meaning to your story line."* `148759658`: *"There
+are many version of paths. Each person will have a distinct path. The choice of your dialogue to the NPC will lead to
+different results."* `153080728` (*"different branching storylines you can follow"*) is still to come in the sample.
+The subject had no positive row for the player's hand in the story at all.
+
+✅ **One re-home**: `148759658` off `content-variety.procedurally-varied`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
