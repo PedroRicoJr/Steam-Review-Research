@@ -8439,3 +8439,29 @@ complaint. Still open with Rico.
 the sixth cap review); weapon scaling as the reason a buyer stops (`160046409` - *"had I known about the issue I would
 have not bought the game"*, the fifth); two more will-not-start after updates (`163409786`, `163945354` - six in this
 game); the final boss's second phase unreadable, twice (`160046409`, `161296644` on `threats-unclear`).
+
+## One mode built; three notes - round 333 (Remnant II batch 17)
+
+**Built:** `enemy-design.attacks-are-timed-to-bait-your-dodge` (−; `169282682`, `153663823` re-homed off `.unknown`;
+closes the round-330 note).
+
+**No HUD scaling on an ultrawide - one sighting.** `168624915` (25 helpful): *"I play on Ultra-wide monitor and there
+isnt an option to adjust HUD, so i just couldn't see my ammo/skills without turning my head all the time."* On
+`ui-ux.unknown`. Nothing in `ui-ux` or `accessibility.vision` covers HUD placement or scaling. If a second review names
+it, build `ui-ux.the-hud-cannot-be-moved-or-scaled` (−).
+
+**The player's own lines are silent - one sighting.** `165433529`: *"why the lines I pick aren't voiced, when everything
+else is."* On `voice-performance.unknown`. Build `voice-performance.the-players-lines-are-the-only-ones-unvoiced`
+(−) on the second.
+
+**Stamina drains too fast - one sighting, no home.** `169282682`: *"Dodging once consumes roughly 25% of your stamina
+without modifiers, but enemies can and will spam attacks that will deplete your stamina."* On `power-balance.unknown`.
+The subject has ammo, health and supplies under `.resources-too-scarce`; stamina is a per-fight resource, not a supply.
+Build `power-balance.stamina-runs-out-before-the-fight-does` (−) on the second.
+
+**Counted, no gap:** the loadout complaint with its fix on record (`169285505` - *"Edit: they added loadouts"*, plus item
+tags and a reworked relic menu, on `no-way-to-save-a-loadout` and `listens-and-acts`); no text chat a year on
+(`165398851`, the fourth communication complaint, this one filed on `ignores-feedback` as well); DLC items dropping for
+players who do not own the DLC (`166893580` on `dlc-forced-on-the-group` - the row's definition is about the owner
+changing the game for the group; this is the inverse cost, and the row still holds it); the Epic account gate for
+crossplay (`169285736`, the second); the first-game-was-bigger pattern, two more (`167914818`, `169275045` - eight).

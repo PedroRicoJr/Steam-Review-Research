@@ -7501,6 +7501,22 @@ round 322; closed here.
 
 
 
+## Mode added during the Remnant II run - batch 17
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.attacks-are-timed-to-bait-your-dodge` | **−** | Enemy attacks hold, delay or vary their timing so that a dodge on instinct lands in the swing, and the reviewer names the timing itself as the fault - learnable or not. Distinct from `.attacks-land-beyond-their-visible-reach` (space: the hit connects where it should not), from `.no-counterplay` (no answer exists at all - here the answer exists and the timing is built to deny it) and from `readability.threats-unclear` (the attack could not be read; here it can be read and still lies). |
+
+🔑 **Two sightings, this game.** `153663823`: *"basically all enemies tend to employ delayed attacks that punish you
+if you try to dodge instinctively. The times are easy enough once you learn them, but feel unnecessarily punishing on
+initial encounters."* `169282682`: *"Enemies can delay or expedite their attacks at random. This negates any timing
+capability. This is also very problematic when you have more than 1 opponent."* Opened in round 330; closed here.
+
+✅ **One re-home**: `153663823` off `enemy-design.unknown`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1056,3 +1056,4 @@ art.visual-direction.drab-and-colourless | - | The palette is grey, brown or was
 review.written-in-a-language-other-than-its-steam-tag | ~ | The review's text is in a language other than the one Steam filed it under - a Chinese or Russian review insid
 game-design.enemy-design.the-boss-hides-behind-its-adds | - | The boss fight's difficulty comes from the smaller enemies it keeps spawning rather than from the boss itself,
 game-design.solo-viability.some-rewards-need-a-second-player | - | A subset of the game's rewards - a puzzle, an item, a door - can only be obtained with another player present,
+game-design.enemy-design.attacks-are-timed-to-bait-your-dodge | - | Enemy attacks hold, delay or vary their timing so that a dodge on instinct lands in the swing, and the reviewe
