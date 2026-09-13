@@ -7582,6 +7582,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Lifts - third sighting in one game.** Remnant II 144828901 ("a lot of artificial time increase with very slow-opening doors and elevators"), 176586476 ("waiting for the same long elevators" - stays on `padding-a-short-game`, the bullet is the whole loop), 195506924 ("20 elevators in 2 hours"). ✅ **Re-homes**: 144828901 off `padding-a-short-game`.
 
 
+## Modes added during the Remnant II run - batch 23
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.the-stamina-runs-out-too-fast` | **−** | The **stamina pool empties** after one or two actions, so the player cannot dodge, sprint or swing as often as the fights ask. **Distinct from `.healing-is-too-slow-for-the-pace`**, which is the recovery, and from `power-balance.one-option-dominates`, which is what players do about it (the infinite-stamina build). **Records the resource, not the fix.** |
+
+🔑 **Second sighting in one game.** Remnant II 169282682 ("Stamina depletes entirely too fast. Dodging once consumes roughly 25%") and 205578816 ("Melee is impossible with the amount of stamina you are given"). ✅ **Re-homes**: 169282682 off `power-balance.unknown`.
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.the-roll-decides-which-content-you-see` | **−** | Whole **areas, bosses or quest lines** exist that a run may never show, and the player resents having to reroll to find them - asks for a way to see everything once. **Distinct from `.the-thing-you-need-may-never-roll`**, which is an item for a build; here nothing is needed, the player wants to have seen the content. **Records the roll as a gate on content, not on power.** |
+
+🔑 **Second sighting in one batch.** Remnant II 202739424 ("I'm not even guaranteed to see the other bosses or areas I didn't see the first time … should be an option to just have a true-playthrough") and 204919510 ("relying on RNG to reroll maps to experience everything, as some of the maps and questlines are actually pretty interesting yet no one will experience them on their first playthrough"). 201175078 says the same thing approvingly ("That secret .50 cal room? Might not exist in your seed") and stays on `procedurally-varied`. ✅ **Re-homes**: none.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
