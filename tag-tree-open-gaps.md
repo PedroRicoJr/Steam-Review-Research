@@ -8411,3 +8411,31 @@ the opening volume either way, build `audio.sound-effects.the-menu-is-not-deafen
 `buggy` and `the-studio-does-not-play-its-own-game`); armour progression cut (`156627085`) and armour set bonuses gone
 (`158307433`) - the dropped-from-the-first-game pattern is now six reviews, see round 327; hold the upgrades until a
 new arena outlevels you (`157288214` - the fourth scaling sighting, given as advice).
+
+## Two modes built; three notes - round 332 (Remnant II batch 16)
+
+**Built:** `enemy-design.the-boss-hides-behind-its-adds` (−; `162445066`, `144881421` re-homed off
+`bosses-are-a-chore`) and `solo-viability.some-rewards-need-a-second-player` (−; `162943512`, `144853704` re-homed
+off `co-op-design.unknown`). Both close round-322 notes.
+
+**Secret walls with no tell - one sighting, sits beside the guide mode.** `163946710`: *"there are a lot of illusory
+walls, which have 0 (i mean none, zero) indication or logic behind them. Like, in Dark Souls series you could always
+guess a wall."* Filed on `the-best-things-are-hidden-behind-a-guide` with the rest of that review's puzzle complaint.
+The specific - a hidden thing the level gives no clue for, against a genre that does - could be its own mode:
+`level-design.secrets-have-no-tell` (−). Build on a second review that names the missing clue rather than the
+guide.
+
+**The publisher's support channel, named by its new name.** `163945354`: *"Online help from ARC is a ghost town."*
+Arc Games is the publisher (Gearbox Publishing until 2024). On `support-request-went-unanswered`. This is the third
+review in this game to name the publisher's support as absent (`144288399` Gearbox site, `153081357`
+"Gunfire/Gearbox"); the publisher-communication split is still Rico's.
+
+**The loot mix, a fourth sighting.** `163946710`: *"you will very soon collect DOZENS of rings, amulets, relics ... like 5
+ring on one small map, but you have little use for them, because you have only 4 slots ... their quantity just
+devalues them."* On `some-options-are-useless`. See round 326 - a loot subject would hold this as the filler-type
+complaint. Still open with Rico.
+
+**Counted, no gap:** the trait cap explained in numbers (`163946710` - 65 points, eight and a half of thirty traits;
+the sixth cap review); weapon scaling as the reason a buyer stops (`160046409` - *"had I known about the issue I would
+have not bought the game"*, the fifth); two more will-not-start after updates (`163409786`, `163945354` - six in this
+game); the final boss's second phase unreadable, twice (`160046409`, `161296644` on `threats-unclear`).

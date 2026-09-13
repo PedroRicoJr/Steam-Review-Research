@@ -7473,6 +7473,34 @@ be filed when reached.
 
 
 
+## Modes added during the Remnant II run - batch 16
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-boss-hides-behind-its-adds` | **−** | The boss fight's difficulty comes from the smaller enemies it keeps spawning rather than from the boss itself, and the reviewer names that as the fault - every fight has the same add phase, the boss is a gimmick with a crowd in front of it. Distinct from `.bosses-are-a-chore` (too long or too many phases, whatever fills them), from `.overwhelming-numbers` (a crowd anywhere, not as a boss's crutch) and from `.memorable-specials` (the inverse: the boss carries the fight). |
+
+🔑 **Two sightings, this game.** `162445066`: *"man do they like to throw more and more adds at you rather than
+make a legitimately difficult boss fight in its own right ... every single encounter plays out the same way with an add
+phase that is just lame."* `144881421`: *"Gimmick bosses, spamming and ganking small enemies in boss battles."* The
+counter-sighting is on record too: `153663823` says bosses now lean less on minions than the first game did. Opened in
+round 322; closed here.
+
+### `game-design.solo-viability`
+| Mode | | Definition |
+|---|---|---|
+| `.some-rewards-need-a-second-player` | **−** | A subset of the game's rewards - a puzzle, an item, a door - can only be obtained with another player present, so a solo player is locked out of them however well they play. Distinct from `.punishing-solo` (solo is harder throughout), from `.unplayable-alone` (solo does not work at all) and from `.no-progression-solo` (solo earns nothing in general - here it earns everything but these). |
+
+🔑 **Two sightings, this game, both from players who otherwise played alone.** `162943512`: *"A small subset of loot
+puzzles strictly require at least two people to obtain, but this is not typical ... I played the game entirely solo."*
+`144853704`: *"some are mandatory co-op just jump into a game with a friend to complete."* The praise form of the same
+design (`144853572`, a puzzle needing two players in concert) stays on `co-op-design.demands-coordination`. Opened in
+round 322; closed here.
+
+✅ **Two re-homes**: `144881421` off `enemy-design.bosses-are-a-chore`; `144853704` off `co-op-design.unknown`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

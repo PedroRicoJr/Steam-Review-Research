@@ -1054,3 +1054,5 @@ game-design.co-op-design.a-guest-can-decide-your-campaign | - | A player who joi
 narrative.story.your-choices-change-the-story | + | The reviewer names a decision they made - a dialogue answer, a quest branch, a side taken - as having changed 
 art.visual-direction.drab-and-colourless | - | The palette is grey, brown or washed out and the reviewer names the missing colour as the fault - the places r
 review.written-in-a-language-other-than-its-steam-tag | ~ | The review's text is in a language other than the one Steam filed it under - a Chinese or Russian review insid
+game-design.enemy-design.the-boss-hides-behind-its-adds | - | The boss fight's difficulty comes from the smaller enemies it keeps spawning rather than from the boss itself,
+game-design.solo-viability.some-rewards-need-a-second-player | - | A subset of the game's rewards - a puzzle, an item, a door - can only be obtained with another player present,
