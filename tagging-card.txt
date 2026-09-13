@@ -1048,3 +1048,4 @@ engineering.performance.lowering-the-settings-does-not-help | - | The graphics o
 production.content-variety.the-generation-adds-nothing | - | The levels are procedurally generated and the reviewer says the generation buys nothing - the rerolled version
 engineering.bugs.the-reward-never-arrives | - | The player did the thing and the game failed to hand over what it owed - the boss dropped nothing, the campaig
 engineering.matchmaking.no-ping-shown-before-you-join | - | The game gives the player no way to see or filter the connection quality of a session before joining it - no p
+engineering.access.will-not-start-at-all | - | The game never gets past launch on the player's machine - an error dialog, a crash before the menu, a black sc

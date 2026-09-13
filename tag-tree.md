@@ -7378,6 +7378,23 @@ no ping display, so bad hosts can lag, drop, and burn a run."*
 
 
 
+## Mode added during the Remnant II run - batch 10
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.will-not-start-at-all` | **−** | The game never gets past launch on the player's machine - an error dialog, a crash before the menu, a black screen - so they never reach play, and they name no cause the tree already holds. Distinct from `.stopped-working-on-my-setup` (it ran before and no longer does), from `.anticheat-blocks-play`, `.account-or-platform-gate` and `.requires-internet` (a named gate), from `platform-support.broken-on-my-platform` (a named platform or OS) and from `stability.crashes-repeatedly` (the game runs and then falls over). |
+
+🔑 **Two this batch, seven earlier re-homed off `.unknown`.** `149276154`: *"The title of the game should be changed
+to 'DirectX 12 is not supported on your system.'"* `147830565`: *"cant even load after playing it 1 time"* and a crash
+log. Earlier, all filed on `.unknown` for want of this row: Back 4 Blood LatAm `100962724`, `163083557`, `177776580`;
+Helldivers 2 `166414674`, `229979244`; Immortal: Unchained `46664234`; Redfall `139304596`. The subject had every
+named gate and no row for the plain case. Windows 7 (`120237242`) stays on `.unknown` - that is a platform claim.
+
+✅ **Seven re-homes**, four games, all off `engineering.access.unknown`.
+
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -8271,3 +8271,30 @@ lore is delivered. If a second review names the delivery, build `world-and-setti
 **Counted, no gap:** the guest disadvantage a third time (`145882248` - server-side hit registration, named as the cause);
 kill XP removed so players avoid fights (`145881325`, `145881806` - both on `killing-them-earns-nothing`); the campaign
 ends on a cliffhanger for DLC (`146779750`, `146355088`, `144865141` in batch 6 - all on `the-ending-lets-it-down`).
+
+## One mode built; three notes - round 326 (Remnant II batch 10)
+
+**Built:** `access.will-not-start-at-all` (−; `149276154`, `147830565`; seven earlier bullets re-homed off
+`access.unknown` across Back 4 Blood LatAm, Helldivers 2, Immortal: Unchained and Redfall). The subject had every named
+gate - anti-cheat, account, internet, DRM - and no row for the plain case, so nine reviews sat on `.unknown`.
+
+**Rings instead of gear - loot-subject evidence, three in one batch.** `147371910`: *"Got the whole inventory full of
+rings that never got used."* `147371699`: *"at least i got my 80 RINGS... GOTTA HAVE THOSE RINGS MAN!"* `148751723`: *"Too
+many rings and amulets, not enough armour sets."* Filed on `power-balance.some-options-are-useless` (the rings) and
+`reward-moment.the-payout-lands-flat` (the missing gear). The complaint is about the **mix** of what drops - one filler
+type crowds out the kind the player wanted - and neither home says that. A loot subject would hold it as
+`loot.one-filler-type-crowds-out-the-rest` (−). Open with Rico.
+
+**Nothing drops at random; everything is staged - one sighting.** `148307667`: *"No random drops its all set and staged
+in specific areas."* On `the-payout-lands-flat` with the gear complaint. The inverse of `randomness.the-thing-you-need-
+may-never-roll` - here the player wanted chance and got placement. Loot-subject evidence as well.
+
+**Signposting that names the zone but not the route - one sighting.** `149259423`: *"strikes a good balance between
+holding your hand and letting you explore by telling you which zone you're supposed to be in but not explicitly
+pointing you in correct direction."* On `new-player-experience.unknown`. If a second review praises the level of
+direction given, build `new-player-experience.tells-you-where-not-how` (**+**).
+
+**Counted, no gap:** no native HDR (`147385500` on `performance.no-modern-graphics-options` - the row's list of options
+covers it); cannot pause in single player (`147380758`, homed); the final-boss phase-two crash unfixed for months
+(`148301219` on `crashes-on-specific-event` and `known-bugs-never-fixed`); globe-wide pairing with no ping control a
+fourth time (`149259423`).
