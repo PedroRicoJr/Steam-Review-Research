@@ -1029,3 +1029,87 @@ Galactic, where the same complaint is row 4 at 0.9 per 100; here it is row 1 at 
 
 ⚠️ **The corpus is now 21 games and about 15,200 English reviews.** Section 7's unread total predates six
 sections and should be recomputed before it is quoted.
+
+## 18. ⭐ What the twelfth large game adds - Remnant II, added 2026-09-13
+
+**The first sequel-to-a-known-game in the corpus, and the first game whose top complaint is content it
+hides on purpose.** 1,382 of 38,120 English reviews, a 3.63% sample at ±3.27%; 83.6% up; 3,183
+bullets, 2.30 per review; praise to complaint **1.60 : 1**; 363 distinct modes, **38 used by no other
+game; 43 built in 28 batches** - the tree went 1,033 → 1,076. Full read in `remnant-2-english.md`,
+ranked lists in `remnant-2.md`.
+
+### 🔑 The finding: the complaint list can turn over completely while the design stands still
+
+**Space Marine 2 showed a flat thumb over a moving complaint list, and the movement was the studio's
+- crashes fixed, price complaints in their place.** Remnant II shows the same turnover with nothing
+fixed and nothing broken: the launch-quarter reviewer argues about upscaling (1.5 per 100) and the
+sequel (12.7 accepted); the 2024 reviewer argues about the first game (7.1 *falls short*) and the DLC
+patches (1.5 *made it worse*); the 2025-26 reviewer argues about the wiki (7.9 → 10.0). **The
+engineering line went to zero because the machines caught up, not the studio; the design line rose
+because the audience changed, not the design.** By 2026 the hidden archetypes have been datamined,
+the wiki exists, and the new player is handed the answer key - three 2025-26 reviews say the studio
+*intended* the datamining. Thumb: 86.5% → 79.6% → 82.4%, complaints per 100 67 → 91.
+
+**The corpus now has three shapes of turnover.** Helldivers 2: engineering held, the relationship
+collapsed. Space Marine 2: everything held, the price took over. Remnant II: nothing changed, the
+reviewer did. **A complaint that rises for three years is not always a problem that got worse.**
+
+### The subject that grew: level design learned to say *hidden*
+
+**Before this game the level-design subject could say *well-built*, *confusing*, *repetitive* and
+*too linear*, and nothing about a level that hides its content on purpose.** `the-best-things-are-hidden-behind-a-guide`
+(61, batch 5) is the game's number one complaint and appears in no other game - Immortal: Unchained
+had the checklist ask, not this. Around it the run built the reroll that never gives you the item
+(24), the roll that decides which content you ever see (7), the third-party reroll tool (~), the
+invisible walls (3), the jumping sections that do not belong in a shooter (3), the lifts that pad the
+run (4), and the one area that drags the rest down (7). **46 of the 61 recommend the game; the same
+reviewers praise the secrets.** The next procedurally assembled game is measured on this cluster.
+
+### The sequel is a division of its own
+
+**`marketing` is 13.5% of everything said, and it is the first game.** `successor-framing-accepted`
+(139, tied for the most-said specific thing) against `falls-short-of-the-studios-earlier-games` (53)
+- 2.6 to 1, and both sides name the same features: armour set bonuses, the trait cap (*"uncap trait
+points"*, 174 votes, the most-helpful review), Survival mode, the old worlds. The acceptance falls
+across the run (12.7 → 4.7 per 100) as the reviewers who played the first game stop arriving. **A
+sequel is reviewed against its predecessor for two years and then against itself.** The third
+position - `the-sequel-changes-too-little` (2, batch 26) - closes the set: worse, better, same.
+
+### The machine that cannot run it, said four ways
+
+**The engineering division built four modes for one experience.** `only-runs-right-with-upscaling-on`
+(14, batch 2), `lowering-the-settings-does-not-help` (7, batch 8), `only-stable-with-the-cpu-slowed-down`
+(2, batch 20 - the player underclocks their own processor), and `will-not-start-at-all` (9, batch 10
+- 8 thumbs-down, median 2 hours, re-homed across five earlier games). None is a crash complaint.
+**The performance subject could say *demanding* and *stutter*; it can now say that the settings menu
+does not help and that the fix is on the player's hardware.**
+
+### Three things this game says about samples and the tree
+
+1. **A 3.6% sample built 43 modes in 28 batches** - 1.5 per batch, against Space Marine 2's 1.0 and
+   ARC Raiders' 1.3. The rate tracks how much of the game is new to the tree: a systems-heavy
+   souls-like against a tree built on horde shooters.
+2. **The launch week is a grid problem, not a Steam problem.** The grid split July 2023 into four
+   weekly windows; three end before the 2023-07-25 launch and returned nothing, so the launch week is
+   0.9% sampled against 3.5% elsewhere. **A game that launches late in a month needs the grid to know
+   the launch date.**
+3. **The English tag is not the English language.** `written-in-a-language-other-than-its-steam-tag`
+   (~, batch 15) - twelve here, 28 across ten games in one corpus pass - is 0.0 per 100 in 2023 and
+   2.9 in 2026. The late review stream of an old game drifts off its language tag.
+
+### What this game does NOT settle
+
+- **The `game-design.loot` subject (gap 331).** This is the strongest case in the corpus: nine
+  rings-as-filler reviews, three currency-starved, two praising the staged drops, all on power-balance
+  modes for want of a home. Rico's.
+- **The friendly-fire merge.** Six say the friendly fire is the fun; one says its absence saves
+  friendships and no mode approves the absence. Rico's.
+- **The publisher-communication split.** Gunfire Games for the design, Arc Games for the unfixed save
+  corruption; seven communication complaints sit on the community subject. Rico's.
+- **The *sequel dropped a feature* pattern.** Twenty-plus reviews, filed by what each said; whether one
+  mode should hold them was raised in round 328 and is Rico's.
+- **The non-English audience.** About 30,000 reviews, none pulled.
+
+⚠️ **The corpus is now 22 games and 15,559 English summaries.** Section 7's unread total predates seven
+sections and should be recomputed before it is quoted.
+
