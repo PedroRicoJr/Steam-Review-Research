@@ -8204,3 +8204,27 @@ ganking small enemies in boss battles."* On `enemy-design.bosses-are-a-chore`. A
 second review names the adds rather than the length, build `enemy-design.the-boss-hides-behind-its-adds` (−).
 
 **Survival mode dropped from the sequel - homed.** `144865141` on `modes.expected-mode-missing`. Counted; no gap.
+
+## No mode built; three notes - round 323 (Remnant II batch 7)
+
+**Procedural generation adds nothing - one sighting.** `144828901`: *"Idk why they keep insisting on making the worlds
+procedurally generated, it really doesn't help the game at all. It doesn't really add replay value besides when you
+need to keep restarting that world so the specific structure you need ... finally spawns."* On `content-variety.unknown`;
+the reroll half on `randomness.the-thing-you-need-may-never-roll`. The subject has `.procedurally-varied` (**+**) and
+`.the-maps-should-have-been-generated` (the wish for it) and no complaint that the generation is there and buys nothing.
+Build `content-variety.the-generation-adds-nothing` (−) on the second.
+
+**A crash mid-boss loses that boss's loot - homed, watch.** `144828901` on `stability.crashes-on-specific-event`: *"you'll
+miss the loot from a boss when crashing during or after the bossfight and then you'll need to unlock adventure mode and
+redo that whole world again."* The cost is the reward, not the run. `netcode.a-disconnect-loses-the-run` is the nearest
+and is about disconnects. If a second review names a lost boss reward after a crash, consider
+`stability.a-crash-costs-you-the-reward` (−).
+
+**An ambient sound that hurts - one sighting.** `145398201`: *"that humming sound in the earth like root place ... It is
+irritating and makes people have headache, worst map ever."* On `sound-effects.unknown`. The subject's negatives are
+about information (warnings, cues) and fit (`.sounds-out-of-place`); none is about a sound that is physically unpleasant
+over time. Build `sound-effects.a-sound-that-wears-you-down` (−) on the second.
+
+**Counted, no gap:** the trait cap again (`145397315`, the fourth), Epic Online Services as a gate (`145396918` on
+`access.account-or-platform-gate`), the Labyrinth boss called zero-skill RNG (`144833095` on `bosses-are-a-chore` - the
+same boss `144853572` called gold), multiplayer broken by a bug for many players (`145410081`).
