@@ -7700,6 +7700,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting in one game.** Risk of Rain 2 54499919 ("it can be hard to find the teleporter at times (Scorched Acres can be a bit frustrating)"), 70859322 ("until the teleporters are easier to see / identify / find, i can't recommend this sequel … running around an empty level, you've looted everything … clock is running down"), and 93823566 in a later window ("if you can't find the teleporter, you gain a lot of ramping difficulty for getting lost"). ✅ **Re-homes**: 54499919 off `.unknown`.
 
 
+## Mode added during the Risk of Rain 2 run - batch 8
+
+### `engineering.stability`
+| Mode | | Definition |
+|---|---|---|
+| `.a-crash-loses-the-run` | **−** | One crash ends a run the player had hours in, and the reviewer names the run as the cost - the stage reached, the minutes played - rather than the crash itself. **Distinct from `.crashes-repeatedly`** (frequency) and `.crashes-on-specific-event` (a reproducible trigger); this is one crash whose price is the session. **The stability twin of `engineering.netcode.a-disconnect-loses-the-run`**, which is the same loss by connection, and of `engineering.netcode.the-host-leaving-ends-everyones-run`, which is the same loss by someone else's drop. |
+
+🔑 **Second sighting in one game.** Risk of Rain 2 61908886 ("just crashed game at stage 34, 275 min run though so RIP") and 75246209 ("8 hours into the run, I crashed because I proc'ed like 15 scavengers with the huntress' left click"). Both thumbs-up; both name the run. ✅ **Re-homes**: 61908886 off `.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
