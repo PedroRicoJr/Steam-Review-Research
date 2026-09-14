@@ -9016,3 +9016,23 @@ Batch 31 of 38: 50 reviews, 2025-02-21 to 2025-04-30; 1,550 of 1,885 read. 46 up
 - 191032434: "got a run with a ton of amazing items and ended up crashing the game" - `a-crash-loses-the-run` (first here).
 
 **Counted this batch:** 46 up, 4 down; 5 edited later; 0 excluded (7 in 1,550). Meme x0 (30 in 1,550). Sequel accepted x0 (50 in 1,550). Foreign-language x0 (a one-word Russian "cool" on `positive.unknown` under the one-word rule; 10 in 1,550). "Rain" jokes x4. God run x1. Shrine and lunar-roll jokes x2 on `randomness.unknown`. Music praise x4. Noise reviews with nothing said x3 (barking, a keyboard mash, "i think").
+
+## Notes - round 376 (Risk of Rain 2 batch 32)
+
+Batch 32 of 38: 50 reviews, 2025-05-07 to 2025-07-15; 1,600 of 1,885 read. 46 up, 4 down.
+
+**No build.** Tree stays 1,088.
+
+**The consent wall, third sighting:** 196109434 (thumbs-down, 9 helpful, 2025-05-31): "Added EULA that I have no intent of accepting after I bought the game; now I cannot play the game nor refund it" - `a-consent-wall-was-added-after-purchase`, the mode built in round 358 on 50534187 and 99416598; this is the line that round 358 said was waiting. 196660257 (edited 2026-07): "changing my review as they seem to have removed / not acted on their new EULA" - `the-thumb-was-flipped-from-its-first-verdict` (3 here); the wall came down and the thumb went up, while "a greasy publisher owned by a very scummy company" stays on `ownership.unknown`. With 193373656 (round 375) that is three 2025 EULA lines in this game: data named, wall named, wall withdrawn.
+
+**Gearbox-era:** 194439416 (thumbs-down): "ask SEGA about the grifter in chief of this publisher; cash is king" - `owner-puts-players-off`. 194439803: "even after the most recent DLC launch - particularly after they fixed all the problems it brought - still peak" - `fixed-what-mattered`. Owner tally: put off 10, accepted 6, raised 6. Gearbox-era lines 44 in 1,600.
+
+**Second sightings on existing modes:** `the-action-never-stops` 196665858 "I love the fast pacedness of it" (second here after the build in round 372). `the-small-team-is-the-right-size` 195505040 "having 2 players is the gold spot" (first here). `frequent-disconnects` stays at 4; 196107672 is latency, not drops: "when I host my game is smooth but my friend's ping is so bad he can't play, same city, same when he hosts" - `servers.high-latency` (first here; player-hosted, felt as bad servers).
+
+**One sighting, no build:**
+- 194439803: "crossplay requires Epic Online Services to function, otherwise you are limited to Steam players" - `access.account-or-platform-gate`; said as a note, not a complaint.
+- 197340488 (thumbs-down): "too many things in this game that don't make sense" - `poorly-explained` (first here, against `teaches-you-as-you-go` at 2).
+- 195505040: "if you get overwhelmed easily do not play this game" - on `difficulty-tuning.unknown`; the warning is about the screen and the pressure together, and neither `overwhelming-at-first` (complexity) nor `effects-block-your-view` is quite it.
+- 196107672: "killed in 2 hits randomly" - `spikes-out-of-nowhere` (first here).
+
+**Counted this batch:** 46 up, 4 down; 7 edited later; 0 excluded (7 in 1,600). Meme x1 (31 in 1,600). Sequel accepted x0 (50 in 1,600). "Rain" jokes x2. God run x4 ("killing god", "become god", "destroying whole ecosystems"). Music praise x6 ("electric" x3). `keeps-pulling-you-back` x5. One ASCII-art review with no words on `positive.unknown`.
