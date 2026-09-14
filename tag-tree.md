@@ -7670,6 +7670,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Remnant II 203273925 ("just be warned, the person without the dlc cannot use the DLC-related items that can be gained") and 233554645 ("Only the host needs the DLCs to make it available for co-op, but without the DLCs then you wouldn't be able to access its weapons and equipement"). ✅ **Re-homes**: 203273925 off `.one-copy-covers-the-group` - the bullet carries both halves and the warning is its point.
 
 
+## Mode added during the Risk of Rain 2 run - batch 5
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-levels-are-too-small` | **−** | The maps are small enough that a few runs teach every layout, and the reviewer wants **bigger levels with more to find** - the complaint is a space that runs out of places, not a fight that runs out of room. **Distinct from `.the-spaces-are-scaled-too-small`**, where the arena is too tight for the game's own verbs (no room to dodge or flank), and from `production.content-amount.levels-too-short`, where a level ends too soon in time. |
+
+🔑 **Second sighting in one game.** Risk of Rain 2 55007934 ("Small levels. Personally, I'd like to see some more expansive levels, especially given how cool some of them look") and 61021248 ("my only gripe is that the levels are really small, and after learning their layouts they can feel short or small"). ✅ **Re-homes**: 55007934 off `.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
