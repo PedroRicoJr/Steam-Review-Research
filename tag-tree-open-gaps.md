@@ -8969,3 +8969,29 @@ Batch 29 of 38: 50 reviews, 2024-09-22 to 2024-11-30; 1,450 of 1,885 read. 46 up
 - 175577605: "got less skill issues and changed my opinion" - `the-thumb-was-flipped-from-its-first-verdict` (second here).
 
 **Counted this batch:** 46 up, 4 down; 7 edited later; 0 excluded (7 in 1,450). Meme x0 (29 in 1,450). Sequel accepted x0 (50 in 1,450). "Rain" jokes x6. God run x0. `someone-gave-it-to-me` x3 (four friends gifted one copy between them). `much-better-with-friends` x6. Music praise x4. `buy-on-sale-only` x1 (3 here).
+
+## Notes - round 374 (Risk of Rain 2 batch 30)
+
+Batch 30 of 38: 50 reviews, 2024-12-07 to 2025-02-14; 1,500 of 1,885 read. 47 up, 3 down.
+
+**No build.** Tree stays 1,088.
+
+**Second sighting, homed and one re-home:** the luck-gated unlock. 182854034 "False Son's requirement needs you to be lucky on 3 factors and kill the final boss in the riskiest way, with one chance" joins 181184333 "a very few achievements are just based on random chance" (round 373). Both sit on `the-thing-you-need-may-never-roll`, whose definition already covers a thing needed "for a build or a goal" placed by chance; 181184333 re-homed there off `randomness.unknown`. `you-cannot-choose-what-you-unlock` (Deep Rock's random overclocks) is the other side: there the reward is random, here the condition is. If a third line makes that split matter, build.
+
+**Seekers of the Storm window, third month - the repair lines start:**
+- 182857289: "Gearbox mostly unf**ked it (after really f**king it); good on them for working with members of the community" - `fixed-what-mattered` + `listens-and-acts` (first here).
+- 183517664: "the first round of changes to the DLC have been great, if a bit overpowered; wait on Seekers of the Storm until Gearbox finishes their promised changes" - `made-it-better` + `dlc-not-worth-it`.
+- 186862670 (thumbs-down, edited 2025-05): "Boycott Gearbox; Hopoo sold their soul; giving Gearbox money isn't worth the fun" - `owner-puts-players-off`; "the Jester awards are proof of blatant community schilling" - `says-the-other-reviews-are-not-about-the-game` (first here).
+- 182197235 (thumbs-down, edited 2026-06): "corrupted my save file; ever since they made the PC version the same as console" - `progress-not-saved` + `platform-support.unknown`. The unified codebase, felt as a downgrade; one sighting.
+- 182854034: a 2016-to-now essay. "Hopoo gave the IP to Gearbox, who haven't poured the same love and care" - on `ownership.unknown` (they still recommend); "NO ITEM SHARING IN MULTIPLAYER" - `teammates-can-take-your-things` (10 here); "locking characters from the previous game behind DLC is scummy; OP characters behind DLC makes it pay to win" - `content-behind-a-second-purchase` (first here); missing QoL - stats, drop-in, item descriptions before pickup - `missing-quality-of-life`; Starstorm 2 "one of the best mods in gaming history".
+- Owner tally: put off 8, accepted 6, raised 5. Gearbox-era lines 38 in 1,500.
+
+**One sighting, no build:**
+- 186252881: "multiplayer can be buggy with desyncing, but that is fixed by turning off cross play" - `crossplay-made-the-connection-worse` (first here).
+- 184378195: "struggling to hit 240fps on all low on a 7900xtx at 1080p" - `demanding-hardware`; the frame-rate ceiling on top hardware.
+- 182856579 (thumbs-down): "always disconnects near the end of a match; tried swapping hosts, nothing works" - `frequent-disconnects` (4 here).
+- 186858710: "20 mins to find teleporter" - `the-way-onward-is-hard-to-find` (5 here).
+- 187415210: "the thing that stops you dead is not the final boss but the blind pests; remove them" - hated-enemy tally 11, still no mechanism.
+- 187917077: "one of the worst games I've ever played" under a thumbs-up - `thumb-contradicts-text` (3 here).
+
+**Counted this batch:** 47 up, 3 down; 3 edited later; 0 excluded (7 in 1,500). Meme x1 (30 in 1,500). Sequel accepted x0 (50 in 1,500). Foreign-language x1 (10 in 1,500). "Rain" jokes x6. God run x1. Music praise x6 - the densest batch for it (Christodoulou named twice). `works-solo` x4.
