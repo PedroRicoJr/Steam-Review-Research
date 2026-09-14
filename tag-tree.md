@@ -7777,6 +7777,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting in one game.** Risk of Rain 2 55007934 ("the starting character is one of the hardest to use early game, especially with friends"), 93823566 ("I quit the game entirely for months because that first run with Commando felt so lifeless" - stays on `the-early-stages-of-every-run-are-dull`, which carries the rest of its sentence) and 130937796 ("Commando is extremely boring and the game forces you to play with him for hours ... they should either give you another option of a character or revamp his kit"). ✅ **Re-homes**: 55007934 off `role-design.unknown`.
 
 
+## Mode added during the Risk of Rain 2 run - batch 28
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-action-never-stops` | **+** | The pressure never drops from the first second to the last, and the reviewer names that as the draw - the hour vanishes, there is no downtime to sit through. **The approving twin of `.no-let-up`**, where the same fact is the complaint that there is no quiet to recover in. **Distinct from `.rhythm-of-pressure-and-rest`**, which praises the alternation of quiet and pressure, and from `.the-clock-is-the-thrill`, where a timer is what makes it exciting. |
+
+🔑 **Third sighting across three games, two of them mis-homed on a − mode.** Aliens: Fireteam Elite 169214774 ("Nonstop Action!") and Arcrunner 139378615 ("there's little to no downtime") sat on `.no-let-up`, whose direction they contradict; Risk of Rain 2 171193529 ("action from the first 5 seconds until the end - an hour in and you don't know where the time went"). ⚠️ Same lesson as the round-362 clock build: a praise line homed on a − mode because the subject has no + twin is a build, not a note. ✅ **Re-homes**: 169214774 and 139378615 off `.no-let-up`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -8926,3 +8926,23 @@ Batch 27 of 38: 50 reviews, 2024-04-22 to 2024-07-07; 1,350 of 1,885 read. 50 up
 - 163408550: a two-word Hungarian curse on an English-tagged review - `written-in-a-language-other-than-its-steam-tag` (6 in 1,350).
 
 **Counted this batch:** 50 up, 0 down; 6 edited later; 1 excluded (7 in 1,350). Meme x1 (29 in 1,350). Sequel accepted x0 (50 in 1,350). Gearbox-era x1 (167959474 "so glad the game was fixed", a 2025 edit; 21 in 1,350). "Rain" jokes x5. God run x1. Shrine of Chance jokes x2 (5 here). Music praise x2. `works-solo` x2, `much-better-with-friends` x2. Noise reviews with nothing said x4 (keyboard mash, "+", "burrrrr", "say gex").
+
+## Notes - round 372 (Risk of Rain 2 batch 28)
+
+Batch 28 of 38: 50 reviews, 2024-07-07 to 2024-09-15; 1,400 of 1,885 read. 42 up, 8 down - the most thumbs-down of any batch in this run. The batch crosses the Seekers of the Storm launch (2024-08-27).
+
+**Built:** `game-design.pacing.the-action-never-stops` (+), the approving twin of `.no-let-up`. Sightings: 171193529 "action from the first 5 seconds until the end", Aliens: Fireteam Elite 169214774 "Nonstop Action!", Arcrunner 139378615 "little to no downtime". The last two sat on `.no-let-up` (-) and contradicted its direction; both re-homed. Same lesson as round 362: a praise line on a - mode because the subject lacks a + twin is a build. Tree 1,088.
+
+**Seekers of the Storm on its own date - first lines:**
+- 173939133 (thumbs-down, 2024-08-31): "what Gearbox did to it is embarrassing and inexcusable; the game in its current state is unplayable and basically ruined; Aliens: Colonial Marines-level garbage" - `owner-puts-players-off` + `patch-quality.made-it-worse`.
+- 173938878 (thumbs-down, 2024-08-31): "RIP in peace RoR2" - `negative.unknown`, no reason given.
+- 173939092 (thumbs-up, 2024-08-31): "if you're saying not to buy the DLC because Gearbox Bad, you are a purist fooling yourself; SOTS is arguably just as fun as the other DLC" - `answers-a-claim-made-in-another-review` + `dlc-is-fair` + `the-new-owner-is-accepted`.
+- 175061513 (2024-09-15): "the DLC has not broken the game, despite what people say" - `dlc-is-fair` + `answers-a-claim-made-in-another-review`.
+- 175060348 (thumbs-down, 2024-09-15): "update broke multiplayer; can't believe I can't find any word on this" - `made-it-worse` + `went-silent-after-a-bad-launch` (first here).
+- 174481498 (thumbs-up, 2024-09-07): "CANT MULTIPLAYER" - `netcode.unknown`.
+- 169960562 (thumbs-down, 2024-07-15, edited 2025-07): "the original company got bought out; I heard things not so great about the company that currently owns it; I don't want to support them" - `owner-puts-players-off`. Before SOTS, on the ownership alone.
+- Owner tally: put off 6 (130388821, 157813984, 169960562, 173939133 + the two on `.unknown`), accepted 5 (67398038, 152613485, 152614012, 173939092 + one earlier). Gearbox-era lines now 26 in 1,400.
+
+**Second sightings on existing modes:** `frequent-disconnects` 171643034 "consistently disconnects me in multiplayer" (third here; with `a-disconnect-loses-the-run`, first here). `good-in-short-sittings` x2 (170590292 "40 min to an hour to burn", 170588655 "jump in and have a quick run"). `teaches-you-as-you-go` 169287045 "not holding your hand, but nudging you in the right direction" (second here).
+
+**Counted this batch:** 42 up, 8 down; 4 edited later; 0 excluded (7 in 1,400). Meme x0 (29 in 1,400). Sequel accepted x0 (50 in 1,400). "Rain" jokes x5. God run x1. Foreign-language x3 (French, Polish, Portuguese; 9 in 1,400). `keeps-pulling-you-back` x9. Music praise x4. Epilepsy: 171193612 is the joke foreseen in round 369, not a second ask for the warning.

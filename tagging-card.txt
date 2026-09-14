@@ -1085,3 +1085,4 @@ game-design.pacing.the-early-stages-of-every-run-are-dull | - | The first stages
 game-design.pacing.the-clock-is-the-thrill | + | A timer or a difficulty that climbs with time is named as what makes the run exciting - the urgency, the frant
 community.user-created-content.mods-fix-what-the-patch-broke | - | A studio update broke something and community mods repaired it before the studio did, so the game is only righ
 game-design.new-player-experience.stuck-with-the-worst-starter | - | The one character or kit the game hands a new player is the hardest or the dullest on the roster, and hours pa
+game-design.pacing.the-action-never-stops | + | The pressure never drops from the first second to the last, and the reviewer names that as the draw - the hour
