@@ -1076,3 +1076,4 @@ game-design.co-op-design.a-dead-player-spectates-until-the-next-checkpoint | - |
 publishing.dlc-and-editions.the-guest-can-play-the-add-on-but-not-keep-its-loot | - | One owner lets the group into the add-on, but a player who does not own it **cannot use the weapons and gear**
 game-design.level-design.the-levels-are-too-small | - | The maps are small enough that a few runs teach every layout, and the reviewer wants **bigger levels with more
 engineering.netcode.the-host-leaving-ends-everyones-run | - | When the player hosting the session drops, quits or crashes, **every other player's run ends with them** - the
+game-design.level-design.the-way-onward-is-hard-to-find | - | The thing that moves the run forward - a teleporter, an exit, an extraction point - is hard to locate, and the
