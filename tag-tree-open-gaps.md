@@ -9036,3 +9036,25 @@ Batch 32 of 38: 50 reviews, 2025-05-07 to 2025-07-15; 1,600 of 1,885 read. 46 up
 - 196107672: "killed in 2 hits randomly" - `spikes-out-of-nowhere` (first here).
 
 **Counted this batch:** 46 up, 4 down; 7 edited later; 0 excluded (7 in 1,600). Meme x1 (31 in 1,600). Sequel accepted x0 (50 in 1,600). "Rain" jokes x2. God run x4 ("killing god", "become god", "destroying whole ecosystems"). Music praise x6 ("electric" x3). `keeps-pulling-you-back` x5. One ASCII-art review with no words on `positive.unknown`.
+
+## Notes - round 377 (Risk of Rain 2 batch 33)
+
+Batch 33 of 38: 50 reviews, 2025-07-23 to 2025-09-30; 1,650 of 1,885 read. 47 up, 3 down.
+
+**No build.** Tree stays 1,088.
+
+**Excluded:** 200467174 - no text at all. 8 excluded in 1,650. Two other wordless reviews stay in: 202214270 (Braille-character art) and 203289367 (a bare YouTube link) - content, not empty - on `positive.unknown`.
+
+**Second sightings on existing modes:**
+- `poorly-explained`: 203286941 (thumbs-down, 0 hours on record) "no explanations, no tutorials, no idea what you're up to, and then you're just dead" joins 197340488. Same review: "no leveling up, no skill tree, no way to make any sort of progress" - `nothing-accumulates` (first here, against `satisfying-progression` at many; the unlocks exist and this reviewer did not reach them); "stuck shooting for 20 seconds on anyone larger than a floating eye" - `bullet-sponges` (first here).
+- `thumb-contradicts-text`: 200471744 "do not download" under a thumbs-up (4 here).
+- `one-hit-kills`: 202210743 "oneshot by some bird in stage 55 with 2000 items".
+
+**One sighting, no build:**
+- 204989995: a full run-collapse story - 50 lunar coins rerolled in the Bazaar, a Recycler that rolled Glowing Meteorite, five charges on the smallest map, self and friend dead, "y'wernt there man" - `the-run-falling-apart-is-the-fun` (first here).
+- 200469362: "SOTS DLC was kinda a let down, but it's still more content, and think about the gearbox coders being forced to make like 10 borderlands prequels" - on `dlc-and-editions.unknown`; a let-down excused in the same breath. Gearbox-era lines 45 in 1,650; owner tally unchanged (put off 10, accepted 6, raised 6).
+- 201663415: "good online game to play with people who are not usual gamers" - `easy-to-grasp`.
+- 203288199: "always keep this in my library and come back to it with the squad" - `you-can-put-it-down-and-come-back` (2 here).
+- 203830802 (thumbs-down): "Not enough rain" - `negative.unknown`; the first "rain" joke under a thumbs-down.
+
+**Counted this batch:** 47 up, 3 down; 1 edited later (the fewest in the run); 1 excluded (8 in 1,650). Meme x0 (31 in 1,650). Sequel accepted x0 (50 in 1,650). Foreign-language x2 (Turkish, Portuguese; 12 in 1,650). "Rain" jokes x4. God run x0. Music praise x4. Noise reviews with nothing said x5 (Braille art, a link, "fxrs", "risk...", "its a sign").
