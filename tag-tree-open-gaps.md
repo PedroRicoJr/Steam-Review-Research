@@ -8792,3 +8792,17 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 **Gearbox on its own date:** 124741828 and 124296216, both 2024-08-31 edits, both thumbs-down, flattened onto 2022-10. Thirteen Gearbox-era edits in 950.
 
 **Counted this batch:** 46 up, 4 down (teleporter; migraine; two Gearbox-era); 4 edited later; 1 excluded (123106034, empty; 6 in 950). Meme x0 (21 in 950). Sequel accepted x0 (46 in 950). `price.fair` x3 (one "I wish I had paid more"). God run x3. `satisfyingly-hard` x2.
+
+## Notes - round 364 (Risk of Rain 2 batch 20)
+
+**Build: `game-design.new-player-experience.stuck-with-the-worst-starter` (−).** Third sighting in one game: 55007934 (round 347 note - "the starting character is one of the hardest to use early"), 93823566 (Commando's first run "so lifeless I quit for months" - left on `the-early-stages-of-every-run-are-dull`, which carries the rest of that sentence) and 130937796 ("Commando is extremely boring and the game forces you to play with him for hours"). Homed under `new-player-experience`, not `role-design`, because the fact is about the first hours, not about the roster. Re-homed 55007934 off `role-design.unknown`. Tree 1,087. A fourth is waiting in the unread sample (235158351, a defence of Commando).
+
+**Gearbox on its own date, at last:** 130388821 (created 2023-01-07, thumbs-down, 358h: "devs sold out to Gearbox, this game has no future") is the first Gearbox line dated when it was written - the sale was announced 2022-11. `owner-puts-players-off`. Also 129132146 (2024 edit: "the devs fixed it? good for them; Pitchford and Take-Two can still go to hell" under a thumbs-up) - on `ownership.unknown`, since the owner is cursed but the game still recommended; the mode says "a reason the player will not buy". Fifteen Gearbox lines in 1,000, one on its own date.
+
+**One sighting, no build:**
+- 130937796 (thumbs-down): "mods are vital ... the developers need modders to make their game functional" - `only-playable-after-modding` (first here; the fourth mod-scene line in this run, after `mods-extend`, `mods-fix-what-the-patch-broke` and this).
+- 128128319: "needs more DLCs, or more characters for the extra slots" - on `content-amount.unknown`; a wish for more said as praise.
+- 127659493: "a little slow at the start" - on `pacing.unknown`; too short to say whether the run or the game.
+- 125546058: newbie advice - "do not stress about time, be an efficient loot goblin, work on unlocks" - on `complexity.unknown`; a review written as a guide.
+
+**Counted this batch:** 46 up, 4 down (Gearbox sell-out; risk-of-fish joke; "does not make sense" at 0h; the Commando review); 5 edited later; 0 excluded (6 in 1,000). Meme x0 (21 in 1,000). Sequel accepted x3 (49 in 1,000). God run x5. `price.fair` x3. `works-solo` x3. `the-clock-is-the-thrill` x1 (second here since the build).

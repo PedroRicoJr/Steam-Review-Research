@@ -7767,6 +7767,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Risk of Rain 2 99809277 (2024 edit: "a lot of these bugs were fixed by mods created the day after the release") and 124741828 (2024 edit: "tying things to the frame rate is a brain dead move that makes playing the game without mods at higher frame rates worse"). Both about the Seekers of the Storm update. ✅ **Re-homes**: 99809277 off `.unknown`.
 
 
+## Mode added during the Risk of Rain 2 run - batch 20
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.stuck-with-the-worst-starter` | **−** | The one character or kit the game hands a new player is the hardest or the dullest on the roster, and hours pass before anything else unlocks - so the first sessions are played with the tool least likely to keep someone. **Distinct from `game-design.role-design.role-underpowered`** (a weak role the player chose from a full roster), from `game-design.progression.unlock-pace.slow-start` (the systems are locked, not the character) and from `game-design.pacing.the-early-stages-of-every-run-are-dull` (the opening of every run, at any point in the player's history - this is the opening of the player's history). |
+
+🔑 **Third sighting in one game.** Risk of Rain 2 55007934 ("the starting character is one of the hardest to use early game, especially with friends"), 93823566 ("I quit the game entirely for months because that first run with Commando felt so lifeless" - stays on `the-early-stages-of-every-run-are-dull`, which carries the rest of its sentence) and 130937796 ("Commando is extremely boring and the game forces you to play with him for hours ... they should either give you another option of a character or revamp his kit"). ✅ **Re-homes**: 55007934 off `role-design.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
