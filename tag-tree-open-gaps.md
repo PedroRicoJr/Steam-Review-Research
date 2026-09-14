@@ -8887,3 +8887,22 @@ Batch 25 of 38: 50 reviews, 2023-11-22 to 2024-02-07; 1,250 of 1,885 read. 48 up
 - 151195599: "loop indefinitely, obliterate, the Void, the secret bosses" and 156660650 "environmental storytelling" - both on `world-worth-exploring`.
 
 **Counted this batch:** 48 up, 2 down; 3 edited later; 0 excluded (6 in 1,250). Meme x1 (27 in 1,250). Sequel accepted x0 (49 in 1,250). Gearbox-era x3 (20 in 1,250; 157813984 on its own date, 2024-02-07, the third such). "Rain" jokes x2. God run x4. Music praise x4. `each-role-plays-its-own-way` x3 (4 here). Enemy shout-outs on `enemy-design.unknown` x5.
+
+## Notes - round 370 (Risk of Rain 2 batch 26)
+
+Batch 26 of 38: 50 reviews, 2024-02-07 to 2024-04-22; 1,300 of 1,885 read. 49 up, 1 down.
+
+**No build.** Tree stays 1,087.
+
+**Second sightings on existing modes:**
+- `buy-on-sale-only`: 161917783 "buy on sale" joins 141557726. Two here.
+- `overwhelming-at-first`: 157808495 "not really intuitive, very confusing for new players like me" and 161303417 "quite the learning curve for a shooter". Both thumbs-up and both stay.
+- `successor-framing-accepted`: 157808495 "a very good sequel - the 'Spelunky 2' of sequels" (50 in 1,300).
+- Shrine of Chance jokes: 162957923 (eighty "receive nothing" lines then one reward) and 162957541 - both on `randomness.unknown`; 153079944 in round 369 was the first. A joke about the gamble, not a complaint about it.
+
+**One sighting, no build:**
+- 161918313: "in the later stages it turns from a hero-shooter roguelike into a bullet-hell simulator" - on `pacing.unknown`; the late-run escalation said as praise. Related to the screen-chaos lines on `effects-block-your-view` but about the enemies, not the effects.
+- 161302917: "Lights and colors" - `effects-and-gore.unknown`; nothing said either way.
+- 158927620 (the only thumbs-down): "gyat" - `negative.unknown`.
+
+**Counted this batch:** 49 up, 1 down; 4 edited later; 0 excluded (6 in 1,300). Meme x1 (28 in 1,300). Sequel accepted x1 (50 in 1,300). Gearbox-era x0 (20 in 1,300). "Rain" jokes x2. God run x1 ("am goku"). `keeps-pulling-you-back` x12 - the densest batch for it (crack x2, "loop 4", "hyper-fixated", "cannot stop", four years, "time waster"). Character shout-outs on `role-design.unknown` x7 (Acrid x3, Bandit x2, Loader).
