@@ -8734,3 +8734,17 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 - 102848828: the full encyclopaedia entry for dopamine, pasted as the review - on `keeps-pulling-you-back`; a copied text that is not a shared meme.
 
 **Counted this batch:** 49 up, 1 down (the solo player); 7 edited later; 0 excluded (4 in 750). Meme x0 (17 in 750). Sequel accepted x0 (46 in 750). God run x3. `much-better-with-friends` x8 (the densest batch for it). Soundtrack praise x2 (one "grew on me"). `well-graded` x1 ("challenging even for casuals on the lowest difficulty" - the third pro-easy-mode line against two anti). One-shot jokes x2 (elite golem; "risk of instantly dying 2").
+
+## Notes - round 360 (Risk of Rain 2 batch 16)
+
+**No build.** Tree stays 1,083.
+
+**One sighting, no build:**
+- 112262688: "multiplayer scaling is a little bad - on Monsoon or Eclipse with three or four people the enemies vastly outnumber and outscale you" - on `co-op-design.unknown`. The inverse of `more-players-makes-it-trivial` (Redfall 165229684). findphrase found no second "more players makes it harder than it should" line in the corpus; DRG Rogue Core 229205636 is randoms vs friends, not head count. The positive side (`scales-to-the-number-of-players`) has two RoR2 sightings (90751778, and this review's "fine on easier difficulties"). Second sighting builds "the difficulty scales past the group".
+- 112262688: "the game eats RAM for breakfast - 12 GB minimum, 16 for long runs" - on `performance.unknown`; no memory mode exists. The only "eats RAM" line in the corpus.
+- 109749933: the fourth `cannot-save-and-come-back` here, with the best story - the group stood still to get killed in a hurry and was too overpowered to die, so they quit. Also the fourth pro-easy-mode line ("stuck between easy and normal, anyone will enjoy it") against two anti.
+- 110725191: "unfun, boring, lacklustre, don't play" under a thumbs-up, edited 2025 - on `thumb-contradicts-text` (first here).
+- 111268322: "pretty good, kinda expensive" - on `too-high-for-what-it-is` (first here, against 3+ `price.fair`).
+- 111773633 (thumbs-down, 1h): "overrated, the top negative reviews nail why" - `praise-is-undeserved` + a review that points to other reviews for its reasons; `the-claim-comes-from-another-review` is about a borrowed fact, not a borrowed verdict. One sighting.
+
+**Counted this batch:** 49 up, 1 down (overrated); 5 edited later; 0 excluded (4 in 800). Meme x1 (18 in 800). Sequel accepted x0 (46 in 800). `awaiting-promised-content` x3 - the Survivors of the Void window (2022-01 to 2022-03; the DLC landed 2022-03-01). God run x1. Friends x6. Foreign x0 (one-word "Si", tagged positive only).
