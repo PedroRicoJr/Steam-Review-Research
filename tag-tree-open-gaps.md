@@ -8819,3 +8819,16 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 - 135838735: "don't know what's happening but I like it" - on `complexity.unknown`; confusion said as praise, beside the overwhelming-at-first lines.
 
 **Counted this batch:** 49 up, 1 down ("boring", 1h); 3 edited later; 0 excluded (6 in 1,050). Meme x2 (bungus; "she risk on my rain til my fungus bustles", 170 helpful - the most-upvoted review in the run so far; 23 in 1,050). Sequel accepted x0 (49 in 1,050). Soundtrack praise x4 ("the soundtrack alone is worth the price"). God run x2. "Rain" jokes x4. Character-main one-liners x5 (`role-design.unknown`).
+
+## Notes - round 366 (Risk of Rain 2 batch 22)
+
+**No build.** Tree stays 1,087.
+
+**One sighting, no build:**
+- 139711203: "I personally love Risk of Rain 1 more - preferred the platformer over the 3D design - but this game is still awesome" - on `positioning.unknown`. The fifth "the first game had X" line here (55007934, 59456532, 54909270, 93823566, 139711203); the tally is open with Rico. Neither `successor-framing-accepted` (the reviewer does not accept it as the better successor) nor `successor-claim-backfired` (no marketing claim is named) fits; a "prefers the earlier game" mode would need Rico's call on the tally first.
+- 139711942: "priced a little high, 15 or 20 would be better - though I got it from a key site for nine" - `too-high-for-what-it-is` (second here) with a grey-market purchase said in passing; no mode for where the key came from, and one sighting is not a reason for one. Same review is the first `says-how-much-of-the-genre-they-have-played` here ("I usually don't play roguelikes"), the first `teaches-you-as-you-go` here, and the first `enemy-design.good-variety` here ("simple, one or two moves each, but the way they mix").
+- 136772549 (thumbs-down): "area damage splashes through an invincible barrier" - `attacks-land-beyond-their-visible-reach` (first here); a hit through a thing that should block it.
+- 138356283: "pick up and play every once in a while" - `you-can-put-it-down-and-come-back` (first here).
+- 139344421: "all achievements and I still want to play" - on `keeps-pulling-you-back`; the + inverse of `nothing-left-to-chase` (130937796, 105435645), which has no home of its own.
+
+**Counted this batch:** 49 up, 1 down (the barrier); 6 edited later; 0 excluded (6 in 1,100). Meme x1 (24 in 1,100). Sequel accepted x0 (49 in 1,100). "Rain" jokes x6 - the densest batch. God run x4. `teammates-can-take-your-things` x1 (9 in 1,100). `the-clock-is-the-thrill` x1 (3 here). `much-better-with-friends` x2.
