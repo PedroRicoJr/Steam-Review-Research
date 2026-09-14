@@ -8720,3 +8720,17 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 **Gearbox on its own date:** 99416598 and 99809277 both carry 2024-25 edits about Seekers of the Storm and are counted in 2021-09 (flattening open with Rico). Eight Gearbox-era mentions in 700 so far, all flattened onto 2019-21 dates.
 
 **Counted this batch:** 48 up, 2 down (feet; Gearbox/EULA); 8 edited later; 0 excluded (4 in 700). Meme x4 (Bungus x2, obey fungus, the title-drop skit; 17 in 700). Sequel accepted x3 (46 in 700). God run x5. Soundtrack praise x4. `unstable-framerate` late-run x1 (x6 in 700). Template x1. `buy-on-sale-only` x1.
+
+## Notes - round 359 (Risk of Rain 2 batch 15)
+
+**No build.** Tree stays 1,083.
+
+**One sighting, no build:**
+- 102412062 (2025 edit): "adding more items is fun but dilutes the item pool, especially when the items are bad; I wish Gearbox would focus on levels and characters" - on `update-cadence.unknown`. findphrase finds no other "dilutes the pool" line in the corpus. `the-updates-add-to-what-i-did-not-come-for` is about a different part of the game growing; this is the same part growing and getting thinner. Second sighting builds "new items thin out the pool".
+- 104909037: "you are always balancing time spent buying against fighting" - the stage clock read as a pleasure, on `pacing.unknown`. Its complaint twin is `the-pace-leaves-no-time-to-explore` (DRG Rogue Core 234194566); no positive twin yet.
+- 105894942 (thumbs-down, 296h): the RoR2 solo complaint - "poorly balanced for solo, perfectly balanced for co-op" - on `punishing-solo`; the first solo-negative in 750 against many `works-solo`. Same review: melee survivors (Loader, Mercenary) called trash with achievements tied to them, on `role-underpowered`; "the RNG is rigged, the item your character needs is absent", on `the-thing-you-need-may-never-roll` (first here); loot goblins fixed by the ShareSuite mod, on `teammates-can-take-your-things` (x7 in 750) - the third review to name a mod as the fix for item-sharing.
+- 105432534: "I HATE MALACHITE" x21 - a hated elite type with no reason given, on `enemy-design.unknown`, with 95289745 (Brass Contraptions, Elder Lemurians) and 102411438 (elite golem one-shot). Three reviews name an enemy they hate and say nothing else; `memorable-specials` is the + side; there is no "an enemy type is hated" mode and these give no reason to build one on.
+- 105435645: "once all items and characters are unlocked there is not much to do; mods help but get stale too" - on `nothing-left-to-chase` (first here; the endgame twin of `runs-out-fast`).
+- 102848828: the full encyclopaedia entry for dopamine, pasted as the review - on `keeps-pulling-you-back`; a copied text that is not a shared meme.
+
+**Counted this batch:** 49 up, 1 down (the solo player); 7 edited later; 0 excluded (4 in 750). Meme x0 (17 in 750). Sequel accepted x0 (46 in 750). God run x3. `much-better-with-friends` x8 (the densest batch for it). Soundtrack praise x2 (one "grew on me"). `well-graded` x1 ("challenging even for casuals on the lowest difficulty" - the third pro-easy-mode line against two anti). One-shot jokes x2 (elite golem; "risk of instantly dying 2").
