@@ -8853,3 +8853,18 @@ Batch 23 of 38: 50 reviews, 2023-06-22 to 2023-09-07; 1,150 of 1,885 read. 47 up
 - 144297123: "excited for the next dlc" (2023-08) - `awaiting-promised-content`; 145882843 "make more DLC" on `content-amount.unknown` (like 128128319).
 
 **Counted this batch:** 47 up, 3 down; 8 edited later (the most in the run so far); 0 excluded (6 in 1,150). Meme x1 (25 in 1,150). Sequel accepted x0 (49 in 1,150). "Rain" jokes x7. God run x2. `much-better-with-friends` x1. Gearbox-era x1 (17 in 1,150). Character shout-outs on `role-design.unknown` x7 (Acrid x2, Railgunner, MUL-T, Loader, Commando, Acrid as "croc guy").
+
+## Notes - round 368 (Risk of Rain 2 batch 24)
+
+Batch 24 of 38: 50 reviews, 2023-09-07 to 2023-11-22; 1,200 of 1,885 read. 50 up, 0 down.
+
+**No build.** Tree stays 1,087.
+
+**One sighting, no build:**
+- 149731343: "bought a PC to enjoy the chronically delayed DLC - an actual day before the console update was announced" - on `update-cadence.too-slow` as a passable home; the complaint is that promised content keeps slipping its date, which no mode names. Build on a second "delayed" line. Same review: "hoped public multiplayer would be more populated; even on PS4 you can find a lobby at most times" - `population.unknown` (lower than hoped, not dead); "the lack of intuitive matchmaking is holding back some people from co-op with strangers" - `matchmaking.unknown` (first matchmaking line here).
+- 148760558: "would like to retract my thumbs-down and put a thumbs-up" - `the-thumb-was-flipped-from-its-first-verdict` (first here).
+- 148758757: "awesome, but my computer says otherwise" - `performance.unknown`; no spec, no symptom.
+- 146362586: "Loader + Razorwire = broken", said as praise - on `makes-you-feel-superhumanly-strong` like the other "break the game" lines.
+- 147831882: "Commandussy" - `role-design.unknown`; a joke, not a Commando complaint. Commando tally stays 2 (130937796, 142162830).
+
+**Counted this batch:** 50 up, 0 down; 4 edited later; 0 excluded (6 in 1,200). Meme x1 (26 in 1,200). Sequel accepted x0 (49 in 1,200). "Rain" jokes x5. God run x0. `mods-extend-the-game` x4 (the densest batch for mods). Music praise x4. `keeps-pulling-you-back` x5. Noise reviews on `positive.unknown` with nothing said (a full stop, "f", a keyboard mash, "gup" x300) x4.
