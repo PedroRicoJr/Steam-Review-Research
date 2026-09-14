@@ -8748,3 +8748,15 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 - 111773633 (thumbs-down, 1h): "overrated, the top negative reviews nail why" - `praise-is-undeserved` + a review that points to other reviews for its reasons; `the-claim-comes-from-another-review` is about a borrowed fact, not a borrowed verdict. One sighting.
 
 **Counted this batch:** 49 up, 1 down (overrated); 5 edited later; 0 excluded (4 in 800). Meme x1 (18 in 800). Sequel accepted x0 (46 in 800). `awaiting-promised-content` x3 - the Survivors of the Void window (2022-01 to 2022-03; the DLC landed 2022-03-01). God run x1. Friends x6. Foreign x0 (one-word "Si", tagged positive only).
+
+## Notes - round 361 (Risk of Rain 2 batch 17)
+
+**Build: `game-design.pacing.the-early-stages-of-every-run-are-dull` (−).** Third sighting across two games: 93823566 (round 357 note - "early stages are a slog, starting shots weak and lifeless"), 116310567 ("the first few levels lack any interesting gameplay or challenge"), Terminull Brigade 201168875 ("the first stage is easy to the point where it was boring"). The round-357 note guessed a `game-feel.combat` home; the shared fact is *when* in the run, not the combat, so it sits under `pacing` beside `every-run-starts-with-dead-time`. Re-homed 93823566 off `unlock-pace.slow-start` and 201168875 off `difficulty-tuning.too-easy`. Tree 1,084.
+
+**One sighting, no build:**
+- 114747985: "the alternate abilities are locked behind achievements, and getting the better version feels good because you are rewarded for playing well" - on `grind-feels-earned`. The approving twin of `the-strongest-options-are-locked-behind-challenges` (round 358); same fact, read as a reward. One sighting of the approval; watch.
+- 114747985: "a run lost to bad item luck makes me want to go back in" - on `randomness-keeps-it-fresh`; luck-decides read as the hook, not the complaint.
+- 114304262: the Steam review-box placeholder text pasted as the review - excluded (5 in 850).
+- 115917977 (thumbs-down, 2024-08-31 edit): "new patch gutted the game" - `made-it-worse`; the ninth Gearbox-era edit in 850, flattened onto 2022-05.
+
+**Counted this batch:** 49 up, 1 down; 5 edited later; 1 excluded. Meme x2 (20 in 850). Sequel accepted x0 (46 in 850). `satisfyingly-hard` x4 (masochist; hard but exhilarating; Monsoon dopamine; Mithrix). God run x1. One-word Spanish x1 (tagged positive only, as with "si").

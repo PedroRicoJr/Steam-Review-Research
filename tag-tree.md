@@ -7737,6 +7737,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Risk of Rain 2 55007934 ("some really good, even essential items are locked behind hard challenges") and 98585564 ("several unlockables are behind challenges that practically force you to play on the easiest difficulty ... some of the items barred behind these challenges are some of the most powerful in the game; a number of alternate abilities are direct upgrades"). ✅ **Re-homes**: 55007934 off `.unknown` (the essential-items bullet only; its other `.unknown` bullet stays).
 
 
+## Mode added during the Risk of Rain 2 run - batch 17
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-early-stages-of-every-run-are-dull` | **−** | The first stages of each run are a chore - too easy, too weak, nothing interesting happening - and only become the game once the build has come online; the reviewer names the opening of the run, not the opening of the game. **Distinct from `.every-run-starts-with-dead-time`** (a fixed unskippable stretch with no play in it - here there is play, and it is flat), from `game-design.progression.unlock-pace.slow-start` (the first hours of the whole game are weak because systems are locked - this repeats at the start of every run, however far along the player is) and from `game-design.difficulty-tuning.too-easy` (the whole game is easy - here only the opening is). |
+
+🔑 **Third sighting across two games.** Risk of Rain 2 93823566 ("the early stages really feel like a slog to play ... their initial shooting feels really weak and lacks impact ... once you get a few items and become a killing machine, the game shines") and 116310567 ("the first few levels lack any sort of interesting gameplay or challenge"); Terminull Brigade 201168875 ("the first stage is easy to the point where it was boring"). ✅ **Re-homes**: 93823566 off `unlock-pace.slow-start`; 201168875 off `difficulty-tuning.too-easy`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
