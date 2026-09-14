@@ -8868,3 +8868,22 @@ Batch 24 of 38: 50 reviews, 2023-09-07 to 2023-11-22; 1,200 of 1,885 read. 50 up
 - 147831882: "Commandussy" - `role-design.unknown`; a joke, not a Commando complaint. Commando tally stays 2 (130937796, 142162830).
 
 **Counted this batch:** 50 up, 0 down; 4 edited later; 0 excluded (6 in 1,200). Meme x1 (26 in 1,200). Sequel accepted x0 (49 in 1,200). "Rain" jokes x5. God run x0. `mods-extend-the-game` x4 (the densest batch for mods). Music praise x4. `keeps-pulling-you-back` x5. Noise reviews on `positive.unknown` with nothing said (a full stop, "f", a keyboard mash, "gup" x300) x4.
+
+## Notes - round 369 (Risk of Rain 2 batch 25)
+
+Batch 25 of 38: 50 reviews, 2023-11-22 to 2024-02-07; 1,250 of 1,885 read. 48 up, 2 down.
+
+**No build.** Tree stays 1,087.
+
+**Second sightings, homed on modes built earlier in this run:**
+- `the-new-owner-is-accepted` (built round 357 on one game's sightings): 152613485 "Gearbox had me scared with SOTS, but they fixed it and made the practically bugless Alloyed Collective; they've earned my trust" (a 2026-03 edit flattened onto 2023-11) and 152614012 "'gearbox bad' - cope". Now 4 in 1,250 against `owner-puts-players-off` at 3 (130388821, 157813984 "Gearbox will probably kill it", and 129132146's "can still go to hell" on `.unknown`).
+- `frequent-disconnects`: 156662354 "about 4 in 10 games someone gets kicked off" joins 141008434. Two here now.
+
+**One sighting, no build:**
+- 152614012: "there should definitely be an epilepsy warning somewhere in the game" - on `accessibility.vision.unknown`. No mode names a missing photosensitivity warning; `phobia.no-warning-at-all` is the wrong subject. Corpus check: 63128830 "after some point it's just an epileptic crisis" is a screen-chaos line, and 171193612 (ahead in this queue) is a joke. Build on the second line that asks for the warning. Same review sits on `answers-a-claim-made-in-another-review` (first here) - a fourteen-point rebuttal of the negative reviews.
+- The hated enemy, three more: 152614012 "blind pests, wisps and void bugs suck is the most common complaint - use homing and AoE", 154251555 "flying pests are the worst part of this game", 156066568 "genocide on all blind pests". Same discipline as the Space Marine 2 note at round 290: the enemy is named, the why is not, so all stay on `enemy-design.unknown`. RoR2 tally: 95289745 (Brass Contraptions), 102411438 (elite golem), 105432534 (Malachite), 124296216, 56078147 (wisps and jellies), plus these three = 8. 152614012's "use homing and AoE" is the nearest thing to a why: small fliers that aimed shots miss.
+- 156066087 (thumbs-down): "stacking falls off quickly; the only meta is attack speed, damage and movement speed; the devs limit variety" - `shallow-options` (first here, against `deep-and-varied` at many); "so many items are disingenuous - seem good but are straight-up trash (Repulsion Armor Plate)" - `some-options-are-useless` (first here); "10/10 at first, 4/10 after beating it" - `nothing-left-to-chase` (third here, with 156660775 "beat it on Drizzle and got bored" the fourth).
+- 155515469: "gifted 2 of my friends this just to play with them" - on `much-better-with-friends`; buying copies for friends has no mode of its own. One sighting.
+- 151195599: "loop indefinitely, obliterate, the Void, the secret bosses" and 156660650 "environmental storytelling" - both on `world-worth-exploring`.
+
+**Counted this batch:** 48 up, 2 down; 3 edited later; 0 excluded (6 in 1,250). Meme x1 (27 in 1,250). Sequel accepted x0 (49 in 1,250). Gearbox-era x3 (20 in 1,250; 157813984 on its own date, 2024-02-07, the third such). "Rain" jokes x2. God run x4. Music praise x4. `each-role-plays-its-own-way` x3 (4 here). Enemy shout-outs on `enemy-design.unknown` x5.
