@@ -7757,6 +7757,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Fifth sighting across two games, three of them mis-homed on a − mode.** Deep Rock Galactic: Rogue Core 227457750 ("the timer gives it a very frantic feel, which I like"), 228547414 ("the timer is fine as it is a roguelike after all") and 226231985 ("timer people are crazy, game is great, just get better") sat on `a-clock-decides-when-you-leave`, whose direction they contradict; Risk of Rain 2 104909037 ("always balancing time spent buying against fighting", round 359 note) and 116653275 ("the urgency is good"). ✅ **Re-homes**: the three DRG reviews off `session-flexibility.a-clock-decides-when-you-leave`; 104909037 off `pacing.unknown`.
 
 
+## Mode added during the Risk of Rain 2 run - batch 19
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.mods-fix-what-the-patch-broke` | **−** | A studio update broke something and community mods repaired it before the studio did, so the game is only right with mods on; the reviewer names that as a mark against the studio. **Distinct from `.mods-are-expected-to-fill-the-gaps`** (missing content, not a break) and from `.only-playable-after-modding` (the shipped game, not a later patch). **Sits beside `live-ops.patch-quality.made-it-worse`**, which records the break itself. |
+
+🔑 **Second sighting in one game.** Risk of Rain 2 99809277 (2024 edit: "a lot of these bugs were fixed by mods created the day after the release") and 124741828 (2024 edit: "tying things to the frame rate is a brain dead move that makes playing the game without mods at higher frame rates worse"). Both about the Seekers of the Storm update. ✅ **Re-homes**: 99809277 off `.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

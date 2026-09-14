@@ -8777,3 +8777,18 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 **Gearbox on its own date:** 117430296 (2025 edit, a threat against the CEO) and 118875147 (2024 edit, "i hate gearbox") - both thumbs-down, both `owner-puts-players-off`, both flattened onto 2022. Eleven Gearbox-era edits in 900.
 
 **Counted this batch:** 46 up, 4 down (two Gearbox; one crash-loses-the-run; one gifted-and-disappointed); 6 edited later; 0 excluded (5 in 900). Meme x1 (21 in 900). Sequel accepted x0 (46 in 900). God run x3. "It never rains" joke x3. `buy-on-sale-only` x1 (2 in 900).
+
+## Notes - round 363 (Risk of Rain 2 batch 19)
+
+**Build: `community.user-created-content.mods-fix-what-the-patch-broke` (−).** Second sighting in one game: 99809277 (round 358 note) and 124741828 ("makes playing the game without mods at higher frame rates worse"). Both are 2024 edits about Seekers of the Storm. Re-homed 99809277 off `.unknown`. Tree 1,086.
+
+**One sighting, no build:**
+- 124296216 (thumbs-down, 2024 edit): "a few annoying enemies can ruin a run or build, and they keep adding new annoying, gimmicky enemies" - on `enemy-design.unknown`. The fourth hated-enemy line here (Brass Contraptions, Malachite, elite golem) and the first with a reason: one enemy type can void a build. `no-counterplay` is about an attack that cannot be answered; this is about an enemy that cancels what you built. Second reasoned sighting builds "one enemy type cancels your build".
+- 121901528 (thumbs-down): the fourth `the-way-onward-is-hard-to-find` here, and the only one that made the thumb; asks for an in-game map or a pointer after a time (`missing-quality-of-life`) and says the sparkle hint does not help.
+- 124746293: asks for a Mac version - on `platform-support.unknown`; `not-supported-at-all` needs the player to be running it another way and losing things.
+- 123106217: "new and innovative ways to crash my computer" - a god-run joke on `stability.unknown`, beside the low-fps god-run joke (101996981).
+- 122298953: "a migraine and a half; I love it" under a thumbs-down - `thumb-contradicts-text` (second here).
+
+**Gearbox on its own date:** 124741828 and 124296216, both 2024-08-31 edits, both thumbs-down, flattened onto 2022-10. Thirteen Gearbox-era edits in 950.
+
+**Counted this batch:** 46 up, 4 down (teleporter; migraine; two Gearbox-era); 4 edited later; 1 excluded (123106034, empty; 6 in 950). Meme x0 (21 in 950). Sequel accepted x0 (46 in 950). `price.fair` x3 (one "I wish I had paid more"). God run x3. `satisfyingly-hard` x2.
