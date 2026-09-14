@@ -1079,3 +1079,5 @@ engineering.netcode.the-host-leaving-ends-everyones-run | - | When the player ho
 game-design.level-design.the-way-onward-is-hard-to-find | - | The thing that moves the run forward - a teleporter, an exit, an extraction point - is hard to locate, and the
 engineering.stability.a-crash-loses-the-run | - | One crash ends a run the player had hours in, and the reviewer names the run as the cost - the stage reached, 
 publishing.ownership.the-new-owner-is-accepted | + | The studio or the series changed hands and the reviewer says the change is fine - the old team was done, or th
+publishing.data-and-privacy.a-consent-wall-was-added-after-purchase | - | The player bought and played the game, and a later update put terms in front of it that must be accepted befor
+game-design.progression.unlock-pace.the-strongest-options-are-locked-behind-challenges | - | The items or abilities that matter most sit behind challenge unlocks - hard, long, or only practical on the ea

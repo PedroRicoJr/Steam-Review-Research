@@ -7720,6 +7720,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Risk of Rain 2 67398038 (2022 edit: "Gearbox bought the IP and I think that is fine - the original devs feel they did everything they set out to do") and 96263012 (2025 edit: "I was putting off recommending due to Gearbox getting the IP rights ... my fears ended up vanishing and I might be a fan of this new management"). Both thumbs-up. ✅ **Re-homes**: 67398038 off `.unknown`.
 
 
+## Modes added during the Risk of Rain 2 run - batch 14
+
+### `publishing.data-and-privacy`
+| Mode | | Definition |
+|---|---|---|
+| `.a-consent-wall-was-added-after-purchase` | **−** | The player bought and played the game, and a later update put terms in front of it that must be accepted before it will start again; the reviewer names buying before the terms as the grievance. **Distinct from `.consent-wall-before-play`**, which is the wall a new buyer meets on day one and can refund past. Usually arrives with a change of publisher or owner; the tree records the wall, and `publishing.ownership` records the owner. |
+
+🔑 **Second sighting in one game.** Risk of Rain 2 50534187 (2025 edit: "No, Take-Two. I bought the game before you got involved and I will not sign your ugly EULA to play") and 99416598 (2025 edit: "Take-Two EULA is a blanket feature for all gearbox games. As someone who bought and played this game years before the acquisition ... add the new EULA on top, FUBAR"). findphrase finds two more in the unread part of the sample (196109434, 196660257). ✅ **Re-homes**: 50534187 off `.consent-wall-before-play`.
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-strongest-options-are-locked-behind-challenges` | **−** | The items or abilities that matter most sit behind challenge unlocks - hard, long, or only practical on the easiest setting - so the player who most needs them is the one who cannot get them. **Distinct from `.gated-behind-farming`** (more of the same play opens it), `.gated-behind-a-different-mode` (a different mode opens it) and `.grindy` (volume of play); here the gate is a test of skill or patience and the reward is power, not a cosmetic. |
+
+🔑 **Second sighting in one game.** Risk of Rain 2 55007934 ("some really good, even essential items are locked behind hard challenges") and 98585564 ("several unlockables are behind challenges that practically force you to play on the easiest difficulty ... some of the items barred behind these challenges are some of the most powerful in the game; a number of alternate abilities are direct upgrades"). ✅ **Re-homes**: 55007934 off `.unknown` (the essential-items bullet only; its other `.unknown` bullet stays).
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -8702,3 +8702,21 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 - 95808502: "fun but short" - on `content-amount.unknown`; too short to pick `too-little` or `levels-too-short`.
 
 **Counted this batch:** 50 up of 50 (fifth all-up batch); 10 edited later (two edits dated 2026); 1 excluded (94189672, empty body); 4 excluded in 650. Spanish under an English tag x1 (foreign x5 in 650). Meme x1 (fungus skit; 13 in 650). God run (`makes-you-feel-superhumanly-strong`) x4. `mods-extend-the-game` x2. `random-rule-changes-welcome` x1 (4 in 650). `reviewer-wanted-a-neutral-option` x1, `calls-it-average` x1. `satisfyingly-hard` x1 vs `difficulty-tuning.unknown` x1 ("pretty hard though"). Sequel accepted x0 (43 in 650).
+
+## Notes - round 358 (Risk of Rain 2 batch 14)
+
+**Two builds, both on second sightings inside this game. Tree 1,083.**
+- `publishing.data-and-privacy.a-consent-wall-was-added-after-purchase` (−): 50534187 (round 346 note, "watch") and 99416598 ("bought and played years before the acquisition ... add the new EULA on top, FUBAR"). findphrase shows two more waiting in the unread sample (196109434, 196660257). Re-homed 50534187 off `consent-wall-before-play`.
+- `game-design.progression.unlock-pace.the-strongest-options-are-locked-behind-challenges` (−): 55007934 (round 347 note) and 98585564 ("challenges that practically force you to play on the easiest difficulty ... some of the most powerful items in the game"). Re-homed the one 55007934 bullet by a targeted script; its other `unlock-pace.unknown` bullet (no incentive to progress) stays.
+
+**One sighting, no build:**
+- 99809277: "a lot of these bugs were fixed by mods created the day after release" - on `user-created-content.unknown`. `mods-are-expected-to-fill-the-gaps` is about content the studio should have shipped; this is mods repairing a broken patch. Second sighting builds "mods fix what the patch broke". Same review carries the Seekers of the Storm break in a 2024 edit, with the fix noted in the same edit (`fixed-what-mattered` + `made-it-worse` + `buggy` on one review).
+- 98585564: "enemy and boss difficulty fluctuates wildly and is at odds with how early they are met" - on `difficulty-tuning.unknown`; `badly-scaled` is about the steps between settings, not swings inside a run.
+- 98585564: "item rarity is at odds with usefulness, so an uncommon can be the unlucky outcome" - on `power-balance.unknown`; neither `one-option-dominates` nor `some-options-are-useless` says the tiering is wrong.
+- 98585564: "one-shot protection existing is itself a design problem" - folded into the `one-hit-kills` bullet.
+- 101996582: "some survivors feel too simple, wish they had more abilities" - on `the-abilities-are-no-fun-to-use` (closest; that mode is about dull powers across the roster, this is about too few of them).
+- 98119385: "si" - one Spanish word; tagged positive only, not foreign.
+
+**Gearbox on its own date:** 99416598 and 99809277 both carry 2024-25 edits about Seekers of the Storm and are counted in 2021-09 (flattening open with Rico). Eight Gearbox-era mentions in 700 so far, all flattened onto 2019-21 dates.
+
+**Counted this batch:** 48 up, 2 down (feet; Gearbox/EULA); 8 edited later; 0 excluded (4 in 700). Meme x4 (Bungus x2, obey fungus, the title-drop skit; 17 in 700). Sequel accepted x3 (46 in 700). God run x5. Soundtrack praise x4. `unstable-framerate` late-run x1 (x6 in 700). Template x1. `buy-on-sale-only` x1.
