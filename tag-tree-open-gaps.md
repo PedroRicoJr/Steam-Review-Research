@@ -8995,3 +8995,24 @@ Batch 30 of 38: 50 reviews, 2024-12-07 to 2025-02-14; 1,500 of 1,885 read. 47 up
 - 187917077: "one of the worst games I've ever played" under a thumbs-up - `thumb-contradicts-text` (3 here).
 
 **Counted this batch:** 47 up, 3 down; 3 edited later; 0 excluded (7 in 1,500). Meme x1 (30 in 1,500). Sequel accepted x0 (50 in 1,500). Foreign-language x1 (10 in 1,500). "Rain" jokes x6. God run x1. Music praise x6 - the densest batch for it (Christodoulou named twice). `works-solo` x4.
+
+## Notes - round 375 (Risk of Rain 2 batch 31)
+
+Batch 31 of 38: 50 reviews, 2025-02-21 to 2025-04-30; 1,550 of 1,885 read. 46 up, 4 down.
+
+**No build.** Tree stays 1,088.
+
+**Third sighting of the luck-gated unlock, no build:** 191030856 (thumbs-down) "the only way to unlock more items involves a key that randomly spawns; a level that should take 5-15 minutes takes up to 1.5 hours" - on `the-thing-you-need-may-never-roll` with 181184333 and 182854034. All three fit that mode's own words (a thing "for a build or a goal" placed by chance), so the split from `you-cannot-choose-what-you-unlock` still does not need a mode. Same review: "5 year old threads report the bug is still present" - `known-bugs-never-fixed` (first here).
+
+**The 2025-04 EULA line, on its own date:** 193373656 (thumbs-down, 10 helpful, 2025-04-22): "Nice EULA change, tracking user information such as passwords, addresses, phone numbers, and IP addresses; do not buy" - `collects-more-than-expected` (first here). This is the same wave that 196109434 and 196660257 (ahead in this queue, waiting for `a-consent-wall-was-added-after-purchase`) come from; this one names the data, not the wall, so it sits on the data mode.
+
+**Gearbox-era:** 189635801 (thumbs-down, 6 helpful): "as long as gearbox has the IP I could never recommend this; unbalanced broken mess; months just to tweak numbers; a roadmap for bug fixes; a quick cash grab DLC nowhere near ready" - `owner-puts-players-off` + `made-it-worse` + `update-cadence.too-slow` + `dlc-not-worth-it`. 191685211: "DLC needs fixed but other than that really fun". Owner tally: put off 9, accepted 6, raised 5. Gearbox-era lines 40 in 1,550.
+
+**One sighting, no build:**
+- 188450586: a 300-word review that came from ARK's broken multiplayer - "smooth multiplayer that actually functions (what a concept); no connection issues, no weird bugs" - `netcode.smooth-online` (first here, against `frequent-disconnects` at 4). The channel ("we left ARK") sits on `discovery.unknown`; no mode names arriving from a rival's failure.
+- 189635702: "even in solo the game is quite easy if you know how to play it, play the hardest mode" - `too-easy` (3 here); "I HATE THE GIANT DINO" - hated-enemy tally 12; 192251934 Elder Lemurians makes 13; 188451097 Wandering Vagrant "kinda freaky" is a shout-out, not a complaint.
+- 190310258 (thumbs-down): "chaos for the sake of chaos" - on `effects-block-your-view` with the screen-chaos lines; the only thumbs-down among them.
+- 192254517: "great movements" - `movement.responsive` (first here).
+- 191032434: "got a run with a ton of amazing items and ended up crashing the game" - `a-crash-loses-the-run` (first here).
+
+**Counted this batch:** 46 up, 4 down; 5 edited later; 0 excluded (7 in 1,550). Meme x0 (30 in 1,550). Sequel accepted x0 (50 in 1,550). Foreign-language x0 (a one-word Russian "cool" on `positive.unknown` under the one-word rule; 10 in 1,550). "Rain" jokes x4. God run x1. Shrine and lunar-roll jokes x2 on `randomness.unknown`. Music praise x4. Noise reviews with nothing said x3 (barking, a keyboard mash, "i think").
