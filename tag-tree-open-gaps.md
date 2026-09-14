@@ -8946,3 +8946,26 @@ Batch 28 of 38: 50 reviews, 2024-07-07 to 2024-09-15; 1,400 of 1,885 read. 42 up
 **Second sightings on existing modes:** `frequent-disconnects` 171643034 "consistently disconnects me in multiplayer" (third here; with `a-disconnect-loses-the-run`, first here). `good-in-short-sittings` x2 (170590292 "40 min to an hour to burn", 170588655 "jump in and have a quick run"). `teaches-you-as-you-go` 169287045 "not holding your hand, but nudging you in the right direction" (second here).
 
 **Counted this batch:** 42 up, 8 down; 4 edited later; 0 excluded (7 in 1,400). Meme x0 (29 in 1,400). Sequel accepted x0 (50 in 1,400). "Rain" jokes x5. God run x1. Foreign-language x3 (French, Polish, Portuguese; 9 in 1,400). `keeps-pulling-you-back` x9. Music praise x4. Epilepsy: 171193612 is the joke foreseen in round 369, not a second ask for the warning.
+
+## Notes - round 373 (Risk of Rain 2 batch 29)
+
+Batch 29 of 38: 50 reviews, 2024-09-22 to 2024-11-30; 1,450 of 1,885 read. 46 up, 4 down. Second batch after the Seekers of the Storm launch.
+
+**No build.** Tree stays 1,088.
+
+**Seekers of the Storm window, second month:**
+- 176119046 (thumbs-down): "great until Gearbox trashed it; I don't even have the DLC and they've introduced bugs from it" - `owner-puts-players-off` + `made-it-worse`. The bugs reached players who did not buy the add-on.
+- 176595038: "dont buy the dlc ig"; 177126541: "only complaint is Seekers of the Storm; Survivors of the Void is great" - `dlc-not-worth-it` (first two here), the second against `dlc-is-fair` for the earlier DLC in the same review.
+- 181186472 (edited 2024-12): "Gearbox has released the first of their updates to remedy the faults of SOTS; the game is now in good hands" - `made-it-better` + `the-new-owner-is-accepted`. 181184333: "the Devs seem to be actively working to sort out the issues" - `developer-communication.unknown`.
+- 181184333 also: "the latest DLC doesn't seem to fit in well with the established theme" - on `dlc-and-editions.unknown`; a theme mismatch, not a value complaint, and no mode names it. One sighting.
+- 179602977: "immediately felt the difference when the game got an update a while ago, but my point stands" - `made-it-worse`, said in passing.
+- 177125124: "top 3 favourite games of all time despite gearbox existing"; 177611446: "look up Randy Pitchford USB" - both on `ownership.unknown`.
+- Owner tally: put off 7, accepted 6, raised 4. Gearbox-era lines 32 in 1,450.
+
+**One sighting, no build:**
+- 181184333: "a very few ridiculous achievements are just based on random chance" - on `randomness.unknown`; an unlock gated on luck rather than play. `the-thing-you-need-may-never-roll` is about items in a run, not achievements.
+- 178129320 (thumbs-down): "never in my entire life have I seen a final boss this bad" - `enemy-design.unknown`; no why. Hated-enemy tally 10, with 179602030 "one-shot by Brass Contraptions" the second Brass Contraptions line and the first with a why (`one-hit-kills`).
+- 178588698: "first five minutes are boring, gets a lot more fun after an hour or two" - `slow-start`.
+- 175577605: "got less skill issues and changed my opinion" - `the-thumb-was-flipped-from-its-first-verdict` (second here).
+
+**Counted this batch:** 46 up, 4 down; 7 edited later; 0 excluded (7 in 1,450). Meme x0 (29 in 1,450). Sequel accepted x0 (50 in 1,450). "Rain" jokes x6. God run x0. `someone-gave-it-to-me` x3 (four friends gifted one copy between them). `much-better-with-friends` x6. Music praise x4. `buy-on-sale-only` x1 (3 here).
