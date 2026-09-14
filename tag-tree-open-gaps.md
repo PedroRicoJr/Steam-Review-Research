@@ -8685,3 +8685,20 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 - **No build.** 68 bullets from 50 reviews; 31 one-line reviews. Every observation found a home in the tree as it stands.
 - **One sighting, note only:** 89464428 - "beat the game in 73 minutes and 59 seconds, pretty easy game" (on `too-easy`, first here - against 15 `satisfyingly-hard` in 600; one hour of playtime recorded); 90751778 - with friends "the scaling makes it challenging, but makes you work harder" (on `scales-to-the-number-of-players`, first here - the positive twin of batch 4's "loot is split" note, which still has no negative home).
 - **Counted this batch:** 50 up of 50 (fourth all-up batch); 6 carry a later edit (batches 1-12: 8, 14, 15, 7, 10, 4, 8, 12, 5, 7, 6, 6); the "bungus" meme ×3 and the rain joke ×1 (`repeats-a-copied-meme-text`, 12 in 600); Chinese under an English tag ×1 (fourth foreign-language review here); sequel accepted ×2 (43 in 600); the early learning curve ×2 (`overwhelming-at-first`, six here - one took "roughly 3 past attempts" over months); `good-in-short-sittings` ×1 ("20 minutes a night" - against three `demands-long-sessions`/`cannot-save` complaints); "repetitive after the tenth hour" ×1 (`production.content-variety.repetitive`, third here, all mild).
+
+## Notes - round 357 (Risk of Rain 2 batch 13)
+
+**Build: `publishing.ownership.the-new-owner-is-accepted` (+).** Second sighting in one game: 67398038 (2022 edit, "Gearbox bought the IP and I think that is fine") and 96263012 (2025 edit, "my fears vanished, I might be a fan of this new management"). The subject had only the negative mode and `.unknown`; a verdict of "fine" is a verdict, not an unknown. Re-homed 67398038 off `.unknown`. Tree 1,081.
+
+**Third sighting of `the-way-onward-is-hard-to-find`:** 93823566 ("3D levels are easier to get lost in ... trying to find the exit pulled me out of enjoying the combat"). Mode holds.
+
+**One sighting, no build:**
+- 93823566: "the first game was a different genre I prefer, and its music was phenomenal; the sequel's is forgettable" - the sequel comparison sits on `audio.music.forgettable-or-annoying`; the "first game had X" tally (open with Rico) gains a fourth: 55007934, 59456532, 54909270, 93823566.
+- 93823566: "Commando's and Huntress's starting shots feel weak and lifeless; I quit for months" - on `unlock-pace.slow-start`, which is about locked systems; here the weakness is the first minutes of every run before items. `pacing.every-run-starts-with-dead-time` is about a fixed unskippable stretch, not weak combat. A `game-feel.combat` home for "the opening of every run feels weak" would be the fit on a second sighting. Inverse of the "feel powerful without dozens of hours" note (round 350).
+- 93823566: "turn on Drizzle to learn the layouts" - on `well-graded`; the direct counter to the two `the-lower-settings-are-not-worth-playing` sightings.
+- 94768725: "up to four in co-op, but console commands let you play with sixteen" - on `co-op-design.unknown`; not a complaint that someone is left out.
+- 95289745: "please remove Brass Contraptions, I hate them as much as Elder Lemurians" - on `enemy-design.unknown`; a hated enemy type with no reason given. `no-counterplay` needs the reason.
+- 96263901: one-shot by the final boss at 1,800 of 22,000 - on `enemy-design.unknown` with 96262981 (died to a Lesser Wisp). Death-story one-liners; no verdict.
+- 95808502: "fun but short" - on `content-amount.unknown`; too short to pick `too-little` or `levels-too-short`.
+
+**Counted this batch:** 50 up of 50 (fifth all-up batch); 10 edited later (two edits dated 2026); 1 excluded (94189672, empty body); 4 excluded in 650. Spanish under an English tag x1 (foreign x5 in 650). Meme x1 (fungus skit; 13 in 650). God run (`makes-you-feel-superhumanly-strong`) x4. `mods-extend-the-game` x2. `random-rule-changes-welcome` x1 (4 in 650). `reviewer-wanted-a-neutral-option` x1, `calls-it-average` x1. `satisfyingly-hard` x1 vs `difficulty-tuning.unknown` x1 ("pretty hard though"). Sequel accepted x0 (43 in 650).

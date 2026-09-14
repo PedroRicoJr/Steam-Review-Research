@@ -7710,6 +7710,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Risk of Rain 2 61908886 ("just crashed game at stage 34, 275 min run though so RIP") and 75246209 ("8 hours into the run, I crashed because I proc'ed like 15 scavengers with the huntress' left click"). Both thumbs-up; both name the run. ✅ **Re-homes**: 61908886 off `.unknown`.
 
 
+## Mode added during the Risk of Rain 2 run - batch 13
+
+### `publishing.ownership`
+| Mode | | Definition |
+|---|---|---|
+| `.the-new-owner-is-accepted` | **+** | The studio or the series changed hands and the reviewer says the change is fine - the old team was done, or the new owner has since earned trust. **The twin of `.owner-puts-players-off`**: the same fact, read as no reason against buying. **Distinct from `.unknown`**, which raises the owner with no verdict; a verdict of "fine" goes here. |
+
+🔑 **Second sighting in one game.** Risk of Rain 2 67398038 (2022 edit: "Gearbox bought the IP and I think that is fine - the original devs feel they did everything they set out to do") and 96263012 (2025 edit: "I was putting off recommending due to Gearbox getting the IP rights ... my fears ended up vanishing and I might be a fan of this new management"). Both thumbs-up. ✅ **Re-homes**: 67398038 off `.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
