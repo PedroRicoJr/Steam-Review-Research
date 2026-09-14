@@ -7680,6 +7680,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting in one game.** Risk of Rain 2 55007934 ("Small levels. Personally, I'd like to see some more expansive levels, especially given how cool some of them look") and 61021248 ("my only gripe is that the levels are really small, and after learning their layouts they can feel short or small"). ✅ **Re-homes**: 55007934 off `.unknown`.
 
 
+## Mode added during the Risk of Rain 2 run - batch 6
+
+### `engineering.netcode`
+| Mode | | Definition |
+|---|---|---|
+| `.the-host-leaving-ends-everyones-run` | **−** | When the player hosting the session drops, quits or crashes, **every other player's run ends with them** - the reviewer names the missing host migration, or says one person's disconnect took the whole group's progress. **Distinct from `.a-disconnect-loses-the-run`**, where the player who dropped loses their own work, and from `engineering.servers.peer-to-peer-not-dedicated`, which is the architecture (quality depends on the host); this is the specific cost that architecture imposes on the players who stayed. |
+
+🔑 **Sixth sighting, spread over three homes.** Aliens: Fireteam Elite 129808397, 156056667, 199828510 ("no host migration, so everyone loses their progress if the host rage quits or drops"), DRG: Rogue Core 226239472 ("no host migration so hours of a run are lost"), 226833100 ("a host disconnect or crash leaves you with no rewards"), Risk of Rain 2 64676442 ("if the host disconnects, it disconnects all players"). ✅ **Re-homes**: the three Fireteam Elite bullets off `engineering.servers.peer-to-peer-not-dedicated`, 226239472 off `engineering.stability.progress-not-saved`, 226833100 off `.a-disconnect-loses-the-run`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
