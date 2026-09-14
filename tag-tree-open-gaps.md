@@ -8906,3 +8906,23 @@ Batch 26 of 38: 50 reviews, 2024-02-07 to 2024-04-22; 1,300 of 1,885 read. 49 up
 - 158927620 (the only thumbs-down): "gyat" - `negative.unknown`.
 
 **Counted this batch:** 49 up, 1 down; 4 edited later; 0 excluded (6 in 1,300). Meme x1 (28 in 1,300). Sequel accepted x1 (50 in 1,300). Gearbox-era x0 (20 in 1,300). "Rain" jokes x2. God run x1 ("am goku"). `keeps-pulling-you-back` x12 - the densest batch for it (crack x2, "loop 4", "hyper-fixated", "cannot stop", four years, "time waster"). Character shout-outs on `role-design.unknown` x7 (Acrid x3, Bandit x2, Loader).
+
+## Notes - round 371 (Risk of Rain 2 batch 27)
+
+Batch 27 of 38: 50 reviews, 2024-04-22 to 2024-07-07; 1,350 of 1,885 read. 50 up, 0 down.
+
+**No build.** Tree stays 1,087.
+
+**Excluded:** 163943879 - the text is invisible Unicode tag characters only; empty. 7 excluded in 1,350.
+
+**One sighting, no build:**
+- 166897289: "so much fun when you don't have to carry a rag that's bad at the game and whines whenever you become more OP than them" - on `co-op-design.unknown`. Neither `one-player-can-carry` (a strong player makes the others unnecessary) nor `new-player-experience.needs-carrying` (the new player needs towing) names this: the weak teammate is dead weight and resents the power gap. Build on a second line.
+- 168646742: "learning curve is good" - on `complexity.unknown`; a + judgement on how the learning is paced, which `easy-to-grasp`, `rewarding-once-learned` and `teaches-you-as-you-go` each miss by a little. Passable home, one sighting.
+- 168646786: "socially checkmated by my friends into playing it" - `someone-recommended-it` (first here).
+- 168647371: "this game sucks, don't buy it" under a thumbs-up - `thumb-contradicts-text` (second here; 121901528 was the first, the other way round).
+- 167957995: "I don't know what killed me" - on `effects-block-your-view` with the screen-chaos lines.
+- 166427424: "Risk of Ruin 2", 46 helpful - the most-helped review in the batch, three words, created 2024-05-31 with no edit; on `positive.unknown`.
+- 165436711: "blind pest? more like STUPID WORST" - hated enemy tally 9, still no why.
+- 163408550: a two-word Hungarian curse on an English-tagged review - `written-in-a-language-other-than-its-steam-tag` (6 in 1,350).
+
+**Counted this batch:** 50 up, 0 down; 6 edited later; 1 excluded (7 in 1,350). Meme x1 (29 in 1,350). Sequel accepted x0 (50 in 1,350). Gearbox-era x1 (167959474 "so glad the game was fixed", a 2025 edit; 21 in 1,350). "Rain" jokes x5. God run x1. Shrine of Chance jokes x2 (5 here). Music praise x2. `works-solo` x2, `much-better-with-friends` x2. Noise reviews with nothing said x4 (keyboard mash, "+", "burrrrr", "say gex").
