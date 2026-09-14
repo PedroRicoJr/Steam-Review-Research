@@ -8826,9 +8826,30 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 
 **One sighting, no build:**
 - 139711203: "I personally love Risk of Rain 1 more - preferred the platformer over the 3D design - but this game is still awesome" - on `positioning.unknown`. The fifth "the first game had X" line here (55007934, 59456532, 54909270, 93823566, 139711203); the tally is open with Rico. Neither `successor-framing-accepted` (the reviewer does not accept it as the better successor) nor `successor-claim-backfired` (no marketing claim is named) fits; a "prefers the earlier game" mode would need Rico's call on the tally first.
-- 139711942: "priced a little high, 15 or 20 would be better - though I got it from a key site for nine" - `too-high-for-what-it-is` (second here) with a grey-market purchase said in passing; no mode for where the key came from, and one sighting is not a reason for one. Same review is the first `says-how-much-of-the-genre-they-have-played` here ("I usually don't play roguelikes"), the first `teaches-you-as-you-go` here, and the first `enemy-design.good-variety` here ("simple, one or two moves each, but the way they mix").
+- 139711942: "priced a little high, 15 or 20 would be better - though I got it from a key site for nine" - `too-high-for-what-it-is` (second here) with a grey-market purchase said in passing. Corrected in round 367: the key site has a home, `publishing.availability.a-third-party-key-site-is-cheaper`; the price bullet was split and the key-site line re-homed there. Same review is the first `says-how-much-of-the-genre-they-have-played` here ("I usually don't play roguelikes"), the first `teaches-you-as-you-go` here, and the first `enemy-design.good-variety` here ("simple, one or two moves each, but the way they mix").
 - 136772549 (thumbs-down): "area damage splashes through an invincible barrier" - `attacks-land-beyond-their-visible-reach` (first here); a hit through a thing that should block it.
 - 138356283: "pick up and play every once in a while" - `you-can-put-it-down-and-come-back` (first here).
 - 139344421: "all achievements and I still want to play" - on `keeps-pulling-you-back`; the + inverse of `nothing-left-to-chase` (130937796, 105435645), which has no home of its own.
 
 **Counted this batch:** 49 up, 1 down (the barrier); 6 edited later; 0 excluded (6 in 1,100). Meme x1 (24 in 1,100). Sequel accepted x0 (49 in 1,100). "Rain" jokes x6 - the densest batch. God run x4. `teammates-can-take-your-things` x1 (9 in 1,100). `the-clock-is-the-thrill` x1 (3 here). `much-better-with-friends` x2.
+
+## Notes - round 367 (Risk of Rain 2 batch 23)
+
+Batch 23 of 38: 50 reviews, 2023-06-22 to 2023-09-07; 1,150 of 1,885 read. 47 up, 3 down.
+
+**No build.** Tree stays 1,087.
+
+**Correction to round 366:** 139711942's "got it from a key site for nine" had a home all along - `publishing.availability.a-third-party-key-site-is-cheaper` (built in the Space Marine 2 run). The price bullet was split; the key-site line now sits there (first here). Lesson: grep the card for the noun (`key-site`) before writing "no mode for X".
+
+**One sighting, no build:**
+- 141008434: "wish it wouldn't disconnect constantly on coop mode" - `engineering.servers.frequent-disconnects` (first here; the game is player-hosted, but the tree records what the player felt).
+- 141559948 (thumbs-down): "gearbox", one word - on `ownership.unknown`. The second Gearbox-era line on its own date (2023-07-07; the first was 130388821, 2023-01-07). 17 in 1,150.
+- 141559838: "the story, the music, the artwork all blend together and create a masterpiece; closest I've been to crying in two years" - `atmosphere.draws-you-in` (first here).
+- 141557726: "only buy if on sale" - `sale-dependency.buy-on-sale-only` (first here).
+- 141556919 (thumbs-down): "too easy" - `too-easy`; the second here on its own (201168875 was re-homed off it in round 361).
+- 142162830: "commando sukz" - on `role-design.unknown`, no reason given. Commando complaint tally: 130937796 (built `stuck-with-the-worst-starter`), 142162830 (no reason). 235158351 (a defence) still waits.
+- 143620635: "all of the characters are good in their own way, easy to use and unlock" - `each-role-plays-its-own-way` (first here).
+- 143619296: Acrid's bison meat dangling from his mouth - `appealing-cast` (first here); one visual detail, not the cast.
+- 144297123: "excited for the next dlc" (2023-08) - `awaiting-promised-content`; 145882843 "make more DLC" on `content-amount.unknown` (like 128128319).
+
+**Counted this batch:** 47 up, 3 down; 8 edited later (the most in the run so far); 0 excluded (6 in 1,150). Meme x1 (25 in 1,150). Sequel accepted x0 (49 in 1,150). "Rain" jokes x7. God run x2. `much-better-with-friends` x1. Gearbox-era x1 (17 in 1,150). Character shout-outs on `role-design.unknown` x7 (Acrid x2, Railgunner, MUL-T, Loader, Commando, Acrid as "croc guy").
