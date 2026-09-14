@@ -8806,3 +8806,16 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 - 125546058: newbie advice - "do not stress about time, be an efficient loot goblin, work on unlocks" - on `complexity.unknown`; a review written as a guide.
 
 **Counted this batch:** 46 up, 4 down (Gearbox sell-out; risk-of-fish joke; "does not make sense" at 0h; the Commando review); 5 edited later; 0 excluded (6 in 1,000). Meme x0 (21 in 1,000). Sequel accepted x3 (49 in 1,000). God run x5. `price.fair` x3. `works-solo` x3. `the-clock-is-the-thrill` x1 (second here since the build).
+
+## Notes - round 365 (Risk of Rain 2 batch 21)
+
+**No build.** Tree stays 1,087.
+
+**Closed loop:** 131969881 (2024-09-09 edit): "added accessibility options so I can find the teleporter now" - `fixed-what-mattered`. The fourth teleporter complaint (121901528, round 363) asked for exactly this; the fix is a Gearbox-era patch note in a thumbs-up. Sixteen Gearbox-era lines in 1,050, this one approving.
+
+**One sighting, no build:**
+- 133828531: "some items and modifiers are kind of overpowered and remove some needed skill" - on `power-balance.unknown`; a mild balance note that names no item. Same review: "low skill barrier, high skill cap, anybody can play" - on `well-graded` (the fifth pro-range line here).
+- 131970962: "a lot of lights and my eyes hurt" - `effects-block-your-view` x6 in 1,050; the second to frame it as physical (after 122298953's migraine).
+- 135838735: "don't know what's happening but I like it" - on `complexity.unknown`; confusion said as praise, beside the overwhelming-at-first lines.
+
+**Counted this batch:** 49 up, 1 down ("boring", 1h); 3 edited later; 0 excluded (6 in 1,050). Meme x2 (bungus; "she risk on my rain til my fungus bustles", 170 helpful - the most-upvoted review in the run so far; 23 in 1,050). Sequel accepted x0 (49 in 1,050). Soundtrack praise x4 ("the soundtrack alone is worth the price"). God run x2. "Rain" jokes x4. Character-main one-liners x5 (`role-design.unknown`).
