@@ -8760,3 +8760,20 @@ an item trade with a random; seven communication complaints now); *"lost 80% of 
 - 115917977 (thumbs-down, 2024-08-31 edit): "new patch gutted the game" - `made-it-worse`; the ninth Gearbox-era edit in 850, flattened onto 2022-05.
 
 **Counted this batch:** 49 up, 1 down; 5 edited later; 1 excluded. Meme x2 (20 in 850). Sequel accepted x0 (46 in 850). `satisfyingly-hard` x4 (masochist; hard but exhilarating; Monsoon dopamine; Mithrix). God run x1. One-word Spanish x1 (tagged positive only, as with "si").
+
+## Notes - round 362 (Risk of Rain 2 batch 18)
+
+**Build: `game-design.pacing.the-clock-is-the-thrill` (+).** Fifth sighting across two games. Round 359 said the clock-as-pleasure had no positive twin; findphrase then found three DRG Rogue Core reviews (227457750 "the timer gives it a frantic feel, which I like"; 228547414 "the timer is fine, it is a roguelike"; 226231985 "timer people are crazy, just get better") sitting on `session-flexibility.a-clock-decides-when-you-leave`, a − mode they contradict. dircheck cannot see this: it checks the direction word in the file against the tag, not the sentence against the tag. Plus 104909037 (round 359) and 116653275 ("the urgency is good"). Re-homed all four; 116653275 written straight to it. Tree 1,085.
+
+⚠️ **Lesson for the loop:** when a + observation lands on a − mode because the subject has no + twin, that is a build, not a note - the three DRG lines sat wrong for weeks. Before homing a praise line on a complaint mode, grep the mode's bullets for other praise.
+
+**One sighting, no build:**
+- 116653275: "the loading screens are - wait, what loading screens?" - on `performance.unknown`; `long-load-times` has no + twin. Second sighting builds "loads fast".
+- 118417284 (thumbs-down, gifted): "cannot even change the colour palettes of characters" - `cannot-change-how-you-look` (first here); "builds are completely random without unlocks" - `luck-decides-the-outcome` (second here after 105894942's rigged RNG); "the end game is unlocking a character so you can do it all over again" - on `unlock-pace.unknown`; the complaint twin of `satisfying-progression`, not `nothing-left-to-chase` (which is about having everything).
+- 119850375: the "playing without the Command artifact" copypasta - a meme frame carrying a real point (runs fill with useless items); `luck-decides` twin.
+- 121138561: "I lost friends for being a loot goblin" - `teammates-can-take-your-things` from the goblin's side (x8 in 900).
+- 120698411: "I want to commit suicide" under a thumbs-up - on `review.unknown`; unreadable as praise or complaint.
+
+**Gearbox on its own date:** 117430296 (2025 edit, a threat against the CEO) and 118875147 (2024 edit, "i hate gearbox") - both thumbs-down, both `owner-puts-players-off`, both flattened onto 2022. Eleven Gearbox-era edits in 900.
+
+**Counted this batch:** 46 up, 4 down (two Gearbox; one crash-loses-the-run; one gifted-and-disappointed); 6 edited later; 0 excluded (5 in 900). Meme x1 (21 in 900). Sequel accepted x0 (46 in 900). God run x3. "It never rains" joke x3. `buy-on-sale-only` x1 (2 in 900).

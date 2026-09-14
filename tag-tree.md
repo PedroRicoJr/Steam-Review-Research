@@ -7747,6 +7747,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting across two games.** Risk of Rain 2 93823566 ("the early stages really feel like a slog to play ... their initial shooting feels really weak and lacks impact ... once you get a few items and become a killing machine, the game shines") and 116310567 ("the first few levels lack any sort of interesting gameplay or challenge"); Terminull Brigade 201168875 ("the first stage is easy to the point where it was boring"). ✅ **Re-homes**: 93823566 off `unlock-pace.slow-start`; 201168875 off `difficulty-tuning.too-easy`.
 
 
+## Mode added during the Risk of Rain 2 run - batch 18
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-clock-is-the-thrill` | **+** | A timer or a difficulty that climbs with time is named as what makes the run exciting - the urgency, the frantic feel, the trade between looting and moving on. **The approving twin of `game-design.session-flexibility.a-clock-decides-when-you-leave`**, where the same clock is an imposition. **Distinct from `.rhythm-of-pressure-and-rest`** (alternation of quiet and pressure) and from `.the-pace-leaves-no-time-to-explore` (the same clock, read as the thing that costs you the map). |
+
+🔑 **Fifth sighting across two games, three of them mis-homed on a − mode.** Deep Rock Galactic: Rogue Core 227457750 ("the timer gives it a very frantic feel, which I like"), 228547414 ("the timer is fine as it is a roguelike after all") and 226231985 ("timer people are crazy, game is great, just get better") sat on `a-clock-decides-when-you-leave`, whose direction they contradict; Risk of Rain 2 104909037 ("always balancing time spent buying against fighting", round 359 note) and 116653275 ("the urgency is good"). ✅ **Re-homes**: the three DRG reviews off `session-flexibility.a-clock-decides-when-you-leave`; 104909037 off `pacing.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

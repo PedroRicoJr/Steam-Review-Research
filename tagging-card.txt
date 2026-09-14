@@ -1082,3 +1082,4 @@ publishing.ownership.the-new-owner-is-accepted | + | The studio or the series ch
 publishing.data-and-privacy.a-consent-wall-was-added-after-purchase | - | The player bought and played the game, and a later update put terms in front of it that must be accepted befor
 game-design.progression.unlock-pace.the-strongest-options-are-locked-behind-challenges | - | The items or abilities that matter most sit behind challenge unlocks - hard, long, or only practical on the ea
 game-design.pacing.the-early-stages-of-every-run-are-dull | - | The first stages of each run are a chore - too easy, too weak, nothing interesting happening - and only become
+game-design.pacing.the-clock-is-the-thrill | + | A timer or a difficulty that climbs with time is named as what makes the run exciting - the urgency, the frant
