@@ -9228,3 +9228,15 @@ Batch 38 of 38: 35 reviews, 2026-07-31 to 2026-09-13; 1,885 of 1,885 read. 33 up
 - **`paying-only-shortens-the-grind` now carries both tones** - 10386904 ("reasonable wait time, not much of a bother") and 10487208 ("the gamedevs are purposely nudging you towards doing exactly that"). Seven sightings in 300. That was the reason it was built neutral.
 - **Two-word thumbs-down:** 10210320, "FOMO & WOKE", edited 2026-04 on a 2014 review with 3,185 hours. Two bullets, `content-expires-if-you-miss-it` and `politics-put-me-off`. Politics is now 4 in 300 (3 put off, 1 drawn in).
 - Running tallies: `price.fair` for "it is free" 4 more (41 in 300); "space ninjas" 7 more (42 in 300); Mass Effect 0 (11 in 300); the studio or a staff member named 5 (22 in 300); `keeps-pulling-you-back` 3; `much-better-with-friends` 1.
+
+## Notes - round 389 (Warframe batch 7)
+
+- Batch 7 of Warframe, 2014-06 to 2014-09: 50 read, 0 excluded, 110 bullets, 27 on `.unknown` modes. 7 of 50 carry an edit date; none is multi-dated inside the text.
+- **Built two modes.** Tree 1,095 to 1,097.
+  - `publishing.monetisation-practice.the-shop-charges-far-too-much` (-): fifth sighting across two games. Terminull Brigade 201801089 and 202149491 were re-homed off `publishing.price.too-high-for-what-it-is`, which is the game's entry price - a free game has none, so every price complaint about it is about the shop. Warframe 776269 (stays on the market line), 11253843, 11592642.
+  - `game-design.progression.unlock-pace.timed-events-give-a-reason-to-log-in` (+): third sighting, all Warframe: 4067008 (batch 3, re-homed off `update-cadence.unknown`, closing the round-385 alerts note), 11498141, 11941159. The approving twin of `content-expires-if-you-miss-it` (10210320's "FOMO", round 388).
+- **Clan hall now 6 in 350** (10987932, 11498141, 11592642, 11941159 this batch). Slot cap 5 in 350 (10985759, 11592642). Player market 7 in 350.
+- **Second sighting on an existing mode:** "grinding for a weapon that turns out to be weak" - 8236558 (round 386) and 11124722, both on `power-balance.some-options-are-useless`. The home holds; the observation is more specific (the grind is what makes the weak reward hurt) and could earn a name at a third.
+- **One sighting, no home:** after 1,500 hours the reviewer just learned a basic movement interaction (11594123). Joke-shaped; homed on `complexity.unknown`.
+- **One sighting, no home:** the player's router cannot forward ports, so online play is limited (12018395). Homed on `peer-to-peer-not-dedicated`, which is the cause; the symptom "I cannot host or join because of my network" has no mode. Build if a second says it.
+- Running tallies: `price.fair` for "it is free" 4 more (45 in 350); "space ninjas" 6 more (48 in 350); Mass Effect 0 (11 in 350); Assassin's Creed named 1; the studio or a staff member named 3 (25 in 350); `best-in-its-category` 7 this batch (all "best free-to-play"); `thumb-contradicts-text` 1 (11124868; 6 in 350).

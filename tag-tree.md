@@ -7850,6 +7850,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting, all Warframe, all thumbs-down, spread across eleven years.** 804280 ("Have played more than 1k hours, spend money and I just cant login at my account"), 8924136 ("says I don't have a steam login for warframe ... can't create new because I apparently already have an account linked to steam. I don't care.") and 9690057 (2014, "wrong platform" at login on a Windows 7 machine). A game with its own account system, played across a decade and several platforms, produces this in a way the premium games in the corpus never did. ✅ **Re-home**: 804280 off `.account-or-platform-gate`.
 
 
+## Modes added during the Warframe run - batch 7
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.the-shop-charges-far-too-much` | **−** | The studio's own store prices its items far above what the player thinks they are worth - a skin priced like a game, a character bundle priced like three - and the reviewer names the price, not the practice. **Distinct from `publishing.price.too-high-for-what-it-is`**, which is the entry price of the game itself; from `.aggressive-storefront`, which is how the selling is pushed; and from `.pay-affects-play`, which is what the money buys. **Sits beside `community.social-features.the-player-market-works`**: in Warframe the same reviewers say the shop is absurd and the player market is cheap, in one breath. |
+
+🔑 **Fifth sighting across two games, two of them mis-homed on the game's own price.** Terminull Brigade 201801089 ("two things in the real-money shop could be worth buying and everything else is overpriced") and 202149491 ("some skins are ridiculously overpriced") sat on `publishing.price.too-high-for-what-it-is`, which is the price of the game, not of its shop. Warframe 776269 ("Devs give you the option to buy anything for crazy high prices", inside the player-market line, which stays where it is), 11253843 ("you get a bit mindblown from the prizes of the stuff") and 11592642 ("Items in the in-game-market are pretty expensive"). ⚠️ A free game has no entry price to be too high; every price complaint about it is about the shop. ✅ **Re-homes**: 201801089 and 202149491 off `publishing.price.too-high-for-what-it-is`.
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.timed-events-give-a-reason-to-log-in` | **+** | Time-limited missions or events with their own rewards give the player a reason to come back today, and the reviewer names that as what keeps the game fresh. **The approving twin of `.content-expires-if-you-miss-it`**, where the same clock is the complaint. **Distinct from `.you-can-put-it-down-and-come-back`**, where time away costs nothing, and from `live-ops.update-cadence.steady-stream`, which is new content arriving, not old content rotating. |
+
+🔑 **Third sighting, all Warframe, all praise.** 4067008 ("occasional community events - alerts - to give out special rewards", batch 3), 11498141 ("Keeps my attention by constantly giving alert missions for the extra resources I need") and 11941159 ("Events and Alerts - which will yield special items and keep the game fresh"). The corpus's other "events keep you coming back" lines are in-world random events, not a live-ops clock, and stay on `randomness-keeps-it-fresh`. ✅ **Re-home**: 4067008 off `live-ops.update-cadence.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
