@@ -9058,3 +9058,25 @@ Batch 33 of 38: 50 reviews, 2025-07-23 to 2025-09-30; 1,650 of 1,885 read. 47 up
 - 203830802 (thumbs-down): "Not enough rain" - `negative.unknown`; the first "rain" joke under a thumbs-down.
 
 **Counted this batch:** 47 up, 3 down; 1 edited later (the fewest in the run); 1 excluded (8 in 1,650). Meme x0 (31 in 1,650). Sequel accepted x0 (50 in 1,650). Foreign-language x2 (Turkish, Portuguese; 12 in 1,650). "Rain" jokes x4. God run x0. Music praise x4. Noise reviews with nothing said x5 (Braille art, a link, "fxrs", "risk...", "its a sign").
+
+## Notes - round 378 (Risk of Rain 2 batch 34)
+
+Batch 34 of 38: 50 reviews, 2025-10-07 to 2025-12-07; 1,700 of 1,885 read. 46 up, 4 down. The batch crosses the Alloyed Collective DLC (2025-11).
+
+**No build.** Tree stays 1,088.
+
+**Alloyed Collective on its own date - first lines:** 208661645 (edited 2025-11-28): "the Alloyed Collective DLC is amazing, such a step-up from Seekers of the Storm; a few bugs, but nothing that couldn't be fixed with a patch"; 208082731 (edited 2025-11-18): "Alloyed Collective and all the DLC is so worth it" - both `dlc-is-fair`. No thumbs-down names the new DLC. 208665017 (thumbs-down, 2025-11-07): "gearbox blows lmao, f*** hopoo for selling out" - `owner-puts-players-off`. Owner tally: put off 11, accepted 6, raised 6. Gearbox-era lines 48 in 1,700.
+
+**Second sightings on existing modes:**
+- `a-disconnect-loses-the-run`: 206152939 "just got booted out of a run again right before the boss" (2 here); with 208081816 (thumbs-down) "the servers will mess up in the mid of your runs, straight up unplayable these days", `frequent-disconnects` is at 6 in this player-hosted game.
+- `spikes-out-of-nowhere`: 208084513 (thumbs-down) "a swarm or the double golem boss on literally the first few stages; no matter what health you have you survive maybe 2 seconds" (2 here). Same review: "the first stages are like spinning a slot machine, constant restarts" - `luck-decides-the-outcome` (first here, against `randomness-keeps-it-fresh` at many).
+- `you-can-put-it-down-and-come-back`: 212196634 "haven't played since first DLC release, it's still good" (3 here).
+
+**One sighting, no build:**
+- 206154403 (thumbs-down): "Steam Deck support sucks, game doesn't boot up half the time and controller support is broken" - `broken-on-my-platform` (first here); the first Steam Deck line in this game.
+- 212816305: "teleporter appeared on the edge of the map halfway into a wall; another in a corner blocked by a pillar, the boss didn't even have room to spawn" - on `bugs.buggy`; a placement fault, not a wayfinding one, so not `the-way-onward-is-hard-to-find`.
+- 209887740: "expected it to basically be a 3D Vampire Survivors but there's much more to this" - `low-expectations-made-it-better` (first here).
+- 209888742: "most items are fun and useful" - `power-balance.well-tuned` (first here, against `some-options-are-useless` at 1).
+- 212816313: "good to make friends" - `culture.unknown`.
+
+**Counted this batch:** 46 up, 4 down; 5 edited later; 0 excluded (8 in 1,700). Meme x0 (31 in 1,700). Sequel accepted x0 (50 in 1,700). Foreign-language x2 (Portuguese, Spanish; 14 in 1,700). "Rain" jokes x4. God run x0. Music praise x5. `keeps-pulling-you-back` x5. Noise reviews with nothing said x3 ("chech", "67777...", "big pog").
