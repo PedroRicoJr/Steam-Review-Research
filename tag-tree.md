@@ -7877,6 +7877,33 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Fourth sighting across three games, every one parked on an `.unknown`.** DRG Rogue Core 226257078 ("had to raise sharpness to sixty percent to stop the picture looking fuzzy"), Redfall 221349897 ("the textures are blurry sometimes"), Warframe 9010933 ("the graphics were fuzzy, not really laggy just simply fuzzy", round 387) and 12306429 ("horrible blury in yer face graphics even at full HD"). ✅ **Re-homes**: 226257078 and 9010933 off `art.fidelity.unknown`; 221349897 off `art.visual-direction.unknown`.
 
 
+## Modes added during the Warframe run - batch 10
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.the-premium-currency-cannot-be-earned-by-playing` | **−** | The currency the shop takes is only sold for money; playing never pays any out, or so little that the reviewer does not count it, and trading with other players does not count either. **The negative twin of `.currency-earnable-by-playing`.** **Distinct from `.paying-only-shortens-the-grind`**, where the thing itself can be earned; here the currency cannot. |
+| `.colours-and-basic-cosmetics-cost-real-money` | **−** | The plainest ways to change how your character looks - a colour, a palette, an accessory - are sold for money, and the reviewer says those should have come free. **The complaint side of `.cosmetic-only`**: same fact, felt as a loss. **Distinct from `.the-shop-charges-far-too-much`**, which is about the price, not that a colour is for sale at all. |
+
+🔑 **Premium currency: second sighting.** Warframe 13383901 ("no way to earn platinum; it must be bought or traded for", round 390) and 14471201 ("wish it was a little bit easier to get platinum without paying"). ✅ **Re-home**: 13383901 off `publishing.monetisation-practice.unknown`.
+
+🔑 **Colours: third sighting across two games.** Space Marine 2 192831791 ("ten dollars to make my guy purple", stays on `.mtx-in-premium-game` - a premium game), Warframe 13746977 ("tons of things that should have been given free, like colours for your warframe, are charged for", round 391) and 14471201 ("you need platinum for sets of colours; accessories cannot be bought with credits"). ✅ **Re-home**: 13746977 off `.paying-only-shortens-the-grind` - a colour is not a shortcut through a grind.
+
+### `game-design.replayability`
+| Mode | | Definition |
+|---|---|---|
+| `.warns-that-it-takes-over-your-life` | **−** | The reviewer says the game's pull is a harm, not a compliment - they warn readers with a game addiction away from it, or describe their own hours as a loss. **The dark twin of `.keeps-pulling-you-back`**, which is the same pull felt as praise. **Not `accessibility.addiction`**, which is about addiction the game depicts, not the game's own hold. A bare "addictive" or "warning: addictive" as praise stays on `.keeps-pulling-you-back`. |
+
+🔑 **Second real sighting.** Warframe 6449334 ("would not recommend it to people who have or had a game addiction", round 383) and 15256549 (a rant that ends "uninstall or delete all traces of Warframe now and save yourself"; satire, but the warning is the review's whole point). Bare "warning: addictive" lines in ARC Raiders 209506499 and 209506850 and Risk of Rain 2 216646045 are praise and stay where they are. ✅ **Re-home**: 6449334 off `.keeps-pulling-you-back`.
+
+### `live-ops.update-cadence`
+| Mode | | Definition |
+|---|---|---|
+| `.updating-eats-the-play-session` | **−** | The patches arrive so often, or download so slowly, that the time the player set aside to play goes to updating instead. **Distinct from `engineering.performance.huge-install-size`**, which is the one-time install; here it is the patch after patch. **Distinct from `.steady-stream`**, where the same frequency is praise. |
+
+🔑 **Third sighting.** Warframe 6780550 ("only played for five minutes; every other minute was an update", round 383), 14266703 ("50 kilobytes a second on a 3-megabit line", round 391, stays on `engineering.access.will-not-start-at-all` because the launcher also freezes) and 15393564 ("updates are very time-consuming and often; fix the update process before you make any further updates"). ✅ **Re-home**: 6780550 off `live-ops.update-cadence.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
