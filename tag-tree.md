@@ -7797,6 +7797,39 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Fourth sighting across two games.** Terminull Brigade 201817142 ("pay-to-progress-faster features such as double experience and drops") sat on `.pay-affects-play`, which is an advantage over other players, not a shortcut; Warframe 6449334 (batch 1, buy the suit instead of grinding it), 830179 ("if you have the money, get affinity and credit boosters") and 2263653 ("not needed but it sure makes things easier"). Warframe is a thirteen-year free-to-play game with 3,235 reviews in the sample, so the mode will fill fast. ✅ **Re-homes**: 201817142 off `.pay-affects-play`; 6449334 off `publishing.monetisation-practice.unknown`.
 
 
+## Modes added during the Warframe run - batch 3
+
+**Four second sightings in one batch of fifty. A thirteen-year free-to-play game raises things the premium co-op shooters never did.**
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.what-you-can-own-is-capped-unless-you-pay` | **−** | A free player can hold only so many characters, weapons or items at once, and the only way to raise the ceiling is real money. **Distinct from `.paying-only-shortens-the-grind`**, where the free player reaches the same thing later: here there is no later, the cap does not move for play. **Distinct from `.everything-earnable`**, which the same reviewer can say in the same breath - every item is earnable, the room to keep them is not. |
+
+🔑 **Second sighting, both Warframe.** 2492696 ("you only have 4 Warframe slots if you don't want to pay ... I'd prefer a way to gain these slots ingame") and 4067008 ("I recommend buying warframe&weapon slots as these you can't grind"). One is a complaint and one is advice; the fact is the same. ✅ **Re-home**: 2492696 off `publishing.monetisation-practice.unknown`.
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.the-player-market-works` | **+** | Players buy, sell and trade with each other inside the game, and the reviewer names the market as a thing that works - fair prices, a way to skip the shop, a reason to keep playing. **The positive twin of "lacks a trading system"** (1882353, round 384, still on `.unknown`). **Distinct from `publishing.monetisation-practice.currency-earnable-by-playing`**, which is the studio's currency reaching the player without paying: this is players dealing with players. |
+
+🔑 **Second sighting, both Warframe.** 776269 ("Healthy economy with people buying and selling all the time at reasonable prices ... A little bit of effort saves you 80$ usd") and 6862151 (batch 2, "the extremely robust player market", inside a list that homes on `plenty` and stays there).
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.drifted-from-what-it-was` | **−** | Years of updates carried the game away from the identity that drew the player - the fiction, the fantasy, the tone - and the player names the loss even while saying the play is still good. **Distinct from `.replaced-the-core-loop-with-a-different-one`**, where the play itself changed; from `.polished-the-character-out-of-it`, where fixes removed rough edges; and from `.the-updates-add-to-what-i-did-not-come-for`, where the identity stands and the updates go elsewhere. |
+
+🔑 **Second sighting, both Warframe, both thumbs-down, both edited years after they were written.** 7335200 ("something lost along the way when going from gritty cyborg ninja infiltrators to magic space wizards. Warframe isn't *bad*") and 7589221 ("moved away from the whole 'space ninjas' thing ... going in a totally different and weird direction"). The premium games in the corpus never lived long enough to drift.
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.carries-the-reviewers-referral-link` | ~ | The review carries the reviewer's own sign-up or referral link, which pays the reviewer when a reader uses it. **Deliberately neutral** - it records the provenance of the review, not a verdict. **Sits beside `.promotes-the-reviewers-own-curator-page` and `.promotes-the-reviewers-own-stream-channel`**: those send the reader to the reviewer's other work; this one sends the reader into the game with the reviewer's name attached. |
+
+🔑 **Second sighting, both Warframe, by word search for *referrerId*.** 776269 ("Referral link if you'd like to start with boosters / play with me") after a 1,500-word review, and 7335108 ("Use the link to sign up if you want a bonus") as a third of the review.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1087,3 +1087,7 @@ community.user-created-content.mods-fix-what-the-patch-broke | - | A studio upda
 game-design.new-player-experience.stuck-with-the-worst-starter | - | The one character or kit the game hands a new player is the hardest or the dullest on the roster, and hours pa
 game-design.pacing.the-action-never-stops | + | The pressure never drops from the first second to the last, and the reviewer names that as the draw - the hour
 publishing.monetisation-practice.paying-only-shortens-the-grind | ~ | Real money buys speed - a booster, a skipped build timer, the item bought outright - and nothing a free player
+publishing.monetisation-practice.what-you-can-own-is-capped-unless-you-pay | - | A free player can hold only so many characters, weapons or items at once, and the only way to raise the ceilin
+community.social-features.the-player-market-works | + | Players buy, sell and trade with each other inside the game, and the reviewer names the market as a thing that
+live-ops.patch-quality.drifted-from-what-it-was | - | Years of updates carried the game away from the identity that drew the player - the fiction, the fantasy, the 
+review.carries-the-reviewers-referral-link | ~ | The review carries the reviewer's own sign-up or referral link, which pays the reviewer when a reader uses it.

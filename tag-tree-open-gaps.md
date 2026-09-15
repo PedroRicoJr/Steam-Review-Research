@@ -9177,3 +9177,19 @@ Batch 38 of 38: 35 reviews, 2026-07-31 to 2026-09-13; 1,885 of 1,885 read. 33 up
 - **Precedent kept:** "it is free" praise on `publishing.price.fair` - eight more sightings this batch (6158359, 7190781, 626232, 830179, 3243859, 4673877, 798407, 2069152; 3905761's "big for a free-to-play game" went to `plenty` instead). Running count on the mode for this game: 13 in 100.
 - **Ownership:** 1143373 names the 2014 to 2016 change of ownership (Leyou) as what ruined the game over time - `owner-puts-players-off`. First Warframe sighting; the Risk of Rain 2 finding was about the same mode, so the cross-game comparison is live.
 - Running tallies: "space ninjas" 9 more this batch (18 in 100); Mass Effect named 3 more (6 in 100); Dark Sector named 2 (3 in 100); Digital Extremes or a named staff member 3 more (6 in 100).
+
+## Notes - round 385 (Warframe batch 3)
+
+- Batch 3 of Warframe, 2013-08 to 2013-11: 50 read, 0 excluded, 150 bullets, 26 on `.unknown` modes. 22 of 50 carry an edit date; three are multi-dated inside the text (776269 2013 plus 2016, 4481199 2013 plus 2018, 7457855 2013 struck through plus 2014), all flattened onto the created month.
+- **Built four modes, all on second sightings, all Warframe.** Tree 1,089 to 1,093.
+  - `publishing.monetisation-practice.what-you-can-own-is-capped-unless-you-pay` (-): 2492696 (re-homed off `.unknown`, closing the round-383 slot-cap note) and 4067008.
+  - `community.social-features.the-player-market-works` (+): 776269 and 6862151 (batch 2 list, stays on `plenty`). The round-384 "no trading system" note (1882353, 2013) is now the missing negative twin; still one sighting, still on `.unknown`.
+  - `live-ops.patch-quality.drifted-from-what-it-was` (-): 7335200 and 7589221, both thumbs-down, both edited in the 2020s.
+  - `review.carries-the-reviewers-referral-link` (~): 776269 and 7335108, found by word search for *referrerId*.
+- **Clans, third sighting, three different complaints:** 3921375 praises building a guild, 6920334 says a two-player clan can research most weapons, 776593 says joining a clan is near impossible. No single mode fits all three; the fact "clans are a system players talk about" homes on `community.social-features.unknown`. Leave until two say the same thing.
+- **One sighting, no home:** time-limited alerts and events hand out rewards (4067008; 776269 mentions anniversary events too but inside a list). Homed on `live-ops.update-cadence.unknown`. There is no live-ops events subject; build a mode on the second clean sighting.
+- **One sighting, no home:** the early star-chart nodes are empty of players while the later ones are full (2435922). Homed on `community.population.unknown`. `dead-in-my-region` is the nearest and is not it.
+- **One sighting, no home:** developers seen playing the game alongside players, and met in person (776269). The inverse of `the-studio-does-not-play-its-own-game`. Homed on `community.developer-communication.unknown`. Build the + twin on the second.
+- **One sighting, no home:** the PvP mode is locked behind an inventory requirement (776593). Homed on `game-design.modes.unknown`.
+- **Two summaries record hateful text without repeating it:** 7335200 (a rant against LGBT people, homed on `politics-put-me-off` for the objection to the Pride event) and 7457225 (a slur aimed at named friends, `review.negative.unknown`). The summary names the kind of content and stops.
+- Running tallies: `price.fair` for "it is free" 12 more (25 in 150); "space ninjas" 8 more (26 in 150); Mass Effect 0 (6 in 150); Dark Sector 1 (4 in 150); the studio or a staff member named 6 (12 in 150); `thumb-contradicts-text` 3 this batch (1047689, 3971214, 776593; 5 in 150); metascore called a lie 2 (5296779, 7529521).
