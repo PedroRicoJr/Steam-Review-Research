@@ -1,0 +1,367 @@
+# risk-of-rain-2 / english — group totals
+
+**Built from the 91 monthly stat files, not from the 1885 individual reviews.**
+
+| | |
+|---|---|
+| Months covered | 91 |
+| Reviews that exist | **239,309** |
+| Reviews we read | 1,885 |
+| Observations tagged | 2,686 |
+| Observations per review | 1.4 |
+
+> ⚠ **Partial run.** 91 of 91 months were only partly read, so their weights are
+> above 3 and a single observation there can swing the totals. Worst: 2019-03 at ×1061.
+> **These shares are provisional until every month is fully read.**
+
+## What reviewers talked about
+
+**Share = what portion of all weighted observations this tag is.** Weighted, so a
+busy month counts for more than a quiet one.
+
+| Tag | | Seen | Weighted | Share |
+|---|---|---|---|---|
+| `review.positive.unknown` | good | 948 | 117504 | 33.5% |
+| `game-design.replayability.keeps-pulling-you-back` | good | 172 | 23294 | 6.6% |
+| `community.playing-with-friends.much-better-with-friends` | good | 88 | 10819 | 3.1% |
+| `audio.music.fits-the-game` | good | 71 | 10025 | 2.9% |
+| `marketing.positioning.successor-framing-accepted` | good | 44 | 9087 | 2.6% |
+| `game-design.game-feel.combat.makes-you-feel-superhumanly-strong` | good | 73 | 8942 | 2.6% |
+| `game-design.enemy-design.unknown` | ~ | 44 | 6655 | 1.9% |
+| `game-design.role-design.unknown` | ~ | 60 | 6525 | 1.9% |
+| `game-design.difficulty-tuning.satisfyingly-hard` | good | 44 | 6390 | 1.8% |
+| `game-design.progression.unlock-pace.satisfying-progression` | good | 39 | 4974 | 1.4% |
+| `game-design.role-design.each-role-plays-its-own-way` | good | 37 | 4946 | 1.4% |
+| `game-design.solo-viability.works-solo` | good | 34 | 4402 | 1.3% |
+| `review.repeats-a-copied-meme-text` | ~ | 34 | 4295 | 1.2% |
+| `publishing.price.fair` | good | 30 | 4102 | 1.2% |
+| `game-design.difficulty-tuning.unknown` | ~ | 30 | 3684 | 1.1% |
+| `game-design.randomness.randomness-keeps-it-fresh` | good | 26 | 3608 | 1.0% |
+| `community.user-created-content.mods-extend-the-game` | good | 31 | 3499 | 1.0% |
+| `publishing.dlc-and-editions.dlc-is-fair` | good | 26 | 3038 | 0.9% |
+| `review.negative.unknown` | bad | 22 | 2984 | 0.9% |
+| `production.early-access.good-value-while-unfinished` | good | 18 | 2974 | 0.8% |
+| `game-design.progression.build-and-customisation.deep-and-varied` | good | 29 | 2960 | 0.8% |
+| `art.fidelity.looks-great` | good | 16 | 2926 | 0.8% |
+| `game-design.randomness.unknown` | ~ | 24 | 2804 | 0.8% |
+| `live-ops.update-cadence.awaiting-promised-content` | ~ | 21 | 2677 | 0.8% |
+| `marketing.reputation.explained-by-naming-other-games` | ~ | 16 | 2459 | 0.7% |
+| `review.written-in-a-language-other-than-its-steam-tag` | ~ | 16 | 2458 | 0.7% |
+| `game-design.game-feel.controls.responsive-and-clear` | good | 11 | 2297 | 0.7% |
+| `game-design.difficulty-tuning.well-graded` | good | 15 | 2149 | 0.6% |
+| `game-design.progression.complexity.rewarding-once-learned` | good | 13 | 1812 | 0.5% |
+| `live-ops.patch-quality.fixed-what-mattered` | good | 16 | 1781 | 0.5% |
+| `art.effects-and-gore.effects-block-your-view` | bad | 14 | 1748 | 0.5% |
+| `game-design.co-op-design.unknown` | ~ | 11 | 1745 | 0.5% |
+| `live-ops.update-cadence.steady-stream` | good | 11 | 1646 | 0.5% |
+| `marketing.discovery.i-bought-it-for-other-people` | ~ | 4 | 1572 | 0.4% |
+| `narrative.world-and-setting.world-worth-exploring` | good | 12 | 1561 | 0.4% |
+| `publishing.ownership.owner-puts-players-off` | bad | 11 | 1555 | 0.4% |
+| `game-design.progression.complexity.overwhelming-at-first` | ~ | 12 | 1554 | 0.4% |
+| `marketing.discovery.someone-gave-it-to-me` | ~ | 11 | 1431 | 0.4% |
+| `game-design.difficulty-tuning.random-rule-changes-welcome` | good | 9 | 1389 | 0.4% |
+| `engineering.performance.unknown` | ~ | 8 | 1292 | 0.4% |
+| `production.content-amount.plenty` | good | 9 | 1288 | 0.4% |
+| `live-ops.patch-quality.made-it-worse` | bad | 10 | 1279 | 0.4% |
+| `art.visual-direction.looks-well-directed` | good | 10 | 1258 | 0.4% |
+| `game-design.co-op-design.teammates-can-take-your-things` | bad | 12 | 1232 | 0.4% |
+| `production.content-variety.repetitive` | bad | 9 | 1214 | 0.3% |
+| `game-design.role-design.role-underpowered` | bad | 2 | 1182 | 0.3% |
+| `game-design.power-balance.one-option-dominates` | bad | 2 | 1165 | 0.3% |
+| `engineering.servers.frequent-disconnects` | bad | 10 | 1151 | 0.3% |
+| `review.says-how-much-of-the-genre-they-have-played` | ~ | 10 | 1129 | 0.3% |
+| `publishing.ownership.the-new-owner-is-accepted` | good | 6 | 1126 | 0.3% |
+| `game-design.enemy-design.pressure-feels-good` | good | 7 | 1064 | 0.3% |
+| `game-design.level-design.badly-laid-out` | bad | 1 | 1061 | 0.3% |
+| `engineering.performance.unstable-framerate` | bad | 8 | 1036 | 0.3% |
+| `community.developer-communication.unknown` | ~ | 6 | 968 | 0.3% |
+| `game-design.progression.complexity.easy-to-grasp` | good | 7 | 963 | 0.3% |
+| `game-design.progression.unlock-pace.unknown` | ~ | 7 | 929 | 0.3% |
+| `game-design.progression.complexity.unknown` | ~ | 7 | 856 | 0.2% |
+| `game-design.enemy-design.memorable-specials` | good | 7 | 847 | 0.2% |
+| `game-design.game-feel.combat.unknown` | ~ | 5 | 819 | 0.2% |
+| `game-design.pacing.a-game-you-can-unwind-to` | good | 6 | 801 | 0.2% |
+| `publishing.dlc-and-editions.unknown` | ~ | 7 | 787 | 0.2% |
+| `review.calls-it-average-rather-than-good-or-bad` | ~ | 6 | 773 | 0.2% |
+| `game-design.progression.unlock-pace.grindy` | bad | 5 | 764 | 0.2% |
+| `game-design.randomness.luck-decides-the-outcome` | bad | 5 | 757 | 0.2% |
+| `review.answers-a-claim-made-in-another-review` | ~ | 4 | 727 | 0.2% |
+| `engineering.bugs.you-fall-through-the-floor` | bad | 3 | 705 | 0.2% |
+| `production.content-variety.procedurally-varied` | good | 3 | 699 | 0.2% |
+| `game-design.randomness.the-thing-you-need-may-never-roll` | bad | 6 | 682 | 0.2% |
+| `engineering.platform-support.unknown` | ~ | 6 | 674 | 0.2% |
+| `publishing.ownership.unknown` | ~ | 7 | 650 | 0.2% |
+| `publishing.sale-dependency.buy-on-sale-only` | bad | 6 | 649 | 0.2% |
+| `game-design.level-design.well-built` | good | 4 | 637 | 0.2% |
+| `engineering.stability.a-crash-loses-the-run` | bad | 4 | 632 | 0.2% |
+| `production.content-amount.unknown` | ~ | 5 | 625 | 0.2% |
+| `game-design.enemy-design.one-hit-kills` | bad | 7 | 620 | 0.2% |
+| `game-design.difficulty-tuning.too-easy` | bad | 6 | 616 | 0.2% |
+| `game-design.power-balance.unknown` | ~ | 5 | 587 | 0.2% |
+| `live-ops.patch-quality.made-it-better` | good | 4 | 571 | 0.2% |
+| `engineering.bugs.buggy` | bad | 4 | 566 | 0.2% |
+| `review.thumb-contradicts-text` | bad | 6 | 561 | 0.2% |
+| `art.atmosphere.draws-you-in` | good | 5 | 559 | 0.2% |
+| `engineering.performance.runs-well-on-modest-hardware` | good | 4 | 546 | 0.2% |
+| `community.population.unknown` | ~ | 3 | 524 | 0.1% |
+| `game-design.pacing.the-clock-is-the-thrill` | good | 4 | 515 | 0.1% |
+| `game-design.progression.unlock-pace.nothing-left-to-chase` | bad | 4 | 513 | 0.1% |
+| `game-design.session-flexibility.good-in-short-sittings` | good | 4 | 508 | 0.1% |
+| `audio.music.forgettable-or-annoying` | bad | 4 | 500 | 0.1% |
+| `art.environment-art.evocative-places` | good | 6 | 494 | 0.1% |
+| `game-design.enemy-design.no-counterplay` | bad | 2 | 478 | 0.1% |
+| `game-design.progression.unlock-pace.everything-earnable` | good | 2 | 473 | 0.1% |
+| `game-design.co-op-design.group-is-too-small` | bad | 2 | 471 | 0.1% |
+| `game-design.difficulty-tuning.player-too-fragile` | bad | 2 | 470 | 0.1% |
+| `review.the-thumb-was-flipped-from-its-first-verdict` | ~ | 5 | 469 | 0.1% |
+| `game-design.session-flexibility.cannot-save-and-come-back` | bad | 4 | 468 | 0.1% |
+| `engineering.matchmaking.unknown` | ~ | 2 | 456 | 0.1% |
+| `game-design.progression.build-and-customisation.shallow-options` | bad | 3 | 454 | 0.1% |
+| `narrative.story.unknown` | ~ | 5 | 449 | 0.1% |
+| `engineering.netcode.unknown` | ~ | 2 | 438 | 0.1% |
+| `game-design.ui-ux.missing-quality-of-life` | bad | 3 | 429 | 0.1% |
+| `marketing.reputation.praise-is-undeserved` | bad | 2 | 425 | 0.1% |
+| `publishing.dlc-and-editions.dlc-not-worth-it` | bad | 6 | 417 | 0.1% |
+| `marketing.discovery.someone-recommended-it` | ~ | 4 | 413 | 0.1% |
+| `game-design.level-design.the-way-onward-is-hard-to-find` | bad | 6 | 401 | 0.1% |
+| `game-design.progression.unlock-pace.you-can-put-it-down-and-come-back` | good | 3 | 384 | 0.1% |
+| `narrative.world-and-setting.unknown` | ~ | 3 | 383 | 0.1% |
+| `game-design.power-balance.some-options-are-useless` | bad | 3 | 379 | 0.1% |
+| `game-design.replayability.runs-out-fast` | bad | 3 | 371 | 0.1% |
+| `engineering.bugs.breaks-play` | bad | 2 | 363 | 0.1% |
+| `game-design.pacing.unknown` | ~ | 3 | 353 | 0.1% |
+| `engineering.stability.crashes-repeatedly` | bad | 3 | 352 | 0.1% |
+| `community.developer-communication.listens-and-acts` | good | 2 | 337 | 0.1% |
+| `marketing.positioning.unknown` | ~ | 4 | 333 | 0.1% |
+| `engineering.stability.unknown` | ~ | 2 | 332 | 0.1% |
+| `review.reviewer-wanted-a-neutral-option` | bad | 2 | 331 | 0.1% |
+| `game-design.level-design.unknown` | ~ | 3 | 328 | 0.1% |
+| `review.unknown` | ~ | 2 | 322 | 0.1% |
+| `engineering.netcode.a-disconnect-loses-the-run` | bad | 2 | 321 | 0.1% |
+| `marketing.discovery.found-it-through-someone-playing-it` | ~ | 2 | 314 | 0.1% |
+| `game-design.new-player-experience.poorly-explained` | bad | 4 | 309 | 0.1% |
+| `production.early-access.unknown` | ~ | 2 | 308 | 0.1% |
+| `live-ops.update-cadence.unknown` | ~ | 3 | 305 | 0.1% |
+| `live-ops.update-cadence.too-slow` | bad | 2 | 299 | 0.1% |
+| `game-design.pacing.spikes-out-of-nowhere` | bad | 3 | 295 | 0.1% |
+| `narrative.story.worth-following` | good | 2 | 282 | 0.1% |
+| `game-design.power-balance.well-tuned` | good | 2 | 274 | 0.1% |
+| `game-design.level-design.the-levels-are-too-small` | bad | 2 | 271 | 0.1% |
+| `game-design.difficulty-tuning.the-lower-settings-are-not-worth-playing` | bad | 2 | 269 | 0.1% |
+| `publishing.data-and-privacy.a-consent-wall-was-added-after-purchase` | bad | 3 | 269 | 0.1% |
+| `community.playing-with-friends.it-is-how-i-play-with-my-family` | good | 2 | 267 | 0.1% |
+| `game-design.pacing.the-action-never-stops` | good | 3 | 264 | 0.1% |
+| `marketing.expectation-management.low-expectations-made-it-better` | good | 1 | 240 | 0.1% |
+| `engineering.servers.unknown` | ~ | 1 | 240 | 0.1% |
+| `game-design.session-flexibility.demands-long-sessions` | bad | 1 | 240 | 0.1% |
+| `live-ops.patch-quality.nerfs-what-players-liked` | bad | 1 | 240 | 0.1% |
+| `live-ops.patch-quality.replaced-the-core-loop-with-a-different-one` | bad | 1 | 240 | 0.1% |
+| `game-design.enemy-design.bosses-are-a-chore` | bad | 1 | 240 | 0.1% |
+| `game-design.ui-ux.unknown` | ~ | 1 | 239 | 0.1% |
+| `game-design.difficulty-tuning.badly-scaled` | bad | 1 | 239 | 0.1% |
+| `publishing.refund.refunded` | bad | 1 | 239 | 0.1% |
+| `community.social-features.only-the-studio-chat-fills-a-lobby` | bad | 1 | 238 | 0.1% |
+| `game-design.new-player-experience.unknown` | ~ | 1 | 238 | 0.1% |
+| `publishing.monetisation-practice.no-microtransactions-at-all` | good | 1 | 237 | 0.1% |
+| `game-design.co-op-design.the-design-sets-players-against-each-other` | bad | 1 | 237 | 0.1% |
+| `game-design.randomness.not-random-enough` | bad | 1 | 237 | 0.1% |
+| `game-design.replayability.the-runs-turn-into-stories-you-retell` | good | 1 | 235 | 0.1% |
+| `review.written-for-a-reward` | bad | 1 | 235 | 0.1% |
+| `game-design.co-op-design.friendly-fire-makes-stories` | good | 1 | 235 | 0.1% |
+| `game-design.co-op-design.competing-for-pickups-is-the-fun` | good | 1 | 234 | 0.1% |
+| `game-design.role-design.a-role-is-missing` | bad | 1 | 233 | 0.1% |
+| `art.visual-direction.drab-and-colourless` | bad | 1 | 233 | 0.1% |
+| `engineering.matchmaking.no-penalty-for-leaving` | bad | 1 | 233 | 0.1% |
+| `accessibility.vision.unknown` | ~ | 1 | 224 | 0.1% |
+| `engineering.bugs.rare-and-minor` | good | 3 | 219 | 0.1% |
+| `publishing.price.too-high-for-what-it-is` | bad | 2 | 214 | 0.1% |
+| `game-design.pacing.the-early-stages-of-every-run-are-dull` | bad | 2 | 209 | 0.1% |
+| `game-design.new-player-experience.teaches-you-as-you-go` | good | 2 | 208 | 0.1% |
+| `game-design.progression.unlock-pace.nothing-accumulates` | bad | 2 | 201 | 0.1% |
+| `community.developer-communication.went-silent-after-a-bad-launch` | bad | 1 | 200 | 0.1% |
+| `community.user-created-content.unknown` | ~ | 2 | 192 | 0.1% |
+| `production.content-amount.too-little` | bad | 3 | 187 | 0.1% |
+| `review.filled-in-from-a-template` | ~ | 2 | 182 | 0.1% |
+| `game-design.new-player-experience.stuck-with-the-worst-starter` | bad | 2 | 180 | 0.1% |
+| `production.craftsmanship.made-with-care` | good | 2 | 172 | 0.0% |
+| `engineering.stability.progress-not-saved` | bad | 2 | 169 | 0.0% |
+| `game-design.co-op-design.scales-to-the-number-of-players` | good | 1 | 161 | 0.0% |
+| `game-design.enemy-design.good-variety` | good | 2 | 161 | 0.0% |
+| `community.developer-communication.open-about-what-it-is-doing` | good | 2 | 159 | 0.0% |
+| `marketing.discovery.unknown` | ~ | 3 | 156 | 0.0% |
+| `art.character-design.appealing-cast` | good | 2 | 155 | 0.0% |
+| `community.culture.unknown` | ~ | 1 | 151 | 0.0% |
+| `community.population.dead-game` | bad | 1 | 151 | 0.0% |
+| `game-design.level-design.the-spaces-are-scaled-too-big` | bad | 1 | 151 | 0.0% |
+| `art.atmosphere.falls-flat` | bad | 1 | 151 | 0.0% |
+| `art.character-design.generic-cast` | bad | 1 | 151 | 0.0% |
+| `game-design.progression.unlock-pace.grind-feels-earned` | good | 1 | 150 | 0.0% |
+| `community.user-created-content.mods-fix-what-the-patch-broke` | bad | 2 | 149 | 0.0% |
+| `engineering.platform-support.runs-well-on-my-platform` | good | 2 | 148 | 0.0% |
+| `community.user-created-content.only-playable-after-modding` | bad | 1 | 145 | 0.0% |
+| `engineering.performance.stutter` | bad | 1 | 145 | 0.0% |
+| `live-ops.patch-quality.removed-a-feature` | bad | 1 | 145 | 0.0% |
+| `game-design.new-player-experience.needs-carrying` | bad | 2 | 133 | 0.0% |
+| `game-design.progression.unlock-pace.the-strongest-options-are-locked-behind-challenges` | bad | 2 | 132 | 0.0% |
+| `community.crossplay-and-platform-mix.crossplay-made-the-connection-worse` | bad | 2 | 132 | 0.0% |
+| `game-design.progression.build-and-customisation.cannot-change-how-you-look` | bad | 1 | 129 | 0.0% |
+| `engineering.netcode.the-host-leaving-ends-everyones-run` | bad | 1 | 125 | 0.0% |
+| `art.visual-direction.off-putting-look` | bad | 2 | 122 | 0.0% |
+| `game-design.solo-viability.punishing-solo` | bad | 1 | 121 | 0.0% |
+| `engineering.access.account-or-platform-gate` | ~ | 1 | 116 | 0.0% |
+| `game-design.co-op-design.the-small-team-is-the-right-size` | good | 1 | 116 | 0.0% |
+| `engineering.servers.high-latency` | bad | 1 | 116 | 0.0% |
+| `engineering.netcode.smooth-online` | good | 2 | 113 | 0.0% |
+| `accessibility.vision.no-colour-blind-support` | bad | 1 | 103 | 0.0% |
+| `game-design.co-op-design.one-player-can-carry` | bad | 1 | 103 | 0.0% |
+| `publishing.refund.unknown` | ~ | 1 | 100 | 0.0% |
+| `engineering.performance.well-optimised` | good | 1 | 100 | 0.0% |
+| `game-design.power-balance.resources-too-plentiful` | bad | 1 | 98 | 0.0% |
+| `publishing.dlc-and-editions.content-behind-a-second-purchase` | bad | 1 | 98 | 0.0% |
+| `game-design.progression.build-and-customisation.unknown` | ~ | 1 | 98 | 0.0% |
+| `engineering.performance.demanding-hardware` | bad | 1 | 98 | 0.0% |
+| `community.player-conduct.welcoming-community` | good | 1 | 96 | 0.0% |
+| `publishing.dlc-and-editions.one-copy-covers-the-group` | good | 1 | 91 | 0.0% |
+| `game-design.difficulty-tuning.too-hard` | bad | 1 | 91 | 0.0% |
+| `art.effects-and-gore.unknown` | ~ | 1 | 90 | 0.0% |
+| `game-design.power-balance.progression-outgrows-the-challenge` | bad | 2 | 88 | 0.0% |
+| `engineering.platform-support.broken-on-my-platform` | bad | 1 | 87 | 0.0% |
+| `publishing.availability.a-third-party-key-site-is-cheaper` | ~ | 1 | 86 | 0.0% |
+| `game-design.game-feel.combat.impactful` | good | 1 | 83 | 0.0% |
+| `game-design.progression.unlock-pace.slow-start` | bad | 1 | 83 | 0.0% |
+| `game-design.role-design.the-abilities-are-no-fun-to-use` | bad | 1 | 76 | 0.0% |
+| `game-design.enemy-design.bullet-sponges` | bad | 1 | 76 | 0.0% |
+| `live-ops.abandonment.known-bugs-never-fixed` | bad | 1 | 75 | 0.0% |
+| `game-design.enemy-design.attacks-land-beyond-their-visible-reach` | bad | 1 | 74 | 0.0% |
+| `game-design.role-design.any-team-mix-works` | good | 2 | 72 | 0.0% |
+| `audio.music.unknown` | ~ | 1 | 72 | 0.0% |
+| `audio.sound-effects.unknown` | ~ | 1 | 72 | 0.0% |
+| `review.i-never-write-reviews-and-wrote-this-one` | ~ | 1 | 71 | 0.0% |
+| `engineering.performance.runs-the-machine-hot` | bad | 1 | 71 | 0.0% |
+| `publishing.dlc-and-editions.post-launch-content-is-free` | good | 1 | 71 | 0.0% |
+| `review.says-the-other-reviews-are-not-about-the-game` | ~ | 1 | 70 | 0.0% |
+| `game-design.game-feel.movement.responsive` | good | 1 | 70 | 0.0% |
+| `publishing.data-and-privacy.collects-more-than-expected` | bad | 1 | 70 | 0.0% |
+| `game-design.progression.complexity.requires-outside-research` | bad | 2 | 68 | 0.0% |
+| `game-design.co-op-design.the-run-falling-apart-is-the-fun` | good | 1 | 65 | 0.0% |
+| `publishing.monetisation-practice.pay-affects-play` | bad | 1 | 64 | 0.0% |
+| `engineering.stability.freezes-or-hangs` | bad | 1 | 63 | 0.0% |
+| `engineering.stability.crashes-on-specific-event` | bad | 1 | 63 | 0.0% |
+| `game-design.modes.expected-mode-missing` | bad | 1 | 63 | 0.0% |
+| `production.content-variety.varied-runs` | good | 1 | 63 | 0.0% |
+| `game-design.game-feel.movement.sluggish` | bad | 1 | 52 | 0.0% |
+| `game-design.ui-ux.clear-and-usable` | good | 1 | 38 | 0.0% |
+| `engineering.access.requires-internet` | bad | 1 | 34 | 0.0% |
+| `publishing.price.unknown` | ~ | 1 | 34 | 0.0% |
+| `game-design.game-feel.movement.unknown` | ~ | 1 | 34 | 0.0% |
+| `narrative.story.no-cutscenes-to-carry-the-story` | bad | 1 | 34 | 0.0% |
+| `art.fidelity.rough-in-places` | bad | 1 | 34 | 0.0% |
+| `engineering.bugs.exploit-players-enjoy` | good | 1 | 34 | 0.0% |
+| `game-design.co-op-design.cannot-give-a-teammate-your-spare` | bad | 1 | 19 | 0.0% |
+| `engineering.bugs.the-audio-breaks-and-stays-broken` | bad | 1 | 19 | 0.0% |
+| `marketing.discovery.nobody-ever-heard-of-it` | bad | 1 | 19 | 0.0% |
+| `game-design.difficulty-tuning.harder-pays-better` | good | 1 | 19 | 0.0% |
+
+## Direction
+
+| | Weighted | Share |
+|---|---|---|
+| Positive observations | 254024 | 72.5% |
+| Negative observations | 39478 | 11.3% |
+| Neutral / unknown | 56868 | 16.2% |
+
+## Month by month
+
+| Month | Real reviews | Read | Weight | Observations |
+|---|---|---|---|---|
+| 2019-03 | 5,307 | 5 | 1061.4 | 14 |
+| 2019-04 | 6,926 | 29 | 238.8 | 44 |
+| 2019-05 | 1,429 | 20 | 71.4 | 37 |
+| 2019-06 | 5,139 | 22 | 233.6 | 44 |
+| 2019-07 | 5,353 | 23 | 232.7 | 40 |
+| 2019-08 | 371 | 20 | 18.5 | 57 |
+| 2019-09 | 684 | 20 | 34.2 | 51 |
+| 2019-10 | 766 | 20 | 38.3 | 33 |
+| 2019-11 | 6,992 | 30 | 233.1 | 43 |
+| 2019-12 | 5,923 | 25 | 236.9 | 47 |
+| 2020-01 | 3,768 | 20 | 188.4 | 22 |
+| 2020-02 | 2,000 | 20 | 100.0 | 24 |
+| 2020-03 | 2,496 | 20 | 124.8 | 32 |
+| 2020-04 | 7,132 | 30 | 237.7 | 47 |
+| 2020-05 | 2,065 | 20 | 103.2 | 26 |
+| 2020-06 | 1,438 | 20 | 71.9 | 32 |
+| 2020-07 | 1,923 | 20 | 96.2 | 28 |
+| 2020-08 | 8,867 | 37 | 239.6 | 53 |
+| 2020-09 | 4,018 | 20 | 200.9 | 26 |
+| 2020-10 | 2,010 | 20 | 100.5 | 35 |
+| 2020-11 | 9,159 | 39 | 234.8 | 66 |
+| 2020-12 | 2,903 | 20 | 145.2 | 28 |
+| 2021-01 | 3,046 | 20 | 152.3 | 29 |
+| 2021-02 | 1,791 | 20 | 89.5 | 25 |
+| 2021-03 | 3,329 | 20 | 166.4 | 25 |
+| 2021-04 | 3,220 | 20 | 161.0 | 31 |
+| 2021-05 | 1,937 | 20 | 96.8 | 23 |
+| 2021-06 | 1,928 | 20 | 96.4 | 30 |
+| 2021-07 | 2,490 | 20 | 124.5 | 27 |
+| 2021-08 | 1,959 | 20 | 97.9 | 38 |
+| 2021-09 | 1,624 | 20 | 81.2 | 39 |
+| 2021-10 | 1,527 | 20 | 76.3 | 24 |
+| 2021-11 | 3,000 | 20 | 150.0 | 36 |
+| 2021-12 | 2,413 | 20 | 120.7 | 33 |
+| 2022-01 | 3,009 | 20 | 150.4 | 25 |
+| 2022-02 | 2,567 | 20 | 128.3 | 28 |
+| 2022-03 | 6,863 | 29 | 236.7 | 41 |
+| 2022-04 | 3,009 | 20 | 150.4 | 28 |
+| 2022-05 | 2,246 | 20 | 112.3 | 23 |
+| 2022-06 | 2,672 | 20 | 133.6 | 28 |
+| 2022-07 | 2,573 | 20 | 128.7 | 28 |
+| 2022-08 | 1,773 | 20 | 88.7 | 20 |
+| 2022-09 | 1,837 | 20 | 91.8 | 24 |
+| 2022-10 | 1,355 | 20 | 67.8 | 23 |
+| 2022-11 | 2,840 | 20 | 142.0 | 26 |
+| 2022-12 | 2,332 | 20 | 116.6 | 26 |
+| 2023-01 | 2,909 | 20 | 145.4 | 33 |
+| 2023-02 | 1,733 | 20 | 86.7 | 26 |
+| 2023-03 | 1,772 | 20 | 88.6 | 20 |
+| 2023-04 | 1,485 | 20 | 74.2 | 24 |
+| 2023-05 | 1,361 | 20 | 68.0 | 22 |
+| 2023-06 | 1,714 | 20 | 85.7 | 37 |
+| 2023-07 | 2,944 | 20 | 147.2 | 20 |
+| 2023-08 | 1,789 | 20 | 89.5 | 22 |
+| 2023-09 | 1,524 | 20 | 76.2 | 23 |
+| 2023-10 | 1,484 | 20 | 74.2 | 21 |
+| 2023-11 | 4,470 | 20 | 223.5 | 37 |
+| 2023-12 | 2,800 | 20 | 140.0 | 21 |
+| 2024-01 | 2,467 | 20 | 123.3 | 26 |
+| 2024-02 | 1,817 | 20 | 90.9 | 24 |
+| 2024-03 | 1,808 | 20 | 90.4 | 25 |
+| 2024-04 | 1,870 | 20 | 93.5 | 22 |
+| 2024-05 | 2,280 | 20 | 114.0 | 23 |
+| 2024-06 | 2,244 | 20 | 112.2 | 23 |
+| 2024-07 | 2,436 | 20 | 121.8 | 28 |
+| 2024-08 | 4,906 | 21 | 233.6 | 33 |
+| 2024-09 | 3,992 | 20 | 199.6 | 26 |
+| 2024-10 | 1,167 | 20 | 58.3 | 34 |
+| 2024-11 | 1,667 | 20 | 83.3 | 30 |
+| 2024-12 | 1,959 | 20 | 97.9 | 31 |
+| 2025-01 | 1,404 | 20 | 70.2 | 30 |
+| 2025-02 | 1,579 | 20 | 79.0 | 26 |
+| 2025-03 | 1,506 | 20 | 75.3 | 29 |
+| 2025-04 | 1,396 | 20 | 69.8 | 22 |
+| 2025-05 | 2,325 | 20 | 116.2 | 32 |
+| 2025-06 | 1,798 | 20 | 89.9 | 23 |
+| 2025-07 | 1,719 | 20 | 86.0 | 21 |
+| 2025-08 | 1,515 | 20 | 75.8 | 25 |
+| 2025-09 | 1,303 | 20 | 65.2 | 25 |
+| 2025-10 | 1,743 | 20 | 87.2 | 30 |
+| 2025-11 | 6,003 | 25 | 240.1 | 30 |
+| 2025-12 | 3,019 | 20 | 150.9 | 25 |
+| 2026-01 | 1,826 | 20 | 91.3 | 27 |
+| 2026-02 | 1,489 | 20 | 74.5 | 26 |
+| 2026-03 | 1,233 | 20 | 61.7 | 26 |
+| 2026-04 | 1,397 | 20 | 69.8 | 26 |
+| 2026-05 | 1,433 | 20 | 71.7 | 33 |
+| 2026-06 | 1,256 | 20 | 62.8 | 23 |
+| 2026-07 | 1,274 | 20 | 63.7 | 23 |
+| 2026-08 | 1,043 | 20 | 52.2 | 30 |
+| 2026-09 | 441 | 10 | 44.1 | 14 |

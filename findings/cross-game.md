@@ -1113,3 +1113,103 @@ does not help and that the fix is on the player's hardware.**
 ⚠️ **The corpus is now 22 games and 15,559 English summaries.** Section 7's unread total predates seven
 sections and should be recomputed before it is quoted.
 
+
+## 19. ⭐ What the thirteenth large game adds - Risk of Rain 2, added 2026-09-14
+
+**The most-recommended game in the corpus, the thinnest sample, and the first game whose complaint
+line moved because of who owns it.** 1,885 of 239,309 English reviews, a 0.79% sample at ±2.64%;
+95.6% up; 2,686 bullets, 1.42 per review - the lowest in the queue; praise to complaint **6.5 : 1**
+(Remnant II 1.6, Space Marine 2 about 2); 240 distinct modes, **8 used by no other game; 12 built in
+38 batches** - the tree went 1,076 → 1,088. Full read in `risk-of-rain-2-english.md`, ranked lists in
+`risk-of-rain-2.md`.
+
+### 🔑 The finding: a complaint line that fell for five years, and the owner's name doubled it
+
+**Helldivers 2's complaint line rose when the studio fought its audience; Space Marine 2's when the
+price rose; Remnant II's when the reviewer changed.** Risk of Rain 2's fell - 22.5 → 13.0 → 9.2 per
+100 across early access, 1.0 and 2022-23, the early-access bugs and the missing content being fixed -
+**and then doubled to 18.3 in 2024 with nothing about the design changed.** The 2024 reviewer complains
+about the owner (`owner-puts-players-off` 1.7 per 100), the expansion (`dlc-not-worth-it` 1.2), the
+patch (`made-it-worse` 1.7) and the disconnects (1.2); the 2019 reviewer complained about none of
+these because none existed. Thumb: 96-98% for five years, then 92.9% and 93.5%. **In a game this
+positive, the publisher's name was the biggest single thing that ever happened to its score - bigger
+than early access, 1.0 or any expansion - and it cost two points.** The reviews do not blame the
+design; they name the publisher's other games and its chief executive, and carry the grudge into a
+EULA change a year later.
+
+**The corpus now has four shapes of complaint-line movement.** The relationship (Helldivers 2), the
+price (Space Marine 2), the reviewer (Remnant II), the owner (Risk of Rain 2). **A rising complaint
+line has four causes and only one of them is the game.**
+
+### The subject that grew: ownership learned to say *accepted*
+
+**Before this game `publishing.ownership` could say only that the owner puts people off, or nothing.**
+The sample argues both sides in the same months - *"For as long as Gearbox has the IP I could never
+recommend this"* against *"they've earned my trust"* - and six praise lines had nowhere to go.
+`the-new-owner-is-accepted` (+, batch 13) is the twin: 6 here, 11 on the − side, 5 on `.unknown` with a
+grudge under a thumbs-up. **The next acquired game is measured on the pair.** Beside it the run built
+`a-consent-wall-was-added-after-purchase` (−, batch 14) on two earlier sightings, and the 2025 EULA
+delivered the third exactly as the note predicted: *"Added EULA that I have no intent of accepting
+after I bought the game; now I cannot play the game nor refund it"* (9 helpful), followed in the same
+game by *"changing my review as they seem to have removed their new EULA"*.
+
+### The praise line that never falls: the music
+
+**Every praise line in the corpus falls as a game ages, because the late reviewer describes less.**
+This game's `music.fits-the-game` rises for seven years - 3.3 → 2.9 → 2.2 → 5.0 → 6.0 per 100 - and it
+is the only one that does. It rises because it is quoted, not described: *"and his music was electric"*
+eleven times in 2025-26, the composer named by name more often than any developer in the corpus.
+**A thing players can quote survives the reviewer who has stopped explaining the game.**
+
+### The direction fault the checker cannot see, found twice
+
+**Two of the twelve modes were built because praise lines were sitting on − modes.** Five reviews
+across three games said the timer is the thrill and sat on `a-clock-decides-when-you-leave` (−);
+three said the action never stops and sat on `no-let-up` (−). dircheck.py compares a bullet's stated
+direction to its mode's and cannot see a praise line filed under a complaint. **`the-clock-is-the-
+thrill` (+, batch 18) and `the-action-never-stops` (+, batch 28) are the twins, six files re-homed
+across four games, and the lesson is recorded twice: a praise line homed on a − mode because the
+subject has no + twin is a build, not a note.** The corpus should be scanned for the pattern; the
+pacing and session-flexibility subjects had it, and others will.
+
+### The god run, read from both sides
+
+**`makes-you-feel-superhumanly-strong` was built for Space Marine 2 (64 lands, 13 do not, and the
+split was the thumb).** Here it is 73 - *start slow, gain power, become god, die anyway, do it all
+again* - against one review that reads the same fact as the problem: *"is someone really playing the
+game when there is no point to user inputs?"* (`progression-outgrows-the-challenge`, 247 hours,
+thumbs-down). **In Space Marine 2 the inverse was the fiction not delivered; here it is the fiction
+delivered so completely that the player stops playing.** The screen it produces, `effects-block-your-
+view` (14), is the game's second complaint and its most-repeated joke.
+
+### Three things this game says about samples and the tree
+
+1. **A 0.79% sample built 12 modes in 38 batches** - 0.3 per batch, against Remnant II's 1.5. The
+   rate tracks how much the reviewer says: 1.42 bullets per review against 2.30, and 47% of them
+   `unknown`. **A game people recommend and do not describe teaches the tree little, however big it
+   is.**
+2. **Flattening moves a finding.** 223 reviews (11.8%) carry a later edit; 15 of the 35 Gearbox lines
+   are 2024-26 edits on 2019-23 dates, so the ownership complaint shows in 2022-23 a year before its
+   first line on its own date (2023-01-07). Open with Rico since Helldivers 2; this is the game where
+   the answer changes a table.
+3. **The hated enemy stays on `.unknown` and the discipline held across two games.** Fourteen reviews
+   name blind pests, wisps, Elder Lemurians or Brass Contraptions and say *remove them*; one says why
+   (*one-shot by Brass Contraptions*). Space Marine 2's Chaos Spawn got its mode when the reason came
+   (the stun). **The enemy is named, the mechanism is the mode.**
+
+### What this game does NOT settle
+
+- **Flattening.** The highest edit share in the queue and the game where it moves a period's number.
+  Rico's.
+- **The *"the first game had X"* pattern.** Five lines here (*"I love Risk of Rain 1 more, preferred
+  the platformer"*), twenty-plus in Remnant II; raised in rounds 328, 359, 366; not built. Rico's.
+- **The `game-design.loot` subject (gap 331).** Weak case here - two item complaints, and the
+  item-sharing complaint (12) belongs to co-op design. Rico's.
+- **The publisher-communication split and the friendly-fire merge.** Nothing to add; one friendly-fire
+  line in 1,885.
+- **The epilepsy warning.** One ask (*"there should definitely be an epilepsy warning somewhere in the
+  game"*) on `accessibility.vision.unknown`; a second builds a mode.
+- **The non-English audience.** About 113,000 reviews, none pulled.
+
+⚠️ **The corpus is now 23 games and 17,444 English summaries.** Section 7's unread total predates eight
+sections and should be recomputed before it is quoted.
