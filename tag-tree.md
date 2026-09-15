@@ -7787,6 +7787,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting across three games, two of them mis-homed on a − mode.** Aliens: Fireteam Elite 169214774 ("Nonstop Action!") and Arcrunner 139378615 ("there's little to no downtime") sat on `.no-let-up`, whose direction they contradict; Risk of Rain 2 171193529 ("action from the first 5 seconds until the end - an hour in and you don't know where the time went"). ⚠️ Same lesson as the round-362 clock build: a praise line homed on a − mode because the subject has no + twin is a build, not a note. ✅ **Re-homes**: 169214774 and 139378615 off `.no-let-up`.
 
 
+## Mode added during the Warframe run - batch 2
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.paying-only-shortens-the-grind` | ~ | Real money buys speed - a booster, a skipped build timer, the item bought outright - and nothing a free player cannot also reach by playing. **Deliberately neutral**: the same fact is a relief to one reviewer ("not needed, but it sure makes things easier") and a complaint to the next ("the only other option is to purchase them"), and the thumb records which. **Distinct from `.pay-affects-play`**, where money buys an advantage over other players, and from `.money-does-not-touch-the-grind`, where what is sold sits outside the earnable items altogether. **Distinct from `.everything-earnable`**, which is the free player's side of the same coin: that mode says the goal is reachable without paying; this one says paying gets you there sooner. |
+
+🔑 **Fourth sighting across two games.** Terminull Brigade 201817142 ("pay-to-progress-faster features such as double experience and drops") sat on `.pay-affects-play`, which is an advantage over other players, not a shortcut; Warframe 6449334 (batch 1, buy the suit instead of grinding it), 830179 ("if you have the money, get affinity and credit boosters") and 2263653 ("not needed but it sure makes things easier"). Warframe is a thirteen-year free-to-play game with 3,235 reviews in the sample, so the mode will fill fast. ✅ **Re-homes**: 201817142 off `.pay-affects-play`; 6449334 off `publishing.monetisation-practice.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
