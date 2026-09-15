@@ -7840,6 +7840,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting, both Warframe, both praise.** 3921375 ("one of the most amazing guild system i've ever been able to create and manage") and 8722266 ("build your guild's dojo room-by-room, and individually decorating each room to your liking is freaking awesome"). Two other clan lines say different things - a two-player clan can research most weapons (6920334), joining a clan is near impossible (776593) - and stay on `.unknown` until a second review says either. ✅ **Re-home**: 3921375 off `community.social-features.unknown`.
 
 
+## Mode added during the Warframe run - batch 5
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.locked-out-of-my-own-account` | **−** | The player has an account with hours and money in it and can no longer get into it - a login that is refused, a link between two accounts that the game will neither use nor let them redo - so the game they own is closed to them. **Distinct from `.account-or-platform-gate`**, where a required account is the annoyance and the player can still get in; from `.banned-with-no-reason-given`, where the studio shut the door on purpose; and from `.will-not-start-at-all`, where the game itself never launches. |
+
+🔑 **Third sighting, all Warframe, all thumbs-down, spread across eleven years.** 804280 ("Have played more than 1k hours, spend money and I just cant login at my account"), 8924136 ("says I don't have a steam login for warframe ... can't create new because I apparently already have an account linked to steam. I don't care.") and 9690057 (2014, "wrong platform" at login on a Windows 7 machine). A game with its own account system, played across a decade and several platforms, produces this in a way the premium games in the corpus never did. ✅ **Re-home**: 804280 off `.account-or-platform-gate`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

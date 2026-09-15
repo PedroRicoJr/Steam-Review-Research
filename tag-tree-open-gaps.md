@@ -9204,3 +9204,16 @@ Batch 38 of 38: 35 reviews, 2026-07-31 to 2026-09-13; 1,885 of 1,885 read. 33 up
 - **One sighting, no home:** the studio still calls the game a beta years in, and the reviewer finds that laughable (7718099). Homed on `production.early-access.unknown`.
 - **Multi-dated review of note:** 7659727 flips from "stay away" (2013) to "big improvement" (2016) to "gave them money" (2019) to "great aside from woke story-telling" (2022), all under one thumbs-up and one created date. The flattening question with Rico is live in this game: reviews from 2013 that were edited in the 2020s are 22, 22 and 11 of the last three batches.
 - Running tallies: `price.fair` for "it is free" 8 more (33 in 200); "space ninjas" 6 more (32 in 200); Mass Effect 2 more (8 in 200); the studio or a staff member named 5 (17 in 200); `politics-put-me-off` 1 more (2 in 200, both about the game's later content); `keeps-pulling-you-back` 8 this batch.
+
+## Notes - round 387 (Warframe batch 5)
+
+- Batch 5 of Warframe, 2014-01 to 2014-04: 50 read, 0 excluded, 88 bullets, 25 on `.unknown` modes. 15 of 50 carry an edit date; none is multi-dated inside the text this time.
+- **Built:** `engineering.access.locked-out-of-my-own-account` (-), third sighting: 804280 (batch 2, re-homed off `account-or-platform-gate`, closing the round-384 note), 8924136 and 9690057. All three thumbs-down. Tree 1,094 to 1,095.
+- **Third sighting on the slot cap** (9210875, which defends the shop and still names slots as the one thing that limits play). The mode built in round 385 now holds three.
+- **Fourth on `the-player-market-works`** (9210875). Second on `players-buy-in-to-support-the-studio` this game (7659727, 9377240): both say they paid after the game earned it, not to get anything.
+- **One sighting, no home:** "you do not feel the progression" (9690006) - things do accumulate, so `nothing-accumulates` is wrong, and enemies do not scale, so `levelling-up-changes-nothing` is wrong. Homed on `unlock-pace.unknown`. The inverse of `satisfying-progression` has no name yet; build on the second.
+- **One sighting, no home:** the reviewer recommends a controller over mouse and keyboard as a preference (9210860). `you-have-to-switch-input-device-to-play-well` is a complaint; this is not one. Homed on `controls.unknown`.
+- **One sighting, no home:** fuzzy graphics, "not laggy, simply fuzzy" (9010933). Homed on `art.fidelity.unknown`.
+- **Politics, both directions, same game:** `politics-drew-me-in` 9297056 ("super woke, super inclusive and super fun") against `politics-put-me-off` 7659727 and 7335200. Three in 250.
+- **Precedent kept:** 9210875 is a 1,000-word defence of the game against its usual complaints; every claim got its own bullet on the mode it defends (`SHORTENS`, `EARNABLE`, `MARKET`, `FIXED`, `BETTER`), not on `judged-unfairly`, because each names the thing rather than the reputation.
+- Running tallies: `price.fair` for "it is free" 4 more (37 in 250); "space ninjas" 3 more (35 in 250); Mass Effect 3 more (11 in 250); Dark Sector 1 (5 in 250); Diablo named 2 (9210875, 9756829); `keeps-pulling-you-back` 0 this batch; `much-better-with-friends` 6 this batch.

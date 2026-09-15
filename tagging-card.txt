@@ -1092,3 +1092,4 @@ community.social-features.the-player-market-works | + | Players buy, sell and tr
 live-ops.patch-quality.drifted-from-what-it-was | - | Years of updates carried the game away from the identity that drew the player - the fiction, the fantasy, the 
 review.carries-the-reviewers-referral-link | ~ | The review carries the reviewer's own sign-up or referral link, which pays the reviewer when a reader uses it.
 community.social-features.the-clan-hall-is-worth-building | + | The game gives a group a persistent home of its own - a guild, a clan, a dojo - that the players build, decora
+engineering.access.locked-out-of-my-own-account | - | The player has an account with hours and money in it and can no longer get into it - a login that is refused, 
