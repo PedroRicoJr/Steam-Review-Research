@@ -1095,3 +1095,4 @@ community.social-features.the-clan-hall-is-worth-building | + | The game gives a
 engineering.access.locked-out-of-my-own-account | - | The player has an account with hours and money in it and can no longer get into it - a login that is refused, 
 publishing.monetisation-practice.the-shop-charges-far-too-much | - | The studio's own store prices its items far above what the player thinks they are worth - a skin priced like a
 game-design.progression.unlock-pace.timed-events-give-a-reason-to-log-in | + | Time-limited missions or events with their own rewards give the player a reason to come back today, and the re
+art.fidelity.the-picture-is-blurry | - | The image on screen is soft, fuzzy or smeared - blurred textures, a post-process the player cannot turn off, a

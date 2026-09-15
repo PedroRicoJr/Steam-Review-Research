@@ -7867,6 +7867,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting, all Warframe, all praise.** 4067008 ("occasional community events - alerts - to give out special rewards", batch 3), 11498141 ("Keeps my attention by constantly giving alert missions for the extra resources I need") and 11941159 ("Events and Alerts - which will yield special items and keep the game fresh"). The corpus's other "events keep you coming back" lines are in-world random events, not a live-ops clock, and stay on `randomness-keeps-it-fresh`. ✅ **Re-home**: 4067008 off `live-ops.update-cadence.unknown`.
 
 
+## Mode added during the Warframe run - batch 8
+
+### `art.fidelity`
+| Mode | | Definition |
+|---|---|---|
+| `.the-picture-is-blurry` | **−** | The image on screen is soft, fuzzy or smeared - blurred textures, a post-process the player cannot turn off, a picture that needs the sharpness slider raised - and the reviewer names the softness itself, not the art. **Distinct from `.rough-in-places`**, where some assets are worse than others, and from `.looks-dated`, where the whole look is old. **Distinct from `engineering.performance.only-runs-right-with-upscaling-on`**, which is about frame rate, not the picture. |
+
+🔑 **Fourth sighting across three games, every one parked on an `.unknown`.** DRG Rogue Core 226257078 ("had to raise sharpness to sixty percent to stop the picture looking fuzzy"), Redfall 221349897 ("the textures are blurry sometimes"), Warframe 9010933 ("the graphics were fuzzy, not really laggy just simply fuzzy", round 387) and 12306429 ("horrible blury in yer face graphics even at full HD"). ✅ **Re-homes**: 226257078 and 9010933 off `art.fidelity.unknown`; 221349897 off `art.visual-direction.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
