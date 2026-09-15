@@ -9326,3 +9326,16 @@ Batch 38 of 38: 35 reviews, 2026-07-31 to 2026-09-13; 1,885 of 1,885 read. 33 up
 - **One sighting:** "the people who run it will steal all your money" (19225018), on `feels-like-a-cash-grab`; the reviewer's own line before it is "good game". Counted, not a gap.
 - **`explained-by-naming-other-games` is at 29 files in 650.** Games named this batch: Destiny, Crysis, Call of Duty, Mass Effect 2, Skyrim, and a list of nineteen in 19555611 headed by Postal 2.
 - **Multi-dated reviews flattened this batch:** 18940471 (2015 with a 2022 edit that says the new frames made it better), 19224020 (2015 created, 2024 edit on the 1999 update), 18646441 (2015 created, 2017 "still rocks"), 18801774 (2015 created, 2024 edit), 19555611 (2015 created, 2020 rewrite at 2,602 hours).
+
+## Notes - round 396 (Warframe batch 14)
+
+50 read (2015-12 to 2016-02), 121 bullets, 1 excluded, 12 edited later. Running total 700 of 3,235. 49 up / 1 down. 22 bullets on an `.unknown` (17 of them bare praise). Tree 1,104, no change.
+
+- **Excluded:** 21038519, a three-line nonsense poem about a barnacle, nothing about the game. Second exclusion in Warframe (the first was the pancake recipe, 13047017, round 390). Written by hand in the excluded-file shape.
+- **One sighting, no home:** "requires you to create your own goals" (19719634, listed as a con). Homed on `unlock-pace.unknown`. Not `nothing-left-to-chase`, which is about the end; this reviewer means the game never sets goals at all. Build "the game sets no goals for you" on the second.
+- **Two borderline lines stayed on `keeps-pulling-you-back`, not `warns-that-it-takes-over-your-life`:** 20883186 ("afraid if I play I'll get sucked in for another 3,000 hours") and 21218435 ("I don't like how many hours I have on this game"). Both are affectionate; neither warns the reader or names a loss. 21039526 ("so addicting my grades are going low") did go on the warning mode: a named loss. 7 files in 700.
+- **`poorly-explained` took four in one batch** (19719634, 20384796 "three hours to work out where to go in the tutorial", 20712627, 20711767): 9 files in 700. 20712627 answers it from inside the community: the Guides of the Lotus, volunteer helpers now open to applications, on `welcoming-to-newcomers` (10 files, against 3 on `veterans-will-not-help-newcomers`).
+- **`everything-earnable` is at 47 files in 700**, the most-used non-praise mode in the run so far; six this batch. Its opposite number `paying-only-shortens-the-grind` carries the same fact from the other side.
+- **A review that answers other reviews** (20385791: "some reviews imply a grind fest ... show me a game of this calibre with no pay to win and no grind") went on `answers-a-claim-made-in-another-review`, first use in this run.
+- **Dark Sector is named in 6 files of 700** (21037333 this batch: came for the link with the older game, wanted to play the moment the glaive was added).
+- **Multi-dated reviews flattened this batch:** 20882315 (2016 "seems cool" with a 2017 "real review" underneath), 20883186 (2016 created, 2026 edit at 3,454 hours), 20549009 (2016 with an August 2016 edit), 20711767 (2016, edited October 2016), 21218435 (2016 created, 2019 edit at 2,584 hours).
