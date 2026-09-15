@@ -9139,3 +9139,17 @@ Batch 37 of 38: 50 reviews, 2026-05-15 to 2026-07-23; 1,850 of 1,885 read. 48 up
 - 231160111: "visual overload; after a while it's just numbers on the screen and a lot of colours, then you just get stronger and stronger" - `effects-block-your-view` + `makes-you-feel-superhumanly-strong`, the two RoR2 constants in one review.
 
 **Counted this batch:** 48 up, 2 down; 2 edited later; 1 excluded (9 in 1,850). Meme x1 (33 in 1,850). Sequel accepted x0 (50 in 1,850). Gearbox-era x0 (50 in 1,850). Foreign-language x0 (16 in 1,850). "Rain" jokes x12 - the densest batch of the run, one of them the second thumbs-down rain joke (226264956, 0 hours). God run x1. `much-better-with-friends` x4.
+
+## Notes - round 382 (Risk of Rain 2 batch 38 - the last)
+
+Batch 38 of 38: 35 reviews, 2026-07-31 to 2026-09-13; 1,885 of 1,885 read. 33 up, 2 down. The group is finished.
+
+**No build.** Tree stays 1,088.
+
+**The Commando defence, foreseen in round 364:** 235158351 "I'm going to end this world if another pathetic pig of a human being says that commando is somehow the worst character" - `role-design.unknown`. Commando tally closes at 2 complaints (130937796, which built `stuck-with-the-worst-starter`; 142162830 "commando sukz") and 1 defence.
+
+**Fourth sighting on an existing mode:** `poorly-explained` - 233552972 (thumbs-down, 6 helpful) "mechanics and objectives felt unclear". Same review: "gameplay felt sluggish" - `movement.sluggish` (first here, against `movement.responsive` at 1); "environments brutally ugly and homogenous" - `off-putting-look` (2 here) + `the-way-onward-is-hard-to-find` (6 here); "poorly telegraphed" - on `enemy-design.unknown`: no mode names an attack you cannot see coming (`no-counterplay` is one you cannot answer), one sighting.
+
+**Other sightings, all on existing modes:** `the-action-never-stops` 232927805 "stuff and things are always happening" (3 here). `thumb-contradicts-text` 231778406 "overwhelmingly lame" under a thumbs-up at 0 hours (5 here). `teammates-can-take-your-things` 235165759 "you took my item I CURSE YOU" (13 here). `one-hit-kills` x2 (jellyfish, "a random ass npc"). `dlc-not-worth-it` 232926172 "going downhill slowly with every new DLC" against `dlc-is-fair` x2 in the same batch. `runs-well-on-my-platform` 234193929 "works on mac with whisky" - the second Mac line after 124746293's request. Hated-enemy tally closes at 14 (wisp again, 235165802).
+
+**Counted this batch:** 33 up, 2 down; 0 edited later; 0 excluded (9 in 1,885). Meme x0 (33 in 1,885). Sequel accepted x0 (50 in 1,885). Gearbox-era x0 (50 in 1,885). Foreign-language x0 (16 in 1,885). "Rain" jokes x2. God run x1. Music praise x3.
