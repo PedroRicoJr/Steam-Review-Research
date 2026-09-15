@@ -1091,3 +1091,4 @@ publishing.monetisation-practice.what-you-can-own-is-capped-unless-you-pay | - |
 community.social-features.the-player-market-works | + | Players buy, sell and trade with each other inside the game, and the reviewer names the market as a thing that
 live-ops.patch-quality.drifted-from-what-it-was | - | Years of updates carried the game away from the identity that drew the player - the fiction, the fantasy, the 
 review.carries-the-reviewers-referral-link | ~ | The review carries the reviewer's own sign-up or referral link, which pays the reviewer when a reader uses it.
+community.social-features.the-clan-hall-is-worth-building | + | The game gives a group a persistent home of its own - a guild, a clan, a dojo - that the players build, decora

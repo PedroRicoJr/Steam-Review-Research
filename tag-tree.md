@@ -7830,6 +7830,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Second sighting, both Warframe, by word search for *referrerId*.** 776269 ("Referral link if you'd like to start with boosters / play with me") after a 1,500-word review, and 7335108 ("Use the link to sign up if you want a bonus") as a third of the review.
 
 
+## Mode added during the Warframe run - batch 4
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.the-clan-hall-is-worth-building` | **+** | The game gives a group a persistent home of its own - a guild, a clan, a dojo - that the players build, decorate and run, and the reviewer names that as a draw in itself. **Distinct from `.the-player-market-works`**, which is players dealing with players, and from `.good-tools-for-coordinating`, which is about getting a session together: this is a place the group owns between sessions. |
+
+🔑 **Second sighting, both Warframe, both praise.** 3921375 ("one of the most amazing guild system i've ever been able to create and manage") and 8722266 ("build your guild's dojo room-by-room, and individually decorating each room to your liking is freaking awesome"). Two other clan lines say different things - a two-player clan can research most weapons (6920334), joining a clan is near impossible (776593) - and stay on `.unknown` until a second review says either. ✅ **Re-home**: 3921375 off `community.social-features.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
