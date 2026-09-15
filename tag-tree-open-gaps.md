@@ -9118,3 +9118,24 @@ Batch 36 of 38: 50 reviews, 2026-02-28 to 2026-05-07; 1,800 of 1,885 read. 48 up
 - 223335550 and 224998148: "buy dlc on sale tho" / "the dlcs are a bit of money but it is good" - `dlc-and-editions.unknown`; the DLC price said twice as a mild caveat, never as `add-ons-cost-more-than-the-game`.
 
 **Counted this batch:** 48 up, 2 down; 2 edited later; 0 excluded (8 in 1,800). Meme x1 (32 in 1,800). Sequel accepted x0 (50 in 1,800). Foreign-language x2 (Portuguese, Russian; 16 in 1,800). "Rain" jokes x5. God run x1 ("everything dies", as a complaint). `says-how-much-of-the-genre-they-have-played` x4 - the densest batch for it, all four "I don't like roguelikes, but". Character shout-outs x6 (Huntress x3, Acrid, Chef, Hunter).
+
+## Notes - round 381 (Risk of Rain 2 batch 37)
+
+Batch 37 of 38: 50 reviews, 2026-05-15 to 2026-07-23; 1,850 of 1,885 read. 48 up, 2 down.
+
+**No build.** Tree stays 1,088.
+
+**Excluded:** 229286336 - no text. 9 excluded in 1,850.
+
+**Second sightings, homed on existing modes after a corpus check:**
+- The DLC characters outgun the base roster: 229893369 "dlc characters have such a power creep" joins 182854034 (round 374, "locking OP characters behind dlcs makes the game pay to win"). Corpus: Aliens: Fireteam Elite 128114816 says the opposite of its DLC ("none of the DLC weapons are super OP, so it's not pay-to-win"). Home: `monetisation-practice.pay-affects-play` ("money buys an advantage") - first here. `add-ons-outshine-the-base-game` is about make, not power, so not that.
+- Split-screen: 228605648 "needs split screen couch co-op; setting it up with mods has given me chest pain" - `modes.expected-mode-missing`, where Helldivers 2 157887626 and The Anacrusis 154252686 already sit for the same ask. Four games ask for it (Back 4 Blood's is in the Brazilian sample).
+- `frequent-disconnects` x2 (227445948 "steamworks authentication errors after an hour with friends", thumbs-down; 228064125 "random disconnects, hasn't happened in the past before") - 8 here. 228064125 also: "lobby freezes after game end and locks in the host" - `freezes-or-hangs` (first here); "a dirt flinger enemy drilling with so many dirt particles that all 3 of us hit 2 fps and it crashed for 2 of us" - `crashes-on-specific-event` (first here, with a named trigger).
+- `teammates-can-take-your-things` x2 (229286129 "friends keep stealing items - JACKSON", 229893535 "they will steal ur belongings and leave you to die") - 12 here.
+
+**One sighting, no build:**
+- 226907406: "for less confusion there's a good assortment of youtube videos" - `needs-carrying` (2 here); the guide half of it still has no mode.
+- 230565118: "nerf solus wing" - `power-balance.unknown`.
+- 231160111: "visual overload; after a while it's just numbers on the screen and a lot of colours, then you just get stronger and stronger" - `effects-block-your-view` + `makes-you-feel-superhumanly-strong`, the two RoR2 constants in one review.
+
+**Counted this batch:** 48 up, 2 down; 2 edited later; 1 excluded (9 in 1,850). Meme x1 (33 in 1,850). Sequel accepted x0 (50 in 1,850). Gearbox-era x0 (50 in 1,850). Foreign-language x0 (16 in 1,850). "Rain" jokes x12 - the densest batch of the run, one of them the second thumbs-down rain joke (226264956, 0 hours). God run x1. `much-better-with-friends` x4.
