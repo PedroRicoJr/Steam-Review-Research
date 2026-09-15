@@ -9315,3 +9315,14 @@ Batch 38 of 38: 35 reviews, 2026-07-31 to 2026-09-13; 1,885 of 1,885 read. 33 up
 - **17934084 carries 31 bullets**, the most in the run so far; a 2015 review edited two months later, with a pros list and a 26-item cons list. Every con found a home; `some-options-are-useless` took two (stealth not viable; mod transmutation a waste).
 - **Counts at 600, by script (files under raw/warframe/english/summaries):** `gated-behind-real-world-time` 12; `what-you-can-own-is-capped-unless-you-pay` 9; `the-thing-you-need-may-never-roll` 10; `a-mode-falls-flat` 4; files naming Destiny 9; greentext-format reviews 3.
 - **Multi-dated reviews flattened this batch:** 17323243 (2015 + 2017 Plains of Eidolon + 2018 Fortuna, three dated layers), 17435279 (2015 "parkour is broken" under a 2025 "peak"), 17323915 (2015 created, 2026 edit; text is the 2026 view), 17685646 (2015 created, 2024 edit on the change of studio leadership), 17934084 (2015-09 with a 2015-11 edit).
+
+## Notes - round 395 (Warframe batch 13)
+
+50 read (2015-09 to 2015-12), 101 bullets, 0 excluded, 11 edited later. Running total 650 of 3,235. 47 up / 3 down. 21 bullets on an `.unknown` (16 of them bare praise). Tree 1,104, no change.
+
+- **`warns-that-it-takes-over-your-life` took two more:** 18941677 ("it will consume your life, do not play it, save yourself", thumb up) and 19555611 ("a hole in my wallet and a video-game addiction; a man who foolishly wasted two thousand hours", thumb down). 6 files in 650; three of the six are thumbs up. The mode is holding its line against `keeps-pulling-you-back`: a warning to the reader, not a compliment.
+- **Destiny is now named in 14 files of 650,** five of them in this batch (18268929, 18798382, 18940390, 19400178, 19554621), four as "better than Destiny" on `beats-its-rivals` (10 files). 18940390 adds "it came before Destiny". The rival named tracks the year: Mass Effect in 2013, Destiny from late 2014 on.
+- **One sighting, a joke:** "Star Armor is a good game, I recommend it unless you are Chinese" (18800335) - a jab at the game's Chinese-market release, cast as a recommendation. On `review.unknown`. Not repeated; not a mode.
+- **One sighting:** "the people who run it will steal all your money" (19225018), on `feels-like-a-cash-grab`; the reviewer's own line before it is "good game". Counted, not a gap.
+- **`explained-by-naming-other-games` is at 29 files in 650.** Games named this batch: Destiny, Crysis, Call of Duty, Mass Effect 2, Skyrim, and a list of nineteen in 19555611 headed by Postal 2.
+- **Multi-dated reviews flattened this batch:** 18940471 (2015 with a 2022 edit that says the new frames made it better), 19224020 (2015 created, 2024 edit on the 1999 update), 18646441 (2015 created, 2017 "still rocks"), 18801774 (2015 created, 2024 edit), 19555611 (2015 created, 2020 rewrite at 2,602 hours).
