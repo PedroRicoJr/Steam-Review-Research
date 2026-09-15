@@ -9080,3 +9080,21 @@ Batch 34 of 38: 50 reviews, 2025-10-07 to 2025-12-07; 1,700 of 1,885 read. 46 up
 - 212816313: "good to make friends" - `culture.unknown`.
 
 **Counted this batch:** 46 up, 4 down; 5 edited later; 0 excluded (8 in 1,700). Meme x0 (31 in 1,700). Sequel accepted x0 (50 in 1,700). Foreign-language x2 (Portuguese, Spanish; 14 in 1,700). "Rain" jokes x4. God run x0. Music praise x5. `keeps-pulling-you-back` x5. Noise reviews with nothing said x3 ("chech", "67777...", "big pog").
+
+## Notes - round 379 (Risk of Rain 2 batch 35)
+
+Batch 35 of 38: 50 reviews, 2025-12-15 to 2026-02-21; 1,750 of 1,885 read. 45 up, 5 down.
+
+**No build.** Tree stays 1,088.
+
+**Third sighting on an existing mode:** `poorly-explained` - 216042531 (thumbs-down) "the tutorial doesn't work, or maybe even exist, I have no idea" joins 197340488 and 203286941. Same review: "too easy, until those moments where it isn't and you die in a second" - `too-easy` + `spikes-out-of-nowhere` (3 here); "hard mode is outrageously hard, harder than Dark Souls, needs TAS-robot-like skill (Godly luck)" - `too-hard` (first here). `too-easy` also gets 216644196 "2 ez" (thumbs-down) - 5 here now, against `satisfyingly-hard` at many.
+
+**One sighting, no build:**
+- 214776950 (thumbs-down, 0 hours on record): "I got so used to Megabonk that this game got kinda boring; the maps are too large; the 'serious' atmosphere throws me off; the characters have no charisma" - `content-variety.repetitive` + `the-spaces-are-scaled-too-big` + `atmosphere.falls-flat` + `character-design.generic-cast`, all first here. The Megabonk comparison cuts both ways in this run: 209887740 (round 378) expected a 3D Vampire Survivors and found more.
+- 215438049: "friends who have the dlc so you can mooch off of them" - `one-copy-covers-the-group` (first here); "dlc is a bit pricey but is really cool" - `dlc-and-editions.unknown`.
+- 214774753 (thumbs-down): "the game is dead" - `population.dead-game` (first here; two words, no evidence).
+- 216045599 (thumbs-down): "stops being fun after fifteen minutes" - `repetitive`.
+- 218903451: "hopped on for a quick session, 24 hours later I still don't understand half this game" - `overwhelming-at-first`, said fondly.
+- 217819459: a joke review with 324 helpful votes - the most-helped review in this game's sample by a wide margin; on `positive.unknown`.
+
+**Counted this batch:** 45 up, 5 down; 2 edited later; 0 excluded (8 in 1,750). Meme x0 (31 in 1,750). Sequel accepted x0 (50 in 1,750). Gearbox-era x0 (48 in 1,750) - the first batch since the ownership change with no Gearbox line. Foreign-language x0 (one-word "OUI" on `positive.unknown`; 14 in 1,750). "Rain" jokes x8 - a new high (England x1). God run x0. Music praise x4. `keeps-pulling-you-back` x6.
