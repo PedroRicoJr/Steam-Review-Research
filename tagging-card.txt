@@ -1100,3 +1100,5 @@ publishing.monetisation-practice.the-premium-currency-cannot-be-earned-by-playin
 publishing.monetisation-practice.colours-and-basic-cosmetics-cost-real-money | - | The plainest ways to change how your character looks - a colour, a palette, an accessory - are sold for money,
 game-design.replayability.warns-that-it-takes-over-your-life | - | The reviewer says the game's pull is a harm, not a compliment - they warn readers with a game addiction away f
 live-ops.update-cadence.updating-eats-the-play-session | - | The patches arrive so often, or download so slowly, that the time the player set aside to play goes to updatin
+community.culture.veterans-will-not-help-newcomers | - | The established players will not take, teach or tolerate a new one - they refuse a request for help, keep thei
+game-design.progression.unlock-pace.you-grind-for-gear-you-will-never-use | - | The player spends the grind on a weapon or frame that turns out too weak to use, or that exists only to be lev

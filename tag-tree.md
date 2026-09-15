@@ -7904,6 +7904,23 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting.** Warframe 6780550 ("only played for five minutes; every other minute was an update", round 383), 14266703 ("50 kilobytes a second on a 3-megabit line", round 391, stays on `engineering.access.will-not-start-at-all` because the launcher also freezes) and 15393564 ("updates are very time-consuming and often; fix the update process before you make any further updates"). ✅ **Re-home**: 6780550 off `live-ops.update-cadence.unknown`.
 
 
+## Modes added during the Warframe run - batch 12
+
+### `community.culture`
+| Mode | | Definition |
+|---|---|---|
+| `.veterans-will-not-help-newcomers` | **−** | The established players will not take, teach or tolerate a new one - they refuse a request for help, keep their groups to high ranks, or leave the low-level places where a newcomer could meet them. **The negative twin of `.welcoming-to-newcomers`.** **Distinct from `game-design.new-player-experience.needs-carrying`**, which says help is required; this says it is refused. **Distinct from `.the-fanbase-puts-me-off`**, which is about the crowd's tone, not what it does to a newcomer. |
+
+🔑 **Third sighting, all Warframe.** 14373730 ("ask any veteran to help you as a new player and they will refuse; ask them to make a new account and they block you", round 391), 17434294 ("childish, unwilling to help new people and more interested in trolling the chat") and 17820339 ("those few willing to be lenient to lower levels hang out in the low-level places; past that the chat is dead; open raids only want high ranks and they stay in their own bubble"). ✅ **Re-home**: 14373730 off `community.culture.unknown`.
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.you-grind-for-gear-you-will-never-use` | **−** | The player spends the grind on a weapon or frame that turns out too weak to use, or that exists only to be levelled for rank and shelved - so the reward at the end of the grind is a thing for the shelf. **Distinct from `game-design.power-balance.some-options-are-useless`**, where the complaint is that the option is weak; here it is that the grind was spent on it. **Distinct from `.a-new-weapon-starts-the-grind-again`**, where the new weapon is wanted. |
+
+🔑 **Third sighting, all Warframe, the first two parked on `some-options-are-useless` with a note to name at a third.** 8236558 ("the grind should at least reward high-damage items, not a larping axe and a nerf gun", round 386), 11124722 ("grinding for hours for blueprint parts only to find the weapon is not effective", round 388) and 17934084 ("the only reason to use bad weapons is to feed mastery rank; the community calls them mastery fodder"). ✅ **Re-homes**: 8236558 and 11124722 off `game-design.power-balance.some-options-are-useless`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
