@@ -9098,3 +9098,23 @@ Batch 35 of 38: 50 reviews, 2025-12-15 to 2026-02-21; 1,750 of 1,885 read. 45 up
 - 217819459: a joke review with 324 helpful votes - the most-helped review in this game's sample by a wide margin; on `positive.unknown`.
 
 **Counted this batch:** 45 up, 5 down; 2 edited later; 0 excluded (8 in 1,750). Meme x0 (31 in 1,750). Sequel accepted x0 (50 in 1,750). Gearbox-era x0 (48 in 1,750) - the first batch since the ownership change with no Gearbox line. Foreign-language x0 (one-word "OUI" on `positive.unknown`; 14 in 1,750). "Rain" jokes x8 - a new high (England x1). God run x0. Music praise x4. `keeps-pulling-you-back` x6.
+
+## Notes - round 380 (Risk of Rain 2 batch 36)
+
+Batch 36 of 38: 50 reviews, 2026-02-28 to 2026-05-07; 1,800 of 1,885 read. 48 up, 2 down.
+
+**No build.** Tree stays 1,088.
+
+**Second sightings on existing modes:**
+- `crossplay-made-the-connection-worse`: 220119048 "when enabling cross-play no servers can be found (playing through linux-proton)" joins 186252881 (round 374). Two here.
+- `needs-carrying`: 222210554 "can feel confusing without an experienced player or a wiki" (first here; the guide half of it has no mode of its own).
+- `progression-outgrows-the-challenge`: 223339415 (thumbs-down, 247 hours) "you get to a point where it just becomes an idle game; no point in the abilities when everything on screen just dies; is someone really playing when there is no point to user inputs?" (first here). This is the god-run tally read as a complaint: the same fact the `makes-you-feel-superhumanly-strong` lines praise (~60 in this game). Same review: "yet I can't stop playing it" - `keeps-pulling-you-back` under a thumbs-down; and a reply to a commenter - `answers-a-claim-made-in-another-review` (4 here).
+- `the-thing-you-need-may-never-roll`: 222773203 "give me at least one bustling fungus on stage one I beg" (4 here).
+
+**One sighting, no build:**
+- 223335750 (thumbs-down, 2 hours): "music sucks, art style sucks, gameplay sucks; you'd have to be a pothead to enjoy this" - `music.forgettable-or-annoying` and `visual-direction.off-putting-look`, both first here against ~60 music-praise lines and ~10 art-praise lines.
+- 224995728: "was good, then bad, now it's good again" - `fixed-what-mattered`; the whole Gearbox arc in eight words. Gearbox-era lines 49 in 1,800; 220120036 "they got back the good music in the new DLC" makes 50.
+- 224994808: "the sound design is peak" - `sound-effects.unknown`; praise with nothing named.
+- 223335550 and 224998148: "buy dlc on sale tho" / "the dlcs are a bit of money but it is good" - `dlc-and-editions.unknown`; the DLC price said twice as a mild caveat, never as `add-ons-cost-more-than-the-game`.
+
+**Counted this batch:** 48 up, 2 down; 2 edited later; 0 excluded (8 in 1,800). Meme x1 (32 in 1,800). Sequel accepted x0 (50 in 1,800). Foreign-language x2 (Portuguese, Russian; 16 in 1,800). "Rain" jokes x5. God run x1 ("everything dies", as a complaint). `says-how-much-of-the-genre-they-have-played` x4 - the densest batch for it, all four "I don't like roguelikes, but". Character shout-outs x6 (Huntress x3, Acrid, Chef, Hunter).
