@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-09-13 02:40:14 Pacific Daylight Time. Rebuild with `python build_grid.py`.
+Built 2026-09-14 18:47:43 Pacific Daylight Time. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -43,5 +43,6 @@ Built 2026-09-13 02:40:14 Pacific Daylight Time. Rebuild with `python build_grid
 | `the-anacrusis/english` | 56 | 1,290 | 2022-06 (345) |
 | `town-of-the-dead-life/english` | 1 | 1 | 2021-07 (1) |
 | `voidcrisis/english` | 5 | 17 | 2022-08 (11) |
+| `warframe/english` | 163 | 302,482 | 2018-11 (11,813) |
 | `zcrew/english` | 31 | 77 | 2022-09 (15) |
 | `zombie-girl/english` | 27 | 89 | 2023-10 (28) |
