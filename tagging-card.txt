@@ -1385,3 +1385,16 @@ publishing.ownership.the-owner-is-not-disclosed | - | The store page does not sa
 publishing.ownership.put-off-by-the-country-it-comes-from | - | The reviewer dismisses the game because of the country it was made in. **Records the objection, not whether it
 publishing.ownership.dislikes-the-owner | - | The reviewer shows dislike of the company that owns the game - a curse, a jab, a "despite them" - without sayi
 publishing.ownership.the-new-owner-cares-less-than-the-makers | - | The game passed from the studio that made it to a new owner, and the reviewer says the new owner has not put i
+publishing.price.the-discount-for-owning-the-last-game-is-too-small | - | Owners of the earlier game get a discount on this one, and the reviewer calls it too small to count. Closes ga
+publishing.price.dropped-so-fast-launch-buyers-lost-out | - | The price fell soon after release, and the reviewer says the people who paid at launch were overcharged. Close
+publishing.price.worked-out-as-price-per-hour | ~ | The reviewer judges the price by what it cost per hour played - a dollar an hour, quarters in an arcade machin
+publishing.sale-dependency.the-sale-came-after-the-players-left | - | The reviewer waited for a discount, and by the time it came the player base was gone. Closes gap 304.
+publishing.sale-dependency.wait-for-the-fixes-before-buying | - | The reviewer tells readers to wait until the studio fixes the game's problems before buying - not for a lower 
+game-design.punishment-model.dying-makes-the-next-try-harder | - | Each death makes the next attempt harder - a stronger enemy spawns - so failing makes it harder to recover. Ro
+publishing.refund.try-it-and-refund-if-not | + | The reviewer points to the store's refund window as a reason to try the game with no risk. Round 353's note.
+game-design.replayability.interest-comes-and-goes-in-waves | ~ | The reviewer says the game goes from fun to boring and back again in a cycle. Round 392's note.
+review.explains-their-own-reviewing-rule | ~ | The reviewer states a personal rule for when they write reviews - only after finishing a game, say - and says 
+review.says-a-language-model-proofread-it | ~ | The reviewer says they ran the review through a language model to proofread it before posting. **Distinct from
+review.judges-later-content-from-videos | ~ | The reviewer extends the verdict to parts of the game they have not played, based on watching creators who hav
+review.kept-as-a-log-of-reward-campaigns | ~ | The review is kept up to date as a list of the dates the game was used as a reward in someone else's promotion
+review.describes-a-different-game | ~ | The review's body describes another game entirely - its price, its rules, its levels - filed under this one. *

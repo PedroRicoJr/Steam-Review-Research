@@ -8793,6 +8793,48 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 417, backlog rows 401-420.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 418 (Rule C)
+
+### `publishing.price`
+| Mode | | Definition |
+|---|---|---|
+| `.the-discount-for-owning-the-last-game-is-too-small` | **−** | Owners of the earlier game get a discount on this one, and the reviewer calls it too small to count. Closes gap 43. |
+| `.dropped-so-fast-launch-buyers-lost-out` | **−** | The price fell soon after release, and the reviewer says the people who paid at launch were overcharged. Closes gap 70. |
+| `.worked-out-as-price-per-hour` | ~ | The reviewer judges the price by what it cost per hour played - a dollar an hour, quarters in an arcade machine. Closes gap 265. |
+
+### `publishing.sale-dependency`
+| Mode | | Definition |
+|---|---|---|
+| `.the-sale-came-after-the-players-left` | **−** | The reviewer waited for a discount, and by the time it came the player base was gone. Closes gap 304. |
+| `.wait-for-the-fixes-before-buying` | **−** | The reviewer tells readers to wait until the studio fixes the game's problems before buying - not for a lower price. Round 299's note. |
+
+### `game-design.punishment-model`
+| Mode | | Definition |
+|---|---|---|
+| `.dying-makes-the-next-try-harder` | **−** | Each death makes the next attempt harder - a stronger enemy spawns - so failing makes it harder to recover. Round 335's note. |
+
+### `publishing.refund`
+| Mode | | Definition |
+|---|---|---|
+| `.try-it-and-refund-if-not` | **+** | The reviewer points to the store's refund window as a reason to try the game with no risk. Round 353's note. |
+
+### `game-design.replayability`
+| Mode | | Definition |
+|---|---|---|
+| `.interest-comes-and-goes-in-waves` | ~ | The reviewer says the game goes from fun to boring and back again in a cycle. Round 392's note. |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.explains-their-own-reviewing-rule` | ~ | The reviewer states a personal rule for when they write reviews - only after finishing a game, say - and says how this game fits or breaks it. **Distinct from `.i-never-write-reviews-and-wrote-this-one`**. Closes gap 107. |
+| `.says-a-language-model-proofread-it` | ~ | The reviewer says they ran the review through a language model to proofread it before posting. **Distinct from `production.craftsmanship.reads-as-machine-made`**, which is about the game. Closes gap 136. |
+| `.judges-later-content-from-videos` | ~ | The reviewer extends the verdict to parts of the game they have not played, based on watching creators who have. **Distinct from `.the-claim-comes-from-another-review`**. Closes gap 137. |
+| `.kept-as-a-log-of-reward-campaigns` | ~ | The review is kept up to date as a list of the dates the game was used as a reward in someone else's promotion. Closes gap 157. |
+| `.describes-a-different-game` | ~ | The review's body describes another game entirely - its price, its rules, its levels - filed under this one. **Records a data-quality fact**; the bullet is counted as neither praise nor complaint about this game. Closes gap 181. |
+
+🔑 **Round 418, backlog rows 421-440.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
