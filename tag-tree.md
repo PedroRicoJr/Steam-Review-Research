@@ -8556,6 +8556,44 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 411, backlog rows 281-300.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 412 (Rule C)
+
+### `live-ops.update-cadence`
+| Mode | | Definition |
+|---|---|---|
+| `.one-region-gets-content-first` | **−** | One country or region gets new content while everyone else waits months for it. Closes gap 344. |
+| `.promised-content-keeps-slipping` | **−** | Announced content - a DLC, an update - is delayed again and again. **Distinct from `.awaiting-promised-content`**, which is waiting without complaint. |
+| `.slow-but-worth-the-wait` | **+** | Big updates are rare, and the reviewer says each one is worth the wait. **The positive reading of `.too-slow`.** |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.new-items-thin-out-the-pool` | **−** | Adding more items to a random pool makes each run's draw weaker, especially when the new items are bad. Round 359's note. |
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.a-reward-campaign-farms-installs` | **−** | The reviewer says an outside reward campaign exists to push download numbers for store ranking, not to find players. Closes gap 165. |
+| `.sat-unplayed-before-it-clicked` | **+** | The player owned the game for a long time without playing it, finally did, and wishes they had sooner. Closes gap 270. |
+| `.bought-it-ahead-of-the-sequel` | ~ | The player bought this game to catch up before its sequel comes out. Closes gap 306. |
+| `.launched-in-the-shadow-of-a-bigger-game` | **−** | The reviewer says the game went unnoticed because it launched next to a bigger title. |
+| `.came-from-a-rival-that-failed-them` | ~ | The player names another game that let them down - broken multiplayer, a bad update - as why they came to this one. |
+| `.found-it-in-the-store` | ~ | The game reached the player through the store itself - a discovery queue, a front page, a recommendation list. |
+
+### `marketing.expectation-management`
+| Mode | | Definition |
+|---|---|---|
+| `.sold-as-finished-and-unfinished-at-once` | **−** | The store sells the game as a full release and as early access at the same time, which contradict each other. Closes gap 51. |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.does-not-know-what-it-is` | **−** | The reviewer says the game borrows from several kinds of game and never settles into an identity of its own. |
+| `.a-game-not-a-service` | **+** | The reviewer praises the game for feeling like a complete game rather than a live service. Round 347's note. |
+
+🔑 **Round 412, backlog rows 301-320.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
