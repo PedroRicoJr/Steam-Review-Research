@@ -1117,3 +1117,17 @@ art.character-design.a-known-creature-does-not-look-like-itself | - | A creature
 game-design.progression.build-and-customisation.the-options-for-one-gender-are-poor | - | The character creator's choices for one gender are few or do not look like that gender, and the reviewer names
 game-design.progression.cosmetic-rewards.the-outfits-make-you-look-silly | - | The clothes and gear the player can wear make their character look ridiculous, and the reviewer says so. **Dis
 art.effects-and-gore.too-little-gore | - | The reviewer wants more blood and gore than the game shows, often because the source it adapts is gory. **Dist
+narrative.story.cutscenes-are-well-made | + | The reviewer praises the cinematics themselves - the intro, a cutscene - as well made. **The inverse of `.cuts
+art.visual-direction.the-style-looks-like-a-budget-choice | - | The reviewer suspects the art style was chosen because it was cheaper or easier to make, not for how it looks,
+audio.mixing.the-opening-is-far-louder-than-the-game | - | The first sounds - an intro, a start screen - play much louder than the rest of the game, loud enough to start
+audio.mixing.opens-at-a-comfortable-volume | + | The reviewer praises the game for not blasting them with sound when it first opens. **The inverse of `.the-ope
+audio.mixing.the-sound-plays-in-one-ear-only | - | Sound drops out of one side - it plays only in the left or the right ear, or collapses from stereo to one side
+audio.music.jumps-between-styles-with-no-theme | - | The score changes genre from place to place, so the game has no musical identity. **Distinct from `.forgettabl
+audio.music.cuts-in-and-out | - | The music starts and stops abruptly or at odd moments. **Distinct from `.forgettable-or-annoying`**, which jud
+audio.music.best-played-with-your-own-music | + | The reviewer plays to their own music or playlist and recommends it as a pleasure, without faulting the game's
+audio.sound-effects.the-world-sounds-alive | + | The ambient sounds of the place - machines, weather, rooms - are worth listening to and build the world. **Dis
+audio.sound-effects.a-sound-wears-you-down | - | One recurring sound - a weapon's report, a hum, a machine the player keeps passing - irritates the reviewer un
+audio.sound-effects.sounds-great | + | The reviewer praises the sound design with nothing more specific named. **Distinct from `.punchy`** and `.the-
+community.developer-communication.will-not-say-where-it-used-ai | - | The reviewer says the studio has been unclear about which parts of the game were made with AI, or has not cred
+audio.voice-performance.should-have-paid-voice-actors | - | The reviewer objects that the studio used generated voices instead of paying actors, as a matter of how people
+audio.voice-performance.the-players-lines-are-the-only-ones-unvoiced | - | Every other character speaks aloud and the lines the player chooses are silent text, and the reviewer notices 

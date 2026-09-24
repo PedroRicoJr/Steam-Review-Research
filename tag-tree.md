@@ -8009,6 +8009,53 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 397, backlog rows 1-20.** Built on first sighting under Rule C, with same-round re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 398 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.cutscenes-are-well-made` | **+** | The reviewer praises the cinematics themselves - the intro, a cutscene - as well made. **The inverse of `.cutscenes-are-badly-made`.** |
+
+### `art.visual-direction`
+| Mode | | Definition |
+|---|---|---|
+| `.the-style-looks-like-a-budget-choice` | **−** | The reviewer suspects the art style was chosen because it was cheaper or easier to make, not for how it looks, and says it does not look better for it. **Distinct from `.forgettable-look`**, which makes no claim about why. |
+
+### `audio.mixing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-opening-is-far-louder-than-the-game` | **−** | The first sounds - an intro, a start screen - play much louder than the rest of the game, loud enough to startle. **Distinct from `.drowns-out-what-matters`**, which is balance during play. |
+| `.opens-at-a-comfortable-volume` | **+** | The reviewer praises the game for not blasting them with sound when it first opens. **The inverse of `.the-opening-is-far-louder-than-the-game`.** |
+| `.the-sound-plays-in-one-ear-only` | **−** | Sound drops out of one side - it plays only in the left or the right ear, or collapses from stereo to one side. **Distinct from `audio.sound-effects.cannot-tell-above-from-below`**, where both ears work and the height is missing. |
+
+### `audio.music`
+| Mode | | Definition |
+|---|---|---|
+| `.jumps-between-styles-with-no-theme` | **−** | The score changes genre from place to place, so the game has no musical identity. **Distinct from `.forgettable-or-annoying`**, where the music is dull; here it is incoherent. |
+| `.cuts-in-and-out` | **−** | The music starts and stops abruptly or at odd moments. **Distinct from `.forgettable-or-annoying`**, which judges the music itself. |
+| `.best-played-with-your-own-music` | **+** | The reviewer plays to their own music or playlist and recommends it as a pleasure, without faulting the game's own score. A player who puts on a playlist **because** the score bores them stays on `.forgettable-or-annoying`. |
+
+### `audio.sound-effects`
+| Mode | | Definition |
+|---|---|---|
+| `.the-world-sounds-alive` | **+** | The ambient sounds of the place - machines, weather, rooms - are worth listening to and build the world. **Distinct from `.punchy`**, which is weapons and impacts. |
+| `.a-sound-wears-you-down` | **−** | One recurring sound - a weapon's report, a hum, a machine the player keeps passing - irritates the reviewer until they avoid it, or gives them a headache. **Distinct from `.sounds-out-of-place`**, which is a sound that clashes with its moment once. |
+| `.sounds-great` | **+** | The reviewer praises the sound design with nothing more specific named. **Distinct from `.punchy`** and `.the-world-sounds-alive`, which name what is good. |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.will-not-say-where-it-used-ai` | **−** | The reviewer says the studio has been unclear about which parts of the game were made with AI, or has not credited the people it replaced or recreated, and wants that stated. **Distinct from `audio.voice-performance.the-voices-are-generated-and-it-shows`**, which is about hearing it; this is about being told. Closes gap 327. |
+
+### `audio.voice-performance`
+| Mode | | Definition |
+|---|---|---|
+| `.should-have-paid-voice-actors` | **−** | The reviewer objects that the studio used generated voices instead of paying actors, as a matter of how people are treated, without saying they can hear it. **Distinct from `.the-voices-are-generated-and-it-shows`**, which is about the sound. |
+| `.the-players-lines-are-the-only-ones-unvoiced` | **−** | Every other character speaks aloud and the lines the player chooses are silent text, and the reviewer notices the gap. |
+
+🔑 **Round 398, backlog rows 21-40.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
