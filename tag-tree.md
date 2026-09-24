@@ -8594,6 +8594,42 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 412, backlog rows 301-320.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 413 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.also-recommends-another-game` | ~ | The reviewer tells readers to try another named game as well - not instead. **Distinct from `.beaten-by-a-competitor`**, which sends them away. Closes gap 22. |
+| `.good-material-for-a-video` | **+** | A reviewer who makes videos or streams says the game gave them hours of content and memorable moments to show. Closes gap 30. |
+| `.wants-this-formula-in-another-licence` | **+** | The reviewer wants the studio to apply this game's design to another film or series. Closes gap 228. |
+| `.traces-the-studios-lineage` | ~ | The reviewer traces the studio back through its earlier names and games to explain who made this. Closes gap 268. |
+| `.still-holds-up-years-later` | **+** | The reviewer says the game still plays well years after release. **The positive twin of `.the-design-is-a-decade-behind-the-genre`.** Closes gap 300. |
+| `.streamers-play-a-different-game` | **−** | The reviewer says the game shown by streamers - friendly strangers, organised teams - is not the one an ordinary player gets. Closes gap 329. |
+| `.suspects-the-early-ratings` | **−** | The reviewer distrusts how the game's rating was built before release and gives a negative thumb partly for that. |
+| `.a-rebuke-to-the-rest-of-the-industry` | **+** | The reviewer praises the game as a reminder of what the industry has lost - made for players, not to milk them - without naming an earlier era. **Distinct from `.old-fashioned-and-better-for-it`**, which names the past. |
+| `.likes-the-people-running-the-studio` | **+** | The reviewer praises the studio's leadership or its public stance. **The positive twin of `.studio-politics-put-me-off`.** |
+| `.worse-now-than-at-launch` | **−** | The reviewer says the game has fallen from where it started. **The inverse of `.recovered-over-time`.** |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.written-to-pull-the-score-back` | ~ | The reviewer says they are adding a positive review deliberately to offset what they see as unfair negatives. Closes gap 182. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.sells-with-restraint` | **+** | The reviewer praises the game for not pushing a constant stream of things to buy. |
+
+### `narrative.characters-writing`
+| Mode | | Definition |
+|---|---|---|
+| `.in-jokes-replace-the-writing` | **−** | Lines that once carried lore or directions are replaced with in-jokes and banter from the studio's own community. Closes gap 90. |
+| `.the-best-lines-rarely-play` | **−** | The writing that builds the characters exists, but the game plays those lines so rarely that players seldom hear them. Closes gap 114. |
+| `.your-own-character-is-nobody` | **−** | The player's own character has no personality or story of their own. Closes gap 251. |
+
+🔑 **Round 413, backlog rows 321-340.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

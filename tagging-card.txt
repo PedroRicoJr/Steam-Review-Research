@@ -1315,3 +1315,18 @@ marketing.discovery.found-it-in-the-store | ~ | The game reached the player thro
 marketing.expectation-management.sold-as-finished-and-unfinished-at-once | - | The store sells the game as a full release and as early access at the same time, which contradict each other. 
 marketing.positioning.does-not-know-what-it-is | - | The reviewer says the game borrows from several kinds of game and never settles into an identity of its own.
 marketing.positioning.a-game-not-a-service | + | The reviewer praises the game for feeling like a complete game rather than a live service. Round 347's note.
+marketing.reputation.also-recommends-another-game | ~ | The reviewer tells readers to try another named game as well - not instead. **Distinct from `.beaten-by-a-comp
+marketing.reputation.good-material-for-a-video | + | A reviewer who makes videos or streams says the game gave them hours of content and memorable moments to show.
+marketing.reputation.wants-this-formula-in-another-licence | + | The reviewer wants the studio to apply this game's design to another film or series. Closes gap 228.
+marketing.reputation.traces-the-studios-lineage | ~ | The reviewer traces the studio back through its earlier names and games to explain who made this. Closes gap 2
+marketing.reputation.still-holds-up-years-later | + | The reviewer says the game still plays well years after release. **The positive twin of `.the-design-is-a-deca
+marketing.reputation.streamers-play-a-different-game | - | The reviewer says the game shown by streamers - friendly strangers, organised teams - is not the one an ordina
+marketing.reputation.suspects-the-early-ratings | - | The reviewer distrusts how the game's rating was built before release and gives a negative thumb partly for th
+marketing.reputation.a-rebuke-to-the-rest-of-the-industry | + | The reviewer praises the game as a reminder of what the industry has lost - made for players, not to milk them
+marketing.reputation.likes-the-people-running-the-studio | + | The reviewer praises the studio's leadership or its public stance. **The positive twin of `.studio-politics-pu
+marketing.reputation.worse-now-than-at-launch | - | The reviewer says the game has fallen from where it started. **The inverse of `.recovered-over-time`.**
+review.written-to-pull-the-score-back | ~ | The reviewer says they are adding a positive review deliberately to offset what they see as unfair negatives. 
+publishing.monetisation-practice.sells-with-restraint | + | The reviewer praises the game for not pushing a constant stream of things to buy.
+narrative.characters-writing.in-jokes-replace-the-writing | - | Lines that once carried lore or directions are replaced with in-jokes and banter from the studio's own communi
+narrative.characters-writing.the-best-lines-rarely-play | - | The writing that builds the characters exists, but the game plays those lines so rarely that players seldom he
+narrative.characters-writing.your-own-character-is-nobody | - | The player's own character has no personality or story of their own. Closes gap 251.

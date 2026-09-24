@@ -9,7 +9,7 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Active loop | `loops/active/2026-09-24-backlog-warframe-duckov.md` |
 | Cadence | every 20 minutes |
-| In-session timer | CronCreate job `ddc3e470`, `*/20 * * * *` (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
+| In-session timer | CronCreate job `7534f320`, `*/20 * * * *` (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
 | Backstop | Routine `trig_01Va8fnQYvp4XU9rzChSjVaf`, hourly at :44 |
 
 ## Where it stands
@@ -18,10 +18,10 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-24 |
 | Current stage | 1 of 3: single-sighting backlog |
-| Last unit done | Round 412 (backlog rows 301-320) |
-| Next unit | Round 413: the next 20 `open` rows of `tag-tree-backlog.tsv` |
-| Backlog | 152 open, 24 check |
-| Tree | 1,317 tags |
+| Last unit done | Round 413 (backlog rows 321-340) |
+| Next unit | Round 414: the next 20 `open` rows of `tag-tree-backlog.tsv` |
+| Backlog | 132 open, 24 check |
+| Tree | 1,332 tags |
 | Warframe | 700 of 3,235 read (14 of 65 batches); next is batch 15 |
 | Escape from Duckov | not started |
 
