@@ -28,8 +28,9 @@ the one file in `loops/active/`. Following it must always be enough to carry on.
 6. Append the round note to `tag-tree-open-gaps.md`, with every count computed by script.
 7. Update `STATUS.md`: last unit, next unit, counts, date.
 8. Commit by pathspec (never `git commit -a`), then `git push origin main`.
-9. Report to Rico in one short plain-language block: what was done, running totals, anything he
-   must decide.
+9. Report to Rico in **one line**: the unit, the running total, the tree size. **A full report only
+   when a stage finishes, a check fails, or Rico must decide something** - and then add the decision
+   to "Open with Rico" in `STATUS.md`. Rico should not need to read the chat to know where things are.
 
 ## Starting a loop
 
