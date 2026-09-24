@@ -8630,6 +8630,42 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 413, backlog rows 321-340.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 414 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-full-story-is-in-a-tie-in-book` | ~ | The reviewer says the story behind the game is told in a book or other work outside it, and points readers there. Closes gap 204. |
+| `.makes-sense-only-if-you-know-the-source` | **−** | The story draws its events and lore from books or other games most players have not read, so it reads as nonsense to someone who has not. **Distinct from `world-and-setting.only-worth-it-if-you-already-love-the-source`**, which is about who will enjoy the game, not whether the story can be followed. Closes gap 263. |
+| `.the-last-games-hero-is-left-out` | **−** | A sequel drops the earlier game's main character with little or no mention. Round 318's note. |
+| `.the-play-and-the-story-do-not-match` | **−** | What the player does in play feels disconnected from what the story says is happening - a quip and an easy kill against a creature the story calls godlike. **Distinct from `world-and-setting.the-rules-contradict-the-story`**, which is about what the game rewards. Round 339's note. |
+| `.spoils-the-earlier-game` | **−** | A sequel gives away the earlier game's story early on, so the reviewer tells readers to play the earlier game first. Round 340's note. |
+| `.earlier-choices-do-not-carry-over` | **−** | Decisions the player made in the earlier game have no effect in this one. Round 341's note. |
+| `.kept-cryptic-on-purpose` | ~ | The reviewer says the story is written to stay unclear on purpose, so players keep guessing between updates. Round 394's note. |
+| `.a-twist-took-away-the-fantasy` | **−** | A reveal partway through the story changes who the player is and takes away the fantasy or the tension they were enjoying. Round 390's note. |
+
+### `narrative.tone`
+| Mode | | Definition |
+|---|---|---|
+| `.cosmetics-break-the-tone` | **−** | Emotes, hats, decals or other cosmetics clash with the mood of the game and break the player's immersion. Closes gap 234. |
+
+### `narrative.world-and-setting`
+| Mode | | Definition |
+|---|---|---|
+| `.the-world-is-never-explained` | **−** | The game does not explain its own world - what the enemies are, what the lore means - and leaves the player to dig or guess. Closes gaps 106 and 236. |
+| `.adds-to-the-source-without-harming-it` | **+** | The adaptation adds to the book, film or series and the reviewer says it does no damage to it. **The positive twin of `.the-additions-do-not-belong-in-the-source`.** Closes gap 231. |
+| `.works-for-people-new-to-the-source` | **+** | The reviewer is not a fan of the book, film or series and still enjoyed the game. **The counterpart of `.only-worth-it-if-you-already-love-the-source`.** Closes gap 297. |
+| `.the-faithful-version-must-be-unlocked` | **−** | A thing from the source is in the game in a form that is wrong, and the correct version has to be earned. **Distinct from `.an-iconic-thing-from-the-source-is-missing`.** Closes gap 305. |
+| `.what-you-do-never-changes-the-world` | **−** | The player wants their missions or runs to change something in the game's world and they do not. Closes gap 341. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.an-option-exists-and-is-hard-to-find` | **−** | The setting the player wants is in the game, but nothing shows them where, so they only learn of it from someone else. **Distinct from `.settings-only-in-a-config-file`**, where the option is not in the menus at all. Round 301's note. |
+
+🔑 **Round 414, backlog rows 341-360.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
