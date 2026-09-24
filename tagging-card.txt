@@ -1181,3 +1181,16 @@ game-design.difficulty-tuning.swings-wildly-within-a-run | - | Enemy and boss di
 accessibility.memory-and-attention.too-much-at-once-for-some-players | - | The reviewer warns that players who are easily overwhelmed by noise, screen clutter and pressure should not pl
 engineering.access.dies-when-the-servers-go | - | The game needs the studio's servers, so the reviewer expects it - and the player's progress - to end when they
 engineering.access.offline-mode-only-if-you-already-had-it | - | An offline mode was added, and it works only for players who installed the game before the servers went.
+engineering.access.hard-to-delete-your-account | - | Closing or deleting the player's account takes many steps or hoops. **The exit side of `.account-or-platform-g
+engineering.access.had-to-find-the-fix-yourself | - | The game would not run properly until the player searched guides and videos for a fix the studio should have h
+engineering.access.no-lan-play | - | The reviewer wants to play over a local network without the internet, and the game does not allow it.
+engineering.access.the-extra-account-is-painless | + | The game needs an account beyond Steam, and the reviewer says making it was simple. **The easy side of `.accou
+engineering.bugs.a-skill-stops-working | - | One of the character's abilities stops working after a particular item, swap or event, and the reviewer names 
+engineering.bugs.the-objective-spawns-inside-the-scenery | - | A required object - a teleporter, an exit, a boss spawn - appears half inside a wall or blocked in a corner. *
+engineering.matchmaking.the-queue-restarts-when-someone-leaves-it | - | When one waiting player gives up, the search starts again for everyone, so the wait grows.
+engineering.matchmaking.sorting-by-conduct-made-it-bland | - | Matching players by how aggressively they play takes the danger out, so the game feels casual, bland or reward
+engineering.matchmaking.you-host-and-hope-someone-joins | - | There is no real co-op matchmaking: the player starts a mission and hopes strangers join, or plays with bots. 
+engineering.matchmaking.no-skill-matching-is-a-relief | + | The reviewer praises the absence of skill-based matchmaking. **The positive twin of `.no-skill-matching`.**
+engineering.matchmaking.no-way-out-of-a-joined-game | - | After being matched into a session, the only way to leave the group is to force-quit the game.
+engineering.matchmaking.clumsy-to-use | - | Matchmaking exists and is awkward or unclear to use, which keeps people from playing with strangers. **Distinc
+engineering.matchmaking.fills-your-game-with-players-automatically | + | A player who starts alone has other players added to their session without asking. **Distinct from `.easy-to-d

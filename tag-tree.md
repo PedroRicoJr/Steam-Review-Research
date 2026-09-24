@@ -8193,6 +8193,36 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 401, backlog rows 81-100.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 402 (Rule C)
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.hard-to-delete-your-account` | **−** | Closing or deleting the player's account takes many steps or hoops. **The exit side of `.account-or-platform-gate`.** |
+| `.had-to-find-the-fix-yourself` | **−** | The game would not run properly until the player searched guides and videos for a fix the studio should have handled. **Distinct from `.will-not-start-at-all`**, where no fix was found. |
+| `.no-lan-play` | **−** | The reviewer wants to play over a local network without the internet, and the game does not allow it. |
+| `.the-extra-account-is-painless` | **+** | The game needs an account beyond Steam, and the reviewer says making it was simple. **The easy side of `.account-or-platform-gate`.** |
+
+### `engineering.bugs`
+| Mode | | Definition |
+|---|---|---|
+| `.a-skill-stops-working` | **−** | One of the character's abilities stops working after a particular item, swap or event, and the reviewer names the case. **Distinct from `.equipped-things-vanish-or-unequip-themselves`**, which is gear. |
+| `.the-objective-spawns-inside-the-scenery` | **−** | A required object - a teleporter, an exit, a boss spawn - appears half inside a wall or blocked in a corner. **Distinct from `game-design.level-design.the-way-onward-is-hard-to-find`**, which is placement by design, not a fault. |
+
+### `engineering.matchmaking`
+| Mode | | Definition |
+|---|---|---|
+| `.the-queue-restarts-when-someone-leaves-it` | **−** | When one waiting player gives up, the search starts again for everyone, so the wait grows. |
+| `.sorting-by-conduct-made-it-bland` | **−** | Matching players by how aggressively they play takes the danger out, so the game feels casual, bland or rewards hiding. **The cost side of `.sorted-by-how-you-play-and-it-works`.** |
+| `.you-host-and-hope-someone-joins` | **−** | There is no real co-op matchmaking: the player starts a mission and hopes strangers join, or plays with bots. **Distinct from `.no-public-matchmaking`**, where strangers cannot join at all. |
+| `.no-skill-matching-is-a-relief` | **+** | The reviewer praises the absence of skill-based matchmaking. **The positive twin of `.no-skill-matching`.** |
+| `.no-way-out-of-a-joined-game` | **−** | After being matched into a session, the only way to leave the group is to force-quit the game. |
+| `.clumsy-to-use` | **−** | Matchmaking exists and is awkward or unclear to use, which keeps people from playing with strangers. **Distinct from `.cannot-find-games`**, which is about results, not use. |
+| `.fills-your-game-with-players-automatically` | **+** | A player who starts alone has other players added to their session without asking. **Distinct from `.easy-to-drop-in-and-out`**, which is about joining and leaving freely. |
+
+🔑 **Round 402, backlog rows 101-120.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
