@@ -1374,3 +1374,14 @@ publishing.data-and-privacy.accused-of-mining-currency | - | The reviewer says o
 publishing.data-and-privacy.the-agreement-strips-buyer-rights | - | The user agreement tries to take away protections the law gives buyers. Closes gap 172.
 publishing.dlc-and-editions.should-give-the-dlc-away-to-make-amends | - | The reviewer says the studio should hand out its paid add-ons free to make up for how bad the game has been. C
 publishing.dlc-and-editions.the-add-on-lets-more-people-play | ~ | The reviewer notes that a paid add-on raises how many players can be in one group. Closes gap 225.
+publishing.dlc-and-editions.a-paid-pack-is-worth-it-for-the-head-start | + | The reviewer recommends a paid pack because the currency or items in it give a good start. Closes gap 294.
+publishing.dlc-and-editions.sold-as-old-style-add-ons | + | The reviewer likes that new content is sold as separate add-ons, like the map packs of older games, rather tha
+publishing.dlc-and-editions.got-only-part-of-the-add-on | - | The player bought an add-on and got only part of what they expected from it - one mode, and not the story. Rou
+publishing.dlc-and-editions.a-weaker-add-on-still-welcome | ~ | The reviewer calls an add-on a let-down and excuses it in the same breath - it is still more content. Round 37
+publishing.dlc-and-editions.pricey-but-worth-it | ~ | The reviewer says the add-ons cost a bit much, or to wait for a sale, and that they are good. **Distinct from 
+game-design.new-player-experience.dropped-into-the-add-on-first | - | The game starts the player inside an add-on's content instead of the base game, against enemies they are not r
+publishing.monetisation-practice.the-pass-does-not-pay-for-the-next | - | Finishing a battle pass gives back no currency towards buying the next one. Closes gap 144.
+publishing.ownership.the-owner-is-not-disclosed | - | The store page does not say which company owns or funds the studio, and the reviewer reads that as a warning s
+publishing.ownership.put-off-by-the-country-it-comes-from | - | The reviewer dismisses the game because of the country it was made in. **Records the objection, not whether it
+publishing.ownership.dislikes-the-owner | - | The reviewer shows dislike of the company that owns the game - a curse, a jab, a "despite them" - without sayi
+publishing.ownership.the-new-owner-cares-less-than-the-makers | - | The game passed from the studio that made it to a new owner, and the reviewer says the new owner has not put i

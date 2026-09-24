@@ -8761,6 +8761,38 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 416, backlog rows 381-400.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 417 (Rule C)
+
+### `publishing.dlc-and-editions`
+| Mode | | Definition |
+|---|---|---|
+| `.a-paid-pack-is-worth-it-for-the-head-start` | **+** | The reviewer recommends a paid pack because the currency or items in it give a good start. Closes gap 294. |
+| `.sold-as-old-style-add-ons` | **+** | The reviewer likes that new content is sold as separate add-ons, like the map packs of older games, rather than through a battle pass. Round 306's note. |
+| `.got-only-part-of-the-add-on` | **−** | The player bought an add-on and got only part of what they expected from it - one mode, and not the story. Round 335's note. |
+| `.a-weaker-add-on-still-welcome` | ~ | The reviewer calls an add-on a let-down and excuses it in the same breath - it is still more content. Round 377's note. |
+| `.pricey-but-worth-it` | ~ | The reviewer says the add-ons cost a bit much, or to wait for a sale, and that they are good. **Distinct from `.dlc-is-fair`**, where the price is fine, and `.dlc-not-worth-it`, where it is not. Rounds 379 and 380. |
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.dropped-into-the-add-on-first` | **−** | The game starts the player inside an add-on's content instead of the base game, against enemies they are not ready for. Round 340's note. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.the-pass-does-not-pay-for-the-next` | **−** | Finishing a battle pass gives back no currency towards buying the next one. Closes gap 144. |
+
+### `publishing.ownership`
+| Mode | | Definition |
+|---|---|---|
+| `.the-owner-is-not-disclosed` | **−** | The store page does not say which company owns or funds the studio, and the reviewer reads that as a warning sign. Closes gap 164. |
+| `.put-off-by-the-country-it-comes-from` | **−** | The reviewer dismisses the game because of the country it was made in. **Records the objection, not whether it holds.** Closes gap 174. |
+| `.dislikes-the-owner` | **−** | The reviewer shows dislike of the company that owns the game - a curse, a jab, a "despite them" - without saying it is a reason not to buy. **Distinct from `.owner-puts-players-off`**, where it is. Rounds 364 and 373. |
+| `.the-new-owner-cares-less-than-the-makers` | **−** | The game passed from the studio that made it to a new owner, and the reviewer says the new owner has not put in the same care. **The inverse of `.the-new-owner-is-accepted`.** Round 374's note. |
+
+🔑 **Round 417, backlog rows 401-420.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
