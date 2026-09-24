@@ -103,7 +103,8 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 - 69 rows. 66 are new: Aliens: Fireteam Elite and Space Marine 2 are done, and Warframe is stopped
   at 700.
 - Under the 500 floor: Black Gunner Wukong (485) and METAL GEAR SOLID: MASTER COLLECTION Vol.2 (71,
-  out since Aug 27, 2026). Call of Duty: Modern Warfare 4 is not out yet. Rico decides whether they stay.
+  out since Aug 27, 2026). Call of Duty: Modern Warfare 4 is not out yet. **Rico, 2026-09-24: keep both**; they came up
+  fairly positive.
 - Crab Champions is not repeated here; it is row A7 in the roguelike list.
 - "Marvel Riders" is Marvel Rivals; no game named Marvel Riders is on Steam. "Black Gunner Wukong" is a
   real game (2270750), not Black Myth: Wukong.
