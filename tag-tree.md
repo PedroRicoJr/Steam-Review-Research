@@ -8056,6 +8056,44 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 398, backlog rows 21-40.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 399 (Rule C)
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.tells-other-reviewers-how-to-vote` | ~ | The review instructs other reviewers - keep your thumb down, do not change it back, vote this way - rather than addressing a buyer. **Distinct from `.answers-a-claim-made-in-another-review`**, which argues with a claim. Closes gap 21. |
+| `.the-thumb-is-aimed-at-other-players` | ~ | The reviewer says the thumb is a punishment for part of the player base, not a verdict on the game. **Distinct from `.thumb-is-a-protest-vote`**, which protests a business or platform decision. Closes gap 27. |
+| `.says-few-people-will-read-it` | ~ | The reviewer says the review will go unread or be buried, and writes less, or writes anyway, because of it. |
+| `.the-thumb-is-encouragement-not-a-verdict` | ~ | The reviewer says the thumb up is given to encourage the team, not as a judgement of the game as it stands. |
+
+### `community.culture`
+| Mode | | Definition |
+|---|---|---|
+| `.players-sorted-themselves-into-groups` | **+** | The players formed their own factions, clans or play-style groups without the game making them, and the reviewer enjoys it. **Distinct from `.identity-players-adopt`**, which is one shared identity. |
+| `.the-players-map-the-secrets-together` | **+** | Players share and discuss what they discover - secrets, builds, hidden content - for a long time, and the reviewer calls that part of the game. |
+| `.a-place-to-make-friends` | **+** | The reviewer says the game is good for meeting people and making friends. **Distinct from `community.playing-with-friends.much-better-with-friends`**, which is about friends you already have. |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.stopped-punishing-criticism` | **+** | The reviewer says the studio used to silence or punish criticism and has stopped, and names the change. **The recovery side of `.punishes-criticism`.** Closes gap 19. |
+| `.only-the-moderators-answer` | **−** | The studio itself says nothing; volunteer or community moderators are the only ones who reply, with "it is being worked on". **Distinct from `.went-silent-after-a-bad-launch`**, where nobody speaks at all. |
+| `.no-way-to-reach-the-studio` | **−** | The player cannot find any channel to contact the studio - no support address, no form, no forum. **Distinct from `.support-request-went-unanswered`**, where the request was made. |
+| `.hid-the-player-count` | **−** | The studio removed or hid a public player-count figure, and the reviewer reads it as a bad sign. **Distinct from `.disputes-the-player-count`**, where the studio argues with the figure. |
+| `.looks-after-one-region-only` | **−** | The reviewer says the studio fixes or supports servers in its own country or region and neglects the others. **Distinct from `community.population.dead-in-my-region`**, which is about players, not the studio. |
+| `.denies-a-bug-players-can-show` | **−** | The player documented a bug with steps to reproduce it, and the studio said there was no issue. **Distinct from `.ignores-feedback`**, where nothing is answered; here the answer is a denial. |
+| `.no-remedy-for-a-purchase-that-went-wrong` | **−** | A purchase delivered the wrong thing or nothing, and the studio gave no fix or refund, so the player paid again. **Distinct from `.support-request-went-unanswered`**, which is about any request. |
+| `.not-open-about-its-plans` | **−** | The reviewer says the studio does not explain what it is working on or where the game is going. **The negative twin of `.open-about-what-it-is-doing`.** |
+| `.visibly-working-on-the-problems` | **+** | The reviewer sees the studio actively working through the game's problems and recommends it on that basis. **Distinct from `.listens-and-acts`**, where feedback has already changed the game. |
+
+### `community.moderation`
+| Mode | | Definition |
+|---|---|---|
+| `.left-unmoderated` | **−** | The studio's own space - a chat server, a forum - is left without moderation, so scams or abuse sit there unchecked. **The opposite failure to `.heavy-handed`.** |
+
+🔑 **Round 399, backlog rows 41-60.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

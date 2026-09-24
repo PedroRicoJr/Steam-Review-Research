@@ -97,3 +97,40 @@ def append_bullet(rid, text, tag, game="*"):
 if __name__ == "__main__":
     print(__doc__)
     print("default width for new files: %d" % TAG_WIDTH)
+
+
+def _bullet_index(lines, rid, contains, tag=None):
+    at = [i for i, l in enumerate(lines) if l.startswith("- ") and contains in l
+          and i + 1 < len(lines) and LINE.match(lines[i + 1])
+          and (tag is None or LINE.match(lines[i + 1]).group(2) == tag)]
+    assert len(at) == 1, "review %s: %d bullets contain %r%s, need exactly 1" % (
+        rid, len(at), contains, " on " + tag if tag else "")
+    return at[0]
+
+
+def rehome_bullet(rid, contains, oldtag, newtag, game="*"):
+    """Like rehome(), for a review with several bullets on oldtag: picks the one whose text
+    contains `contains`. Asserts exactly one match."""
+    word = _direction(newtag)
+    path = _find(rid, game)
+    lines, nl = _read(path)
+    i = _bullet_index(lines, rid, contains, oldtag) + 1
+    m = LINE.match(lines[i])
+    width = len(m.group(2)) + len(m.group(3))
+    lines[i] = "%s%s%s(%s)%s" % (m.group(1), newtag, " " * max(1, width - len(newtag)), word, m.group(5))
+    _write(path, lines, nl)
+    print("re-homed %s (%s...): %s -> %s (%s)" % (rid, contains[:30], oldtag, newtag, word))
+    return path
+
+
+def set_bullet_text(rid, contains, new_text, game="*"):
+    """Rewrite one bullet's text - to split a bullet in two, or to remove a named person from a
+    jab. Asserts exactly one bullet contains `contains`. The tag line is untouched."""
+    assert new_text.strip() and "\n" not in new_text
+    path = _find(rid, game)
+    lines, nl = _read(path)
+    i = _bullet_index(lines, rid, contains)
+    lines[i] = "- " + new_text
+    _write(path, lines, nl)
+    print("rewrote bullet in %s: %s" % (rid, new_text[:60]))
+    return path

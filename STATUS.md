@@ -18,10 +18,10 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-24 |
 | Current stage | 1 of 3: single-sighting backlog |
-| Last unit done | Round 398 (backlog rows 21-40) |
-| Next unit | Round 399: the next 20 `open` rows of `tag-tree-backlog.tsv` |
-| Backlog | 432 open, 24 check |
-| Tree | 1,133 tags |
+| Last unit done | Round 399 (backlog rows 41-60) |
+| Next unit | Round 400: the next 20 `open` rows of `tag-tree-backlog.tsv` |
+| Backlog | 412 open, 24 check |
+| Tree | 1,150 tags |
 | Warframe | 700 of 3,235 read (14 of 65 batches); next is batch 15 |
 | Escape from Duckov | not started |
 

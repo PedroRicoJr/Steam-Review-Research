@@ -1131,3 +1131,20 @@ audio.sound-effects.sounds-great | + | The reviewer praises the sound design wit
 community.developer-communication.will-not-say-where-it-used-ai | - | The reviewer says the studio has been unclear about which parts of the game were made with AI, or has not cred
 audio.voice-performance.should-have-paid-voice-actors | - | The reviewer objects that the studio used generated voices instead of paying actors, as a matter of how people
 audio.voice-performance.the-players-lines-are-the-only-ones-unvoiced | - | Every other character speaks aloud and the lines the player chooses are silent text, and the reviewer notices 
+review.tells-other-reviewers-how-to-vote | ~ | The review instructs other reviewers - keep your thumb down, do not change it back, vote this way - rather tha
+review.the-thumb-is-aimed-at-other-players | ~ | The reviewer says the thumb is a punishment for part of the player base, not a verdict on the game. **Distinct
+review.says-few-people-will-read-it | ~ | The reviewer says the review will go unread or be buried, and writes less, or writes anyway, because of it.
+review.the-thumb-is-encouragement-not-a-verdict | ~ | The reviewer says the thumb up is given to encourage the team, not as a judgement of the game as it stands.
+community.culture.players-sorted-themselves-into-groups | + | The players formed their own factions, clans or play-style groups without the game making them, and the review
+community.culture.the-players-map-the-secrets-together | + | Players share and discuss what they discover - secrets, builds, hidden content - for a long time, and the revi
+community.culture.a-place-to-make-friends | + | The reviewer says the game is good for meeting people and making friends. **Distinct from `community.playing-w
+community.developer-communication.stopped-punishing-criticism | + | The reviewer says the studio used to silence or punish criticism and has stopped, and names the change. **The 
+community.developer-communication.only-the-moderators-answer | - | The studio itself says nothing; volunteer or community moderators are the only ones who reply, with "it is bei
+community.developer-communication.no-way-to-reach-the-studio | - | The player cannot find any channel to contact the studio - no support address, no form, no forum. **Distinct f
+community.developer-communication.hid-the-player-count | - | The studio removed or hid a public player-count figure, and the reviewer reads it as a bad sign. **Distinct fr
+community.developer-communication.looks-after-one-region-only | - | The reviewer says the studio fixes or supports servers in its own country or region and neglects the others. *
+community.developer-communication.denies-a-bug-players-can-show | - | The player documented a bug with steps to reproduce it, and the studio said there was no issue. **Distinct fro
+community.developer-communication.no-remedy-for-a-purchase-that-went-wrong | - | A purchase delivered the wrong thing or nothing, and the studio gave no fix or refund, so the player paid agai
+community.developer-communication.not-open-about-its-plans | - | The reviewer says the studio does not explain what it is working on or where the game is going. **The negative
+community.developer-communication.visibly-working-on-the-problems | + | The reviewer sees the studio actively working through the game's problems and recommends it on that basis. **D
+community.moderation.left-unmoderated | - | The studio's own space - a chat server, a forum - is left without moderation, so scams or abuse sit there unch
