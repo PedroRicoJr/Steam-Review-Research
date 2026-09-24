@@ -8256,6 +8256,41 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 403, backlog rows 121-140.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 404 (Rule C)
+
+### `engineering.servers`
+| Mode | | Definition |
+|---|---|---|
+| `.got-worse-over-time` | **−** | The reviewer says the servers or connections were fine and have become bad recently. Closes gap 286's narrowed form. |
+| `.poor` | **−** | The reviewer calls the servers bad with nothing more specific. **The bare negative of the subject**, like `.stable` is the bare positive. |
+| `.my-router-blocks-play` | **−** | The player's own network - a router that will not forward ports - keeps them from hosting or joining, and the game offers no way around it. |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-tell-the-game-from-their-own-machine` | ~ | The reviewer had a technical fault and says they cannot tell whether the game or their own hardware caused it, so they do not charge it to the game. **Distinct from `.clears-the-game-and-blames-their-own-setup`**, where they say it was their setup. Closes gap 313. |
+
+### `game-design.ai-teammates`
+| Mode | | Definition |
+|---|---|---|
+| `.better-without-bots-at-all` | **−** | The reviewer says offering bots that cannot do the job is worse than offering none, because it pretends they are viable. |
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-bigger-team-would-absorb-a-drop` | **−** | The reviewer asks for one more team slot so that losing a player - a kick, a disconnect - still leaves a full team. **Distinct from `.group-is-too-small`**, which is about fitting the whole friend group in. |
+| `.teammates-take-your-kills` | **−** | Teammates take the kills or finishing moves the player was working on - and with them what those kills give, like armour or health. **Distinct from `.teammates-can-take-your-things`**, which is pickups. |
+| `.you-miss-what-a-teammate-hears` | **−** | A conversation or scene one player triggers is not shown to the others, so they miss it for good. |
+| `.the-loot-does-not-grow-with-the-group` | **−** | A group gets the same loot as a solo player, so it is split between them. **The negative side of `.loot-is-shared`.** |
+
+### `community.crossplay-and-platform-mix`
+| Mode | | Definition |
+|---|---|---|
+| `.friends-must-match-on-every-launcher` | **−** | Which friends a player can see or join depends on the launcher they started from, so friends must be linked on every store. |
+
+🔑 **Round 404, backlog rows 141-160.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

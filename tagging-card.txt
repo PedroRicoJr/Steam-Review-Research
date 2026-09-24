@@ -1206,3 +1206,13 @@ engineering.platform-support.asks-for-another-platform | - | The reviewer asks f
 engineering.servers.the-studio-limits-who-can-host | - | The studio restricts which players may host - by connection or machine - so fewer games get made. Closes gap 1
 engineering.servers.the-leaders-region-is-forced-on-everyone | - | The game uses the party leader's server region for the whole group, whatever each player picks. Closes gap 150
 engineering.servers.go-down-now-and-then | - | The servers go down from time to time and come back. **Distinct from `.unavailable-at-peak-hours`**, which is 
+engineering.servers.got-worse-over-time | - | The reviewer says the servers or connections were fine and have become bad recently. Closes gap 286's narrowed
+engineering.servers.poor | - | The reviewer calls the servers bad with nothing more specific. **The bare negative of the subject**, like `.st
+engineering.servers.my-router-blocks-play | - | The player's own network - a router that will not forward ports - keeps them from hosting or joining, and the 
+review.cannot-tell-the-game-from-their-own-machine | ~ | The reviewer had a technical fault and says they cannot tell whether the game or their own hardware caused it,
+game-design.ai-teammates.better-without-bots-at-all | - | The reviewer says offering bots that cannot do the job is worse than offering none, because it pretends they a
+game-design.co-op-design.a-bigger-team-would-absorb-a-drop | - | The reviewer asks for one more team slot so that losing a player - a kick, a disconnect - still leaves a full 
+game-design.co-op-design.teammates-take-your-kills | - | Teammates take the kills or finishing moves the player was working on - and with them what those kills give, l
+game-design.co-op-design.you-miss-what-a-teammate-hears | - | A conversation or scene one player triggers is not shown to the others, so they miss it for good.
+game-design.co-op-design.the-loot-does-not-grow-with-the-group | - | A group gets the same loot as a solo player, so it is split between them. **The negative side of `.loot-is-sha
+community.crossplay-and-platform-mix.friends-must-match-on-every-launcher | - | Which friends a player can see or join depends on the launcher they started from, so friends must be linked on
