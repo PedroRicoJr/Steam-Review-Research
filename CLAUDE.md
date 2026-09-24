@@ -42,5 +42,8 @@ lost when a scratchpad was cleared.
 
 ## Rules
 
+- **Build a new mode on the first sighting** (Rico, 2026-09-24; `tag-tree.md` Rule C). New subjects
+  still go to Rico.
+- Push straight to `main` (Rico, 2026-09-24). No side branches.
 - Commit by pathspec, never `git commit -a`. Push after each commit.
 - Every new script states a size bound at the top.

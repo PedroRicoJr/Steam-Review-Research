@@ -10,6 +10,10 @@ me guessing twice.
 **How to use it.** Each entry says what the gap is, what was actually written, where the observation
 was parked, and what would make me build it. Mark each one **BUILD** or **DROP** and I will act on it.
 
+> **Rule changed, Rico, 2026-09-24: build a mode on the FIRST sighting** (tag-tree.md, Rule C). This
+> file no longer parks single sightings. The notes below that say "build on the second" are the
+> backlog; they are built from round 397 on, before Warframe batch 15.
+
 ---
 
 ## 1. How a player found the game — ✅ CLOSED, BUILT IN ROUND 86

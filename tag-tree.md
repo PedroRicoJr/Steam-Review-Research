@@ -70,6 +70,22 @@ evidence decided it — write it down and say so in the round log, where he can 
 
 ---
 
+### Rule C — build a mode on the first sighting
+
+**Rico, 2026-09-24:** *"new tags could be made on the first finding. There's no reason to wait till
+second sighting, because then you run the risk of just skipping them, which is stupid."*
+
+**This replaces the old rule** ("build only on the second sighting; one sighting with a passable
+neutral home goes to `tag-tree-open-gaps.md`"). **A real observation with no exact home gets its mode
+in the same round it is first read.** Grep the corpus for the word first (`scripts/findphrase.py`) and
+re-home any earlier sightings in the same round. **Unchanged:** a pure joke gets a note, not a mode;
+new subjects still go to Rico (Rule B); Rule A still applies to every name.
+
+**The backlog.** Every single sighting parked under the old rule is built too (Rico, 2026-09-24),
+before Warframe batch 15.
+
+---
+
 ## The level-1 parents are the divisions of a game studio
 
 **Rico's call, 2026-08-29.** A parent is a real parent. The test is one question, asked until it
