@@ -12,6 +12,7 @@ from loop to loop.
 | `loops/active/` | **Exactly one file: the loop running now.** Its stages, its steps, when it is done. Empty folder = no loop running. |
 | `loops/archive/` | Finished or stopped loops, moved here unchanged except for an end line at the top. |
 | `STATUS.md` (repo root) | **Where the work stands now** - stage, last unit, next unit, counts, timer IDs. Updated at the end of every unit. |
+| `OPEN-WITH-RICO.md` (repo root) | **Decisions only Rico can make.** One line each; removed when he rules. The loop never answers them. |
 
 **The pointer chain, for any fresh start or restart:** `CLAUDE.md` -> this file -> `STATUS.md` ->
 the one file in `loops/active/`. Following it must always be enough to carry on.
@@ -32,7 +33,7 @@ the one file in `loops/active/`. Following it must always be enough to carry on.
 8. Commit by pathspec (never `git commit -a`), then `git push origin main`.
 9. Report to Rico in **one line**: the unit, the running total, the tree size. **A full report only
    when a stage finishes, a check fails, or Rico must decide something** - and then add the decision
-   to "Open with Rico" in `STATUS.md`. Rico should not need to read the chat to know where things are.
+   to `OPEN-WITH-RICO.md`. Rico should not need to read the chat to know where things are.
 
 ## Starting a loop
 

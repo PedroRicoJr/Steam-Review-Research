@@ -25,20 +25,4 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | Warframe | 700 of 3,235 read (14 of 65 batches); next is batch 15 |
 | Escape from Duckov | not started |
 
-## Open with Rico
-
-The loop never answers these; it keeps working around them. Add a line when a new one comes up;
-remove it when Rico rules.
-
-- The publisher-communication subject split.
-- Multi-dated reviews flattened onto one date (the loop keeps flattening and counts them per batch).
-- The friendly-fire subject merge.
-- The missing `game-design.loot` subject.
-- The `build_card()` parser defect (`summarise.py` lines 46-49): four accessibility subjects that
-  share one heading produce no modes in the card.
-- Whether "it is free" should be split off `publishing.price.fair`.
-- Remnant II's uncommitted stats files against Risk of Rain 2's committed ones.
-- The "first game had X" tally.
-- 21 backlog rows that need a new subject (`skip: needs a new subject` in `tag-tree-backlog.tsv`).
-- Where the tag-tree page (`artifact/tag-tree.html`) is published. The loop re-renders the file every
-  round, but it is not in the 15 most recent claude.ai artifacts, so it is not republished.
+**Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

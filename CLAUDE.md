@@ -56,3 +56,4 @@ lost when a scratchpad was cleared.
 **Before any loop work, follow the pointers:** `loops/HOW-TO-RUN-A-LOOP.md` (how loops work) ->
 `STATUS.md` (where the work stands) -> the one file in `loops/active/` (the loop running now).
 Finished loops are in `loops/archive/`.
+Decisions waiting on Rico: `OPEN-WITH-RICO.md`. Never answer them on his behalf.

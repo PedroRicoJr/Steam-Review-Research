@@ -55,3 +55,12 @@ laugh — decide **where the player says which one**, and prefer the free answer
 Tagged in the review tree as `community.player-conduct.players-want-different-things-from-a-run`
 (built round 111, on Rico's ruling that this is player conduct rather than co-op design —
 *"it's how people behave"*).
+
+---
+
+## 2026-09-24 — Publishing is a far-future step; do not ask again
+
+**Rico:** in the far future he will share the findings publicly, so people can analyse them their own
+way or fork the repo. Nothing is published now. `artifact/tag-tree.html` is re-rendered every loop
+round so it is ready, but it is **not** republished anywhere until Rico says so.
+
