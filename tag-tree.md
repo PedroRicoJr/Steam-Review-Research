@@ -8094,6 +8094,52 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 399, backlog rows 41-60.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 400 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.the-developers-play-with-us` | **+** | The reviewer has met the developers playing the game among the players, and counts it in the game's favour. **The positive twin of `.the-studio-does-not-play-its-own-game`.** |
+| `.support-is-unhelpful-in-general` | **−** | The reviewer judges the studio's support unhelpful as a whole - from their own dealings or what others tell them - not one unanswered request. **Distinct from `.support-request-went-unanswered`** and `.support-replied-with-a-form-letter`, which are single cases. |
+| `.feedback-only-through-an-outside-chat-app` | **−** | Bug reports and feedback can only be given through a third-party chat app, behind sign-up or verification, and the reviewer finds that a barrier. |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.players-ambush-the-objective` | **−** | Other players wait at quest or objective locations to kill whoever comes to complete them. **Distinct from `.players-camp-the-exit`**, which is extraction and spawn points. |
+| `.pvp-opponents-feel-like-bots` | **−** | The reviewer says playing against other people in PvP feels like playing against bots. |
+| `.a-cheater-can-damage-your-save` | **−** | A cheater who joins the player's session can change or corrupt the player's own saved progress. **Distinct from `.cheaters-spoil-matches`**, which spoils the match, not the save. |
+| `.scammers-work-the-trading` | **−** | The player-to-player trading channel is full of scammers, and the reviewer warns buyers. **The negative side of `community.social-features.the-player-market-works`.** |
+
+### `community.playing-with-friends`
+| Mode | | Definition |
+|---|---|---|
+| `.a-keepsake-of-someone-gone` | **+** | The reviewer treasures the game as the last thing they played with someone who has died or left their life. Closes gap 28. |
+| `.fills-in-for-couch-co-op` | **+** | The reviewer says the game gives back what side-by-side couch co-op used to. **Distinct from `game-design.modes.expected-mode-missing`**, where split screen itself is asked for. |
+
+### `community.population`
+| Mode | | Definition |
+|---|---|---|
+| `.most-owners-never-played-it` | **−** | The reviewer cites Steam figures - achievements, playtime - showing most owners never launched or barely played the game. |
+| `.only-busy-at-certain-hours` | **−** | Players are there at some times - weekends, evenings - and hard to find outside them. **Distinct from `.dead-in-my-region`**, which is place, not time. |
+| `.thinner-than-hoped-but-playable` | ~ | The reviewer says public play is less populated than they hoped, and a game can still be found. **Between `.healthy` and `.the-numbers-are-falling`.** |
+| `.the-early-areas-are-empty` | **−** | The starting areas or low levels have few players while later ones are busy, so newcomers play alone. |
+| `.one-mode-has-no-players` | **−** | The game is populated, and one mode - often PvP - has too few players to use. **Distinct from `.dead-game`**, which is the whole game. |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.the-group-finder-works` | **+** | An out-of-match recruitment or group-finding tool reliably puts people together, better than matchmaking. **Distinct from `.good-tools-for-coordinating`**, which is voice, pings and markers inside a match. |
+| `.the-group-finder-covers-only-some-modes` | **−** | The group-finding tool exists and works for only some of the game's modes. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.two-choices-together-leave-you-helpless` | **−** | Two options that each work alone - a modifier card and a weapon, a perk and a skill - combine to leave the player unable to reload, move or act. |
+
+🔑 **Round 400, backlog rows 61-80.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

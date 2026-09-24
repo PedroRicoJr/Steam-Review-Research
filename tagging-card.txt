@@ -1148,3 +1148,20 @@ community.developer-communication.no-remedy-for-a-purchase-that-went-wrong | - |
 community.developer-communication.not-open-about-its-plans | - | The reviewer says the studio does not explain what it is working on or where the game is going. **The negative
 community.developer-communication.visibly-working-on-the-problems | + | The reviewer sees the studio actively working through the game's problems and recommends it on that basis. **D
 community.moderation.left-unmoderated | - | The studio's own space - a chat server, a forum - is left without moderation, so scams or abuse sit there unch
+community.developer-communication.the-developers-play-with-us | + | The reviewer has met the developers playing the game among the players, and counts it in the game's favour. **
+community.developer-communication.support-is-unhelpful-in-general | - | The reviewer judges the studio's support unhelpful as a whole - from their own dealings or what others tell th
+community.developer-communication.feedback-only-through-an-outside-chat-app | - | Bug reports and feedback can only be given through a third-party chat app, behind sign-up or verification, and
+community.player-conduct.players-ambush-the-objective | - | Other players wait at quest or objective locations to kill whoever comes to complete them. **Distinct from `.p
+community.player-conduct.pvp-opponents-feel-like-bots | - | The reviewer says playing against other people in PvP feels like playing against bots.
+community.player-conduct.a-cheater-can-damage-your-save | - | A cheater who joins the player's session can change or corrupt the player's own saved progress. **Distinct fro
+community.player-conduct.scammers-work-the-trading | - | The player-to-player trading channel is full of scammers, and the reviewer warns buyers. **The negative side o
+community.playing-with-friends.a-keepsake-of-someone-gone | + | The reviewer treasures the game as the last thing they played with someone who has died or left their life. Cl
+community.playing-with-friends.fills-in-for-couch-co-op | + | The reviewer says the game gives back what side-by-side couch co-op used to. **Distinct from `game-design.mode
+community.population.most-owners-never-played-it | - | The reviewer cites Steam figures - achievements, playtime - showing most owners never launched or barely playe
+community.population.only-busy-at-certain-hours | - | Players are there at some times - weekends, evenings - and hard to find outside them. **Distinct from `.dead-i
+community.population.thinner-than-hoped-but-playable | ~ | The reviewer says public play is less populated than they hoped, and a game can still be found. **Between `.he
+community.population.the-early-areas-are-empty | - | The starting areas or low levels have few players while later ones are busy, so newcomers play alone.
+community.population.one-mode-has-no-players | - | The game is populated, and one mode - often PvP - has too few players to use. **Distinct from `.dead-game`**, 
+community.social-features.the-group-finder-works | + | An out-of-match recruitment or group-finding tool reliably puts people together, better than matchmaking. **Di
+community.social-features.the-group-finder-covers-only-some-modes | - | The group-finding tool exists and works for only some of the game's modes.
+game-design.progression.build-and-customisation.two-choices-together-leave-you-helpless | - | Two options that each work alone - a modifier card and a weapon, a perk and a skill - combine to leave the pla
