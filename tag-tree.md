@@ -8399,6 +8399,46 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 407, backlog rows 201-220.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 408 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.no-build-is-required` | **+** | No single build dominates, so the player can build around a favourite weapon or class and still do well. **The inverse of `.one-option-dominates`.** Closes gap 244. |
+| `.every-option-plays-differently` | **+** | Each weapon or option feels distinct and worth using. **The inverse of `.options-feel-identical`.** |
+| `.rarity-does-not-match-usefulness` | **−** | Rare items are often weaker than common ones, so finding a rarer thing can be the unlucky result. |
+| `.something-needs-a-nerf` | **−** | The reviewer names an item, weapon, modifier or character as too strong and wants it weakened. **Distinct from `.one-option-dominates`**, which says one choice outclasses all the rest. |
+| `.power-creep` | **−** | New gear keeps arriving stronger than the old, so what the player earned loses its worth. |
+| `.gear-decides-the-pve-fight` | **−** | Against the game's own enemies, equipment alone decides the fight: without it the enemies kill you at once, with it you kill them at once. **The PvE twin of `.the-gear-gap-decides-the-fight`.** |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.finding-the-build-yourself-is-the-fun` | **+** | The reviewer tells readers not to look up the best build, because working it out is the point. Closes gap 298. |
+| `.upgrading-can-ruin-the-item` | **−** | An upgrade attempt can fail and make the item worse or useless, so progress goes backwards. Closes gap 131. |
+| `.other-classes-unlock-your-build` | ~ | The best build for one class needs perks unlocked by playing other classes. Closes gap 219. |
+| `.pick-your-pronouns` | **+** | The character creator lets the player choose their character's pronouns, and the reviewer values it. |
+| `.no-crafting-is-a-relief` | **+** | The reviewer names the absence of a crafting system as a good thing - less inventory work, more play. |
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.easy-to-miss` | **−** | Many achievements can be missed for good - a one-time moment, no way to reload - and the reviewer names that. **Distinct from `.gated-behind-unreachable-content`**, where the content is too hard to reach. |
+
+### `game-design.progression.cosmetic-rewards`
+| Mode | | Definition |
+|---|---|---|
+| `.you-cannot-see-them-while-playing` | **−** | The cosmetics go on parts of the character or gun the camera never shows, so the player cannot see what they earned. Closes gaps 163 and 220. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.no-credit-for-the-earlier-game` | **−** | The reviewer wants progress credited for the time they spent in the studio's earlier game, and there is none. |
+| `.needs-a-team-to-level-and-levels-to-find-a-team` | **−** | The player needs levels to reach the difficulties where others play, and needs other players to gain the levels, so they are stuck. Closes gap 246. |
+
+🔑 **Round 408, backlog rows 221-240.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

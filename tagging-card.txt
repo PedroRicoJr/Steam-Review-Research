@@ -1245,3 +1245,18 @@ game-design.ui-ux.a-place-to-test-your-build | + | A training dummy or firing ra
 game-design.pacing.asks-for-no-thought | - | The play is frantic run-and-gun with no strategy or tactics needed, and the reviewer wanted more thinking. **T
 game-design.pacing.the-pressure-never-builds | - | Every fight sits at the same level; nothing escalates to a peak. **Distinct from `.no-let-up`**, which is cons
 game-design.pacing.slow-to-get-going | - | The reviewer says the game or the run is slow at the start, without more detail. **Distinct from `.the-early-s
+game-design.power-balance.no-build-is-required | + | No single build dominates, so the player can build around a favourite weapon or class and still do well. **The
+game-design.power-balance.every-option-plays-differently | + | Each weapon or option feels distinct and worth using. **The inverse of `.options-feel-identical`.**
+game-design.power-balance.rarity-does-not-match-usefulness | - | Rare items are often weaker than common ones, so finding a rarer thing can be the unlucky result.
+game-design.power-balance.something-needs-a-nerf | - | The reviewer names an item, weapon, modifier or character as too strong and wants it weakened. **Distinct from
+game-design.power-balance.power-creep | - | New gear keeps arriving stronger than the old, so what the player earned loses its worth.
+game-design.power-balance.gear-decides-the-pve-fight | - | Against the game's own enemies, equipment alone decides the fight: without it the enemies kill you at once, wi
+game-design.progression.build-and-customisation.finding-the-build-yourself-is-the-fun | + | The reviewer tells readers not to look up the best build, because working it out is the point. Closes gap 298.
+game-design.progression.build-and-customisation.upgrading-can-ruin-the-item | - | An upgrade attempt can fail and make the item worse or useless, so progress goes backwards. Closes gap 131.
+game-design.progression.build-and-customisation.other-classes-unlock-your-build | ~ | The best build for one class needs perks unlocked by playing other classes. Closes gap 219.
+game-design.progression.build-and-customisation.pick-your-pronouns | + | The character creator lets the player choose their character's pronouns, and the reviewer values it.
+game-design.progression.build-and-customisation.no-crafting-is-a-relief | + | The reviewer names the absence of a crafting system as a good thing - less inventory work, more play.
+game-design.progression.achievements.easy-to-miss | - | Many achievements can be missed for good - a one-time moment, no way to reload - and the reviewer names that. 
+game-design.progression.cosmetic-rewards.you-cannot-see-them-while-playing | - | The cosmetics go on parts of the character or gun the camera never shows, so the player cannot see what they e
+game-design.progression.unlock-pace.no-credit-for-the-earlier-game | - | The reviewer wants progress credited for the time they spent in the studio's earlier game, and there is none.
+game-design.progression.unlock-pace.needs-a-team-to-level-and-levels-to-find-a-team | - | The player needs levels to reach the difficulties where others play, and needs other players to gain the level
