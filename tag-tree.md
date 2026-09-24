@@ -8465,7 +8465,7 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 | Mode | | Definition |
 |---|---|---|
 | `.guidance-feels-patronising` | **−** | The game steers the player to the objective - a path, a push - when they have not asked, and they feel talked down to. Closes gap 98. |
-| `.the-numbers-grow-too-big-to-mean-anything` | **−** | Damage or stat numbers inflate so fast they stop telling the player anything. Closes gap 143. |
+| `.the-numbers-grow-too-big-to-mean-anything` | **−** | Damage, health or stat numbers are so large, or inflate so fast, that they stop telling the player anything - a hit no longer reads as big, a health bar no longer feels fragile. Closes gaps 143 and 224. |
 
 ### `game-design.role-design`
 | Mode | | Definition |
@@ -8478,6 +8478,40 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 | `.solo-play-keeps-the-multiplayer-rules` | **−** | Playing alone still runs the rules built for a group - a lobby countdown, a timer - with nothing changed for one player. Closes gap 275. |
 
 🔑 **Round 409, backlog rows 241-260.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
+## Modes added in the single-sighting backlog - round 410 (Rule C)
+
+### `game-design.ai-teammates`
+| Mode | | Definition |
+|---|---|---|
+| `.bots-cost-currency-every-run` | **−** | The AI teammates must be bought with in-game currency at the start of each solo session. Closes gap 322. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.prompts-show-the-wrong-button` | **−** | On-screen prompts show the default key or another controller's buttons, not what the player is actually using. Closes gaps 41 and 210. |
+| `.a-default-setting-is-not-what-the-studio-says` | **−** | A setting ships in a state the studio has said it is not in - voice chat on when the studio says it is off. Closes gap 100. |
+| `.menus-are-slow-web-pages` | **−** | Shop or event screens are web pages loaded into the game, so each click waits and the game looks frozen. Closes gap 151. |
+| `.starts-on-the-highest-settings` | **−** | The game's first launch puts the graphics at maximum, whatever the machine. Closes gap 152. |
+| `.forgets-your-settings-between-launches` | **−** | Settings - brightness, subtitles, graphics, even the licence agreement - must be set again every time the game starts. Closes gap 192. |
+| `.several-loadouts-can-be-saved` | **+** | The player can save several class and weapon presets and pick one to suit the mission. **The positive twin of `.no-way-to-save-a-loadout`.** |
+| `.fast-travel-comes-late-and-costs` | **−** | Fast travel exists but opens only well into the game, or each point costs currency, so the player walks back across maps until then. Closes gap 318. |
+| `.lets-you-waste-a-consumable` | **−** | The game lets the player use a healing or status item when it does nothing, wasting something rare. |
+| `.the-map-has-no-compass` | **−** | The map or minimap shows no cardinal directions, so the player cannot tell which way they are going. |
+| `.no-confirmation-before-a-costly-action` | **−** | An action that loses progress - quitting a run, leaving to the menu - has no confirmation, so one wrong press costs the run. |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.takes-back-an-earlier-complaint` | ~ | The reviewer withdraws something they complained about before, saying it was their own mistake. **Distinct from `.the-thumb-was-flipped-from-its-first-verdict`**, which changes the verdict. Closes gap 205. |
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-map-is-not-shared` | **−** | Map exploration done by one player does not show on a teammate's map. |
+
+🔑 **Round 410, backlog rows 261-280.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
 ## Parents with no modes yet
