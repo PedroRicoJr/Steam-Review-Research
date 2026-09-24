@@ -8439,6 +8439,47 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 408, backlog rows 221-240.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 409 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.finishing-pays-nothing` | **−** | Completing a campaign or a task gives no real reward. **Distinct from `game-design.game-feel.reward-moment.the-payout-lands-flat`**, where a reward exists and the moment does not land. Closes gap 291. |
+| `.rank-decays-if-you-stop-playing` | **−** | A rank or standing drops when the player is inactive, so a break costs them. Closes gap 339. |
+| `.each-mode-levels-separately` | **−** | Levels earned in one mode do not count in another, so the player levels twice. Closes gap 346. |
+| `.levelling-up-feels-like-nothing` | **−** | Gaining levels brings no felt change - nothing stronger, nothing new - and the reviewer names no cause. **Distinct from `game-design.power-balance.levelling-up-changes-nothing`**, which names enemies scaling with the player. |
+| `.pays-for-finishing-not-for-playing` | **−** | Experience or rewards come for completing a mission, not for what the player does in it, so rushing through is the best way to earn. |
+| `.the-classes-should-all-be-open-from-the-start` | **−** | The reviewer wants every class or archetype available at the start instead of unlocked through play. |
+| `.little-reason-to-keep-going` | **−** | The game offers few firm incentives to keep progressing from early on. **Distinct from `.nothing-left-to-chase`**, which is the top of the ladder. |
+| `.an-unlock-challenge-is-a-chore` | **−** | One specific unlock condition is annoying, luck-bound or tedious to meet, and the reviewer names it. |
+| `.the-endgame-is-only-more-unlocks` | **−** | The only thing after finishing is unlocking another character or ability to do the same again. |
+| `.some-gear-needs-a-clan` | ~ | Some weapons or items can only be made with a clan, and the reviewer says what that takes. |
+| `.the-game-sets-no-goals` | **−** | The game gives no goals of its own; the player has to make them. Round 396's note. |
+
+### `game-design.punishment-model`
+| Mode | | Definition |
+|---|---|---|
+| `.one-mistake-locks-content-away` | **−** | Failing a quest or a moment once shuts the player out of content for good - a weapon, a path, an ending. Closes gap 317. |
+
+### `game-design.readability`
+| Mode | | Definition |
+|---|---|---|
+| `.guidance-feels-patronising` | **−** | The game steers the player to the objective - a path, a push - when they have not asked, and they feel talked down to. Closes gap 98. |
+| `.the-numbers-grow-too-big-to-mean-anything` | **−** | Damage or stat numbers inflate so fast they stop telling the player anything. Closes gap 143. |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.classes-exist-to-stretch-the-grind` | **−** | The reviewer reads the class system as a way to make them level several times, and would rather have loadouts. Closes gap 257. |
+
+### `game-design.solo-viability`
+| Mode | | Definition |
+|---|---|---|
+| `.solo-play-keeps-the-multiplayer-rules` | **−** | Playing alone still runs the rules built for a group - a lobby countdown, a timer - with nothing changed for one player. Closes gap 275. |
+
+🔑 **Round 409, backlog rows 241-260.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

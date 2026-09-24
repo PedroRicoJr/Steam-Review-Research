@@ -1260,3 +1260,19 @@ game-design.progression.achievements.easy-to-miss | - | Many achievements can be
 game-design.progression.cosmetic-rewards.you-cannot-see-them-while-playing | - | The cosmetics go on parts of the character or gun the camera never shows, so the player cannot see what they e
 game-design.progression.unlock-pace.no-credit-for-the-earlier-game | - | The reviewer wants progress credited for the time they spent in the studio's earlier game, and there is none.
 game-design.progression.unlock-pace.needs-a-team-to-level-and-levels-to-find-a-team | - | The player needs levels to reach the difficulties where others play, and needs other players to gain the level
+game-design.progression.unlock-pace.finishing-pays-nothing | - | Completing a campaign or a task gives no real reward. **Distinct from `game-design.game-feel.reward-moment.the
+game-design.progression.unlock-pace.rank-decays-if-you-stop-playing | - | A rank or standing drops when the player is inactive, so a break costs them. Closes gap 339.
+game-design.progression.unlock-pace.each-mode-levels-separately | - | Levels earned in one mode do not count in another, so the player levels twice. Closes gap 346.
+game-design.progression.unlock-pace.levelling-up-feels-like-nothing | - | Gaining levels brings no felt change - nothing stronger, nothing new - and the reviewer names no cause. **Dist
+game-design.progression.unlock-pace.pays-for-finishing-not-for-playing | - | Experience or rewards come for completing a mission, not for what the player does in it, so rushing through is
+game-design.progression.unlock-pace.the-classes-should-all-be-open-from-the-start | - | The reviewer wants every class or archetype available at the start instead of unlocked through play.
+game-design.progression.unlock-pace.little-reason-to-keep-going | - | The game offers few firm incentives to keep progressing from early on. **Distinct from `.nothing-left-to-chase
+game-design.progression.unlock-pace.an-unlock-challenge-is-a-chore | - | One specific unlock condition is annoying, luck-bound or tedious to meet, and the reviewer names it.
+game-design.progression.unlock-pace.the-endgame-is-only-more-unlocks | - | The only thing after finishing is unlocking another character or ability to do the same again.
+game-design.progression.unlock-pace.some-gear-needs-a-clan | ~ | Some weapons or items can only be made with a clan, and the reviewer says what that takes.
+game-design.progression.unlock-pace.the-game-sets-no-goals | - | The game gives no goals of its own; the player has to make them. Round 396's note.
+game-design.punishment-model.one-mistake-locks-content-away | - | Failing a quest or a moment once shuts the player out of content for good - a weapon, a path, an ending. Close
+game-design.readability.guidance-feels-patronising | - | The game steers the player to the objective - a path, a push - when they have not asked, and they feel talked 
+game-design.readability.the-numbers-grow-too-big-to-mean-anything | - | Damage or stat numbers inflate so fast they stop telling the player anything. Closes gap 143.
+game-design.role-design.classes-exist-to-stretch-the-grind | - | The reviewer reads the class system as a way to make them level several times, and would rather have loadouts.
+game-design.solo-viability.solo-play-keeps-the-multiplayer-rules | - | Playing alone still runs the rules built for a group - a lobby countdown, a timer - with nothing changed for o
