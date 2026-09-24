@@ -1413,3 +1413,8 @@ publishing.price.worth-the-money-but-not-the-time | ~ | The reviewer frames the 
 production.craftsmanship.refuses-a-game-made-with-generative-ai | - | The reviewer will not support the game because some of it was made with generative AI, whatever its quality. *
 production.craftsmanship.so-bad-it-is-good | + | The reviewer enjoys the game because its faults are funny - so bad it is good. Closes gap 67.
 engineering.bugs.fixing-it-is-not-the-players-job | - | The reviewer says player-made fixes may exist and refuses to use them on principle - they paid for a game that
+game-design.role-design.defends-a-character-others-call-weak | + | The reviewer argues against the players who call a character the worst on the roster. **The answer to `.role-u
+game-design.role-design.too-few-abilities-per-character | - | The reviewer wants each character to have more abilities to play with; some feel too simple. **Distinct from `
+community.user-created-content.an-update-broke-the-mods | - | A studio update or a change of owner broke the mods players relied on. **The other side of `.mods-fix-what-the
+game-design.world-interaction.the-interact-key-picks-the-wrong-thing | - | One button does several jobs, and the game picks the wrong one - it picks up ammo when the player means to rev
+game-design.world-interaction.wait-for-the-npc-before-you-can-talk | - | The player has to wait for a character's idle animation to finish before the game lets them interact. Round 33

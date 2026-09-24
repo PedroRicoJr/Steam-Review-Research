@@ -8875,6 +8875,28 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 419, backlog rows 441-460.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 420 (Rule C)
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.defends-a-character-others-call-weak` | **+** | The reviewer argues against the players who call a character the worst on the roster. **The answer to `.role-underpowered`.** Round 382's note. |
+| `.too-few-abilities-per-character` | **−** | The reviewer wants each character to have more abilities to play with; some feel too simple. **Distinct from `.the-abilities-are-no-fun-to-use`**, which is about how the abilities feel. Round 358's note. |
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.an-update-broke-the-mods` | **−** | A studio update or a change of owner broke the mods players relied on. **The other side of `.mods-fix-what-the-patch-broke`.** Round 345's note. |
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.the-interact-key-picks-the-wrong-thing` | **−** | One button does several jobs, and the game picks the wrong one - it picks up ammo when the player means to revive a teammate. Round 317's note. |
+| `.wait-for-the-npc-before-you-can-talk` | **−** | The player has to wait for a character's idle animation to finish before the game lets them interact. Round 338's note. |
+
+🔑 **Round 420, backlog rows 461-472 - the last open rows.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
