@@ -8223,6 +8223,39 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 402, backlog rows 101-120.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 403 (Rule C)
+
+### `engineering.netcode`
+| Mode | | Definition |
+|---|---|---|
+| `.idling-disconnects-you` | **−** | Stepping away - even in a private lobby with bots - gets the player disconnected. |
+| `.the-risk-of-a-drop-makes-you-play-safe` | **−** | Because a disconnect can cost the run, the player stops experimenting - no risky builds, modifiers, exploring or extra rounds. **The behaviour cost of `.a-disconnect-loses-the-run`.** Closes gap 238. |
+
+### `engineering.performance`
+| Mode | | Definition |
+|---|---|---|
+| `.my-friends-cannot-run-it` | **−** | The player bought it to play with friends, and the friends' machines cannot run it well enough. **Distinct from `.demanding-hardware`**, which is the reviewer's own machine. Closes gap 59. |
+| `.locked-to-a-low-frame-rate` | **−** | The frame rate sits at a low cap whatever the hardware, and only a workaround lifts it for a while. **Distinct from `.unstable-framerate`**, which swings. |
+| `.compiles-shaders-every-launch` | **−** | The game rebuilds its shaders every time it starts, so each launch is a wait. **Distinct from `.long-load-times`**, which is loading in general. |
+| `.slows-as-the-save-grows` | **−** | The game ran well at first and gets slower as the save file grows over many hours. **Distinct from `.gets-slower-the-longer-you-play`**, which is one session. |
+| `.poorly-optimised` | **−** | The reviewer says the game needs optimising, with no hardware claim. **The negative twin of `.well-optimised`.** |
+| `.needs-a-lot-of-memory` | **−** | The game uses a lot of system memory, and the reviewer names an amount below which it struggles. |
+
+### `engineering.platform-support`
+| Mode | | Definition |
+|---|---|---|
+| `.asks-for-another-platform` | **−** | The reviewer asks for the game on a platform it is not on - Mac, VR, a console. **Distinct from `.not-supported-at-all`**, where the player runs it anyway and loses things. |
+
+### `engineering.servers`
+| Mode | | Definition |
+|---|---|---|
+| `.the-studio-limits-who-can-host` | **−** | The studio restricts which players may host - by connection or machine - so fewer games get made. Closes gap 111. |
+| `.the-leaders-region-is-forced-on-everyone` | **−** | The game uses the party leader's server region for the whole group, whatever each player picks. Closes gap 150. |
+| `.go-down-now-and-then` | **−** | The servers go down from time to time and come back. **Distinct from `.unavailable-at-peak-hours`**, which is tied to busy times. |
+
+🔑 **Round 403, backlog rows 121-140.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

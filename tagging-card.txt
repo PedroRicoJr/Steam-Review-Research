@@ -1194,3 +1194,15 @@ engineering.matchmaking.no-skill-matching-is-a-relief | + | The reviewer praises
 engineering.matchmaking.no-way-out-of-a-joined-game | - | After being matched into a session, the only way to leave the group is to force-quit the game.
 engineering.matchmaking.clumsy-to-use | - | Matchmaking exists and is awkward or unclear to use, which keeps people from playing with strangers. **Distinc
 engineering.matchmaking.fills-your-game-with-players-automatically | + | A player who starts alone has other players added to their session without asking. **Distinct from `.easy-to-d
+engineering.netcode.idling-disconnects-you | - | Stepping away - even in a private lobby with bots - gets the player disconnected.
+engineering.netcode.the-risk-of-a-drop-makes-you-play-safe | - | Because a disconnect can cost the run, the player stops experimenting - no risky builds, modifiers, exploring 
+engineering.performance.my-friends-cannot-run-it | - | The player bought it to play with friends, and the friends' machines cannot run it well enough. **Distinct fro
+engineering.performance.locked-to-a-low-frame-rate | - | The frame rate sits at a low cap whatever the hardware, and only a workaround lifts it for a while. **Distinct
+engineering.performance.compiles-shaders-every-launch | - | The game rebuilds its shaders every time it starts, so each launch is a wait. **Distinct from `.long-load-time
+engineering.performance.slows-as-the-save-grows | - | The game ran well at first and gets slower as the save file grows over many hours. **Distinct from `.gets-slow
+engineering.performance.poorly-optimised | - | The reviewer says the game needs optimising, with no hardware claim. **The negative twin of `.well-optimised`.
+engineering.performance.needs-a-lot-of-memory | - | The game uses a lot of system memory, and the reviewer names an amount below which it struggles.
+engineering.platform-support.asks-for-another-platform | - | The reviewer asks for the game on a platform it is not on - Mac, VR, a console. **Distinct from `.not-supporte
+engineering.servers.the-studio-limits-who-can-host | - | The studio restricts which players may host - by connection or machine - so fewer games get made. Closes gap 1
+engineering.servers.the-leaders-region-is-forced-on-everyone | - | The game uses the party leader's server region for the whole group, whatever each player picks. Closes gap 150
+engineering.servers.go-down-now-and-then | - | The servers go down from time to time and come back. **Distinct from `.unavailable-at-peak-hours`**, which is 
