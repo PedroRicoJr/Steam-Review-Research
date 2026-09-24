@@ -8315,11 +8315,44 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 | Mode | | Definition |
 |---|---|---|
 | `.the-wrong-enemy-for-the-pitch` | **−** | Most of the fighting is against an enemy the game's premise did not lead the player to expect. Closes gap 218. |
-| `.one-enemy-type-is-hated` | **−** | The reviewer names one enemy type they hate, with no reason given. **Distinct from `.no-counterplay`**, which says why. |
+| `.one-enemy-type-is-hated` | **−** | The reviewer names one enemy type or boss they hate, with no reason given. **Distinct from `.no-counterplay`**, which says why. |
 | `.hitscan-enemies-never-miss` | **−** | Enemy shots land the instant they fire and never miss, so dodging and positioning do nothing. **A narrow form of `.no-counterplay`**, split out on two sightings. |
 | `.tells-how-they-died` | ~ | The reviewer's line is the story of one death - what killed them, at what point - with no verdict on the game. |
 
 🔑 **Round 405, backlog rows 161-180.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
+## Modes added in the single-sighting backlog - round 406 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.gimmick-enemies-ruin-a-run` | **−** | Enemies built around a gimmick can cancel a build or end a run, and the reviewer says the studio keeps adding more of them. |
+| `.attacks-are-poorly-telegraphed` | **−** | Enemy attacks give too little warning to read and react to. **Distinct from `.attacks-are-timed-to-bait-your-dodge`**, where the warning is there and deliberately misleads. |
+
+### `game-design.game-feel.camera`
+| Mode | | Definition |
+|---|---|---|
+| `.third-person-lets-you-see-around-corners` | **−** | In player-versus-player fights, the third-person view shows what the character's body could not see, so hiding and waiting behind cover wins. Closes gap 326. |
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.attacks-go-where-you-move-not-where-you-face` | **−** | A melee attack follows the direction the player is moving, not the one they are facing, so stepping back to swing turns them round. Closes gap 350. |
+| `.too-much-slow-motion` | **−** | The game slows the action down for effect on most interactions, and the reviewer says it gets in the way of play. |
+| `.the-defence-crowds-out-the-shooting` | **−** | Watching for block and dodge cues takes so much of the fight that little time is left to attack or shoot; missing one cue costs heavily. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.feels-powerful-early` | **+** | The player feels strong within a short time, without dozens of hours of unlocking first. **The inverse of `.slow-start`.** |
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.too-many-buttons-to-manage` | **−** | The game needs more separate inputs than the player can comfortably manage on their device. Closes gap 32. |
+
+🔑 **Round 406, backlog rows 181-200.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
 ## Parents with no modes yet
