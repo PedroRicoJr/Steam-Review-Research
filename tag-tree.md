@@ -8703,6 +8703,64 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 415, backlog rows 361-380.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 416 (Rule C)
+
+### `production.craftsmanship`
+| Mode | | Definition |
+|---|---|---|
+| `.barely-playtested` | **−** | The reviewer says the game feels as if it was hardly tested by anyone before release. Closes gap 57. |
+| `.a-parody-of-a-big-budget-game` | **−** | The reviewer says the game feels like an imitation of a big-budget game rather than the real thing. Closes gap 57. |
+| `.placeholder-text-left-in` | **−** | Items or menus show internal code names or placeholder text instead of the names players are meant to read. **Distinct from `.the-writing-was-never-edited`**, which is about typos in finished text. Closes gap 167. |
+| `.only-the-licence-holds-it-up` | **−** | The reviewer says the film or series branding is doing all the work, and without it the game would be low quality. Closes gap 288. |
+
+### `production.early-access`
+| Mode | | Definition |
+|---|---|---|
+| `.hopes-the-updates-prove-this-wrong` | ~ | The reviewer says they want to like the game and hopes later updates will make their review out of date. Round 348's note. |
+| `.still-called-unfinished-years-later` | **−** | The studio still labels the game a beta or early access years after it came out. Round 386's note. |
+
+### `production.launch-state`
+| Mode | | Definition |
+|---|---|---|
+| `.the-team-was-too-small` | **−** | The reviewer says too few people, or too few experienced people, made the game for what it set out to be. **Like `.rushed-out-by-the-owner`**, it names who the reviewer holds responsible. Closes gap 81. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.buildings-you-cannot-enter` | **−** | Most buildings are scenery the player cannot walk into, in a game that asks them to explore. Closes gap 61. |
+
+### `production.scope-mismatch`
+| Mode | | Definition |
+|---|---|---|
+| `.reads-as-a-changed-plan` | ~ | The reviewer says the game feels as if the studio started with a different idea and settled for this one. Closes gap 222. |
+
+### `game-design.progression.complexity`
+| Mode | | Definition |
+|---|---|---|
+| `.the-learning-curve-is-well-paced` | **+** | The reviewer praises how the game's learning curve is paced. **Distinct from `.rewarding-once-learned`**, which is about the payoff once learned. Round 371's note. |
+
+### `publishing.availability`
+| Mode | | Definition |
+|---|---|---|
+| `.one-purchase-covers-two-platforms` | ~ | The reviewer says buying the game on one platform or store also gives a copy on another, and suggests buying it there. Closes gap 96. |
+| `.the-shop-is-blocked-in-my-country` | ~ | The game can be played where the reviewer lives, but its in-game shop is switched off there by law. **Distinct from `.not-sold-in-my-country`**, where the game itself is blocked. Closes gap 142. |
+
+### `publishing.data-and-privacy`
+| Mode | | Definition |
+|---|---|---|
+| `.worried-about-account-security` | **−** | The reviewer has heard of a security weakness or of players' accounts being hacked, and says so. Closes gap 23. |
+| `.accused-of-mining-currency` | **−** | The reviewer says or suspects that the game secretly uses their computer to mine digital currency. **Distinct from `.suspected-of-spying`**, which is about taking data. Closes gap 161. |
+| `.the-agreement-strips-buyer-rights` | **−** | The user agreement tries to take away protections the law gives buyers. Closes gap 172. |
+
+### `publishing.dlc-and-editions`
+| Mode | | Definition |
+|---|---|---|
+| `.should-give-the-dlc-away-to-make-amends` | **−** | The reviewer says the studio should hand out its paid add-ons free to make up for how bad the game has been. Closes gap 214. |
+| `.the-add-on-lets-more-people-play` | ~ | The reviewer notes that a paid add-on raises how many players can be in one group. Closes gap 225. |
+
+🔑 **Round 416, backlog rows 381-400.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

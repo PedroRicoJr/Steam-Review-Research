@@ -1357,3 +1357,20 @@ production.content-variety.repetition-comes-with-the-genre | ~ | The reviewer na
 production.content-variety.repetitive-and-still-fun | ~ | The reviewer names the repetition and says the game is fun anyway. **Distinct from `.repetitive`**, where the 
 production.content-variety.the-randomisation-is-only-surface | - | The game's level randomisation changes something trivial - where a crate spawns - and never the route or the g
 production.content-variety.wants-more-than-shooting | - | The reviewer wants missions to ask for something besides fighting - puzzles, minigames. Closes gap 287.
+production.craftsmanship.barely-playtested | - | The reviewer says the game feels as if it was hardly tested by anyone before release. Closes gap 57.
+production.craftsmanship.a-parody-of-a-big-budget-game | - | The reviewer says the game feels like an imitation of a big-budget game rather than the real thing. Closes gap
+production.craftsmanship.placeholder-text-left-in | - | Items or menus show internal code names or placeholder text instead of the names players are meant to read. **
+production.craftsmanship.only-the-licence-holds-it-up | - | The reviewer says the film or series branding is doing all the work, and without it the game would be low qual
+production.early-access.hopes-the-updates-prove-this-wrong | ~ | The reviewer says they want to like the game and hopes later updates will make their review out of date. Round
+production.early-access.still-called-unfinished-years-later | - | The studio still labels the game a beta or early access years after it came out. Round 386's note.
+production.launch-state.the-team-was-too-small | - | The reviewer says too few people, or too few experienced people, made the game for what it set out to be. **Li
+game-design.level-design.buildings-you-cannot-enter | - | Most buildings are scenery the player cannot walk into, in a game that asks them to explore. Closes gap 61.
+production.scope-mismatch.reads-as-a-changed-plan | ~ | The reviewer says the game feels as if the studio started with a different idea and settled for this one. Clos
+game-design.progression.complexity.the-learning-curve-is-well-paced | + | The reviewer praises how the game's learning curve is paced. **Distinct from `.rewarding-once-learned`**, whic
+publishing.availability.one-purchase-covers-two-platforms | ~ | The reviewer says buying the game on one platform or store also gives a copy on another, and suggests buying i
+publishing.availability.the-shop-is-blocked-in-my-country | ~ | The game can be played where the reviewer lives, but its in-game shop is switched off there by law. **Distinct
+publishing.data-and-privacy.worried-about-account-security | - | The reviewer has heard of a security weakness or of players' accounts being hacked, and says so. Closes gap 23
+publishing.data-and-privacy.accused-of-mining-currency | - | The reviewer says or suspects that the game secretly uses their computer to mine digital currency. **Distinct 
+publishing.data-and-privacy.the-agreement-strips-buyer-rights | - | The user agreement tries to take away protections the law gives buyers. Closes gap 172.
+publishing.dlc-and-editions.should-give-the-dlc-away-to-make-amends | - | The reviewer says the studio should hand out its paid add-ons free to make up for how bad the game has been. C
+publishing.dlc-and-editions.the-add-on-lets-more-people-play | ~ | The reviewer notes that a paid add-on raises how many players can be in one group. Closes gap 225.
