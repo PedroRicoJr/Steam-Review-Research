@@ -51,6 +51,8 @@ lost when a scratchpad was cleared.
 - Commit by pathspec, never `git commit -a`. Push after each commit.
 - Every new script states a size bound at the top.
 
-## The loop
+## Loops and status
 
-The 20-minute work loop, its order of work and where it stands now: **`LOOP.md`**.
+**Before any loop work, follow the pointers:** `loops/HOW-TO-RUN-A-LOOP.md` (how loops work) ->
+`STATUS.md` (where the work stands) -> the one file in `loops/active/` (the loop running now).
+Finished loops are in `loops/archive/`.

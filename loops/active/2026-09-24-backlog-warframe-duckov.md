@@ -1,24 +1,14 @@
-# The work loop
+# Loop: single-sighting backlog, then Warframe, then Escape from Duckov
 
-**Set by Rico, 2026-09-24.** A timer fires every 20 minutes (an in-session timer, plus an hourly
-Routine as a backstop). This file is what each firing reads. Update **Where it stands** at the end of
-every unit.
+**Started 2026-09-24 on Rico's word.** Runs every 20 minutes. How loops work in general:
+`loops/HOW-TO-RUN-A-LOOP.md`. Where this loop stands right now: `STATUS.md`.
 
-## Where it stands
+**Done when:** every stage below is finished. Then archive this file (see the how-to).
 
-| | |
-|---|---|
-| Current stage | 1. Single-sighting backlog |
-| Last unit done | Round 398 (backlog rows 21-40), 2026-09-24 |
-| Next unit | Round 399: the next 20 `open` rows of `tag-tree-backlog.tsv` |
-| Backlog | 432 open, 24 check |
-| Tree | 1,133 tags |
-| Warframe | 700 of 3,235 read; next is batch 15 |
+## Stages and steps
 
-## How it works
-
-A timer fires every 20 minutes. **Each firing does ONE unit of work, fully checked, committed and
-pushed to `main`, then a short report.** Work in this order:
+**Each firing does ONE unit of work, fully checked, committed and pushed to `main`, then a short
+report.** Work in this order:
 
 1. **Backlog rounds** until no row in `tag-tree-backlog.tsv` has status `open`. One round = the next
    20 `open` rows. For each row: read the note at `gaps_line` in `tag-tree-open-gaps.md`, read the
@@ -29,7 +19,7 @@ pushed to `main`, then a short report.** Work in this order:
    the modes to `tag-tree.md` above `## Parents with no modes yet`, run `python summarise.py card`, then
    `rehome()`. Set each row's status (`built rNNN <mode>` / `existing rNNN ...`). Then do the 24 `check`
    rows the same way.
-2. **Warframe** (`GAMES-TODO.md` row 5, WIP) from batch 15, one batch of 50 per firing, until all 3,235
+2. **Warframe** (`GAMES-TODO.md` row 5: set it from STOPPED back to WIP, Rico's word 2026-09-24) from batch 15, one batch of 50 per firing, until all 3,235
    sampled reviews are read. Then write `findings/warframe-english.md`, `findings/warframe.md` and a
    numbered section in `findings/cross-game.md`, and mark the row Done.
 3. **Escape from Duckov** (appid 3167020): add a `GAMES-TODO.md` row, measure, dry-run, pull, read,
@@ -37,7 +27,7 @@ pushed to `main`, then a short report.** Work in this order:
 
 **Every unit ends with:** `scripts/dircheck.py` = 0, `summarise.py check` unfitted = 0 for every group
 touched, a `## Notes - round NNN (...)` block in `tag-tree-open-gaps.md` with every count computed by
-script, an update to **Where it stands** above, commit by pathspec, `git push origin main`. Round
+script, an update to `STATUS.md`, commit by pathspec, `git push origin main`. Round
 numbers keep counting from the last note.
 
 **Helpers:** `scripts/backlog_next.py` shows the next rows with their parked bullets;
