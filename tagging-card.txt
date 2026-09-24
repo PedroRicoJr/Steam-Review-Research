@@ -1345,3 +1345,15 @@ narrative.world-and-setting.works-for-people-new-to-the-source | + | The reviewe
 narrative.world-and-setting.the-faithful-version-must-be-unlocked | - | A thing from the source is in the game in a form that is wrong, and the correct version has to be earned. **Di
 narrative.world-and-setting.what-you-do-never-changes-the-world | - | The player wants their missions or runs to change something in the game's world and they do not. Closes gap 34
 game-design.ui-ux.an-option-exists-and-is-hard-to-find | - | The setting the player wants is in the game, but nothing shows them where, so they only learn of it from someo
+game-design.new-player-experience.guides-you-without-holding-your-hand | + | The game tells the player where to go - the zone, the goal - without leading them there step by step, so they 
+game-design.new-player-experience.learn-it-alone-before-joining-others | ~ | The reviewer advises new players to learn the game on their own before playing with a group. Round 351's note.
+community.social-features.nothing-shows-others-what-you-earned | - | The player puts in the work and other players have no way to see or recognise it. Round 388's note.
+community.social-features.the-studio-chat-helps-you-find-a-team | + | The reviewer points players without friends to the studio's chat server as a good place to find a group. **The
+game-design.power-balance.a-weapon-fails-at-its-own-job | - | A weapon or tool is weak at the one thing it exists to do - an anti-armour launcher that does little to armour
+production.content-amount.worried-it-will-run-dry | - | The reviewer fears the game will run out of content or burn out soon, before it has. Round 346's note.
+production.content-amount.wants-more-because-it-is-good | + | The reviewer asks for more DLC, characters or content as praise - they want any excuse to play more. **Distinc
+production.content-variety.side-content-is-empty-errands | - | The optional missions are small errands that pay little and give the player no wish to do them. Closes gap 78.
+production.content-variety.repetition-comes-with-the-genre | ~ | The reviewer names the repetition and says it is the nature of this kind of game. Closes gap 207.
+production.content-variety.repetitive-and-still-fun | ~ | The reviewer names the repetition and says the game is fun anyway. **Distinct from `.repetitive`**, where the 
+production.content-variety.the-randomisation-is-only-surface | - | The game's level randomisation changes something trivial - where a crate spawns - and never the route or the g
+production.content-variety.wants-more-than-shooting | - | The reviewer wants missions to ask for something besides fighting - puzzles, minigames. Closes gap 287.

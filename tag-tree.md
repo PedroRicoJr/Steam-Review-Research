@@ -8666,6 +8666,43 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 414, backlog rows 341-360.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 415 (Rule C)
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.guides-you-without-holding-your-hand` | **+** | The game tells the player where to go - the zone, the goal - without leading them there step by step, so they still explore. Round 326's note. |
+| `.learn-it-alone-before-joining-others` | ~ | The reviewer advises new players to learn the game on their own before playing with a group. Round 351's note. |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.nothing-shows-others-what-you-earned` | **−** | The player puts in the work and other players have no way to see or recognise it. Round 388's note. |
+| `.the-studio-chat-helps-you-find-a-team` | **+** | The reviewer points players without friends to the studio's chat server as a good place to find a group. **The positive twin of `.only-the-studio-chat-fills-a-lobby`**, which says matchmaking fails without it. Round 351's note. |
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.a-weapon-fails-at-its-own-job` | **−** | A weapon or tool is weak at the one thing it exists to do - an anti-armour launcher that does little to armour. **Distinct from `.some-options-are-useless`**, which is about a whole class of choice. Closes gap 26. |
+
+### `production.content-amount`
+| Mode | | Definition |
+|---|---|---|
+| `.worried-it-will-run-dry` | **−** | The reviewer fears the game will run out of content or burn out soon, before it has. Round 346's note. |
+| `.wants-more-because-it-is-good` | **+** | The reviewer asks for more DLC, characters or content as praise - they want any excuse to play more. **Distinct from `.too-little`**, which says what is there runs out. Round 364's and round 367's notes. |
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.side-content-is-empty-errands` | **−** | The optional missions are small errands that pay little and give the player no wish to do them. Closes gap 78. |
+| `.repetition-comes-with-the-genre` | ~ | The reviewer names the repetition and says it is the nature of this kind of game. Closes gap 207. |
+| `.repetitive-and-still-fun` | ~ | The reviewer names the repetition and says the game is fun anyway. **Distinct from `.repetitive`**, where the repetition is the complaint. Closes gap 271. |
+| `.the-randomisation-is-only-surface` | **−** | The game's level randomisation changes something trivial - where a crate spawns - and never the route or the goal. **Distinct from `.the-generation-adds-nothing`**, which is about fully generated levels. Closes gap 215. |
+| `.wants-more-than-shooting` | **−** | The reviewer wants missions to ask for something besides fighting - puzzles, minigames. Closes gap 287. |
+
+🔑 **Round 415, backlog rows 361-380.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
