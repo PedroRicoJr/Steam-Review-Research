@@ -14,8 +14,8 @@ Must report 0 after every batch. It cannot see a praise line filed on a
 complaint mode (the tag and the word agree, the sentence does not) - read the
 bullets for that.
 
-  python dircheck.py                 whole corpus
-  python dircheck.py --game warframe one game
+  python scripts/dircheck.py                 whole corpus
+  python scripts/dircheck.py --game warframe one game
 """
 
 import argparse
@@ -29,7 +29,7 @@ from write_batch import load_card
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # the repo root
 LINE = re.compile(r"^\s*→\s*(\S+)\s+\(([^)]*)\)\s*$")
 
 

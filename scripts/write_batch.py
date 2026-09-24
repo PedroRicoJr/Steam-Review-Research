@@ -5,8 +5,10 @@ SIZE BOUND: at most 100 reviews per call (asserted), so at most 100 files
 written. Reads tagging-card.txt (~1,100 lines) and one group's sample JSON
 files (a few thousand reviews). Nothing else is loaded or walked.
 
-Use from a data script:
+Use from a data script (anywhere, e.g. the scratchpad):
 
+    import sys
+    sys.path.insert(0, "G:/Documents/steam-review-mining/scripts")
     from write_batch import write
     D = {
         "21037333": [
@@ -45,7 +47,7 @@ import time
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # the repo root
 CARD = os.path.join(HERE, "tagging-card.txt")
 MAX_REVIEWS = 100
 TAG_WIDTH = 54
@@ -97,6 +99,8 @@ def path_for(r):
 
 def write(group, D, dry_run=False):
     """Validate everything, then write one file per review. Returns the paths."""
+    if HERE not in sys.path:
+        sys.path.insert(0, HERE)                # summarise.py lives in the repo root
     from summarise import load_group
 
     assert len(D) <= MAX_REVIEWS, "batch has %d reviews; the bound is %d" % (len(D), MAX_REVIEWS)

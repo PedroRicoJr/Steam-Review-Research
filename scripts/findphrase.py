@@ -8,9 +8,9 @@ Searches the bullet text (the "- Says ..." lines), case-insensitive, and
 prints each match with the tag it sits on, so you can see where earlier
 sightings were homed before you name a new mode.
 
-  python findphrase.py "content island"
-  python findphrase.py "trad(e|ing)" --regex --game warframe
-  python findphrase.py "blur" --tags        also search the tag names
+  python scripts/findphrase.py "content island"
+  python scripts/findphrase.py "trad(e|ing)" --regex --game warframe
+  python scripts/findphrase.py "blur" --tags        also search the tag names
 """
 
 import argparse
@@ -22,7 +22,7 @@ import sys
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # the repo root
 
 
 def main():

@@ -148,16 +148,17 @@ review 23,000 costs a rebuild.
 
 ## 9. The batch helpers (committed 2026-09-24)
 
-These four lived only in a session scratchpad until it was cleared. They are now in the repo root.
-Each one states its size bound at the top.
+These four lived only in a session scratchpad until it was cleared. They are now in `scripts/`.
+Each one states its size bound at the top. A data script outside the repo imports them with
+`sys.path.insert(0, "<repo>/scripts")`.
 
 | Script | What it does |
 |---|---|
-| `write_batch.py` | `write(group, D)` - one file per review. Refuses to write anything if any tag is missing from `tagging-card.txt`, any id is not in the sample, or the batch is over 100. Direction is looked up from the card. |
-| `dircheck.py` | Checks every bullet's (good / bad / ~) against the tree. **Must report 0 after every batch.** |
-| `findphrase.py` | Searches bullet text across the corpus for a second sighting before a mode is named. |
-| `rehome_helper.py` | `rehome(rid, oldtag, newtag)` and `append_bullet(rid, text, tag)`. Direction is looked up fresh; the file's own padding and line endings are kept. |
+| `scripts/write_batch.py` | `write(group, D)` - one file per review. Refuses to write anything if any tag is missing from `tagging-card.txt`, any id is not in the sample, or the batch is over 100. Direction is looked up from the card. |
+| `scripts/dircheck.py` | Checks every bullet's (good / bad / ~) against the tree. **Must report 0 after every batch.** |
+| `scripts/findphrase.py` | Searches bullet text across the corpus for a second sighting before a mode is named. |
+| `scripts/rehome_helper.py` | `rehome(rid, oldtag, newtag)` and `append_bullet(rid, text, tag)`. Direction is looked up fresh; the file's own padding and line endings are kept. |
 
 Checked on 2026-09-24: `write_batch.render` rebuilt all 698 non-excluded Warframe files byte for
 byte, and 1,471 of 1,473 ARC Raiders files (the other 2 were re-homed by hand at a wider padding).
-`dircheck.py` reports 0 across 18,906 files and 45,135 bullets.
+`scripts/dircheck.py` reports 0 across 18,906 files and 45,135 bullets.

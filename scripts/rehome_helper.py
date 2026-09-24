@@ -5,6 +5,8 @@ SIZE BOUND: each call finds one review file by id (a glob over
 raw/*/*/summaries/*/, about 19,000 names, no file contents read except the
 match) and rewrites that one file. Reads tagging-card.txt once per process.
 
+    import sys
+    sys.path.insert(0, "G:/Documents/steam-review-mining/scripts")
     from rehome_helper import rehome, append_bullet
     rehome("14471522", "game-design.new-player-experience.unknown",
            "marketing.discovery.someone-recommended-it")
@@ -28,7 +30,7 @@ import re
 
 from write_batch import TAG_WIDTH, load_card
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # the repo root
 _card = None
 LINE = re.compile(r"^(\s*→ )(\S+)( +)\(([^)]*)\)(\s*)$")
 
