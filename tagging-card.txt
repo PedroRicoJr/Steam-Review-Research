@@ -1102,3 +1102,18 @@ game-design.replayability.warns-that-it-takes-over-your-life | - | The reviewer 
 live-ops.update-cadence.updating-eats-the-play-session | - | The patches arrive so often, or download so slowly, that the time the player set aside to play goes to updatin
 community.culture.veterans-will-not-help-newcomers | - | The established players will not take, teach or tolerate a new one - they refuse a request for help, keep thei
 game-design.progression.unlock-pace.you-grind-for-gear-you-will-never-use | - | The player spends the grind on a weapon or frame that turns out too weak to use, or that exists only to be lev
+marketing.reputation.judges-the-studio-by-its-country | - | The reviewer extends the verdict past the studio to the country it works in, and tells readers to choose games
+accessibility.memory-and-attention.a-player-with-a-named-condition-says-it-works | + | The reviewer names a cognitive or neurological condition - their own or a player they know - and says the game
+narrative.story.told-during-the-fighting-so-it-is-lost | - | Lore, logs or story dialogue play while the player is fighting, so they cannot take them in. **Distinct from `
+game-design.game-feel.controls.aim-assist-helps | + | The reviewer says the game's aim assistance works and makes aiming better. **Distinct from `.input-tuning-full
+accessibility.vision.flashing-that-endangers-photosensitive-players | - | The reviewer warns that the flashing, strobing or exploding effects are a risk for players with epilepsy or li
+accessibility.vision.the-motion-sickness-options-miss-some-of-it | - | The game has settings against motion sickness, and the reviewer names camera moves they do not cover. **Distin
+game-design.ai-teammates.a-living-bot-does-not-keep-the-mission-alive | - | The mission fails when the human players are down even though an AI teammate is still standing, so the bot can
+art.atmosphere.too-many-enemies-to-keep-the-mystery | - | The place is so full of enemies that the unease or mystery the setting promised is gone; the reviewer says few
+game-design.world-interaction.the-hub-feels-empty | - | The place between missions feels empty or lifeless, with no cause named. **Distinct from `.the-people-in-the-h
+game-design.ui-ux.the-game-outlines-every-enemy-for-you | - | The game marks the enemies for the player - a free tracker, a coloured dot, a silhouette when aiming - and the
+art.character-design.embarrassing-to-have-on-screen-around-others | - | The reviewer will not play with family or others in the room because of how the characters look. **Distinct fr
+art.character-design.a-known-creature-does-not-look-like-itself | - | A creature borrowed from a film, book or earlier game is on screen and the reviewer says it looks wrong - not 
+game-design.progression.build-and-customisation.the-options-for-one-gender-are-poor | - | The character creator's choices for one gender are few or do not look like that gender, and the reviewer names
+game-design.progression.cosmetic-rewards.the-outfits-make-you-look-silly | - | The clothes and gear the player can wear make their character look ridiculous, and the reviewer says so. **Dis
+art.effects-and-gore.too-little-gore | - | The reviewer wants more blood and gore than the game shows, often because the source it adapts is gory. **Dist

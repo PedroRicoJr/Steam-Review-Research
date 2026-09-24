@@ -7937,6 +7937,78 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Third sighting, all Warframe, the first two parked on `some-options-are-useless` with a note to name at a third.** 8236558 ("the grind should at least reward high-damage items, not a larping axe and a nerf gun", round 386), 11124722 ("grinding for hours for blueprint parts only to find the weapon is not effective", round 388) and 17934084 ("the only reason to use bad weapons is to feed mastery rank; the community calls them mastery fodder"). ✅ **Re-homes**: 8236558 and 11124722 off `game-design.power-balance.some-options-are-useless`.
 
 
+## Modes added in the single-sighting backlog - round 397 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.judges-the-studio-by-its-country` | **−** | The reviewer extends the verdict past the studio to the country it works in, and tells readers to choose games by where they were made. **Distinct from `.studio-lost-my-trust`**, which stops at one studio. |
+
+### `accessibility.memory-and-attention`
+| Mode | | Definition |
+|---|---|---|
+| `.a-player-with-a-named-condition-says-it-works` | **+** | The reviewer names a cognitive or neurological condition - their own or a player they know - and says the game's demands are manageable with it. **The positive side of the subject**, which had only a failure mode. |
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.told-during-the-fighting-so-it-is-lost` | **−** | Lore, logs or story dialogue play while the player is fighting, so they cannot take them in. **Distinct from `.the-game-talks-too-much`**, where the amount is the problem; here it is the timing. |
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.aim-assist-helps` | **+** | The reviewer says the game's aim assistance works and makes aiming better. **Distinct from `.input-tuning-fully-exposed`**, which is about being able to change the settings, not about the assist itself. |
+
+### `accessibility.vision`
+| Mode | | Definition |
+|---|---|---|
+| `.flashing-that-endangers-photosensitive-players` | **−** | The reviewer warns that the flashing, strobing or exploding effects are a risk for players with epilepsy or light sensitivity, or asks for a warning the game does not give. **Distinct from `art.effects-and-gore.effects-block-your-view`**, which is about seeing the fight, not about the player's health. **Distinct from `.too-bright-to-look-at`**, which is discomfort, not a seizure risk. |
+| `.the-motion-sickness-options-miss-some-of-it` | **−** | The game has settings against motion sickness, and the reviewer names camera moves they do not cover. **Distinct from `.causes-motion-sickness`**, which has no settings to fall short. |
+
+### `game-design.ai-teammates`
+| Mode | | Definition |
+|---|---|---|
+| `.a-living-bot-does-not-keep-the-mission-alive` | **−** | The mission fails when the human players are down even though an AI teammate is still standing, so the bot cannot carry the squad through. **Distinct from `.fails-to-revive`**, where the bot could have helped and did not; here the rules do not let it count. |
+
+### `art.atmosphere`
+| Mode | | Definition |
+|---|---|---|
+| `.too-many-enemies-to-keep-the-mystery` | **−** | The place is so full of enemies that the unease or mystery the setting promised is gone; the reviewer says fewer would have kept it. **Distinct from `.falls-flat`**, where no cause is named. |
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.the-hub-feels-empty` | **−** | The place between missions feels empty or lifeless, with no cause named. **Distinct from `.the-people-in-the-hub-do-nothing`**, where the people are there and inert. **Distinct from `art.atmosphere.falls-flat`**, which is the whole game's mood. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-game-outlines-every-enemy-for-you` | **−** | The game marks the enemies for the player - a free tracker, a coloured dot, a silhouette when aiming - and the reviewer says it takes something away: the searching, the strategy, the look. **Distinct from `art.atmosphere.a-tool-undoes-the-mood`**, where the loss is the mood. Closes gap 308. |
+
+### `art.character-design`
+| Mode | | Definition |
+|---|---|---|
+| `.embarrassing-to-have-on-screen-around-others` | **−** | The reviewer will not play with family or others in the room because of how the characters look. **Distinct from `.cast-is-off-putting`**, which is the reviewer's own dislike; here it is being seen with it. |
+| `.a-known-creature-does-not-look-like-itself` | **−** | A creature borrowed from a film, book or earlier game is on screen and the reviewer says it looks wrong - not the thing they know. **Distinct from `.generic-cast`**, which is about new designs. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-options-for-one-gender-are-poor` | **−** | The character creator's choices for one gender are few or do not look like that gender, and the reviewer names it. **Distinct from `.cannot-change-how-you-look`**, where there is no creator at all. |
+
+### `game-design.progression.cosmetic-rewards`
+| Mode | | Definition |
+|---|---|---|
+| `.the-outfits-make-you-look-silly` | **−** | The clothes and gear the player can wear make their character look ridiculous, and the reviewer says so. **Distinct from `.not-worth-chasing`**, which is about the value of the reward, not how it looks. |
+
+### `art.effects-and-gore`
+| Mode | | Definition |
+|---|---|---|
+| `.too-little-gore` | **−** | The reviewer wants more blood and gore than the game shows, often because the source it adapts is gory. **Distinct from `.impacts-look-weak`**, where hits lack force; here the amount of gore is the complaint. |
+
+🔑 **Round 397, backlog rows 1-20.** Built on first sighting under Rule C, with same-round re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
