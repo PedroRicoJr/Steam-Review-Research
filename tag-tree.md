@@ -8291,6 +8291,37 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 404, backlog rows 141-160.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 405 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-player-cap-can-be-lifted` | ~ | The game sets a team size and the reviewer notes that a command, setting or tool lets players go past it. |
+| `.the-scaling-outpaces-a-full-group` | **−** | On higher settings, the difficulty added for each extra player grows faster than the group can handle, so a full team does worse than a small one. **The inverse of `.more-players-makes-it-trivial`.** |
+| `.the-host-draws-the-enemies` | **−** | Enemies head for the hosting player in particular, so hosting costs that player - their stealth, their safety. |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.weaker-teammates-resent-your-power` | **−** | A teammate who plays worse complains when the reviewer's character grows much stronger than theirs. |
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.harder-adds-new-rules` | **+** | The higher settings bring mechanics that only exist there, not only bigger numbers. **The positive twin of `.harder-only-changes-the-numbers`.** |
+| `.no-difficulty-settings` | **−** | The game offers no way to change the difficulty, and the reviewer wants one. |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-wrong-enemy-for-the-pitch` | **−** | Most of the fighting is against an enemy the game's premise did not lead the player to expect. Closes gap 218. |
+| `.one-enemy-type-is-hated` | **−** | The reviewer names one enemy type they hate, with no reason given. **Distinct from `.no-counterplay`**, which says why. |
+| `.hitscan-enemies-never-miss` | **−** | Enemy shots land the instant they fire and never miss, so dodging and positioning do nothing. **A narrow form of `.no-counterplay`**, split out on two sightings. |
+| `.tells-how-they-died` | ~ | The reviewer's line is the story of one death - what killed them, at what point - with no verdict on the game. |
+
+🔑 **Round 405, backlog rows 161-180.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
