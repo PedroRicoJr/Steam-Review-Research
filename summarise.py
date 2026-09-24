@@ -59,7 +59,7 @@ def build_card():
         if k not in seen:
             seen.add(k)
             out.append(l)
-    with open(CARD, "w", encoding="utf-8") as fh:
+    with open(CARD, "w", encoding="utf-8", newline="\r\n") as fh:   # CRLF on every OS, as on Rico's machine
         fh.write("\n".join(out) + "\n")
     return out
 
