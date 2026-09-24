@@ -8140,6 +8140,59 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 400, backlog rows 61-80.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 401 (Rule C)
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.only-a-player-run-chat-fills-a-lobby` | **−** | The reliable route to a full team is an **unofficial**, player-run chat channel, not the game's matchmaking and not the studio's own server. **The player-run twin of `.only-the-studio-chat-fills-a-lobby`.** Closes gap 206. |
+| `.no-trading-between-players` | **−** | The game has no way for players to trade with each other, and the reviewer wants one. **The absence twin of `.the-player-market-works`.** |
+| `.the-player-market-works-badly` | **−** | Player trading exists and works poorly - prices swing, only some goods sell, the good things cost too much. **The negative twin of `.the-player-market-works`.** |
+| `.hard-to-get-into-a-clan` | **−** | The game has clans or guilds and the reviewer finds it near impossible to join one. |
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.no-home-base-that-shows-your-progress` | **−** | The reviewer wants a personal base they can walk around in, where their progress is visible, and the game has only menus. **Distinct from `community.social-features.no-shared-place-between-runs`**, which is a place to meet other players. |
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.the-tools-taught-me-to-make-games` | **+** | Making content for the game - maps, levels - taught the reviewer a craft or started a career in it. Closes gap 119. |
+| `.even-mods-did-not-fix-it` | **−** | The player tried community fixes and the problem remained; the studio has to change it. **The failure side of `.only-playable-after-modding`.** |
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.the-menus-ignore-the-d-pad` | **−** | On a controller, the menus do not take the d-pad where the player expects it - stick-only navigation, or some menus one way and some another. |
+| `.one-button-does-too-many-things` | **−** | One button carries several actions - dodge, jump, climb - so the game does the wrong one. **Distinct from `.actions-trigger-by-themselves`**, which needs no press. |
+| `.one-input-device-is-the-better-way` | ~ | The reviewer recommends a controller, or mouse and keyboard, as the better way to play - advice, not a complaint. **Distinct from `.you-have-to-switch-input-device-to-play-well`**, where one device is materially worse. |
+
+### `engineering.performance`
+| Mode | | Definition |
+|---|---|---|
+| `.gets-slower-the-longer-you-play` | **−** | The game runs well at first and starts to lag after a stretch of play, often an hour or more. |
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-top-setting-is-locked-at-the-start` | **−** | The highest difficulty is not available until the story is finished, so a player who wants it must play through on a lower one. |
+| `.swings-wildly-within-a-run` | **−** | Enemy and boss difficulty rises and falls unpredictably within one run, out of step with how far in the player is. **Distinct from `.badly-scaled`**, which is between settings, and `.one-part-is-far-harder-than-the-rest`, which is one place. |
+
+### `accessibility.memory-and-attention`
+| Mode | | Definition |
+|---|---|---|
+| `.too-much-at-once-for-some-players` | **−** | The reviewer warns that players who are easily overwhelmed by noise, screen clutter and pressure should not play. |
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.dies-when-the-servers-go` | **−** | The game needs the studio's servers, so the reviewer expects it - and the player's progress - to end when they are shut down. **The negative twin of `engineering.servers.player-hosted-so-it-outlives-the-studio`.** Closes gap 53. |
+| `.offline-mode-only-if-you-already-had-it` | **−** | An offline mode was added, and it works only for players who installed the game before the servers went. |
+
+🔑 **Round 401, backlog rows 81-100.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

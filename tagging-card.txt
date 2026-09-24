@@ -1165,3 +1165,19 @@ community.population.one-mode-has-no-players | - | The game is populated, and on
 community.social-features.the-group-finder-works | + | An out-of-match recruitment or group-finding tool reliably puts people together, better than matchmaking. **Di
 community.social-features.the-group-finder-covers-only-some-modes | - | The group-finding tool exists and works for only some of the game's modes.
 game-design.progression.build-and-customisation.two-choices-together-leave-you-helpless | - | Two options that each work alone - a modifier card and a weapon, a perk and a skill - combine to leave the pla
+community.social-features.only-a-player-run-chat-fills-a-lobby | - | The reliable route to a full team is an **unofficial**, player-run chat channel, not the game's matchmaking an
+community.social-features.no-trading-between-players | - | The game has no way for players to trade with each other, and the reviewer wants one. **The absence twin of `.
+community.social-features.the-player-market-works-badly | - | Player trading exists and works poorly - prices swing, only some goods sell, the good things cost too much. **
+community.social-features.hard-to-get-into-a-clan | - | The game has clans or guilds and the reviewer finds it near impossible to join one.
+game-design.world-interaction.no-home-base-that-shows-your-progress | - | The reviewer wants a personal base they can walk around in, where their progress is visible, and the game has 
+community.user-created-content.the-tools-taught-me-to-make-games | + | Making content for the game - maps, levels - taught the reviewer a craft or started a career in it. Closes gap
+community.user-created-content.even-mods-did-not-fix-it | - | The player tried community fixes and the problem remained; the studio has to change it. **The failure side of 
+game-design.game-feel.controls.the-menus-ignore-the-d-pad | - | On a controller, the menus do not take the d-pad where the player expects it - stick-only navigation, or some 
+game-design.game-feel.controls.one-button-does-too-many-things | - | One button carries several actions - dodge, jump, climb - so the game does the wrong one. **Distinct from `.ac
+game-design.game-feel.controls.one-input-device-is-the-better-way | ~ | The reviewer recommends a controller, or mouse and keyboard, as the better way to play - advice, not a complai
+engineering.performance.gets-slower-the-longer-you-play | - | The game runs well at first and starts to lag after a stretch of play, often an hour or more.
+game-design.difficulty-tuning.the-top-setting-is-locked-at-the-start | - | The highest difficulty is not available until the story is finished, so a player who wants it must play throug
+game-design.difficulty-tuning.swings-wildly-within-a-run | - | Enemy and boss difficulty rises and falls unpredictably within one run, out of step with how far in the player
+accessibility.memory-and-attention.too-much-at-once-for-some-players | - | The reviewer warns that players who are easily overwhelmed by noise, screen clutter and pressure should not pl
+engineering.access.dies-when-the-servers-go | - | The game needs the studio's servers, so the reviewer expects it - and the player's progress - to end when they
+engineering.access.offline-mode-only-if-you-already-had-it | - | An offline mode was added, and it works only for players who installed the game before the servers went.
