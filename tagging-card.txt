@@ -1289,3 +1289,16 @@ game-design.ui-ux.the-map-has-no-compass | - | The map or minimap shows no cardi
 game-design.ui-ux.no-confirmation-before-a-costly-action | - | An action that loses progress - quitting a run, leaving to the menu - has no confirmation, so one wrong press 
 review.takes-back-an-earlier-complaint | ~ | The reviewer withdraws something they complained about before, saying it was their own mistake. **Distinct fro
 game-design.co-op-design.the-map-is-not-shared | - | Map exploration done by one player does not show on a teammate's map.
+game-design.progression.unlock-pace.the-grind-crowds-out-the-game | - | The cycle of grinding, building and customising takes precedence over playing, so the game is about numbers go
+game-design.level-design.the-boss-arena-can-roll-badly | - | A randomly chosen boss arena can be cramped or a cliff edge, which makes the fight far harder on high settings
+live-ops.patch-quality.fixes-what-suits-the-studio-first | - | A defect that hurts players stays for months while one that helped players is fixed within a day. Closes gap 3
+live-ops.patch-quality.removes-what-players-worked-out | - | The studio takes out the creative ways players found to play. **Distinct from `.nerfs-what-players-liked`**, w
+live-ops.patch-quality.the-planned-content-is-only-cosmetics | - | The roadmap or the updates bring skins and emotes, not levels or systems, and the reviewer reads it as no real
+live-ops.patch-quality.a-fix-was-rolled-back | - | A fix shipped and was then reverted. Closes gap 193.
+live-ops.patch-quality.the-fix-came-too-late | - | A wanted change arrived after the players had already left. Closes gap 202.
+live-ops.patch-quality.an-update-reads-as-a-rescue-attempt | - | The reviewer reads a new add-on or update as a last effort to save the game rather than as good content. Close
+live-ops.patch-quality.each-update-is-a-content-island | - | Each major update adds a self-contained area unrelated to the others, with little reason to return once it is 
+live-ops.abandonment.a-system-was-left-half-finished | - | A system the game shipped with - ship modules, weapon customisation - was left unfinished. Closes gap 34.
+live-ops.abandonment.its-failure-cancelled-other-games | - | The reviewer says this game's failure got the studio's other projects - sequels, future games - cancelled. Clo
+community.developer-communication.what-a-cheater-took-was-given-back | + | The player lost gear to a cheater, the cheater was banned, and the studio returned what was lost. **The positi
+publishing.monetisation-practice.what-i-bought-was-weakened-later | - | Something bought with real money or paid currency was weakened soon after. Closes gap 15.

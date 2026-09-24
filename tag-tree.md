@@ -8514,6 +8514,48 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 410, backlog rows 261-280.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 411 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-grind-crowds-out-the-game` | **−** | The cycle of grinding, building and customising takes precedence over playing, so the game is about numbers going up. **Distinct from `.grindy`**, which is too much repetition. Round 393's note. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-boss-arena-can-roll-badly` | **−** | A randomly chosen boss arena can be cramped or a cliff edge, which makes the fight far harder on high settings. |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.fixes-what-suits-the-studio-first` | **−** | A defect that hurts players stays for months while one that helped players is fixed within a day. Closes gap 31. |
+| `.removes-what-players-worked-out` | **−** | The studio takes out the creative ways players found to play. **Distinct from `.nerfs-what-players-liked`**, which weakens things the game offered. Closes gap 35. |
+| `.the-planned-content-is-only-cosmetics` | **−** | The roadmap or the updates bring skins and emotes, not levels or systems, and the reviewer reads it as no real content coming. Closes gap 187. |
+| `.a-fix-was-rolled-back` | **−** | A fix shipped and was then reverted. Closes gap 193. |
+| `.the-fix-came-too-late` | **−** | A wanted change arrived after the players had already left. Closes gap 202. |
+| `.an-update-reads-as-a-rescue-attempt` | **−** | The reviewer reads a new add-on or update as a last effort to save the game rather than as good content. Closes gap 229. |
+| `.each-update-is-a-content-island` | **−** | Each major update adds a self-contained area unrelated to the others, with little reason to return once it is emptied. Round 394's note. |
+
+### `live-ops.abandonment`
+| Mode | | Definition |
+|---|---|---|
+| `.a-system-was-left-half-finished` | **−** | A system the game shipped with - ship modules, weapon customisation - was left unfinished. Closes gap 34. |
+| `.its-failure-cancelled-other-games` | **−** | The reviewer says this game's failure got the studio's other projects - sequels, future games - cancelled. Closes gap 82. |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.what-a-cheater-took-was-given-back` | **+** | The player lost gear to a cheater, the cheater was banned, and the studio returned what was lost. **The positive twin of `.what-a-cheater-took-is-never-given-back`.** Closes gap 328. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.what-i-bought-was-weakened-later` | **−** | Something bought with real money or paid currency was weakened soon after. Closes gap 15. |
+
+🔑 **Round 411, backlog rows 281-300.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
