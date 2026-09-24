@@ -1234,3 +1234,14 @@ game-design.game-feel.combat.too-much-slow-motion | - | The game slows the actio
 game-design.game-feel.combat.the-defence-crowds-out-the-shooting | - | Watching for block and dodge cues takes so much of the fight that little time is left to attack or shoot; miss
 game-design.progression.unlock-pace.feels-powerful-early | + | The player feels strong within a short time, without dozens of hours of unlocking first. **The inverse of `.sl
 game-design.game-feel.controls.too-many-buttons-to-manage | - | The game needs more separate inputs than the player can comfortably manage on their device. Closes gap 32.
+game-design.game-feel.controls.aim-response-is-inconsistent | - | The same mouse or stick movement does not turn the view the same amount every time - the sensitivity drifts, d
+game-design.game-feel.movement.no-player-collision | - | Players pass through each other, and the reviewer says it feels cheap or breaks the illusion.
+game-design.level-design.getting-lost-is-part-of-it | ~ | The reviewer is often lost in the levels and says so as part of the experience, both good and bad, not as a pl
+game-design.modes.the-pvp-is-what-keeps-it-alive | + | The reviewer defends the player-versus-player side and argues that a PvE-only version would bore the people as
+game-design.modes.a-mode-is-locked-behind-gear | - | A mode, often PvP, can only be entered once the player owns enough gear or inventory, so newer players are shu
+game-design.new-player-experience.returning-players-sent-back-through-the-tutorial | - | A player coming back after an update is made to sit through tutorials again before they can play. Closes gap 1
+game-design.ui-ux.no-place-to-test-a-build | - | There is no training dummy or firing range to test weapons and builds, and the reviewer wants one. **Distinct 
+game-design.ui-ux.a-place-to-test-your-build | + | A training dummy or firing range lets the player try a build and see its damage at once. **The positive twin o
+game-design.pacing.asks-for-no-thought | - | The play is frantic run-and-gun with no strategy or tactics needed, and the reviewer wanted more thinking. **T
+game-design.pacing.the-pressure-never-builds | - | Every fight sits at the same level; nothing escalates to a peak. **Distinct from `.no-let-up`**, which is cons
+game-design.pacing.slow-to-get-going | - | The reviewer says the game or the run is slow at the start, without more detail. **Distinct from `.the-early-s

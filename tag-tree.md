@@ -8355,6 +8355,50 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 406, backlog rows 181-200.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 407 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.aim-response-is-inconsistent` | **−** | The same mouse or stick movement does not turn the view the same amount every time - the sensitivity drifts, doubles in some places, or resets. **Distinct from `.aim-sensitivity-cannot-be-tuned`**, where the settings are the problem, and `.unresponsive`, which is delay. Closes gaps 50 and 321. |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.no-player-collision` | **−** | Players pass through each other, and the reviewer says it feels cheap or breaks the illusion. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.getting-lost-is-part-of-it` | ~ | The reviewer is often lost in the levels and says so as part of the experience, both good and bad, not as a plain complaint. **Distinct from `.confusing-layout`**, which is only a complaint. Closes gap 312. |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-pvp-is-what-keeps-it-alive` | **+** | The reviewer defends the player-versus-player side and argues that a PvE-only version would bore the people asking for it. **The positive sibling of `.the-pvp-feels-bolted-onto-a-pve-game`.** |
+| `.a-mode-is-locked-behind-gear` | **−** | A mode, often PvP, can only be entered once the player owns enough gear or inventory, so newer players are shut out of it. |
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.returning-players-sent-back-through-the-tutorial` | **−** | A player coming back after an update is made to sit through tutorials again before they can play. Closes gap 168. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.no-place-to-test-a-build` | **−** | There is no training dummy or firing range to test weapons and builds, and the reviewer wants one. **Distinct from `game-design.new-player-experience.no-safe-place-to-learn`**, which is about learning the game. Closes gap 267. |
+| `.a-place-to-test-your-build` | **+** | A training dummy or firing range lets the player try a build and see its damage at once. **The positive twin of `.no-place-to-test-a-build`.** |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.asks-for-no-thought` | **−** | The play is frantic run-and-gun with no strategy or tactics needed, and the reviewer wanted more thinking. **The negative side of `.a-game-you-can-unwind-to`.** Closes gap 273. |
+| `.the-pressure-never-builds` | **−** | Every fight sits at the same level; nothing escalates to a peak. **Distinct from `.no-let-up`**, which is constant high pressure. |
+| `.slow-to-get-going` | **−** | The reviewer says the game or the run is slow at the start, without more detail. **Distinct from `.the-early-stages-of-every-run-are-dull`**, which names each run. |
+
+🔑 **Round 407, backlog rows 201-220.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
