@@ -26,6 +26,8 @@ the one file in `loops/active/`. Following it must always be enough to carry on.
 5. Checks: `scripts/dircheck.py` reports 0; `python summarise.py check --group <game>/english`
    reports unfitted 0 and all tags valid for every group touched.
 6. Append the round note to `tag-tree-open-gaps.md`, with every count computed by script.
+   If the tree changed, run `python render_artifact.py` (half a second) so `artifact/tag-tree.html`
+   matches it.
 7. Update `STATUS.md`: last unit, next unit, counts, date.
 8. Commit by pathspec (never `git commit -a`), then `git push origin main`.
 9. Report to Rico in **one line**: the unit, the running total, the tree size. **A full report only

@@ -164,7 +164,7 @@ def render():
     page = head + body + FOOT
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    open(OUT, "w", encoding="utf-8").write(page)
+    open(OUT, "w", encoding="utf-8", newline="\r\n").write(page)   # CRLF on every OS, as committed
     print("wrote %s — %d divisions, %d subjects, %d modes, %s observations"
           % (OUT, page.count('<section id='), len(modes), n_modes, "{:,}".format(n_obs)))
 
