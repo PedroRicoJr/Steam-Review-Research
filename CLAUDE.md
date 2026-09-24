@@ -7,6 +7,13 @@ DOMINION, Rico's game.
 Read first, in this order: `GAMES-TODO.md` (section 4 is live), `SAMPLING-RULES.md`,
 `SUMMARISER.md`, the last few rounds of `tag-tree-open-gaps.md`, `findings/cross-game.md`.
 
+## Folders
+
+- `planning/` - lists of games Rico is considering. **Not cleared to pull.** A game moves to a
+  `GAMES-TODO.md` row when Rico picks it. Current list: `planning/action-roguelike-list.md`.
+- `scripts/` - the batch helpers (below).
+- `raw/<game>/<lang>/` - samples and summaries. `findings/` - per-game and cross-game findings.
+
 ## Scripts
 
 The batch helpers live in `scripts/`. Each one states its size bound at the top.
