@@ -1398,3 +1398,18 @@ review.says-a-language-model-proofread-it | ~ | The reviewer says they ran the r
 review.judges-later-content-from-videos | ~ | The reviewer extends the verdict to parts of the game they have not played, based on watching creators who hav
 review.kept-as-a-log-of-reward-campaigns | ~ | The review is kept up to date as a list of the dates the game was used as a reward in someone else's promotion
 review.describes-a-different-game | ~ | The review's body describes another game entirely - its price, its rules, its levels - filed under this one. *
+review.checked-the-source-to-settle-a-claim | ~ | The reviewer went back to the book, film or series itself - rewatched it, counted scenes - to settle a point a
+review.asks-readers-for-help | ~ | The reviewer uses the review to ask other players whether they know what is going on or how to fix a problem. 
+review.thumb-down-over-one-thing-in-a-game-they-love | ~ | The reviewer calls the game great and gives a thumb down over a single named decision. **Distinct from `.thumb
+review.points-to-a-video-to-make-the-case | ~ | The reviewer points readers at a named video to show what the game is like, instead of describing it. Closes g
+review.apologises-for-their-own-writing | ~ | The reviewer apologises for how their own writing reads - their English, or that it may sound machine-written.
+review.is-only-a-link | ~ | The whole review is a link - to a screenshot, a page - with no claim in words. Closes gap 290.
+review.says-who-it-is-written-for | ~ | The reviewer says up front which readers the review is meant for - newcomers, veterans. **Distinct from `.says
+review.takes-a-side-in-a-dispute-between-players | ~ | The review is about a public dispute between players, streamers or community staff, and takes a side, saying n
+review.posted-under-both-games-in-the-series | ~ | The reviewer says the same review text is posted under two games in a series, written after playing both. Roun
+review.reads-like-a-store-blurb | ~ | The review is written like marketing copy - general praise of every feature - often with no time played. Round
+community.player-conduct.players-make-excuses-for-the-studio | - | Other players defend a missing feature or a studio decision, and the reviewer calls their explanations excuses
+publishing.price.worth-the-money-but-not-the-time | ~ | The reviewer frames the verdict as the game being worth its price but not, at present, worth the hours it asks
+production.craftsmanship.refuses-a-game-made-with-generative-ai | - | The reviewer will not support the game because some of it was made with generative AI, whatever its quality. *
+production.craftsmanship.so-bad-it-is-good | + | The reviewer enjoys the game because its faults are funny - so bad it is good. Closes gap 67.
+engineering.bugs.fixing-it-is-not-the-players-job | - | The reviewer says player-made fixes may exist and refuses to use them on principle - they paid for a game that

@@ -8835,6 +8835,46 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 418, backlog rows 421-440.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the single-sighting backlog - round 419 (Rule C)
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.checked-the-source-to-settle-a-claim` | ~ | The reviewer went back to the book, film or series itself - rewatched it, counted scenes - to settle a point argued in other reviews. Closes gap 232. |
+| `.asks-readers-for-help` | ~ | The reviewer uses the review to ask other players whether they know what is going on or how to fix a problem. **The inverse of `community.player-conduct.players-teach-each-other-the-fix`.** Closes gap 237. |
+| `.thumb-down-over-one-thing-in-a-game-they-love` | ~ | The reviewer calls the game great and gives a thumb down over a single named decision. **Distinct from `.thumb-contradicts-text`**, where we cannot tell which is meant; here the reviewer says why. Closes gap 264. |
+| `.points-to-a-video-to-make-the-case` | ~ | The reviewer points readers at a named video to show what the game is like, instead of describing it. Closes gap 266. |
+| `.apologises-for-their-own-writing` | ~ | The reviewer apologises for how their own writing reads - their English, or that it may sound machine-written. Closes gap 279. |
+| `.is-only-a-link` | ~ | The whole review is a link - to a screenshot, a page - with no claim in words. Closes gap 290. |
+| `.says-who-it-is-written-for` | ~ | The reviewer says up front which readers the review is meant for - newcomers, veterans. **Distinct from `.says-they-are-the-target-audience`**, which is about the game's audience. Closes gap 302. |
+| `.takes-a-side-in-a-dispute-between-players` | ~ | The review is about a public dispute between players, streamers or community staff, and takes a side, saying nothing about the game or the studio. **Distinct from `.the-controversy-drove-me-away`** and `.the-controversy-did-not-change-my-verdict`, which relate the dispute to the verdict. Closes gap 338. |
+| `.posted-under-both-games-in-the-series` | ~ | The reviewer says the same review text is posted under two games in a series, written after playing both. Round 342's note. |
+| `.reads-like-a-store-blurb` | ~ | The review is written like marketing copy - general praise of every feature - often with no time played. Round 341's note. |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.players-make-excuses-for-the-studio` | **−** | Other players defend a missing feature or a studio decision, and the reviewer calls their explanations excuses. Closes gap 254. |
+
+### `publishing.price`
+| Mode | | Definition |
+|---|---|---|
+| `.worth-the-money-but-not-the-time` | ~ | The reviewer frames the verdict as the game being worth its price but not, at present, worth the hours it asks for. Closes gap 269. |
+
+### `production.craftsmanship`
+| Mode | | Definition |
+|---|---|---|
+| `.refuses-a-game-made-with-generative-ai` | **−** | The reviewer will not support the game because some of it was made with generative AI, whatever its quality. **Records the objection, not whether it holds. Distinct from `.reads-as-machine-made`**, which is about how the game comes across. Closes gap 334. |
+| `.so-bad-it-is-good` | **+** | The reviewer enjoys the game because its faults are funny - so bad it is good. Closes gap 67. |
+
+### `engineering.bugs`
+| Mode | | Definition |
+|---|---|---|
+| `.fixing-it-is-not-the-players-job` | **−** | The reviewer says player-made fixes may exist and refuses to use them on principle - they paid for a game that works. **Distinct from `engineering.access.had-to-find-the-fix-yourself`**, where the player did. Round 339's note. |
+
+🔑 **Round 419, backlog rows 441-460.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
