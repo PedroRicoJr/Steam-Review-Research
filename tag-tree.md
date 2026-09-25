@@ -9105,6 +9105,52 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 427, Warframe batch 20.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 21 - round 428 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.threatened-a-player-with-legal-action` | **−** | The reviewer reports the studio threatening a player with legal action - for datamining, say - and says they lost respect for the studio over it. Warframe 33569966. |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.drifted-from-its-original-idea` | **−** | The reviewer says the game has moved away from the idea it started with - ninjas became four killing machines with area weapons, with little stealth left. Warframe 33569966. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-to-grow-one-character-instead-of-collecting` | **−** | The reviewer wants to pick one character and grow it, rather than farm many characters and reset them to reach full strength. Warframe 33937339. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.nags-you-to-take-a-break` | **−** | The game keeps reminding the player to take a break after an hour or so, and the reviewer resents it. Warframe 35357501. |
+| `.text-hard-to-read-on-the-background` | **−** | Text on a screen is hard to read against the background behind it. Warframe 32653861 (the junction requirements in orbit). |
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.puts-you-in-public-games-by-default` | **−** | A new player is put into public groups without being asked. **Distinct from `community.social-features.no-private-games`**, where private play does not exist. Warframe 35760206. |
+
+### `game-design.session-flexibility`
+| Mode | | Definition |
+|---|---|---|
+| `.the-next-mission-starts-without-asking` | **−** | A countdown sends the player into the next mission while they are still in menus, without asking. Warframe 35760206. |
+
+### `community.playing-with-friends`
+| Mode | | Definition |
+|---|---|---|
+| `.a-way-to-stay-in-touch` | **+** | The reviewer played to stay in touch with a friend who moved away. **Distinct from `.a-keepsake-of-someone-gone`**. Warframe 35556829. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.the-store-would-not-take-their-money` | **−** | The player tried to buy premium currency and the purchase page did not work. Warframe 33752996. |
+
+🔑 **Round 428, Warframe batch 21 (the first batch of 100).** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

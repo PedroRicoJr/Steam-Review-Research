@@ -1455,3 +1455,12 @@ game-design.progression.build-and-customisation.cannot-change-or-restart-your-ch
 game-design.progression.unlock-pace.a-blueprint-needs-materials-from-further-on | - | The game hands the player a recipe or blueprint whose materials only come from places several steps further on
 live-ops.patch-quality.new-content-is-filler | - | The reviewer calls the latest content filler, not worth coming back for. **Distinct from `.the-updates-add-to-
 community.playing-with-friends.start-together-rather-than-late | ~ | The reviewer advises friends to start the game together, because pulling a friend in once you are far ahead wo
+community.developer-communication.threatened-a-player-with-legal-action | - | The reviewer reports the studio threatening a player with legal action - for datamining, say - and says they l
+marketing.positioning.drifted-from-its-original-idea | - | The reviewer says the game has moved away from the idea it started with - ninjas became four killing machines 
+game-design.progression.build-and-customisation.wants-to-grow-one-character-instead-of-collecting | - | The reviewer wants to pick one character and grow it, rather than farm many characters and reset them to reach
+game-design.ui-ux.nags-you-to-take-a-break | - | The game keeps reminding the player to take a break after an hour or so, and the reviewer resents it. Warframe
+game-design.ui-ux.text-hard-to-read-on-the-background | - | Text on a screen is hard to read against the background behind it. Warframe 32653861 (the junction requirement
+game-design.co-op-design.puts-you-in-public-games-by-default | - | A new player is put into public groups without being asked. **Distinct from `community.social-features.no-priv
+game-design.session-flexibility.the-next-mission-starts-without-asking | - | A countdown sends the player into the next mission while they are still in menus, without asking. Warframe 357
+community.playing-with-friends.a-way-to-stay-in-touch | + | The reviewer played to stay in touch with a friend who moved away. **Distinct from `.a-keepsake-of-someone-gon
+publishing.monetisation-practice.the-store-would-not-take-their-money | - | The player tried to buy premium currency and the purchase page did not work. Warframe 33752996.
