@@ -10054,3 +10054,12 @@ No reviews read. Done in the 20:44 backstop firing (timer re-created as `1a12a51
 - **One mode built (Rule C):** `narrative.story.hard-to-follow` (−), from 234735996 ("the plot of this is insane and hard to follow" - they look up summaries after missions, and still like the story). `findphrase` found two earlier bullets that said only that the story was hard to follow, filed on `thin-or-forgettable`: Aliens: Fireteam Elite 120245711 and Redfall 138214279. Both re-homed. Redfall 167599060 ("short and sometimes hard to follow") and Warframe 29926757 (the gameplay, not the story) were left where they are.
 - **Crafting waits, both sides:** 232927942 and 235303375 want shorter crafting times (`gated-behind-real-world-time`); 234735996 says the waits help them pace themselves (`time-gating-does-not-get-in-the-way`).
 - **Next:** the Warframe findings files, then Escape from Duckov.
+
+## Notes - round 473 (Warframe findings, English page)
+
+No reviews read. Done in the 23:44 backstop firing (timer re-created as `f1d926a1`).
+
+- **Written:** `findings/warframe-english.md`. Weighted month and group stats built with `count.py --group warframe/english` (163 month files and the group file, committed with the page).
+- **New helper:** `scripts/findings_tables.py` computes the page's unweighted tables (header counts, divisions, top 20, complaints and praise per 100 by period, and the modes used in no other game). Every number on the page was checked against it or against a one-off script before the commit; nine claims in the first draft were wrong and were corrected (among them "the highest share in the queue" for edited reviews - Helldivers 2 is higher - and "101 used once", really 89). Quotes on the page are the reviewers' own words from `review_text.py`, not bullet paraphrases.
+- **Main findings:** the grind is the top complaint (264, 8.2 per 100) and 84% of those reviews are thumbs up; free-to-play is read as fair (501 fair bullets against 103 monetisation complaints); `warns-that-it-takes-over-your-life` (74) exists only here; reviews shrank from 67 words to 28 on average between 2013-15 and 2024-26, so per-100 rates across periods mostly measure length.
+- **Next:** `findings/warframe.md` and a numbered section in `findings/cross-game.md`, then mark GAMES-TODO row 5 Done.
