@@ -9786,3 +9786,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Three veterans' complaints, late 2020:** 77617354 (34 found it helpful; ~2,000 hours, over $1,000 spent), 78042569 (no endgame - "done everything" at 500-600 hours) and 79333729 (each update adds grind walls). Their claims went on existing modes: `made-it-worse`, `nerfs-what-players-liked`, `punishes-criticism`, `studio-politics-put-me-off`, `nothing-left-to-chase`, `progression-outgrows-the-challenge`, `the-studio-does-not-play-its-own-game`.
 - **A jab kept out:** 77614029 is a Spanish jab at a named person; not repeated.
 - **Multi-dated reviews flattened this batch:** 77201409 (2026), 78491375 (2026), 79682128 (2024), 81295435 (2023), 81292305, 81808415 (2022), 81806465 (2025).
+
+## Notes - round 444 (Warframe batch 37)
+
+50 read (2020-12-15 to 2021-02-21), 82 bullets, 0 excluded, 7 edited later. Running total 1,900 of 3,235. 45 up / 5 down. Tree 1,518 -> 1,519 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.64, 35 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 4.8 bullets each and 22 words per bullet, 20% of bullets on an `.unknown`. A short-review batch.
+- **Built (1):** `achievements.plenty-to-hunt` (+, 87189964: "nearly 200 achievements here for us hunters"; distinct from `a-fair-set-to-finish`).
+- **A hateful slogan kept out:** 85228376 says a permanent IP ban for chat posts, one of them a white-power hashtag, was too harsh; recorded on `heavy-handed-support` as the reviewer's claim, the slogan not repeated.
+- **Thumb against text:** 85230771 ("i love it" under a thumbs down).
+- **Multi-dated reviews flattened this batch:** 84753577 (2025), 85231539, 85721643 (2026), 85721575 (2026), 86169913 (2026), 86665990, 87189964 (2022).

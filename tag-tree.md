@@ -9478,6 +9478,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 443, Warframe batch 36.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 37 - round 444 (Rule C)
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.plenty-to-hunt` | **+** | The reviewer points achievement hunters to a large set of achievements as a reason to play. **Distinct from `.a-fair-set-to-finish`**, which is about how finishable the set is. Warframe 87189964 (nearly 200). |
+
+🔑 **Round 444, Warframe batch 37.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

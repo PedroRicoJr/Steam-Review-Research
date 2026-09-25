@@ -1516,3 +1516,4 @@ game-design.progression.unlock-pace.a-companion-needs-upkeep | - | A pet or comp
 localization.language-availability.my-language-is-missing | - | The reviewer asks for, or regrets the lack of, a translation into their own language. **Distinct from `.wrong-
 community.developer-communication.support-is-responsive | + | The reviewer praises the studio's support team as responsive in general, without one case to point to. **The o
 engineering.stability.less-stable-than-it-used-to-be | - | The game used to run without crashing on the player's machine and no longer does. Warframe 78491375 (a 2026 ed
+game-design.progression.achievements.plenty-to-hunt | + | The reviewer points achievement hunters to a large set of achievements as a reason to play. **Distinct from `.
