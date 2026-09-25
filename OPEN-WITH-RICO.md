@@ -18,7 +18,3 @@ remove it when Rico rules.
   unit, which wipes it (found on every firing since 2026-09-24). Only the hourly backstop survives, and a
   Routine cannot fire more often than hourly. Option: let each backstop firing do six units in a row,
   which matches the 10-minute pace. Waiting on Rico's word.
-- **Batch size: back to 100?** Batches went to 100 on 2026-09-25 and back to 50 after two batches, because
-  long reviews got fewer bullets (5.3 and 5.8, against 6.1-7.0 at 50). Batch 23, at 50, came out at 5.4
-  too, with the densest words-per-bullet yet (26), so the dip follows shorter long reviews in 2017-18,
-  not the batch size (round 430). The lost-review check works at either size. Waiting on Rico's word.
