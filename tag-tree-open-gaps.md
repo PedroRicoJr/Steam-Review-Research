@@ -9864,3 +9864,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Real-time events that ignore your schedule:** 119850397 (4,121 hours) - overnight invasions, day-night cycles and a visiting trader "care not about your schedule"; filed on `content-expires-if-you-miss-it` rather than a new mode, since that mode already covers rewards missed while away.
 - **Crude and personal text kept out:** 119350247 and 120249211 (crude jokes); 117427439 opens with a personal remark, recorded only as "a personal joke".
 - **Multi-dated reviews flattened this batch:** 116305093 (2026), 117427439 (2025), 117960928 (2024), 117957402 (2024), 117954345 (2023), 118417601 (2023).
+
+## Notes - round 452 (Warframe batch 45)
+
+50 read (2022-08-15 to 2022-10-23), 95 bullets, 0 excluded, 13 edited later. Running total 2,300 of 3,235. 42 up / 8 down. Tree 1,530 -> 1,531 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.90, 31 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 4.9 bullets each and 41 words per bullet, 18% of bullets on an `.unknown`.
+- **Built (1):** `patch-quality.takes-risks-with-new-mechanics` (+, 122298896: "Rather than release simple same-y content they take risks and add in new gamemodes and mechanics").
+- **Late-2022 veterans turn:** 122655394 (a 2025 edit; builds narrowed by nerfs, an event that did not pay out for a week, an update shipped near-unplayable), 122655057 (no endgame, bullet-sponge archons; a 2023 edit on Duviri) and 123509408 (recycled open worlds, a grind built to sell skips - the third file for `frustration-is-built-to-sell-shortcuts`). 124296514 answers them from the other side: negative reviews are review-bombing after exploits were patched (`judged-unfairly`).
+- **Copied and dark text kept out:** 124297245 is a copied list of diseases, some entries offensive (`review.repeats-a-copied-meme-text`); 121138608 (117 found it helpful) is a dark joke.
+- **Multi-dated reviews flattened this batch:** 120699376, 121137406 (2024), 121135877 (2024), 121134626 (2024), 121547541 (2024), 121546068 (2024), 121903930, 122656431 (2023), 122655394 (2025), 122655057 (2023), 122654108 (2023), 123106205 (2024), 123503056 (2023).

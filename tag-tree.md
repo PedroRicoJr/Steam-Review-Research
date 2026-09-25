@@ -9563,6 +9563,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 450, Warframe batch 43.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 45 - round 452 (Rule C)
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.takes-risks-with-new-mechanics` | **+** | Rather than safe, same-again content, updates try new modes and mechanics that shake the game up, even if they launch rough. **Distinct from `.new-systems-build-on-the-old`**, which is about fitting with what exists. Warframe 122298896. |
+
+🔑 **Round 452, Warframe batch 45.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
