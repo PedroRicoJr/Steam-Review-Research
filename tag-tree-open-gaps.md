@@ -10008,3 +10008,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Gacha weariness:** 206154005 prefers a grind where work, not luck, gets you there; on `randomness.the-best-gear-is-not-left-to-chance`.
 - **`my-language-is-missing` got its second file:** 209888008 (in Arabic) asks for Arabic and chat translation - the same request as 72755464 in round 442.
 - **A slur kept out:** 208089772, banned for 10 years for one slur (masked by Steam), on `heavy-handed-support` as the reviewer's claim.
+
+## Notes - round 468 (Warframe batch 61)
+
+50 read (2025-12-15 to 2026-02-21), 73 bullets, 0 excluded, 0 edited later. Running total 3,100 of 3,235. 44 up / 6 down. Tree unchanged at 1,540. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 18:44 backstop firing (timer re-created as `6073ed5a`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.46, 37 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 3.1 bullets each and 35 words per bullet, 32% of bullets on an `.unknown`.
+- **Being carried overwhelms:** 217817555 advises starting at your own pace rather than being taxied by a keen friend; on `learn-it-alone-before-joining-others`, the reverse of the many `needs-carrying` bullets.
+- **A slur kept out:** 216644779 is one crude line with a slur; not repeated.
+- **The newest reviews:** this batch reaches February 2026; two batches remain (50, then 35).
