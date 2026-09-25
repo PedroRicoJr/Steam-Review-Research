@@ -9606,3 +9606,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **The long-lived edit:** 29767685 (8,559 hours) keeps dated entries from 2016 to September 2025 in one review; flattened to twelve bullets, the later ones marked by year. It answers the patch "meltdown reviews" as irrelevant by the next day, when the studio has fixed the cause (`review.answers-a-claim-made-in-another-review` and `fixes-come-within-hours`).
 - **Balance from one veteran's own loadout:** 29614667 (2024 edit) agrees the difficulty has gone and explosive weapons are the meta, and then shows non-meta single-target weapons clearing late-game content solo (`no-build-is-required`).
 - **Multi-dated reviews flattened this batch:** 28883335 (2019), 29100854 (2018), 29285871 (2020), 29285778 (2017), 29450135 (2026), 29449797 (2018), 29614667 (2024), 29614210 (2019), 29767685 (2016-2025), 29929057 (2020), 30089407 (2024), 30087994 (2025), 30249205 (2017).
+
+## Notes - round 427 (Warframe batch 20)
+
+50 read (2017-03-15 to 2017-05-23), 126 bullets, 0 excluded, 11 edited later. Running total 1,000 of 3,235. 46 up / 4 down. 18 bullets on an `.unknown`. Tree 1,451 -> 1,457 (6 modes, built on first sighting under Rule C).
+
+- **Built (6):** art.effects-and-gore - `.plenty-of-gore` (+, 31164512, the twin of `too-little-gore`), `.warns-younger-players-about-the-blood` (~, 30532364, written by an almost-12-year-old). `build-and-customisation.cannot-change-or-restart-your-character` (-, 31006252). `unlock-pace.a-blueprint-needs-materials-from-further-on` (-, 31005284: a blueprint bought early needs materials from two planets on). `live-ops.patch-quality.new-content-is-filler` (-, 31775063). `playing-with-friends.start-together-rather-than-late` (~, 30863966).
+- **One mode built and taken back in the same round:** `audio.voice-performance.flat-and-bland` was written for 31005284 ("the voice acting is bland"), then removed before any bullet used it, because `.badly-acted` already names flat delivery. The bullet sits on `.badly-acted`.
+- **The longest crafting account so far:** 31005284 works out about 90 hours from starting the Rhino hunt to owning the frame - 12 boss runs, 3 hours for a missing material, 12-hour parts, a 3-day build - and praises parallel crafting in the same breath.
+- **Controllers recommended twice** (30695020 "murder on your hands" without one, 31614170) on `controls.one-input-device-is-the-better-way`.
+- **A missing review caught before writing:** the first dry run had 49 of 50; 31005752 (the single letter "r") had been left out and was added before the batch was written.
+- **Multi-dated reviews flattened this batch:** 30694905 (2017), 30863886 (2020), 30863849 (2017), 31307741 (2022), 31474993 (2019), 31474395 (2026), 31612985 (2022), 31612764 (2024), 31777872 (2019), 31924032 (2017), 31923805 (2024).

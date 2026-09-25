@@ -1449,3 +1449,9 @@ game-design.role-design.some-characters-are-hard-to-master | - | The reviewer li
 narrative.story.lost-on-new-players | - | The reviewer says a part of the story will make no sense to someone new to the game, because it leans on what 
 live-ops.patch-quality.each-update-brings-new-bugs | - | Every release brings new or returning bugs, and can leave the game unplayable for a day or two. **Distinct fro
 game-design.game-feel.combat.projectiles-too-slow-to-hit | - | Arrows or other projectiles travel so slowly that the targets - other players, fast enemies - move out of the 
+art.effects-and-gore.plenty-of-gore | + | The reviewer names the amount of gore as part of the appeal. **The twin of `.too-little-gore`.** Warframe 3116
+art.effects-and-gore.warns-younger-players-about-the-blood | ~ | The reviewer warns younger players, or anyone afraid of blood, about the gore. **Deliberately neutral**: a war
+game-design.progression.build-and-customisation.cannot-change-or-restart-your-character | - | The player wants to change their character or start it over, and the game does not allow it. Warframe 31006252
+game-design.progression.unlock-pace.a-blueprint-needs-materials-from-further-on | - | The game hands the player a recipe or blueprint whose materials only come from places several steps further on
+live-ops.patch-quality.new-content-is-filler | - | The reviewer calls the latest content filler, not worth coming back for. **Distinct from `.the-updates-add-to-
+community.playing-with-friends.start-together-rather-than-late | ~ | The reviewer advises friends to start the game together, because pulling a friend in once you are far ahead wo

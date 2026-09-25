@@ -9074,6 +9074,37 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 426, Warframe batch 19.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 20 - round 427 (Rule C)
+
+### `art.effects-and-gore`
+| Mode | | Definition |
+|---|---|---|
+| `.plenty-of-gore` | **+** | The reviewer names the amount of gore as part of the appeal. **The twin of `.too-little-gore`.** Warframe 31164512. |
+| `.warns-younger-players-about-the-blood` | ~ | The reviewer warns younger players, or anyone afraid of blood, about the gore. **Deliberately neutral**: a warning, not a verdict. Warframe 30532364. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-change-or-restart-your-character` | **−** | The player wants to change their character or start it over, and the game does not allow it. Warframe 31006252. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.a-blueprint-needs-materials-from-further-on` | **−** | The game hands the player a recipe or blueprint whose materials only come from places several steps further on, so they cannot use what they were given. Warframe 31005284. |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.new-content-is-filler` | **−** | The reviewer calls the latest content filler, not worth coming back for. **Distinct from `.the-updates-add-to-what-i-did-not-come-for`**, which is about where the updates go. Warframe 31775063. |
+
+### `community.playing-with-friends`
+| Mode | | Definition |
+|---|---|---|
+| `.start-together-rather-than-late` | ~ | The reviewer advises friends to start the game together, because pulling a friend in once you are far ahead works less well. Warframe 30863966. |
+
+🔑 **Round 427, Warframe batch 20.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
