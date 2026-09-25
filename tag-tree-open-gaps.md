@@ -9962,3 +9962,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (2):** `enemy-design.the-bosses-are-a-highlight` (+, 177610560; the other side of `bosses-are-a-chore`). `session-flexibility.a-quest-will-not-let-you-leave` (-, 179092523: locked into a New War boss fight with no way back out).
 - **A slur kept out:** 175061525 (5 found it helpful) was permanently hardware-banned for one slur and calls it too harsh; recorded as "a slur", on `heavy-handed-support` as the reviewer's claim. 175061608 and 177126645 name staff; names left out.
 - **"NO FOMO":** 176120442 says the game invites you back without punishing absence; on `missed-content-comes-back`, against 119850397's opposite view in round 451.
+
+## Notes - round 463 (Warframe batch 56)
+
+50 read (2024-11-30 to 2025-02-07), 87 bullets, 0 excluded, 5 edited later. Running total 2,850 of 3,235. 47 up / 3 down. Tree unchanged at 1,537. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 13:44 backstop firing; the timer had died with the session again (re-created as `70ccb788`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.74, 32 of 50 reviews 15 words or fewer, 11 reviews over 60 words at 4.0 bullets each and 42 words per bullet, 18% of bullets on an `.unknown`.
+- **1999, both ways:** 182855307 calls the 1999 update amazing (`the-story-got-better-over-time`); 183520758 calls its story boring and wanted a way to skip it (`the-story-got-worse-over-time`, `cannot-skip-what-the-game-plays-at-you`).
+- **Round 462's `a-quest-will-not-let-you-leave` got its second file** one batch after it was built: 185677091, a 2026 update's mission with no end trigger. `player-made-cosmetics-sold-in-the-shop` got its second (185676280).
+- **Copied text kept out:** 184374099 is the same copied disease list as 124297245 (round 452).
