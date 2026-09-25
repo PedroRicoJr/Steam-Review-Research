@@ -9894,3 +9894,10 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (1):** `characters-writing.a-romance-system-feels-out-of-place` (-, 133831654, a 2025 edit: "adding a dating sim into a space ninjas game is weird and corny").
 - **The learning wall costs players:** 133831654 says most of their friends will not even try it because of "its insane learning wall and grinding"; the second file for round 439's `the-grind-drives-off-casual-players`.
 - **Multi-dated reviews flattened this batch:** 132390362 (2025), 133330147 (2025), 133831654 (2025), 133829384 (2024), 134268085 (2024).
+
+## Notes - round 455 (Warframe batch 48)
+
+50 read (2023-03-31 to 2023-06-07), 63 bullets, 0 excluded, 6 edited later. Running total 2,450 of 3,235. 44 up / 6 down. Tree unchanged at 1,533. Lost-review check: all 50 on the first dry run; `--gaps` none. **First of three batches run back to back on Rico's word (2026-09-25), so he can read the usage cost per batch; the 5-minute timer was stopped for the test.**
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.26, 33 of 50 reviews 15 words or fewer, 2 reviews over 60 words at 2.5 bullets each, 30% of bullets on an `.unknown`. A one-liner batch; one of the two long reviews (139343396) is a single complaint (a country ban) and takes one bullet.
+- **Country bans:** 139343396 says the studio banned their country and bans VPN use; the second `not-sold-in-my-country` file in four rounds (129126831 in round 453).
