@@ -9971,3 +9971,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **1999, both ways:** 182855307 calls the 1999 update amazing (`the-story-got-better-over-time`); 183520758 calls its story boring and wanted a way to skip it (`the-story-got-worse-over-time`, `cannot-skip-what-the-game-plays-at-you`).
 - **Round 462's `a-quest-will-not-let-you-leave` got its second file** one batch after it was built: 185677091, a 2026 update's mission with no end trigger. `player-made-cosmetics-sold-in-the-shop` got its second (185676280).
 - **Copied text kept out:** 184374099 is the same copied disease list as 124297245 (round 452).
+
+## Notes - round 464 (Warframe batch 57)
+
+50 read (2025-02-14 to 2025-04-22), 64 bullets, 0 excluded, 7 edited later. Running total 2,900 of 3,235. 46 up / 4 down. Tree 1,537 -> 1,539 (2 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 14:44 backstop firing (timer re-created as `bd837e06`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.28, 33 of 50 reviews 15 words or fewer, 2 reviews over 60 words at 4.0 bullets each and 32 words per bullet, 28% of bullets on an `.unknown`.
+- **Built (2):** `narrative.story.an-early-quest-spoils-the-late-game` (-, 193372202: do not play The Duviri Paradox before The New War). `review.the-game-helped-them-through-a-hard-time` (~, 188450299: "Genuinely pulled me out of depression"). **A tree-format catch:** under a bare `### \`review\`` heading the mode must carry its full name (`review.xxx`), not a leading dot; the first write was refused as "tag not in the tree" until the row was fixed.
+- **A portrayal complaint:** 191682080 says one quest's autistic character is portrayed close to mocking; on `mental-health-portrayal.portrayed-as-a-stereotype`. Its dark joke about despair is not repeated.
+- **A slur kept out:** 187917592 insults the fans and uses a slur about the developers; recorded as such on `the-fanbase-puts-me-off`.
+- **`story-missions-must-be-played-alone` got its third file** (189002139: "The entire game should be playable with multiple people").

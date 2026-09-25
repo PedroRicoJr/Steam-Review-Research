@@ -9628,6 +9628,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 462, Warframe batch 55.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 57 - round 464 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.an-early-quest-spoils-the-late-game` | **−** | A quest the game lets a new player reach early gives away twists from late in the story, so the reviewer warns newcomers to hold off. **Distinct from `.spoils-the-earlier-game`**, which is about a sequel spoiling its predecessor. Warframe 193372202 (The Duviri Paradox before The New War). |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `review.the-game-helped-them-through-a-hard-time` | **~** | The reviewer says the game helped them personally through a hard period - depression, loss, isolation. A statement about the reviewer's life, not a design verdict. Warframe 188450299. |
+
+🔑 **Round 464, Warframe batch 57.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
