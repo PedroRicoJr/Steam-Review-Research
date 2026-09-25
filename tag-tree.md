@@ -9583,6 +9583,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 453, Warframe batch 46.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 47 - round 454 (Rule C)
+
+### `narrative.characters-writing`
+| Mode | | Definition |
+|---|---|---|
+| `.a-romance-system-feels-out-of-place` | **−** | The reviewer finds a dating or romance system at odds with the rest of the game - weird or corny in an action game. Warframe 133831654 (a 2025 edit). |
+
+🔑 **Round 454, Warframe batch 47.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

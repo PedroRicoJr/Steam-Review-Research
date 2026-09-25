@@ -9885,3 +9885,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Hateful text kept out:** 127658275 (a 2025 edit on the 1999 update) describes the new cast with ethnic stereotypes and a slur, and the skins in sexualised terms; its points went on `drifted-from-its-original-idea`, `the-cast-is-built-to-titillate`, `flat-or-annoying` and `the-story-got-worse-over-time` without the wording.
 - **A reviewer's channel:** 130389710 names their own streaming channel and offers a referral link; on `promotes-the-reviewers-own-stream-channel`, the name left out.
 - **Multi-dated reviews flattened this batch:** 125128367 (2025), 125543405 (2023), 127658275 (2025), 128631802 (2026), 128631760 (2023), 129130794 (2024), 129814247 (2024), 130389710 (2025).
+
+## Notes - round 454 (Warframe batch 47)
+
+50 read (2023-01-15 to 2023-03-23), 72 bullets, 0 excluded, 5 edited later. Running total 2,400 of 3,235. 45 up / 5 down. Tree 1,532 -> 1,533 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.44, 40 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 5.0 bullets each and 30 words per bullet, 32% of bullets on an `.unknown`. A one-liner batch.
+- **Built (1):** `characters-writing.a-romance-system-feels-out-of-place` (-, 133831654, a 2025 edit: "adding a dating sim into a space ninjas game is weird and corny").
+- **The learning wall costs players:** 133831654 says most of their friends will not even try it because of "its insane learning wall and grinding"; the second file for round 439's `the-grind-drives-off-casual-players`.
+- **Multi-dated reviews flattened this batch:** 132390362 (2025), 133330147 (2025), 133831654 (2025), 133829384 (2024), 134268085 (2024).

@@ -1530,3 +1530,4 @@ community.social-features.groups-break-up-after-each-mission | - | Teaming up la
 publishing.monetisation-practice.currency-packs-leave-you-just-short | - | The premium currency is sold in amounts that never match shop prices - just too little or a bit too much - nud
 live-ops.patch-quality.takes-risks-with-new-mechanics | + | Rather than safe, same-again content, updates try new modes and mechanics that shake the game up, even if they
 community.player-conduct.no-cheaters-seen | + | The reviewer says that in a long time playing they have never met a hacker or cheater. **The other side of `.c
+narrative.characters-writing.a-romance-system-feels-out-of-place | - | The reviewer finds a dating or romance system at odds with the rest of the game - weird or corny in an action 
