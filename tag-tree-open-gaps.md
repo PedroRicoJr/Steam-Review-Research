@@ -9908,5 +9908,5 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.94, 32 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 6.1 bullets each and 26 words per bullet, 23% of bullets on an `.unknown`.
 - **Built (1):** `social-features.no-way-to-kick-a-griefer` (-, 140124605: "This is the first ever online multiplayer game i run into that has no kick option").
-- **`sprawling-to-a-fault` reached six files** (fifth and sixth: 143173707, "too big for it's own good", and 140124605's hundred-plus single-use resources; 144884402's "convoluted currencies" is a seventh bullet). It has become one of the most repeated Warframe complaints since round 447.
+- **`sprawling-to-a-fault` reached seven files** (this batch added three: 143173707, "too big for it's own good"; 140124605's hundred-plus single-use resources; 144884402's "convoluted currencies"). It has become one of the most repeated Warframe complaints since round 447.
 - **Crude text kept out:** 144884402's 2026 label for the game is recorded only as "a skin simulator aimed at titillation".
