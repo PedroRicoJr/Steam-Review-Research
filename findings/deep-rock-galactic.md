@@ -76,7 +76,7 @@ weight of eight years of criticism.
 | 8 | `live-ops.patch-quality.made-it-worse` | **8** | 0.4 |
 | 9 | `game-design.progression.build-and-customisation.shallow-options` | **8** | 0.4 |
 | 10 | `game-design.power-balance.some-options-are-useless` | **8** | 0.4 |
-| 11 | `review.thumb-contradicts-text` | **7** | 0.3 |
+| 11 | ~~`review.thumb-contradicts-text`~~ (neutral, not a complaint - see note) | **7** | 0.3 |
 | 12 | `publishing.sale-dependency.buy-on-sale-only` | **7** | 0.3 |
 | 13 | `marketing.reputation.praise-is-undeserved` | **7** | 0.3 |
 | 14 | `game-design.level-design.confusing-layout` | **7** | 0.3 |
@@ -91,6 +91,8 @@ weight of eight years of criticism.
 | 23 | `game-design.power-balance.resources-too-scarce` | **5** | 0.2 |
 | 24 | `game-design.game-feel.combat.weightless` | **5** | 0.2 |
 | 25 | `game-design.enemy-design.variety-lacking` | **5** | 0.2 |
+
+*Correction, round 470:* `review.thumb-contradicts-text` is a neutral tag (the thumb and the words disagree). A bug in `summarise.py card` carried it as a complaint until round 470, so it was counted here. It is struck out, not replaced, and the table above was not re-ranked.
 
 **The top five hold together as one statement.** It gets repetitive · it punishes you alone · you
 need a group · there is not enough of it · the unlocks are a grind. **Every one of them is about

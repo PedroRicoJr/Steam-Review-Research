@@ -10026,3 +10026,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **One area eats the game:** 222214699 says the resources, new missions, faction and even the holiday event all sit in Deimos, so 98% of their time is spent there; on `every-reward-comes-from-the-same-missions` (its second file) and `one-area-drags-the-rest-down`.
 - **Forced two-factor sign-in:** 223876778 was locked out of their own things when it was forced on them; on `locked-out-of-my-own-account`.
 - **Card bug found, not yet fixed:** `summarise.py card` gives every full-name `review.*` row a **-** unless the name holds `.positive`, ignoring the row's own mark. So `review.thumb-contradicts-text` (marked ~ in the tree, 65 files) and `review.the-game-helped-them-through-a-hard-time` (marked ~, 1 file) are carried as (bad). `dircheck` agrees with the card, so it cannot see this. The fix is its own unit next.
+
+## Notes - round 470 (card fix: neutral `review.*` tags)
+
+No reviews read. Done in the 20:44 backstop firing (timer re-created as `1a12a51c`).
+
+- **The bug:** `summarise.py card` gave every `review.*` row written with its full name a **-** unless the name held `.positive`, ignoring the row's own mark. `dircheck` reads the card, so it could not see it.
+- **The fix:** the card now takes the row's own mark, and an empty mark counts as neutral, as in a mode row. Exactly four tags changed from - to ~: `review.thumb-contradicts-text`, `review.reviewer-wanted-a-neutral-option`, `review.written-for-a-reward` (all three say in the tree that they are left out of directional counts) and `review.the-game-helped-them-through-a-hard-time`. `review.thumb-is-a-protest-vote` stays -, as its row says.
+- **Re-marked:** 108 bullets in 108 files, from (bad) to (~), across 17 games (Warframe 22, Deep Rock Galactic 11, DRG: Rogue Core 11, Risk of Rain 2 9, and fewer elsewhere). `dircheck` showed 108 disagreements after the card fix and 0 after the re-mark.
+- **Findings touched:** `review.thumb-contradicts-text` sat on the ranked complaint list in `findings/deep-rock-galactic.md` (#11), `findings/risk-of-rain-2.md` (#14) and `findings/risk-of-rain-2-english.md` (#14). Each row is struck out with a correction note under the table; the tables were not re-ranked.

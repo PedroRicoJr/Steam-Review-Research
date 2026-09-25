@@ -258,7 +258,7 @@ game-design.punishment-model.one-retry-only | - | A single failure ends the whol
 game-design.punishment-model.unknown | ~ | The cost of failing is raised, no mode given.
 review.positive.unknown | + | Thumbs up, and the reviewer named nothing.
 review.negative.unknown | - | Thumbs down, and the reviewer named nothing.
-review.thumb-contradicts-text | - | **The thumb and the words disagree and we cannot tell which is meant.**
+review.thumb-contradicts-text | ~ | **The thumb and the words disagree and we cannot tell which is meant.**
 game-design.progression.build-and-customisation.changes-how-you-play | + | Build choices genuinely alter play, not just numbers.
 game-design.progression.build-and-customisation.deep-and-varied | + | Many viable builds to explore.
 game-design.progression.build-and-customisation.shallow-options | - | Customisation exists but barely changes anything.
@@ -620,7 +620,7 @@ game-design.difficulty-tuning.all-content-at-any-difficulty | + | Nothing is loc
 game-design.co-op-design.scales-to-the-number-of-players | + | The game adjusts to however many people are in the session, so a short-handed group is not punished for it. **
 game-design.session-flexibility.you-choose-when-to-stop | + | The player decides when a run ends rather than the design deciding for them. **Distinct from `.good-in-short-s
 live-ops.patch-quality.the-game-keeps-changing-under-you | - | Changes arrive often enough that what the player learned, built or liked stops being true, so nothing settles.
-review.reviewer-wanted-a-neutral-option | - | The reviewer says the thumb misrepresents them and they would have chosen neutral if the store offered it. **D
+review.reviewer-wanted-a-neutral-option | ~ | The reviewer says the thumb misrepresents them and they would have chosen neutral if the store offered it. **D
 game-design.session-flexibility.cannot-save-and-come-back | - | A run has to be finished in one sitting; there is no way to put it down and return to it. **Distinct from `.ca
 game-design.pacing.a-game-you-can-unwind-to | + | Play is calm enough that the player uses the game to relax rather than to be tested, and says so. **Distinct f
 marketing.reputation.unlike-anything-else | + | The reviewer says nothing else plays like it. **The inverse of `.derivative-of-an-older-game`**, and the posit
@@ -636,7 +636,7 @@ narrative.world-and-setting.gets-its-subject-right | + | Someone with real knowl
 audio.voice-performance.voices-do-not-fit-the-characters | - | The delivery or accent does not match who the characters are meant to be. **Distinct from `.grating-or-repetit
 community.population.the-good-players-left | - | The skilled or committed part of the player base has gone and what remains is not who the player wants to play
 game-design.co-op-design.little-room-to-ruin-it-for-others | + | The design gives a hostile player almost nothing to work with, so griefing is difficult. **The answer to `frie
-review.written-for-a-reward | - | The reviewer says they wrote the review to earn something — an in-game item, a badge, a giveaway entry — rathe
+review.written-for-a-reward | ~ | The reviewer says they wrote the review to earn something — an in-game item, a badge, a giveaway entry — rathe
 game-design.game-feel.movement.rewards-mastery | + | The movement has depth the player keeps finding, so getting better at moving is its own reward. **Distinct fro
 game-design.new-player-experience.non-gamers-can-play-it | + | Someone who does not play games picked it up and enjoyed it. **Distinct from `.easy-to-start`**, which is abou
 game-design.progression.unlock-pace.you-can-put-it-down-and-come-back | + | Time away costs nothing; there is no moving target to fall behind. **The answer to `.content-expires-if-you-mi
@@ -1536,5 +1536,5 @@ live-ops.patch-quality.the-early-game-was-left-behind | - | Updates pile on new 
 game-design.enemy-design.the-bosses-are-a-highlight | + | The reviewer singles out the boss fights as one of the best things in the game. **The other side of `.bosses-a
 game-design.session-flexibility.a-quest-will-not-let-you-leave | - | Once inside a quest mission the player cannot back out, and quitting the game sends them to the start of the q
 narrative.story.an-early-quest-spoils-the-late-game | - | A quest the game lets a new player reach early gives away twists from late in the story, so the reviewer warns
-review.the-game-helped-them-through-a-hard-time | - | The reviewer says the game helped them personally through a hard period - depression, loss, isolation. A state
+review.the-game-helped-them-through-a-hard-time | ~ | The reviewer says the game helped them personally through a hard period - depression, loss, isolation. A state
 community.developer-communication.the-developers-play-their-own-game | + | The reviewer says the studio's own staff play the game, and credits that for decisions that suit players. **Th

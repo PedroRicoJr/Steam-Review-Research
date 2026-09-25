@@ -44,9 +44,11 @@ def build_card():
         mode = re.match(r"^\| `(\.[a-z0-9\-\.]+)` \| *(\*\*[+−]\*\*|~)? *\| ?(.+?) *\|$", line)
         subj = re.match(r"^\| `([a-z][a-z0-9\-\.]+)` \| (.+?) \|$", line)
         if subj and subj.group(1).startswith("review."):
+            # The row's own mark sets the direction; an empty mark is neutral, as in a mode row.
+            m = re.match(r"^\**([+−~]?)\**\s*\|", subj.group(2).strip())
+            v = {"+": "+", "−": "-"}.get(m.group(1) if m else "", "~")
             d = re.sub(r"^\**[+−~]?\**\s*\|\s*", "", subj.group(2).strip())
-            lines.append("%s | %s | %s" % (subj.group(1),
-                          "+" if ".positive" in subj.group(1) else "-", d[:110]))
+            lines.append("%s | %s | %s" % (subj.group(1), v, d[:110]))
             continue
         if mode and parent:
             v = {"**+**": "+", "**−**": "-"}.get(mode.group(2) or "~", "~")

@@ -167,7 +167,7 @@ Per 100 reviews in each period: EA = 2019-03 to 2020-07 (364 read), V1 = 2020-08
 | 11 | `publishing.sale-dependency.buy-on-sale-only` | **6** | 0.3 | 0.3 | 0.3 | 0.4 | 0.8 | 0.0 |
 | 12 | `game-design.randomness.the-thing-you-need-may-never-roll` | **6** | 0.3 | 0.0 | 0.5 | 0.0 | 0.8 | 0.5 |
 | 13 | `game-design.difficulty-tuning.too-easy` | **6** | 0.3 | 0.0 | 0.3 | 0.2 | 0.0 | **1.0** |
-| 14 | `review.thumb-contradicts-text` | **6** | 0.3 | 0.0 | 0.0 | 0.4 | 0.4 | 0.7 |
+| 14 | ~~`review.thumb-contradicts-text`~~ (neutral, not a complaint - see note) | **6** | 0.3 | 0.0 | 0.0 | 0.4 | 0.4 | 0.7 |
 | 15 | `publishing.dlc-and-editions.dlc-not-worth-it` | **6** | 0.3 | 0.0 | 0.0 | 0.0 | **1.2** | 0.7 |
 | 16 | `game-design.randomness.luck-decides-the-outcome` | **5** | 0.3 | 0.8 | 0.0 | 0.2 | 0.0 | 0.2 |
 | 17 | `game-design.progression.unlock-pace.grindy` | **5** | 0.3 | 0.3 | 0.3 | 0.6 | 0.0 | 0.0 |
@@ -177,6 +177,8 @@ Per 100 reviews in each period: EA = 2019-03 to 2020-07 (364 read), V1 = 2020-08
 | 21 | `engineering.stability.a-crash-loses-the-run` | **4** | 0.2 | 0.3 | 0.3 | 0.2 | 0.0 | 0.2 |
 | 22 | `game-design.progression.unlock-pace.nothing-left-to-chase` | **4** | 0.2 | 0.0 | 0.3 | 0.2 | 0.8 | 0.0 |
 | 23 | `game-design.new-player-experience.poorly-explained` | **4** | 0.2 | 0.0 | 0.0 | 0.0 | 0.0 | **1.0** |
+
+*Correction, round 470:* `review.thumb-contradicts-text` is a neutral tag (the thumb and the words disagree). A bug in `summarise.py card` carried it as a complaint until round 470, so it was counted here. It is struck out, not replaced, and the table above was not re-ranked.
 
 **The top complaint is a thumbs-down with nothing attached** — *no*, *bad*, *gyat*, *go away* — and
 it doubles in 2024. **Nothing in this game reaches 1 per 100 over the whole sample.** For scale,

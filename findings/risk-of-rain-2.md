@@ -96,7 +96,7 @@ story is praised twelve times and argued with never.
 | 11 | `publishing.sale-dependency.buy-on-sale-only` | **6** | 0.3 |
 | 12 | `game-design.randomness.the-thing-you-need-may-never-roll` | **6** | 0.3 |
 | 13 | `game-design.difficulty-tuning.too-easy` | **6** | 0.3 |
-| 14 | `review.thumb-contradicts-text` | **6** | 0.3 |
+| 14 | ~~`review.thumb-contradicts-text`~~ (neutral, not a complaint - see note) | **6** | 0.3 |
 | 15 | `publishing.dlc-and-editions.dlc-not-worth-it` | **6** | 0.3 |
 | 16 | `game-design.randomness.luck-decides-the-outcome` | **5** | 0.3 |
 | 17 | `game-design.progression.unlock-pace.grindy` | **5** | 0.3 |
@@ -106,6 +106,8 @@ story is praised twelve times and argued with never.
 | 21 | `engineering.stability.a-crash-loses-the-run` | **4** | 0.2 |
 | 22 | `game-design.progression.unlock-pace.nothing-left-to-chase` | **4** | 0.2 |
 | 23 | `game-design.new-player-experience.poorly-explained` | **4** | 0.2 |
+
+*Correction, round 470:* `review.thumb-contradicts-text` is a neutral tag (the thumb and the words disagree). A bug in `summarise.py card` carried it as a complaint until round 470, so it was counted here. It is struck out, not replaced, and the table above was not re-ranked.
 
 **299 complaint bullets in 1,885 reviews, 173 of them from recommenders (57.9%).** The list is the
 shape of the complaints, not their size: half the table is a mode seen four to six times. **Rows 4,
