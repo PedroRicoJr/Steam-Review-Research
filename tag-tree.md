@@ -9668,6 +9668,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 471, Warframe batch 63.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 64 - round 472 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.hard-to-follow` | **−** | The reviewer says the story is hard to follow as the game tells it - what happened, and why - whether or not they like it, sometimes sending readers to outside summaries. **Distinct from `.thin-or-forgettable`** (the story does not land), **`.kept-cryptic-on-purpose`** (neutral: unclear by design), `.lost-on-new-players` (one part, for newcomers) and `.makes-sense-only-if-you-know-the-source`. Warframe 234735996; earlier on `.thin-or-forgettable` as Aliens: Fireteam Elite 120245711 and Redfall 138214279, re-homed here. |
+
+🔑 **Round 472, Warframe batch 64.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -10045,3 +10045,12 @@ No reviews read. Done in the 20:44 backstop firing (timer re-created as `1a12a51
 - **Objections to LGBT and pride content:** 227451116 (up) and 231159701 (down) on `studio-politics-put-me-off`, as earlier pride complaints were. 231159701's line about the players this content attracts is recorded as a jab, on `the-fanbase-puts-me-off`, and not repeated.
 - **Hours off-Steam:** 229280705 and 229893968 say their Steam hours are only part of their time; on `says-the-recorded-playtime-is-wrong`.
 - **One batch left:** 35 reviews (batch 64), then the Warframe findings.
+
+## Notes - round 472 (Warframe batch 64, the last)
+
+35 read (2026-07-31 to 2026-09-15), 72 bullets, 0 excluded, 0 edited later. Running total 3,235 of 3,235: **Warframe is fully read.** 34 up / 1 down. Tree 1,542 -> 1,543. Lost-review check: all 35 on the first dry run; `--gaps` none. Done in the 22:44 backstop firing (timer re-created as `80d1d194`).
+
+- **Quality at 35:** from `scripts/batch_quality.py`: bullets per review 2.06, 24 of 35 reviews 15 words or fewer, 4 reviews over 60 words at 5.8 bullets each and 32 words per bullet, 22% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `narrative.story.hard-to-follow` (−), from 234735996 ("the plot of this is insane and hard to follow" - they look up summaries after missions, and still like the story). `findphrase` found two earlier bullets that said only that the story was hard to follow, filed on `thin-or-forgettable`: Aliens: Fireteam Elite 120245711 and Redfall 138214279. Both re-homed. Redfall 167599060 ("short and sometimes hard to follow") and Warframe 29926757 (the gameplay, not the story) were left where they are.
+- **Crafting waits, both sides:** 232927942 and 235303375 want shorter crafting times (`gated-behind-real-world-time`); 234735996 says the waits help them pace themselves (`time-gating-does-not-get-in-the-way`).
+- **Next:** the Warframe findings files, then Escape from Duckov.

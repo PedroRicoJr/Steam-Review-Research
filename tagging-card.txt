@@ -1540,3 +1540,4 @@ review.the-game-helped-them-through-a-hard-time | ~ | The reviewer says the game
 community.developer-communication.the-developers-play-their-own-game | + | The reviewer says the studio's own staff play the game, and credits that for decisions that suit players. **Th
 narrative.characters-writing.the-romance-is-a-welcome-addition | + | The reviewer likes that the game lets them date or court characters, and names it as a good addition. **The ot
 publishing.monetisation-practice.free-items-are-handed-out-often | + | The studio gives free items away on a regular basis - stream-watching rewards, holiday gifts in the shop, logi
+narrative.story.hard-to-follow | - | The reviewer says the story is hard to follow as the game tells it - what happened, and why - whether or not t
