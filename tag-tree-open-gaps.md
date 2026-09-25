@@ -9854,3 +9854,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **`sprawling-to-a-fault` got its third file:** 114747075 ("There's just *too much content*"). Three sightings in four rounds since it was built in round 447.
 - **A fix confirmed in an edit:** 114747225's Zariman complaints (no guidance, a missing accolade) were followed by a 2022 edit saying updates fixed them; on `fixed-what-mattered`.
 - **Multi-dated reviews flattened this batch:** 112260003 (2025), 113140634 (2024), 113916609 (2025), 113913457, 114747225, 115120890 (2025).
+
+## Notes - round 451 (Warframe batch 44)
+
+50 read (2022-05-31 to 2022-08-07), 78 bullets, 0 excluded, 6 edited later. Running total 2,250 of 3,235. 45 up / 5 down. Tree unchanged at 1,530: every bullet fitted an existing mode. Lost-review check: **it caught one** - the first dry run left out 116305126 ("Tis a fun time"), again a one-liner between two others; added, then passed. `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.56, 31 of 50 reviews 15 words or fewer, 2 reviews over 60 words at 8.5 bullets each and 42 words per bullet, 37% of bullets on an `.unknown`.
+- **`sprawling-to-a-fault` got its fourth file:** 117427982 ("there is simply so so so so so much to do"), next to `returning-players-get-no-catch-up` for the same review.
+- **Real-time events that ignore your schedule:** 119850397 (4,121 hours) - overnight invasions, day-night cycles and a visiting trader "care not about your schedule"; filed on `content-expires-if-you-miss-it` rather than a new mode, since that mode already covers rewards missed while away.
+- **Crude and personal text kept out:** 119350247 and 120249211 (crude jokes); 117427439 opens with a personal remark, recorded only as "a personal joke".
+- **Multi-dated reviews flattened this batch:** 116305093 (2026), 117427439 (2025), 117960928 (2024), 117957402 (2024), 117954345 (2023), 118417601 (2023).
