@@ -9936,3 +9936,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.32, 41 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 4.2 bullets each and 25 words per bullet, 27% of bullets on an `.unknown`. A one-liner batch.
 - **A frame weaker in multiplayer:** 162448436 says one warframe's passive works solo but not in multiplayer; on `role-design.the-same-class-is-weaker-in-one-mode-than-another`.
 - **Cross-save, again:** 157289905 and 161918369 came to PC with their console accounts; on `cross-save-works`.
+
+## Notes - round 460 (Warframe batch 53)
+
+50 read (2024-04-15 to 2024-06-22), 70 bullets, 0 excluded, 5 edited later. Running total 2,700 of 3,235. 45 up / 5 down. Tree unchanged at 1,535. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 10:44 backstop firing; the session had restarted again and taken the 30-minute timer with it (re-created as `95fe3a1a`), so the 10:07 and 10:37 firings did not run. The session is restarting about hourly; in practice the backstop sets the pace.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.40, 36 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 3.4 bullets each and 34 words per bullet, 31% of bullets on an `.unknown`.
+- **Regional pricing:** 163948308 says a Latin American price change put a prime pack at about a month's rent; on `priced-for-another-country`.
+- **Studio politics, both ways:** 163410076 mocks the pride event (`studio-politics-put-me-off`); 166427413 praises the studio's charity work and insults its critics (`likes-the-people-running-the-studio`, the insult not repeated).
+- **`frustration-is-built-to-sell-shortcuts` got its sixth file** (166895322, "Time walls are a disgusting tactic"); `sprawling-to-a-fault` its eighth (164877996, "too bloated").
