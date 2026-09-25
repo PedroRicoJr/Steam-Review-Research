@@ -1503,3 +1503,9 @@ publishing.monetisation-practice.you-get-exactly-what-you-pay-for | + | Whatever
 game-design.modes.a-mode-stands-out | + | The reviewer singles out one mode or activity as especially fun. **The other side of `.a-mode-falls-flat`.** W
 narrative.story.tackles-real-themes | + | The story takes on serious real-world themes - growing up, labour, identity - rather than only spectacle. Warf
 game-design.progression.unlock-pace.the-grind-drives-off-casual-players | - | The reviewer argues the grind, from mid-game on, is so heavy that casual and solo players give up, and the pla
+game-design.co-op-design.teammates-rush-past-the-puzzles | - | In a group, other players solve or skip the puzzles before you can, so a player who wants to do them has to pl
+game-design.co-op-design.story-missions-must-be-played-alone | - | Many story missions cannot be played in co-op, which breaks the flow of a game otherwise played with others. W
+live-ops.patch-quality.exploits-are-fixed-faster-than-bugs | - | Anything players can use in their favour is patched within days, while bugs that hurt players stay for years -
+live-ops.patch-quality.came-back-and-nothing-had-changed | - | The reviewer returned after time away hoping the game had changed, and found it the same as before. Warframe 6
+game-design.level-design.the-levels-do-not-suit-the-movement | - | The movement is fun, but the environments are not built to make use of it. Warframe 67842799.
+publishing.monetisation-practice.frustration-is-built-to-sell-shortcuts | - | The reviewer says systems are designed to frustrate the player - traps, pitfalls, waits - so that they pay to 

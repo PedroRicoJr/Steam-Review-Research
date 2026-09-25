@@ -9748,3 +9748,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A racially charged joke kept out:** 61022516 (a 2024 edit) compares grinding after a break to slavery; recorded as "a racially charged joke", on `grindy`.
 - **Warframe's endgame complaint:** 59933100 (a 2022 edit), "still no end game and rewards still don't scale", on `nothing-left-to-chase` and `the-payout-lands-flat`.
 - **Multi-dated reviews flattened this batch:** 59933100 (2022), 61022516 (2024), 61022259 (2026), 62759455 (2023).
+
+## Notes - round 440 (Warframe batch 33)
+
+50 read (2020-02-14 to 2020-04-22), 116 bullets, 0 excluded, 4 edited later. Running total 1,700 of 3,235. 46 up / 4 down. Tree 1,505 -> 1,511 (6 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.32, 31 of 50 reviews 15 words or fewer, 9 reviews over 60 words at 6.7 bullets each and 38 words per bullet, 16% of bullets on an `.unknown`. Words per bullet is high because one review (67843302, a 2026 edit of about 1,300 words) carries 20 bullets.
+- **Built (6):** `co-op-design.teammates-rush-past-the-puzzles` (-, 63514141) and `co-op-design.story-missions-must-be-played-alone` (-, 66295102). `patch-quality.exploits-are-fixed-faster-than-bugs` (-, 67843302) and `patch-quality.came-back-and-nothing-had-changed` (-, 64324714). `level-design.the-levels-do-not-suit-the-movement` (-, 67842799). `monetisation-practice.frustration-is-built-to-sell-shortcuts` (-, 67842799; distinct from `aggressive-storefront`).
+- **67843302, a veteran's case against the studio (7,077 hours):** automated support, a chat filter that bans for a weapon's own name or for players saying who they are, creators dropped from the partner programme for criticism, whole-altercation bans. Each claim went on its existing mode (`support-replied-with-a-form-letter`, `the-chat-filter-bans-for-harmless-words` - its third file - `punishes-criticism`, `heavy-handed-support`); it ends as a second file for round 437's `keeps-playing-while-hating-it` ("a poison... that a veteran like me won't abandon so easily YET").
+- **Multi-dated reviews flattened this batch:** 63513338 (2021), 65116897 (2025), 67396957 (2023), 67843302 (2026).

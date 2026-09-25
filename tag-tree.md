@@ -9401,6 +9401,33 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 439, Warframe batch 32.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 33 - round 440 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.teammates-rush-past-the-puzzles` | **−** | In a group, other players solve or skip the puzzles before you can, so a player who wants to do them has to play solo. Warframe 63514141. |
+| `.story-missions-must-be-played-alone` | **−** | Many story missions cannot be played in co-op, which breaks the flow of a game otherwise played with others. Warframe 66295102. |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.exploits-are-fixed-faster-than-bugs` | **−** | Anything players can use in their favour is patched within days, while bugs that hurt players stay for years - which the reviewer reads as proof the studio could fix them and chooses not to. Warframe 67843302. |
+| `.came-back-and-nothing-had-changed` | **−** | The reviewer returned after time away hoping the game had changed, and found it the same as before. Warframe 64324714. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-levels-do-not-suit-the-movement` | **−** | The movement is fun, but the environments are not built to make use of it. Warframe 67842799. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.frustration-is-built-to-sell-shortcuts` | **−** | The reviewer says systems are designed to frustrate the player - traps, pitfalls, waits - so that they pay to escape them. **Distinct from `.aggressive-storefront`**, which is about the shop pushing itself. Warframe 67842799. |
+
+🔑 **Round 440, Warframe batch 33.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
