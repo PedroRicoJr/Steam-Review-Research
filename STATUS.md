@@ -18,11 +18,11 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-25 |
 | Current stage | 2 of 3: Warframe (stage 1, the single-sighting backlog, finished in round 421) |
-| Last unit done | Round 455: Warframe batch 48, 50 reviews, 0 modes (2,450 of 3,235) |
-| Next unit | Warframe batch 49: the next **50** (`python summarise.py next --group warframe/english --n 50`) - 50 kept after the 25-review test (round 432) |
+| Last unit done | Round 456: Warframe batch 49, 50 reviews, 1 mode (2,500 of 3,235) |
+| Next unit | Warframe batch 50: the next **50** (`python summarise.py next --group warframe/english --n 50`) - 50 kept after the 25-review test (round 432) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
-| Tree | 1,533 tags |
-| Warframe | 2,450 of 3,235 read; 785 left; next is batch 49 (50) |
+| Tree | 1,534 tags |
+| Warframe | 2,500 of 3,235 read; 735 left; next is batch 50 (50) |
 | Escape from Duckov | not started |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

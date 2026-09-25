@@ -9593,6 +9593,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 454, Warframe batch 47.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 49 - round 456 (Rule C)
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.no-way-to-kick-a-griefer` | **−** | A group cannot remove a player who is griefing or trolling during a mission, so the others have to put up with them. Warframe 140124605. |
+
+🔑 **Round 456, Warframe batch 49.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

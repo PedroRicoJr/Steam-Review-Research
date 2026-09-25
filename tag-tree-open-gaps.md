@@ -9901,3 +9901,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.26, 33 of 50 reviews 15 words or fewer, 2 reviews over 60 words at 2.5 bullets each, 30% of bullets on an `.unknown`. A one-liner batch; one of the two long reviews (139343396) is a single complaint (a country ban) and takes one bullet.
 - **Country bans:** 139343396 says the studio banned their country and bans VPN use; the second `not-sold-in-my-country` file in four rounds (129126831 in round 453).
+
+## Notes - round 456 (Warframe batch 49)
+
+50 read (2023-06-15 to 2023-08-23), 97 bullets, 0 excluded, 9 edited later. Running total 2,500 of 3,235. 45 up / 5 down. Tree 1,533 -> 1,534 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none. Back-to-back test batch 2 of 3.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.94, 32 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 6.1 bullets each and 26 words per bullet, 23% of bullets on an `.unknown`.
+- **Built (1):** `social-features.no-way-to-kick-a-griefer` (-, 140124605: "This is the first ever online multiplayer game i run into that has no kick option").
+- **`sprawling-to-a-fault` reached six files** (fifth and sixth: 143173707, "too big for it's own good", and 140124605's hundred-plus single-use resources; 144884402's "convoluted currencies" is a seventh bullet). It has become one of the most repeated Warframe complaints since round 447.
+- **Crude text kept out:** 144884402's 2026 label for the game is recorded only as "a skin simulator aimed at titillation".
