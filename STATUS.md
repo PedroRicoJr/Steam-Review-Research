@@ -8,8 +8,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | | |
 |---|---|
 | Active loop | `loops/active/2026-09-24-backlog-warframe-duckov.md` |
-| Cadence | every 20 minutes |
-| In-session timer | CronCreate job `6179699b`, `*/20 * * * *` (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
+| Cadence | every 10 minutes (Rico, 2026-09-25; was 20) |
+| In-session timer | CronCreate job `b7ec0e13`, `*/10 * * * *` (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
 | Backstop | Routine `trig_01Va8fnQYvp4XU9rzChSjVaf`, hourly at :44 |
 
 ## Where it stands

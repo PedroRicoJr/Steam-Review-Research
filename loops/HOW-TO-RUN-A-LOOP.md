@@ -42,10 +42,10 @@ the one file in `loops/active/`. Following it must always be enough to carry on.
    `loops/active/`.** If one is there, finish or archive it first.
 2. Fill in `STATUS.md` for the first unit.
 3. Set the timers and write their IDs into `STATUS.md`:
-   - **In-session timer:** `CronCreate`, e.g. `*/20 * * * *`, recurring. It lives only while this
+   - **In-session timer:** `CronCreate`, e.g. `*/10 * * * *`, recurring. It lives only while this
      session runs, and expires after 7 days.
    - **Backstop:** a Routine (`create_trigger`) that fires into this session. **The minimum is once
-     an hour**; a 20-minute Routine is refused.
+     an hour**; a 10- or 20-minute Routine is refused.
    - Both prompts say only: *follow the loop pointer chain in CLAUDE.md and do one unit.* The steps
      live in the files, never in the timer prompt, so they can change without touching the timers.
 4. Commit and push.

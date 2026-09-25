@@ -1,6 +1,6 @@
 # Loop: single-sighting backlog, then Warframe, then Escape from Duckov
 
-**Started 2026-09-24 on Rico's word.** Runs every 20 minutes. How loops work in general:
+**Started 2026-09-24 on Rico's word.** Runs every 10 minutes (Rico, 2026-09-25; it ran every 20 until then). How loops work in general:
 `loops/HOW-TO-RUN-A-LOOP.md`. Where this loop stands right now: `STATUS.md`.
 
 **Done when:** every stage below is finished. Then archive this file (see the how-to).
