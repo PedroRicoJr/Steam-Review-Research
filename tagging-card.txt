@@ -1473,3 +1473,6 @@ review.turned-off-comments-on-the-review | ~ | The reviewer says they disabled c
 game-design.modes.the-pvp-is-good | + | The reviewer calls the player-versus-player mode cool or balanced. **The positive side of `.a-mode-falls-flat`
 community.player-conduct.the-chat-filter-bans-for-harmless-words | - | The automatic chat moderator bans players for harmless words or numbers. Warframe 42200064 (a week's ban for t
 community.developer-communication.heavy-handed-support | - | The reviewer calls the studio's support draconian - quick to ban, slow to hear the player out. Warframe 424131
+marketing.promise-vs-reality.a-promised-reward-never-arrived | - | A reward the player was promised - a promo code, a free item from an offer - never reached them. Warframe 4338
+live-ops.update-cadence.consoles-get-updates-later | - | Console players get the big updates after the PC version, and have to dodge spoilers meanwhile. **Distinct fro
+community.player-conduct.a-strong-player-kills-everything-first | - | A much stronger player matched into a low-level mission kills everything so fast that the others never get to 

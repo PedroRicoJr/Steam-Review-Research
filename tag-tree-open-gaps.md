@@ -9650,3 +9650,11 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Mastery-for-its-own-sake named twice** (42200064, 42412799: level weapons you do not want, then never use them) on `you-grind-for-gear-you-will-never-use`.
 - **A score against the thumb:** 42566383 praises the game under a thumbs up and scores it 4/10; the score line is on `review.thumb-contradicts-text`.
 - **Multi-dated reviews flattened this batch:** 41191292, 41190430 (2024), 41351052, 41512880, 41512451, 41781817 (2026), 41781539 (2021), 41911212 (2020), 42201205 (2021), 42200003, 42413197 (2019), 42412894.
+
+## Notes - round 431 (Warframe batch 24 - 25-review test batch 1 of 2)
+
+25 read (2018-06-15 to 2018-07-15), 50 bullets, 0 excluded, 7 edited later. Running total 1,275 of 3,235. 23 up / 2 down. Tree 1,475 -> 1,478 (3 modes, built on first sighting under Rule C). Lost-review check: all 25 on the first dry run; `--gaps` none.
+
+- **Test at 25 (Rico, 2026-09-25):** from `scripts/batch_quality.py` (new this round; it rebuilds each batch from the `next` order and the batch sizes, and reproduces the round 428-430 figures exactly): bullets per review 2.00, 16 of 25 reviews 15 words or fewer, 3 reviews over 60 words at 8.3 bullets each and 37 words per bullet, 22% of bullets on an `.unknown`. **Three long reviews is too few to judge;** one of them (43388111, 200 found it helpful, an 18-bullet pro-and-con list) carries the figure. Batch 25 is the second test batch; the decision follows it.
+- **Built (3):** `promise-vs-reality.a-promised-reward-never-arrived` (-, 43388214 the free Ash Prime, 42752073 promo codes). `update-cadence.consoles-get-updates-later` (-, 43388111). `player-conduct.a-strong-player-kills-everything-first` (-, 43388111, the other side of `weaker-teammates-resent-your-power`).
+- **Crude text kept out:** 42945314 is a joke questionnaire and 43555135 adds a crude joke to "very grindy"; neither is repeated.

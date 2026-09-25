@@ -9206,6 +9206,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 430, Warframe batch 23.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 24 - round 431 (Rule C)
+
+### `marketing.promise-vs-reality`
+| Mode | | Definition |
+|---|---|---|
+| `.a-promised-reward-never-arrived` | **−** | A reward the player was promised - a promo code, a free item from an offer - never reached them. Warframe 43388214 and 42752073. |
+
+### `live-ops.update-cadence`
+| Mode | | Definition |
+|---|---|---|
+| `.consoles-get-updates-later` | **−** | Console players get the big updates after the PC version, and have to dodge spoilers meanwhile. **Distinct from `.one-region-gets-content-first`**. Warframe 43388111. |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.a-strong-player-kills-everything-first` | **−** | A much stronger player matched into a low-level mission kills everything so fast that the others never get to fight. **The other side of `.weaker-teammates-resent-your-power`.** Warframe 43388111. |
+
+🔑 **Round 431, Warframe batch 24 (25-review test batch 1 of 2).** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

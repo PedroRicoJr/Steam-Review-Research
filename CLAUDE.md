@@ -27,6 +27,7 @@ The batch helpers live in `scripts/`. Each one states its size bound at the top.
 | `scripts/rehome_helper.py` | `rehome(rid, oldtag, newtag)` and `append_bullet(rid, text, tag)` - moves or adds one bullet; direction comes from the card. |
 | `scripts/backlog_next.py` | The next rows of `tag-tree-backlog.tsv`, each with its parked bullet. |
 | `scripts/review_text.py` | A review's raw text by id. |
+| `scripts/batch_quality.py` | `python scripts/batch_quality.py <group> --sizes 50x20,100x2,50,25x2 --from 17` - bullets per review, short and long reviews, bullets per long review, words per bullet and the unknown share, per batch. The Rule 7 batch-size watch. |
 | `scripts/steam_counts.py` | Steam's own name, type, date and review counts for appids (or every appid in `planning/`). |
 
 A data script outside the repo imports them with:
