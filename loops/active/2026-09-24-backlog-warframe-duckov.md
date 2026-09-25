@@ -19,14 +19,14 @@ report.** Work in this order:
    the modes to `tag-tree.md` above `## Parents with no modes yet`, run `python summarise.py card`, then
    `rehome()`. Set each row's status (`built rNNN <mode>` / `existing rNNN ...`). Then do the 24 `check`
    rows the same way.
-2. **Warframe** (`GAMES-TODO.md` row 5: set it from STOPPED back to WIP, Rico's word 2026-09-24) from batch 15, one batch of 50 per firing, until all 3,235
+2. **Warframe** (`GAMES-TODO.md` row 5: set it from STOPPED back to WIP, Rico's word 2026-09-24) from batch 15, one batch per firing - 50 reviews through batch 20, 100 from batch 21 (Rico, 2026-09-25) - until all 3,235
    sampled reviews are read. Then write `findings/warframe-english.md`, `findings/warframe.md` and a
    numbered section in `findings/cross-game.md`, and mark the row Done.
 3. **Escape from Duckov** (appid 3167020): add a `GAMES-TODO.md` row, measure, dry-run, pull, read,
    findings. Then the next game from `planning/`, closest to Dominion first; tell Rico which.
 
 **Every unit ends with:** `scripts/dircheck.py` = 0, `summarise.py check` unfitted = 0 for every group
-touched, a `## Notes - round NNN (...)` block in `tag-tree-open-gaps.md` with every count computed by
+touched, `scripts/write_batch.py --gaps` clean for every group written to, a `## Notes - round NNN (...)` block in `tag-tree-open-gaps.md` with every count computed by
 script, an update to `STATUS.md`, commit by pathspec, `git push origin main`. Round
 numbers keep counting from the last note.
 

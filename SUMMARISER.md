@@ -154,7 +154,7 @@ Each one states its size bound at the top. A data script outside the repo import
 
 | Script | What it does |
 |---|---|
-| `scripts/write_batch.py` | `write(group, D)` - one file per review. Refuses to write anything if any tag is missing from `tagging-card.txt`, any id is not in the sample, or the batch is over 100. Direction is looked up from the card. |
+| `scripts/write_batch.py` | `write(group, D)` - one file per review. Refuses to write anything if any tag is missing from `tagging-card.txt`, any id is not in the sample, the batch is over 100, any id already has a summary, or the ids are not exactly the next unsummarised ones in `summarise.py next` order - a review left out is named as LOST (added 2026-09-25, after batch 20's first dry run held 49 of 50). `--gaps <group>` lists any review skipped in an earlier batch. Direction is looked up from the card. |
 | `scripts/dircheck.py` | Checks every bullet's (good / bad / ~) against the tree. **Must report 0 after every batch.** |
 | `scripts/findphrase.py` | Searches bullet text across the corpus for a second sighting before a mode is named. |
 | `scripts/rehome_helper.py` | `rehome(rid, oldtag, newtag)` and `append_bullet(rid, text, tag)`. Direction is looked up fresh; the file's own padding and line endings are kept. |

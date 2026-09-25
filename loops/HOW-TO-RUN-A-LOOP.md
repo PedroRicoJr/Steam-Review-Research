@@ -25,7 +25,9 @@ the one file in `loops/active/`. Following it must always be enough to carry on.
 3. Read `STATUS.md` for the next unit, and the active loop file for how to do it.
 4. Do that one unit, following `CLAUDE.md` and `tag-tree.md` (Rules A, B, C).
 5. Checks: `scripts/dircheck.py` reports 0; `python summarise.py check --group <game>/english`
-   reports unfitted 0 and all tags valid for every group touched.
+   reports unfitted 0 and all tags valid for every group touched; and for every group a batch was
+   written to, `python scripts/write_batch.py --gaps <game>/english` reports no gaps (no review
+   skipped and lost - Rico, 2026-09-25).
 6. Append the round note to `tag-tree-open-gaps.md`, with every count computed by script.
    If the tree changed, run `python render_artifact.py` (half a second) so `artifact/tag-tree.html`
    matches it.

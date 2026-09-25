@@ -21,7 +21,7 @@ The batch helpers live in `scripts/`. Each one states its size bound at the top.
 
 | Script | Use |
 |---|---|
-| `scripts/write_batch.py` | `write(group, D)` - writes one summary file per review. Refuses the whole batch if any tag is not in the tree, any id is not in the sample, or there are more than 100 reviews. |
+| `scripts/write_batch.py` | `write(group, D)` - writes one summary file per review. Refuses the whole batch if any tag is not in the tree, any id is not in the sample, there are more than 100 reviews, any id already has a summary, or the ids are not exactly the next unsummarised ones (a skipped review is named as LOST). `python scripts/write_batch.py --gaps <group>` lists any review skipped earlier. |
 | `scripts/dircheck.py` | `python scripts/dircheck.py` - checks every bullet's (good / bad / ~) against the tree. Must report 0 after every batch. |
 | `scripts/findphrase.py` | `python scripts/findphrase.py "<phrase>"` - finds earlier sightings in the corpus before a new mode is named. |
 | `scripts/rehome_helper.py` | `rehome(rid, oldtag, newtag)` and `append_bullet(rid, text, tag)` - moves or adds one bullet; direction comes from the card. |
