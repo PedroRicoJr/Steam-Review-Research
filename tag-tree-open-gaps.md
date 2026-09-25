@@ -9981,3 +9981,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A portrayal complaint:** 191682080 says one quest's autistic character is portrayed close to mocking; on `mental-health-portrayal.portrayed-as-a-stereotype`. Its dark joke about despair is not repeated.
 - **A slur kept out:** 187917592 insults the fans and uses a slur about the developers; recorded as such on `the-fanbase-puts-me-off`.
 - **`story-missions-must-be-played-alone` got its third file** (189002139: "The entire game should be playable with multiple people").
+
+## Notes - round 465 (Warframe batch 58)
+
+50 read (2025-04-30 to 2025-07-07), 68 bullets, 0 excluded, 2 edited later. Running total 2,950 of 3,235. 39 up / 11 down - the most thumbs down in a Warframe batch for a while. Tree unchanged at 1,539. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 15:44 backstop firing (timer re-created as `a3a89019`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.36, 32 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 3.4 bullets each and 35 words per bullet, 26% of bullets on an `.unknown`.
+- **31 May 2025, pride month:** four of the five sampled reviews from that date are thumbs down, and two of them (196113767, 196113002) object to the studio's pride month in a few words; on `studio-politics-put-me-off`, the hostile phrasing not repeated. The other two are a crude complaint and a dark joke. The fifth (196112720) praises the game's turnaround under its current lead.
+- **Region complaints:** 194438476 accuses the studio of bias against Russian and CIS players; on `looks-after-one-region-only`.
+- **`player-made-cosmetics-sold-in-the-shop` got its third file** (196662269).
