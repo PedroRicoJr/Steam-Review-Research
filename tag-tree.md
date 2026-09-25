@@ -9488,6 +9488,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 444, Warframe batch 37.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 38 - round 445 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.the-world-clock-runs-in-real-time` | **+** | The game world's clocks and cycles - day and night, rotations - run in real time, which the reviewer enjoys. Warframe 88972299. |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.a-good-clan-makes-the-game` | **+** | The reviewer says joining a good clan is close to essential: its guidance and help make all the difference to the experience. **Distinct from `.the-clan-hall-is-worth-building`**, which is about the clan's facilities. Warframe 89465021. |
+
+🔑 **Round 445, Warframe batch 38.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

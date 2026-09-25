@@ -9796,3 +9796,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A hateful slogan kept out:** 85228376 says a permanent IP ban for chat posts, one of them a white-power hashtag, was too harsh; recorded on `heavy-handed-support` as the reviewer's claim, the slogan not repeated.
 - **Thumb against text:** 85230771 ("i love it" under a thumbs down).
 - **Multi-dated reviews flattened this batch:** 84753577 (2025), 85231539, 85721643 (2026), 85721575 (2026), 86169913 (2026), 86665990, 87189964 (2022).
+
+## Notes - round 445 (Warframe batch 38)
+
+50 read (2021-02-28 to 2021-05-07), 79 bullets, 0 excluded, 8 edited later. Running total 1,950 of 3,235. 47 up / 3 down. Tree 1,519 -> 1,521 (2 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.58, 31 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 3.5 bullets each and 31 words per bullet, 30% of bullets on an `.unknown`. The low bullets-per-long-review comes from one of the four long reviews being a copied meme (90753659, one bullet by rule); the other three average 4.3.
+- **Built (2):** `world-interaction.the-world-clock-runs-in-real-time` (+, 88972299). `social-features.a-good-clan-makes-the-game` (+, 89465021: "What IS a requirement is to get yourself a good clan"; distinct from `the-clan-hall-is-worth-building`).
+- **Crude text kept out:** 88508046, 91612053 and the copied meme 90753659 are recorded as crude, not repeated.
+- **Multi-dated reviews flattened this batch:** 87637344 (2024), 88050132 (2022), 88048290 (2026), 88047482 (2022), 88508046, 88506985 (2024), 90753659 (2023), 91194007 (2023).
