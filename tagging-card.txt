@@ -1533,3 +1533,5 @@ community.player-conduct.no-cheaters-seen | + | The reviewer says that in a long
 narrative.characters-writing.a-romance-system-feels-out-of-place | - | The reviewer finds a dating or romance system at odds with the rest of the game - weird or corny in an action 
 community.social-features.no-way-to-kick-a-griefer | - | A group cannot remove a player who is griefing or trolling during a mission, so the others have to put up with
 live-ops.patch-quality.the-early-game-was-left-behind | - | Updates pile on new content while the oldest parts - the opening levels, enemies, bosses and systems a new pla
+game-design.enemy-design.the-bosses-are-a-highlight | + | The reviewer singles out the boss fights as one of the best things in the game. **The other side of `.bosses-a
+game-design.session-flexibility.a-quest-will-not-let-you-leave | - | Once inside a quest mission the player cannot back out, and quitting the game sends them to the start of the q

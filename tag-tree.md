@@ -9613,6 +9613,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 458, Warframe batch 51.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 55 - round 462 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-bosses-are-a-highlight` | **+** | The reviewer singles out the boss fights as one of the best things in the game. **The other side of `.bosses-are-a-chore`.** Warframe 177610560. |
+
+### `game-design.session-flexibility`
+| Mode | | Definition |
+|---|---|---|
+| `.a-quest-will-not-let-you-leave` | **−** | Once inside a quest mission the player cannot back out, and quitting the game sends them to the start of the quest, so the game is locked until they beat it. Warframe 179092523 (The New War). |
+
+🔑 **Round 462, Warframe batch 55.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
