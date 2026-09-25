@@ -9281,6 +9281,36 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 433, Warframe batch 26.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 27 - round 434 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.any-gear-can-carry-you` | **+** | Whatever weapon or gear the player likes can take them through almost all of the game, so they can use their favourites. **The other side of `.only-a-few-builds-are-viable`.** Warframe 47996097. |
+
+### `game-design.progression.complexity`
+| Mode | | Definition |
+|---|---|---|
+| `.the-depth-is-optional` | **+** | The game has deep mechanics for players who love learning them, but a casual player can enjoy it without knowing them. Warframe 47996097. |
+
+### `game-design.replayability`
+| Mode | | Definition |
+|---|---|---|
+| `.burned-out-only-after-years` | **+** | The reviewer has finally burned out, but only after years and many hundreds of hours, which they count in the game's favour. Warframe 47219525. |
+
+### `engineering.stability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-game-uninstalled-itself` | **−** | The game removed itself from the player's machine without being asked, so they had to install it again. Warframe 47762145. |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-boss-needs-one-setup` | **−** | A boss fight can only really be done with one particular team or gear setup. **Distinct from `difficulty-tuning.the-endgame-demands-the-meta`**, which is about the late content as a whole. Warframe 48355234. |
+
+🔑 **Round 434, Warframe batch 27.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

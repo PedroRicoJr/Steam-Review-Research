@@ -1485,3 +1485,8 @@ narrative.story.the-lore-was-rewritten | - | The studio changed established stor
 live-ops.patch-quality.new-systems-build-on-the-old | + | An update added a system that works alongside the existing ones instead of replacing them, so both stay useful
 game-design.ui-ux.the-map-does-not-mark-the-objective | - | The map does not show where a mission or destination is, so the player has to hunt for it. Warframe 44879207.
 community.developer-communication.support-put-things-right | + | The studio's support answered and undid a player's mistake or loss - restored items sold by accident. **The ot
+game-design.progression.build-and-customisation.any-gear-can-carry-you | + | Whatever weapon or gear the player likes can take them through almost all of the game, so they can use their f
+game-design.progression.complexity.the-depth-is-optional | + | The game has deep mechanics for players who love learning them, but a casual player can enjoy it without knowi
+game-design.replayability.burned-out-only-after-years | + | The reviewer has finally burned out, but only after years and many hundreds of hours, which they count in the 
+engineering.stability.the-game-uninstalled-itself | - | The game removed itself from the player's machine without being asked, so they had to install it again. Warfra
+game-design.enemy-design.a-boss-needs-one-setup | - | A boss fight can only really be done with one particular team or gear setup. **Distinct from `difficulty-tunin

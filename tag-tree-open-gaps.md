@@ -9686,3 +9686,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A named lead kept out:** 45163018 credits the gameplay gains to the creative lead by name; recorded as "the current creative lead".
 - **Copied and crude text kept out:** 45030382 is the mesothelioma advert copypasta (`review.repeats-a-copied-meme-text`); 44754489 and 45410483 are crude jokes, recorded as such.
 - **Multi-dated reviews flattened this batch:** 44620935 (2023), 44879207, 45030782 (2022), 45029809 (2021), 45163018 (2026), 45287233 (2023), 45409402 (2025), 45691577 (2024), 45687670.
+
+## Notes - round 434 (Warframe batch 27)
+
+50 read (2018-11-15 to 2019-01-23), 106 bullets, 0 excluded, 11 edited later. Running total 1,400 of 3,235. 46 up / 4 down. Tree 1,487 -> 1,492 (5 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.12, 31 of 50 reviews 15 words or fewer, 11 reviews over 60 words at 4.9 bullets each and 26 words per bullet, 17% of bullets on an `.unknown`. Fewer bullets per long review than usual, but shorter bullets; the long reviews here are mid-length (60-200 words), not pro-and-con lists.
+- **Built (5):** `build-and-customisation.any-gear-can-carry-you` (+, 47996097; the other side of `only-a-few-builds-are-viable`). `complexity.the-depth-is-optional` (+, 47996097: tryhards learn the mechanics, casual players do not need to). `replayability.burned-out-only-after-years` (+, 47219525: burned out after 1,800 hours, counted in the game's favour). `stability.the-game-uninstalled-itself` (-, 47762145, twice). `enemy-design.a-boss-needs-one-setup` (-, 48355234, a 2020 edit; distinct from `the-endgame-demands-the-meta`).
+- **Existing modes, first Warframe use this batch:** "the studio's priorities are laughable" (45832719) on `working-on-the-wrong-thing-first`; the old hack that left 47373276 not trusting the game on `worried-about-account-security`; fishing (48178714) on `more-to-do-than-fighting`; the tradeable premium currency (46481850) on `the-player-market-works`.
+- **A felt content wall:** 48512090 felt a wall around mastery rank 10-14 but says there is not one; filed on `unlock-pace.unknown` rather than a new mode.
+- **Multi-dated reviews flattened this batch:** 45832719 (2021), 46481986 (2020), 47219525, 47372788 (2021), 47368649, 47760603 (2020), 47999828 (2021), 47999222 (2024), 48355234 (2020), 48354225 (2021), 48511552 (2020).
