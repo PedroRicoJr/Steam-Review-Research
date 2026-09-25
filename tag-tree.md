@@ -9251,6 +9251,36 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 432, Warframe batch 25 (25-review test batch 2 of 2).** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 26 - round 433 (Rule C)
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.the-name-filter-rejected-a-harmless-name` | **−** | The game refused a name or alias the player thought harmless, calling it offensive, and the player took it as prudish. Warframe 45164183. |
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-lore-was-rewritten` | **−** | The studio changed established story facts - a faction's origin, its history - and quietly edited old quest dialogue to match. **Distinct from `.the-story-got-worse-over-time`**, which is about quality, not consistency. Warframe 45163018. |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.new-systems-build-on-the-old` | **+** | An update added a system that works alongside the existing ones instead of replacing them, so both stay useful. **The other side of `.replaced-the-core-loop-with-a-different-one`.** Warframe 45029809 (operators alongside warframes). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-map-does-not-mark-the-objective` | **−** | The map does not show where a mission or destination is, so the player has to hunt for it. Warframe 44879207. |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.support-put-things-right` | **+** | The studio's support answered and undid a player's mistake or loss - restored items sold by accident. **The other side of `.heavy-handed-support`.** Warframe 45410634. |
+
+🔑 **Round 433, Warframe batch 26.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

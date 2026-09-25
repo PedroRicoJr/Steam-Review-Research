@@ -1480,3 +1480,8 @@ game-design.progression.cosmetic-rewards.an-unwanted-look-is-forced-on-you | - |
 engineering.access.the-display-settings-broke-the-game | - | Changing a display setting - full screen, resolution - left the game in a state the player's screen could not 
 game-design.game-feel.movement.good-for-travel-restrictive-in-combat | - | The movement is quick for getting across a level but feels restrictive once fighting starts. Warframe 43990657
 game-design.readability.the-level-number-misleads | - | A mission's level number does not tell the player what challenge to expect with gear of the same level. Warfra
+community.player-conduct.the-name-filter-rejected-a-harmless-name | - | The game refused a name or alias the player thought harmless, calling it offensive, and the player took it as 
+narrative.story.the-lore-was-rewritten | - | The studio changed established story facts - a faction's origin, its history - and quietly edited old quest di
+live-ops.patch-quality.new-systems-build-on-the-old | + | An update added a system that works alongside the existing ones instead of replacing them, so both stay useful
+game-design.ui-ux.the-map-does-not-mark-the-objective | - | The map does not show where a mission or destination is, so the player has to hunt for it. Warframe 44879207.
+community.developer-communication.support-put-things-right | + | The studio's support answered and undid a player's mistake or loss - restored items sold by accident. **The ot

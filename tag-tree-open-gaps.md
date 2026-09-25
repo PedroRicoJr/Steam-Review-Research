@@ -9675,3 +9675,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (4):** `cosmetic-rewards.an-unwanted-look-is-forced-on-you` (-, 43706806, the Nidus cyst that takes a week per frame to remove). `engineering.access.the-display-settings-broke-the-game` (-, 43862761). `movement.good-for-travel-restrictive-in-combat` (-, 43990657) and `readability.the-level-number-misleads` (-, 43990657).
 - **A named private player kept out:** 43707020 jokes about a named player and his cousin; recorded as "joke jabs at a named player", name left out.
 - **Particle effects:** 43861456 quit over late-game effects that hide everything ("buckets of paint thrown into my face"), on `effects-and-gore.effects-block-your-view`.
+
+## Notes - round 433 (Warframe batch 26)
+
+50 read (2018-08-31 to 2018-11-07), 99 bullets, 0 excluded, 9 edited later. Running total 1,350 of 3,235. 40 up / 10 down. Tree 1,482 -> 1,487 (5 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Back at 50:** from `scripts/batch_quality.py`: bullets per review 1.98, 32 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 6.1 bullets each and 34 words per bullet, 22% of bullets on an `.unknown`. In line with the earlier 50-review batches; a short-review batch.
+- **Built (5):** `player-conduct.the-name-filter-rejected-a-harmless-name` (-, 45164183; the alias is not repeated). `narrative.story.the-lore-was-rewritten` (-, 45163018, a 2026 edit: faction histories retconned and quest dialogue quietly changed). `patch-quality.new-systems-build-on-the-old` (+, 45029809: operators work alongside warframes; the other side of `replaced-the-core-loop-with-a-different-one`). `ui-ux.the-map-does-not-mark-the-objective` (-, 44879207). `developer-communication.support-put-things-right` (+, 45410634: support restored warframes sold by accident; the other side of `heavy-handed-support`).
+- **One review, four updates judged:** 45029809 (a 2021 edit) scores Archwing and Necramechs on `a-mode-falls-flat`, Railjack on `each-update-is-a-content-island`, and operators on the new + mode.
+- **A named lead kept out:** 45163018 credits the gameplay gains to the creative lead by name; recorded as "the current creative lead".
+- **Copied and crude text kept out:** 45030382 is the mesothelioma advert copypasta (`review.repeats-a-copied-meme-text`); 44754489 and 45410483 are crude jokes, recorded as such.
+- **Multi-dated reviews flattened this batch:** 44620935 (2023), 44879207, 45030782 (2022), 45029809 (2021), 45163018 (2026), 45287233 (2023), 45409402 (2025), 45691577 (2024), 45687670.
