@@ -9805,3 +9805,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (2):** `world-interaction.the-world-clock-runs-in-real-time` (+, 88972299). `social-features.a-good-clan-makes-the-game` (+, 89465021: "What IS a requirement is to get yourself a good clan"; distinct from `the-clan-hall-is-worth-building`).
 - **Crude text kept out:** 88508046, 91612053 and the copied meme 90753659 are recorded as crude, not repeated.
 - **Multi-dated reviews flattened this batch:** 87637344 (2024), 88050132 (2022), 88048290 (2026), 88047482 (2022), 88508046, 88506985 (2024), 90753659 (2023), 91194007 (2023).
+
+## Notes - round 446 (Warframe batch 39)
+
+50 read (2021-05-15 to 2021-07-23), 65 bullets, 0 excluded, 7 edited later. Running total 2,000 of 3,235. 46 up / 4 down. Tree unchanged at 1,521: **every bullet fitted an existing mode** - the first Warframe batch with no new mode. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the hourly backstop firing; the 5-minute timer (`df8e0d4c`) was still running, so it was not re-created.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.30, 40 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 4.0 bullets each and 34 words per bullet, 37% of bullets on an `.unknown`. Another one-liner batch (mid-2021 reviews run short: "fun", "love it", "W game").
+- **A drop lost to a bug:** 96263466 (8,096 hours) farmed a frame part for a month, and when it finally dropped they were stuck in a tree trunk and removed from the mission; on `you-get-stuck-on-the-scenery` and `the-thing-you-need-may-never-roll`.
+- **Crude text kept out:** 94768179 (a crude joke about a warframe).
+- **Multi-dated reviews flattened this batch:** 92068508 (2022), 92494432 (2026), 94188772 (2024), 94771436, 94768919 (2023), 95288773, 96262504 (2025).
