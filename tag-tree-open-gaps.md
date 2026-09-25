@@ -9910,3 +9910,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (1):** `social-features.no-way-to-kick-a-griefer` (-, 140124605: "This is the first ever online multiplayer game i run into that has no kick option").
 - **`sprawling-to-a-fault` reached seven files** (this batch added three: 143173707, "too big for it's own good"; 140124605's hundred-plus single-use resources; 144884402's "convoluted currencies"). It has become one of the most repeated Warframe complaints since round 447.
 - **Crude text kept out:** 144884402's 2026 label for the game is recorded only as "a skin simulator aimed at titillation".
+
+## Notes - round 457 (Warframe batch 50)
+
+50 read (2023-08-31 to 2023-11-07), 69 bullets, 0 excluded, 4 edited later. Running total 2,550 of 3,235. 46 up / 4 down. Tree unchanged at 1,534. Lost-review check: all 50 on the first dry run; `--gaps` none. Back-to-back test batch 3 of 3 (rounds 455-457 ran one after another so Rico can read the usage cost per batch).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.38, 35 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 3.3 bullets each and 57 words per bullet, 25% of bullets on an `.unknown`. Words per bullet is high: 149728240 (22 found it helpful) is a long, literary lament that makes four points, and got four bullets.
+- **A long compulsory intro:** 149280134 says a 3-hour tutorial with cutscenes now stands between the first boss and leaving the first planet; on `buried-in-setup-before-playing`.
+- **`keeps-playing-while-hating-it` got its fourth file:** 149728240 (3,945 hours: "it's a trap... when it's too late to break free").
+- **Three languages under the English tag:** 146362117 and 149280275 (Portuguese), 146361146 (Spanish).

@@ -9,7 +9,7 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Active loop | `loops/active/2026-09-24-backlog-warframe-duckov.md` |
 | Cadence | every 5 minutes until **05:00 Pacific, 2026-09-25 (12:00 UTC)**, then **every 30 minutes** (Rico, 2026-09-25). A timer re-created after 12:00 UTC uses `*/30`. |
-| In-session timer | CronCreate job `df8e0d4c`, `*/5 * * * *` until 12:00 UTC; a `send_later` check-in at 12:00 UTC swaps it for `*/30` (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
+| In-session timer | **stopped** (job `df8e0d4c` deleted at 08:22 UTC for Rico's back-to-back usage test, rounds 455-457); the hourly backstop re-creates it; a `send_later` check-in at 12:00 UTC sets `*/30` (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
 | Backstop | Routine `trig_01Va8fnQYvp4XU9rzChSjVaf`, hourly at :44 |
 
 ## Where it stands
@@ -18,11 +18,11 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-25 |
 | Current stage | 2 of 3: Warframe (stage 1, the single-sighting backlog, finished in round 421) |
-| Last unit done | Round 456: Warframe batch 49, 50 reviews, 1 mode (2,500 of 3,235) |
-| Next unit | Warframe batch 50: the next **50** (`python summarise.py next --group warframe/english --n 50`) - 50 kept after the 25-review test (round 432) |
+| Last unit done | Round 457: Warframe batch 50, 50 reviews, 0 modes (2,550 of 3,235) |
+| Next unit | Warframe batch 51: the next **50** (`python summarise.py next --group warframe/english --n 50`) - 50 kept after the 25-review test (round 432) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,534 tags |
-| Warframe | 2,500 of 3,235 read; 735 left; next is batch 50 (50) |
+| Warframe | 2,550 of 3,235 read; 685 left; next is batch 51 (50) |
 | Escape from Duckov | not started |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.
