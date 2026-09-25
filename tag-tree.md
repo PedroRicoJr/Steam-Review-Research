@@ -9064,6 +9064,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 425, Warframe batch 18.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 19 - round 426 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.projectiles-too-slow-to-hit` | **−** | Arrows or other projectiles travel so slowly that the targets - other players, fast enemies - move out of the way before they land. **Distinct from `.shots-go-where-they-want`**, which is about spread. Warframe 29767217. |
+
+🔑 **Round 426, Warframe batch 19.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1448,3 +1448,4 @@ publishing.monetisation-practice.the-shop-hides-a-requirement | - | The shop sel
 game-design.role-design.some-characters-are-hard-to-master | - | The reviewer lists some characters as difficult to master, as a con. Warframe 25912976 (Limbo).
 narrative.story.lost-on-new-players | - | The reviewer says a part of the story will make no sense to someone new to the game, because it leans on what 
 live-ops.patch-quality.each-update-brings-new-bugs | - | Every release brings new or returning bugs, and can leave the game unplayable for a day or two. **Distinct fro
+game-design.game-feel.combat.projectiles-too-slow-to-hit | - | Arrows or other projectiles travel so slowly that the targets - other players, fast enemies - move out of the 
