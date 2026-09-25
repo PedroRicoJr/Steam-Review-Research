@@ -9658,3 +9658,20 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Test at 25 (Rico, 2026-09-25):** from `scripts/batch_quality.py` (new this round; it rebuilds each batch from the `next` order and the batch sizes, and reproduces the round 428-430 figures exactly): bullets per review 2.00, 16 of 25 reviews 15 words or fewer, 3 reviews over 60 words at 8.3 bullets each and 37 words per bullet, 22% of bullets on an `.unknown`. **Three long reviews is too few to judge;** one of them (43388111, 200 found it helpful, an 18-bullet pro-and-con list) carries the figure. Batch 25 is the second test batch; the decision follows it.
 - **Built (3):** `promise-vs-reality.a-promised-reward-never-arrived` (-, 43388214 the free Ash Prime, 42752073 promo codes). `update-cadence.consoles-get-updates-later` (-, 43388111). `player-conduct.a-strong-player-kills-everything-first` (-, 43388111, the other side of `weaker-teammates-resent-your-power`).
 - **Crude text kept out:** 42945314 is a joke questionnaire and 43555135 adds a crude joke to "very grindy"; neither is repeated.
+
+## Notes - round 432 (Warframe batch 25 - 25-review test batch 2 of 2; the batch-size decision)
+
+25 read (2018-07-23 to 2018-08-23), 68 bullets, 0 excluded, 5 edited later. Running total 1,300 of 3,235. 22 up / 3 down. Tree 1,478 -> 1,482 (4 modes, built on first sighting under Rule C). Lost-review check: all 25 on the first dry run; `--gaps` none.
+
+- **The 25-review test, decided (Rico's rule, 2026-09-25):** from `scripts/batch_quality.py`, pooled by batch size over batches 15-25 (reviews over 60 words only):
+
+  | Batch size | Batches | Reviews | Long reviews | Bullets per long review | Words per bullet (long) |
+  |---|---|---|---|---|---|
+  | 50 | 15-20, 23 | 350 | 84 | 6.7 | 30 |
+  | 100 | 21-22 | 200 | 35 | 5.6 | 34 |
+  | 25 | 24-25 | 50 | 10 | 7.4 | 34 |
+
+  25 would have had to beat 50 by at least 1 bullet per long review, or by at least 5 fewer words per bullet. It gives +0.7 bullets and 4 **more** words per bullet, on only 10 long reviews. No clear difference, so **back to 50 from batch 26, and the in-session timer halved from 10 minutes to 5** (job `a570f43e`). The hourly backstop still sets the real pace (`OPEN-WITH-RICO.md`).
+- **Built (4):** `cosmetic-rewards.an-unwanted-look-is-forced-on-you` (-, 43706806, the Nidus cyst that takes a week per frame to remove). `engineering.access.the-display-settings-broke-the-game` (-, 43862761). `movement.good-for-travel-restrictive-in-combat` (-, 43990657) and `readability.the-level-number-misleads` (-, 43990657).
+- **A named private player kept out:** 43707020 jokes about a named player and his cousin; recorded as "joke jabs at a named player", name left out.
+- **Particle effects:** 43861456 quit over late-game effects that hide everything ("buckets of paint thrown into my face"), on `effects-and-gore.effects-block-your-view`.

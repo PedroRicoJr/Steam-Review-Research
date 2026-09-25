@@ -1,6 +1,6 @@
 # Loop: single-sighting backlog, then Warframe, then Escape from Duckov
 
-**Started 2026-09-24 on Rico's word.** Runs every 10 minutes (Rico, 2026-09-25; it ran every 20 until then). How loops work in general:
+**Started 2026-09-24 on Rico's word.** Runs every 5 minutes (Rico, 2026-09-25; 20, then 10, then 5 after the batch-size test). How loops work in general:
 `loops/HOW-TO-RUN-A-LOOP.md`. Where this loop stands right now: `STATUS.md`.
 
 **Done when:** every stage below is finished. Then archive this file (see the how-to).
@@ -23,7 +23,7 @@ report.** Work in this order:
    after batch 25, show Rico a table of batches 17-25 (reviews, bullets per review, share of short reviews,
    bullets per long review, words per bullet on long reviews, unknown share). If 25 does clearly better -
    words per bullet on long reviews at least 5 lower than at 50, or bullets per long review at least 1
-   higher - stay at 25. If not, go back to 50 and halve the in-session timer (10 minutes -> 5) - until all 3,235
+   higher - stay at 25. If not, go back to 50 and halve the in-session timer (10 minutes -> 5). **Decided in round 432: no clear difference; 50 from batch 26, timer every 5 minutes** - until all 3,235
    sampled reviews are read. Then write `findings/warframe-english.md`, `findings/warframe.md` and a
    numbered section in `findings/cross-game.md`, and mark the row Done.
 3. **Escape from Duckov** (appid 3167020): add a `GAMES-TODO.md` row, measure, dry-run, pull, read,

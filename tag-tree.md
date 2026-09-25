@@ -9226,6 +9226,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 431, Warframe batch 24 (25-review test batch 1 of 2).** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 25 - round 432 (Rule C)
+
+### `game-design.progression.cosmetic-rewards`
+| Mode | | Definition |
+|---|---|---|
+| `.an-unwanted-look-is-forced-on-you` | **−** | The game puts a visual change on the player's character that they do not want - a growth, a blemish - and makes them wait days to remove it. Warframe 43706806 (the Nidus cyst, a week per frame). |
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.the-display-settings-broke-the-game` | **−** | Changing a display setting - full screen, resolution - left the game in a state the player's screen could not show, and they had to relaunch. Warframe 43862761. |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.good-for-travel-restrictive-in-combat` | **−** | The movement is quick for getting across a level but feels restrictive once fighting starts. Warframe 43990657. |
+
+### `game-design.readability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-level-number-misleads` | **−** | A mission's level number does not tell the player what challenge to expect with gear of the same level. Warframe 43990657. |
+
+🔑 **Round 432, Warframe batch 25 (25-review test batch 2 of 2).** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

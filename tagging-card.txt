@@ -1476,3 +1476,7 @@ community.developer-communication.heavy-handed-support | - | The reviewer calls 
 marketing.promise-vs-reality.a-promised-reward-never-arrived | - | A reward the player was promised - a promo code, a free item from an offer - never reached them. Warframe 4338
 live-ops.update-cadence.consoles-get-updates-later | - | Console players get the big updates after the PC version, and have to dodge spoilers meanwhile. **Distinct fro
 community.player-conduct.a-strong-player-kills-everything-first | - | A much stronger player matched into a low-level mission kills everything so fast that the others never get to 
+game-design.progression.cosmetic-rewards.an-unwanted-look-is-forced-on-you | - | The game puts a visual change on the player's character that they do not want - a growth, a blemish - and make
+engineering.access.the-display-settings-broke-the-game | - | Changing a display setting - full screen, resolution - left the game in a state the player's screen could not 
+game-design.game-feel.movement.good-for-travel-restrictive-in-combat | - | The movement is quick for getting across a level but feels restrictive once fighting starts. Warframe 43990657
+game-design.readability.the-level-number-misleads | - | A mission's level number does not tell the player what challenge to expect with gear of the same level. Warfra
