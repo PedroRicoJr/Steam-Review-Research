@@ -9643,6 +9643,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 464, Warframe batch 57.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 59 - round 466 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.the-developers-play-their-own-game` | **+** | The reviewer says the studio's own staff play the game, and credits that for decisions that suit players. **The other side of `.the-studio-does-not-play-its-own-game`**; distinct from `.the-developers-play-with-us`, which is about meeting them in matches. Warframe 200467228. |
+
+🔑 **Round 466, Warframe batch 59.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

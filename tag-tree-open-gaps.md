@@ -9990,3 +9990,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **31 May 2025, pride month:** four of the five sampled reviews from that date are thumbs down, and two of them (196113767, 196113002) object to the studio's pride month in a few words; on `studio-politics-put-me-off`, the hostile phrasing not repeated. The other two are a crude complaint and a dark joke. The fifth (196112720) praises the game's turnaround under its current lead.
 - **Region complaints:** 194438476 accuses the studio of bias against Russian and CIS players; on `looks-after-one-region-only`.
 - **`player-made-cosmetics-sold-in-the-shop` got its third file** (196662269).
+
+## Notes - round 466 (Warframe batch 59)
+
+50 read (2025-07-15 to 2025-09-22), 90 bullets, 0 excluded, 1 edited later. Running total **3,000** of 3,235. 47 up / 3 down. Tree 1,539 -> 1,540 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 16:44 backstop firing (timer re-created as `245fc251`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 34 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 6.0 bullets each and 33 words per bullet, 22% of bullets on an `.unknown`.
+- **Built (1):** `developer-communication.the-developers-play-their-own-game` (+, 200467228: "they play their own game!"; the other side of `the-studio-does-not-play-its-own-game`). The bullet was first put on `the-developers-play-with-us` and re-homed with `rehome()` once that mode's definition (meeting developers in matches) showed it did not fit.
+- **`the-early-game-was-left-behind` got its second file:** 204436984 (16 found it helpful): "Old content ... left dead in a ditch"; it also says the game is in its best state ever.
+- **Power creep read as lost time:** 201666390 (9 found it helpful) says each update invalidates their previous time spent; on `power-creep`.

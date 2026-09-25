@@ -1537,3 +1537,4 @@ game-design.enemy-design.the-bosses-are-a-highlight | + | The reviewer singles o
 game-design.session-flexibility.a-quest-will-not-let-you-leave | - | Once inside a quest mission the player cannot back out, and quitting the game sends them to the start of the q
 narrative.story.an-early-quest-spoils-the-late-game | - | A quest the game lets a new player reach early gives away twists from late in the story, so the reviewer warns
 review.the-game-helped-them-through-a-hard-time | - | The reviewer says the game helped them personally through a hard period - depression, loss, isolation. A state
+community.developer-communication.the-developers-play-their-own-game | + | The reviewer says the studio's own staff play the game, and credits that for decisions that suit players. **Th
