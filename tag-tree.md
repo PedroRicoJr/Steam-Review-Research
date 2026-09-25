@@ -9653,6 +9653,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 466, Warframe batch 59.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 63 - round 471 (Rule C)
+
+### `narrative.characters-writing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-romance-is-a-welcome-addition` | **+** | The reviewer likes that the game lets them date or court characters, and names it as a good addition. **The other side of `.a-romance-system-feels-out-of-place`**. Warframe 225615283. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.free-items-are-handed-out-often` | **+** | The studio gives free items away on a regular basis - stream-watching rewards, holiday gifts in the shop, login rewards - and the reviewer counts that in the game's favour. **Distinct from `.currency-earnable-by-playing`**, which is about earning through play, and from `.free-items-still-sold-through-a-shop` (a complaint about how a free item is delivered). Warframe 226906505. |
+
+🔑 **Round 471, Warframe batch 63.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

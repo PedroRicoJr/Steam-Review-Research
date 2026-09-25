@@ -1538,3 +1538,5 @@ game-design.session-flexibility.a-quest-will-not-let-you-leave | - | Once inside
 narrative.story.an-early-quest-spoils-the-late-game | - | A quest the game lets a new player reach early gives away twists from late in the story, so the reviewer warns
 review.the-game-helped-them-through-a-hard-time | ~ | The reviewer says the game helped them personally through a hard period - depression, loss, isolation. A state
 community.developer-communication.the-developers-play-their-own-game | + | The reviewer says the studio's own staff play the game, and credits that for decisions that suit players. **Th
+narrative.characters-writing.the-romance-is-a-welcome-addition | + | The reviewer likes that the game lets them date or court characters, and names it as a good addition. **The ot
+publishing.monetisation-practice.free-items-are-handed-out-often | + | The studio gives free items away on a regular basis - stream-watching rewards, holiday gifts in the shop, logi

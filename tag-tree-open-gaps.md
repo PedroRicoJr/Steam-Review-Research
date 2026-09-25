@@ -10035,3 +10035,13 @@ No reviews read. Done in the 20:44 backstop firing (timer re-created as `1a12a51
 - **The fix:** the card now takes the row's own mark, and an empty mark counts as neutral, as in a mode row. Exactly four tags changed from - to ~: `review.thumb-contradicts-text`, `review.reviewer-wanted-a-neutral-option`, `review.written-for-a-reward` (all three say in the tree that they are left out of directional counts) and `review.the-game-helped-them-through-a-hard-time`. `review.thumb-is-a-protest-vote` stays -, as its row says.
 - **Re-marked:** 108 bullets in 108 files, from (bad) to (~), across 17 games (Warframe 22, Deep Rock Galactic 11, DRG: Rogue Core 11, Risk of Rain 2 9, and fewer elsewhere). `dircheck` showed 108 disagreements after the card fix and 0 after the re-mark.
 - **Findings touched:** `review.thumb-contradicts-text` sat on the ranked complaint list in `findings/deep-rock-galactic.md` (#11), `findings/risk-of-rain-2.md` (#14) and `findings/risk-of-rain-2-english.md` (#14). Each row is struck out with a correction note under the table; the tables were not re-ranked.
+
+## Notes - round 471 (Warframe batch 63)
+
+50 read (2026-05-15 to 2026-07-23), 91 bullets, 0 excluded, 0 edited later. Running total 3,200 of 3,235. 44 up / 6 down. Tree 1,540 -> 1,542. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 21:44 backstop firing (timer re-created as `79b1a1ed`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.82, 34 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 4.6 bullets each and 20 words per bullet, 31% of bullets on an `.unknown`.
+- **Two modes built (Rule C):** `narrative.characters-writing.the-romance-is-a-welcome-addition` (+), 225615283 ("the dating was a nice addition"), the other side of `a-romance-system-feels-out-of-place`; and `publishing.monetisation-practice.free-items-are-handed-out-often` (+), 226906505 (stream-watching rewards and holiday gifts in the shop). 219484594 in round 469 named "freebies" in passing, on `content-amount.plenty`, and was left there.
+- **Objections to LGBT and pride content:** 227451116 (up) and 231159701 (down) on `studio-politics-put-me-off`, as earlier pride complaints were. 231159701's line about the players this content attracts is recorded as a jab, on `the-fanbase-puts-me-off`, and not repeated.
+- **Hours off-Steam:** 229280705 and 229893968 say their Steam hours are only part of their time; on `says-the-recorded-playtime-is-wrong`.
+- **One batch left:** 35 reviews (batch 64), then the Warframe findings.
