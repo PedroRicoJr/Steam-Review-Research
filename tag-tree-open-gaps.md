@@ -9945,3 +9945,11 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Regional pricing:** 163948308 says a Latin American price change put a prime pack at about a month's rent; on `priced-for-another-country`.
 - **Studio politics, both ways:** 163410076 mocks the pride event (`studio-politics-put-me-off`); 166427413 praises the studio's charity work and insults its critics (`likes-the-people-running-the-studio`, the insult not repeated).
 - **`frustration-is-built-to-sell-shortcuts` got its sixth file** (166895322, "Time walls are a disgusting tactic"); `sprawling-to-a-fault` reached nine files (164877996, "too bloated"; 161917541 in round 459 was the eighth).
+
+## Notes - round 461 (Warframe batch 54)
+
+50 read (2024-06-30 to 2024-09-07), 63 bullets, 0 excluded, 4 edited later. Running total 2,750 of 3,235. 46 up / 4 down. Tree unchanged at 1,535. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 11:44 backstop firing; the timer had died with the session again (re-created as `954c6abd`).
+
+- **Quality at 50 (Rule 7 caught a thin pass):** the first write gave the 4 long reviews 2.2 bullets each at 49 words per bullet. Two points had been left out - 168645615 drifting away after mastery rank 15, and 171649043 finding the enemies too hard on a 2018 try - and were added with `append_bullet`. After: bullets per review 1.26, 35 of 50 reviews 15 words or fewer, 4 long reviews at 2.8 bullets each and 40 words per bullet, 35% of bullets on an `.unknown`.
+- **Mastery tests on a clock:** 173148685 quit over waiting 24 hours for each mastery test, and 24 more after a failure; on `gated-behind-real-world-time`.
+- **A late click:** 171649043 tried in 2015, 2018 and 2021 and never got it, until playing The First Descendant made the systems make sense.
