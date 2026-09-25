@@ -9628,3 +9628,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Thumb against text:** 34445374 says only "Amazing game" under a thumbs down, on `review.thumb-contradicts-text`.
 - **Left bare:** 32095273 (thumbs down, a 2026 edit) says only "gay month"; with nothing else said, it sits on `review.negative.unknown` rather than being read as an objection to a named event.
 - **Multi-dated reviews flattened this batch:** 32 of 100, among them 33059897 (a running update-by-update log to 2025), 33937775 (2025), 33937339 (2021), 34264318 (2022), 34266098 (2017 and 2025 lines), 35955882 (2020).
+
+## Notes - round 429 (Warframe batch 22)
+
+100 read (2017-10-31 to 2018-03-23), 227 bullets, 0 excluded, 27 edited later. Running total 1,200 of 3,235. 90 up / 10 down. 36 bullets on an `.unknown` (16%). Tree 1,466 -> 1,470 (4 modes, built on first sighting under Rule C).
+
+- **The lost-review check caught a real miss.** The first dry run held 99 reviews and was refused: "36353555: LOST - it is in the next 99 unsummarised reviews but not in this batch". The review ("One of the greatest F2P games on Steam 11/10") was added and the batch passed. `--gaps` reports none.
+- **Quality watch at 100 (Rule 7), second batch:** 57 of 100 reviews are 15 words or fewer again. On the 19 reviews over 60 words, 5.8 bullets each (5.3 in batch 21; 6.1-7.0 in batches 17-20 at 50) and 30 words per bullet (39 in batch 21; 27-38 before). Words per bullet is back inside the earlier range, but bullets per long review stayed under 6 for a second batch, which round 428 set as the line. **Batch size goes back to 50 from batch 23**, as Rule 7 says, until Rico says otherwise; the lost-review check stays.
+- **Built (4):** `difficulty-tuning.the-endgame-demands-the-meta` (-, 37964318), `player-conduct.chat-moderators-play-favourites` (-, 37964318), `engineering.access.banned-for-someone-elses-fraud` (-, 37964318: a trade with a stolen-card buyer can cost your account), `punishment-model.failing-still-pays-something` (+, 39756386).
+- **Politics, both ways, recorded as objections and support, not judged:** 39166285 (a 2025 edit) withdraws the recommendation over an ideology it says the game supports, on `studio-politics-put-me-off`; 40473002 praises the studio's yearly pride celebrations and writes to push back against review-bombing, on `likes-the-people-running-the-studio` and `review.written-to-pull-the-score-back`.
+- **Crude text kept out:** 38600085 is a crude insult with nothing about the game, recorded as such on `review.negative.unknown`. 39167806 is a copied joke story, on `review.repeats-a-copied-meme-text`.
+- **Multi-dated reviews flattened this batch:** 27 of 100, among them 39917671 (a 2019 review with a 2026 return after seven years, 54 found it helpful), 37964318 (2022), 37964319 (the PS4-to-PC transfer, first refused, later allowed), 39166285 (2025), 40473002 (2024).

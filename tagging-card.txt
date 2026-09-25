@@ -1464,3 +1464,7 @@ game-design.co-op-design.puts-you-in-public-games-by-default | - | A new player 
 game-design.session-flexibility.the-next-mission-starts-without-asking | - | A countdown sends the player into the next mission while they are still in menus, without asking. Warframe 357
 community.playing-with-friends.a-way-to-stay-in-touch | + | The reviewer played to stay in touch with a friend who moved away. **Distinct from `.a-keepsake-of-someone-gon
 publishing.monetisation-practice.the-store-would-not-take-their-money | - | The player tried to buy premium currency and the purchase page did not work. Warframe 33752996.
+game-design.difficulty-tuning.the-endgame-demands-the-meta | - | The late content is built around tough, hard-hitting enemies, so the only way through is the build the communi
+community.player-conduct.chat-moderators-play-favourites | - | The reviewer says the game's chat moderators were chosen by favouritism and their bans cannot be appealed. War
+engineering.access.banned-for-someone-elses-fraud | - | A player who traded with someone using stolen payment details can lose their own account, with no way to appea
+game-design.punishment-model.failing-still-pays-something | + | A failed mission still pays out part of what it earned - some experience - so failing does not feel wasted. **

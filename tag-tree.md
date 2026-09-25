@@ -9151,6 +9151,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 428, Warframe batch 21 (the first batch of 100).** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 22 - round 429 (Rule C)
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-endgame-demands-the-meta` | **−** | The late content is built around tough, hard-hitting enemies, so the only way through is the build the community has worked out - stuns, status stacking - looked up outside the game. **Distinct from `power-balance.one-option-dominates`**, which is about one choice outclassing the rest everywhere. Warframe 37964318. |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.chat-moderators-play-favourites` | **−** | The reviewer says the game's chat moderators were chosen by favouritism and their bans cannot be appealed. Warframe 37964318. |
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.banned-for-someone-elses-fraud` | **−** | A player who traded with someone using stolen payment details can lose their own account, with no way to appeal. **Distinct from `.banned-with-no-reason-given`**. Warframe 37964318. |
+
+### `game-design.punishment-model`
+| Mode | | Definition |
+|---|---|---|
+| `.failing-still-pays-something` | **+** | A failed mission still pays out part of what it earned - some experience - so failing does not feel wasted. **Distinct from `.dying-costs-nothing`**, which removes the stakes. Warframe 39756386. |
+
+🔑 **Round 429, Warframe batch 22.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

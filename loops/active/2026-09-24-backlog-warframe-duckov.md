@@ -19,7 +19,7 @@ report.** Work in this order:
    the modes to `tag-tree.md` above `## Parents with no modes yet`, run `python summarise.py card`, then
    `rehome()`. Set each row's status (`built rNNN <mode>` / `existing rNNN ...`). Then do the 24 `check`
    rows the same way.
-2. **Warframe** (`GAMES-TODO.md` row 5: set it from STOPPED back to WIP, Rico's word 2026-09-24) from batch 15, one batch per firing - 50 reviews through batch 20, 100 from batch 21 (Rico, 2026-09-25) - until all 3,235
+2. **Warframe** (`GAMES-TODO.md` row 5: set it from STOPPED back to WIP, Rico's word 2026-09-24) from batch 15, one batch per firing - 50 reviews through batch 20, 100 for batches 21-22 (Rico, 2026-09-25), back to 50 from batch 23 on the Rule 7 quality watch (round 429) - until all 3,235
    sampled reviews are read. Then write `findings/warframe-english.md`, `findings/warframe.md` and a
    numbered section in `findings/cross-game.md`, and mark the row Done.
 3. **Escape from Duckov** (appid 3167020): add a `GAMES-TODO.md` row, measure, dry-run, pull, read,
