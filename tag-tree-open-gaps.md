@@ -9944,4 +9944,4 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.40, 36 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 3.4 bullets each and 34 words per bullet, 31% of bullets on an `.unknown`.
 - **Regional pricing:** 163948308 says a Latin American price change put a prime pack at about a month's rent; on `priced-for-another-country`.
 - **Studio politics, both ways:** 163410076 mocks the pride event (`studio-politics-put-me-off`); 166427413 praises the studio's charity work and insults its critics (`likes-the-people-running-the-studio`, the insult not repeated).
-- **`frustration-is-built-to-sell-shortcuts` got its sixth file** (166895322, "Time walls are a disgusting tactic"); `sprawling-to-a-fault` its eighth (164877996, "too bloated").
+- **`frustration-is-built-to-sell-shortcuts` got its sixth file** (166895322, "Time walls are a disgusting tactic"); `sprawling-to-a-fault` reached nine files (164877996, "too bloated"; 161917541 in round 459 was the eighth).
