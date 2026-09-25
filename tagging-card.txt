@@ -1439,3 +1439,10 @@ review.written-as-a-diary-at-hour-marks | ~ | The review is written in dated or 
 game-design.progression.unlock-pace.the-endgame-is-within-reach | + | The reviewer says the late or endgame content is not too hard to get to. Warframe 23318065.
 engineering.platform-support.better-here-than-elsewhere | + | The reviewer says this version plays better than the game on another platform. **The inverse of `.better-elsew
 publishing.monetisation-practice.a-fair-business-model | + | The reviewer calls the way the game makes money fair, without naming what it sells. **Distinct from `.cosmetic
+game-design.modes.forced-into-a-mode-you-dislike | - | Items or gear the player needs come only from a mode they dislike, so they must play it anyway. **Distinct fro
+live-ops.patch-quality.courts-new-players-at-the-veterans-expense | - | The reviewer says the studio changed the game to bring in new players and lost its long-time players by doing 
+game-design.new-player-experience.returning-players-get-no-catch-up | - | A player coming back after patches is dropped straight in, with nothing to explain what changed, and has to re
+game-design.ui-ux.the-interface-keeps-changing | - | Patches keep moving the menus and screens, so the player has to relearn the interface. Warframe 25276661.
+game-design.randomness.the-best-gear-is-not-left-to-chance | + | The reviewer thanks the studio for making the endgame weapons something the player works towards rather than a
+publishing.monetisation-practice.the-shop-hides-a-requirement | - | The shop sells an item without saying that the player must meet a requirement - a rank, a level - before they 
+game-design.role-design.some-characters-are-hard-to-master | - | The reviewer lists some characters as difficult to master, as a con. Warframe 25912976 (Limbo).

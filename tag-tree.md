@@ -9009,6 +9009,46 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 423, Warframe batch 16.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 17 - round 424 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.forced-into-a-mode-you-dislike` | **−** | Items or gear the player needs come only from a mode they dislike, so they must play it anyway. **Distinct from `.a-mode-falls-flat`**, which can be skipped. Warframe 24640637 (the open world). |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.courts-new-players-at-the-veterans-expense` | **−** | The reviewer says the studio changed the game to bring in new players and lost its long-time players by doing so. Warframe 24640637. |
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.returning-players-get-no-catch-up` | **−** | A player coming back after patches is dropped straight in, with nothing to explain what changed, and has to relearn the game. **The opposite complaint to `.returning-players-sent-back-through-the-tutorial`.** Warframe 25276661. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-interface-keeps-changing` | **−** | Patches keep moving the menus and screens, so the player has to relearn the interface. Warframe 25276661. |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.the-best-gear-is-not-left-to-chance` | **+** | The reviewer thanks the studio for making the endgame weapons something the player works towards rather than a pure random drop. **The positive twin of `.the-thing-you-need-may-never-roll`.** Warframe 25403248. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.the-shop-hides-a-requirement` | **−** | The shop sells an item without saying that the player must meet a requirement - a rank, a level - before they can use it, and the reviewer nearly paid for something they could not use. Warframe 25518250. |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.some-characters-are-hard-to-master` | **−** | The reviewer lists some characters as difficult to master, as a con. Warframe 25912976 (Limbo). |
+
+🔑 **Round 424, Warframe batch 17.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
