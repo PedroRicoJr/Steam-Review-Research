@@ -9049,6 +9049,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 424, Warframe batch 17.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 18 - round 425 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.lost-on-new-players` | **−** | The reviewer says a part of the story will make no sense to someone new to the game, because it leans on what came before. **Distinct from `.makes-sense-only-if-you-know-the-source`**, which is about a book or film outside the game. Warframe 26189529 (The Duviri Paradox). |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.each-update-brings-new-bugs` | **−** | Every release brings new or returning bugs, and can leave the game unplayable for a day or two. **Distinct from `.made-it-worse`**, which is about design. Warframe 28572518. |
+
+🔑 **Round 425, Warframe batch 18.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

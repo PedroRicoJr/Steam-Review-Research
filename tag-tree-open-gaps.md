@@ -9586,3 +9586,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A named staff member praised** (24767490, "a genius") went on `marketing.reputation.likes-the-people-running-the-studio`, name left out, as with jabs.
 - **A copied meme** (24641761, the text-art cat to "pet" with a Like) went on `review.repeats-a-copied-meme-text`, not excluded.
 - **Multi-dated reviews flattened this batch:** 24643269 (2026 edit), 24642967 (2018), 24641761 (2023), 24640637 (2020), 24767819 (2025), 24767490 (2025), 24766506 (2017), 24939965 (2017), 25101478 (2019), 25403248 (2018), 25401972 (2019), 25518455 (2016 and 2019), 25518250 (2017), 25517508 (2020), 25642881 (2020), 25642149 (2019), 25788238 (2018), 25912976 (2022).
+
+## Notes - round 425 (Warframe batch 18)
+
+50 read (2016-10-15 to 2016-12-23), 170 bullets, 0 excluded, 16 edited later. Running total 900 of 3,235. 41 up / 9 down - a new high for thumbs-down in a Warframe batch, after 7 last round. 15 bullets on an `.unknown`. Tree 1,448 -> 1,450 (2 modes, built on first sighting under Rule C).
+
+- **Built (2):** `narrative.story.lost-on-new-players` (-, 26189529, a 2023 edit on The Duviri Paradox: "a story that will make no sense to new players"). `live-ops.patch-quality.each-update-brings-new-bugs` (-, 28572518: each release "usually makes the game unplayable for a day or two").
+- **Round 422-424 modes keep collecting:** `advises-what-not-to-spend-on` took three more (26189501 wait for a 75% discount, 28244574 reactor and slots, 28394483 login discounts); `you-end-up-paying-sooner-or-later` two (26345801, 28572518 "you will be playing a demo"); `each-update-adds-more-grind` one (28572518).
+- **Crafting timers** named in four reviews this batch (24-hour, 12-to-72-hour, "days per part"), all on `gated-behind-real-world-time`, three with the paid skip alongside on `paying-only-shortens-the-grind`.
+- **A locked-out account** (26621674: old account refused after a password reset, the new one would not log in) went on `engineering.access.locked-out-of-my-own-account`.
+- **Multi-dated reviews flattened this batch:** 26057562 (2017), 26056993 (2017), 26190166 (2017), 26189529 (2023 - the whole review is the Duviri edit), 26189501 (2020), 26343779 (2020), 26622904 (2017), 26622569 (2017, the Plains of Eidolon edit kept as "a 2017 edit"), 26754820 (2019), 28108413 (2018), 28107723 (2017), 28244574 (2018), 28244165 (2020), 28394483 (2017), 28572599 (2020), 28572518 (2017).

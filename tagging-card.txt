@@ -1446,3 +1446,5 @@ game-design.ui-ux.the-interface-keeps-changing | - | Patches keep moving the men
 game-design.randomness.the-best-gear-is-not-left-to-chance | + | The reviewer thanks the studio for making the endgame weapons something the player works towards rather than a
 publishing.monetisation-practice.the-shop-hides-a-requirement | - | The shop sells an item without saying that the player must meet a requirement - a rank, a level - before they 
 game-design.role-design.some-characters-are-hard-to-master | - | The reviewer lists some characters as difficult to master, as a con. Warframe 25912976 (Limbo).
+narrative.story.lost-on-new-players | - | The reviewer says a part of the story will make no sense to someone new to the game, because it leans on what 
+live-ops.patch-quality.each-update-brings-new-bugs | - | Every release brings new or returning bugs, and can leave the game unplayable for a day or two. **Distinct fro
