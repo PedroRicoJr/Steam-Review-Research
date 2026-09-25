@@ -9814,3 +9814,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A drop lost to a bug:** 96263466 (8,096 hours) farmed a frame part for a month, and when it finally dropped they were stuck in a tree trunk and removed from the mission; on `you-get-stuck-on-the-scenery` and `the-thing-you-need-may-never-roll`.
 - **Crude text kept out:** 94768179 (a crude joke about a warframe).
 - **Multi-dated reviews flattened this batch:** 92068508 (2022), 92494432 (2026), 94188772 (2024), 94771436, 94768919 (2023), 95288773, 96262504 (2025).
+
+## Notes - round 447 (Warframe batch 40)
+
+50 read (2021-07-31 to 2021-10-07), 77 bullets, 0 excluded, 4 edited later. Running total 2,050 of 3,235. 46 up / 4 down. Tree 1,521 -> 1,526 (5 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.54, 38 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 5.8 bullets each and 32 words per bullet, 27% of bullets on an `.unknown`.
+- **Built (5):** from 97137969, a considered 3/5: `narrative.story.still-unfinished-years-on` (-), `content-amount.sprawling-to-a-fault` (-, the other side of `plenty`) and `level-design.most-levels-can-be-skipped` (-). From 98960067: `unlock-pace.some-items-can-never-be-got-again` (-, Flawed mods locked after the tutorial) and `modes.stealth-is-an-option` (+).
+- **Jabs and crude text kept out:** 97133678 (a week to change an email, with a jab at a named staff member), 99417758 (a crude, violent joke), 100700395 (a crude nonsense rant before "Warframe is boring").
+- **Multi-dated reviews flattened this batch:** 97643714 (2025), 98118359 (2024), 98588003 (2025), 100694882 (2023).

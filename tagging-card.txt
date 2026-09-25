@@ -1519,3 +1519,8 @@ engineering.stability.less-stable-than-it-used-to-be | - | The game used to run 
 game-design.progression.achievements.plenty-to-hunt | + | The reviewer points achievement hunters to a large set of achievements as a reason to play. **Distinct from `.
 game-design.world-interaction.the-world-clock-runs-in-real-time | + | The game world's clocks and cycles - day and night, rotations - run in real time, which the reviewer enjoys. W
 community.social-features.a-good-clan-makes-the-game | + | The reviewer says joining a good clan is close to essential: its guidance and help make all the difference to 
+narrative.story.still-unfinished-years-on | - | Years after release the story still has open gaps and no end, so the game feels unfinished. Warframe 97137969 
+production.content-amount.sprawling-to-a-fault | - | There is too much - systems, currencies, side missions per area - and the sprawl works against the game rather
+game-design.level-design.most-levels-can-be-skipped | - | Nothing pushes the player through most of the levels; they can skip them and still follow the story, so the le
+game-design.progression.unlock-pace.some-items-can-never-be-got-again | - | Some items can only be got at one point - in the tutorial, say - and are locked out after it, so a complete co
+game-design.modes.stealth-is-an-option | + | Missions can be done by stealth - silent weapons, taking enemies down before the alarm - as well as by force. 

@@ -9503,6 +9503,36 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 445, Warframe batch 38.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 40 - round 447 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.still-unfinished-years-on` | **−** | Years after release the story still has open gaps and no end, so the game feels unfinished. Warframe 97137969 (8 years in). |
+
+### `production.content-amount`
+| Mode | | Definition |
+|---|---|---|
+| `.sprawling-to-a-fault` | **−** | There is too much - systems, currencies, side missions per area - and the sprawl works against the game rather than for it. **The other side of `.plenty`.** Warframe 97137969. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.most-levels-can-be-skipped` | **−** | Nothing pushes the player through most of the levels; they can skip them and still follow the story, so the levels feel pointless. Warframe 97137969. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.some-items-can-never-be-got-again` | **−** | Some items can only be got at one point - in the tutorial, say - and are locked out after it, so a complete collection is out of reach. Warframe 98960067 (Flawed mods). |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.stealth-is-an-option` | **+** | Missions can be done by stealth - silent weapons, taking enemies down before the alarm - as well as by force. Warframe 98960067. |
+
+🔑 **Round 447, Warframe batch 40.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
