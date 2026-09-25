@@ -9176,6 +9176,36 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 429, Warframe batch 22.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 23 - round 430 (Rule C)
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.no-invisible-walls` | **+** | Almost every place the player can see, they can reach; few invisible walls stop them. **The positive twin of `.invisible-walls-block-the-way`.** Warframe 41191292. |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.turned-off-comments-on-the-review` | ~ | The reviewer says they disabled comments on their own review because of the replies it drew. Warframe 41512880. |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-pvp-is-good` | **+** | The reviewer calls the player-versus-player mode cool or balanced. **The positive side of `.a-mode-falls-flat` for PvP; distinct from `.the-pvp-is-what-keeps-it-alive`**, which is about what holds the player base. Warframe 41633736. |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.the-chat-filter-bans-for-harmless-words` | **−** | The automatic chat moderator bans players for harmless words or numbers. Warframe 42200064 (a week's ban for typing "212"). |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.heavy-handed-support` | **−** | The reviewer calls the studio's support draconian - quick to ban, slow to hear the player out. Warframe 42413197. |
+
+🔑 **Round 430, Warframe batch 23.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1468,3 +1468,8 @@ game-design.difficulty-tuning.the-endgame-demands-the-meta | - | The late conten
 community.player-conduct.chat-moderators-play-favourites | - | The reviewer says the game's chat moderators were chosen by favouritism and their bans cannot be appealed. War
 engineering.access.banned-for-someone-elses-fraud | - | A player who traded with someone using stolen payment details can lose their own account, with no way to appea
 game-design.punishment-model.failing-still-pays-something | + | A failed mission still pays out part of what it earned - some experience - so failing does not feel wasted. **
+game-design.level-design.no-invisible-walls | + | Almost every place the player can see, they can reach; few invisible walls stop them. **The positive twin of `
+review.turned-off-comments-on-the-review | ~ | The reviewer says they disabled comments on their own review because of the replies it drew. Warframe 41512880
+game-design.modes.the-pvp-is-good | + | The reviewer calls the player-versus-player mode cool or balanced. **The positive side of `.a-mode-falls-flat`
+community.player-conduct.the-chat-filter-bans-for-harmless-words | - | The automatic chat moderator bans players for harmless words or numbers. Warframe 42200064 (a week's ban for t
+community.developer-communication.heavy-handed-support | - | The reviewer calls the studio's support draconian - quick to ban, slow to hear the player out. Warframe 424131

@@ -9639,3 +9639,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Politics, both ways, recorded as objections and support, not judged:** 39166285 (a 2025 edit) withdraws the recommendation over an ideology it says the game supports, on `studio-politics-put-me-off`; 40473002 praises the studio's yearly pride celebrations and writes to push back against review-bombing, on `likes-the-people-running-the-studio` and `review.written-to-pull-the-score-back`.
 - **Crude text kept out:** 38600085 is a crude insult with nothing about the game, recorded as such on `review.negative.unknown`. 39167806 is a copied joke story, on `review.repeats-a-copied-meme-text`.
 - **Multi-dated reviews flattened this batch:** 27 of 100, among them 39917671 (a 2019 review with a 2026 return after seven years, 54 found it helpful), 37964318 (2022), 37964319 (the PS4-to-PC transfer, first refused, later allowed), 39166285 (2025), 40473002 (2024).
+
+## Notes - round 430 (Warframe batch 23)
+
+50 read (2018-03-31 to 2018-06-07), 106 bullets, 0 excluded, 12 edited later. Running total 1,250 of 3,235. 40 up / 10 down. 19 bullets on an `.unknown` (18%). Tree 1,470 -> 1,475 (5 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **The quality watch, read again at 50:** bullets per long review (over 60 words) came out at 5.4 - as low as at 100 (5.3, 5.8) - while words per bullet on those reviews fell to 26, the densest of any batch measured (27-39). So the lower bullets-per-long-review in batches 21-23 follows shorter "long" reviews in this era, not the batch size. Words per bullet is the better measure of thinning, and it has not risen. The batch size stays at 50 until Rico says otherwise; this is the evidence for his call (`OPEN-WITH-RICO.md`).
+- **Built (5):** `level-design.no-invisible-walls` (+, 41191292, the twin of `invisible-walls-block-the-way`). `review.turned-off-comments-on-the-review` (41512880). `modes.the-pvp-is-good` (+, 41633736). `player-conduct.the-chat-filter-bans-for-harmless-words` (-, 42200064: a week's ban for typing "212"). `developer-communication.heavy-handed-support` (-, 42413197, a 2019 edit).
+- **`the-endgame-demands-the-meta` got its second file:** 41781817 (a 2026 edit): "used to be play whatever you want; now it's meta based or suffering".
+- **Mastery-for-its-own-sake named twice** (42200064, 42412799: level weapons you do not want, then never use them) on `you-grind-for-gear-you-will-never-use`.
+- **A score against the thumb:** 42566383 praises the game under a thumbs up and scores it 4/10; the score line is on `review.thumb-contradicts-text`.
+- **Multi-dated reviews flattened this batch:** 41191292, 41190430 (2024), 41351052, 41512880, 41512451, 41781817 (2026), 41781539 (2021), 41911212 (2020), 42201205 (2021), 42200003, 42413197 (2019), 42412894.
