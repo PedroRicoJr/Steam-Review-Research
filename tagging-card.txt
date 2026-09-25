@@ -1490,3 +1490,5 @@ game-design.progression.complexity.the-depth-is-optional | + | The game has deep
 game-design.replayability.burned-out-only-after-years | + | The reviewer has finally burned out, but only after years and many hundreds of hours, which they count in the 
 engineering.stability.the-game-uninstalled-itself | - | The game removed itself from the player's machine without being asked, so they had to install it again. Warfra
 game-design.enemy-design.a-boss-needs-one-setup | - | A boss fight can only really be done with one particular team or gear setup. **Distinct from `difficulty-tunin
+game-design.game-feel.controls.rebinding-broke-the-controls | - | The player changed the key bindings and the controls stopped working - most actions no longer respond - with n
+narrative.world-and-setting.the-lore-contradicts-itself | - | Parts of the lore clash with other parts - paradoxes and dead ends the reviewer wishes the studio would sort o

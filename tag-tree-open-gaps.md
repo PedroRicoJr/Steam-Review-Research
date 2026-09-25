@@ -9696,3 +9696,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Existing modes, first Warframe use this batch:** "the studio's priorities are laughable" (45832719) on `working-on-the-wrong-thing-first`; the old hack that left 47373276 not trusting the game on `worried-about-account-security`; fishing (48178714) on `more-to-do-than-fighting`; the tradeable premium currency (46481850) on `the-player-market-works`.
 - **A felt content wall:** 48512090 felt a wall around mastery rank 10-14 but says there is not one; filed on `unlock-pace.unknown` rather than a new mode.
 - **Multi-dated reviews flattened this batch:** 45832719 (2021), 46481986 (2020), 47219525, 47372788 (2021), 47368649, 47760603 (2020), 47999828 (2021), 47999222 (2024), 48355234 (2020), 48354225 (2021), 48511552 (2020).
+
+## Notes - round 435 (Warframe batch 28)
+
+50 read (2019-01-31 to 2019-04-07), 104 bullets, 0 excluded, 12 edited later. Running total 1,450 of 3,235. 44 up / 6 down. Tree 1,492 -> 1,494 (2 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.08, 29 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.6 bullets each and 29 words per bullet, 25% of bullets on an `.unknown` (many one-word reviews). The long reviews are again mid-length; no sign of thinning in words per bullet.
+- **Built (2):** `controls.rebinding-broke-the-controls` (-, 49720865: after changing the key bindings they could barely move or shoot). `world-and-setting.the-lore-contradicts-itself` (-, 50022019, a 2025 edit: paradoxes in the lore; distinct from round 433's deliberate retcon `the-lore-was-rewritten`).
+- **`support-put-things-right` got its second file:** 50022019, a stolen and resold account returned quickly.
+- **A country jab kept to its tag:** 49580780 dismisses it as "a Chinese company game"; filed on `put-off-by-the-country-it-comes-from` without further wording. Its five "host migration" lines go on `the-host-leaving-ends-everyones-run`, as five earlier host-migration bullets did.
+- **Insults kept out:** 48678120 calls the community names; recorded as "worthless and fawning over the studio".
+- **Multi-dated reviews flattened this batch:** 48678120 (2021), 48677666 (2025), 49146090 (2025), 49284482 (2020), 49416491 (2025), 49415433 (2020), 49581152 (2020), 49580780, 49724324 (2022), 49884543, 49884153, 50022019 (2025).

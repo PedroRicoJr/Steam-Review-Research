@@ -9311,6 +9311,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 434, Warframe batch 27.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 28 - round 435 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.rebinding-broke-the-controls` | **−** | The player changed the key bindings and the controls stopped working - most actions no longer respond - with no easy way back. **Distinct from `.cannot-rebind`.** Warframe 49720865. |
+
+### `narrative.world-and-setting`
+| Mode | | Definition |
+|---|---|---|
+| `.the-lore-contradicts-itself` | **−** | Parts of the lore clash with other parts - paradoxes and dead ends the reviewer wishes the studio would sort out. **Distinct from `narrative.story.the-lore-was-rewritten`**, a deliberate retcon, and from `.the-rules-contradict-the-story`. Warframe 50022019. |
+
+🔑 **Round 435, Warframe batch 28.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
