@@ -1,9 +1,11 @@
 # Loop: single-sighting backlog, then Warframe, then Escape from Duckov
 
-**Started 2026-09-24 on Rico's word.** Runs every 5 minutes until 05:00 Pacific on 2026-09-25 (12:00 UTC), then every 30 minutes (Rico, 2026-09-25; 20, then 10, then 5 after the batch-size test, then 30 from 5am). How loops work in general:
+**Started 2026-09-24 on Rico's word.** Runs every 30 minutes (Rico, 2026-09-25; 20, then 10, then 5 after the batch-size test, then 30 once the cloud-session credit was found to be paying for it, about $1 a firing). How loops work in general:
 `loops/HOW-TO-RUN-A-LOOP.md`. Where this loop stands right now: `STATUS.md`.
 
-**Done when:** every stage below is finished. Then archive this file (see the how-to).
+**Standing order (Rico, 2026-09-25): keep running forever and never stop to ask.** When a unit needs a decision, take the safest default, write the question and the default taken in `OPEN-WITH-RICO.md`, and carry on with the next unit. New subjects still go to Rico the same way (parked, not waited on). Reports stay one line.
+
+**Done when:** never, by the standing order - after each game's findings, the next game starts. Archive this file only if Rico stops it.
 
 ## Stages and steps
 
@@ -27,7 +29,8 @@ report.** Work in this order:
    sampled reviews are read. Then write `findings/warframe-english.md`, `findings/warframe.md` and a
    numbered section in `findings/cross-game.md`, and mark the row Done.
 3. **Escape from Duckov** (appid 3167020): add a `GAMES-TODO.md` row, measure, dry-run, pull, read,
-   findings. Then the next game from `planning/`, closest to Dominion first; tell Rico which.
+   findings. Then the next game from `planning/`, closest to Dominion first (Rico, 2026-09-25: the loop picks it
+   itself and records why in the round note; tell Rico which in the one-line report, do not wait), and so on, game after game.
 
 **Every unit ends with:** `scripts/dircheck.py` = 0, `summarise.py check` unfitted = 0 for every group
 touched, `scripts/write_batch.py --gaps` clean for every group written to, a `## Notes - round NNN (...)` block in `tag-tree-open-gaps.md` with every count computed by

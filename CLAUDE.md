@@ -10,7 +10,8 @@ Read first, in this order: `GAMES-TODO.md` (section 4 is live), `SAMPLING-RULES.
 ## Folders
 
 - `planning/` - lists of games Rico is considering. **Not cleared to pull.** A game moves to a
-  `GAMES-TODO.md` row when Rico picks it. Current lists: `planning/action-roguelike-list.md`,
+  `GAMES-TODO.md` row when Rico picks it - or, by his standing order of 2026-09-25, when the active loop
+  reaches it (closest to Dominion first; the loop records its pick and why). Current lists: `planning/action-roguelike-list.md`,
   `planning/third-person-shooter-list.md`.
 - `scripts/` - the batch helpers (below).
 - `raw/<game>/<lang>/` - samples and summaries. `findings/` - per-game and cross-game findings.
