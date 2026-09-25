@@ -9463,6 +9463,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 442, Warframe batch 35.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 36 - round 443 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.support-is-responsive` | **+** | The reviewer praises the studio's support team as responsive in general, without one case to point to. **The other side of `.support-is-unhelpful-in-general`**; a specific fix goes on `.support-put-things-right`. Warframe 78042797. |
+
+### `engineering.stability`
+| Mode | | Definition |
+|---|---|---|
+| `.less-stable-than-it-used-to-be` | **−** | The game used to run without crashing on the player's machine and no longer does. Warframe 78491375 (a 2026 edit). |
+
+🔑 **Round 443, Warframe batch 36.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

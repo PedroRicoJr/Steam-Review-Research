@@ -9776,3 +9776,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (1):** `language-availability.my-language-is-missing` (-, 72755464, a 2026 edit: "why no Arabic?"). The branch had only `wrong-language-forced` before.
 - **Thumb against text:** 73942178 calls it "one of my favorite games of all time" under a thumbs down; on `review.thumb-contradicts-text`.
 - **Multi-dated reviews flattened this batch:** 72757968 (2025), 72755464 (2026), 73581387 (2023), 74373319 (2023), 76401656 (2024).
+
+## Notes - round 443 (Warframe batch 36)
+
+50 read (2020-09-30 to 2020-12-07), 104 bullets, 0 excluded, 7 edited later. Running total 1,850 of 3,235. 42 up / 8 down. Tree 1,516 -> 1,518 (2 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.08, 32 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 6.1 bullets each and 26 words per bullet, 17% of bullets on an `.unknown`.
+- **Built (2):** `developer-communication.support-is-responsive` (+, 78042797; the general-praise twin of `support-is-unhelpful-in-general`, where `support-put-things-right` holds a specific fix). `stability.less-stable-than-it-used-to-be` (-, 78491375, a 2026 edit at 6,786 hours: "used to be the one game that never crashed").
+- **Three veterans' complaints, late 2020:** 77617354 (34 found it helpful; ~2,000 hours, over $1,000 spent), 78042569 (no endgame - "done everything" at 500-600 hours) and 79333729 (each update adds grind walls). Their claims went on existing modes: `made-it-worse`, `nerfs-what-players-liked`, `punishes-criticism`, `studio-politics-put-me-off`, `nothing-left-to-chase`, `progression-outgrows-the-challenge`, `the-studio-does-not-play-its-own-game`.
+- **A jab kept out:** 77614029 is a Spanish jab at a named person; not repeated.
+- **Multi-dated reviews flattened this batch:** 77201409 (2026), 78491375 (2026), 79682128 (2024), 81295435 (2023), 81292305, 81808415 (2022), 81806465 (2025).
