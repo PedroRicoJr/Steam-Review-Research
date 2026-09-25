@@ -9603,6 +9603,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 456, Warframe batch 49.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 51 - round 458 (Rule C)
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.the-early-game-was-left-behind` | **−** | Updates pile on new content while the oldest parts - the opening levels, enemies, bosses and systems a new player meets first - stay as they were years ago. Warframe 156064531 (content "since 2013 is still unchanged"). |
+
+🔑 **Round 458, Warframe batch 51.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

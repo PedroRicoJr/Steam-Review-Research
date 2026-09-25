@@ -9919,3 +9919,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A long compulsory intro:** 149280134 says a 3-hour tutorial with cutscenes now stands between the first boss and leaving the first planet; on `buried-in-setup-before-playing`.
 - **`keeps-playing-while-hating-it` got its fourth file:** 149728240 (3,945 hours: "it's a trap... when it's too late to break free").
 - **Three languages under the English tag:** 146362117 and 149280275 (Portuguese), 146361146 (Spanish).
+
+## Notes - round 458 (Warframe batch 51)
+
+50 read (2023-11-15 to 2024-01-23), 79 bullets, 0 excluded, 8 edited later. Running total 2,600 of 3,235. 48 up / 2 down. Tree 1,534 -> 1,535 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 08:44 backstop firing; the loop now runs every 30 minutes under Rico's standing order (run forever, never stop to ask).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.58, 31 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 4.8 bullets each and 60 words per bullet, 20% of bullets on an `.unknown`. Words per bullet is high because 154934120 (nostalgia and booster advice) and 156064531 (a rant) are long and make fewer, broader points than their length suggests.
+- **Built (1):** `patch-quality.the-early-game-was-left-behind` (-, 156064531: "the content that's been in the game since 2013 is still unchanged"). 130389710 in round 453 said the same ("Early content is 13 years old"), filed then on `poorly-explained`; left there.
+- **Cross-save arrives, late 2023:** three reviews (154252610, 154934120, 156661131) say cross-save or account merging brought them to PC; on `cross-save-works`. `frustration-is-built-to-sell-shortcuts` got its fifth file (156064531).
+- **1999 praised:** 153676154 (a 2025 edit) says the 1999 story was the first in the game to make them feel something; on `the-story-got-better-over-time` and `funny-or-memorable`.
