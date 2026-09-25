@@ -8953,6 +8953,62 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 422, Warframe batch 15.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 16 - round 423 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.the-steam-overlay-shortcut-clashes` | **−** | The store's overlay shortcut gets in the way of the player's control scheme, so they play outside the store's client. Warframe 23160257. |
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-story-got-worse-over-time` | **−** | The reviewer says the story, lore or tone has gone downhill since a named point, and the newer writing puts them off. **Distinct from `.thin-or-forgettable`**, which judges the story as a whole. Warframe 23161305. |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.bosses-hide-behind-invulnerable-phases` | **−** | Boss fights are built around stretches where the boss cannot be hurt, and the reviewer names that as what makes them dull. **Distinct from `.bosses-are-a-chore`**, which is about length. Warframe 23161305. |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.recruiting-is-a-wall-of-chat` | **−** | Finding a group means reading a chat channel of fast-moving text. **Distinct from `.the-player-market-works-badly`**, which is about trading. Warframe 23161305. |
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.every-reward-comes-from-the-same-missions` | **−** | The rewards the player wants all come from the same small set of missions, so they replay those while the rest of the maps go unused. Warframe 23160854. |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.fixes-come-within-hours` | **+** | The reviewer says a glitch is fixed within minutes or hours of being found. **Distinct from `.fixed-what-mattered`**, which is about what was fixed. Warframe 23160854. |
+| `.each-update-adds-more-grind` | **−** | Every update brings new resources, gear or modes to grind for, so the grind never shrinks. **Distinct from `.the-updates-add-to-what-i-did-not-come-for`**. Warframe 23161305. |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.written-as-a-diary-at-hour-marks` | ~ | The review is written in dated or hour-marked entries - 30 hours, 50 hours, 100 hours - to record how the reviewer's view changes. Warframe 23577928. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-endgame-is-within-reach` | **+** | The reviewer says the late or endgame content is not too hard to get to. Warframe 23318065. |
+
+### `engineering.platform-support`
+| Mode | | Definition |
+|---|---|---|
+| `.better-here-than-elsewhere` | **+** | The reviewer says this version plays better than the game on another platform. **The inverse of `.better-elsewhere`.** Warframe 23441031. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.a-fair-business-model` | **+** | The reviewer calls the way the game makes money fair, without naming what it sells. **Distinct from `.cosmetic-only`**, which says what is sold. Warframe 23010711 and 23714521. |
+
+🔑 **Round 423, Warframe batch 16.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

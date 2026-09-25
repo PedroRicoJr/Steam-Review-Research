@@ -1428,3 +1428,14 @@ production.content-variety.more-to-do-than-fighting | + | The reviewer praises t
 engineering.platform-support.clumsy-on-a-phone | - | The phone version works but is hard to play - the screen is cluttered with menus and the touch controls are we
 community.player-conduct.a-teammate-sets-off-a-trap-on-you | - | Another player triggers a trap or hazard in the level - lasers on a defence mission - and it kills the reviewe
 marketing.discovery.tried-it-because-it-was-free | ~ | The player names the game being free, and fitting their group, as why they picked it up. **Deliberately neutra
+game-design.game-feel.controls.the-steam-overlay-shortcut-clashes | - | The store's overlay shortcut gets in the way of the player's control scheme, so they play outside the store's 
+narrative.story.the-story-got-worse-over-time | - | The reviewer says the story, lore or tone has gone downhill since a named point, and the newer writing puts th
+game-design.enemy-design.bosses-hide-behind-invulnerable-phases | - | Boss fights are built around stretches where the boss cannot be hurt, and the reviewer names that as what make
+community.social-features.recruiting-is-a-wall-of-chat | - | Finding a group means reading a chat channel of fast-moving text. **Distinct from `.the-player-market-works-ba
+production.content-variety.every-reward-comes-from-the-same-missions | - | The rewards the player wants all come from the same small set of missions, so they replay those while the rest
+live-ops.patch-quality.fixes-come-within-hours | + | The reviewer says a glitch is fixed within minutes or hours of being found. **Distinct from `.fixed-what-matte
+live-ops.patch-quality.each-update-adds-more-grind | - | Every update brings new resources, gear or modes to grind for, so the grind never shrinks. **Distinct from `.t
+review.written-as-a-diary-at-hour-marks | ~ | The review is written in dated or hour-marked entries - 30 hours, 50 hours, 100 hours - to record how the revi
+game-design.progression.unlock-pace.the-endgame-is-within-reach | + | The reviewer says the late or endgame content is not too hard to get to. Warframe 23318065.
+engineering.platform-support.better-here-than-elsewhere | + | The reviewer says this version plays better than the game on another platform. **The inverse of `.better-elsew
+publishing.monetisation-practice.a-fair-business-model | + | The reviewer calls the way the game makes money fair, without naming what it sells. **Distinct from `.cosmetic
