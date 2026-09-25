@@ -9928,3 +9928,11 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (1):** `patch-quality.the-early-game-was-left-behind` (-, 156064531: "the content that's been in the game since 2013 is still unchanged"). 130389710 in round 453 said the same ("Early content is 13 years old"), filed then on `poorly-explained`; left there.
 - **Cross-save arrives, late 2023:** three reviews (154252610, 154934120, 156661131) say cross-save or account merging brought them to PC; on `cross-save-works`. `frustration-is-built-to-sell-shortcuts` got its fifth file (156064531).
 - **1999 praised:** 153676154 (a 2025 edit) says the 1999 story was the first in the game to make them feel something; on `the-story-got-better-over-time` and `funny-or-memorable`.
+
+## Notes - round 459 (Warframe batch 52)
+
+50 read (2024-01-31 to 2024-04-07), 66 bullets, 0 excluded, 5 edited later. Running total 2,650 of 3,235. 48 up / 2 down. Tree unchanged at 1,535. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 09:44 backstop firing after a session restart; the 30-minute timer had died with the session and was re-created (`e4544ab4`). The 09:07 and 09:37 firings did not run.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.32, 41 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 4.2 bullets each and 25 words per bullet, 27% of bullets on an `.unknown`. A one-liner batch.
+- **A frame weaker in multiplayer:** 162448436 says one warframe's passive works solo but not in multiplayer; on `role-design.the-same-class-is-weaker-in-one-mode-than-another`.
+- **Cross-save, again:** 157289905 and 161918369 came to PC with their console accounts; on `cross-save-works`.
