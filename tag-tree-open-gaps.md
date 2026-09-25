@@ -9844,3 +9844,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **The new tutorial, early 2022:** 110725572 and 111249311 both praise the new-player training; on `teaches-you-as-you-go`.
 - **Crude text kept out:** 111266648's crude asides and 111269529's drug comparison are not repeated.
 - **Multi-dated reviews flattened this batch:** 108651326.
+
+## Notes - round 450 (Warframe batch 43)
+
+50 read (2022-03-15 to 2022-05-23), 99 bullets, 0 excluded, 6 edited later. Running total 2,200 of 3,235. 47 up / 3 down. Tree 1,528 -> 1,530 (2 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.98, 32 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 5.9 bullets each and 38 words per bullet, 17% of bullets on an `.unknown`. Words per bullet is high because two long reviews (114303688 and 114747075) run to several hundred words each.
+- **Built (2):** `social-features.groups-break-up-after-each-mission` (-, 112721537: "companionship is mostly temporary and mission focused"). `monetisation-practice.currency-packs-leave-you-just-short` (-, 114747075: "buy either not enough or just a bit too much").
+- **`sprawling-to-a-fault` got its third file:** 114747075 ("There's just *too much content*"). Three sightings in four rounds since it was built in round 447.
+- **A fix confirmed in an edit:** 114747225's Zariman complaints (no guidance, a missing accolade) were followed by a 2022 edit saying updates fixed them; on `fixed-what-mattered`.
+- **Multi-dated reviews flattened this batch:** 112260003 (2025), 113140634 (2024), 113916609 (2025), 113913457, 114747225, 115120890 (2025).

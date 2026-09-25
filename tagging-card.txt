@@ -1526,3 +1526,5 @@ game-design.progression.unlock-pace.some-items-can-never-be-got-again | - | Some
 game-design.modes.stealth-is-an-option | + | Missions can be done by stealth - silent weapons, taking enemies down before the alarm - as well as by force. 
 game-design.new-player-experience.the-starter-stays-useful | + | The character or gear the player starts with stays viable well into the mid-game, so the first choice is not w
 game-design.ui-ux.the-menu-is-a-place-in-the-world | + | The main menu is a space the player walks around in - their own ship - rather than a flat screen, and the revi
+community.social-features.groups-break-up-after-each-mission | - | Teaming up lasts only for a mission; the game has little to keep players together afterwards, so it does not f
+publishing.monetisation-practice.currency-packs-leave-you-just-short | - | The premium currency is sold in amounts that never match shop prices - just too little or a bit too much - nud

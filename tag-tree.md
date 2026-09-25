@@ -9548,6 +9548,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 448, Warframe batch 41.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 43 - round 450 (Rule C)
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.groups-break-up-after-each-mission` | **−** | Teaming up lasts only for a mission; the game has little to keep players together afterwards, so it does not feel like a real MMO community. Warframe 112721537. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.currency-packs-leave-you-just-short` | **−** | The premium currency is sold in amounts that never match shop prices - just too little or a bit too much - nudging the player to buy one more pack. Warframe 114747075. |
+
+🔑 **Round 450, Warframe batch 43.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
