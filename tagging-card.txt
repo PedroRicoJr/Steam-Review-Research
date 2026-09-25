@@ -1509,3 +1509,7 @@ live-ops.patch-quality.exploits-are-fixed-faster-than-bugs | - | Anything player
 live-ops.patch-quality.came-back-and-nothing-had-changed | - | The reviewer returned after time away hoping the game had changed, and found it the same as before. Warframe 6
 game-design.level-design.the-levels-do-not-suit-the-movement | - | The movement is fun, but the environments are not built to make use of it. Warframe 67842799.
 publishing.monetisation-practice.frustration-is-built-to-sell-shortcuts | - | The reviewer says systems are designed to frustrate the player - traps, pitfalls, waits - so that they pay to 
+game-design.enemy-design.enemies-adapt-to-your-damage | - | An enemy grows resistant to the damage types you keep using, so a fight the player cannot adapt to drags on an
+engineering.access.no-sign-in-through-steam | - | The game makes the player log in to its own account every time instead of signing in through Steam. Warframe 7
+narrative.story.the-story-got-better-over-time | + | Story added after launch has improved a weak story. **The other side of `.the-story-got-worse-over-time`.** Wa
+game-design.progression.unlock-pace.a-companion-needs-upkeep | - | A pet or companion has to be kept fed or maintained to keep fighting for the player - one more chore that asks

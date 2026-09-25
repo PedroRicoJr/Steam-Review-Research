@@ -9428,6 +9428,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 440, Warframe batch 33.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 34 - round 441 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.enemies-adapt-to-your-damage` | **−** | An enemy grows resistant to the damage types you keep using, so a fight the player cannot adapt to drags on and punishes them. Warframe 68327379 (the Sentients). |
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.no-sign-in-through-steam` | **−** | The game makes the player log in to its own account every time instead of signing in through Steam. Warframe 70859935. |
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-story-got-better-over-time` | **+** | Story added after launch has improved a weak story. **The other side of `.the-story-got-worse-over-time`.** Warframe 70857695. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.a-companion-needs-upkeep` | **−** | A pet or companion has to be kept fed or maintained to keep fighting for the player - one more chore that asks for grind or money. Warframe 71760681. |
+
+🔑 **Round 441, Warframe batch 34.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

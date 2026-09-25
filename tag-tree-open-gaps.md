@@ -9757,3 +9757,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (6):** `co-op-design.teammates-rush-past-the-puzzles` (-, 63514141) and `co-op-design.story-missions-must-be-played-alone` (-, 66295102). `patch-quality.exploits-are-fixed-faster-than-bugs` (-, 67843302) and `patch-quality.came-back-and-nothing-had-changed` (-, 64324714). `level-design.the-levels-do-not-suit-the-movement` (-, 67842799). `monetisation-practice.frustration-is-built-to-sell-shortcuts` (-, 67842799; distinct from `aggressive-storefront`).
 - **67843302, a veteran's case against the studio (7,077 hours):** automated support, a chat filter that bans for a weapon's own name or for players saying who they are, creators dropped from the partner programme for criticism, whole-altercation bans. Each claim went on its existing mode (`support-replied-with-a-form-letter`, `the-chat-filter-bans-for-harmless-words` - its third file - `punishes-criticism`, `heavy-handed-support`); it ends as a second file for round 437's `keeps-playing-while-hating-it` ("a poison... that a veteran like me won't abandon so easily YET").
 - **Multi-dated reviews flattened this batch:** 63513338 (2021), 65116897 (2025), 67396957 (2023), 67843302 (2026).
+
+## Notes - round 441 (Warframe batch 34)
+
+50 read (2020-04-30 to 2020-07-07), 97 bullets, 0 excluded, 7 edited later. Running total 1,750 of 3,235. 43 up / 7 down. Tree 1,511 -> 1,515 (4 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.94, 33 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 6.2 bullets each and 28 words per bullet, 22% of bullets on an `.unknown`.
+- **Built (4):** `enemy-design.enemies-adapt-to-your-damage` (-, 68327379, the Sentients). `access.no-sign-in-through-steam` (-, 70859935: "Please auto login with steam, it's 2020"). `narrative.story.the-story-got-better-over-time` (+, 70857695; the other side of `the-story-got-worse-over-time`). `unlock-pace.a-companion-needs-upkeep` (-, 71760681: keep your pet fed to keep it fighting).
+- **`frustration-is-built-to-sell-shortcuts` got its second file** one round after it was built: 71760681, "roadblocks that either require you grind/wait something out, or pay money".
+- **Old modes left behind:** 69690329 names hoverboard and Archwing missions as outdated and empty; filed on `a-system-was-left-half-finished` and `one-mode-has-no-players`.
+- **Multi-dated reviews flattened this batch:** 68759888 (2023), 69200496, 69695045 (2021), 70118998 (2023), 70857822 (2024), 72258171 (2026), 72257710 (2022).
