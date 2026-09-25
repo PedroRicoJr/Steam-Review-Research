@@ -9834,3 +9834,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **The New War, December 2021:** 105894200 ("after 5 years we got it") on `slow-but-worth-the-wait`; 101520009 (a 2025 edit) quit because the quest needs a Necramech built first, on `gated-behind-a-different-mode`.
 - **An unclear remark:** 105433264 says only "the women that make the videos are not consentual"; its meaning is not clear from the text, so it is recorded as unclear, on `review.negative.unknown`.
 - **Multi-dated reviews flattened this batch:** 101110242 (2025), 101521751 (2024), 101520009 (2025), 101997179, 101994456 (2023), 102409414 (2024), 103297832 (2025), 105894288 (2024), 105894283 (2022).
+
+## Notes - round 449 (Warframe batch 42)
+
+50 read (2021-12-31 to 2022-03-07), 81 bullets, 0 excluded, 1 edited later. Running total 2,150 of 3,235. 49 up / 1 down. Tree unchanged at 1,528: every bullet fitted an existing mode. Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.62, 35 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 5.0 bullets each and 23 words per bullet, 25% of bullets on an `.unknown`.
+- **Griefing with glitches:** 110722203 (the batch's one thumbs down) says higher-level players exploit glitches to make others lose their loot; on `trolls-and-griefers`.
+- **The new tutorial, early 2022:** 110725572 and 111249311 both praise the new-player training; on `teaches-you-as-you-go`.
+- **Crude text kept out:** 111266648's crude asides and 111269529's drug comparison are not repeated.
+- **Multi-dated reviews flattened this batch:** 108651326.
