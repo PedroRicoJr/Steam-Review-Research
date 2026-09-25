@@ -9533,6 +9533,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 447, Warframe batch 40.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 41 - round 448 (Rule C)
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.the-starter-stays-useful` | **+** | The character or gear the player starts with stays viable well into the mid-game, so the first choice is not wasted. **The other side of `.stuck-with-the-worst-starter`.** Warframe 106389174 (Excalibur). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-menu-is-a-place-in-the-world` | **+** | The main menu is a space the player walks around in - their own ship - rather than a flat screen, and the reviewer enjoys it. Warframe 106387932. |
+
+🔑 **Round 448, Warframe batch 41.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

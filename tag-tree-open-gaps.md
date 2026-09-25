@@ -9823,3 +9823,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Built (5):** from 97137969, a considered 3/5: `narrative.story.still-unfinished-years-on` (-), `content-amount.sprawling-to-a-fault` (-, the other side of `plenty`) and `level-design.most-levels-can-be-skipped` (-). From 98960067: `unlock-pace.some-items-can-never-be-got-again` (-, Flawed mods locked after the tutorial) and `modes.stealth-is-an-option` (+).
 - **Jabs and crude text kept out:** 97133678 (a week to change an email, with a jab at a named staff member), 99417758 (a crude, violent joke), 100700395 (a crude nonsense rant before "Warframe is boring").
 - **Multi-dated reviews flattened this batch:** 97643714 (2025), 98118359 (2024), 98588003 (2025), 100694882 (2023).
+
+## Notes - round 448 (Warframe batch 41)
+
+50 read (2021-10-15 to 2021-12-23), 92 bullets, 0 excluded, 9 edited later. Running total 2,100 of 3,235. 45 up / 5 down. Tree 1,526 -> 1,528 (2 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.84, 32 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 5.4 bullets each and 20 words per bullet, 16% of bullets on an `.unknown`.
+- **Built (2):** `new-player-experience.the-starter-stays-useful` (+, 106389174: Excalibur viable well into the mid-game; the other side of `stuck-with-the-worst-starter`). `ui-ux.the-menu-is-a-place-in-the-world` (+, 106387932: "Your main menu is your in-game spaceship!!!").
+- **`sprawling-to-a-fault` got its second file** one round after it was built: 102411689, "so much content and mechanics that its a bit of a mess".
+- **The New War, December 2021:** 105894200 ("after 5 years we got it") on `slow-but-worth-the-wait`; 101520009 (a 2025 edit) quit because the quest needs a Necramech built first, on `gated-behind-a-different-mode`.
+- **An unclear remark:** 105433264 says only "the women that make the videos are not consentual"; its meaning is not clear from the text, so it is recorded as unclear, on `review.negative.unknown`.
+- **Multi-dated reviews flattened this batch:** 101110242 (2025), 101521751 (2024), 101520009 (2025), 101997179, 101994456 (2023), 102409414 (2024), 103297832 (2025), 105894288 (2024), 105894283 (2022).

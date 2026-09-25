@@ -1524,3 +1524,5 @@ production.content-amount.sprawling-to-a-fault | - | There is too much - systems
 game-design.level-design.most-levels-can-be-skipped | - | Nothing pushes the player through most of the levels; they can skip them and still follow the story, so the le
 game-design.progression.unlock-pace.some-items-can-never-be-got-again | - | Some items can only be got at one point - in the tutorial, say - and are locked out after it, so a complete co
 game-design.modes.stealth-is-an-option | + | Missions can be done by stealth - silent weapons, taking enemies down before the alarm - as well as by force. 
+game-design.new-player-experience.the-starter-stays-useful | + | The character or gear the player starts with stays viable well into the mid-game, so the first choice is not w
+game-design.ui-ux.the-menu-is-a-place-in-the-world | + | The main menu is a space the player walks around in - their own ship - rather than a flat screen, and the revi
