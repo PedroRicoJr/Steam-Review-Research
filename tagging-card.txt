@@ -1418,3 +1418,7 @@ game-design.role-design.too-few-abilities-per-character | - | The reviewer wants
 community.user-created-content.an-update-broke-the-mods | - | A studio update or a change of owner broke the mods players relied on. **The other side of `.mods-fix-what-the
 game-design.world-interaction.the-interact-key-picks-the-wrong-thing | - | One button does several jobs, and the game picks the wrong one - it picks up ammo when the player means to rev
 game-design.world-interaction.wait-for-the-npc-before-you-can-talk | - | The player has to wait for a character's idle animation to finish before the game lets them interact. Round 33
+game-design.enemy-design.one-enemy-is-overtuned | - | The reviewer names one enemy type as too strong and wants it toned down. **Distinct from `.one-enemy-type-is-h
+game-design.game-feel.combat.feels-bad-even-when-played-well | - | The reviewer uses every mechanic properly - parries, dodges - and says the combat still does not feel good. Ro
+game-design.progression.achievements.does-not-say-what-is-missing | - | An achievement stays locked and the game gives no sign of which requirement is still missing. **Distinct from 
+community.culture.the-community-completes-the-game | + | The reviewer says following the community and the game's news outside the game is part of the experience, and 

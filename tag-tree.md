@@ -8897,6 +8897,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 420, backlog rows 461-472 - the last open rows.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in the backlog check rows - round 421 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.one-enemy-is-overtuned` | **−** | The reviewer names one enemy type as too strong and wants it toned down. **Distinct from `.one-enemy-type-is-hated`**, which gives no reason, and from `power-balance.something-needs-a-nerf`, which names the player's own options. Rounds 290 and 297. |
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.feels-bad-even-when-played-well` | **−** | The reviewer uses every mechanic properly - parries, dodges - and says the combat still does not feel good. Round 310's note. |
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.does-not-say-what-is-missing` | **−** | An achievement stays locked and the game gives no sign of which requirement is still missing. **Distinct from `.do-not-track-what-you-actually-did`**, where the player did the thing. Gap 194. |
+
+### `community.culture`
+| Mode | | Definition |
+|---|---|---|
+| `.the-community-completes-the-game` | **+** | The reviewer says following the community and the game's news outside the game is part of the experience, and advises staying in the loop. Gap 13. |
+
+🔑 **Round 421, the 24 `check` rows of the backlog.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
