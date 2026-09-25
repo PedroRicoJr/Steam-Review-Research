@@ -8922,6 +8922,37 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 421, the 24 `check` rows of the backlog.** Built on first sighting under Rule C; re-homes listed in `tag-tree-open-gaps.md`.
 
 
+## Modes added in Warframe batch 15 - round 422 (Rule C)
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.you-end-up-paying-sooner-or-later` | **−** | The reviewer warns that a free game will cost money in the end, whatever the player intends. **Distinct from `.pay-affects-play`**, which is about what money buys. Warframe 22013309, and 10209689 from `.unknown`. |
+| `.advises-what-not-to-spend-on` | ~ | The reviewer tells readers not to spend money in the game, or names the only purchases worth making - slots, say. **Deliberately neutral**: advice, not a verdict. Warframe 21859587 and 21694803. |
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.more-to-do-than-fighting` | **+** | The reviewer praises the game for giving the player things to do besides fighting. **The positive twin of `.wants-more-than-shooting`.** Warframe 21859587. |
+
+### `engineering.platform-support`
+| Mode | | Definition |
+|---|---|---|
+| `.clumsy-on-a-phone` | **−** | The phone version works but is hard to play - the screen is cluttered with menus and the touch controls are weak. **Distinct from `.broken-on-my-platform`**, where it does not work. Warframe 22013567. |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.a-teammate-sets-off-a-trap-on-you` | **−** | Another player triggers a trap or hazard in the level - lasers on a defence mission - and it kills the reviewer. Records what happened, not whether it was on purpose. Warframe 21861158. |
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.tried-it-because-it-was-free` | ~ | The player names the game being free, and fitting their group, as why they picked it up. **Deliberately neutral**, like the rest of `discovery`. Warframe 22292504. |
+
+🔑 **Round 422, Warframe batch 15.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
