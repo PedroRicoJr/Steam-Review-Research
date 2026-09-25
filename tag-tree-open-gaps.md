@@ -10016,4 +10016,4 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.46, 37 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 3.1 bullets each and 35 words per bullet, 32% of bullets on an `.unknown`.
 - **Being carried overwhelms:** 217817555 advises starting at your own pace rather than being taxied by a keen friend; on `learn-it-alone-before-joining-others`, the reverse of the many `needs-carrying` bullets.
 - **A slur kept out:** 216644779 is one crude line with a slur; not repeated.
-- **The newest reviews:** this batch reaches February 2026; two batches remain (50, then 35).
+- **The newest reviews:** this batch reaches February 2026; three batches remain (50, 50, then 35).
