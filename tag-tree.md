@@ -9573,6 +9573,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 452, Warframe batch 45.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 46 - round 453 (Rule C)
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.no-cheaters-seen` | **+** | The reviewer says that in a long time playing they have never met a hacker or cheater. **The other side of `.cheaters-spoil-matches`.** Warframe 130389710 (2,500+ hours). |
+
+🔑 **Round 453, Warframe batch 46.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -9874,3 +9874,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Late-2022 veterans turn:** 122655394 (a 2025 edit; builds narrowed by nerfs, an event that did not pay out for a week, an update shipped near-unplayable), 122655057 (no endgame, bullet-sponge archons; a 2023 edit on Duviri) and 123509408 (recycled open worlds, a grind built to sell skips - the third file for `frustration-is-built-to-sell-shortcuts`). 124296514 answers them from the other side: negative reviews are review-bombing after exploits were patched (`judged-unfairly`).
 - **Copied and dark text kept out:** 124297245 is a copied list of diseases, some entries offensive (`review.repeats-a-copied-meme-text`); 121138608 (117 found it helpful) is a dark joke.
 - **Multi-dated reviews flattened this batch:** 120699376, 121137406 (2024), 121135877 (2024), 121134626 (2024), 121547541 (2024), 121546068 (2024), 121903930, 122656431 (2023), 122655394 (2025), 122655057 (2023), 122654108 (2023), 123106205 (2024), 123503056 (2023).
+
+## Notes - round 453 (Warframe batch 46)
+
+50 read (2022-10-31 to 2023-01-07), 89 bullets, 0 excluded, 8 edited later. Running total 2,350 of 3,235. 45 up / 5 down. Tree 1,531 -> 1,532 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.78, 34 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 5.7 bullets each and 45 words per bullet, 21% of bullets on an `.unknown`. Words per bullet is high because 130389710 (a 2025 edit of well over 1,000 words) carries 20 bullets.
+- **Built (1):** `player-conduct.no-cheaters-seen` (+, 130389710: "Still never seen a hacker to this day"; the other side of `cheaters-spoil-matches`).
+- **Two round-450s modes got second files from 130389710:** `story-missions-must-be-played-alone` ("The main parts of the story are solo") and `groups-break-up-after-each-mission` ("People in the game generally stay for only a few missions and leave forever"). `frustration-is-built-to-sell-shortcuts` got its fourth: 124739271, "time-based pay-to-pass walls at every corner".
+- **Hateful text kept out:** 127658275 (a 2025 edit on the 1999 update) describes the new cast with ethnic stereotypes and a slur, and the skins in sexualised terms; its points went on `drifted-from-its-original-idea`, `the-cast-is-built-to-titillate`, `flat-or-annoying` and `the-story-got-worse-over-time` without the wording.
+- **A reviewer's channel:** 130389710 names their own streaming channel and offers a referral link; on `promotes-the-reviewers-own-stream-channel`, the name left out.
+- **Multi-dated reviews flattened this batch:** 125128367 (2025), 125543405 (2023), 127658275 (2025), 128631802 (2026), 128631760 (2023), 129130794 (2024), 129814247 (2024), 130389710 (2025).
