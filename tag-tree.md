@@ -9361,6 +9361,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 437, Warframe batch 30.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 31 - round 438 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.you-can-revive-yourself` | **+** | A downed player can get back up on their own, several times a mission, so a mission does not fail because teammates will not revive them. Warframe 55501735. |
+
+### `engineering.servers`
+| Mode | | Definition |
+|---|---|---|
+| `.local-servers-for-my-region` | **+** | The game has servers in the reviewer's region even though the studio is based elsewhere. **The other side of `.no-local-servers`.** Warframe 55369876 (EU servers). |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.you-get-exactly-what-you-pay-for` | **+** | Whatever the player buys, they get exactly that item - no loot boxes or random draws. **The other side of `.what-you-buy-is-a-random-draw`.** Warframe 55619154. |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.a-mode-stands-out` | **+** | The reviewer singles out one mode or activity as especially fun. **The other side of `.a-mode-falls-flat`.** Warframe 57247391 (flying in the Archwing). |
+
+🔑 **Round 438, Warframe batch 31.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

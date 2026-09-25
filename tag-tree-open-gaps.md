@@ -9727,3 +9727,14 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Hateful and crude text kept out:** 54118978 fills its review with hateful jokes; 54118700 uses a slur about the community; 55008995 is a jab at a named person; 54771864 jabs at the studio's nationality. None is repeated.
 - **A ban undone by support:** 53949600 was suspended until 2035 after a year away; a later update says support lifted it (someone had tried to get into the account). Two bullets: `banned-with-no-reason-given`, then `support-put-things-right` (its third file).
 - **Multi-dated reviews flattened this batch:** 53949600, 54260334 (2024), 54258915, 54396557 (2020), 54507863 (2024), 54631092 (2020), 54771082 (2024).
+
+## Notes - round 438 (Warframe batch 31)
+
+50 read (2019-09-15 to 2019-11-22), 131 bullets, 0 excluded, 11 edited later. Running total 1,600 of 3,235. 46 up / 4 down. Tree 1,499 -> 1,503 (4 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.62, 25 of 50 reviews 15 words or fewer, 11 reviews over 60 words at 6.5 bullets each and 23 words per bullet, 18% of bullets on an `.unknown`. The richest batch since the size test; 55369876 (a long walkthrough) got 17 bullets.
+- **Built (4):** `co-op-design.you-can-revive-yourself` (+, 55501735). `servers.local-servers-for-my-region` (+, 55369876; the other side of `no-local-servers`). `monetisation-practice.you-get-exactly-what-you-pay-for` (+, 55619154: no loot boxes; the other side of `what-you-buy-is-a-random-draw`; two earlier "no loot boxes" bullets sit on broader modes and were left there). `modes.a-mode-stands-out` (+, 57247391, the Archwing; the other side of `a-mode-falls-flat`, which holds six earlier Archwing bullets).
+- **Named staff kept out:** 55730913 (a 2026 edit) misses a named former creative lead and names the current one; filed on `players-know-the-staff-by-name` without the names. 56079148 is a crude jab at a named staff member; not repeated.
+- **Other jabs kept out:** 55735794 (a jab at a country) and 55356704 (a hostile joke at anyone who disagrees).
+- **`the-chat-filter-bans-for-harmless-words` got its second file:** 55359753, a week's ban for typing in capitals.
+- **Multi-dated reviews flattened this batch:** 55132838 (2021), 55132192 (2025), 55239316 (2022), 55369876 (2020), 55502227, 55621480 (2026), 55730913 (2026), 56078822 (2021), 56726198 (2020), 56726105 (2025), 56726033 (2021).
