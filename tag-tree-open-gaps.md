@@ -9767,3 +9767,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **`frustration-is-built-to-sell-shortcuts` got its second file** one round after it was built: 71760681, "roadblocks that either require you grind/wait something out, or pay money".
 - **Old modes left behind:** 69690329 names hoverboard and Archwing missions as outdated and empty; filed on `a-system-was-left-half-finished` and `one-mode-has-no-players`.
 - **Multi-dated reviews flattened this batch:** 68759888 (2023), 69200496, 69695045 (2021), 70118998 (2023), 70857822 (2024), 72258171 (2026), 72257710 (2022).
+
+## Notes - round 442 (Warframe batch 35)
+
+50 read (2020-07-15 to 2020-09-22), 66 bullets, 0 excluded, 5 edited later. Running total 1,800 of 3,235. 46 up / 4 down. Tree 1,515 -> 1,516 (1 mode, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.32, 41 of 50 reviews 15 words or fewer, **no review over 60 words**, 41% of bullets on an `.unknown`. The thinnest batch yet: one-liners ("gg", "hot", "good"), so the long-review measures have nothing to read. Not a sign of thinning - there was nothing longer to summarise.
+- **Built (1):** `language-availability.my-language-is-missing` (-, 72755464, a 2026 edit: "why no Arabic?"). The branch had only `wrong-language-forced` before.
+- **Thumb against text:** 73942178 calls it "one of my favorite games of all time" under a thumbs down; on `review.thumb-contradicts-text`.
+- **Multi-dated reviews flattened this batch:** 72757968 (2025), 72755464 (2026), 73581387 (2023), 74373319 (2023), 76401656 (2024).

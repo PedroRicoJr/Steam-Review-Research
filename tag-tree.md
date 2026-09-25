@@ -9453,6 +9453,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 441, Warframe batch 34.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 35 - round 442 (Rule C)
+
+### `localization.language-availability`
+| Mode | | Definition |
+|---|---|---|
+| `.my-language-is-missing` | **−** | The reviewer asks for, or regrets the lack of, a translation into their own language. **Distinct from `.wrong-language-forced`.** Warframe 72755464 (Arabic). |
+
+🔑 **Round 442, Warframe batch 35.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1513,3 +1513,4 @@ game-design.enemy-design.enemies-adapt-to-your-damage | - | An enemy grows resis
 engineering.access.no-sign-in-through-steam | - | The game makes the player log in to its own account every time instead of signing in through Steam. Warframe 7
 narrative.story.the-story-got-better-over-time | + | Story added after launch has improved a weak story. **The other side of `.the-story-got-worse-over-time`.** Wa
 game-design.progression.unlock-pace.a-companion-needs-upkeep | - | A pet or companion has to be kept fed or maintained to keep fighting for the player - one more chore that asks
+localization.language-availability.my-language-is-missing | - | The reviewer asks for, or regrets the lack of, a translation into their own language. **Distinct from `.wrong-
