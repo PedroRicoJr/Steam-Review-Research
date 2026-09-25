@@ -9346,6 +9346,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 436, Warframe batch 29.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 30 - round 437 (Rule C)
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.player-made-cosmetics-sold-in-the-shop` | **+** | The in-game shop sells skins made by players, at a price the reviewer calls fair. Warframe 55007033. |
+
+### `game-design.replayability`
+| Mode | | Definition |
+|---|---|---|
+| `.keeps-playing-while-hating-it` | **−** | The reviewer says the game is badly designed or no fun, yet they keep playing it - hundreds of hours in - and present that pull as a harm, not a virtue. **The dark side of `.keeps-pulling-you-back`.** Warframe 54771864. |
+
+🔑 **Round 437, Warframe batch 30.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

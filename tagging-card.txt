@@ -1495,3 +1495,5 @@ narrative.world-and-setting.the-lore-contradicts-itself | - | Parts of the lore 
 game-design.game-feel.controls.the-controller-does-not-work | - | The game does not respond to the player's controller at all, and nothing they try fixes it. **Distinct from `.
 game-design.progression.unlock-pace.you-set-your-own-goals | + | There is no final goal to reach; the player picks their own aims, and the reviewer counts that as freedom. **T
 live-ops.patch-quality.now-more-about-cosmetics-than-play | - | The reviewer says the game has shifted over time to be more about cosmetics than about playing it. Warframe 50
+community.user-created-content.player-made-cosmetics-sold-in-the-shop | + | The in-game shop sells skins made by players, at a price the reviewer calls fair. Warframe 55007033.
+game-design.replayability.keeps-playing-while-hating-it | - | The reviewer says the game is badly designed or no fun, yet they keep playing it - hundreds of hours in - and 

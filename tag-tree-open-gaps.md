@@ -9717,3 +9717,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Two jabs kept out:** 50409600 defends the game against review-bombers with an insult aimed at them, and 51246030 compares the content pace to a named public figure; neither is repeated. 50275014's "the Chinese route" goes on `put-off-by-the-country-it-comes-from`.
 - **`banned-for-someone-elses-fraud` got a Warframe file:** 50980842 (15 found it helpful), banned after someone refunded platinum they had traded for.
 - **Multi-dated reviews flattened this batch:** 50150873, 50275014 (2025), 50409600 (2024), 50408204, 50408151 (2021), 50534412 (2020), 50662738 (2021), 50790475, 50980903 (2022), 51247012 (2020), 51246688, 51246030, 51391293 (2020).
+
+## Notes - round 437 (Warframe batch 30)
+
+50 read (2019-06-30 to 2019-09-07), 91 bullets, 0 excluded, 7 edited later. Running total 1,550 of 3,235. 44 up / 6 down. Tree 1,497 -> 1,499 (2 modes, built on first sighting under Rule C). Lost-review check: **it caught two** - the first dry run left out 52666656 ("It's alright, I suppose") and 54395964 ("is good"); added, then passed. `--gaps` none. Both rounds 436 and 437 lost a one-line review sitting between two others, so the check is doing its job on exactly the reviews most easily skipped.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.82, 28 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 4.3 bullets each and 31 words per bullet, 29% of bullets on an `.unknown`. 54395929, the one pro-and-con list, got 13 bullets.
+- **Built (2):** `user-created-content.player-made-cosmetics-sold-in-the-shop` (+, 55007033). `replayability.keeps-playing-while-hating-it` (-, 54771864: "the grind is terribly designed... that's why I've got nearly a thousand hours"; the dark side of `keeps-pulling-you-back`).
+- **Hateful and crude text kept out:** 54118978 fills its review with hateful jokes; 54118700 uses a slur about the community; 55008995 is a jab at a named person; 54771864 jabs at the studio's nationality. None is repeated.
+- **A ban undone by support:** 53949600 was suspended until 2035 after a year away; a later update says support lifted it (someone had tried to get into the account). Two bullets: `banned-with-no-reason-given`, then `support-put-things-right` (its third file).
+- **Multi-dated reviews flattened this batch:** 53949600, 54260334 (2024), 54258915, 54396557 (2020), 54507863 (2024), 54631092 (2020), 54771082 (2024).
