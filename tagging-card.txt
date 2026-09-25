@@ -1501,3 +1501,5 @@ game-design.co-op-design.you-can-revive-yourself | + | A downed player can get b
 engineering.servers.local-servers-for-my-region | + | The game has servers in the reviewer's region even though the studio is based elsewhere. **The other side of `
 publishing.monetisation-practice.you-get-exactly-what-you-pay-for | + | Whatever the player buys, they get exactly that item - no loot boxes or random draws. **The other side of `.wh
 game-design.modes.a-mode-stands-out | + | The reviewer singles out one mode or activity as especially fun. **The other side of `.a-mode-falls-flat`.** W
+narrative.story.tackles-real-themes | + | The story takes on serious real-world themes - growing up, labour, identity - rather than only spectacle. Warf
+game-design.progression.unlock-pace.the-grind-drives-off-casual-players | - | The reviewer argues the grind, from mid-game on, is so heavy that casual and solo players give up, and the pla

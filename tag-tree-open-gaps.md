@@ -9738,3 +9738,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Other jabs kept out:** 55735794 (a jab at a country) and 55356704 (a hostile joke at anyone who disagrees).
 - **`the-chat-filter-bans-for-harmless-words` got its second file:** 55359753, a week's ban for typing in capitals.
 - **Multi-dated reviews flattened this batch:** 55132838 (2021), 55132192 (2025), 55239316 (2022), 55369876 (2020), 55502227, 55621480 (2026), 55730913 (2026), 56078822 (2021), 56726198 (2020), 56726105 (2025), 56726033 (2021).
+
+## Notes - round 439 (Warframe batch 32)
+
+50 read (2019-11-30 to 2020-02-07), 103 bullets, 0 excluded, 4 edited later. Running total 1,650 of 3,235. 45 up / 5 down. Tree 1,503 -> 1,505 (2 modes, built on first sighting under Rule C). Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.06, 31 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 7.6 bullets each and 36 words per bullet, 14% of bullets on an `.unknown`.
+- **Built (2):** `narrative.story.tackles-real-themes` (+, 58818437: "the game actually tackles Actual Themes"). `unlock-pace.the-grind-drives-off-casual-players` (-, 60422444, 6 found it helpful: the mid-game grind is "merciless to casuals" and costs the game players; distinct from plain `grindy`).
+- **A racially charged joke kept out:** 61022516 (a 2024 edit) compares grinding after a break to slavery; recorded as "a racially charged joke", on `grindy`.
+- **Warframe's endgame complaint:** 59933100 (a 2022 edit), "still no end game and rewards still don't scale", on `nothing-left-to-chase` and `the-payout-lands-flat`.
+- **Multi-dated reviews flattened this batch:** 59933100 (2022), 61022516 (2024), 61022259 (2026), 62759455 (2023).

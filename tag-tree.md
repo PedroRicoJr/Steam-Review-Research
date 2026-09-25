@@ -9386,6 +9386,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 438, Warframe batch 31.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 32 - round 439 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.tackles-real-themes` | **+** | The story takes on serious real-world themes - growing up, labour, identity - rather than only spectacle. Warframe 58818437. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-grind-drives-off-casual-players` | **−** | The reviewer argues the grind, from mid-game on, is so heavy that casual and solo players give up, and the player count suffers for it. **Distinct from `.grindy`**, which says the game is grindy without naming who it loses. Warframe 60422444. |
+
+🔑 **Round 439, Warframe batch 32.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
