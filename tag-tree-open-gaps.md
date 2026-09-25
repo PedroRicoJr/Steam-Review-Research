@@ -10004,7 +10004,7 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 
 50 read (2025-09-30 to 2025-12-07), 66 bullets, 0 excluded, 1 edited later. Running total 3,050 of 3,235. 47 up / 3 down. Tree unchanged at 1,540. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 17:44 backstop firing (timer re-created as `8c3f8f4b`).
 
-- **Quality at 50:** from `scripts/batch_quality.py` (after one bullet added to 206819181's satire): bullets per review 1.32, 35 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 3.0 bullets each, 31% of bullets on an `.unknown`. Words per bullet on long reviews is inflated by 206818716, a single phrase repeated some fifty times (one bullet by rule).
+- **Quality at 50:** from `scripts/batch_quality.py` (after one bullet added to 206819181's satire): bullets per review 1.32, 35 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 3.0 bullets each, 30% of bullets on an `.unknown`. Words per bullet on long reviews is inflated by 206818716, a single phrase repeated 54 times (one bullet by rule).
 - **Gacha weariness:** 206154005 prefers a grind where work, not luck, gets you there; on `randomness.the-best-gear-is-not-left-to-chance`.
 - **`my-language-is-missing` got its second file:** 209888008 (in Arabic) asks for Arabic and chat translation - the same request as 72755464 in round 442.
 - **A slur kept out:** 208089772, banned for 10 years for one slur (masked by Steam), on `heavy-handed-support` as the reviewer's claim.
