@@ -9707,3 +9707,13 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **A country jab kept to its tag:** 49580780 dismisses it as "a Chinese company game"; filed on `put-off-by-the-country-it-comes-from` without further wording. Its five "host migration" lines go on `the-host-leaving-ends-everyones-run`, as five earlier host-migration bullets did.
 - **Insults kept out:** 48678120 calls the community names; recorded as "worthless and fawning over the studio".
 - **Multi-dated reviews flattened this batch:** 48678120 (2021), 48677666 (2025), 49146090 (2025), 49284482 (2020), 49416491 (2025), 49415433 (2020), 49581152 (2020), 49580780, 49724324 (2022), 49884543, 49884153, 50022019 (2025).
+
+## Notes - round 436 (Warframe batch 29)
+
+50 read (2019-04-15 to 2019-06-22), 80 bullets, 0 excluded, 13 edited later. Running total 1,500 of 3,235. 42 up / 8 down. Tree 1,494 -> 1,497 (3 modes, built on first sighting under Rule C). Lost-review check: **it caught one** - the first dry run left out 51390621 (a one-word "grindy") and was refused as LOST; added, then passed. `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.60, 30 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 4.7 bullets each and 27 words per bullet, 29% of bullets on an `.unknown`. A thin batch of one-liners; the long reviews hold their detail.
+- **Built (3):** `controls.the-controller-does-not-work` (-, 50274236: four friends, three tries over six months). `unlock-pace.you-set-your-own-goals` (+, 50982162; the other side of `the-game-sets-no-goals`). `patch-quality.now-more-about-cosmetics-than-play` (-, 50275014, a 2025 edit).
+- **Two jabs kept out:** 50409600 defends the game against review-bombers with an insult aimed at them, and 51246030 compares the content pace to a named public figure; neither is repeated. 50275014's "the Chinese route" goes on `put-off-by-the-country-it-comes-from`.
+- **`banned-for-someone-elses-fraud` got a Warframe file:** 50980842 (15 found it helpful), banned after someone refunded platinum they had traded for.
+- **Multi-dated reviews flattened this batch:** 50150873, 50275014 (2025), 50409600 (2024), 50408204, 50408151 (2021), 50534412 (2020), 50662738 (2021), 50790475, 50980903 (2022), 51247012 (2020), 51246688, 51246030, 51391293 (2020).

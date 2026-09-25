@@ -1492,3 +1492,6 @@ engineering.stability.the-game-uninstalled-itself | - | The game removed itself 
 game-design.enemy-design.a-boss-needs-one-setup | - | A boss fight can only really be done with one particular team or gear setup. **Distinct from `difficulty-tunin
 game-design.game-feel.controls.rebinding-broke-the-controls | - | The player changed the key bindings and the controls stopped working - most actions no longer respond - with n
 narrative.world-and-setting.the-lore-contradicts-itself | - | Parts of the lore clash with other parts - paradoxes and dead ends the reviewer wishes the studio would sort o
+game-design.game-feel.controls.the-controller-does-not-work | - | The game does not respond to the player's controller at all, and nothing they try fixes it. **Distinct from `.
+game-design.progression.unlock-pace.you-set-your-own-goals | + | There is no final goal to reach; the player picks their own aims, and the reviewer counts that as freedom. **T
+live-ops.patch-quality.now-more-about-cosmetics-than-play | - | The reviewer says the game has shifted over time to be more about cosmetics than about playing it. Warframe 50

@@ -9326,6 +9326,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 435, Warframe batch 28.** Built on first sighting under Rule C.
 
 
+## Modes added in Warframe batch 29 - round 436 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.the-controller-does-not-work` | **−** | The game does not respond to the player's controller at all, and nothing they try fixes it. **Distinct from `.you-have-to-switch-input-device-to-play-well`**, where the controller works but plays worse. Warframe 50274236. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.you-set-your-own-goals` | **+** | There is no final goal to reach; the player picks their own aims, and the reviewer counts that as freedom. **The other side of `.the-game-sets-no-goals`.** Warframe 50982162. |
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.now-more-about-cosmetics-than-play` | **−** | The reviewer says the game has shifted over time to be more about cosmetics than about playing it. Warframe 50275014. |
+
+🔑 **Round 436, Warframe batch 29.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
