@@ -10017,3 +10017,12 @@ The 24 `check` rows read ("gap closed but bullet still on parked tag"). Tree 1,4
 - **Being carried overwhelms:** 217817555 advises starting at your own pace rather than being taxied by a keen friend; on `learn-it-alone-before-joining-others`, the reverse of the many `needs-carrying` bullets.
 - **A slur kept out:** 216644779 is one crude line with a slur; not repeated.
 - **The newest reviews:** this batch reaches February 2026; three batches remain (50, 50, then 35).
+
+## Notes - round 469 (Warframe batch 62)
+
+50 read (2026-02-28 to 2026-05-07), 82 bullets, 0 excluded, 0 edited later. Running total 3,150 of 3,235. 47 up / 3 down. Tree unchanged at 1,540. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 19:44 backstop firing (timer re-created as `ce3822b4`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.64, 39 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 5.3 bullets each and 25 words per bullet, 28% of bullets on an `.unknown`.
+- **One area eats the game:** 222214699 says the resources, new missions, faction and even the holiday event all sit in Deimos, so 98% of their time is spent there; on `every-reward-comes-from-the-same-missions` (its second file) and `one-area-drags-the-rest-down`.
+- **Forced two-factor sign-in:** 223876778 was locked out of their own things when it was forced on them; on `locked-out-of-my-own-account`.
+- **Card bug found, not yet fixed:** `summarise.py card` gives every full-name `review.*` row a **-** unless the name holds `.positive`, ignoring the row's own mark. So `review.thumb-contradicts-text` (marked ~ in the tree, 65 files) and `review.the-game-helped-them-through-a-hard-time` (marked ~, 1 file) are carried as (bad). `dircheck` agrees with the card, so it cannot see this. The fix is its own unit next.
