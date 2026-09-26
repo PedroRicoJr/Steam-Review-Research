@@ -10307,3 +10307,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **No new mode.** Every point had a home; 231072550 (15 bullets) shows the tree now covers this game's common complaints - economy, meta guns, weak late enemies, Chinese-only mods.
 - **The 6 thumbs down:** 3 on performance (230498810, 232131285 - stutter in every Farm Town boss fight - and 232829351, which adds a jab at the studio's country, not repeated), 1 on controller support (233482021), 1 on unfair deaths and a lost corpse run (231080507), and 1 more translation of the mod statement (231744444, 2026-07-31 - the fourth copy).
 - **Process note:** read the whole batch file before building the bullets; a truncated print hid three reviews this time, and the write script's LOST check caught it.
+
+## Notes - round 499 (Escape from Duckov batch 24, the last)
+
+16 read (2026-09-06 to 2026-09-26), 22 bullets, 0 excluded. **All 1,166 sampled Escape from Duckov reviews are now read** (6 excluded as not a review; `summarise.py next` reports nothing left). 13 up / 3 down. Tree unchanged at 1,592. Lost-review check: all 16 on the first dry run; `--gaps` none. Done in the 23:44 backstop firing (timer re-created as `36193c66`).
+
+- **Quality at 16:** from `scripts/batch_quality.py`: bullets per review 1.38, 11 of 16 reviews 15 words or fewer, no review over 60 words, 41% of bullets on an `.unknown` - a batch of short reviews.
+- **Group totals** from `summarise.py check`: 1,166 files, 2,230 tagged bullets, 486 on an `.unknown` (22%), 0 unfitted.
+- **The late game to the end:** 235273869 says it "starts getting grind heavy towards the latter half near the "Farm" region" and 235958017 (thumbs down) complains of fetch quests "about finding a cup or an apple or whatever useless junk that you sold an hour ago".
+- **Next unit:** the Duckov findings - `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md`, section 21 of `findings/cross-game.md`, and `GAMES-TODO.md` row 8 marked Done.
