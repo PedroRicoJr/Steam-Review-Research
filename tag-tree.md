@@ -9779,6 +9779,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 484, Escape from Duckov batch 9.** Built on first sighting under Rule C, as the + twin of a − mode.
 
 
+## Modes added in Escape from Duckov batch 12 - round 487 (Rule C)
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.mods-mostly-in-another-language` | **−** | Most of the game's mods are written in a language the reviewer cannot read, so finding, configuring or trusting them is hard. **Distinct from `localization.language-availability.my-language-is-missing`**, which is about the game itself. Escape from Duckov 209504935; built on the third sighting, and the two earlier ones re-homed here from `.unknown`: 207485177 (round 479) and 208578969 (round 482). |
+
+🔑 **Round 487, Escape from Duckov batch 12.** Rounds 479 and 482 broke Rule C by parking the first two sightings on `.unknown`.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

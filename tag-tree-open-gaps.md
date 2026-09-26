@@ -10186,3 +10186,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **The two thumbs-down reviews:** 209526388 (loses hours of loot to unfair deaths, bugs and crashes, and to off-screen enemies; "if you value your time, skip this one") and 209563592 (3/10, better games for $20).
 - **The PvP-averse newcomer, again:** 209526099 dislikes PvP, timers and cheating, came through a YouTuber's character-editor video, and calls it their game of the year. `won-over-someone-who-avoids-the-genre` is now 9 across 550 reviews, and `controls.missing-expected-bindings` (mostly controller support) 15 (both by `grep`).
 - **A jab kept out:** 209567395 includes a jab at a nationality; not repeated.
+
+## Notes - round 487 (Escape from Duckov batch 12)
+
+50 read (2025-11-17 to 2025-11-24), 91 bullets on 48 reviews, **2 excluded** (209482543 empty; 209477410 invisible characters only; written by hand first), 2 earlier files edited (below). Running total 600 of 1,166 (5 excluded so far). 49 up / 1 down. Tree 1,556 -> 1,557. Lost-review check: all 50 accounted for; `--gaps` none. Done in the 11:44 backstop firing (timer re-created as `b7bb6058`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.82, 32 of 50 reviews 15 words or fewer, 9 reviews over 60 words at 4.7 bullets each and 31 words per bullet, 23% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `community.user-created-content.mods-mostly-in-another-language` (−), from 209504935 ("MOST of the mods are in chineese"). **Rounds 479 and 482 broke Rule C** by parking the first two sightings on `user-created-content.unknown`; both are re-homed here now (207485177, 208578969). The same slip happened with `mods-said-to-carry-malware` (round 483). **Lesson: a specific complaint parked on `.unknown` is a missed build, not a safe default.**
+- **The one thumbs down:** 209485414 calls it a top-down Tarkov copied without intention - quests and items exist only because Tarkov has them - on `a-parody-of-a-big-budget-game`, `repetitive` and `complexity.shallow`.
+- **Clever top-down translation:** 209505615 praises how a 2x scope becomes a different crosshair and a wider view (`the-line-of-sight-system-is-clever`, its second bullet).

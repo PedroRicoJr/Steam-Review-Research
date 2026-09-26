@@ -1554,3 +1554,4 @@ game-design.progression.build-and-customisation.your-gear-shows-on-your-characte
 game-design.world-interaction.the-base-building-is-shallow | - | The player's base is built by unlocking stations and placing them on a grid, with nothing to design, and the r
 community.user-created-content.mods-said-to-carry-malware | - | The reviewer warns that mods for the game have carried, or could carry, a virus or other malicious code, somet
 game-design.readability.the-line-of-sight-system-is-clever | + | The game shows only what the player's character can see - a field of view, perception, no god's-eye view - and
+community.user-created-content.mods-mostly-in-another-language | - | Most of the game's mods are written in a language the reviewer cannot read, so finding, configuring or trustin
