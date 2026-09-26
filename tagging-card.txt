@@ -1581,3 +1581,8 @@ audio.mixing.no-sense-of-direction | - | The sound does not tell the player whic
 review.calls-the-negative-reviews-a-review-bomb | ~ | The reviewer says the game's negative reviews are a coordinated review bomb rather than honest verdicts. **Neu
 game-design.ui-ux.tooltips-get-in-the-way | - | Pop-up item descriptions cover what the player is trying to look at - in the inventory, say - and cannot be tu
 engineering.platform-support.runs-poorly-on-my-platform | - | The game works on the player's machine or handheld but runs poorly, and they ask for it to be optimised. **Sof
+marketing.reputation.partnered-with-a-studio-players-dislike | - | The studio announced a collaboration with another studio the reviewer dislikes, and the thumb goes down for th
+game-design.world-interaction.searching-reveals-loot-slowly | - | Searching a container reveals each item after its own delay, longer for rarer items, and the reviewer calls th
+narrative.tone.a-one-note-joke | - | The game's joke is one idea repeated, and for this reviewer it wore thin and hurt the immersion. **The negativ
+game-design.game-feel.movement.the-dodge-roll-locks-you-in | - | Once a dodge roll starts the player cannot steer or act until the animation ends, and a roll can cancel a relo
+game-design.ui-ux.the-interface-is-too-big | - | Menus and the inventory are drawn so large that sorting is slow and tiring, and the reviewer asks for a scale 

@@ -9936,6 +9936,35 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 494, Escape from Duckov batch 19.** Built under Rule C.
 
+## Modes added in Escape from Duckov batch 20 - round 495 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.partnered-with-a-studio-players-dislike` | **−** | The studio announced a collaboration with another studio the reviewer dislikes, and the thumb goes down for that. **Distinct from `.the-crossover-partner-should-not-have-lent-its-name`**, which addresses the owner of the borrowed series; here the complaint is at this game's studio for choosing the partner. Escape from Duckov 217253429, 217251321 (a collaboration with the makers of Escape from Tarkov). |
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.searching-reveals-loot-slowly` | **−** | Searching a container reveals each item after its own delay, longer for rarer items, and the reviewer calls the wait a gambling-style time sink. Escape from Duckov 217252694. |
+
+### `narrative.tone`
+| Mode | | Definition |
+|---|---|---|
+| `.a-one-note-joke` | **−** | The game's joke is one idea repeated, and for this reviewer it wore thin and hurt the immersion. **The negative twin of `.satire-lands`.** Escape from Duckov 217753377. |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.the-dodge-roll-locks-you-in` | **−** | Once a dodge roll starts the player cannot steer or act until the animation ends, and a roll can cancel a reload - deaths follow. Escape from Duckov 218327208. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-interface-is-too-big` | **−** | Menus and the inventory are drawn so large that sorting is slow and tiring, and the reviewer asks for a scale setting. Escape from Duckov 218327208. |
+
+🔑 **Round 495, Escape from Duckov batch 20.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
