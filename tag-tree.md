@@ -9719,6 +9719,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 478, Escape from Duckov batch 3.** Built on first sighting under Rule C.
 
 
+## Modes added in Escape from Duckov batch 5 - round 480 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.a-side-activity-is-frustratingly-hard` | **−** | An optional activity inside the game - fishing, a lock-pick, a timing minigame - is tuned so hard it frustrates, out of step with the rest of the game. **Distinct from `.chores-instead-of-play`**, where the task is a wait, not a skill test. Escape from Duckov 208079928. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-character-creator-is-fun` | **+** | The reviewer enjoyed making their character's look - recreating a cartoon, making something funny - and names it as part of the fun. **Distinct from `.pick-your-pronouns`** and `.the-options-for-one-gender-are-poor`. Escape from Duckov 208066489. |
+
+### `accessibility.vision`
+| Mode | | Definition |
+|---|---|---|
+| `.a-player-with-low-vision-says-it-works` | **+** | A reviewer who names their own visual impairment says they can make out targets and read the game without trouble. **The vision counterpart of `accessibility.memory-and-attention.a-player-with-a-named-condition-says-it-works`.** Escape from Duckov 208067017. |
+
+🔑 **Round 480, Escape from Duckov batch 5.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

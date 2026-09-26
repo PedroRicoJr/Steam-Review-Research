@@ -1547,3 +1547,6 @@ game-design.readability.the-line-of-sight-system-hides-enemies | - | The game dr
 production.content-variety.quests-dictate-how-you-play | - | Quests require a named weapon, tool or method, so the player cannot finish them the way they prefer or experim
 production.content-variety.quests-send-you-back-and-forth | - | Quest chains make the player travel between the same places and characters over and over - many stops, endless
 game-design.difficulty-tuning.difficulty-can-be-tuned-in-detail | + | Beyond fixed levels, the game lets the player set individual difficulty parameters, and the reviewer praises t
+game-design.world-interaction.a-side-activity-is-frustratingly-hard | - | An optional activity inside the game - fishing, a lock-pick, a timing minigame - is tuned so hard it frustrate
+game-design.progression.build-and-customisation.the-character-creator-is-fun | + | The reviewer enjoyed making their character's look - recreating a cartoon, making something funny - and names 
+accessibility.vision.a-player-with-low-vision-says-it-works | + | A reviewer who names their own visual impairment says they can make out targets and read the game without trou

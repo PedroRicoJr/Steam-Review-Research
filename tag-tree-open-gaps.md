@@ -10121,3 +10121,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **Running tallies after 200 reviews** (by `grep` on the summaries): `modes.expected-mode-missing` 11 (multiplayer, co-op or PvP asked for), `controls.missing-expected-bindings` 8 (mostly controller support), `punishment-model.stakes-worth-the-risk` 6, `modes.no-pvp-is-a-feature` 5.
 - **Steam Deck, both sides:** 207481552 (down) says it does not work there without controller support; 207481461 (up) says a community controller layout makes it great and explains how to pick one (`players-teach-each-other-the-fix`).
 - **A co-op mod already exists** (207491173), as does a first-person mod (207498619 in batch 3).
+
+## Notes - round 480 (Escape from Duckov batch 5)
+
+50 read (all 2025-10-31), 95 bullets, 0 excluded, 1 edited later (208075570: a bullet first put on `marketing.positioning.sold-as-a-different-kind-of-game` was re-homed to `world-interaction.unknown`, because the reviewer says nothing about how the game was sold). Running total 250 of 1,166. 46 up / 4 down. Tree 1,549 -> 1,552. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 04:44 backstop firing (timer re-created as `2aecf282`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.90, 27 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 5.0 bullets each and 28 words per bullet, 25% of bullets on an `.unknown`.
+- **Three modes built (Rule C):** `game-design.world-interaction.a-side-activity-is-frustratingly-hard` (−), 208079928 (the fishing minigame, down at 86 hours); `game-design.progression.build-and-customisation.the-character-creator-is-fun` (+), 208066489 (made their duck a cartoon platypus); `accessibility.vision.a-player-with-low-vision-says-it-works` (+), 208067017 ("even as a visually impaired person, I never struggle to make out the targets"). `findphrase` found no earlier sighting for "visually impaired"; "minigame" found eight lines, all on `chores-instead-of-play` (waits, not skill tests), left there.
+- **Running tallies after 250 reviews** (by `grep` on the summaries): `modes.expected-mode-missing` 14, `modes.no-pvp-is-a-feature` 9, `punishment-model.stakes-worth-the-risk` 9, `looks-like-a-joke-plays-like-a-real-game` 9.
+- **The survival layer is the one design complaint of the batch:** 208075570 is bored of gathering, thirst and energy, and running back to base at night (`chores-instead-of-play`).
