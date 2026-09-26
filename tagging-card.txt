@@ -1563,3 +1563,7 @@ game-design.punishment-model.one-chance-to-recover-your-gear | - | After a death
 game-design.level-design.an-area-needs-gear-it-never-mentions | - | A later area can only be survived or passed with a particular item - a gas mask, thermal goggles, a protective
 game-design.randomness.cannot-prepare-for-what-the-enemy-carries | - | Enemies arrive with a different, random loadout each run - armour-piercing ammo one time, fire the next - so t
 game-design.pacing.the-day-and-night-cycle-stretches-the-fun-thin | - | The reviewer names the world's day and night cycle as something that spreads the fun thinner - more of the ses
+community.moderation.went-easy-on-a-harmful-mod-author | - | The reviewer says a workshop mod did players harm - hidden code that crashed the game for people its author di
+production.content-variety.quests-ask-for-what-you-already-did | - | A quest arrives asking the player to find a place or kill a boss they have already found or killed, and the ga
+narrative.world-and-setting.real-and-made-up-names-mixed | - | Some weapons or items carry their real-world names and others near-miss made-up ones, and the reviewer wants o
+game-design.ui-ux.quests-point-with-clues-not-waypoints | - | Quest locations are given through notes and clues the player must work out rather than a marker on the map, an

@@ -10238,3 +10238,16 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **The end game, again:** after round 490's `the-late-game-turns-into-a-grind`, two more reviews say the last area lets the game down: 212816173 ("The first 90% of the game is great, but the final area is very tedious"; on `.the-late-game-turns-into-a-grind` and `a-boss-needs-one-setup`) and 212801415 ("Early to mid game is fantastic!" then "The end game though sucks"). 212801415 also names the thumb that would flip (`review.the-thumb-will-flip-when-one-thing-is-fixed`).
 - **Co-op asked for:** 3 bullets on `expected-mode-missing` (211874745, 212813371, 212810413).
 - **One phrase left untranslated:** 211853631 (thumbs down, Chinese) ends on a slang phrase whose meaning I could not confirm; the bullet says so rather than guess.
+
+## Notes - round 492 (Escape from Duckov batch 17)
+
+50 read (17 on 2025-12-07, 33 on 2025-12-15), 133 bullets, 0 excluded, 3 edited later. Running total 850 of 1,166 (6 excluded so far). 36 up / 14 down, 13 of the downs on 2025-12-15. Tree 1,565 -> 1,569. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 16:44 backstop firing (timer re-created as `ec5e98e8`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.66, 25 of 50 reviews 15 words or fewer, 12 reviews over 60 words at 6.2 bullets each and 47 words per bullet, 11% of bullets on an `.unknown`. 212777542 alone carries 27 bullets (a long good-and-bad list).
+- **A review wave on 2025-12-15 - the SCAV workshop mod.** Six thumbs-down reviews (213365541, 213355702, 213339351, 213337104, 213334762, 213334426) say a popular workshop mod hid code that crashed the game for players its author had blacklisted, and that the studio asked the author to remove it instead of punishing them. Two of them (213355702, 213334426) paste the same long statement, and three (those two and 213334762) link to the same Chinese forum thread. Three more thumbs-down that day may belong to the same wave but do not say so (213342178 "severe security negligence", 213330887 "virus game", 213335146 on leaving the rest to the workshop); they are tagged on what they say, not on the wave. A later review, 213343749 (edited 2026-04-05), recommends it "Despite its previous workshop scandal". **Records the claims, not a verified incident.**
+- **Four modes built (Rule C):**
+  - `community.moderation.went-easy-on-a-harmful-mod-author` (−): the six reviews above.
+  - `production.content-variety.quests-ask-for-what-you-already-did` (−) and `narrative.world-and-setting.real-and-made-up-names-mixed` (−): both 212777542.
+  - `game-design.ui-ux.quests-point-with-clues-not-waypoints` (−): 213365111.
+- **Second sighting of round 491's `one-chance-to-recover-your-gear`:** 212777542 ("you can only loot ONE set of gear you lost") and 212788052 (a joke about dying before looting your last grave).
+- **A jab kept out:** 213369345 is a one-line jab at the studio's country; not repeated.

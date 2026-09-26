@@ -9838,6 +9838,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 491, Escape from Duckov batch 16.** Built under Rule C; four of the five come from the end-game reviews 212801415 and 212798410.
 
+## Modes added in Escape from Duckov batch 17 - round 492 (Rule C)
+
+### `community.moderation`
+| Mode | | Definition |
+|---|---|---|
+| `.went-easy-on-a-harmful-mod-author` | **−** | The reviewer says a workshop mod did players harm - hidden code that crashed the game for people its author disliked - and the studio asked the author to remove it instead of banning or punishing them, and treated the players who complained as the problem. **Distinct from `community.user-created-content.mods-said-to-carry-malware`**, which is the warning about the mod; here the complaint is the studio's handling. **Records the claim, not a verified incident.** Escape from Duckov 213365541, 213355702, 213339351, 213337104, 213334762, 213334426. |
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.quests-ask-for-what-you-already-did` | **−** | A quest arrives asking the player to find a place or kill a boss they have already found or killed, and the game does not count it, so they must do it again. Escape from Duckov 212777542. |
+
+### `narrative.world-and-setting`
+| Mode | | Definition |
+|---|---|---|
+| `.real-and-made-up-names-mixed` | **−** | Some weapons or items carry their real-world names and others near-miss made-up ones, and the reviewer wants one or the other. Escape from Duckov 212777542. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.quests-point-with-clues-not-waypoints` | **−** | Quest locations are given through notes and clues the player must work out rather than a marker on the map, and the reviewer wants the marker. **Distinct from `game-design.new-player-experience.guides-you-without-holding-your-hand`**, a reviewer who likes being told the zone and not led. Escape from Duckov 213365111. |
+
+🔑 **Round 492, Escape from Duckov batch 17.** Built under Rule C. The moderation mode comes from a wave of thumbs-down reviews on 2025-12-15 about the SCAV workshop mod.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
