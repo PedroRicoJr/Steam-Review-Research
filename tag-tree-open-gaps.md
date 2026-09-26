@@ -10063,3 +10063,12 @@ No reviews read. Done in the 23:44 backstop firing (timer re-created as `f1d926a
 - **New helper:** `scripts/findings_tables.py` computes the page's unweighted tables (header counts, divisions, top 20, complaints and praise per 100 by period, and the modes used in no other game). Every number on the page was checked against it or against a one-off script before the commit; nine claims in the first draft were wrong and were corrected (among them "the highest share in the queue" for edited reviews - Helldivers 2 is higher - and "101 used once", really 89). Quotes on the page are the reviewers' own words from `review_text.py`, not bullet paraphrases.
 - **Main findings:** the grind is the top complaint (264, 8.2 per 100) and 84% of those reviews are thumbs up; free-to-play is read as fair (501 fair bullets against 103 monetisation complaints); `warns-that-it-takes-over-your-life` (74) exists only here; reviews shrank from 67 words to 28 on average between 2013-15 and 2024-26, so per-100 rates across periods mostly measure length.
 - **Next:** `findings/warframe.md` and a numbered section in `findings/cross-game.md`, then mark GAMES-TODO row 5 Done.
+
+## Notes - round 474 (Warframe findings, master page and cross-game section)
+
+No reviews read. Done in the 00:44 backstop firing (timer `149a29a4`, re-created 00:43).
+
+- **Written:** `findings/warframe.md` (the ranked lists) and section 20 of `findings/cross-game.md`. GAMES-TODO row 5 marked Done. **Warframe is finished.**
+- **One count for the large games:** section 20 recomputes thumbs up, bullets per review, praise and complaint per 100 for eight large games with `scripts/findings_tables.py`. Deep Rock Galactic, Helldivers 2 and Back 4 Blood match their earlier figures within half a point; Risk of Rain 2's complaint rate is 18.0 on this count against 15.9 on its own pages (computed earlier, before the card fix, by a different count). Noted in the section; the Risk of Rain 2 pages are left as they are.
+- **Checked before commit:** four claims in the drafts were wrong and fixed (warns-that-it-takes-over-your-life is the third complaint, not the fourth; price.fair is the fourth most common tag, not the third; `the-endgame-is-only-more-unlocks` is 5, not 3; "every large game before this one" was not checked and was cut).
+- **Next:** Escape from Duckov (appid 3167020): add a GAMES-TODO row, measure, dry-run, pull.

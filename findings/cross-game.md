@@ -1213,3 +1213,86 @@ view` (14), is the game's second complaint and its most-repeated joke.
 
 ⚠️ **The corpus is now 23 games and 17,444 English summaries.** Section 7's unread total predates eight
 sections and should be recomputed before it is quoted.
+
+## 20. ⭐ What the fourteenth large game adds - Warframe, added 2026-09-26
+
+**The longest-running game in the corpus, and free-to-play.** 3,235 of 302,482 English reviews, a 1.07% sample
+at ±2.16%, across 163 months (2013-03 to 2026-09); 89.9% up; 6,510 bullets, 2.01 per review; 548
+distinct tags, **156 used by no other game; 119 modes built in the Warframe batch blocks (batches
+15-64)**. Full read in `warframe-english.md`, ranked lists in `warframe.md`. **Rico stopped this game on
+2026-09-24 as not the kind of game Dominion is (no runs, no extraction, free-to-play) and resumed it
+as research; read it for the loop, not the format.**
+
+**Recomputed on one count for the large games** (`scripts/findings_tables.py`, every bullet whose mode
+is + or −, `review.*` included, after the round-470 card fix):
+
+| | Deep Rock Galactic | Risk of Rain 2 | **Warframe** | Helldivers 2 | Space Marine 2 | Remnant II | ARC Raiders | Back 4 Blood |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 95.6% | **89.9%** | 83.3% | 87.6% | 83.6% | 79.7% | 69.2% |
+| Bullets per review | 2.12 | 1.43 | **2.01** | 1.79 | 1.99 | 2.30 | 1.56 | 2.63 |
+| Praise per 100 | 175.9 | 104.9 | **127.3** | 108.0 | 116.0 | 121.6 | 86.8 | 118.0 |
+| Complaint per 100 | 23.7 | 18.0 | **50.9** | 55.5 | 61.9 | 77.5 | 56.7 | 137.2 |
+| Praise to complaint | 7.4 : 1 | 5.8 : 1 | **2.5 : 1** | 1.95 : 1 | 1.87 : 1 | 1.57 : 1 | 1.53 : 1 | 0.86 : 1 |
+
+⚠️ **Risk of Rain 2's complaint rate is 18.0 here and 15.9 in section 19 and its own pages.** The
+earlier figure was computed before the card fix and by a different count; this row is the one to
+compare. Deep Rock Galactic, Helldivers 2 and Back 4 Blood match their earlier figures to within half a
+point.
+
+### 🔑 The finding: the complaint that does not move the thumb
+
+Warframe's top complaint, the grind (`unlock-pace.grindy`, 264, 8.2 per 100), is flat for
+thirteen years (6.8 to 9.6 per 100 by period), and **223 of the 264 reviews that make it are thumbs
+up.** The thumb itself is flat - 85.4% to 92.9% by year - while the mean review shrinks from 67 words
+to 28. **A complaint can be the most common thing said about a game and still not be a reason to leave
+it**, when the reviewer also says everything can be earned (133), the grind pays off (111) and the
+price is fair (198).
+
+**The corpus now has five shapes of complaint line.** The relationship (Helldivers 2), the price (Space
+Marine 2), the reviewer (Remnant II), the owner (Risk of Rain 2) - and **the flat line (Warframe)**:
+a complaint built into the design and accepted by the people who stay.
+
+### The pull, read as a harm
+
+**`keeps-pulling-you-back` is in most games; its opposite was built here.** `warns-that-it-takes-over-
+your-life` (74 bullets in 73 reviews, 60 of them thumbs up), `interest-comes-and-goes-in-waves` (44)
+and `keeps-playing-while-hating-it` (9) appear in no other game. Risk of Rain 2's addiction words
+(*crack*, *my wife left*) sat on the + mode as praise; Warframe's reviewers write the same words as a
+warning (*"Relationships are temporary. The Void's embrace lasts forever."*, 131 found it helpful).
+**A game with no end to its loop gets reviewed for what it costs the player's life, and the review
+still recommends it.**
+
+### Free-to-play, read as fair
+
+**Monetisation praise outnumbers monetisation complaint 134 to 103**, and `price.fair` (198) is the
+fourth most common tag. The largest monetisation mode is neutral: `paying-only-shortens-the-grind`
+(73). **The player market makes the premium currency earnable** (`the-player-market-works`, 46, a
+game-only mode), and `players-buy-in-to-support-the-studio` is 0.93 per 100 - the highest rate in the
+queue. `pay-affects-play` is 16 in 3,233 reviews. **The fight about money in this game is a fight about
+time.**
+
+### Three things this game says about samples and the tree
+
+1. **Reviews shrink as a game ages, and per-100 rates shrink with them.** Mean length 67 → 54 → 30 →
+   30 → 28 words across five periods; share of reviews of 15 words or fewer 51% → 69%. Many praise
+   modes fall by a similar factor. **A mode's fall across periods means something only when it is
+   much larger than the fall in length** (here: `repetitive` 3.3 → 0.6, `looks-great` 5.9 → 0.9). This
+   applies to every long-running game in the corpus and should be checked on the next one.
+2. **A 1.07% sample over thirteen years built 119 modes in 50 batches** - 2.4 per batch, against Risk
+   of Rain 2's 0.3. The rate tracks the length of service as much as the length of review: a live
+   service accumulates things no other game has had time to do (lore rewritten, the early game left
+   behind, returning players with no catch-up).
+3. **A checker fault surfaced during this run.** `summarise.py card` had carried four neutral `review.*`
+   tags as complaints since they were built; 108 bullets across 17 games were re-marked and three
+   earlier findings tables corrected (round 470). **dircheck.py compares bullets to the card, so a
+   fault in the card is invisible to it.**
+
+### What this game does NOT settle
+
+- **Anything about runs, extraction or arenas.** The game has none.
+- **Flattening.** 581 reviews (18.0%) edited later, second only to Helldivers 2 (18.4%). Rico's.
+- **Two reading sessions.** Batches 1-14 and 15-64 were read on either side of the stop;
+  `best-in-its-category` vanishing after 2018 is the one place the tables hint at a change in filing.
+- **The non-English audience.** About 381,000 reviews, none pulled.
+
+⚠️ **The corpus is now 24 games and 20,679 English summaries (21,441 in all languages).**
