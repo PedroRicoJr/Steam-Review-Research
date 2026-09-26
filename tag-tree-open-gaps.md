@@ -10289,3 +10289,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **One mode built (Rule C):** `production.craftsmanship.impressive-for-a-small-team` (+), from 218893564 ("insane that just a few people created this"); the positive twin of `launch-state.the-team-was-too-small`.
 - **The disputes are gone from this stretch:** none of the 7 thumbs down names the mod handling or the Tarkov collaboration. Two are about Steam Deck or controllers (219384706, 223272028), one is a buyer who expected an online game (218895071, `the-mismatch-was-the-buyers-fault`), and the rest are about play: 220771003 (enemies see past the screen edge and respawn on a corpse run), 220759582 (chores, gear over skill), 220112613 (bosses), 220024918 ("meh").
 - **Too easy, for once:** 218875401 says it is "far too easy even on hard difficulties" and points to Zero Sievert for a challenge - the only `difficulty-tuning.too-easy` bullet in this batch.
+
+## Notes - round 497 (Escape from Duckov batch 22)
+
+50 read (2026-04-14 to 2026-06-30), 85 bullets, 0 excluded, 0 edited later. Running total 1,100 of 1,166 (6 excluded so far); 66 left: batch 23 (50) and batch 24 (16). 46 up / 4 down. Tree 1,589 -> 1,592. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 21:44 backstop firing (timer re-created as `143f5ac7`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.70, 36 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 6.5 bullets each and 39 words per bullet, 26% of bullets on an `.unknown`.
+- **Three modes built (Rule C):** `narrative.story.the-ending-lands` (+) and `game-design.world-interaction.the-base-building-is-a-pleasure` (+), both from 225579585 and both positive twins of existing modes; `art.fidelity.no-choice-of-anti-aliasing` (−) from 223778144.
+- **The mod statement, five months on:** 226071171 (2026-05-21) posts the same Chinese-and-English statement as 213987337 (2025-12-23) - the third copy after 217133568. It is the only mention of the dispute in this batch.
+- **Steady late-stage complaints:** 4 bullets on grind (225579585, 225533623, 227406042, 229278077); 227406042 (18 helpful) says the grind starts after only 5 hours. 4 more ask for co-op (224880234, 225582970, 225528766, 227997510).

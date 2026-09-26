@@ -9974,6 +9974,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 496, Escape from Duckov batch 21.** Built under Rule C.
 
+## Modes added in Escape from Duckov batch 22 - round 497 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-ending-lands` | **+** | The story's close is satisfying - it gives the journey a conclusion, sometimes an emotional one. **The positive twin of `.the-ending-lets-it-down`.** Escape from Duckov 225579585. |
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.the-base-building-is-a-pleasure` | **+** | The player's base grows under their hands - furniture, stations, rooms - and watching it change from a hole to a fortress is part of the reward. **The positive twin of `.the-base-building-is-shallow`.** Escape from Duckov 225579585. |
+
+### `art.fidelity`
+| Mode | | Definition |
+|---|---|---|
+| `.no-choice-of-anti-aliasing` | **−** | The game relies on one smoothing method (usually TAA) and offers no alternative, and the reviewer would trade frame rate for another. **Distinct from `.the-picture-is-blurry`**, where the blur itself is the complaint. Escape from Duckov 223778144. |
+
+🔑 **Round 497, Escape from Duckov batch 22.** Built under Rule C; two are positive twins of existing modes.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
