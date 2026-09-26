@@ -10225,3 +10225,16 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
   - `game-design.level-design.exploring-off-the-path-pays` (+): the missing inverse of the round-217 `.exploring-off-the-path-finds-nothing`; 212040684 and 212095866.
 - **Tarkov as the yardstick:** 8 of 90 bullets name Tarkov: 4 on `explained-by-naming-other-games`, 2 on `beats-its-rivals`, 1 on `looks-like-a-joke-plays-like-a-real-game` (212140535 took it for a low-budget clone) and 1 on `no-pvp-is-a-feature`. 212113655 adds a jab at Tarkov; not repeated.
 - **Power outgrows the bosses:** 212085754 says that on normal, once ammo, armour and helmet are upgraded, only one boss still needs tactics (`progression-outgrows-the-challenge`).
+
+## Notes - round 491 (Escape from Duckov batch 16)
+
+50 read (33 on 2025-11-30, 17 on 2025-12-07), 89 bullets, 0 excluded, 3 edited later. Running total 800 of 1,166 (6 excluded so far). 46 up / 4 down. Tree 1,560 -> 1,565. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 15:45 backstop firing (timer re-created as `fb2b0d88`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.78, 28 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 4.8 bullets each and 35 words per bullet, 26% of bullets on an `.unknown` (20 bare `review.positive.unknown`, 2 `review.negative.unknown`, 1 `difficulty-tuning.unknown`).
+- **Five modes built (Rule C):**
+  - `game-design.punishment-model.one-chance-to-recover-your-gear` (−), `game-design.level-design.an-area-needs-gear-it-never-mentions` (−) and `game-design.randomness.cannot-prepare-for-what-the-enemy-carries` (−), all from 212801415, a thumbs down after 94 hours.
+  - `game-design.pacing.the-day-and-night-cycle-stretches-the-fun-thin` (−), from 212798410 (thumbs down).
+  - `game-design.progression.unlock-pace.an-ending-gives-the-collecting-a-point` (+), from 212813596 (379 hours).
+- **The end game, again:** after round 490's `the-late-game-turns-into-a-grind`, two more reviews say the last area lets the game down: 212816173 ("The first 90% of the game is great, but the final area is very tedious"; on `.the-late-game-turns-into-a-grind` and `a-boss-needs-one-setup`) and 212801415 ("Early to mid game is fantastic!" then "The end game though sucks"). 212801415 also names the thumb that would flip (`review.the-thumb-will-flip-when-one-thing-is-fixed`).
+- **Co-op asked for:** 3 bullets on `expected-mode-missing` (211874745, 212813371, 212810413).
+- **One phrase left untranslated:** 211853631 (thumbs down, Chinese) ends on a slang phrase whose meaning I could not confirm; the bullet says so rather than guess.

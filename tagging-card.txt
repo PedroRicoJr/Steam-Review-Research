@@ -1558,3 +1558,8 @@ community.user-created-content.mods-mostly-in-another-language | - | Most of the
 game-design.progression.unlock-pace.the-late-game-turns-into-a-grind | - | The reviewer praises the early and middle game and says the last stretch becomes a grind - rare keys and items
 production.content-variety.blends-genres-into-something-fresh | + | The reviewer praises the game for mixing two or more genres - extraction and hack and slash, souls and shooter
 game-design.level-design.exploring-off-the-path-pays | + | The reviewer says looking around is rewarded - hidden corners, side rooms and secrets hold weapons, mods or us
+game-design.progression.unlock-pace.an-ending-gives-the-collecting-a-point | + | The game has a real ending, and the reviewer says it makes the exploring and collecting meaningful - something
+game-design.punishment-model.one-chance-to-recover-your-gear | - | After a death the player gets a single run to reach their body and take their gear back; if that run fails or 
+game-design.level-design.an-area-needs-gear-it-never-mentions | - | A later area can only be survived or passed with a particular item - a gas mask, thermal goggles, a protective
+game-design.randomness.cannot-prepare-for-what-the-enemy-carries | - | Enemies arrive with a different, random loadout each run - armour-piercing ammo one time, fire the next - so t
+game-design.pacing.the-day-and-night-cycle-stretches-the-fun-thin | - | The reviewer names the world's day and night cycle as something that spreads the fun thinner - more of the ses

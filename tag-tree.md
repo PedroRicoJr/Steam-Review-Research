@@ -9809,6 +9809,35 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 490, Escape from Duckov batch 15.** Built under Rule C; the round-484 late-game sighting had been filed on the general `.grindy`. The exploring mode is the missing inverse of the round-217 mode. Earlier genre-blend praise went to `explained-by-naming-other-games` or to a combat tag.
 
 
+## Modes added in Escape from Duckov batch 16 - round 491 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.an-ending-gives-the-collecting-a-point` | **+** | The game has a real ending, and the reviewer says it makes the exploring and collecting meaningful - something to work towards, unusual for the genre. **The inverse of `.the-game-sets-no-goals`**; distinct from `.you-set-your-own-goals`, where the lack of an end is the freedom. Escape from Duckov 212813596. |
+
+### `game-design.punishment-model`
+| Mode | | Definition |
+|---|---|---|
+| `.one-chance-to-recover-your-gear` | **−** | After a death the player gets a single run to reach their body and take their gear back; if that run fails or they go home first, it is gone. **Distinct from `.harsh-restart`**, which is lost progress in general; here the complaint is the one-try rule on the corpse run. Escape from Duckov 212801415. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.an-area-needs-gear-it-never-mentions` | **−** | A later area can only be survived or passed with a particular item - a gas mask, thermal goggles, a protective suit - and the game does not say so before the player goes in. **Distinct from `game-design.enemy-design.a-boss-needs-one-setup`**, which is one fight; here it is the place. Escape from Duckov 212801415. |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-prepare-for-what-the-enemy-carries` | **−** | Enemies arrive with a different, random loadout each run - armour-piercing ammo one time, fire the next - so the player cannot prepare for a known threat. **Distinct from `.luck-decides-the-outcome`**, which is about the result; here it is the preparation that chance undoes. Escape from Duckov 212801415. |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-day-and-night-cycle-stretches-the-fun-thin` | **−** | The reviewer names the world's day and night cycle as something that spreads the fun thinner - more of the session goes to working around it and less to play. **The negative twin of `.rhythm-of-pressure-and-rest`** where a reviewer credits the cycle. Escape from Duckov 212798410. |
+
+🔑 **Round 491, Escape from Duckov batch 16.** Built under Rule C; four of the five come from the end-game reviews 212801415 and 212798410.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
