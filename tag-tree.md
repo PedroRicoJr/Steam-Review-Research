@@ -9693,6 +9693,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 476, Escape from Duckov batch 1.** Built on first sighting under Rule C.
 
 
+## Modes added in Escape from Duckov batch 2 - round 477 (Rule C)
+
+### `game-design.readability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-line-of-sight-system-hides-enemies` | **−** | The game draws only what the player's character can see - fog of war, a vision cone - and the reviewer objects that enemies outside it are hidden while they can still see and shoot the player. **Distinct from `.threats-unclear`** (a visible threat that cannot be read) and from `enemy-design.ignores-physical-logic` (enemies shooting through solid walls). Escape from Duckov 207011571, 207012183. |
+
+🔑 **Round 477, Escape from Duckov batch 2.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

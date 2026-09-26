@@ -1543,3 +1543,4 @@ publishing.monetisation-practice.free-items-are-handed-out-often | + | The studi
 narrative.story.hard-to-follow | - | The reviewer says the story is hard to follow as the game tells it - what happened, and why - whether or not t
 marketing.expectation-management.looks-like-a-joke-plays-like-a-real-game | + | The reviewer took the game for a parody or a meme from its look or premise, and says it turned out to be a ser
 game-design.progression.build-and-customisation.upgrades-do-not-show-on-the-gear | - | Mods and upgrades the player fits to a weapon do not change how it looks, so the build cannot be seen. **Disti
+game-design.readability.the-line-of-sight-system-hides-enemies | - | The game draws only what the player's character can see - fog of war, a vision cone - and the reviewer objects

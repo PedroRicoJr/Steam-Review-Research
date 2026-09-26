@@ -10092,3 +10092,13 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **The game is single-player, and the first ask is co-op:** 207037180 (113 found it helpful) would buy friends copies if co-op were added; 207034192 asks for PvP. Both on `modes.expected-mode-missing`.
 - **An accessibility fix in three days:** 207043984 (227 found it helpful) asked for aim and shoot to be rebindable because of a disability, then edited to say the developers added it very fast; on `controls.cannot-rebind` and `patch-quality.fixes-come-within-hours`.
 - **Tarkov is the yardstick:** 8 bullets name Escape from Tarkov, as the thing this beats or the thing it is like.
+
+## Notes - round 477 (Escape from Duckov batch 2)
+
+50 read (2025-10-18 to 2025-10-24), 97 bullets, 0 excluded, 0 edited later. Running total 100 of 1,166. 44 up / 6 down. Tree 1,545 -> 1,546. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 01:44 backstop firing (timer `57da7ffd` running).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.94, 25 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 5.2 bullets each and 28 words per bullet, 23% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `game-design.readability.the-line-of-sight-system-hides-enemies` (−), from 207011571 (17 found it helpful: enemies the game does not draw can still see and shoot you) and 207012183 (not a fan of the fog of war; a mod removes it). The shooting-through-walls half of 207011571 went on the existing `enemy-design.ignores-physical-logic`.
+- **Controller support is the most repeated ask:** 3 bullets in this batch (207010413, 206999689, 207504044), 5 with batch 1's two, all on `controls.missing-expected-bindings`; two reviewers call the keyboard movement clunky (`movement.sluggish`).
+- **Multiplayer asked for again:** 206998441 (down; would flip the thumb if the game changed direction) and 206997959 (two-player co-op), on `modes.expected-mode-missing`.
+- **Four reviews in Chinese** under the English tag (207020387, 207013385, 207008485, 207503936), on `written-in-a-language-other-than-its-steam-tag`.
