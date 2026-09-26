@@ -10111,3 +10111,13 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **Three modes built (Rule C):** `production.content-variety.quests-dictate-how-you-play` (−) and `.quests-send-you-back-and-forth` (−), both from 207494154 (down, 17 found it helpful: missions force a named weapon; routes are "like all the worst parts of traveling through an airport"); `game-design.difficulty-tuning.difficulty-can-be-tuned-in-detail` (+), from 207499795 and 207491959 (custom difficulty parameters). `findphrase` found no earlier sighting of any of the three.
 - **Multiplayer asked for in 8 bullets across 150 reviews** (4 in this batch), all on `modes.expected-mode-missing`.
 - **Zero Sievert is the other yardstick:** named twice in this batch and once in batch 2, beside Tarkov; 207494154 says it did all of this better (`beaten-by-a-competitor`).
+
+## Notes - round 479 (Escape from Duckov batch 4)
+
+50 read (2025-10-24 to 2025-10-31), 98 bullets, 0 excluded, 0 edited later. Running total 200 of 1,166. 45 up / 5 down. Tree unchanged at 1,549. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 03:44 backstop firing (timer re-created as `2e81cdde`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.96, 25 of 50 reviews 15 words or fewer, 9 reviews over 60 words at 4.1 bullets each and 20 words per bullet, 19% of bullets on an `.unknown`.
+- **No new mode.** Everything fitted an existing mode.
+- **Running tallies after 200 reviews** (by `grep` on the summaries): `modes.expected-mode-missing` 11 (multiplayer, co-op or PvP asked for), `controls.missing-expected-bindings` 8 (mostly controller support), `punishment-model.stakes-worth-the-risk` 6, `modes.no-pvp-is-a-feature` 5.
+- **Steam Deck, both sides:** 207481552 (down) says it does not work there without controller support; 207481461 (up) says a community controller layout makes it great and explains how to pick one (`players-teach-each-other-the-fix`).
+- **A co-op mod already exists** (207491173), as does a first-person mod (207498619 in batch 3).
