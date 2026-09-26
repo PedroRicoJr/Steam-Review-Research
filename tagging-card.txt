@@ -1586,3 +1586,4 @@ game-design.world-interaction.searching-reveals-loot-slowly | - | Searching a co
 narrative.tone.a-one-note-joke | - | The game's joke is one idea repeated, and for this reviewer it wore thin and hurt the immersion. **The negativ
 game-design.game-feel.movement.the-dodge-roll-locks-you-in | - | Once a dodge roll starts the player cannot steer or act until the animation ends, and a roll can cancel a relo
 game-design.ui-ux.the-interface-is-too-big | - | Menus and the inventory are drawn so large that sorting is slow and tiring, and the reviewer asks for a scale 
+production.craftsmanship.impressive-for-a-small-team | + | The reviewer is struck that so few people made the game, and counts that in its favour. **The positive twin of

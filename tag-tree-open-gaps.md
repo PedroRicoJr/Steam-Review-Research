@@ -10280,3 +10280,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **A second dispute, on 2026-01-31:** two thumbs down (217253429, 217251321) over a collaboration with the makers of Escape from Tarkov - the partner mode above. Records the reviews' claim; the collaboration itself is not checked here.
 - **Where the 14 thumbs down come from:** 4 on controller or Steam Deck support (217284893, 217805258, 217790837, 218308228), 2 on the Tarkov collaboration, 1 pasted mod statement (217133568, the same English text as 213987337), 1 jab at a nationality (217768332, not repeated), 1 on the end game (217761449), 4 on the game itself (216618760, 217291615, 217284784, 217753377), and 1 with no reason given (217289508).
 - **Jabs kept out:** 217768332 and 217769925 (a sarcastic line about China); 217813363 opens with a jab at other reviewers' literacy.
+
+## Notes - round 496 (Escape from Duckov batch 21)
+
+50 read (2026-02-21 to 2026-04-15), 82 bullets, 0 excluded, 0 edited later. Running total 1,050 of 1,166 (6 excluded so far); 116 left, so two batches of 50 and one of 16. 43 up / 7 down. Tree 1,588 -> 1,589. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 20:44 backstop firing (timer re-created as `18f206ef`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.64, 31 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 3.6 bullets each and 30 words per bullet, 23% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `production.craftsmanship.impressive-for-a-small-team` (+), from 218893564 ("insane that just a few people created this"); the positive twin of `launch-state.the-team-was-too-small`.
+- **The disputes are gone from this stretch:** none of the 7 thumbs down names the mod handling or the Tarkov collaboration. Two are about Steam Deck or controllers (219384706, 223272028), one is a buyer who expected an online game (218895071, `the-mismatch-was-the-buyers-fault`), and the rest are about play: 220771003 (enemies see past the screen edge and respawn on a corpse run), 220759582 (chores, gear over skill), 220112613 (bosses), 220024918 ("meh").
+- **Too easy, for once:** 218875401 says it is "far too easy even on hard difficulties" and points to Zero Sievert for a challenge - the only `difficulty-tuning.too-easy` bullet in this batch.

@@ -9965,6 +9965,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 495, Escape from Duckov batch 20.** Built under Rule C.
 
+## Modes added in Escape from Duckov batch 21 - round 496 (Rule C)
+
+### `production.craftsmanship`
+| Mode | | Definition |
+|---|---|---|
+| `.impressive-for-a-small-team` | **+** | The reviewer is struck that so few people made the game, and counts that in its favour. **The positive twin of `production.launch-state.the-team-was-too-small`.** Escape from Duckov 218893564. |
+
+🔑 **Round 496, Escape from Duckov batch 21.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
