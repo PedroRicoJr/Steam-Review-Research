@@ -10213,3 +10213,15 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **No new mode.** `enemy-design.the-enemies-fight-each-other` (212194036: factions attack each other, "more dynamic than some other presumably dynamic game worlds") and `marketing.discovery.launched-in-the-shadow-of-a-bigger-game` (212182143: launched just before ARC Raiders) both already existed.
 - **Extreme difficulty as the intended game:** 212185818 and 212194036 raised the difficulty so a death loses the gear, and write about it as the point; 212185818 takes a break after each death to avoid a spiral.
 - **A crude rant kept out:** 212185818 opens with an angry joke rant at the ducks; recorded as a rant, not repeated.
+
+## Notes - round 490 (Escape from Duckov batch 15)
+
+50 read (all 2025-11-30), 90 bullets on 49 reviews, **1 excluded** (211990482 empty; written by hand first), 1 edited later (212040684), 1 earlier file edited (below). Running total 750 of 1,166 (6 excluded so far). 49 up / 1 down. Tree 1,557 -> 1,560. Lost-review check: all 50 accounted for; `--gaps` none. Done in the 14:44 backstop firing (timer re-created as `2a4b8dc1`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 31 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 5.8 bullets each and 34 words per bullet, 19% of bullets on an `.unknown` (17 bare `review.positive.unknown`).
+- **Three modes built (Rule C):**
+  - `game-design.progression.unlock-pace.the-late-game-turns-into-a-grind` (−): 212074993 (early and middle game fun, then the last area dries up - hidden keys, few new quests, searching crates) and the one thumbs down, 211974754 ("Gets tedious at the end"). The round-484 sighting 209043623 is re-homed here from the general `.grindy`.
+  - `production.content-variety.blends-genres-into-something-fresh` (+): 212040684 (extraction blended with hack and slash). Earlier sightings in other games went to `explained-by-naming-other-games` or a combat tag and are left there.
+  - `game-design.level-design.exploring-off-the-path-pays` (+): the missing inverse of the round-217 `.exploring-off-the-path-finds-nothing`; 212040684 and 212095866.
+- **Tarkov as the yardstick:** 8 of 90 bullets name Tarkov: 4 on `explained-by-naming-other-games`, 2 on `beats-its-rivals`, 1 on `looks-like-a-joke-plays-like-a-real-game` (212140535 took it for a low-budget clone) and 1 on `no-pvp-is-a-feature`. 212113655 adds a jab at Tarkov; not repeated.
+- **Power outgrows the bosses:** 212085754 says that on normal, once ammo, armour and helmet are upgraded, only one boss still needs tactics (`progression-outgrows-the-challenge`).

@@ -9789,6 +9789,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 487, Escape from Duckov batch 12.** Rounds 479 and 482 broke Rule C by parking the first two sightings on `.unknown`.
 
 
+## Modes added in Escape from Duckov batch 15 - round 490 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-late-game-turns-into-a-grind` | **−** | The reviewer praises the early and middle game and says the last stretch becomes a grind - rare keys and items, few new quests, searching crates in hope - so the fun drops off before the end. **Distinct from `.grindy`** (the whole game) and `.nothing-left-to-chase` (the goals run out rather than turn into a grind). Escape from Duckov 212074993, 211974754; the earlier 209043623 (round 484) re-homed here from `.grindy`. |
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.blends-genres-into-something-fresh` | **+** | The reviewer praises the game for mixing two or more genres - extraction and hack and slash, souls and shooter - and says the mix feels fresh rather than locked into one kind of game. **Distinct from `marketing.reputation.explained-by-naming-other-games`**, which names other games to explain what this one is; here the mix itself is the praise. Escape from Duckov 212040684. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.exploring-off-the-path-pays` | **+** | The reviewer says looking around is rewarded - hidden corners, side rooms and secrets hold weapons, mods or useful supplies worth the detour. **The inverse of `.exploring-off-the-path-finds-nothing`.** Distinct from `narrative.world-and-setting.world-worth-exploring`, where the reward is the fiction; here it is loot. Escape from Duckov 212040684, 212095866. |
+
+🔑 **Round 490, Escape from Duckov batch 15.** Built under Rule C; the round-484 late-game sighting had been filed on the general `.grindy`. The exploring mode is the missing inverse of the round-217 mode. Earlier genre-blend praise went to `explained-by-naming-other-games` or to a combat tag.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
