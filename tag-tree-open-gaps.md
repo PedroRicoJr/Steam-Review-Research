@@ -10195,3 +10195,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **One mode built (Rule C):** `community.user-created-content.mods-mostly-in-another-language` (−), from 209504935 ("MOST of the mods are in chineese"). **Rounds 479 and 482 broke Rule C** by parking the first two sightings on `user-created-content.unknown`; both are re-homed here now (207485177, 208578969). The same slip happened with `mods-said-to-carry-malware` (round 483). **Lesson: a specific complaint parked on `.unknown` is a missed build, not a safe default.**
 - **The one thumbs down:** 209485414 calls it a top-down Tarkov copied without intention - quests and items exist only because Tarkov has them - on `a-parody-of-a-big-budget-game`, `repetitive` and `complexity.shallow`.
 - **Clever top-down translation:** 209505615 praises how a 2x scope becomes a different crosshair and a wider view (`the-line-of-sight-system-is-clever`, its second bullet).
+
+## Notes - round 488 (Escape from Duckov batch 13)
+
+50 read (all 2025-11-24), 72 bullets, 0 excluded, 0 edited later. Running total 650 of 1,166. 49 up / 1 down. Tree unchanged at 1,557. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 12:44 backstop firing (timer re-created as `ab894d8c`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.44, 31 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 3.0 bullets each and 39 words per bullet, 32% of bullets on an `.unknown`. Two of the four long reviews are general, store-copy prose (210186907 on `reads-like-a-store-blurb`; 210194123 partly), which is why bullets per long review is low.
+- **No new mode.**
+- **The one thumbs down:** 210176647, "Game crashes too much" - the first `stability.crashes-repeatedly` bullet in 650 reviews.
+- **Won over:** `won-over-someone-who-avoids-the-genre` reaches 12 (by `grep`). 210174370 is the fullest: thought it a meme, saw a YouTuber say non-fans should try it, and credits a world tuned so you rarely lose everything (`quick-recovery-keeps-flow`).
