@@ -9749,6 +9749,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 481, Escape from Duckov batch 6.** Built on first sighting under Rule C, as the + twin of a − mode.
 
 
+## Modes added in Escape from Duckov batch 7 - round 482 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.the-base-building-is-shallow` | **−** | The player's base is built by unlocking stations and placing them on a grid, with nothing to design, and the reviewer calls the system basic or generic. **Distinct from `.no-home-base-that-shows-your-progress`** (no base, or one that does not change). Escape from Duckov 208567749. |
+
+🔑 **Round 482, Escape from Duckov batch 7.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

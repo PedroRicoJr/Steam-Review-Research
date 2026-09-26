@@ -10139,3 +10139,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **One mode built (Rule C):** `game-design.progression.build-and-customisation.your-gear-shows-on-your-character` (+), 208046153 ("all equipment is shown on your character"), the + twin of round 476's `.upgrades-do-not-show-on-the-gear` - a praise line with no + home is a build, per rounds 362 and 372.
 - **Running tallies after 300 reviews** (by `grep` on the summaries): `marketing.reputation.beats-its-rivals` 21 (13 about Tarkov, two of them without naming it; Delta Force 2, Battlefield or Call of Duty 2, big-budget games in general 3, unnamed extraction shooters 1), `modes.expected-mode-missing` 15, `modes.no-pvp-is-a-feature` 12, `controls.missing-expected-bindings` 10.
 - **A jab kept out:** 208060456 lists what Tarkov does wrong and includes a jab at that studio's head; recorded as a jab, not repeated.
+
+## Notes - round 482 (Escape from Duckov batch 7)
+
+50 read (all 2025-11-06), 81 bullets, 0 excluded, 0 edited later. Running total 350 of 1,166. 47 up / 3 down. Tree 1,553 -> 1,554. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 06:44 backstop firing (timer re-created as `c9ed12da`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.62, 34 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 8.0 bullets each and 40 words per bullet, 30% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `game-design.world-interaction.the-base-building-is-shallow` (−), 208567749 ("unlock a building... and place it on a grid"). `findphrase "base building"` found six earlier lines, all praise or neutral, none a complaint about depth.
+- **The first two long thumbs-down reviews on the design:** 208578260 (37 hours) is soft-locked by a key card that has not dropped in 50+ runs (`the-thing-you-need-may-never-roll`, 2 bullets) and names mini-bosses that kill instantly with no counter; 208567749 says the game runs out after the first boss and that the positive reviews read like bots (`says-the-other-reviews-are-not-about-the-game`, `answers-a-claim-made-in-another-review`).
+- **Mods, running tally** (by `grep` on the summaries after 350): `mods-extend-the-game` 11, `a-mod-adds-a-mode-the-studio-never-shipped` 4 (first-person, third-person, co-op in alpha). 208582341 bought the game after seeing the third-person mod on Twitch.
