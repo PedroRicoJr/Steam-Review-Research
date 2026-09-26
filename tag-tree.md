@@ -9759,6 +9759,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 482, Escape from Duckov batch 7.** Built on first sighting under Rule C.
 
 
+## Modes added in Escape from Duckov batch 8 - round 483 (Rule C)
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.mods-said-to-carry-malware` | **−** | The reviewer warns that mods for the game have carried, or could carry, a virus or other malicious code, sometimes blaming the studio or publisher for allowing it. **Records the claim, not a verified incident.** Escape from Duckov 208557811; the earlier warning 208070385 (round 480) re-homed here from `.unknown`. |
+
+🔑 **Round 483, Escape from Duckov batch 8.** Built on the second sighting's arrival under Rule C (the first had been parked on `.unknown`).
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

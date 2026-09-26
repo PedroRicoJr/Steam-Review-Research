@@ -1552,3 +1552,4 @@ game-design.progression.build-and-customisation.the-character-creator-is-fun | +
 accessibility.vision.a-player-with-low-vision-says-it-works | + | A reviewer who names their own visual impairment says they can make out targets and read the game without trou
 game-design.progression.build-and-customisation.your-gear-shows-on-your-character | + | The armour, helmet, mask and weapon attachments the player equips are drawn on the character, and the reviewer
 game-design.world-interaction.the-base-building-is-shallow | - | The player's base is built by unlocking stations and placing them on a grid, with nothing to design, and the r
+community.user-created-content.mods-said-to-carry-malware | - | The reviewer warns that mods for the game have carried, or could carry, a virus or other malicious code, somet

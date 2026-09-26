@@ -10148,3 +10148,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **One mode built (Rule C):** `game-design.world-interaction.the-base-building-is-shallow` (−), 208567749 ("unlock a building... and place it on a grid"). `findphrase "base building"` found six earlier lines, all praise or neutral, none a complaint about depth.
 - **The first two long thumbs-down reviews on the design:** 208578260 (37 hours) is soft-locked by a key card that has not dropped in 50+ runs (`the-thing-you-need-may-never-roll`, 2 bullets) and names mini-bosses that kill instantly with no counter; 208567749 says the game runs out after the first boss and that the positive reviews read like bots (`says-the-other-reviews-are-not-about-the-game`, `answers-a-claim-made-in-another-review`).
 - **Mods, running tally** (by `grep` on the summaries after 350): `mods-extend-the-game` 11, `a-mod-adds-a-mode-the-studio-never-shipped` 4 (first-person, third-person, co-op in alpha). 208582341 bought the game after seeing the third-person mod on Twitch.
+
+## Notes - round 483 (Escape from Duckov batch 8)
+
+50 read (2025-11-06 to 2025-11-12), 73 bullets on 47 reviews, **3 excluded** (208538859, 208537250, 209070142: empty text, written by hand first), 1 earlier file edited (below). Running total 400 of 1,166. 49 up / 1 down. Tree 1,554 -> 1,555. Lost-review check: all 50 accounted for; `--gaps` none. Done in the 07:44 backstop firing (timer re-created as `83f66640`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.46, 28 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 4.7 bullets each and 26 words per bullet, 32% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `community.user-created-content.mods-said-to-carry-malware` (−), 208557811 (down, in Chinese and English: claims the studio and publisher support mod authors injecting virus code). **Round 480 broke Rule C:** 208070385's warning that a mod could bring a virus was the first sighting and was parked on `user-created-content.unknown` instead of built; it is re-homed here now. The mode records the claim, not a verified incident.
+- **The most-helpful review so far:** 208537429 (778 found it helpful), a father who avoids extraction shooters because of try-hards in lobbies and wants short, offline, no-pressure sessions; on `no-pvp-is-a-feature`, `good-in-short-sittings`, `plays-offline`, `won-over-someone-who-avoids-the-genre`.
+- **Another jab kept out:** 208548882 ends with a jab at the rival studio's head; not repeated.
