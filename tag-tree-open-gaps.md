@@ -10298,3 +10298,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **Three modes built (Rule C):** `narrative.story.the-ending-lands` (+) and `game-design.world-interaction.the-base-building-is-a-pleasure` (+), both from 225579585 and both positive twins of existing modes; `art.fidelity.no-choice-of-anti-aliasing` (−) from 223778144.
 - **The mod statement, five months on:** 226071171 (2026-05-21) posts the same Chinese-and-English statement as 213987337 (2025-12-23) - the third copy after 217133568. It is the only mention of the dispute in this batch.
 - **Steady late-stage complaints:** 4 bullets on grind (225579585, 225533623, 227406042, 229278077); 227406042 (18 helpful) says the grind starts after only 5 hours. 4 more ask for co-op (224880234, 225582970, 225528766, 227997510).
+
+## Notes - round 498 (Escape from Duckov batch 23)
+
+50 read (2026-06-30 to 2026-09-07), 103 bullets, 0 excluded, 3 edited later. Running total 1,150 of 1,166 (6 excluded so far); 16 left for batch 24, the last. 44 up / 6 down. Tree unchanged at 1,592. Lost-review check: the first dry run held 47 - three reviews at the end of the batch had not been read (the print was cut short at 16,000 characters); they were read and added, and the batch wrote all 50; `--gaps` none. Done in the 22:44 backstop firing (timer re-created as `f441bb62`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.06, 30 of 50 reviews 15 words or fewer, 11 reviews over 60 words at 4.3 bullets each and 39 words per bullet, 23% of bullets on an `.unknown`.
+- **No new mode.** Every point had a home; 231072550 (15 bullets) shows the tree now covers this game's common complaints - economy, meta guns, weak late enemies, Chinese-only mods.
+- **The 6 thumbs down:** 3 on performance (230498810, 232131285 - stutter in every Farm Town boss fight - and 232829351, which adds a jab at the studio's country, not repeated), 1 on controller support (233482021), 1 on unfair deaths and a lost corpse run (231080507), and 1 more translation of the mod statement (231744444, 2026-07-31 - the fourth copy).
+- **Process note:** read the whole batch file before building the bullets; a truncated print hid three reviews this time, and the write script's LOST check caught it.
