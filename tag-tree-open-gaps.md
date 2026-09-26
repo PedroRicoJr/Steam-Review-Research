@@ -10130,3 +10130,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **Three modes built (Rule C):** `game-design.world-interaction.a-side-activity-is-frustratingly-hard` (−), 208079928 (the fishing minigame, down at 86 hours); `game-design.progression.build-and-customisation.the-character-creator-is-fun` (+), 208066489 (made their duck a cartoon platypus); `accessibility.vision.a-player-with-low-vision-says-it-works` (+), 208067017 ("even as a visually impaired person, I never struggle to make out the targets"). `findphrase` found no earlier sighting for "visually impaired"; "minigame" found eight lines, all on `chores-instead-of-play` (waits, not skill tests), left there.
 - **Running tallies after 250 reviews** (by `grep` on the summaries): `modes.expected-mode-missing` 14, `modes.no-pvp-is-a-feature` 9, `punishment-model.stakes-worth-the-risk` 9, `looks-like-a-joke-plays-like-a-real-game` 9.
 - **The survival layer is the one design complaint of the batch:** 208075570 is bored of gathering, thirst and energy, and running back to base at night (`chores-instead-of-play`).
+
+## Notes - round 481 (Escape from Duckov batch 6)
+
+50 read (2025-10-31 to 2025-11-06), 90 bullets, 0 excluded, 1 edited later (208051686: "not worth 18 euros" moved from `price.unknown` to `price.too-high-for-what-it-is`). Running total 300 of 1,166. 49 up / 1 down. Tree 1,552 -> 1,553. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 05:45 backstop firing (timer re-created as `20e984a4`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 34 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 7.2 bullets each and 27 words per bullet, 24% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `game-design.progression.build-and-customisation.your-gear-shows-on-your-character` (+), 208046153 ("all equipment is shown on your character"), the + twin of round 476's `.upgrades-do-not-show-on-the-gear` - a praise line with no + home is a build, per rounds 362 and 372.
+- **Running tallies after 300 reviews** (by `grep` on the summaries): `marketing.reputation.beats-its-rivals` 21 (13 about Tarkov, two of them without naming it; Delta Force 2, Battlefield or Call of Duty 2, big-budget games in general 3, unnamed extraction shooters 1), `modes.expected-mode-missing` 15, `modes.no-pvp-is-a-feature` 12, `controls.missing-expected-bindings` 10.
+- **A jab kept out:** 208060456 lists what Tarkov does wrong and includes a jab at that studio's head; recorded as a jab, not repeated.

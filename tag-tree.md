@@ -9739,6 +9739,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 480, Escape from Duckov batch 5.** Built on first sighting under Rule C.
 
 
+## Modes added in Escape from Duckov batch 6 - round 481 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.your-gear-shows-on-your-character` | **+** | The armour, helmet, mask and weapon attachments the player equips are drawn on the character, and the reviewer names it as a pleasure. **The other side of `.upgrades-do-not-show-on-the-gear`** (built in round 476). Escape from Duckov 208046153. |
+
+🔑 **Round 481, Escape from Duckov batch 6.** Built on first sighting under Rule C, as the + twin of a − mode.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
