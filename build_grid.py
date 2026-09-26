@@ -64,6 +64,8 @@ GAMES = {
     "warframe":              (230410,  2013, 3),   # TPS co-op looter, free
     "outriders":             (680420,  2021, 4),   # TPS co-op looter, Mixed - the failure counterpart
     "darktide":              (1361210, 2022, 11),  # FPS co-op horde, Mostly Positive
+    # --- Rico, 2026-09-24/25: the action-roguelike list, closest to Dominion first ---
+    "escape-from-duckov":    (3167020, 2025, 10),  # PvE extraction survival, released 2025-10-16
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 

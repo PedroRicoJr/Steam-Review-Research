@@ -18,11 +18,11 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-25 |
 | Current stage | 3 of 3: Escape from Duckov, then the next game from `planning/` (Warframe finished in round 474; the backlog in round 421) |
-| Last unit done | Round 474: `findings/warframe.md` and cross-game section 20 written; **Warframe Done** |
-| Next unit | Escape from Duckov (appid 3167020): add a `GAMES-TODO.md` row, measure with the grid, dry-run the pull, then pull (stage 3 of the active loop) |
+| Last unit done | Round 475: Escape from Duckov measured and pulled - 1,166 of 1,362 planned, +/-2.83% |
+| Next unit | Escape from Duckov batch 1: the first **50** (`python summarise.py next --group escape-from-duckov/english --n 50`) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,543 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
-| Escape from Duckov | not started |
+| Escape from Duckov | pulled 2026-09-26: 1,166 reviews (+/-2.83%); 0 read; next is batch 1 (50) |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

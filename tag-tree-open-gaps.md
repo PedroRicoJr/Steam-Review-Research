@@ -10072,3 +10072,13 @@ No reviews read. Done in the 00:44 backstop firing (timer `149a29a4`, re-created
 - **One count for the large games:** section 20 recomputes thumbs up, bullets per review, praise and complaint per 100 for eight large games with `scripts/findings_tables.py`. Deep Rock Galactic, Helldivers 2 and Back 4 Blood match their earlier figures within half a point; Risk of Rain 2's complaint rate is 18.0 on this count against 15.9 on its own pages (computed earlier, before the card fix, by a different count). Noted in the section; the Risk of Rain 2 pages are left as they are.
 - **Checked before commit:** four claims in the drafts were wrong and fixed (warns-that-it-takes-over-your-life is the third complaint, not the fourth; price.fair is the fourth most common tag, not the third; `the-endgame-is-only-more-unlocks` is 5, not 3; "every large game before this one" was not checked and was cut).
 - **Next:** Escape from Duckov (appid 3167020): add a GAMES-TODO row, measure, dry-run, pull.
+
+## Notes - round 475 (Escape from Duckov: row, grid, pull)
+
+No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for the next timer.
+
+- **Why this game:** stage 3 of the active loop names it; it is A1 on `planning/action-roguelike-list.md` ("PvE extraction survival. The closest match to Dominion on either list").
+- **Grid:** `build_grid.py --only escape-from-duckov --languages english` (slug added to `GAMES`, first month 2025-10): 11,004 English reviews across 12 months; 4,060 in 2025-10 and 4,053 in 2025-11, then 1,102, and under 500 a month from 2026-01. Steam's own English count on the day: 11,003.
+- **Pull:** planned 1,362 at +/-2.5%; **got 1,166**. The shortfall is the launch month: 294 of 490 wanted in 2025-10 (Steam's cursor stops advancing inside a date window); every other month got its quota. **Actual margin +/-2.83%**, computed with `pull_sample.true_moe` from the count actually pulled per month (Rule 12).
+- **GAMES-TODO:** row 8 of section 4.
+- **Next:** Escape from Duckov batch 1 (50 reviews).
