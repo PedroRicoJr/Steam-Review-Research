@@ -9902,6 +9902,40 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 493, Escape from Duckov batch 18.** Built under Rule C. Five of the eight are twins or inverses of existing modes.
 
+## Modes added in Escape from Duckov batch 19 - round 494 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.misused-the-store-announcements` | **−** | The reviewer says the studio used the store's announcement feature for something it should not have - to argue a dispute, or for messages players did not want. **Records the claim.** Escape from Duckov 214702800. |
+
+### `art.animation`
+| Mode | | Definition |
+|---|---|---|
+| `.actions-have-no-animation` | **−** | Everyday actions - drinking, eating, healing, reloading - happen without an animation, and the reviewer says adding them would polish the game. **Distinct from `.stiff-or-clunky`**, where the animation exists and looks wrong. Escape from Duckov 214699684. |
+
+### `audio.mixing`
+| Mode | | Definition |
+|---|---|---|
+| `.no-sense-of-direction` | **−** | The sound does not tell the player which way a noise comes from - left, right, ahead or behind. **Distinct from `audio.sound-effects.cannot-tell-above-from-below`**, which is only the vertical. Escape from Duckov 214698247. |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `review.calls-the-negative-reviews-a-review-bomb` | ~ | The reviewer says the game's negative reviews are a coordinated review bomb rather than honest verdicts. **Neutral: records the claim, not whether it is true.** Escape from Duckov 215438110. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.tooltips-get-in-the-way` | **−** | Pop-up item descriptions cover what the player is trying to look at - in the inventory, say - and cannot be turned off. Escape from Duckov 215376918. |
+
+### `engineering.platform-support`
+| Mode | | Definition |
+|---|---|---|
+| `.runs-poorly-on-my-platform` | **−** | The game works on the player's machine or handheld but runs poorly, and they ask for it to be optimised. **Softer than `.broken-on-my-platform`; the negative twin of `.runs-well-on-my-platform`.** Escape from Duckov 216633945. |
+
+🔑 **Round 494, Escape from Duckov batch 19.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

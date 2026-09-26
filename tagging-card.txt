@@ -1575,3 +1575,9 @@ game-design.punishment-model.healing-resets-every-fight | - | Healing is strong 
 game-design.difficulty-tuning.the-settings-come-in-fixed-bundles | - | The difficulty options tie separate rules together - the player cannot, for example, take full gear loss on de
 game-design.ai-teammates.wants-a-companion-in-a-solo-game | - | The game is played alone with no AI companion, and the reviewer asks for one - to help in fights or carry loot
 engineering.bugs.attacks-pass-through-walls | - | An attack - a melee swing, a shot - passes through a door or wall that should stop it. **Distinct from `game-d
+community.developer-communication.misused-the-store-announcements | - | The reviewer says the studio used the store's announcement feature for something it should not have - to argue
+art.animation.actions-have-no-animation | - | Everyday actions - drinking, eating, healing, reloading - happen without an animation, and the reviewer says a
+audio.mixing.no-sense-of-direction | - | The sound does not tell the player which way a noise comes from - left, right, ahead or behind. **Distinct fro
+review.calls-the-negative-reviews-a-review-bomb | ~ | The reviewer says the game's negative reviews are a coordinated review bomb rather than honest verdicts. **Neu
+game-design.ui-ux.tooltips-get-in-the-way | - | Pop-up item descriptions cover what the player is trying to look at - in the inventory, say - and cannot be tu
+engineering.platform-support.runs-poorly-on-my-platform | - | The game works on the player's machine or handheld but runs poorly, and they ask for it to be optimised. **Sof
