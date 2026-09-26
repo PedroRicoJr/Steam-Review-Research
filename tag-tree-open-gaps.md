@@ -10176,3 +10176,13 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **The end game is too easy for one, too hard for another:** 209006325 (196 hours) found the final bosses no challenge on extreme with a maxed duck (`the-final-fight-is-a-pushover`), while 208997374 (down, 60 hours) calls normal very difficult and the loss of items on a second death a loss of progression (`too-hard`, `harsh-restart`). 209001441 warns of a difficulty spike at the farm-town area.
 - **Gear check:** 209011472 says combat is an MMO-style gear check (`gear-decides-the-pve-fight`) and the enemy AI just charges head-on (`poor-ai-behaviour`).
 - **One review repeats a sales claim:** 208995166 says the game sold three million copies in two weeks with almost no marketing; recorded as the reviewer's claim, not checked.
+
+## Notes - round 486 (Escape from Duckov batch 11)
+
+50 read (all 2025-11-18), 84 bullets, 0 excluded, 0 edited later. Running total 550 of 1,166. 48 up / 2 down. Tree unchanged at 1,556. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 10:44 backstop firing (timer re-created as `4a0f07b3`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.68, 32 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 4.1 bullets each and 41 words per bullet, 20% of bullets on an `.unknown`. The words per bullet is pulled up by 209536513, a long store-copy-style review filed as one bullet on `reads-like-a-store-blurb`.
+- **No new mode.**
+- **The two thumbs-down reviews:** 209526388 (loses hours of loot to unfair deaths, bugs and crashes, and to off-screen enemies; "if you value your time, skip this one") and 209563592 (3/10, better games for $20).
+- **The PvP-averse newcomer, again:** 209526099 dislikes PvP, timers and cheating, came through a YouTuber's character-editor video, and calls it their game of the year. `won-over-someone-who-avoids-the-genre` is now 9 across 550 reviews, and `controls.missing-expected-bindings` (mostly controller support) 15 (both by `grep`).
+- **A jab kept out:** 209567395 includes a jab at a nationality; not repeated.
