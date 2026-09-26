@@ -1567,3 +1567,11 @@ community.moderation.went-easy-on-a-harmful-mod-author | - | The reviewer says a
 production.content-variety.quests-ask-for-what-you-already-did | - | A quest arrives asking the player to find a place or kill a boss they have already found or killed, and the ga
 narrative.world-and-setting.real-and-made-up-names-mixed | - | Some weapons or items carry their real-world names and others near-miss made-up ones, and the reviewer wants o
 game-design.ui-ux.quests-point-with-clues-not-waypoints | - | Quest locations are given through notes and clues the player must work out rather than a marker on the map, an
+game-design.world-interaction.weather-and-time-change-the-run | + | Weather and the time of day change what the player meets - which enemies spawn, what loot drops, which secret 
+game-design.world-interaction.too-little-can-be-destroyed | - | Only a few set pieces of the world can be broken - a handful of walls, one kind of cover - so explosives and h
+game-design.session-flexibility.no-clock-forces-you-out | + | A run has no timer, so the player stays as long as their own supplies last. **The positive twin of `.a-clock-d
+game-design.pacing.asks-you-to-think | + | The play rewards planning over reflex - loadout, ammo type, carrying capacity, what to grab and what to leave.
+game-design.punishment-model.healing-resets-every-fight | - | Healing is strong and plentiful enough that one fight has no effect on the next, so a run is either a sudden d
+game-design.difficulty-tuning.the-settings-come-in-fixed-bundles | - | The difficulty options tie separate rules together - the player cannot, for example, take full gear loss on de
+game-design.ai-teammates.wants-a-companion-in-a-solo-game | - | The game is played alone with no AI companion, and the reviewer asks for one - to help in fights or carry loot
+engineering.bugs.attacks-pass-through-walls | - | An attack - a melee swing, a shot - passes through a door or wall that should stop it. **Distinct from `game-d

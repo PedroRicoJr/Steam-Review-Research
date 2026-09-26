@@ -10251,3 +10251,13 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
   - `game-design.ui-ux.quests-point-with-clues-not-waypoints` (−): 213365111.
 - **Second sighting of round 491's `one-chance-to-recover-your-gear`:** 212777542 ("you can only loot ONE set of gear you lost") and 212788052 (a joke about dying before looting your last grave).
 - **A jab kept out:** 213369345 is a one-line jab at the studio's country; not repeated.
+
+## Notes - round 493 (Escape from Duckov batch 18)
+
+50 read (33 on 2025-12-23, 17 on 2025-12-31), 130 bullets, 0 excluded, 4 edited later. Running total 900 of 1,166 (6 excluded so far). 38 up / 12 down. Tree 1,569 -> 1,577. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 17:44 backstop firing (timer re-created as `29ffecaf`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.60, 23 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 6.9 bullets each and 54 words per bullet, 9% of bullets on an `.unknown`. 214029794, a curator's review with 127 helpful votes, carries 18 bullets; 214753829 carries 15.
+- **Eight modes built (Rule C):** `world-interaction.weather-and-time-change-the-run` (+), `session-flexibility.no-clock-forces-you-out` (+) and `engineering.bugs.attacks-pass-through-walls` (−) from 214029794; `pacing.asks-you-to-think` (+) and `punishment-model.healing-resets-every-fight` (−) from 214753829; `difficulty-tuning.the-settings-come-in-fixed-bundles` (−) from 214751423; `world-interaction.too-little-can-be-destroyed` (−) from 214762499; `ai-teammates.wants-a-companion-in-a-solo-game` (−) from 213988594. Five are twins or inverses of existing modes.
+- **The mod dispute, eight days on:** 5 of the 12 thumbs down are about the workshop dispute (214039158, 213992562, 213987337, 214771007, 214751423). New this week: 213992562 says the later clean-up was "rushed and blanket" and hurt innocent players and mod creators (`community.moderation.heavy-handed`), and 213988594 (thumbs up) defends the studio's motives while agreeing it hesitated. Five reviews in the batch sit on round 492's `went-easy-on-a-harmful-mod-author`. **Records the claims, not a verified incident.**
+- **Repeats of round 491-492 modes:** `one-chance-to-recover-your-gear` (214029794), `quests-ask-for-what-you-already-did` (214753829, a boss killed a third time).
+- **A crude jab kept out:** 214771007; recorded as a crude jab, not repeated.

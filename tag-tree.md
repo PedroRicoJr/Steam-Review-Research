@@ -9862,6 +9862,46 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 492, Escape from Duckov batch 17.** Built under Rule C. The moderation mode comes from a wave of thumbs-down reviews on 2025-12-15 about the SCAV workshop mod.
 
+## Modes added in Escape from Duckov batch 18 - round 493 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.weather-and-time-change-the-run` | **+** | Weather and the time of day change what the player meets - which enemies spawn, what loot drops, which secret areas open - so the same map plays differently. **Distinct from `.the-world-clock-runs-in-real-time`**, which is about the clock following the real one. Escape from Duckov 214029794. |
+| `.too-little-can-be-destroyed` | **−** | Only a few set pieces of the world can be broken - a handful of walls, one kind of cover - so explosives and heavy weapons change nothing else. **The negative twin of `.destruction-changes-play`.** Escape from Duckov 214762499. |
+
+### `game-design.session-flexibility`
+| Mode | | Definition |
+|---|---|---|
+| `.no-clock-forces-you-out` | **+** | A run has no timer, so the player stays as long as their own supplies last. **The positive twin of `.a-clock-decides-when-you-leave`.** Escape from Duckov 214029794. |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.asks-you-to-think` | **+** | The play rewards planning over reflex - loadout, ammo type, carrying capacity, what to grab and what to leave. **The positive twin of `.asks-for-no-thought`.** Escape from Duckov 214753829. |
+
+### `game-design.punishment-model`
+| Mode | | Definition |
+|---|---|---|
+| `.healing-resets-every-fight` | **−** | Healing is strong and plentiful enough that one fight has no effect on the next, so a run is either a sudden death or no danger at all. **The inverse complaint of `game-design.power-balance.health-does-not-come-back-between-fights`.** Escape from Duckov 214753829. |
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-settings-come-in-fixed-bundles` | **−** | The difficulty options tie separate rules together - the player cannot, for example, take full gear loss on death without also taking higher enemy damage - and the reviewer wants to set each one alone. **The negative twin of `.difficulty-can-be-tuned-in-detail`.** Escape from Duckov 214751423. |
+
+### `game-design.ai-teammates`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-a-companion-in-a-solo-game` | **−** | The game is played alone with no AI companion, and the reviewer asks for one - to help in fights or carry loot. Escape from Duckov 213988594. |
+
+### `engineering.bugs`
+| Mode | | Definition |
+|---|---|---|
+| `.attacks-pass-through-walls` | **−** | An attack - a melee swing, a shot - passes through a door or wall that should stop it. **Distinct from `game-design.enemy-design.always-knows-where-you-are`**, where the enemy finds the player; here the hit itself ignores the wall. Escape from Duckov 214029794. |
+
+🔑 **Round 493, Escape from Duckov batch 18.** Built under Rule C. Five of the eight are twins or inverses of existing modes.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
