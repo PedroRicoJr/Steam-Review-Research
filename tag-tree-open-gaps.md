@@ -10102,3 +10102,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **Controller support is the most repeated ask:** 3 bullets in this batch (207010413, 206999689, 207504044), 5 with batch 1's two, all on `controls.missing-expected-bindings`; two reviewers call the keyboard movement clunky (`movement.sluggish`).
 - **Multiplayer asked for again:** 206998441 (down; would flip the thumb if the game changed direction) and 206997959 (two-player co-op), on `modes.expected-mode-missing`.
 - **Four reviews in Chinese** under the English tag (207020387, 207013385, 207008485, 207503936), on `written-in-a-language-other-than-its-steam-tag`.
+
+## Notes - round 478 (Escape from Duckov batch 3)
+
+50 read (all 2025-10-24), 100 bullets, 0 excluded, 0 edited later. Running total 150 of 1,166. 46 up / 4 down. Tree 1,546 -> 1,549. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 02:45 backstop firing (timer re-created as `20db51f0`; the 02:07 and 02:37 firings did not happen - the session had restarted and taken the timer with it).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.00, 27 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 5.1 bullets each and 40 words per bullet, 17% of bullets on an `.unknown`. The words per bullet is pulled up by 207494154 (about 700 words, 10 bullets).
+- **Three modes built (Rule C):** `production.content-variety.quests-dictate-how-you-play` (−) and `.quests-send-you-back-and-forth` (−), both from 207494154 (down, 17 found it helpful: missions force a named weapon; routes are "like all the worst parts of traveling through an airport"); `game-design.difficulty-tuning.difficulty-can-be-tuned-in-detail` (+), from 207499795 and 207491959 (custom difficulty parameters). `findphrase` found no earlier sighting of any of the three.
+- **Multiplayer asked for in 8 bullets across 150 reviews** (4 in this batch), all on `modes.expected-mode-missing`.
+- **Zero Sievert is the other yardstick:** named twice in this batch and once in batch 2, beside Tarkov; 207494154 says it did all of this better (`beaten-by-a-competitor`).

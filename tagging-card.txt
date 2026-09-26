@@ -1544,3 +1544,6 @@ narrative.story.hard-to-follow | - | The reviewer says the story is hard to foll
 marketing.expectation-management.looks-like-a-joke-plays-like-a-real-game | + | The reviewer took the game for a parody or a meme from its look or premise, and says it turned out to be a ser
 game-design.progression.build-and-customisation.upgrades-do-not-show-on-the-gear | - | Mods and upgrades the player fits to a weapon do not change how it looks, so the build cannot be seen. **Disti
 game-design.readability.the-line-of-sight-system-hides-enemies | - | The game draws only what the player's character can see - fog of war, a vision cone - and the reviewer objects
+production.content-variety.quests-dictate-how-you-play | - | Quests require a named weapon, tool or method, so the player cannot finish them the way they prefer or experim
+production.content-variety.quests-send-you-back-and-forth | - | Quest chains make the player travel between the same places and characters over and over - many stops, endless
+game-design.difficulty-tuning.difficulty-can-be-tuned-in-detail | + | Beyond fixed levels, the game lets the player set individual difficulty parameters, and the reviewer praises t

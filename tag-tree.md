@@ -9703,6 +9703,22 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 477, Escape from Duckov batch 2.** Built on first sighting under Rule C.
 
 
+## Modes added in Escape from Duckov batch 3 - round 478 (Rule C)
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.quests-dictate-how-you-play` | **−** | Quests require a named weapon, tool or method, so the player cannot finish them the way they prefer or experiment. **Distinct from `.side-content-is-empty-errands`** (small jobs that pay little) and `.wants-more-than-shooting`. Escape from Duckov 207494154. |
+| `.quests-send-you-back-and-forth` | **−** | Quest chains make the player travel between the same places and characters over and over - many stops, endless backtracking - so the travel, not the danger, is the work. Escape from Duckov 207494154. |
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.difficulty-can-be-tuned-in-detail` | **+** | Beyond fixed levels, the game lets the player set individual difficulty parameters, and the reviewer praises that. **Distinct from `.well-graded`** (distinct fixed levels) and `.all-content-at-any-difficulty`. Escape from Duckov 207499795, 207491959. |
+
+🔑 **Round 478, Escape from Duckov batch 3.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
