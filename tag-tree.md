@@ -9769,6 +9769,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 483, Escape from Duckov batch 8.** Built on the second sighting's arrival under Rule C (the first had been parked on `.unknown`).
 
 
+## Modes added in Escape from Duckov batch 9 - round 484 (Rule C)
+
+### `game-design.readability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-line-of-sight-system-is-clever` | **+** | The game shows only what the player's character can see - a field of view, perception, no god's-eye view - and the reviewer praises it as cleverly designed. **The other side of `.the-line-of-sight-system-hides-enemies`** (round 477). Escape from Duckov 209041013. |
+
+🔑 **Round 484, Escape from Duckov batch 9.** Built on first sighting under Rule C, as the + twin of a − mode.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

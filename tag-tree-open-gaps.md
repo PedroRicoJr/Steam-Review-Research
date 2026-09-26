@@ -10157,3 +10157,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **One mode built (Rule C):** `community.user-created-content.mods-said-to-carry-malware` (−), 208557811 (down, in Chinese and English: claims the studio and publisher support mod authors injecting virus code). **Round 480 broke Rule C:** 208070385's warning that a mod could bring a virus was the first sighting and was parked on `user-created-content.unknown` instead of built; it is re-homed here now. The mode records the claim, not a verified incident.
 - **The most-helpful review so far:** 208537429 (778 found it helpful), a father who avoids extraction shooters because of try-hards in lobbies and wants short, offline, no-pressure sessions; on `no-pvp-is-a-feature`, `good-in-short-sittings`, `plays-offline`, `won-over-someone-who-avoids-the-genre`.
 - **Another jab kept out:** 208548882 ends with a jab at the rival studio's head; not repeated.
+
+## Notes - round 484 (Escape from Duckov batch 9)
+
+50 read (all 2025-11-12), 93 bullets, 0 excluded, 0 edited later. Running total 450 of 1,166. 46 up / 4 down. Tree 1,555 -> 1,556. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 08:44 backstop firing (timer re-created as `798938a6`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.86, 26 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 4.6 bullets each and 25 words per bullet, 24% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `game-design.readability.the-line-of-sight-system-is-clever` (+), 209041013 ("The FOV and perception mechanics are really cleverly designed (you don't have god view)"), the + twin of round 477's `.the-line-of-sight-system-hides-enemies`. The same system is praised by one reviewer and blamed by two.
+- **The key-card wall is the late-game complaint:** `the-thing-you-need-may-never-roll` now has 5 bullets across 4 reviews (by `grep`), 3 of them in this batch: 209037813 (down, in Chinese: 40 runs without the blue card), 209036644 (down: cannot find the items to progress), 209045392 (up: the last quarter suffers from key-card randomness). 209043623 (down) says the second half is too grindy and random for casual players.
+- **Difficulty shape:** 209022913 says at 80-100% regular enemies fall by the hundred while bosses stay very tough (`one-part-is-far-harder-than-the-rest`); 209064606 (down) says enemies are either trivial or suddenly lethal (`swings-wildly-within-a-run`).
