@@ -9678,6 +9678,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 🔑 **Round 472, Warframe batch 64.** Built on first sighting under Rule C.
 
 
+## Modes added in Escape from Duckov batch 1 - round 476 (Rule C)
+
+### `marketing.expectation-management`
+| Mode | | Definition |
+|---|---|---|
+| `.looks-like-a-joke-plays-like-a-real-game` | **+** | The reviewer took the game for a parody or a meme from its look or premise, and says it turned out to be a serious, well-made game. **Distinct from `.low-expectations-made-it-better`**, where the low bar came from a bad reputation, not from the game's own joke look. Escape from Duckov 207048445, 207035880, 207034837. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.upgrades-do-not-show-on-the-gear` | **−** | Mods and upgrades the player fits to a weapon do not change how it looks, so the build cannot be seen. **Distinct from `game-design.world-interaction.no-home-base-that-shows-your-progress`**, which is about the base. Escape from Duckov 207034827. |
+
+🔑 **Round 476, Escape from Duckov batch 1.** Built on first sighting under Rule C.
+
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

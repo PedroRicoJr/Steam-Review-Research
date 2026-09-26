@@ -1541,3 +1541,5 @@ community.developer-communication.the-developers-play-their-own-game | + | The r
 narrative.characters-writing.the-romance-is-a-welcome-addition | + | The reviewer likes that the game lets them date or court characters, and names it as a good addition. **The ot
 publishing.monetisation-practice.free-items-are-handed-out-often | + | The studio gives free items away on a regular basis - stream-watching rewards, holiday gifts in the shop, logi
 narrative.story.hard-to-follow | - | The reviewer says the story is hard to follow as the game tells it - what happened, and why - whether or not t
+marketing.expectation-management.looks-like-a-joke-plays-like-a-real-game | + | The reviewer took the game for a parody or a meme from its look or premise, and says it turned out to be a ser
+game-design.progression.build-and-customisation.upgrades-do-not-show-on-the-gear | - | Mods and upgrades the player fits to a weapon do not change how it looks, so the build cannot be seen. **Disti

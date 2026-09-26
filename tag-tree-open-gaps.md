@@ -10082,3 +10082,13 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **Pull:** planned 1,362 at +/-2.5%; **got 1,166**. The shortfall is the launch month: 294 of 490 wanted in 2025-10 (Steam's cursor stops advancing inside a date window); every other month got its quota. **Actual margin +/-2.83%**, computed with `pull_sample.true_moe` from the count actually pulled per month (Rule 12).
 - **GAMES-TODO:** row 8 of section 4.
 - **Next:** Escape from Duckov batch 1 (50 reviews).
+
+## Notes - round 476 (Escape from Duckov batch 1)
+
+50 read (all 2025-10-18, the third day after launch), 85 bullets, 0 excluded, 0 edited later. Running total 50 of 1,166. 50 up / 0 down. Tree 1,543 -> 1,545. Lost-review check: all 50 on the first dry run; `--gaps` none.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.70, 33 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 4.7 bullets each and 25 words per bullet, 31% of bullets on an `.unknown`.
+- **Two modes built (Rule C):** `marketing.expectation-management.looks-like-a-joke-plays-like-a-real-game` (+), three sightings in this batch alone (207048445 "I thought this is a parody game it can not be that good", 207035880 "Looks like a meme, plays like a dream", 207034837 "vary polished for a joke game"); `game-design.progression.build-and-customisation.upgrades-do-not-show-on-the-gear` (−), 207034827 (weapon mods, even a laser sight, do not show on the gun). `findphrase` found no earlier sighting of either.
+- **The game is single-player, and the first ask is co-op:** 207037180 (113 found it helpful) would buy friends copies if co-op were added; 207034192 asks for PvP. Both on `modes.expected-mode-missing`.
+- **An accessibility fix in three days:** 207043984 (227 found it helpful) asked for aim and shoot to be rebindable because of a disability, then edited to say the developers added it very fast; on `controls.cannot-rebind` and `patch-quality.fixes-come-within-hours`.
+- **Tarkov is the yardstick:** 8 bullets name Escape from Tarkov, as the thing this beats or the thing it is like.
