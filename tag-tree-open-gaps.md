@@ -10204,3 +10204,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **No new mode.**
 - **The one thumbs down:** 210176647, "Game crashes too much" - the first `stability.crashes-repeatedly` bullet in 650 reviews.
 - **Won over:** `won-over-someone-who-avoids-the-genre` reaches 12 (by `grep`). 210174370 is the fullest: thought it a meme, saw a YouTuber say non-fans should try it, and credits a world tuned so you rarely lose everything (`quick-recovery-keeps-flow`).
+
+## Notes - round 489 (Escape from Duckov batch 14)
+
+50 read (2025-11-24 to 2025-11-30), 91 bullets, 0 excluded, 0 edited later. Running total 700 of 1,166. 50 up / 0 down, as in batch 1. Tree unchanged at 1,557. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 13:44 backstop firing (timer re-created as `293f3750`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.82, 32 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 4.8 bullets each and 28 words per bullet, 29% of bullets on an `.unknown`.
+- **No new mode.** `enemy-design.the-enemies-fight-each-other` (212194036: factions attack each other, "more dynamic than some other presumably dynamic game worlds") and `marketing.discovery.launched-in-the-shadow-of-a-bigger-game` (212182143: launched just before ARC Raiders) both already existed.
+- **Extreme difficulty as the intended game:** 212185818 and 212194036 raised the difficulty so a death loses the gear, and write about it as the point; 212185818 takes a break after each death to avoid a spiral.
+- **A crude rant kept out:** 212185818 opens with an angry joke rant at the ducks; recorded as a rant, not repeated.
