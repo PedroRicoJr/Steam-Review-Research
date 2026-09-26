@@ -10166,3 +10166,13 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **One mode built (Rule C):** `game-design.readability.the-line-of-sight-system-is-clever` (+), 209041013 ("The FOV and perception mechanics are really cleverly designed (you don't have god view)"), the + twin of round 477's `.the-line-of-sight-system-hides-enemies`. The same system is praised by one reviewer and blamed by two.
 - **The key-card wall is the late-game complaint:** `the-thing-you-need-may-never-roll` now has 5 bullets across 4 reviews (by `grep`), 3 of them in this batch: 209037813 (down, in Chinese: 40 runs without the blue card), 209036644 (down: cannot find the items to progress), 209045392 (up: the last quarter suffers from key-card randomness). 209043623 (down) says the second half is too grindy and random for casual players.
 - **Difficulty shape:** 209022913 says at 80-100% regular enemies fall by the hundred while bosses stay very tough (`one-part-is-far-harder-than-the-rest`); 209064606 (down) says enemies are either trivial or suddenly lethal (`swings-wildly-within-a-run`).
+
+## Notes - round 485 (Escape from Duckov batch 10)
+
+50 read (2025-11-11 to 2025-11-18), 103 bullets, 0 excluded, 0 edited later. Running total 500 of 1,166. 49 up / 1 down. Tree unchanged at 1,556. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 09:44 backstop firing (timer re-created as `ea4e9a13`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.06, 30 of 50 reviews 15 words or fewer, 12 reviews over 60 words at 4.4 bullets each and 29 words per bullet, 23% of bullets on an `.unknown`.
+- **No new mode.**
+- **The end game is too easy for one, too hard for another:** 209006325 (196 hours) found the final bosses no challenge on extreme with a maxed duck (`the-final-fight-is-a-pushover`), while 208997374 (down, 60 hours) calls normal very difficult and the loss of items on a second death a loss of progression (`too-hard`, `harsh-restart`). 209001441 warns of a difficulty spike at the farm-town area.
+- **Gear check:** 209011472 says combat is an MMO-style gear check (`gear-decides-the-pve-fight`) and the enemy AI just charges head-on (`poor-ai-behaviour`).
+- **One review repeats a sales claim:** 208995166 says the game sold three million copies in two weeks with almost no marketing; recorded as the reviewer's claim, not checked.
