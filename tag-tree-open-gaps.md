@@ -10365,3 +10365,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Two modes built (Rule C):** `game-design.game-feel.combat.weak-spot-hits-do-not-count` (−), from 73166106 (point-blank headshots not counted as crits); `game-design.progression.build-and-customisation.items-barely-combine` (−), from 72752646 (the items picked up barely interact). `findphrase` found no earlier sighting of either.
 - **The one thumbs down:** 71746225 (8 helpful) calls it Serious Sam with small random levels, grindy, too random and short on weapon variety - the fullest early complaint so far, and it names the same fixed opening as batch 1.
 - **Early access that does not feel like it:** `does-not-feel-unfinished` 3 more times (72255977, 73169089, 73579802).
+
+## Notes - round 505 (Gunfire Reborn batch 4)
+
+50 read (2020-07-31 to 2020-08-31, early access), 92 bullets, 0 excluded, 4 edited later. Running total 200 of 1,884 (1 excluded so far). 48 up / 2 down. Tree 1,594 -> 1,595. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 05:44 backstop firing (timer re-created as `3a98b600`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.84, 28 of 50 reviews 15 words or fewer, 9 reviews over 60 words at 3.8 bullets each and 33 words per bullet, 27% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `game-design.modes.a-mode-is-locked-behind-a-level` (−), two sightings in this batch (75241277, 75238649: online co-op opens only at level 10); the sibling of `a-mode-is-locked-behind-gear`.
+- **The 2 thumbs down:** 73938081 (Korean: "fooled", with a swear) and 74801880 (nothing random, the same run every time, a last boss with too many stages, worth 5.99 at most).
+- **The fixed run, a fourth and fifth time:** 74365436 and 74801880 say the levels come in the same order every run (`randomness.not-random-enough`); with batches 1-3 that is now a steady early complaint. The opposite side is 73940957, who finds it *too* random and wants to choose a starting gun.
+- **A one-word jab kept out:** 74800205; recorded as a jab, not repeated.

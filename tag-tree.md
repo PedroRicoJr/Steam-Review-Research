@@ -10007,6 +10007,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 504, Gunfire Reborn batch 3.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 4 - round 505 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.a-mode-is-locked-behind-a-level` | **−** | A mode - often online co-op - opens only once the player reaches a set level, so a new player cannot join friends at once. **Distinct from `.a-mode-is-locked-behind-gear`**, where the key is equipment. Gunfire Reborn 75241277, 75238649 (co-op opens at level 10). |
+
+🔑 **Round 505, Gunfire Reborn batch 4.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
