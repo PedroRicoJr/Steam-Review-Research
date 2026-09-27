@@ -10394,3 +10394,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **A family player:** 79325545 is 53 and plays with their son (`it-is-how-i-play-with-my-family`), the first Gunfire Reborn review on that mode.
 - **Level-locked classes:** 79669859 calls the level lock on classes a bad decision (`the-classes-should-all-be-open-from-the-start`).
 - **DLC praise with no price named** went to `dlc-is-fair`, following 82 earlier bullets that did the same.
+
+## Notes - round 508 (Gunfire Reborn batch 7)
+
+50 read (2020-12-15 to 2021-02-14, nearly all early access), 90 bullets, 0 excluded, 4 edited later. Running total 350 of 1,884 (1 excluded so far). 50 up / 0 down. No new mode; tree stays at 1,597. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 07:44 backstop firing (timer re-created as `3e468e62`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 31 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 3.8 bullets each and 23 words per bullet, 22% of bullets on an `.unknown`.
+- **A mode nearly built twice:** 84248075 names difficulty spikes when several people play. I first built a new co-op mode for it, then found `co-op-design.the-scaling-outpaces-a-full-group` already says this, so the new mode was dropped before commit and the bullet went there.
+- **Weapon slots:** 83684864 says you can carry only 2 guns though there are 3 elements. Three earlier bullets that want more weapon slots sit on `build-and-customisation.shallow-options`, so this one followed them. With four sightings, a slot-count mode may be worth building in a later round.
+- **Solo split:** two reviews say solo is a slog or not much fun (`punishing-solo`: 84750086, 86170724), and two say it is fine alone (`works-solo`: 83686861, 84248042).
+- **Gifting again:** 86166175 gifted it to 4 friends and says stream viewers bought it (`i-bought-it-for-other-people`, `found-it-through-someone-playing-it`).
