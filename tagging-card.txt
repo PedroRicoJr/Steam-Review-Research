@@ -1603,3 +1603,5 @@ marketing.reputation.outdoes-big-budget-games | + | The reviewer sets the game a
 localization.translation-quality.the-odd-wording-is-charming | + | The translation is plainly off - strange item names, literal phrasing - and the reviewer enjoys it rather than
 game-design.game-feel.combat.melee-hits-do-not-land | - | Melee attacks miss or fail to register even when the player is right on the target, so close-range weapons fee
 game-design.role-design.everyone-can-play-the-same-character | + | Several players in one group may pick the same character, and the reviewer names that as a plus. **The answer 
+game-design.difficulty-tuning.easier-than-its-genre | ~ | The reviewer places the game at the easy end of its genre by naming the games it is easier than, and may or ma
+engineering.performance.the-menus-lag | - | Opening or moving through the game's menus stutters or hangs, and the reviewer names the menus rather than pla

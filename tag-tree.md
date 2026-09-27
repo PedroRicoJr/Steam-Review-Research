@@ -10086,6 +10086,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 515, Gunfire Reborn batch 14.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 15 - round 516 (Rule C)
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.easier-than-its-genre` | ~ | The reviewer places the game at the easy end of its genre by naming the games it is easier than, and may or may not mind. **Distinct from `.too-easy`**, which is a complaint about the game on its own terms. Gunfire Reborn 109210634 (easier than The Binding of Isaac and Risk of Rain 2, "this does not take away from the experience"); Remnant 2 162436751 (moved from `.unknown` in round 516). |
+
+### `engineering.performance`
+| Mode | | Definition |
+|---|---|---|
+| `.the-menus-lag` | **−** | Opening or moving through the game's menus stutters or hangs, and the reviewer names the menus rather than play. **Distinct from `game-design.ui-ux.menus-are-slow-web-pages`**, where the cause is web pages loaded into the game. Gunfire Reborn 106384844 (*"even opening the menu ends up lagging the game"*). |
+
+🔑 **Round 516, Gunfire Reborn batch 15.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

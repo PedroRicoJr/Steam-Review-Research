@@ -10475,3 +10475,17 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **No reconnect:** 104909957 says there is no way back in after a short disconnect (`cannot-rejoin-a-match`).
 - **Another AAA comparison:** 103278458 says it is worth more than most AAA titles - the fourth bullet on `outdoes-big-budget-games`, built in round 510.
 - **Scroll trade-offs again:** 104901075 names a scroll that doubles crit damage but halves body shots (`upgrades-come-with-a-cost`, the second after 88495098).
+
+## Notes - round 516 (Gunfire Reborn batch 15)
+
+50 read (2021-12-15 to 2022-01-31), 69 bullets on 49 reviews, 1 excluded (106383146, empty, written by hand first), 3 edited later. Running total 750 of 1,884 (2 excluded so far). 45 up / 5 down - the most down reviews in one Gunfire Reborn batch so far. Tree 1,605 -> 1,607. Lost-review check: all 49 on the first dry run; `--gaps` none. Done in the 15:44 backstop firing (timer re-created as `c1bfa527`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.38, 34 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 2.9 bullets each and 35 words per bullet, 23% of bullets on an `.unknown`.
+- **Two modes built (Rule C):** `difficulty-tuning.easier-than-its-genre` (~, 109210634 ranks it easier than The Binding of Isaac and Risk of Rain 2 and does not mind); `findphrase "easier than"` found Remnant 2 162436751 ("easier than the first game and most souls-likes") parked on `difficulty-tuning.unknown` - a missed build - and it was moved. `engineering.performance.the-menus-lag` (−, 106384844: "even opening the menu ends up lagging the game"); one earlier hit (a bullet that also names missing sound cues) stays where it is, since it is mostly about the cue.
+- **The five down reviews:**
+  - 106384844 (312 hours) praises the game but names menu lag and dying to one or two shots.
+  - 107011544 (161 hours) says Normal is a wall until dozens of hours of unlocks make it trivial, and the top difficulty's meta is a few tricks (`slow-start`, `progression-outgrows-the-challenge`, `only-a-few-builds-are-viable`).
+  - 107541301 (99 hours, edited 2026-05) says years of updates unbalanced builds and piled on content (`made-it-worse`, `only-a-few-builds-are-viable`).
+  - 108093455 (3 hours) dislikes restarting after death and was refused a refund.
+  - 108639400 (10 hours) says movement is slow and the upgrades are only stat bumps (`sluggish`, `items-barely-combine`).
+- **Meta-progression against the grain:** 107011544 is the sharpest version of the slow-start complaint (now 6 Gunfire Reborn bullets); 109210634 says the same system rewards every death. The split matters for Dominion's own unlock pace.
