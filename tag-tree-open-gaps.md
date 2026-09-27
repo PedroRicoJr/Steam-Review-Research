@@ -10530,3 +10530,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Rejoining after a drop is now a pattern:** 104909957, 117044378 and 121545850 all say a dropped player cannot get back into the run. For a listen-server game like Dominion this is the clearest network lesson in the game so far.
 - **Readability of damage:** 119334767 says it is hard to tell when you are hit and you die "randomly in 1 hit" (`threats-unclear`); 120237489 says the same about traps with no audio cue.
 - **Families:** 120237489 (brother) joins 79325545 and 92038827 on `it-is-how-i-play-with-my-family` (3 Gunfire Reborn reviews); 121545850 also plays with their wife, but its bullets are about the reconnect.
+
+## Notes - round 520 (Gunfire Reborn batch 19)
+
+50 read (2022-09-07 to 2022-11-15), 77 bullets, 0 excluded, 3 edited later. Running total 950 of 1,884 (2 excluded so far). 46 up / 4 down. Tree 1,610 -> 1,611. Lost-review check: the first dry run refused the batch because 123493863 ("fun") was left out; added. `--gaps` none. Done in the 19:44 backstop firing (timer re-created as `d6bcf8b6`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.54, 35 of 50 reviews 15 words or fewer, 2 reviews over 60 words at 6.0 bullets each and 15 words per bullet, 27% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `marketing.reputation.the-studio-treats-its-staff-badly` (−, 125516822, written in Chinese: a job application questionnaire at the studio demanded "absolute obedience to the boss"; the reviewer still calls the game good). `findphrase` on "employees", "work culture", "crunch" and "working conditions" found no earlier sighting of this kind.
+- **The four down reviews:** 122293203 (uninspired Borderlands roguelike, little content for the price), 122291900 (no multiplayer save - `saved-runs-cannot-go-online`), 122637571 (a friend does far more damage - `one-player-can-carry`), 123098372 (broken since the DLC).
+- **Second sighting of a new mode:** 124722691 says there are many guns but only 3 melee weapons (`one-playstyle-has-too-few-tools`, built in round 509 from 88026647).
+- **Families:** 123099839 (son), 124295046 (fiance, 200 hours to Reincarnation 8) and 125510360 (brother) bring `it-is-how-i-play-with-my-family` to 6 Gunfire Reborn reviews.

@@ -10127,6 +10127,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 519, Gunfire Reborn batch 18.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 19 - round 520 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-studio-treats-its-staff-badly` | **−** | The reviewer reports how the studio treats its own workers - hiring, hours, workplace culture - and holds it against the studio, whatever they think of the game. **Distinct from `.studio-politics-put-me-off`**, which is about public stances, and `production.launch-state.rushed-out-by-the-owner`. Gunfire Reborn 125516822 (a job application questionnaire that demanded "absolute obedience to the boss"). |
+
+🔑 **Round 520, Gunfire Reborn batch 19.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
