@@ -33,7 +33,7 @@ since" is Steam's own date, which for older or re-listed games is later than the
 
 | # | Game | appid | On Steam since | Reviews, all languages | Positive | English reviews | In the corpus | Note |
 |---|---|---|---|---|---|---|---|---|
-| A1 | Escape from Duckov | 3167020 | Oct 16, 2025 | 104,473 | 84% | 11,002 | no | PvE extraction survival. The closest match to Dominion on either list |
+| A1 | Escape from Duckov | 3167020 | Oct 16, 2025 | 104,473 | 84% | 11,002 | **Done** (1,166 read) | PvE extraction survival. The closest match to Dominion on either list |
 | A2 | Vampire Survivors | 1794680 | Oct 20, 2022 | 265,939 | 98% | 136,129 | no |  |
 | A3 | Hades | 1145360 | Sep 17, 2020 | 308,681 | 98% | 154,023 | no |  |
 | A4 | Deep Rock Galactic | 548430 | May 13, 2020 | 380,258 | 97% | 215,888 | **Done** (2,133 read) | no new pull |

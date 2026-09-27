@@ -10316,3 +10316,12 @@ No reviews read. Started at Rico's prompt at 01:35 UTC rather than waiting for t
 - **Group totals** from `summarise.py check`: 1,166 files, 2,230 tagged bullets, 486 on an `.unknown` (22%), 0 unfitted.
 - **The late game to the end:** 235273869 says it "starts getting grind heavy towards the latter half near the "Farm" region" and 235958017 (thumbs down) complains of fetch quests "about finding a cup or an apple or whatever useless junk that you sold an hour ago".
 - **Next unit:** the Duckov findings - `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md`, section 21 of `findings/cross-game.md`, and `GAMES-TODO.md` row 8 marked Done.
+
+## Notes - round 500 (Escape from Duckov findings)
+
+Wrote `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md` and section 21 of `findings/cross-game.md`; `GAMES-TODO.md` row 8 and `planning/action-roguelike-list.md` A1 marked Done. Every count on the pages is from `scripts/findings_tables.py` or a script run in this firing; every quote was checked against the raw review text. Tree unchanged at 1,592. Done in the 00:44 backstop firing (timer re-created as `3ca7a2a2`).
+
+- **Headline numbers:** 1,160 kept reviews, 90.9% up (Steam, all languages, 84%); 2,230 bullets; 40.4 complaints and 134.6 praise per 100 (praise to complaint 3.3 : 1, between Risk of Rain 2 and Warframe on the section-20 count).
+- **Cross-game finds:** `no-pvp-is-a-feature` 4.4 per 100 (no other game reaches 1); ARC Raiders' `expected-mode-missing` is 55, 42 of them asking for PvE, while Duckov's 39 mostly ask for co-op; `the-thing-you-need-may-never-roll` 2.0 per 100 and `beats-its-rivals` 6.1 per 100 are the highest in the corpus.
+- **Corrected before commit:** the English page first said the loop had put Duckov third; `GAMES-TODO.md` records it as A1, picked as the closest match to Dominion, and the page now says that. The launch-share line first said "two thirds"; 8,113 of 11,004 is nearly three quarters.
+- **Next unit:** the next game from `planning/`, closest to Dominion first - the pick and why go in that round's note, then a `GAMES-TODO.md` row, measure, dry-run and pull.

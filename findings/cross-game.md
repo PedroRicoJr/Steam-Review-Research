@@ -1296,3 +1296,64 @@ time.**
 - **The non-English audience.** About 381,000 reviews, none pulled.
 
 ⚠️ **The corpus is now 24 games and 20,679 English summaries (21,441 in all languages).**
+
+## 21. ⭐ What the fifteenth large game adds - Escape from Duckov, added 2026-09-27
+
+**The first single-player PvE extraction game in the corpus.** 1,166 of 11,004 English reviews, a 10.6%
+sample at ±2.83%, across 12 months (2025-10 to 2026-09); 90.9% up; 2,230 bullets, 1.92 per review; 289
+distinct tags, **51 used by no other game; 49 modes built in the Escape from Duckov blocks (rounds
+476-499)**. Full read in `escape-from-duckov-english.md`, ranked lists in `escape-from-duckov.md`.
+
+**On the same count as section 20** (`scripts/findings_tables.py`, every bullet whose mode is + or −,
+`review.*` included):
+
+| | Deep Rock Galactic | Risk of Rain 2 | **Escape from Duckov** | Warframe | Helldivers 2 | ARC Raiders |
+|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 95.6% | **90.9%** | 89.9% | 83.3% | 79.7% |
+| Bullets per review | 2.12 | 1.43 | **1.92** | 2.01 | 1.79 | 1.56 |
+| Praise per 100 | 175.9 | 104.9 | **134.6** | 127.3 | 108.0 | 86.8 |
+| Complaint per 100 | 23.7 | 18.0 | **40.4** | 50.9 | 55.5 | 56.7 |
+| Praise to complaint | 7.4 : 1 | 5.8 : 1 | **3.3 : 1** | 2.5 : 1 | 1.95 : 1 | 1.53 : 1 |
+
+### 🔑 The finding: the extraction genre's two halves ask for each other
+
+**ARC Raiders (PvPvE) and Escape from Duckov (PvE alone) are the two extraction games read so far, and
+each one's top missing-mode request is the other's format.** In ARC Raiders, `expected-mode-missing` is
+55 bullets (3.7 per 100) and **42 of the 55 ask for PvE**. In Escape from Duckov it is 39 (3.4 per
+100) and most ask for **co-op** - more players, but on the same side. `no-pvp-is-a-feature` is **51 in
+Escape from Duckov (4.4 per 100) and 0 in ARC Raiders**; the next game on it is Terminull Brigade at
+0.8. **No other game reaches 1 per 100 on it**, and `won-over-someone-who-avoids-the-genre` (16, 1.4 per 100) is second
+only to Remnant II (1.5).
+
+### Chance at the end
+
+`the-thing-you-need-may-never-roll` is **2.0 per 100 here, the highest in the corpus** (Remnant II 1.7,
+Warframe 1.2, Risk of Rain 2 0.3). In a single-player game nobody can trade the part to you, and the
+reviews say so: the end game rests on drops, and that is where the late-game grind complaints (14,
+a game-only mode) sit.
+
+### A comparison game that wins the comparison
+
+`beats-its-rivals` is **6.1 per 100, the highest in the corpus** (The Anacrusis 5.6, Warframe 2.1), and
+135 of 1,160 reviews name Tarkov - 6 of them thumbs down. `looks-like-a-joke-plays-like-a-real-game`
+(39) is a game-only mode: a comic look that sets expectations low and then clears them.
+
+### Three things this game says about samples and the tree
+
+1. **An outside event can move the thumb more than the game does.** 96.7% up in 2025-11, 74.4% in
+   2025-12: a workshop mod dispute (claims about hidden code, and the studio's soft handling of its
+   author) brought 13 of December's 34 thumbs down. **The monthly thumb needs the round notes beside
+   it**; a dip is not a verdict on the game until the bullets say so.
+2. **The Tarkov yardstick is a tree problem, not only a finding.** 69 bullets sit on
+   `explained-by-naming-other-games`, which records the comparison without a verdict; `beats-its-rivals` (71) holds the verdict.
+3. **A 10.6% sample over one year built 49 modes in 24 batches** - about 2 per batch, near Warframe's
+   2.4 - and three Rule C slips were caught on the way (a specific complaint first parked on a general
+   tag); round 487 records the lesson.
+
+### What this game does NOT settle
+
+- **Co-op.** The game has none except by mods; the request is recorded, the experience is not.
+- **The mod dispute's facts.** Every line here is a claim from a review.
+- **The non-English audience.** About 93,000 reviews, much of it Chinese; none pulled.
+
+⚠️ **The corpus is now 25 games and 21,845 English summaries (22,607 in all languages).**
