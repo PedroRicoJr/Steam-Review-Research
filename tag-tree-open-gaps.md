@@ -10446,10 +10446,10 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 
 ## Notes - round 513 (Gunfire Reborn batch 12)
 
-50 read (2021-10-07 to 2021-11-15, nearly all early access, just before 1.0 on 2021-11-17), 77 bullets, 0 excluded, 6 edited later. Running total 600 of 1,884 (1 excluded so far). 50 up / 0 down. No new mode; tree stays at 1,603. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 12:44 backstop firing (timer re-created as `fb736fa2`).
+50 read (2021-10-07 to 2021-11-15, nearly all early access, the last weeks before the 1.0 release in 2021-11), 77 bullets, 0 excluded, 6 edited later. Running total 600 of 1,884 (1 excluded so far). 50 up / 0 down. No new mode; tree stays at 1,603. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 12:44 backstop firing (timer re-created as `fb736fa2`).
 
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.54, 35 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 3.6 bullets each and 30 words per bullet, 34% of bullets on an `.unknown` - the highest share so far for this game, driven by one-word and joke reviews ("yes", "good game").
 - **Dead teammates left behind:** 101944742 says a friend who dies in co-op is left out of the run unless a rare peddler appears to revive them, and wants mod support to fix it (`a-dead-player-spectates-until-the-next-checkpoint`, `no-mod-support`).
 - **One-shot on higher settings:** 102346536 (101 hours) says higher difficulties one-shot you by surprise, naming suicide bombers round corners (`one-hit-kills`), and that bad drop streaks frustrate (`the-thing-you-need-may-never-roll`).
-- **Slow start, twice more:** 102360499 (the guns need unlocking to get up to snuff) and 102328126 (the death counter wore them down until the upgrade) join 88026647 and 93824334 on `unlock-pace.slow-start`.
+- **Slow start, twice more:** 102360499 (the guns need unlocking to get up to snuff) and 102328126 (the death counter wore them down until the upgrade) join 88026647, 93824334 and 99416504 on `unlock-pace.slow-start`.
 - **Just-right difficulty:** 101991303 ("not too tryhard, not too casual") went to `well-graded`, following four earlier bullets worded the same way.
