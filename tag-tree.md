@@ -10100,6 +10100,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 516, Gunfire Reborn batch 15.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 16 - round 517 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-choose-the-starting-weapon` | **−** | Each run hands the player its opening weapon, and the reviewer wants to pick it - often as a reward for having unlocked most of the game. **Distinct from `game-design.randomness.luck-decides-the-outcome`**, where the complaint is that a bad deal ruins the run, not that there is no choice. Gunfire Reborn 112251994. |
+
+🔑 **Round 517, Gunfire Reborn batch 16.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

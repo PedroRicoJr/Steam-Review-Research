@@ -10489,3 +10489,18 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
   - 108093455 (3 hours) dislikes restarting after death and was refused a refund.
   - 108639400 (10 hours) says movement is slow and the upgrades are only stat bumps (`sluggish`, `items-barely-combine`).
 - **Meta-progression against the grain:** 107011544 is the sharpest version of the slow-start complaint (now 6 Gunfire Reborn bullets); 109210634 says the same system rewards every death. The split matters for Dominion's own unlock pace.
+
+## Notes - round 517 (Gunfire Reborn batch 16)
+
+50 read (2022-01-31 to 2022-04-15), 89 bullets, 0 excluded, 6 edited later. Running total 800 of 1,884 (2 excluded so far). 45 up / 5 down - level with batch 15. Tree 1,607 -> 1,608. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 16:44 backstop firing (timer re-created as `1bf2a6f5`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.78, 29 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 3.6 bullets each and 39 words per bullet, 19% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `build-and-customisation.cannot-choose-the-starting-weapon` (−, 112251994 wants to pick the starting weapon after maxing most characters). `findphrase` found one near sighting ("two bad starting guns mean restarting") on `randomness.luck-decides-the-outcome`; it stays, because it is about the bad deal, not about wanting a choice.
+- **The five down reviews:**
+  - 112254264 (4 hours): no easy respec, a slow grind, better to get carried (`choices-cannot-be-undone`, `grindy`, `needs-carrying`).
+  - 112243534 (81 hours): the save reset at level 164 and a support request went unanswered (`progress-not-saved`, `support-request-went-unanswered`).
+  - 113919987 (128 hours): no new characters, levels or bosses in 7-8 months, set against Vampire Survivors' weekly updates (`update-cadence.too-slow`, `beaten-by-a-competitor`, `not-open-about-its-plans`).
+  - 113918507 (0 hours): a one-line jab that the game suits the least skilled players (`too-easy`).
+  - 113106971: no words (`review.negative.unknown`).
+- **Saves lost twice:** 112243534 lost 81 hours with no reply; 112674596 lost 47 hours and support "kind of recovered it for me quite swiftly" (`lost-progress-can-be-recovered`).
+- **One dominant pick:** 112251994 (116 hours, level 170, all solo) says the bunny with the auto-aim beam gun is so strong they play nothing else (`one-option-dominates`).
