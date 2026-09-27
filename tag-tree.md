@@ -9993,6 +9993,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 497, Escape from Duckov batch 22.** Built under Rule C; two are positive twins of existing modes.
 
+## Modes added in Gunfire Reborn batch 3 - round 504 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.weak-spot-hits-do-not-count` | **−** | A shot the player lands on an enemy's head or weak spot does not count as a critical hit - the weak-spot box is smaller or placed differently from what is drawn. **Distinct from `.shots-go-where-they-want`**, where spread moves the shot; here it lands and is not credited. Gunfire Reborn 73166106. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.items-barely-combine` | **−** | The items and upgrades picked up in a run do little to each other, and the reviewer wants combinations that produce something bigger. **Distinct from `.shallow-options`**, where each option on its own changes little. Gunfire Reborn 72752646. |
+
+🔑 **Round 504, Gunfire Reborn batch 3.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

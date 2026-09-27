@@ -1590,3 +1590,5 @@ production.craftsmanship.impressive-for-a-small-team | + | The reviewer is struc
 narrative.story.the-ending-lands | + | The story's close is satisfying - it gives the journey a conclusion, sometimes an emotional one. **The positiv
 game-design.world-interaction.the-base-building-is-a-pleasure | + | The player's base grows under their hands - furniture, stations, rooms - and watching it change from a hole to
 art.fidelity.no-choice-of-anti-aliasing | - | The game relies on one smoothing method (usually TAA) and offers no alternative, and the reviewer would trade 
+game-design.game-feel.combat.weak-spot-hits-do-not-count | - | A shot the player lands on an enemy's head or weak spot does not count as a critical hit - the weak-spot box i
+game-design.progression.build-and-customisation.items-barely-combine | - | The items and upgrades picked up in a run do little to each other, and the reviewer wants combinations that pr

@@ -10356,3 +10356,12 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **The one thumbs down:** 71765987 cannot pass the first boss and finds only normal mode (`one-part-is-far-harder-than-the-rest`, `no-difficulty-settings`); it will change when the game leaves early access. 70843810 (up) says the same thing about difficulty as praise.
 - **Translation:** 70843810 and 71188287 say the English is poor enough to hide what items do (`translation-quality.reads-badly`); batch 1's 70463748 called it sufficient.
 - **Run-to-run progression, both sides:** praised as never losing all your power (71194875, 71750669); 71196910 says unspent currency is lost at the end of a run (`progress-does-not-carry-over`) and the permanent tree turns grindy.
+
+## Notes - round 504 (Gunfire Reborn batch 3)
+
+50 read (2020-06-30 to 2020-07-31, early access), 94 bullets on 49 reviews, **1 excluded** (72251953 empty; written by hand first), 11 edited later. Running total 150 of 1,884 (1 excluded so far). 48 up / 1 down. Tree 1,592 -> 1,594. Lost-review check: all 50 accounted for; `--gaps` none. Done in the 04:44 backstop firing (timer re-created as `8e12759e`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.88, 27 of 50 reviews 15 words or fewer, 9 reviews over 60 words at 4.3 bullets each and 33 words per bullet, 21% of bullets on an `.unknown`.
+- **Two modes built (Rule C):** `game-design.game-feel.combat.weak-spot-hits-do-not-count` (−), from 73166106 (point-blank headshots not counted as crits); `game-design.progression.build-and-customisation.items-barely-combine` (−), from 72752646 (the items picked up barely interact). `findphrase` found no earlier sighting of either.
+- **The one thumbs down:** 71746225 (8 helpful) calls it Serious Sam with small random levels, grindy, too random and short on weapon variety - the fullest early complaint so far, and it names the same fixed opening as batch 1.
+- **Early access that does not feel like it:** `does-not-feel-unfinished` 3 more times (72255977, 73169089, 73579802).
