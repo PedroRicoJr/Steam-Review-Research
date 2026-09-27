@@ -10016,6 +10016,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 505, Gunfire Reborn batch 4.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 5 - round 506 (Rule C)
+
+### `art.effects-and-gore`
+| Mode | | Definition |
+|---|---|---|
+| `.the-ragdolls-are-funny` | **+** | The way defeated enemies fall and fly is named as a source of laughs. **Distinct from `.impacts-look-powerful`**, where the effect sells force; here it sells comedy. Earlier ragdoll mentions in the corpus were complaints (`art.animation.stiff-or-clunky`, `impacts-look-weak`). Gunfire Reborn 75619452. |
+
+🔑 **Round 506, Gunfire Reborn batch 5.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

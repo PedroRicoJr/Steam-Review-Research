@@ -10375,3 +10375,12 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **The 2 thumbs down:** 73938081 (Korean: "fooled", with a swear) and 74801880 (nothing random, the same run every time, a last boss with too many stages, worth 5.99 at most).
 - **The fixed run, a fourth and fifth time:** 74365436 and 74801880 say the levels come in the same order every run (`randomness.not-random-enough`); with batches 1-3 that is now a steady early complaint. The opposite side is 73940957, who finds it *too* random and wants to choose a starting gun.
 - **A one-word jab kept out:** 74800205; recorded as a jab, not repeated.
+
+## Notes - round 506 (Gunfire Reborn batch 5)
+
+50 read (2020-09-07 to 2020-11-07, early access), 80 bullets, 0 excluded, 8 edited later. Running total 250 of 1,884 (1 excluded so far). 48 up / 2 down (76036561 "NOIDONTTHINKSO", 78910689 with no reason given). Tree 1,595 -> 1,596. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 06:44 backstop firing (timer re-created as `cd878e3d`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.60, 32 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 6.0 bullets each and 52 words per bullet, 28% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `art.effects-and-gore.the-ragdolls-are-funny` (+), from 75619452; `findphrase "ragdoll"` found only complaints before it.
+- **Leftover currency lost at the end of a run, a second time:** 76825541 (a curator's review, 55 helpful) says spare soul essence is lost when a run ends, like 71196910 in batch 2 (`progress-does-not-carry-over`); the same review praises the slow climb to "an unstoppable force" (`satisfying-progression`).
+- **A jab kept out:** 75620945 opens with a jab at China; not repeated.

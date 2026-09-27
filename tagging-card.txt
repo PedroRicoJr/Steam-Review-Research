@@ -1593,3 +1593,4 @@ art.fidelity.no-choice-of-anti-aliasing | - | The game relies on one smoothing m
 game-design.game-feel.combat.weak-spot-hits-do-not-count | - | A shot the player lands on an enemy's head or weak spot does not count as a critical hit - the weak-spot box i
 game-design.progression.build-and-customisation.items-barely-combine | - | The items and upgrades picked up in a run do little to each other, and the reviewer wants combinations that pr
 game-design.modes.a-mode-is-locked-behind-a-level | - | A mode - often online co-op - opens only once the player reaches a set level, so a new player cannot join frie
+art.effects-and-gore.the-ragdolls-are-funny | + | The way defeated enemies fall and fly is named as a source of laughs. **Distinct from `.impacts-look-powerful`
