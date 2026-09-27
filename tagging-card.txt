@@ -1594,3 +1594,4 @@ game-design.game-feel.combat.weak-spot-hits-do-not-count | - | A shot the player
 game-design.progression.build-and-customisation.items-barely-combine | - | The items and upgrades picked up in a run do little to each other, and the reviewer wants combinations that pr
 game-design.modes.a-mode-is-locked-behind-a-level | - | A mode - often online co-op - opens only once the player reaches a set level, so a new player cannot join frie
 art.effects-and-gore.the-ragdolls-are-funny | + | The way defeated enemies fall and fly is named as a source of laughs. **Distinct from `.impacts-look-powerful`
+game-design.enemy-design.the-final-boss-breaks-the-pattern | ~ | The last boss plays by different rules from every boss before it - stages, tasks to make it open to damage - o

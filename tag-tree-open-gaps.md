@@ -10384,3 +10384,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **One mode built (Rule C):** `art.effects-and-gore.the-ragdolls-are-funny` (+), from 75619452; `findphrase "ragdoll"` found only complaints before it.
 - **Leftover currency lost at the end of a run, a second time:** 76825541 (a curator's review, 55 helpful) says spare soul essence is lost when a run ends, like 71196910 in batch 2 (`progress-does-not-carry-over`); the same review praises the slow climb to "an unstoppable force" (`satisfying-progression`).
 - **A jab kept out:** 75620945 opens with a jab at China; not repeated.
+
+## Notes - round 507 (Gunfire Reborn batch 6)
+
+50 read (2020-11-07 to 2020-12-07, early access), 99 bullets, 0 excluded, 10 edited later. Running total 300 of 1,884 (1 excluded so far). 50 up / 0 down. Tree 1,596 -> 1,597. Lost-review check: all 50 on the first dry run; `--gaps` none. Done after Rico's "keep going" (timer `01a06e04`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.98, 26 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.2 bullets each and 30 words per bullet, 14% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `game-design.enemy-design.the-final-boss-breaks-the-pattern` (~), from 81292737 (the last boss has stages and tasks where the others were straight fights - "fairly strange ... but definitely a good challenge"). `findphrase "final boss"` found one earlier sighting, Redfall 137847458 ("the final boss, unlike the previous bosses, isn't a boss fight"), filed on `bosses-are-a-chore`, which is about length. It was moved to the new mode, and the mode is ~ so it holds both the liked and the disliked break.
+- **A family player:** 79325545 is 53 and plays with their son (`it-is-how-i-play-with-my-family`), the first Gunfire Reborn review on that mode.
+- **Level-locked classes:** 79669859 calls the level lock on classes a bad decision (`the-classes-should-all-be-open-from-the-start`).
+- **DLC praise with no price named** went to `dlc-is-fair`, following 82 earlier bullets that did the same.

@@ -10025,6 +10025,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 506, Gunfire Reborn batch 5.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 6 - round 507 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-final-boss-breaks-the-pattern` | ~ | The last boss plays by different rules from every boss before it - stages, tasks to make it open to damage - or no real fight at all - where the earlier ones were straight fights, and the reviewer names the break as odd, whether the fight still works for them (Gunfire Reborn 81292737: *"fairly strange ... but definitely a good challenge"*) or not (Redfall 137847458: *"unlike the previous bosses, isn't a boss fight"*, moved here from `.bosses-are-a-chore` in round 507). **Distinct from `.bosses-hide-behind-invulnerable-phases`**, which names the stages as what makes bosses dull, and `.bosses-are-a-chore`, which is length. |
+
+🔑 **Round 507, Gunfire Reborn batch 6.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
