@@ -10346,3 +10346,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **The 3 thumbs down:** 69691390 (39 helpful: cannot be played offline though the store says single-player - `requires-internet` and `claim-was-untrue`), 70860116 (rubber-banding online), 70858963 (skill points too slow, a first boss too hard without a full team, the same opening stages every run).
 - **Compared on arrival:** 9 bullets name other games - Borderlands and Risk of Rain most, then Enter the Gungeon, Hades, Dead Cells, Slay the Spire.
 - **The run's opening, already:** 70463102 and 70858963 both say every run starts with the same three stages in the same order (`the-early-stages-of-every-run-are-dull`); 70463792 says the first boss is always the same.
+
+## Notes - round 503 (Gunfire Reborn batch 2)
+
+50 read (2020-06-15 to 2020-06-30, early access), 104 bullets, 0 excluded, 6 edited later. Running total 100 of 1,884. 49 up / 1 down. Tree unchanged at 1,592. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 03:44 backstop firing (timer re-created as `4a65066e`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.08, 22 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.7 bullets each and 45 words per bullet, 15% of bullets on an `.unknown`.
+- **No new mode.** The early-access points fit the `production.early-access` modes (`good-value-while-unfinished`, `does-not-feel-unfinished`).
+- **The one thumbs down:** 71765987 cannot pass the first boss and finds only normal mode (`one-part-is-far-harder-than-the-rest`, `no-difficulty-settings`); it will change when the game leaves early access. 70843810 (up) says the same thing about difficulty as praise.
+- **Translation:** 70843810 and 71188287 say the English is poor enough to hide what items do (`translation-quality.reads-badly`); batch 1's 70463748 called it sufficient.
+- **Run-to-run progression, both sides:** praised as never losing all your power (71194875, 71750669); 71196910 says unspent currency is lost at the end of a run (`progress-does-not-carry-over`) and the permanent tree turns grindy.
