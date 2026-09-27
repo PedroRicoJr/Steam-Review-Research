@@ -66,6 +66,7 @@ GAMES = {
     "darktide":              (1361210, 2022, 11),  # FPS co-op horde, Mostly Positive
     # --- Rico, 2026-09-24/25: the action-roguelike list, closest to Dominion first ---
     "escape-from-duckov":    (3167020, 2025, 10),  # PvE extraction survival, released 2025-10-16
+    "gunfire-reborn":        (1217060, 2020, 5),   # co-op roguelite shooter, Early Access from 2020-05, released 2021-11
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 

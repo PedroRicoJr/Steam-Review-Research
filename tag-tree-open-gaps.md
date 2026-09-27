@@ -10325,3 +10325,14 @@ Wrote `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md`
 - **Cross-game finds:** `no-pvp-is-a-feature` 4.4 per 100 (no other game reaches 1); ARC Raiders' `expected-mode-missing` is 55, 42 of them asking for PvE, while Duckov's 39 mostly ask for co-op; `the-thing-you-need-may-never-roll` 2.0 per 100 and `beats-its-rivals` 6.1 per 100 are the highest in the corpus.
 - **Corrected before commit:** the English page first said the loop had put Duckov third; `GAMES-TODO.md` records it as A1, picked as the closest match to Dominion, and the page now says that. The launch-share line first said "two thirds"; 8,113 of 11,004 is nearly three quarters.
 - **Next unit:** the next game from `planning/`, closest to Dominion first - the pick and why go in that round's note, then a `GAMES-TODO.md` row, measure, dry-run and pull.
+
+## Notes - round 501 (Gunfire Reborn: pick, row, grid, pull)
+
+No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957b`).
+
+- **Why this game:** the active loop's file says the next game after Duckov comes from `planning/`, closest to Dominion first. Dominion is a third-person, four-player co-op, sci-fi PvE extraction and arena shooter built on runs. **Gunfire Reborn (A18)** matches more of that than any other row not yet read: a PvE shooter, co-op for 1-4, built on runs, and a success (93% positive, 103,739 reviews). It is first-person and not sci-fi. **Runners-up:** EARTH DEFENSE FORCE 5 (C17 - third-person, sci-fi, four-player co-op, but missions rather than runs), ELDEN RING NIGHTREIGN (B2 - third-person co-op runs, but melee and fantasy), The First Descendant (C28 - third-person sci-fi co-op, but a free-to-play live service like Warframe), Roboquest (A15 - a co-op roguelite shooter for two).
+- **Grid:** `build_grid.py --only gunfire-reborn --languages english` (slug added to `GAMES`, first month 2020-05, the first Early Access month): **43,869 English reviews across 77 months**; the biggest months are 2021-11 (4,274, the 1.0 release) and 2020-06 (3,446). Steam's own English count on the day: 43,868.
+- **Pull:** planned 1,894 at +/-2.5%; **got 1,884** (2020-05 returned 10 of 20; every other month its quota). **Actual margin +/-2.51%**, from the count actually pulled per month (Rule 12). All 1,884 review ids are distinct.
+- **GAMES-TODO:** row 9 of section 4; `planning/action-roguelike-list.md` A18 marked WIP.
+- **Parked for Rico:** rows 6 and 7 of section 4 (OUTRIDERS, Darktide) are still queued; the loop followed its own file. Added to `OPEN-WITH-RICO.md` with the default taken.
+- **Next:** Gunfire Reborn batch 1 (50 reviews).

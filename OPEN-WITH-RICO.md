@@ -12,6 +12,10 @@ remove it when Rico rules.
 - Whether "it is free" should be split off `publishing.price.fair`.
 - Remnant II's uncommitted stats files against Risk of Rain 2's committed ones.
 - The "first game had X" tally.
+- **Rows 6 and 7 of `GAMES-TODO.md` section 4 (OUTRIDERS, Darktide) are still queued.** The active loop's
+  file says the next game after Duckov comes from `planning/`, closest to Dominion first, so round 501
+  took Gunfire Reborn (A18) as row 9. Default taken: keep following the loop file; rows 6 and 7 wait.
+  Rico's word would reorder them.
 - 21 backlog rows that need a new subject (`skip: needs a new subject` in `tag-tree-backlog.tsv`).
 - **The loop runs hourly, not every 5 minutes.** Rico set the pace to 10 minutes on 2026-09-25 (it
   was 20), then halved it to 5 after the batch-size test. The timer lives inside the session, and the cloud session goes idle and restarts after each

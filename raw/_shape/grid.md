@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-09-26 01:36:55 UTC. Rebuild with `python build_grid.py`.
+Built 2026-09-27 01:45:50 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -28,6 +28,7 @@ Built 2026-09-26 01:36:55 UTC. Rebuild with `python build_grid.py`.
 | `drg-rogue-core/english` | 5 | 7,990 | 2026-05 (5,993) |
 | `escape-from-duckov/english` | 12 | 11,004 | 2025-10 (4,060) |
 | `full-metal-schoolgirl/english` | 11 | 116 | 2025-10 (46) |
+| `gunfire-reborn/english` | 77 | 43,869 | 2021-11 (4,274) |
 | `helldivers-2/brazilian` | 31 | 12,677 | 2024-05 (2,369) |
 | `helldivers-2/english` | 31 | 819,840 | 2024-05 (309,103) |
 | `helldivers-2/latam` | 31 | 7,950 | 2024-05 (2,204) |
