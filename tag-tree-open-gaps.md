@@ -10515,3 +10515,18 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **The other two down reviews:** 115118643 (buggy, repetitive, only worth it on sale) and 117044378 (a crash in multiplayer gives 60 seconds to rejoin, then the run is lost - `a-disconnect-loses-the-run`, a listen-server point for Dominion).
 - **Balance named:** 116632438 says the mortar is broken and the bird useless (`something-needs-a-nerf`, `role-underpowered` - now 3 Gunfire Reborn reviews on weak characters).
 - **Co-op scaling praised:** 116288163 and 117420896 say difficulty scales well with 2-4 players (`scales-to-the-number-of-players`), against 84248075's spikes with a full group in round 508.
+
+## Notes - round 519 (Gunfire Reborn batch 18)
+
+50 read (2022-06-30 to 2022-09-07), 94 bullets, 0 excluded, 6 edited later. Running total 900 of 1,884 (2 excluded so far). 46 up / 4 down. Tree 1,609 -> 1,610. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 18:45 backstop firing (timer re-created as `520b5b5e`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.88, 27 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 5.6 bullets each and 46 words per bullet, 24% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `audio.mixing.one-fight-is-far-louder-than-the-rest` (−, 120237489: the Abyssal Serpent fight is "100x louder ... Every. Single. Time."). `findphrase "louder in"` found no earlier sighting.
+- **The four down reviews:**
+  - 120237489 (148 hours, through Reincarnation 8 with their brother) - 11 bullets: luck over skill, the roguelite grind, damage sponges, no audio cues for traps, the loud boss fight, bad rolls forcing one player to carry the other, the alternative bosses; it would have been a neutral.
+  - 121545850 (30 hours, with their wife): no reconnect after a crash two hours into a run, and years later DLC ships while reconnecting still does not (`cannot-rejoin-a-match`, `working-on-the-wrong-thing-first`).
+  - 121111497: same start and zones with only different paths (`the-randomisation-is-only-surface`).
+  - 121130049: two words, "mobile game" (`review.negative.unknown`).
+- **Rejoining after a drop is now a pattern:** 104909957, 117044378 and 121545850 all say a dropped player cannot get back into the run. For a listen-server game like Dominion this is the clearest network lesson in the game so far.
+- **Readability of damage:** 119334767 says it is hard to tell when you are hit and you die "randomly in 1 hit" (`threats-unclear`); 120237489 says the same about traps with no audio cue.
+- **Families:** 120237489 (brother) joins 79325545 and 92038827 on `it-is-how-i-play-with-my-family` (3 Gunfire Reborn reviews); 121545850 also plays with their wife, but its bullets are about the reconnect.

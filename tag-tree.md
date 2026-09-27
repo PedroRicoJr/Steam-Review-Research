@@ -10118,6 +10118,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 518, Gunfire Reborn batch 17.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 18 - round 519 (Rule C)
+
+### `audio.mixing`
+| Mode | | Definition |
+|---|---|---|
+| `.one-fight-is-far-louder-than-the-rest` | **−** | The sound and music jump far above the rest of the game in one named fight or place, every time. **Distinct from `.the-opening-is-far-louder-than-the-game`**, which is the intro or first screen, and `.drowns-out-what-matters`, which is a mix that hides cues throughout. Gunfire Reborn 120237489 (*"WHY is all the sound and music 100x louder in the Abyssal Serpent fight? Every. Single. Time."*). |
+
+🔑 **Round 519, Gunfire Reborn batch 18.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

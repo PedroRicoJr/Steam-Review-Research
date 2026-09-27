@@ -1607,3 +1607,4 @@ game-design.difficulty-tuning.easier-than-its-genre | ~ | The reviewer places th
 engineering.performance.the-menus-lag | - | Opening or moving through the game's menus stutters or hangs, and the reviewer names the menus rather than pla
 game-design.progression.build-and-customisation.cannot-choose-the-starting-weapon | - | Each run hands the player its opening weapon, and the reviewer wants to pick it - often as a reward for having
 game-design.session-flexibility.cannot-start-from-a-later-stage | - | Every run starts at the first stage, and the reviewer wants to begin further in - at the parts they like best 
+audio.mixing.one-fight-is-far-louder-than-the-rest | - | The sound and music jump far above the rest of the game in one named fight or place, every time. **Distinct fr
