@@ -10054,6 +10054,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 509, Gunfire Reborn batch 8.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 9 - round 510 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.outdoes-big-budget-games` | **+** | The reviewer sets the game against big-budget (AAA) games as a class and says it beats most of them, without naming one. **Distinct from `.beats-its-rivals`**, which names a competitor, and `.best-in-its-category`, which puts it at the top of its own genre. Gunfire Reborn 93353027 (*"better then 90% of AAA games"*); Remnant 2 145352145 (moved from `.beats-its-rivals`) and Space Marine 2 187921622 (moved from `.unknown`) in round 510. |
+
+🔑 **Round 510, Gunfire Reborn batch 9.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

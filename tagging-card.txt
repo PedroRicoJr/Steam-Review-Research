@@ -1599,3 +1599,4 @@ game-design.progression.build-and-customisation.one-playstyle-has-too-few-tools 
 game-design.progression.build-and-customisation.upgrades-come-with-a-cost | + | Picks and modifiers give something good at a price, so each one is a real choice rather than a free gain. **Di
 game-design.game-feel.controls.wants-aim-assist | - | The reviewer asks for aim assistance the game does not give them. **The other side of `.aim-assist-helps`**, w
 publishing.monetisation-practice.worried-paid-extras-will-come | - | The game has no pay-for-advantage or mobile-style shop yet, and the reviewer fears one will be added. **The mo
+marketing.reputation.outdoes-big-budget-games | + | The reviewer sets the game against big-budget (AAA) games as a class and says it beats most of them, without n
