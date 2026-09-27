@@ -1601,3 +1601,5 @@ game-design.game-feel.controls.wants-aim-assist | - | The reviewer asks for aim 
 publishing.monetisation-practice.worried-paid-extras-will-come | - | The game has no pay-for-advantage or mobile-style shop yet, and the reviewer fears one will be added. **The mo
 marketing.reputation.outdoes-big-budget-games | + | The reviewer sets the game against big-budget (AAA) games as a class and says it beats most of them, without n
 localization.translation-quality.the-odd-wording-is-charming | + | The translation is plainly off - strange item names, literal phrasing - and the reviewer enjoys it rather than
+game-design.game-feel.combat.melee-hits-do-not-land | - | Melee attacks miss or fail to register even when the player is right on the target, so close-range weapons fee
+game-design.role-design.everyone-can-play-the-same-character | + | Several players in one group may pick the same character, and the reviewer names that as a plus. **The answer 

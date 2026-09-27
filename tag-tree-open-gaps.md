@@ -10464,3 +10464,14 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Named rivals both ways:** 102813783 dropped Void Bastards after 12 hours because every run was the same (`beats-its-rivals`); 103297948 prefers Roboquest for solo play (`beaten-by-a-competitor`). Roboquest is A15 on `planning/action-roguelike-list.md`.
 - **Weapons blur together late:** 103284870 says the weapons feel too similar after enough hours (`options-feel-identical`).
 - **The final boss was changed:** 102813783 says the devs listened and changed the final boss so it is "not a toin coss" (`listens-and-acts`).
+
+## Notes - round 515 (Gunfire Reborn batch 14)
+
+50 read (2021-11-22 to 2021-12-15, all after 1.0), 85 bullets, 0 excluded, 6 edited later. Running total 700 of 1,884 (1 excluded so far). 49 up / 1 down (105430425: lag "frequent, severe and unrelenting", will flip when fixed; the December 2022 edit says it still is not). Tree 1,603 -> 1,605. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 14:44 backstop firing (timer re-created as `eae0c0b5`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.70, 25 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 3.9 bullets each and 36 words per bullet, 19% of bullets on an `.unknown`.
+- **Two modes built (Rule C):** `game-feel.combat.melee-hits-do-not-land` (−, 103276137: the sword "doesn't seem to connect" at point-blank range) and `role-design.everyone-can-play-the-same-character` (+, 104909957: "you can all pick the same hero if you want to"). `findphrase` found no earlier sighting of either.
+- **Lag, two views:** 105430425 (down) says the lag is still bad a year on (`lag-and-desync`, `the-thumb-will-flip-when-one-thing-is-fixed`); 104902262 (126 hours) says the online used to be "laggy and unresponsive" and no longer is (`made-it-better`). Both matter for a listen-server game like Dominion.
+- **No reconnect:** 104909957 says there is no way back in after a short disconnect (`cannot-rejoin-a-match`).
+- **Another AAA comparison:** 103278458 says it is worth more than most AAA titles - the fourth bullet on `outdoes-big-budget-games`, built in round 510.
+- **Scroll trade-offs again:** 104901075 names a scroll that doubles crit damage but halves body shots (`upgrades-come-with-a-cost`, the second after 88495098).

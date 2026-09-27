@@ -10072,6 +10072,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 511, Gunfire Reborn batch 10.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 14 - round 515 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.melee-hits-do-not-land` | **−** | Melee attacks miss or fail to register even when the player is right on the target, so close-range weapons feel unreliable. **Distinct from `.weak-spot-hits-do-not-count`**, which is about where a shot lands, and `.forces-the-melee-on-you`. Gunfire Reborn 103276137 (*"even with my face buried into the enemy bosom my sword doesn't seem to connect"*). |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.everyone-can-play-the-same-character` | **+** | Several players in one group may pick the same character, and the reviewer names that as a plus. **The answer to `.everyone-wants-the-same-character`**, where a one-of-each rule makes players fight over a pick. Gunfire Reborn 104909957. |
+
+🔑 **Round 515, Gunfire Reborn batch 14.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
