@@ -10433,3 +10433,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Uneven characters:** 95282591 says some characters are stronger than others and wants better balance. Filed on `role-design.role-underpowered`, following the one earlier sighting worded the same way; 88495098 (round 509) said the DLC characters are overtuned. If this comes back, a mode for uneven character strength may fit.
 - **Changed their mind:** 95809259 found it lackluster at first and recommends it after 16 hours (`takes-back-an-earlier-complaint`).
 - **Same stages, different runs:** three reviews (96258815, 95811325, 94191002) say the stages repeat but the enemies, loot and scrolls change enough to keep runs fresh (`randomness-keeps-it-fresh`).
+
+## Notes - round 512 (Gunfire Reborn batch 11)
+
+50 read (2021-07-31 to 2021-09-30, nearly all early access), 85 bullets, 0 excluded, 5 edited later. Running total 550 of 1,884 (1 excluded so far). 50 up / 0 down. No new mode; tree stays at 1,603. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 11:44 backstop firing (timer re-created as `a351de77`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.70, 33 of 50 reviews 15 words or fewer, 3 reviews over 60 words at 5.7 bullets each and 30 words per bullet, 21% of bullets on an `.unknown`.
+- **Uneven characters, second sighting:** 99416504 (157 hours) says the cat and dog are "very much mediocre" next to the other characters and that the newer characters are better made. With 95282591 (round 511) that is two Gunfire Reborn bullets on `role-design.role-underpowered`; 88495098 (round 509) said the DLC characters are overtuned. Still filed on existing modes.
+- **Short sittings:** 97118753 and 99812050 praise picking it up for one run of about an hour (`good-in-short-sittings`).
+- **No story:** 98112555 lists "story its.. its not there" as the one minus (`no-story-at-all`), the first Gunfire Reborn bullet on it.
+- **Vague balance note:** 97642091 says "some balancing still needed" with nothing named, so it went to `power-balance.unknown`; there is no specific complaint to build from.
