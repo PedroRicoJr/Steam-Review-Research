@@ -10453,3 +10453,14 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **One-shot on higher settings:** 102346536 (101 hours) says higher difficulties one-shot you by surprise, naming suicide bombers round corners (`one-hit-kills`), and that bad drop streaks frustrate (`the-thing-you-need-may-never-roll`).
 - **Slow start, twice more:** 102360499 (the guns need unlocking to get up to snuff) and 102328126 (the death counter wore them down until the upgrade) join 88026647, 93824334 and 99416504 on `unlock-pace.slow-start`.
 - **Just-right difficulty:** 101991303 ("not too tryhard, not too casual") went to `well-graded`, following four earlier bullets worded the same way.
+
+## Notes - round 514 (Gunfire Reborn batch 13)
+
+50 read (2021-11-14 to 2021-11-22; 27 in early access, 23 after 1.0), 81 bullets, 0 excluded, 3 edited later. Running total 650 of 1,884 (1 excluded so far). 49 up / 1 down (102803611: cannot find matches, 1,000-2,000 ping through the community tab, and solo "the same thing over and over"). No new mode; tree stays at 1,603. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 13:44 backstop firing (timer re-created as `327d275b`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.62, 33 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 4.3 bullets each and 35 words per bullet, 25% of bullets on an `.unknown`.
+- **The first post-1.0 reviews:** 23 of the 50 carry no early-access flag. 103291466 says the 1.0 world and enemies are unique (`made-it-better`); 103301920 says it works at launch when many PC games do not (`shipped-in-good-shape`).
+- **Repetition named, still fun:** 102813783 (81 helpful) and 102802937 say the areas repeat but it stays fun (`repetitive-and-still-fun`); 102799991 and the down review 102803611 say the same levels get old (`repetitive`).
+- **Named rivals both ways:** 102813783 dropped Void Bastards after 12 hours because every run was the same (`beats-its-rivals`); 103297948 prefers Roboquest for solo play (`beaten-by-a-competitor`). Roboquest is one of the runners-up recorded for the next game.
+- **Weapons blur together late:** 103284870 says the weapons feel too similar after enough hours (`options-feel-identical`).
+- **The final boss was changed:** 102813783 says the devs listened and changed the final boss so it is "not a toin coss" (`listens-and-acts`).
