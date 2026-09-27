@@ -10582,7 +10582,7 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 
 ## Notes - round 524 (Gunfire Reborn batch 23)
 
-50 read (2023-06-30 to 2023-09-15), 75 bullets, 0 excluded, 3 edited later. Running total 1,150 of 1,884 (2 excluded so far). 44 up / 6 down - the most down reviews in one Gunfire Reborn batch so far (batches 15 and 16 had 5). No new mode; tree stays at 1,613. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 23:44 backstop firing (timer re-created as `05e5c6b1`).
+50 read (2023-06-30 to 2023-09-15), 75 bullets, 0 excluded, 3 edited later. Running total 1,150 of 1,884 (2 excluded so far). 44 up / 6 down - the most down reviews in one Gunfire Reborn batch so far (batches 15, 16 and 21 had 5). No new mode; tree stays at 1,613. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 23:44 backstop firing (timer re-created as `05e5c6b1`).
 
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.50, 29 of 50 reviews 15 words or fewer, 2 reviews over 60 words at 5.0 bullets each and 60 words per bullet, 27% of bullets on an `.unknown`.
 - **The six down reviews:**
