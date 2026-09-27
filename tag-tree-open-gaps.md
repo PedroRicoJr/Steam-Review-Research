@@ -10461,6 +10461,6 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.62, 33 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 4.3 bullets each and 35 words per bullet, 25% of bullets on an `.unknown`.
 - **The first post-1.0 reviews:** 23 of the 50 carry no early-access flag. 103291466 says the 1.0 world and enemies are unique (`made-it-better`); 103301920 says it works at launch when many PC games do not (`shipped-in-good-shape`).
 - **Repetition named, still fun:** 102813783 (81 helpful) and 102802937 say the areas repeat but it stays fun (`repetitive-and-still-fun`); 102799991 and the down review 102803611 say the same levels get old (`repetitive`).
-- **Named rivals both ways:** 102813783 dropped Void Bastards after 12 hours because every run was the same (`beats-its-rivals`); 103297948 prefers Roboquest for solo play (`beaten-by-a-competitor`). Roboquest is one of the runners-up recorded for the next game.
+- **Named rivals both ways:** 102813783 dropped Void Bastards after 12 hours because every run was the same (`beats-its-rivals`); 103297948 prefers Roboquest for solo play (`beaten-by-a-competitor`). Roboquest is A15 on `planning/action-roguelike-list.md`.
 - **Weapons blur together late:** 103284870 says the weapons feel too similar after enough hours (`options-feel-identical`).
 - **The final boss was changed:** 102813783 says the devs listened and changed the final boss so it is "not a toin coss" (`listens-and-acts`).
