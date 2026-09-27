@@ -10136,6 +10136,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 520, Gunfire Reborn batch 19.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 20 - round 521 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.too-few-weapon-slots` | **−** | The player can carry fewer weapons than the game's systems call for - fewer slots than elements or ammo types, or a slot taken by a forced basic weapon - and the reviewer names the slot count. **Distinct from `.shallow-options`**, where the options themselves change little. Gunfire Reborn 129811200 (two weapons plus a forced basic one) and 83684864 (2 guns for 3 elements); Redfall 138067779, 146410341, 167599060 (three slots is too few). All four earlier bullets moved here from `.shallow-options` in round 521. |
+
+### `art.effects-and-gore`
+| Mode | | Definition |
+|---|---|---|
+| `.no-gore-is-a-plus` | **+** | The reviewer praises the absence of blood and gore - enemies vanish or fall without viscera. **The other side of `.too-little-gore`**, where the same absence is a complaint. Gunfire Reborn 129112289 (*"nonviolent ... the mobs simply despawn"*). |
+
+🔑 **Round 521, Gunfire Reborn batch 20.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

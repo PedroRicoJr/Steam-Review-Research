@@ -1609,3 +1609,5 @@ game-design.progression.build-and-customisation.cannot-choose-the-starting-weapo
 game-design.session-flexibility.cannot-start-from-a-later-stage | - | Every run starts at the first stage, and the reviewer wants to begin further in - at the parts they like best 
 audio.mixing.one-fight-is-far-louder-than-the-rest | - | The sound and music jump far above the rest of the game in one named fight or place, every time. **Distinct fr
 marketing.reputation.the-studio-treats-its-staff-badly | - | The reviewer reports how the studio treats its own workers - hiring, hours, workplace culture - and holds it a
+game-design.progression.build-and-customisation.too-few-weapon-slots | - | The player can carry fewer weapons than the game's systems call for - fewer slots than elements or ammo types,
+art.effects-and-gore.no-gore-is-a-plus | + | The reviewer praises the absence of blood and gore - enemies vanish or fall without viscera. **The other side 

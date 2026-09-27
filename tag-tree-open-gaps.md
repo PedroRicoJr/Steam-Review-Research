@@ -10540,3 +10540,15 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **The four down reviews:** 122293203 (uninspired Borderlands roguelike, little content for the price), 122291900 (no multiplayer save - `saved-runs-cannot-go-online`), 122637571 (a friend does far more damage - `one-player-can-carry`), 123098372 (broken since the DLC).
 - **Second sighting of a new mode:** 124722691 says there are many guns but only 3 melee weapons (`one-playstyle-has-too-few-tools`, built in round 509 from 88026647).
 - **Families:** 123099839 (son), 124295046 (fiance, 200 hours to Reincarnation 8) and 125510360 (brother) bring `it-is-how-i-play-with-my-family` to 6 Gunfire Reborn reviews.
+
+## Notes - round 521 (Gunfire Reborn batch 20)
+
+50 read (2022-11-15 to 2023-01-31), 82 bullets, 0 excluded, 3 edited later. Running total 1,000 of 1,884 (2 excluded so far). 49 up / 1 down. Tree 1,611 -> 1,613. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 20:44 backstop firing (timer re-created as `9d118a08`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.64, 37 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 6.5 bullets each and 49 words per bullet, 29% of bullets on an `.unknown`.
+- **Two modes built (Rule C):**
+  - `build-and-customisation.too-few-weapon-slots` (−). Round 508's note flagged the weapon-slot complaint parked on `shallow-options`; 129811200 made it the fifth sighting, so the mode was built and all four earlier bullets moved to it - Gunfire Reborn 83684864 and Redfall 138067779, 146410341, 167599060.
+  - `art.effects-and-gore.no-gore-is-a-plus` (+, 129112289: "nonviolent ... the mobs simply despawn"). `findphrase "no blood"` found only a sarcastic Space Marine 2 review, which stays.
+- **The one down review:** 129811200 (233 hours, edited 2025-12) turned from up to down over years: the game contacts a third-party website (`suspected-of-spying`), performance and lag spikes got worse (`made-it-worse`), no new maps (`update-cadence.too-slow`), yet the money handling is "perfect" (`a-fair-business-model`). The old text adds the slow meta grind, a fanbase that answers balance complaints with "skill issue" (`the-fanbase-puts-me-off`), useless weapons and two weapon slots.
+- **Xbox players:** 127659909 and 130378738 came through Game Pass and moved to Steam because the Xbox version crashed or lagged behind on updates (`came-through-a-subscription`, `better-here-than-elsewhere`, `consoles-get-updates-later`).
+- **Second sighting of a round-509 mode:** 131379592 wants outfits but hopes they will not bring premium currency (`worried-paid-extras-will-come`, after 87184700).
