@@ -1595,3 +1595,7 @@ game-design.progression.build-and-customisation.items-barely-combine | - | The i
 game-design.modes.a-mode-is-locked-behind-a-level | - | A mode - often online co-op - opens only once the player reaches a set level, so a new player cannot join frie
 art.effects-and-gore.the-ragdolls-are-funny | + | The way defeated enemies fall and fly is named as a source of laughs. **Distinct from `.impacts-look-powerful`
 game-design.enemy-design.the-final-boss-breaks-the-pattern | ~ | The last boss plays by different rules from every boss before it - stages, tasks to make it open to damage - o
+game-design.progression.build-and-customisation.one-playstyle-has-too-few-tools | - | A playstyle the game offers - melee, a class's own focus - has only one or two items behind it, so a build aro
+game-design.progression.build-and-customisation.upgrades-come-with-a-cost | + | Picks and modifiers give something good at a price, so each one is a real choice rather than a free gain. **Di
+game-design.game-feel.controls.wants-aim-assist | - | The reviewer asks for aim assistance the game does not give them. **The other side of `.aim-assist-helps`**, w
+publishing.monetisation-practice.worried-paid-extras-will-come | - | The game has no pay-for-advantage or mobile-style shop yet, and the reviewer fears one will be added. **The mo

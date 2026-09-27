@@ -10404,3 +10404,12 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Weapon slots:** 83684864 says you can carry only 2 guns though there are 3 elements. Three earlier bullets that want more weapon slots sit on `build-and-customisation.shallow-options`, so this one followed them. With four sightings, a slot-count mode may be worth building in a later round.
 - **Solo split:** two reviews say solo is a slog or not much fun (`punishing-solo`: 84750086, 86170724), and two say it is fine alone (`works-solo`: 83686861, 84248042).
 - **Gifting again:** 86166175 gifted it to 4 friends and says stream viewers bought it (`i-bought-it-for-other-people`, `found-it-through-someone-playing-it`).
+
+## Notes - round 509 (Gunfire Reborn batch 8)
+
+50 read (2021-02-14 to 2021-04-15, early access), 83 bullets, 0 excluded, 5 edited later. Running total 400 of 1,884 (1 excluded so far). 48 up / 2 down (89908403, a jab at the developers with a call not to support them - not repeated, filed on `studio-politics-put-me-off`; 90364026, "borring"). Tree 1,597 -> 1,601. Lost-review check: the first dry-run file missed 89909801; caught by comparing ids before the dry run, added. `--gaps` none. Done in the 08:44 backstop firing (timer re-created as `da2899cc`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.66, 36 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 6.0 bullets each and 40 words per bullet, 30% of bullets on an `.unknown` (many one-word reviews this batch).
+- **Four modes built (Rule C):** `build-and-customisation.one-playstyle-has-too-few-tools` (−, 88026647: the one sword is locked to lightning, so melee builds have nothing else), `build-and-customisation.upgrades-come-with-a-cost` (+, 88495098: modifiers "add something good; but at a cost"), `controls.wants-aim-assist` (−, 90366832), `monetisation-practice.worried-paid-extras-will-come` (−, 87184700 hopes it never adds "mobile-game-like payment models"). `findphrase` found no earlier sighting of any of them.
+- **Balanced for a full unlock:** 88026647 says the talent system leaves a new file at a disadvantage because the game is balanced for fully unlocked stats. Filed on `unlock-pace.slow-start` (opening hours weak because the systems are still locked); if this comes back, a narrower mode may fit.
+- **DLC characters overtuned:** 88495098 says the four DLC characters are narrow and often overtuned, so they rarely play them (`something-needs-a-nerf`).

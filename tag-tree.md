@@ -10034,6 +10034,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 507, Gunfire Reborn batch 6.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 8 - round 509 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.one-playstyle-has-too-few-tools` | **−** | A playstyle the game offers - melee, a class's own focus - has only one or two items behind it, so a build around it is locked into one element or path. **Distinct from `.shallow-options`**, where the options do little, and `.only-a-few-builds-are-viable`, where many builds exist and few survive. Gunfire Reborn 88026647 (one sword, locked to lightning). |
+| `.upgrades-come-with-a-cost` | **+** | Picks and modifiers give something good at a price, so each one is a real choice rather than a free gain. **Distinct from `.changes-how-you-play`**, which is about a pick reshaping play; here the praise is for the trade-off. Gunfire Reborn 88495098. |
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-aim-assist` | **−** | The reviewer asks for aim assistance the game does not give them. **The other side of `.aim-assist-helps`**, where it exists and works. Gunfire Reborn 90366832. |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.worried-paid-extras-will-come` | **−** | The game has no pay-for-advantage or mobile-style shop yet, and the reviewer fears one will be added. **The money twin of `production.content-amount.worried-it-will-run-dry`.** Gunfire Reborn 87184700. |
+
+🔑 **Round 509, Gunfire Reborn batch 8.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
