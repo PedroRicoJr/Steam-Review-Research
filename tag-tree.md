@@ -10063,6 +10063,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 510, Gunfire Reborn batch 9.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 10 - round 511 (Rule C)
+
+### `localization.translation-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.the-odd-wording-is-charming` | **+** | The translation is plainly off - strange item names, literal phrasing - and the reviewer enjoys it rather than minding. **The other side of `.reads-badly`**, where the same oddness is a complaint. Gunfire Reborn 94763277 (*"Arrogant Lobster (I love the Chinese translations lol)"*). |
+
+🔑 **Round 511, Gunfire Reborn batch 10.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

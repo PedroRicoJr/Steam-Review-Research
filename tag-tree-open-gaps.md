@@ -10423,3 +10423,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **A flipped thumb:** 91193437 was down because stutter grew with each update; the edit says it was slowly fixed and the developer contacted them, so the thumb went up (`the-thumb-was-flipped-from-its-first-verdict`, `stutter`, `listens-and-acts`).
 - **Locked characters again:** 93372804 says everyone plays the starter until level 25 and there is no way to change your look, so teammates cannot be told apart. Second Gunfire Reborn bullet on `the-classes-should-all-be-open-from-the-start` (after 79669859 in round 507). The look part went to `cannot-change-how-you-look`.
 - **Hard to learn the levels:** 92459367 spent a long time not knowing why they were not levelling until they found the skill tree (`poorly-explained`).
+
+## Notes - round 511 (Gunfire Reborn batch 10)
+
+50 read (2021-06-22 to 2021-07-31, nearly all early access), 93 bullets, 0 excluded, 3 edited later. Running total 500 of 1,884 (1 excluded so far). 50 up / 0 down. Tree 1,602 -> 1,603. Lost-review check: the first draft missed 95809385; caught by the id compare before the dry run, added. `--gaps` none. Done in the 10:44 backstop firing (timer re-created as `8b91da3f`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.86, 29 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 4.4 bullets each and 25 words per bullet, 23% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `localization.translation-quality.the-odd-wording-is-charming` (+), from 94763277 ("Arrogant Lobster (I love the Chinese translations lol)"). Earlier Gunfire Reborn bullets on odd names (81804869's "restaurant menu") stay on `reads-badly`, since they were not framed as enjoyment.
+- **Uneven characters:** 95282591 says some characters are stronger than others and wants better balance. Filed on `role-design.role-underpowered`, following the one earlier sighting worded the same way; 88495098 (round 509) said the DLC characters are overtuned. If this comes back, a mode for uneven character strength may fit.
+- **Changed their mind:** 95809259 found it lackluster at first and recommends it after 16 hours (`takes-back-an-earlier-complaint`).
+- **Same stages, different runs:** three reviews (96258815, 95811325, 94191002) say the stages repeat but the enemies, loot and scrolls change enough to keep runs fresh (`randomness-keeps-it-fresh`).
