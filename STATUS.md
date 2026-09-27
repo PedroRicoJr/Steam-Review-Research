@@ -9,7 +9,7 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Active loop | `loops/active/2026-09-24-backlog-warframe-duckov.md` |
 | Cadence | **every 30 minutes** (Rico, 2026-09-25: the cloud-session credit pays for it, about $1 a firing). Re-create the timer as `7,37 * * * *`. **Standing order: run forever, never stop to ask - park decisions in OPEN-WITH-RICO.md.** |
-| In-session timer | CronCreate job `9d118a08`, `7,37 * * * *` (re-created 20:45 UTC; the session has restarted each hour, so in practice the hourly backstop sets the pace) (auto-expires after 7 days; the backstop re-creates it) (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
+| In-session timer | CronCreate job `3de5ab2f`, `7,37 * * * *` (re-created 21:45 UTC; the session has restarted each hour, so in practice the hourly backstop sets the pace) (auto-expires after 7 days; the backstop re-creates it) (session-only; dies when the cloud session goes idle - see OPEN-WITH-RICO.md) |
 | Backstop | Routine `trig_01Va8fnQYvp4XU9rzChSjVaf`, hourly at :44 |
 
 ## Where it stands
@@ -18,12 +18,12 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-27 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Gunfire Reborn (Escape from Duckov finished in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 521: Gunfire Reborn batch 20, 50 reviews, 2 modes (1,000 of 1,884) |
-| Next unit | Gunfire Reborn batch 21: the next **50** (`python summarise.py next --group gunfire-reborn/english --n 50`) |
+| Last unit done | Round 522: Gunfire Reborn batch 21, 50 reviews, no new mode (1,050 of 1,884) |
+| Next unit | Gunfire Reborn batch 22: the next **50** (`python summarise.py next --group gunfire-reborn/english --n 50`) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,613 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
 | Escape from Duckov | **Done** 2026-09-27 - 1,166 of 1,166 read; `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md`, cross-game section 21 |
-| Gunfire Reborn | pulled 2026-09-27: 1,884 reviews (+/-2.51%); 1,000 read; next is batch 21 (50) |
+| Gunfire Reborn | pulled 2026-09-27: 1,884 reviews (+/-2.51%); 1,050 read; next is batch 22 (50) |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.
