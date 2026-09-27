@@ -10568,3 +10568,14 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Matchmaking split:** 133283400 and 135249912 cannot get into online games; 132830083 says multiplayer has "no lag at all" (`smooth-online`).
 - **Families:** 133806505 (partner, "I encourage gamer couples") and 136761387 (a 51-year-old single father and his 14-year-old son, brought closer after his wife died) bring `it-is-how-i-play-with-my-family` to 8 Gunfire Reborn reviews.
 - **Synergy praise stays on `deep-and-varied`:** 134692116 praises items that "work together" rather than bare stat buffs. `findphrase "synerg"` shows 7 earlier praise bullets on `deep-and-varied`; `items-barely-combine` (round 504) has no positive twin. A split may be worth a later look.
+
+## Notes - round 523 (Gunfire Reborn batch 22)
+
+50 read (2023-04-15 to 2023-06-30), 78 bullets, 0 excluded, 1 edited later. Running total 1,100 of 1,884 (2 excluded so far). 46 up / 4 down. No new mode; tree stays at 1,613. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 22:44 backstop firing (timer re-created as `5e7cc1d2`; round 522's reply to Rico explains why it never fires - the machine is shut down when idle, so only the hourly Routine survives).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.56, 31 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 3.5 bullets each and 26 words per bullet, 23% of bullets on an `.unknown`.
+- **The four down reviews:** 137933099 (bugs; saving does not hold - `progress-not-saved`), 138352707 (16 minutes of matchmaking with no one - `cannot-find-games`), 139708342 (repetitive, easy, and translations too bad to read items - `repetitive`, `too-easy`, `reads-badly`) and 140523854 (one word after 812 hours).
+- **Finding a group, now 10 reviews:** 137106041 (few players), 138358523 ("dead as hell"), 138352707 (16 minutes) join earlier reviews on `cannot-find-games`, `slow-to-find-games`, `dead-game` and `thinner-than-hoped-but-playable` - 10 Gunfire Reborn reviews in all.
+- **Too easy, now 5 reviews:** 137971271 (362 hours: "absurdly easy ... even on the highest difficulties") and 139708342 join 71192677 and 113918507 on `too-easy`; with `easier-than-its-genre` that is 5 Gunfire Reborn reviews saying it is easy, against many more calling it hard.
+- **Where the devs spend effort:** 137585262 wants base-game content before more Spiritual Assault (`working-on-the-wrong-thing-first`, `too-slow`), after 133787121 in round 522 called the mode rushed.
+- **Steam Deck, second report:** 137934082 (up) says it does not run on the Deck, after 133276038 (down) in round 522.
