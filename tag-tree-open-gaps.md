@@ -10504,3 +10504,14 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
   - 113106971: no words (`review.negative.unknown`).
 - **Saves lost twice:** 112243534 lost 81 hours with no reply; 112674596 lost 47 hours and support "kind of recovered it for me quite swiftly" (`lost-progress-can-be-recovered`).
 - **One dominant pick:** 112251994 (116 hours, level 170, all solo) says the bunny with the auto-aim beam gun is so strong they play nothing else (`one-option-dominates`).
+
+## Notes - round 518 (Gunfire Reborn batch 17)
+
+50 read (2022-04-15 to 2022-06-30), 108 bullets, 0 excluded, 3 edited later. Running total 850 of 1,884 (2 excluded so far). 47 up / 3 down. Tree 1,608 -> 1,609. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 17:44 backstop firing (timer re-created as `068a1ba6`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.16, 31 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 6.4 bullets each and 27 words per bullet, 20% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `session-flexibility.cannot-start-from-a-later-stage` (−, 116625848 wishes they could start at Acts III and IV). `findphrase "start from"` found one near sighting that ends by praising the stakes (`stakes-worth-the-risk`); it stays.
+- **The fullest down review so far:** 114300722 (27 hours, 3 helpful) got 11 bullets, tied with 70463102 (up) for the most on any Gunfire Reborn review: luck rules the run, character specialisations narrow the weapons, pre-made levels repeat, finishing pays little, difficulty climbs one step per win, the top settings only scale numbers, the player's power does not keep up, gimmick enemies punish close-range builds, some enemies cannot be hit without range, solo has no revive - and it would have been a neutral. Several of these echo earlier Gunfire Reborn complaints (`only-a-few-builds-are-viable`, `harder-only-changes-the-numbers`).
+- **The other two down reviews:** 115118643 (buggy, repetitive, only worth it on sale) and 117044378 (a crash in multiplayer gives 60 seconds to rejoin, then the run is lost - `a-disconnect-loses-the-run`, a listen-server point for Dominion).
+- **Balance named:** 116632438 says the mortar is broken and the bird useless (`something-needs-a-nerf`, `role-underpowered` - now 3 Gunfire Reborn reviews on weak characters).
+- **Co-op scaling praised:** 116288163 and 117420896 say difficulty scales well with 2-4 players (`scales-to-the-number-of-players`), against 84248075's spikes with a full group in round 508.

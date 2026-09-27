@@ -10109,6 +10109,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 517, Gunfire Reborn batch 16.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 17 - round 518 (Rule C)
+
+### `game-design.session-flexibility`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-start-from-a-later-stage` | **−** | Every run starts at the first stage, and the reviewer wants to begin further in - at the parts they like best - instead of replaying the opening each time. **Distinct from `game-design.pacing.the-early-stages-of-every-run-are-dull`**, which names the opening as dull without asking to skip it, and from `game-design.level-design.most-levels-can-be-skipped`, a complaint that skipping is too easy. Gunfire Reborn 116625848 (*"wish I could make a choice to start there"*). |
+
+🔑 **Round 518, Gunfire Reborn batch 17.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
