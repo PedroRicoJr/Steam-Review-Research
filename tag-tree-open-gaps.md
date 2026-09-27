@@ -10557,14 +10557,14 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 
 50 read (2023-01-31 to 2023-04-15), 92 bullets, 0 excluded, 0 edited later. Running total 1,050 of 1,884 (2 excluded so far). 45 up / 5 down. No new mode; tree stays at 1,613. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 21:45 backstop firing (timer re-created as `3de5ab2f`).
 
-- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.84, 31 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 4.9 bullets each and 39 words per bullet, 16% of bullets on an `.unknown` - the lowest share so far for this game.
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.84, 31 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 4.9 bullets each and 39 words per bullet, 16% of bullets on an `.unknown` - among the lowest for this game (batch 6 was 14%).
 - **The five down reviews:**
   - 133283400: every multiplayer start ends in "Connection Timeout" after a 7-minute wait to fill a squad (`servers.cannot-connect`, `slow-to-find-games`).
   - 133276038: crashes on launch on Steam Deck (`broken-on-my-platform`).
   - 133787121 (104 hours): 11 bullets - a weak character and bad ascensions, vague translations, no vertical animation in third person, the same 4 zones since release, a rushed Spiritual Assault mode that lags, a generic soundtrack, and rubberbanding after big hits "even in singleplayer" (`lag-and-desync`).
   - 133782410: cannot rejoin after a disconnect (`cannot-rejoin-a-match`).
   - 136744624 (223 hours): only a few weapon combinations work in Spiritual Assault (`only-a-few-builds-are-viable`).
-- **Drop-and-rejoin, fourth review:** 133782410 joins 104909957, 117044378 and 121545850. Four of 1,050 Gunfire Reborn reviews name it; all say the run is lost.
+- **Drop-and-rejoin, fourth review:** 133782410 joins 104909957, 117044378 and 121545850. Four of 1,050 Gunfire Reborn reviews name it: a dropped player cannot get back into the run.
 - **Matchmaking split:** 133283400 and 135249912 cannot get into online games; 132830083 says multiplayer has "no lag at all" (`smooth-online`).
 - **Families:** 133806505 (partner, "I encourage gamer couples") and 136761387 (a 51-year-old single father and his 14-year-old son, brought closer after his wife died) bring `it-is-how-i-play-with-my-family` to 8 Gunfire Reborn reviews.
 - **Synergy praise stays on `deep-and-varied`:** 134692116 praises items that "work together" rather than bare stat buffs. `findphrase "synerg"` shows 7 earlier praise bullets on `deep-and-varied`; `items-barely-combine` (round 504) has no positive twin. A split may be worth a later look.
