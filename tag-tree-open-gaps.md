@@ -10579,3 +10579,19 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Too easy, now 5 reviews:** 137971271 (362 hours: "absurdly easy ... even on the highest difficulties") and 139708342 join 71192677 and 113918507 on `too-easy`; with `easier-than-its-genre` that is 5 Gunfire Reborn reviews saying it is easy, against many more calling it hard.
 - **Where the devs spend effort:** 137585262 wants base-game content before more Spiritual Assault (`working-on-the-wrong-thing-first`, `too-slow`), after 133787121 in round 522 called the mode rushed.
 - **Steam Deck, second report:** 137934082 (up) says it does not run on the Deck, after 133276038 (down) in round 522.
+
+## Notes - round 524 (Gunfire Reborn batch 23)
+
+50 read (2023-06-30 to 2023-09-15), 75 bullets, 0 excluded, 3 edited later. Running total 1,150 of 1,884 (2 excluded so far). 44 up / 6 down - the most down reviews in one Gunfire Reborn batch so far (batches 15 and 16 had 5). No new mode; tree stays at 1,613. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 23:44 backstop firing (timer re-created as `05e5c6b1`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.50, 29 of 50 reviews 15 words or fewer, 2 reviews over 60 words at 5.0 bullets each and 60 words per bullet, 27% of bullets on an `.unknown`.
+- **The six down reviews:**
+  - 141007442 (1 hour): the menu music blasts on repeat into the game with no way to turn it down; will flip if fixed (`music.cannot-be-turned-off`).
+  - 141003716: very repetitive and boring.
+  - 144271511 (170 hours, edited 2025): power-crept DLC characters, sloppy hit registration, no mod support (`power-creep`, `shots-go-where-they-want`).
+  - 144869799: disconnected and could not get back into a friend's room (`cannot-rejoin-a-match`).
+  - 144859909: time and money better spent elsewhere.
+  - 145401389 (0 hours): enemies walk straight at you or snipe, the first boss is unfair, and solo is boring (`poor-ai-behaviour`, `one-part-is-far-harder-than-the-rest`, `punishing-solo`).
+- **Drop-and-rejoin, fifth review:** 144869799 makes 5 Gunfire Reborn reviews on `cannot-rejoin-a-match` or `a-disconnect-loses-the-run`.
+- **Solo worse than co-op, now 7 reviews on `punishing-solo`:** 142155443 ("6/10 solo, 10/10 co-op") and 145401389 join the earlier ones.
+- **DLC characters, two readings:** 142649307 says they are the best characters (`add-ons-outshine-the-base-game`); 144271511 calls them power-crept (`power-creep`), after 88495098 called them overtuned in round 509.
