@@ -10336,3 +10336,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **GAMES-TODO:** row 9 of section 4; `planning/action-roguelike-list.md` A18 marked WIP.
 - **Parked for Rico:** rows 6 and 7 of section 4 (OUTRIDERS, Darktide) are still queued; the loop followed its own file. Added to `OPEN-WITH-RICO.md` with the default taken.
 - **Next:** Gunfire Reborn batch 1 (50 reviews).
+
+## Notes - round 502 (Gunfire Reborn batch 1)
+
+50 read (2020-05-23 to 2020-06-15, the first weeks of early access; 46 carry the early-access flag), 105 bullets, 0 excluded, 13 edited later. Running total 50 of 1,884. 47 up / 3 down. Tree unchanged at 1,592. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 02:44 backstop firing (timer re-created as `0f673abc`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.10, 26 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.5 bullets each and 38 words per bullet, 17% of bullets on an `.unknown`.
+- **No new mode.** Praise for the persistent skill tree between runs went to `unlock-pace.satisfying-progression`, as earlier sightings in the corpus did (`findphrase "between runs"`).
+- **The 3 thumbs down:** 69691390 (39 helpful: cannot be played offline though the store says single-player - `requires-internet` and `claim-was-untrue`), 70860116 (rubber-banding online), 70858963 (skill points too slow, a first boss too hard without a full team, the same opening stages every run).
+- **Compared on arrival:** 9 bullets name other games - Borderlands and Risk of Rain most, then Enter the Gungeon, Hades, Dead Cells, Slay the Spire.
+- **The run's opening, already:** 70463102 and 70858963 both say every run starts with the same three stages in the same order (`the-early-stages-of-every-run-are-dull`); 70463792 says the first boss is always the same.
