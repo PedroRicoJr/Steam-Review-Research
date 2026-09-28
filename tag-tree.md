@@ -10214,6 +10214,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 543, EARTH DEFENSE FORCE 5 batch 1.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 2 - round 544 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.vehicles-handle-badly` | **−** | The player's own movement and shooting feel fine, but driving or piloting the game's vehicles is clumsy - they steer, climb or turn badly - so the vehicles are avoided or endured. **Distinct from `.unresponsive`**, which is the on-foot controls lagging or failing, and from **`game-design.power-balance.some-options-are-useless`**, where the vehicle handles well but is too weak. EARTH DEFENSE FORCE 5 54984854 (*"Some vehicle controls, like the motorcycles and Depth Crawlers, still suck"*). |
+
+🔑 **Round 544, EARTH DEFENSE FORCE 5 batch 2.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

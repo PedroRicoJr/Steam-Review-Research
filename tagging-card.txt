@@ -1619,3 +1619,4 @@ game-design.progression.achievements.full-completion-needs-paid-dlc | - | Some o
 narrative.tone.cheesy-on-purpose | + | The dialogue, voice acting and B-movie story are deliberately campy, and the reviewer enjoys the cheese as par
 game-design.progression.unlock-pace.solo-and-online-progress-are-separate | - | Missions cleared alone do not count online (or the reverse), so the player must clear the same missions again 
 engineering.matchmaking.room-limits-rule-out-most-games | - | Public rooms carry level, difficulty and gear limits, so few rooms fit what the player has unlocked: too high 
+game-design.game-feel.controls.vehicles-handle-badly | - | The player's own movement and shooting feel fine, but driving or piloting the game's vehicles is clumsy - they
