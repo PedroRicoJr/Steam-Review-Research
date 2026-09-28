@@ -10691,3 +10691,15 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Slow start, now 16 reviews:** 189563622 joins ("after some key unlocks it really gets rolling").
 - **Translation, now 23 reviews on `reads-badly`:** 191684680 and 193890999 join.
 - **A jab kept out:** 192800701 is a one-line jab about the studio's country; not repeated.
+
+## Notes - round 533 (Gunfire Reborn batch 32)
+
+50 read (2025-05-15 to 2025-07-31), 79 bullets on 49 reviews, 1 excluded (199833178, empty, written by hand first), 4 edited later. Running total 1,600 of 1,884 (6 excluded so far). 43 up / 6 down. No new mode; tree stays at 1,616. Lost-review check: all 49 on the first dry run; `--gaps` none. Done in the 08:44 backstop firing (timer re-created as `69258b4c`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.58, 33 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 4.4 bullets each and 32 words per bullet, 29% of bullets on an `.unknown`.
+- **The six down reviews:** 195492459 (the fullest: higher difficulties leave only meta builds - `the-endgame-demands-the-meta`; a "glorified casino simulator" - `luck-decides-the-outcome`; bosses too tanky for aim to matter - `bullet-sponges`; one lucky player clears everything in co-op - `one-player-can-carry`), 196664913 (motion sickness even with a higher FOV), 196616759 (the PlayStation version never updated), 197340954 and 199217073 (a dead game - `dead-game`, now 4) and 199857585 (the critical hitbox sits above the head - `weak-spot-hits-do-not-count`; a short dash on a cooldown - `no-modern-moves`; a boss one-shots from full health).
+- **Round 531's mode gets its second sighting:** 196616759 ("they have not updated it once since it came out") joins 186861464 on `live-ops.abandonment.one-platform-was-left-behind`. Both are Gunfire Reborn; no other game has the tag.
+- **One-shot deaths, now 7 on `one-hit-kills`:** 199893693 wants Risk of Rain 2-style one-shot protection, says a wall or a pebble is enough to kill you at Reincarnation, and advises stopping at Reincarnation 4 (`the-endgame-demands-the-meta`, now 2); 199857585 joins. For Dominion: a four-player shooter with a top difficulty needs a floor under instant death, or players stop climbing.
+- **Bots, now 2 `ai-teammates` bullets:** 199237762 says the optional bots "work well and don't hinder you" (`helps-in-combat`).
+- **Seasons that cannot be missed:** 194943374 notes the seasons can be replayed any time and their rewards are not missable (`you-can-put-it-down-and-come-back`).
+- **Slow start, now 18 reviews:** 194943374 and 200452882 join. **Too little content, now 12:** 200453598 joins.
