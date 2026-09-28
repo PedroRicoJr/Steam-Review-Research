@@ -10242,6 +10242,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 545, EARTH DEFENSE FORCE 5 batch 3.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 4 - round 546 (Rule C)
+
+### `audio.mixing`
+| Mode | | Definition |
+|---|---|---|
+| `.dialogue-ducks-the-other-sound` | **−** | When a line of dialogue plays, the game lowers or shifts the rest of the sound around it, and the reviewer finds that dip distracting. **Distinct from `.drowns-out-what-matters`**, where the other sound is too loud and buries the line. EARTH DEFENSE FORCE 5 60410642 (*"the audio ducking and panning with dialog takes is distracting from the experience"*). |
+
+### `art.visual-direction`
+| Mode | | Definition |
+|---|---|---|
+| `.a-real-sense-of-scale` | **+** | The reviewer praises how big the world and its enemies feel - giant creatures, huge maps - as a strength of the look in itself. **Distinct from `game-design.level-design.the-spaces-are-scaled-too-big`**, which is a size that gets in the way of play. EARTH DEFENSE FORCE 5 63412690 (*"a truly awesome sense of scale"*, 50 helpful). |
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-sequel-restarts-the-story` | **−** | A sequel starts its story over - a new first invasion, a reset world - instead of carrying on from the last game, and the reviewer wishes it had moved forward. **Distinct from `.the-last-games-hero-is-left-out`**, which is about a character, not the timeline. EARTH DEFENSE FORCE 5 63075968 (*"I wish they hadn't gone backwards in the story"*). |
+
+🔑 **Round 546, EARTH DEFENSE FORCE 5 batch 4.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

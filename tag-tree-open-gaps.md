@@ -10838,3 +10838,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Split screen is praised as a feature** (4 of 50), and 56537819 asks whether anyone else cannot get it to work (`engineering.bugs.buggy`). For Dominion: players of this kind of game name local split screen as a plus - noted, not a decision.
 - **One long balance read:** 57143765 (203 h) says almost every vehicle is useless (`some-options-are-useless`), Dragon Lances are too strong (`something-needs-a-nerf`), and Fencer boost-plus-sprint wins 99% of the time (`one-option-dominates`), and that the tone is too serious (`takes-itself-too-seriously`) - the one voice against the cheese so far.
 
+## Notes - round 546 (EARTH DEFENSE FORCE 5 batch 4)
+
+50 read (2019-12-06 to 2020-02-21), 94 bullets on 50 reviews, none excluded, 4 edited later. Running total 200 of 1,768. 48 up / 2 down. **Three new modes** under Rule C: `audio.mixing.dialogue-ducks-the-other-sound` (-, 60410642; `findphrase "ducking"` found only an unrelated one-ear fault), `art.visual-direction.a-real-sense-of-scale` (+, 63412690, 50 helpful; `findphrase "sense of scale"` found nothing) and `narrative.story.the-sequel-restarts-the-story` (-, 63075968). Tree 1,625 -> 1,628. Lost-review check: order matched on the first diff; `--gaps` none. Done in a firing of the old 30-minute timer `d037394b`, which is still alive but no longer re-created.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.88, 30 of 50 reviews 15 words or fewer (28% unknown), 6 reviews over 60 words at 5.8 bullets each and 37 words per bullet.
+- **The two down reviews:** 62213906 (two hours; paid $35.99, worth about $20; too easy - barely hit in twelve missions; expects to be bored) and 63073836, whose text is only "laser aliens :)" (`thumb-contradicts-text`).
+- **Running counts at 200:** `successor-framing-accepted` 45 reviews, `cheesy-on-purpose` 16, `split-screen-is-offered` 6. 63371784 thinks 4.1 is the better game - the only EDF5 review on `successor-claim-backfired` so far.
+- **For Dominion:** 63077420 gives the clearest co-op design read so far - weapons are situational, you carry only a few, the four classes cover each other's weaknesses and support items (a laser pointer that guides everyone's missiles, healing dispensers, vehicles with gunner seats) shine in a group (`rewards-teamwork`); spawner towers split attention between a weak point and the horde (`pressure-feels-good`); dying keeps some pickups (`failing-still-pays-something`).
+

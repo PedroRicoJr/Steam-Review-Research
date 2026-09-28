@@ -1623,3 +1623,6 @@ game-design.game-feel.controls.vehicles-handle-badly | - | The player's own move
 game-design.modes.split-screen-is-offered | + | Two or more players can play on one screen in the same room, and the reviewer names that as a plus. **The posi
 game-design.ai-teammates.allied-soldiers-pull-their-weight | + | The mission fields the game's own allied soldiers - squads that fight beside the players, not bots standing in
 audio.voice-performance.weaker-than-the-last-game | - | The reviewer says the lines, songs or chants fall short of the previous game in the series. **Distinct from `.
+audio.mixing.dialogue-ducks-the-other-sound | - | When a line of dialogue plays, the game lowers or shifts the rest of the sound around it, and the reviewer fin
+art.visual-direction.a-real-sense-of-scale | + | The reviewer praises how big the world and its enemies feel - giant creatures, huge maps - as a strength of th
+narrative.story.the-sequel-restarts-the-story | - | A sequel starts its story over - a new first invasion, a reset world - instead of carrying on from the last ga
