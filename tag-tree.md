@@ -10195,6 +10195,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 536, Gunfire Reborn batch 35.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 1 - round 543 (Rule C)
+
+### `narrative.tone`
+| Mode | | Definition |
+|---|---|---|
+| `.cheesy-on-purpose` | **+** | The dialogue, voice acting and B-movie story are deliberately campy, and the reviewer enjoys the cheese as part of the charm - *"so bad it's hilarious"*. **Distinct from `.satire-lands`**, where the humour targets something real, and from **`narrative.characters-writing.funny-or-memorable`**, which is about the characters, not the whole register. EARTH DEFENSE FORCE 5 54257745 (*"Dialogue is intentionally cheesy in a 'so bad its hilarious' kind of way"*), 54119200, 54247838. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.solo-and-online-progress-are-separate` | **−** | Missions cleared alone do not count online (or the reverse), so the player must clear the same missions again to host them or to reach them with others. **Distinct from `.progress-does-not-carry-over`**, where work is wiped at a boundary, and from **`game-design.solo-viability.no-progression-solo`**, where solo earns nothing at all. EARTH DEFENSE FORCE 5 54505217 (*"single-player progress in the levels not counting toward multiplayer, so to start your own match on a specific level, you have to either play through it in someone else's match or go sequentially from the beginning"*). |
+
+### `engineering.matchmaking`
+| Mode | | Definition |
+|---|---|---|
+| `.room-limits-rule-out-most-games` | **−** | Public rooms carry level, difficulty and gear limits, so few rooms fit what the player has unlocked: too high and they cannot contribute, too low and their gear and loot are capped. **Distinct from `.slow-to-find-games`**, where games are scarce, and from **`.server-browser-tells-you-what-you-need`**, which praises the same list for being informative. EARTH DEFENSE FORCE 5 54505217 (*"going into a match that's too high means you're not going to be able to do much of anything. Matches too low will usually limit what you can use"*). |
+
+🔑 **Round 543, EARTH DEFENSE FORCE 5 batch 1.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

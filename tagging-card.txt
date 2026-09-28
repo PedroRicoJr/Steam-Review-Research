@@ -1616,3 +1616,6 @@ game-design.enemy-design.a-boss-is-a-damage-check | - | One boss must be killed 
 live-ops.abandonment.one-platform-was-left-behind | - | The studio keeps updating the game on one platform while the version on another has had no updates for a long 
 game-design.enemy-design.ordinary-enemies-turn-invulnerable | - | Regular or elite enemies - not bosses - spend stretches where they cannot be hurt, so the player waits them ou
 game-design.progression.achievements.full-completion-needs-paid-dlc | - | Some of the game's achievements can only be earned with a paid add-on, so a player who owns the base game cann
+narrative.tone.cheesy-on-purpose | + | The dialogue, voice acting and B-movie story are deliberately campy, and the reviewer enjoys the cheese as par
+game-design.progression.unlock-pace.solo-and-online-progress-are-separate | - | Missions cleared alone do not count online (or the reverse), so the player must clear the same missions again 
+engineering.matchmaking.room-limits-rule-out-most-games | - | Public rooms carry level, difficulty and gear limits, so few rooms fit what the player has unlocked: too high 

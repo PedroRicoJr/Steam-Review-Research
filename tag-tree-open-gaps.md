@@ -10808,3 +10808,13 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **GAMES-TODO:** row 10 of section 4; `planning/third-person-shooter-list.md` C17 marked WIP.
 - **Still parked for Rico:** rows 6 and 7 (OUTRIDERS, Darktide) wait, as recorded in `OPEN-WITH-RICO.md`.
 - **Next:** EARTH DEFENSE FORCE 5 batch 1 (50 reviews).
+
+## Notes - round 543 (EARTH DEFENSE FORCE 5 batch 1)
+
+50 read (2019-07-15 to 2019-08-07, the launch weeks), 98 bullets on 50 reviews, none excluded, 10 edited later. Running total 50 of 1,768. 46 up / 4 down. **Three new modes** under Rule C: `narrative.tone.cheesy-on-purpose` (7 reviews already), `unlock-pace.solo-and-online-progress-are-separate` and `engineering.matchmaking.room-limits-rule-out-most-games` (both 54505217); `findphrase` for "cheesy", "single player progress", "offline progress" and "item level" found no earlier home for them. Tree 1,618 -> 1,621 (two rows first went in with a hyphen for the minus sign and did not reach the card; fixed before the batch was written). Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 18:44 backstop firing (timer `d037394b` still alive).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.96, 19 of 50 reviews 15 words or fewer, 11 reviews over 60 words at 4.0 bullets each and **63 words per bullet** - two very long reviews (54505217, 54359787) lift it.
+- **A series game is judged against its predecessor.** 13 of 50 reviews compare it with EDF 4.1, filed on the existing `marketing.positioning.successor-framing-accepted` (+); one says the sequel changes too little (`the-sequel-changes-too-little`). No new mode was needed for that.
+- **The four down reviews:** 54119465 (12 dollars of DLC in a 60-dollar game - `content-behind-a-second-purchase`), 54118435 (frustrating parts; a seizure warning - `flashing-that-endangers-photosensitive-players`), 54246177 (freezes) and 54359787 (price, the same game again, bugs carried from 4.1).
+- **Launch stability:** 54118010 and 54246177 freeze (`freezes-or-hangs`), 54113167 crashes (fixed for them by a Ryzen BIOS update).
+- **For Dominion:** 54505217 (13 helpful, a curator) describes the co-op friction exactly - a room list with level and gear limits, and solo progress that does not count online - while two reviews say co-op itself "works flawlessly" (`smooth-online`). 54388685 warns that about half of hosts kick you for no reason (`the-host-can-remove-you-at-will`).
