@@ -10627,3 +10627,15 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **A 619-hour review:** 160609800 got 10 bullets - talents take too long to fill before the best difficulty modes open (`grindy`), some characters break Reincarnation more easily (`role-underpowered`), over three quarters of the quarterly content was free (`post-launch-content-is-free`), no joining a lobby after it starts (`cannot-join-a-match-in-progress`), seasonal modifiers keep it fresh (`random-rule-changes-welcome`), and the wonky translations are funny - the third review on `the-odd-wording-is-charming` (round 511).
 - **Monetisation praised:** 161870410 cheers cosmetics earned by play "without chests or rng" and "no way to buy them" (`no-microtransactions-at-all`).
 - **Loot per player:** 158306669 says loot is client-side, so nobody has to share (`loot-is-shared`) - a co-op design point for Dominion's four-player runs.
+
+## Notes - round 528 (Gunfire Reborn batch 27)
+
+50 read (2024-04-30 to 2024-07-15), 92 bullets on 49 reviews, 1 excluded (166361104, empty, written by hand first), 2 edited later. Running total 1,350 of 1,884 (4 excluded so far). 46 up / 3 down. No new mode; tree stays at 1,614. Lost-review check: all 49 on the first dry run; `--gaps` none. Done in the 03:44 backstop firing (timer re-created as `5fb65ebf`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.84, 26 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.1 bullets each and 28 words per bullet, 21% of bullets on an `.unknown`.
+- **The three down reviews:** 163933649 (the game is "pretty much dead" for matchmaking - `dead-game`), 165398098 (save deleted, back to level 1 - `progress-not-saved`) and 168616519 (71 helpful: "Absolutely disgusting that you can't reconnect to your own game session if someone DC's" - `cannot-rejoin-a-match`).
+- **Drop-and-rejoin, now 7 reviews:** 163927969 and 168616519 bring `cannot-rejoin-a-match` / `a-disconnect-loses-the-run` to 7 Gunfire Reborn reviews; 168616519 is the most-helpful down review in the game so far at 71.
+- **Saves lost, now 5 reviews on `progress-not-saved`:** 165398098 and 166360350 join; 166360350 flipped to up after support restored it (`support-put-things-right`).
+- **Slow start, now 12 reviews:** 165895972 (the "meat" opens only at Reincarnation after 3 wins) and 169961090 (out-of-run progression gates every new system) join.
+- **Seasons praised:** 165389850 and 166881400 praise the free seasonal updates whose mechanics stay playable afterwards; 166881400 also wants a sandbox to test builds (`no-place-to-test-a-build`) and reads the EULA as forbidding mods.
+- **A jab kept out:** 168616002 praises the studio for which staff it laid off, in political terms; not repeated, filed on `likes-the-people-running-the-studio`.
