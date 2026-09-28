@@ -67,6 +67,7 @@ GAMES = {
     # --- Rico, 2026-09-24/25: the action-roguelike list, closest to Dominion first ---
     "escape-from-duckov":    (3167020, 2025, 10),  # PvE extraction survival, released 2025-10-16
     "gunfire-reborn":        (1217060, 2020, 5),   # co-op roguelite shooter, Early Access from 2020-05, released 2021-11
+    "earth-defense-force-5": (1007040, 2019, 7),   # third-person sci-fi 4-player co-op PvE shooter, released 2019-07
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 

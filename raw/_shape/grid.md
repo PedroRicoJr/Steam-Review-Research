@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-09-27 01:45:50 UTC. Rebuild with `python build_grid.py`.
+Built 2026-09-28 17:45:59 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -26,6 +26,7 @@ Built 2026-09-27 01:45:50 UTC. Rebuild with `python build_grid.py`.
 | `deep-rock-galactic/spanish` | 103 | 8,308 | 2023-11 (438) |
 | `die-after-sunset/english` | 19 | 51 | 2022-02 (14) |
 | `drg-rogue-core/english` | 5 | 7,990 | 2026-05 (5,993) |
+| `earth-defense-force-5/english` | 87 | 7,208 | 2019-07 (679) |
 | `escape-from-duckov/english` | 12 | 11,004 | 2025-10 (4,060) |
 | `full-metal-schoolgirl/english` | 11 | 116 | 2025-10 (46) |
 | `gunfire-reborn/english` | 77 | 43,869 | 2021-11 (4,274) |
