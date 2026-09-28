@@ -10716,3 +10716,16 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Seasons with no FOMO, now 3 on `you-can-put-it-down-and-come-back`:** 203275687 says each season stays permanently and its rewards unlock any time; the same review says the Spiritual Assault mode has 2 maps, untouched since 2023, still short of its promised content (`a-system-was-left-half-finished`).
 - **Translation, now 25 on `reads-badly`:** 202204544 and 202719986 join.
 - **Slow start, now 19 reviews:** 204410221 joins.
+
+## Notes - round 535 (Gunfire Reborn batch 34)
+
+50 read (2025-10-14 to 2025-12-31), 99 bullets on 50 reviews, none excluded, 1 edited later. Running total 1,700 of 1,884 (6 excluded so far). 45 up / 5 down. One new mode, `enemy-design.ordinary-enemies-turn-invulnerable` (208603229: *"a lot of immortal enemies that just slow the pace of the game"*); `findphrase "immortal"` found only Redfall bug reports (vampires "randomly go immortal") and a game title. Tree 1,616 -> 1,617. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 10:44 backstop firing (timer re-created as `95986b2e`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.98, 26 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.2 bullets each and 25 words per bullet, 17% of bullets on an `.unknown`.
+- **The five down reviews:** 207418062 (91 helpful: the new update and DLC "added forced arbitration into their EULA" - `the-agreement-strips-buyer-rights`, its first use in this game), 208042954 (solo "unnecessarily punishing"; Risk of Rain 2 "a thousand times better"), 208603229 (high levels: projectiles through walls, invulnerable enemies, too many traps), 212757584 (looks 30 years old - `looks-dated`) and 213989401 (stutter even on character select).
+- **Movement, now 13 on `sluggish` and 5 on `no-modern-moves`:** 207412540 (the dash cooldown is deadly in boss fights without cover), 208083947 (poor movement unless the right scrolls roll) and 213327589 (wants to crouch) join.
+- **Round 531's mode, now 4:** 209837943 left the console version, which the publisher "still refuses to update... (no dlc still)".
+- **Free post-launch content, now 7 on `post-launch-content-is-free`:** 208034695 (the season battle pass is free and its rewards are kept) and 209293136 join. 208034695 also says each player gets their own loot, so strangers never fight over chests (`loot-is-shared`) - a point for Dominion's four-player runs.
+- **Solo punished, now 14 on `punishing-solo`:** 208042954 joins.
+- **Translation, now 27 on `reads-badly`:** 209268033 and 212727989 ("unsheathe sword forward"; huge text boxes) join.
+- **Curator plugs:** 207412540 and 207408774 link their curator pages (`promotes-the-reviewers-own-curator-page`); 207408774 reads like a store blurb.

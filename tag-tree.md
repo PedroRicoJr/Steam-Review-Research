@@ -10177,6 +10177,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 531, Gunfire Reborn batch 30.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 34 - round 535 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.ordinary-enemies-turn-invulnerable` | **−** | Regular or elite enemies - not bosses - spend stretches where they cannot be hurt, so the player waits them out instead of fighting and the pace drags. **Distinct from `.bosses-hide-behind-invulnerable-phases`**, which is the boss fight, and from **`.bullet-sponges`**, where damage lands and there is simply too much health to chew through. Gunfire Reborn 208603229 (*"a lot of immortal enemies that just slow the pace of the game"*). |
+
+🔑 **Round 535, Gunfire Reborn batch 34.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

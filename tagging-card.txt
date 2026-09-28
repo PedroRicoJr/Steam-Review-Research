@@ -1614,3 +1614,4 @@ art.effects-and-gore.no-gore-is-a-plus | + | The reviewer praises the absence of
 game-design.co-op-design.the-group-moves-on-before-you-can-choose | - | In co-op the others push on to the next wave or room while the player is still reading upgrades or planning a 
 game-design.enemy-design.a-boss-is-a-damage-check | - | One boss must be killed within a limit - a timer, an enrage, a phase that wipes the group - so a run that has 
 live-ops.abandonment.one-platform-was-left-behind | - | The studio keeps updating the game on one platform while the version on another has had no updates for a long 
+game-design.enemy-design.ordinary-enemies-turn-invulnerable | - | Regular or elite enemies - not bosses - spend stretches where they cannot be hurt, so the player waits them ou
