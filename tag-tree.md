@@ -10322,6 +10322,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 550, EARTH DEFENSE FORCE 5 batch 8.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 9 - round 551 (Rule C)
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.under-geared-players-join-the-hardest-games` | **−** | Players join the top difficulty with starting health or weapons, die at once and drag the group down, and the reviewer names this as a common problem. **Distinct from `.unskilled-or-careless`**, which is how someone plays, not what they bring, and from **`.a-strong-player-kills-everything-first`**, its opposite. EARTH DEFENSE FORCE 5 85167365 (*"it's absolutely laughable when we see people with the starting 150/200/250 health join Inferno games"*). |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.every-mission-starts-surrounded` | **−** | Mission after mission opens with the squad dropped into the middle of the enemy, already surrounded and expected, and the reviewer finds the set-up absurd or tiresome. **Distinct from `.repetitive-layouts`**, which is the places looking alike. EARTH DEFENSE FORCE 5 87945103 (*"deploy your squad in the middle of enemy territory, surrounded ... for pretty much every single level"*). |
+
+### `accessibility.phobia`
+| Mode | | Definition |
+|---|---|---|
+| `.the-reviewer-warns-phobic-players` | ~ | The reviewer, not troubled themselves, warns readers with a phobia - most often of spiders - that the game is full of it. **Distinct from `.i-could-not-play-it`**, where the reviewer is the one stopped. EARTH DEFENSE FORCE 5 87903503 (*"NOT for arachnophobes"*, 29 helpful). |
+
+🔑 **Round 551, EARTH DEFENSE FORCE 5 batch 9.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
