@@ -10150,6 +10150,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 521, Gunfire Reborn batch 20.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 25 - round 526 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-group-moves-on-before-you-can-choose` | **−** | In co-op the others push on to the next wave or room while the player is still reading upgrades or planning a build, so choices are made in a hurry or skipped. **Distinct from `.one-player-can-stall-everyone`**, the other side, where one player holds the group up. Gunfire Reborn 155504445 (*"you don't get the time to 'plan' your build because people are just moving to the next wave"*). |
+
+🔑 **Round 526, Gunfire Reborn batch 25.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -10606,3 +10606,14 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Melee for every character:** 146359081 is the third review on `one-playstyle-has-too-few-tools` (after 88026647 and 124722691).
 - **Reincarnation praised twice:** 148296531 and 148268332 say the Reincarnation tiers make it feel like a new game (`harder-adds-new-rules`), against 114300722 in round 518 who said the top tiers only scale numbers.
 - **A careful long review:** 148737732 (60 hours) praises balanced ascensions and scrolls and no hitscan enemies, but says the second half is too easy, some Bizarre Dream modifiers are too strong, and wants free rerolls.
+
+## Notes - round 526 (Gunfire Reborn batch 25)
+
+50 read (2023-11-30 to 2024-02-14), 79 bullets, 0 excluded, 3 edited later. Running total 1,250 of 1,884 (3 excluded so far). 48 up / 2 down. Tree 1,613 -> 1,614. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 01:44 backstop firing (timer re-created as `57ef417b`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.58, 32 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 4.0 bullets each and 24 words per bullet, 28% of bullets on an `.unknown`.
+- **One mode built (Rule C):** `co-op-design.the-group-moves-on-before-you-can-choose` (−, 155504445: "you don't get the time to 'plan' your build because people are just moving to the next wave"). `findphrase` on "no time to" and "moving to the next" found no earlier sighting of this kind.
+- **The two down reviews:** 152584180 (266 hours, edited 2024) says the game no longer works with a controller at all (`the-controller-does-not-work`); 154933719 says a downed player who is not picked up in time spectates for the rest of the run (`a-dead-player-spectates-until-the-next-checkpoint`).
+- **Translation, now 15 reviews:** 155504445, 157273483 ("you read a sentence, blink, and realize you have no idea what it's trying to say") and 157241088 bring `reads-badly` to 15 Gunfire Reborn reviews.
+- **Solo, now 10 on `punishing-solo`:** 153049916 and 156043513 join; 156043513 adds that some features are locked to the harder difficulties (`content-locked-to-harder-settings`).
+- **Turning off meta-progression:** 156635064 wants a toggle for permanent upgrades because a near-maxed talent page steamrolls when introducing a new player (`cannot-be-switched-off`) - relevant to mixed-level groups in Dominion.
