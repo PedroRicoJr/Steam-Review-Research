@@ -10639,3 +10639,16 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Slow start, now 12 reviews:** 165895972 (the "meat" opens only at Reincarnation after 3 wins) and 169961090 (out-of-run progression gates every new system) join.
 - **Seasons praised:** 165389850 and 166881400 praise the free seasonal updates whose mechanics stay playable afterwards; 166881400 also wants a sandbox to test builds (`no-place-to-test-a-build`) and reads the EULA as forbidding mods.
 - **A jab kept out:** 168616002 praises the studio for which staff it laid off, in political terms; not repeated, filed on `likes-the-people-running-the-studio`.
+
+## Notes - round 529 (Gunfire Reborn batch 28)
+
+50 read (2024-07-15 to 2024-09-30), 72 bullets on 49 reviews, 1 excluded (175575319, empty, written by hand first), 4 edited later. Running total 1,400 of 1,884 (5 excluded so far). 47 up / 2 down. No new mode; tree stays at 1,614. Lost-review check: all 49 on the first dry run; `--gaps` none. Done in the 04:44 backstop firing (timer re-created as `403765db`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.44, 35 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 3.8 bullets each, 43% of bullets on an `.unknown` - the highest share of any Gunfire Reborn batch so far, because 35 reviews are one-liners ("fun", "nice", "yup") with nothing to file but a verdict.
+- **The two down reviews:** 171592872 (too much chance for build crafting to matter, at most 8 enemy types per zone - `luck-decides-the-outcome`, `variety-lacking`) and 174405754 (slow movement next to Ziggurat, slow unlocks, the owner's treatment of staff, others' reports of multiplayer trouble since server changes).
+- **Drop-and-rejoin, now 8 reviews:** 171154399 describes a 2-hour run where a dropped player cannot reconnect and the slot cannot be refilled, with only a 60-second grace period; it says the forums asked often and were ignored (`ignores-feedback`), then flipped to up when patch notes said reconnecting was added (`the-thumb-will-flip-when-one-thing-is-fixed`).
+- **Servers moved, 2 reviews:** 173877091 says the studio dropped peer-to-peer for servers in Hong Kong and latency became horrible (`high-latency`, `got-worse-over-time`), with a Steam networking setting as a workaround; 174405754 relays the same change. For Dominion's listen server: the move away from player hosting is what drew the complaint.
+- **Prestige wished for:** 172173160 wants a prestige system to relive the early game or level again - filed on `nothing-left-to-chase`, the tag an Aliens: Fireteam Elite review used for "no prestiges".
+- **Slow start, now 13 reviews:** 174405754 joins.
+- **Checkbox template, the second in the game:** 173878571 (cute graphics, no story, grind not needed, worth the price, minor bugs).
+- **A name kept out:** 174405754 names the studio owner; the bullet says "the studio's owner".
