@@ -1357,3 +1357,67 @@ a game-only mode) sit.
 - **The non-English audience.** About 93,000 reviews, much of it Chinese; none pulled.
 
 ⚠️ **The corpus is now 25 games and 21,845 English summaries (22,607 in all languages).**
+
+## 22. ⭐ What the sixteenth large game adds - Gunfire Reborn, added 2026-09-28
+
+**A co-op (1-4) PvE roguelite shooter with a live season model, read from its first Early Access month
+to five years after release.** 1,884 of 43,869 English reviews, a 4.3% sample at ±2.51%, across 77 months
+(2020-05 to 2026-09, Early Access to five years after release); 93.9% up; 3,350 bullets, 1.78 per
+review; 357 distinct tags, **22 used by no other game; 26 modes built in the Gunfire Reborn blocks
+(rounds 504-536)**. Full read in `gunfire-reborn-english.md`, ranked lists in `gunfire-reborn.md`.
+
+**On the same count as section 21** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included):
+
+| | Deep Rock Galactic | Risk of Rain 2 | **Gunfire Reborn** | Escape from Duckov | Warframe | Helldivers 2 | ARC Raiders |
+|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 95.6% | **93.9%** | 90.9% | 89.9% | 83.3% | 79.7% |
+| Bullets per review | 2.12 | 1.43 | **1.78** | 1.92 | 2.01 | 1.79 | 1.56 |
+| Praise per 100 | 175.9 | 104.9 | **130.0** | 134.6 | 127.3 | 108.0 | 86.8 |
+| Complaint per 100 | 23.7 | 18.0 | **33.1** | 40.4 | 50.9 | 55.5 | 56.7 |
+| Praise to complaint | 7.4 : 1 | 5.8 : 1 | **3.9 : 1** | 3.3 : 1 | 2.5 : 1 | 1.95 : 1 | 1.53 : 1 |
+
+### 🔑 The finding: translation is a cost no other game in the corpus pays
+
+`reads-badly` is **36 reviews, 1.9 per 100 - the top complaint here and ten times the next game**
+(Escape from Duckov 0.2, Terminull Brigade 0.1, Back 4 Blood 0.1; reviews carrying the tag per 100
+kept English reviews, groups of 300 or more; four small groups under 120 reviews each have one
+review on it, 0.9 to 1.3 per 100). It grows with the game: 7 reviews in Early Access, 20 in
+2025-26, as each update brings new text; the late reviews say the new season text is the worst, and
+that item descriptions run *"at least 3 lines long"* (230540835). **For Dominion: any system that asks the player to read
+upgrade text mid-run needs its English checked at every update, not once.**
+
+### Friends, and a live service that does not punish absence
+
+- `much-better-with-friends` is **9.6 per 100**, fourth in the corpus behind Aliens: Fireteam Elite
+  (10.4), Deep Rock Galactic (10.1) and Remnant II (10.1).
+- `steady-stream` of updates is **3.9 per 100, the highest in the corpus** (Warframe 3.6, Deep Rock
+  Galactic 3.2).
+- **Seasons that stay playable and can be finished later** are praised in 6 reviews
+  (`you-can-put-it-down-and-come-back`), and `one-platform-was-left-behind` (6, game-only) is the
+  other side: the console version kept without the seasons and DLC.
+
+### The slow start is the same complaint as Warframe's
+
+`slow-start` is **1.2 per 100, the highest in the corpus**, just ahead of Warframe (1.1). Both games
+put the meta progression before the fun build; both get praised for the build once it arrives.
+
+### Three things this game says about samples and the tree
+
+1. **A long life shows a slow slide the launch months hide.** Complaints per 100 go 20.9, 28.5, 36.1,
+   46.3 across four periods, while praise per 100 stays between 76.6 and 105.3. **A game read only in
+   its first year would miss the three late clusters** - translation, movement, population.
+2. **Outside events arrive late, too.** AI-made art (5 reviews, all 2026-05 to 2026-09; the only other
+   game on the tag is ARC Raiders, with 1) and a user-agreement clause (one review, 91 helpful) are
+   2025-26 events. The monthly thumb needs the round notes beside it, as section 21 found.
+3. **Very short reviews cap what a batch can build.** 60% of reviews are 15 words or fewer; 26 modes in
+   38 batches is about 0.7 a batch, against about 2 for Escape from Duckov and 2.4 for Warframe.
+
+### What this game does NOT settle
+
+- **Third-person feel.** It is first person; movement complaints here are about speed and missing moves,
+  not the camera.
+- **Extraction or PvP.** It has neither.
+- **The non-English audience.** About 60,000 reviews in other languages; none pulled.
+
+⚠️ **The corpus is now 26 games and 23,729 English summaries (24,491 in all languages).**

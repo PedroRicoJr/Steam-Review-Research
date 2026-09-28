@@ -10788,3 +10788,12 @@ Wrote `findings/gunfire-reborn-english.md`. No review read, no tag changed; tree
 - **Checked before commit:** the Roboquest line was softened to "all thumbs up, usually as the closest rival" (9 reviews, 0 down); the co-op praise range corrected to 7.1-11.6 per 100; game-only modes used once corrected to 11 of 22.
 - **Limit recorded on the page:** later batches were read in this session; a reader drift towards the movement and population tags late on cannot be ruled out from the data alone.
 - **Next unit:** `findings/gunfire-reborn.md` and the cross-game section, then GAMES-TODO row 9 Done.
+
+## Notes - round 541 (Gunfire Reborn findings - master page and cross-game section 22)
+
+Wrote `findings/gunfire-reborn.md` and `findings/cross-game.md` section 22; `GAMES-TODO.md` row 9 and A18 on `planning/action-roguelike-list.md` marked Done. No review read, no tag changed; tree stays at 1,618. Counts from `scripts/findings_tables.py gunfire-reborn/english --top 25` and a script over every English group's summaries (reviews carrying a tag per 100 kept reviews). Done in the 16:44 backstop firing (timer re-created as `b266966e`).
+
+- **Cross-game:** `reads-badly` 1.9 per 100 against 0.2 for the next group of 300 or more (Escape from Duckov); four small groups under 120 reviews have one review each on it (0.9 to 1.3). `steady-stream` 3.9 and `slow-start` 1.2 are the corpus highs; `much-better-with-friends` 9.6 is fourth.
+- **Checked before commit:** "the longest read in months" and "the first co-op roguelite with seasons" were removed as unverified; a guess that text volume, not the studio's origin, explains the translation gap was replaced with the reviews' own words; the "ten times" line now names the 300-review floor.
+- **Corpus:** 26 games, 23,729 English summaries, 24,491 in all languages (counted by script, stats files excluded).
+- **Next unit:** the next game from `planning/`, closest to Dominion first, picked and recorded with its reason.
