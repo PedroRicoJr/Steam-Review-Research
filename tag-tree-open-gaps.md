@@ -10755,3 +10755,16 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Seasons, now 5 on `you-can-put-it-down-and-come-back`:** 225509671 ("you can play the Modi of old Seasons") joins.
 - **Sharing in co-op:** 223278780 (568 hours) calls it "the BEST co-op roguelite out there. You can share nearly everything except for cash" (`loot-is-shared`).
 - **A jab kept out:** 223867609 adds political slogans after its praise; not repeated.
+
+## Notes - round 538 (Gunfire Reborn batch 37)
+
+50 read (2026-05-28 to 2026-08-15), 94 bullets on 50 reviews, none excluded, 1 edited later. Running total 1,850 of 1,884 (6 excluded so far); 34 left for the last batch. 45 up / 5 down. No new mode; tree stays at 1,618. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 13:44 backstop firing (timer re-created as `734bd72e`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.88, 28 of 50 reviews 15 words or fewer, 6 reviews over 60 words at 5.2 bullets each and 44 words per bullet, 18% of bullets on an `.unknown`.
+- **The five down reviews:** 226859110 (14 helpful: "Undisclosed AI art use, in emoticons and promo material" - `refuses-a-game-made-with-generative-ai`), 229889333 (too slow and easy, no enemy variety, and AI rumours "a huge dealbreaker"), 228583367 (the pink rabbit character reads as oddly sexualised next to the later female characters - `the-cast-is-built-to-titillate`), 227398570 ("Lagfest") and 232233747 ("where is the console updates?").
+- **Generative AI, 2 reviews:** 226859110 and 229889333 are the first Gunfire Reborn reviews on `refuses-a-game-made-with-generative-ai`, both in mid-2026. For Dominion: undisclosed AI art costs a thumbs-down even from players who like the game.
+- **Movement, now 9 on `no-modern-moves`:** 228580304 (the dodge "rarely gets you out of harms way") and 230540835 ("You can jump and dash, that is it, not even a sprint") join; 230540835 adds that the slow movement seems to be what keeps simple enemies dangerous.
+- **Round 531's mode, now 5:** 232233747 joins `one-platform-was-left-behind`.
+- **Too few levels, now 15 on `content-amount.too-little`:** 229878793 ("only 4 environments") and 231103328 ("4 static levels, each have one if two bosses") join.
+- **Roboquest as the yardstick:** 230540835 ranks it "right up there beside the almighty Roboquest"; 231115777 recommends Roboquest over it but credits Gunfire's four-player co-op (`beaten-by-a-competitor`, now 6); 231103328 calls it Roboquest "withiut the parkour and with much much more depth".
+- **Translation, now 33 on `reads-badly`:** 229878793 and 230540835 join; 230540835 notes player-made translation packs that mostly cover only the base game (`mods-are-expected-to-fill-the-gaps`); 229249344 says some text stays in Chinese whatever the language setting (`translation-quality.partial`).
