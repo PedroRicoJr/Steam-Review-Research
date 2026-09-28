@@ -10873,3 +10873,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 350:** `successor-framing-accepted` 59 reviews, `cheesy-on-purpose` 34, `a-game-you-can-unwind-to` 18 ("mindless fun"), `successor-claim-backfired` 3.
 - **For Dominion:** 74702996 (5 helpful) explains why locking the top difficulties until the first clear works - by then the player's weapons and armour have grown to match; 76255489 rarely feels cheated by a death (`losses-feel-earned`) but finds hunting guns for a playstyle a grind.
 
+## Notes - round 550 (EARTH DEFENSE FORCE 5 batch 8)
+
+50 read (2020-10-14 to 2020-12-30), 108 bullets on 50 reviews, none excluded, 7 edited later. Running total 400 of 1,768. 48 up / 2 down. **Two new modes** under Rule C: `engineering.platform-support.remote-play-turns-local-co-op-online` (+, 78030463 and 82981092; `findphrase "remote play"` found nothing) and `game-design.progression.build-and-customisation.tools-combine-into-your-own-tactics` (+, 78453105, 13 helpful - a bike loaded with sticky explosives driven into a shield bubble; the reviewer's own name for it is left out). Tree 1,635 -> 1,637. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 22:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.16, 26 of 50 reviews 15 words or fewer (21% unknown), 12 reviews over 60 words at 4.7 bullets each and 42 words per bullet.
+- **The two down reviews:** 77585706 (calls it great, but not worth it for owners of earlier EDF games unless on sale - `the-sequel-changes-too-little`, now 6) and 81702098 (hard freezes 60-70% of the time - `freezes-or-hangs`).
+- **Running counts at 400:** `successor-framing-accepted` 64 reviews, `cheesy-on-purpose` 42, `weaker-than-the-last-game` 5, `a-favourite-from-the-last-game-is-missing` 3.
+- **For Dominion:** 82299159 (the longest in the batch) counts what 100% costs - every class on every difficulty, at least 1,320 missions (`only-repetition-completes-the-set`) - and that levelling weapons by duplicates adds grind; it also praises huge maps with no mid-mission loading and 100+ units at once on modest hardware. 78453105 argues against "mindless": the radio chatter carries the story and players shape each mission's rhythm with tactics (`asks-you-to-think`).
+

@@ -1633,3 +1633,5 @@ game-design.modes.split-screen-cannot-go-online | - | The game offers split scre
 game-design.world-interaction.no-button-prompts-stand-in-for-play | + | The reviewer names the **absence** of quick-time events or scripted button prompts as a plus - everything is d
 game-design.difficulty-tuning.the-top-settings-are-earned-by-finishing | + | The highest difficulties open only after the game is finished once, and the reviewer approves - by then the pl
 production.craftsmanship.the-rough-edges-are-part-of-the-charm | + | The reviewer says the game is unpolished in places and that the roughness is part of why they like it - more p
+engineering.platform-support.remote-play-turns-local-co-op-online | + | The platform's streaming feature (Steam Remote Play Together) sends the game's local split-screen co-op to a f
+game-design.progression.build-and-customisation.tools-combine-into-your-own-tactics | + | The weapons, vehicles and gear can be put together in ways the game never spells out, and the reviewer names i

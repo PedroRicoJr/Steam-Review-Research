@@ -10308,6 +10308,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 549, EARTH DEFENSE FORCE 5 batch 7.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 8 - round 550 (Rule C)
+
+### `engineering.platform-support`
+| Mode | | Definition |
+|---|---|---|
+| `.remote-play-turns-local-co-op-online` | **+** | The platform's streaming feature (Steam Remote Play Together) sends the game's local split-screen co-op to a friend elsewhere, so only one person needs a copy to play together. **Distinct from `publishing.dlc-and-editions.one-copy-covers-the-group`**, which is the studio's own licensing of add-ons. EARTH DEFENSE FORCE 5 78030463 (*"Steam friend streaming so only 1 person needs a copy to play 2P co-op"*), 82981092. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.tools-combine-into-your-own-tactics` | **+** | The weapons, vehicles and gear can be put together in ways the game never spells out, and the reviewer names inventing such a plan as a highlight - it works because the systems allow it. **Distinct from `.deep-and-varied`**, which praises how much there is to choose, not what players build out of it. EARTH DEFENSE FORCE 5 78453105 (13 helpful - a bike packed with sticky explosives driven into an enemy's shield bubble). |
+
+🔑 **Round 550, EARTH DEFENSE FORCE 5 batch 8.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
