@@ -10261,6 +10261,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 546, EARTH DEFENSE FORCE 5 batch 4.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 5 - round 547 (Rule C)
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.more-of-the-same-is-the-point` | **+** | The reviewer says a series entry is the same game as the ones before and names that sameness as what they want from it, so they keep buying. **The positive side of `.the-sequel-changes-too-little`**, which holds the same sameness against the game, and **distinct from `.successor-framing-accepted`**, which praises what changed. EARTH DEFENSE FORCE 5 66163538 (*"Is this the same damn game they've released from the very first EDF? ... And I LOVE IT!"*), 66853608. |
+
+### `game-design.solo-viability`
+| Mode | | Definition |
+|---|---|---|
+| `.some-missions-need-online-play` | **−** | Part of the mission list is offered only when playing online, so a player who plays alone offline never sees it. **Distinct from `.some-rewards-need-a-second-player`**, which is a reward that needs another person in the room, and from `engineering.access.requires-internet`, where the whole game needs a connection. EARTH DEFENSE FORCE 5 67702408 (*"solo cuts out some of the missions"*). |
+
+🔑 **Round 547, EARTH DEFENSE FORCE 5 batch 5.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

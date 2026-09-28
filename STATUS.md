@@ -10,7 +10,7 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | Active loop | `loops/active/2026-09-24-backlog-warframe-duckov.md` |
 | Cadence | **every 30 minutes** (Rico, 2026-09-25: the cloud-session credit pays for it, about $1 a firing). Re-create the timer as `7,37 * * * *`. **Standing order: run forever, never stop to ask - park decisions in OPEN-WITH-RICO.md.** |
 | In-session timer | **Not re-created** (Rico, 2026-09-28: the hourly Routine alone sets the pace). The old job `d037394b` (`7,37 * * * *`) is left to die with the session; if `CronList` is empty, carry on without it. |
-| Backstop | Routine `trig_01Va8fnQYvp4XU9rzChSjVaf`, hourly at :44 |
+| Backstop | Routine `trig_01Va8fnQYvp4XU9rzChSjVaf`, hourly at :44 - now the only timer; renamed "Steam review research - hourly loop" and its prompt no longer asks to re-create the in-session timer (round 547) |
 
 ## Where it stands
 
@@ -18,13 +18,13 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-27 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Gunfire Reborn (Escape from Duckov finished in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 546: EARTH DEFENSE FORCE 5 batch 4, 50 reviews, 3 new modes (200 of 1,768) |
-| Next unit | EARTH DEFENSE FORCE 5 batch 5: the next **50** (`python summarise.py next --group earth-defense-force-5/english --n 50`) |
+| Last unit done | Round 547: EARTH DEFENSE FORCE 5 batch 5, 50 reviews, 2 new modes (250 of 1,768) |
+| Next unit | EARTH DEFENSE FORCE 5 batch 6: the next **50** (`python summarise.py next --group earth-defense-force-5/english --n 50`) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
-| Tree | 1,628 tags |
+| Tree | 1,630 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
 | Escape from Duckov | **Done** 2026-09-27 - 1,166 of 1,166 read; `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md`, cross-game section 21 |
 | Gunfire Reborn | pulled 2026-09-27: 1,884 reviews (+/-2.51%); 1,884 read (all); **Done** - findings written 2026-09-28 |
-| EARTH DEFENSE FORCE 5 | pulled 2026-09-28: 1,768 reviews (+/-2.58%); 200 read; next is batch 5 (50) |
+| EARTH DEFENSE FORCE 5 | pulled 2026-09-28: 1,768 reviews (+/-2.58%); 250 read; next is batch 6 (50) |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

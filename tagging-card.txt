@@ -1626,3 +1626,5 @@ audio.voice-performance.weaker-than-the-last-game | - | The reviewer says the li
 audio.mixing.dialogue-ducks-the-other-sound | - | When a line of dialogue plays, the game lowers or shifts the rest of the sound around it, and the reviewer fin
 art.visual-direction.a-real-sense-of-scale | + | The reviewer praises how big the world and its enemies feel - giant creatures, huge maps - as a strength of th
 narrative.story.the-sequel-restarts-the-story | - | A sequel starts its story over - a new first invasion, a reset world - instead of carrying on from the last ga
+marketing.positioning.more-of-the-same-is-the-point | + | The reviewer says a series entry is the same game as the ones before and names that sameness as what they want
+game-design.solo-viability.some-missions-need-online-play | - | Part of the mission list is offered only when playing online, so a player who plays alone offline never sees i
