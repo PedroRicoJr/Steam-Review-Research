@@ -10855,3 +10855,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 250:** `successor-framing-accepted` 49 reviews, `cheesy-on-purpose` 22, `memorable-lines` 9 (the infantry song and "they're just like us" quoted again - 64126442 has 94 helpful), `split-screen-is-offered` 7, `weaker-than-the-last-game` 3 (the song and the Air Raider's lines).
 - **For Dominion:** 63747346 lays out a difficulty ladder players like - lower it or replay with stronger guns when stuck, raise it or play solo online for tougher monsters (`well-graded`); 67702408 says the later difficulties change the missions themselves (`harder-adds-new-rules`) and that the quick-chat button is used to sing together (`useless-actions-players-love`).
 
+## Notes - round 548 (EARTH DEFENSE FORCE 5 batch 6)
+
+50 read (2020-05-06 to 2020-07-23), 113 bullets on 50 reviews, none excluded, 1 edited later. Running total 300 of 1,768. 50 up / 0 down. **Three new modes** under Rule C: `production.content-amount.a-favourite-from-the-last-game-is-missing` (-, 69682792, the old giant robots), `game-design.modes.split-screen-cannot-go-online` (-, 73144113) and `game-design.world-interaction.no-button-prompts-stand-in-for-play` (+, 70042709 - the positive twin of `a-button-prompt-stands-in-for-play`, which `findphrase "quick time"` found holding three complaints). Tree 1,630 -> 1,633. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 20:45 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.26, 27 of 50 reviews 15 words or fewer (25% unknown), 12 reviews over 60 words at 5.5 bullets each and 28 words per bullet.
+- **Running counts at 300:** `successor-framing-accepted` 54 reviews, `cheesy-on-purpose` 28, `split-screen-is-offered` 8, `successor-claim-backfired` 2.
+- **The balance critic:** 72254930 (thumb up) says it is probably the best EDF yet would still pick 4.1: the Ranger is sidelined (`role-underpowered`), the Air Raider's vehicles and lock-on missiles are weak (`some-options-are-useless`), weapons were weakened while enemies grew (`challenge-outgrows-the-player`), so fewer styles work (`only-a-few-builds-are-viable`) - and suspects stronger weapons were held for DLC (`worried-paid-extras-will-come`).
+- **For Dominion:** 73136285 recommends playing with two or three friends who each take a different class (`rewards-teamwork`); 70042709 names strategy and gear choice as the core (`asks-you-to-think`) and the squad singing mid-fight as the moment that makes it.
+

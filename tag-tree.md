@@ -10275,6 +10275,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 547, EARTH DEFENSE FORCE 5 batch 5.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 6 - round 548 (Rule C)
+
+### `production.content-amount`
+| Mode | | Definition |
+|---|---|---|
+| `.a-favourite-from-the-last-game-is-missing` | **−** | A sequel leaves out a weapon, vehicle, enemy or feature the reviewer liked in the previous game, and they miss it. **Distinct from `narrative.story.the-last-games-hero-is-left-out`**, which is a character, and from `live-ops.patch-quality.removed-a-feature`, where a patch took something out of the same game. EARTH DEFENSE FORCE 5 69682792 (*"I wish they would have included the old giant robots"*). |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.split-screen-cannot-go-online` | **−** | The game offers split screen, but the players sharing a screen cannot join online games together, so a couch pair cannot play with friends elsewhere. **The limit on `.split-screen-is-offered`.** EARTH DEFENSE FORCE 5 73144113 (*"split-screen players can't join online games"*). |
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.no-button-prompts-stand-in-for-play` | **+** | The reviewer names the **absence** of quick-time events or scripted button prompts as a plus - everything is done by actually playing. **The positive side of `.a-button-prompt-stands-in-for-play`.** EARTH DEFENSE FORCE 5 70042709 (*"There's no quick-timing"*). |
+
+🔑 **Round 548, EARTH DEFENSE FORCE 5 batch 6.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
