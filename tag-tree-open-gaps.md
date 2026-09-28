@@ -10617,3 +10617,13 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Translation, now 15 reviews:** 155504445, 157273483 ("you read a sentence, blink, and realize you have no idea what it's trying to say") and 157241088 bring `reads-badly` to 15 Gunfire Reborn reviews.
 - **Solo, now 10 on `punishing-solo`:** 153049916 and 156043513 join; 156043513 adds that some features are locked to the harder difficulties (`content-locked-to-harder-settings`).
 - **Turning off meta-progression:** 156635064 wants a toggle for permanent upgrades because a near-maxed talent page steamrolls when introducing a new player (`cannot-be-switched-off`) - relevant to mixed-level groups in Dominion.
+
+## Notes - round 527 (Gunfire Reborn batch 26)
+
+50 read (2024-02-14 to 2024-04-30), 78 bullets, 0 excluded, 4 edited later. Running total 1,300 of 1,884 (3 excluded so far). 48 up / 2 down. No new mode; tree stays at 1,614. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 02:44 backstop firing (timer re-created as `911b9a31`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.56, 34 of 50 reviews 15 words or fewer, 4 reviews over 60 words at 5.0 bullets each and 26 words per bullet, 31% of bullets on an `.unknown`.
+- **The two down reviews:** 160581910 ("It's too slow" - `sluggish`) and 161270802 (instant death 30 minutes into a run - `one-hit-kills`).
+- **A 619-hour review:** 160609800 got 10 bullets - talents take too long to fill before the best difficulty modes open (`grindy`), some characters break Reincarnation more easily (`role-underpowered`), over three quarters of the quarterly content was free (`post-launch-content-is-free`), no joining a lobby after it starts (`cannot-join-a-match-in-progress`), seasonal modifiers keep it fresh (`random-rule-changes-welcome`), and the wonky translations are funny - the third review on `the-odd-wording-is-charming` (round 511).
+- **Monetisation praised:** 161870410 cheers cosmetics earned by play "without chests or rng" and "no way to buy them" (`no-microtransactions-at-all`).
+- **Loot per player:** 158306669 says loot is client-side, so nobody has to share (`loot-is-shared`) - a co-op design point for Dominion's four-player runs.
