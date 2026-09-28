@@ -10779,3 +10779,12 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Round 531's mode, now 6:** 233542031 left Xbox for Steam because the Xbox version "has had no new dlc and last i checked even the seasons weren't a thing".
 - **235815154, the fullest review of the batch:** a guaranteed core upgrade at the end of every floor as "the REAL golden piece of game design" for pacing (`satisfying-progression`), combos that turn a weapon's downside into a strength (`changes-how-you-play`), shared upgrades in co-op (`loot-is-shared`), seasons all replayable (`you-can-put-it-down-and-come-back`), and one wish: a higher base move speed (`sluggish`, now 15).
 - **Game-wide tallies to carry into the findings (computed by grep on `raw/gunfire-reborn/english/summaries`):** `reads-badly` 36 reviews, `unlock-pace.slow-start` 22, `movement.sluggish` 15, `beaten-by-a-competitor` 7.
+
+## Notes - round 540 (Gunfire Reborn findings - English page)
+
+Wrote `findings/gunfire-reborn-english.md`. No review read, no tag changed; tree stays at 1,618. Every count on the page is from `scripts/findings_tables.py` (with the four periods EA 2020-05 to 2021-10, 1.0 and 2022, 2023-24, 2025-26), `count.py --group gunfire-reborn/english` (rebuilt the 77 month stats files and the group file), `scripts/steam_counts.py 1217060` (release 2021-11-17, 103,744 reviews, 93%, 43,871 English on 2026-09-28) or a grep of the summaries. Done in the 15:44 backstop firing (timer re-created as `a02d8194`).
+
+- **Headline:** complaints per 100 reviews rise from 20.9 in Early Access to 46.3 in 2025-26 and the thumb from 97.9% to 88.8%; three clusters carry it - translation (7 -> 20 reviews), movement (3 -> 14), too few players (2 -> 10).
+- **Checked before commit:** the Roboquest line was softened to "all thumbs up, usually as the closest rival" (9 reviews, 0 down); the co-op praise range corrected to 7.1-11.6 per 100; game-only modes used once corrected to 11 of 22.
+- **Limit recorded on the page:** later batches were read in this session; a reader drift towards the movement and population tags late on cannot be ruled out from the data alone.
+- **Next unit:** `findings/gunfire-reborn.md` and the cross-game section, then GAMES-TODO row 9 Done.
