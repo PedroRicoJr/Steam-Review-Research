@@ -1620,3 +1620,6 @@ narrative.tone.cheesy-on-purpose | + | The dialogue, voice acting and B-movie st
 game-design.progression.unlock-pace.solo-and-online-progress-are-separate | - | Missions cleared alone do not count online (or the reverse), so the player must clear the same missions again 
 engineering.matchmaking.room-limits-rule-out-most-games | - | Public rooms carry level, difficulty and gear limits, so few rooms fit what the player has unlocked: too high 
 game-design.game-feel.controls.vehicles-handle-badly | - | The player's own movement and shooting feel fine, but driving or piloting the game's vehicles is clumsy - they
+game-design.modes.split-screen-is-offered | + | Two or more players can play on one screen in the same room, and the reviewer names that as a plus. **The posi
+game-design.ai-teammates.allied-soldiers-pull-their-weight | + | The mission fields the game's own allied soldiers - squads that fight beside the players, not bots standing in
+audio.voice-performance.weaker-than-the-last-game | - | The reviewer says the lines, songs or chants fall short of the previous game in the series. **Distinct from `.

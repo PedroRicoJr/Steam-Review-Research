@@ -10223,6 +10223,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 544, EARTH DEFENSE FORCE 5 batch 2.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 3 - round 545 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.split-screen-is-offered` | **+** | Two or more players can play on one screen in the same room, and the reviewer names that as a plus. **The positive side of `.expected-mode-missing`** when split screen is what was missing, and **distinct from `community.playing-with-friends.fills-in-for-couch-co-op`**, where an online game stands in for the couch rather than offering it. EARTH DEFENSE FORCE 5 57614455 (*"Even has the option of couch co-op"*), 58791898 (*"Best Couch-COOP game of all time"*). |
+
+### `game-design.ai-teammates`
+| Mode | | Definition |
+|---|---|---|
+| `.allied-soldiers-pull-their-weight` | **+** | The mission fields the game's own allied soldiers - squads that fight beside the players, not bots standing in for a missing player - and the reviewer says they do real work. **Distinct from `.helps-in-combat`**, which is about bots filling a player's slot. EARTH DEFENSE FORCE 5 59454992 (*"The AI troops aren't totally worthless and can take down a huge monster or two!"*). |
+
+### `audio.voice-performance`
+| Mode | | Definition |
+|---|---|---|
+| `.weaker-than-the-last-game` | **−** | The reviewer says the lines, songs or chants fall short of the previous game in the series. **Distinct from `.grating-or-repetitive`**, which is lines wearing out through repetition whatever the last game did. EARTH DEFENSE FORCE 5 56723623 (*"Still sad about the new song not being better than the old one"*). |
+
+🔑 **Round 545, EARTH DEFENSE FORCE 5 batch 3.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
