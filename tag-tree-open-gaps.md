@@ -10652,3 +10652,18 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Slow start, now 13 reviews:** 174405754 joins.
 - **Checkbox template, the second in the game:** 173878571 (cute graphics, no story, grind not needed, worth the price, minor bugs).
 - **A name kept out:** 174405754 names the studio owner; the bullet says "the studio's owner".
+
+## Notes - round 530 (Gunfire Reborn batch 29)
+
+50 read (2024-09-30 to 2024-12-15), 102 bullets on 50 reviews, none excluded, 1 edited later. Running total 1,450 of 1,884 (5 excluded so far). 47 up / 3 down. One new mode, `enemy-design.a-boss-is-a-damage-check` (178130687: *"one is a DPS CHECK (this alone has killed so many of my runs)"*); `findphrase "dps check"` found no earlier sighting. Tree 1,614 -> 1,615. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 05:44 backstop firing (timer re-created as `0c4b5123`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.04, 28 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.7 bullets each and 32 words per bullet, 17% of bullets on an `.unknown`.
+- **The three down reviews:** 178068100 (a one-line insult), 182132431 (solo still runs through an online-hosted session, so bad internet breaks it - `requires-internet`; balanced for groups - `punishing-solo`; laggy netcode; janky - `shipped-broken`) and 178523682 (edited in 2026-07 to say the moved servers made the game "basically unplayable").
+- **178523682 in detail:** effects that "rival" Battleborn bury the screen in warnings and fire (`threats-unclear`), enemies slide, run through the player and snipe from the back (`ranged-enemies-hit-you-from-anywhere-while-you-are-swarmed`), a dead co-op player gets no loot and must be bought back at a peddler (`dying-costs-you-money`), a season's random enemy pets block shots (`random-rule-changes-frustrating`), and "the more that's added the harder it becomes to recommend" (`drifted-from-its-original-idea`). For Dominion: a four-player shooter where effects stack from every player needs the threats to stay readable.
+- **Servers moved, now 3 reviews on `got-worse-over-time`:** 178523682 joins 173877091 and 174405754 (round 529); it also names 250+ ping on three games in four (`high-latency`, now 2).
+- **Drop-in wanted, now 3 on `cannot-join-a-match-in-progress`:** 179561786 (13 helpful: "Can never ever find an online game!", wants Deep Rock Galactic's join-in-progress and a choice of higher-ping servers) and 182172936 join.
+- **Solo punished, now 12 on `punishing-solo`:** 178130687 and 182132431 join.
+- **Slow start, now 15 reviews:** 176105852 and 179037153 (8-10 hours on one character before passing the second boss) join.
+- **DLC stronger than the base game, now 4 across `power-creep` and `add-ons-outshine-the-base-game`:** 177598095 and 182172404 join.
+- **Updates that made it worse, now 4 on `made-it-worse`:** 176554300 (a 771-hour veteran: fewer bonus stages, more boss stages, a changed feel) and 181170090 (season zero is still the best way to play) join.
+- **One skill wins, now 10 on `one-option-dominates`:** two jokes - 179050416 ("clicked q alot and win") and 181159374 ("sit in corner spamming i win").

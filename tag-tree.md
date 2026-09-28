@@ -10159,6 +10159,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 526, Gunfire Reborn batch 25.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 29 - round 530 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-boss-is-a-damage-check` | **−** | One boss must be killed within a limit - a timer, an enrage, a phase that wipes the group - so a run that has not built enough damage ends there however well it is played. **Distinct from `.bullet-sponges`**, where the fight is long and still winnable, and from **`.a-boss-needs-one-setup`**, which asks for one particular team or gear rather than enough damage from any build. Gunfire Reborn 178130687 (*"one is a DPS CHECK (this alone has killed so many of my runs)"*). |
+
+🔑 **Round 530, Gunfire Reborn batch 29.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1612,3 +1612,4 @@ marketing.reputation.the-studio-treats-its-staff-badly | - | The reviewer report
 game-design.progression.build-and-customisation.too-few-weapon-slots | - | The player can carry fewer weapons than the game's systems call for - fewer slots than elements or ammo types,
 art.effects-and-gore.no-gore-is-a-plus | + | The reviewer praises the absence of blood and gore - enemies vanish or fall without viscera. **The other side 
 game-design.co-op-design.the-group-moves-on-before-you-can-choose | - | In co-op the others push on to the next wave or room while the player is still reading upgrades or planning a 
+game-design.enemy-design.a-boss-is-a-damage-check | - | One boss must be killed within a limit - a timer, an enrage, a phase that wipes the group - so a run that has 
