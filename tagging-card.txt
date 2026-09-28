@@ -1631,3 +1631,5 @@ game-design.solo-viability.some-missions-need-online-play | - | Part of the miss
 production.content-amount.a-favourite-from-the-last-game-is-missing | - | A sequel leaves out a weapon, vehicle, enemy or feature the reviewer liked in the previous game, and they miss
 game-design.modes.split-screen-cannot-go-online | - | The game offers split screen, but the players sharing a screen cannot join online games together, so a couch p
 game-design.world-interaction.no-button-prompts-stand-in-for-play | + | The reviewer names the **absence** of quick-time events or scripted button prompts as a plus - everything is d
+game-design.difficulty-tuning.the-top-settings-are-earned-by-finishing | + | The highest difficulties open only after the game is finished once, and the reviewer approves - by then the pl
+production.craftsmanship.the-rough-edges-are-part-of-the-charm | + | The reviewer says the game is unpolished in places and that the roughness is part of why they like it - more p

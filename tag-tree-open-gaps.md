@@ -10864,3 +10864,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **The balance critic:** 72254930 (thumb up) says it is probably the best EDF yet would still pick 4.1: the Ranger is sidelined (`role-underpowered`), the Air Raider's vehicles and lock-on missiles are weak (`some-options-are-useless`), weapons were weakened while enemies grew (`challenge-outgrows-the-player`), so fewer styles work (`only-a-few-builds-are-viable`) - and suspects stronger weapons were held for DLC (`worried-paid-extras-will-come`).
 - **For Dominion:** 73136285 recommends playing with two or three friends who each take a different class (`rewards-teamwork`); 70042709 names strategy and gear choice as the core (`asks-you-to-think`) and the squad singing mid-fight as the moment that makes it.
 
+## Notes - round 549 (EARTH DEFENSE FORCE 5 batch 7)
+
+50 read (2020-07-21 to 2020-10-15), 90 bullets on 50 reviews, none excluded, 3 edited later. Running total 350 of 1,768. 49 up / 1 down. **Two new modes** under Rule C: `game-design.difficulty-tuning.the-top-settings-are-earned-by-finishing` (+, 74702996 - the positive side of `the-top-setting-is-locked-at-the-start`) and `production.craftsmanship.the-rough-edges-are-part-of-the-charm` (+, 75573701; `findphrase` "unpolished" and "part of the charm" found no earlier home). Tree 1,633 -> 1,635. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 21:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 32 of 50 reviews 15 words or fewer (30% unknown), 8 reviews over 60 words at 4.0 bullets each and 28 words per bullet.
+- **The one down review:** 75994141 - a copy-paste of 4.1 (`the-sequel-changes-too-little`, now 5), over-priced, and mouse acceleration that spins the view and needed a third-party fix (`aim-response-is-inconsistent`).
+- **Running counts at 350:** `successor-framing-accepted` 59 reviews, `cheesy-on-purpose` 34, `a-game-you-can-unwind-to` 18 ("mindless fun"), `successor-claim-backfired` 3.
+- **For Dominion:** 74702996 (5 helpful) explains why locking the top difficulties until the first clear works - by then the player's weapons and armour have grown to match; 76255489 rarely feels cheated by a death (`losses-feel-earned`) but finds hunting guns for a playstyle a grind.
+

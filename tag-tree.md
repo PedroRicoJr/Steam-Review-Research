@@ -10294,6 +10294,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 548, EARTH DEFENSE FORCE 5 batch 6.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 7 - round 549 (Rule C)
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-top-settings-are-earned-by-finishing` | **+** | The highest difficulties open only after the game is finished once, and the reviewer approves - by then the player has the gear to survive them. **The positive side of `.the-top-setting-is-locked-at-the-start`.** EARTH DEFENSE FORCE 5 74702996 (*"I think it's a decent bar to entering Hardest or Inferno"*). |
+
+### `production.craftsmanship`
+| Mode | | Definition |
+|---|---|---|
+| `.the-rough-edges-are-part-of-the-charm` | **+** | The reviewer says the game is unpolished in places and that the roughness is part of why they like it - more polish might lose something. **Distinct from `engineering.bugs.harmless-and-funny`**, which is about specific bugs, and **the positive side of `live-ops.patch-quality.polished-the-character-out-of-it`**. EARTH DEFENSE FORCE 5 75573701 (*"if you polish it any more, it would lose some of its charm"*). |
+
+🔑 **Round 549, EARTH DEFENSE FORCE 5 batch 7.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
