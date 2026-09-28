@@ -10602,7 +10602,7 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 
 - **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 32 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 5.0 bullets each and 30 words per bullet, 27% of bullets on an `.unknown`.
 - **The two down reviews:** 146325360 opens with a jab (not repeated) and says the game is derivative, runs poorly and brings regret; 147833225 lost all progress to a reset and says the underpowered start is too much of a slog to redo (`progress-not-saved`, `slow-start`).
-- **Slow start, now 10 reviews:** 146359081 ("give it until you can beat that first boss"), 147371850 and 147833225 bring `unlock-pace.slow-start` to 10 Gunfire Reborn reviews - the most repeated complaint about the meta-progression.
+- **Slow start, now 10 reviews:** 146359081 ("give it until you can beat that first boss"), 147371850 and 147833225 bring `unlock-pace.slow-start` to 10 Gunfire Reborn reviews, second only to `grindy` (11) among the unlock-pace complaints.
 - **Melee for every character:** 146359081 is the third review on `one-playstyle-has-too-few-tools` (after 88026647 and 124722691).
 - **Reincarnation praised twice:** 148296531 and 148268332 say the Reincarnation tiers make it feel like a new game (`harder-adds-new-rules`), against 114300722 in round 518 who said the top tiers only scale numbers.
 - **A careful long review:** 148737732 (60 hours) praises balanced ascensions and scrolls and no hitscan enemies, but says the second half is too easy, some Bizarre Dream modifiers are too strong, and wants free rerolls.
