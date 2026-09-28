@@ -10703,3 +10703,16 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Bots, now 2 `ai-teammates` bullets:** 199237762 says the optional bots "work well and don't hinder you" (`helps-in-combat`).
 - **Seasons that cannot be missed:** 194943374 notes the seasons can be replayed any time and their rewards are not missable (`you-can-put-it-down-and-come-back`).
 - **Slow start, now 18 reviews:** 194943374 and 200452882 join. **Too little content, now 12:** 200453598 joins.
+
+## Notes - round 534 (Gunfire Reborn batch 33)
+
+50 read (2025-07-31 to 2025-10-15), 89 bullets on 50 reviews, none excluded, 3 edited later. Running total 1,650 of 1,884 (6 excluded so far). 46 up / 4 down. No new mode; tree stays at 1,616. Lost-review check: all 50 on the first dry run (after the dict order was matched to the sample); `--gaps` none. Done in the 09:44 backstop firing (timer re-created as `326a1188`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.78, 29 of 50 reviews 15 words or fewer, 10 reviews over 60 words at 4.3 bullets each and 29 words per bullet, 24% of bullets on an `.unknown`.
+- **The four down reviews:** 201108900 (not worth 20 dollars "when over half the roster is paid dlc" - `content-behind-a-second-purchase`), 201573254 (text removed), 203253379 (matchmaking "worse than tarkov" - `slow-to-find-games`, `needs-a-group`) and 206150149 (10 helpful: movement "way WAY too slow", the worst tutorial, and a new player joining experienced friends meets harder enemies with less revive time - `sluggish`, `poorly-explained`, `late-joiner-outmatched`).
+- **Slow movement, now 12 on `movement.sluggish` and 3 on `no-modern-moves`:** 204410221 (8 helpful: "you move like a snail with a pathetically short dash", no invincibility frames) and 206150149 join. For Dominion's third-person shooter: slow movement plus a short dash with no invincibility is the most repeated feel complaint in this game.
+- **Unfair deaths:** 204410221 compares its deaths with Risk of Rain, Hades and Roboquest, where deaths "feel like they were my own fault", and says here boss attacks could not be seen or dodged (`attacks-are-poorly-telegraphed`); it also says the bots only soak damage and revive (`the-bots-have-no-role-of-their-own`).
+- **Round 531's mode, now 3:** 203797064 left the console version "cause of how behind 505 is keeping it" (`one-platform-was-left-behind`).
+- **Seasons with no FOMO, now 3 on `you-can-put-it-down-and-come-back`:** 203275687 says each season stays permanently and its rewards unlock any time; the same review says the Spiritual Assault mode has 2 maps, untouched since 2023, still short of its promised content (`a-system-was-left-half-finished`).
+- **Translation, now 25 on `reads-badly`:** 202204544 and 202719986 join.
+- **Slow start, now 19 reviews:** 204410221 joins.
