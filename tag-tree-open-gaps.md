@@ -10741,3 +10741,17 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Translation, now 30 on `reads-badly`:** 219479947, 220125902 and 220774330 join; 220774330 says the free update text is worst and the latest season improved.
 - **DLC roster, now 2 on `content-behind-a-second-purchase`:** 220774330 ("most of the characters being behind DLC") joins 201108900.
 - **The fullest review:** 219465629 scores it 73/100 - praise for shooting, characters and art, against unfair gimmick bosses, a game that gets "very easy" by mid-game (`progression-outgrows-the-challenge`), over-strong meta progression and runs that feel samey per character (`not-random-enough`).
+
+## Notes - round 537 (Gunfire Reborn batch 36)
+
+50 read (2026-03-15 to 2026-05-31), 104 bullets on 50 reviews, none excluded, 2 edited later. Running total 1,800 of 1,884 (6 excluded so far). 42 up / 8 down. No new mode; tree stays at 1,618. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 12:44 backstop firing (timer re-created as `98f86d6d`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.08, 26 of 50 reviews 15 words or fewer, 9 reviews over 60 words at 4.8 bullets each and 27 words per bullet, 19% of bullets on an `.unknown`.
+- **The eight down reviews:** 225511720 (6 helpful, the fullest: boss area attacks land "faster than the animations" - `attacks-land-beyond-their-visible-reach`; "SAME LOCATIONS OVER AND OVER AGAIN" despite random layouts - `the-randomisation-is-only-surface`; no mid-run save, so a friend leaving forfeits the run - `cannot-save-and-come-back`; DLC paywall; "Recommend only on sale"), 223818181 (every enemy two-shots you even on the easiest difficulty - `player-too-fragile`; frame-perfect dashes against a boss status effect), 223279545 (7 helpful: meta progression unwanted; a DLC character called pay-to-win), 221424631 ("power is sold through stronger heroes via the dlcs" - `pay-affects-play`), 222715905 (restrictive movement, super easy), 224890947 (crash after crash), 224859059 (30 minutes searching for a co-op team) and 220765814 (a dash).
+- **Movement, now 7 on `no-modern-moves`:** 222715905 and 226238110 ("floaty" jumps and "no vertical mobility options") join; `sluggish` stays at 13.
+- **One-shot deaths, now 9 on `one-hit-kills`:** 223818181 joins ("30 attempts to get lucky with a run where a sniper doesnt instakill you").
+- **Finding a team, now 19 across `slow-to-find-games` and `cannot-find-games`:** 224430784 ("Low playercount so matchmaking might take a while") and 224859059 join.
+- **DLC power, now 5 across `pay-affects-play` and `power-creep`:** 221424631, 222138143 (each new character "a little more broken") and 223279545 join.
+- **Seasons, now 5 on `you-can-put-it-down-and-come-back`:** 225509671 ("you can play the Modi of old Seasons") joins.
+- **Sharing in co-op:** 223278780 (568 hours) calls it "the BEST co-op roguelite out there. You can share nearly everything except for cash" (`loot-is-shared`).
+- **A jab kept out:** 223867609 adds political slogans after its praise; not repeated.
