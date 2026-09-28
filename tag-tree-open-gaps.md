@@ -10679,3 +10679,15 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **The revive system, unexplained:** 183432106 warns new co-op players that the revive mechanic is "poorly implemented" and says no more - filed on `co-op-design.unknown`. Rounds 526 and 530 carry the specific forms (spectating until revived, a paid buy-back).
 - **Roboquest as the one rival:** 186230343 (10 helpful) and 187395412 both call Gunfire Reborn one of only two good FPS roguelites, the other Roboquest (A15 on `planning/action-roguelike-list.md`).
 - **Public matchmaking, now 6 on `cannot-find-games`:** 186220283 joins ("never found anyone in public matchmaking").
+
+## Notes - round 532 (Gunfire Reborn batch 31)
+
+50 read (2025-02-27 to 2025-05-15), 92 bullets on 50 reviews, none excluded, 4 edited later. Running total 1,550 of 1,884 (5 excluded so far). 44 up / 6 down. No new mode; tree stays at 1,616. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 07:44 backstop firing (timer re-created as `e3ce8881`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.84, 31 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 3.8 bullets each and 34 words per bullet, 25% of bullets on an `.unknown`.
+- **The six down reviews:** 188871708 (the fullest: the game asks you to dodge but gives too few moves while enemies "hit like a truck" - `no-modern-moves`; "painfully slow", 50% faster would fix most of it - `sluggish`; five good weapons; repeating stages), 190944924 (7 helpful: "Years later, still the same 4-5 levels" - `too-little`; edited to wait on the new maps - `awaiting-promised-content`), 192194953 (LAN co-op with a brother stutters since the latest season - `lag-and-desync`, `made-it-worse`, `it-is-how-i-play-with-my-family`), 192202645 ("no balance"), 194440786 (5/10) and 194422233 (a dot).
+- **Too few levels, now 11 on `content-amount.too-little`:** 190944924 and 193274564 (43 helpful: "lacking expansion of more rooms and bosses") join.
+- **Bots made solo work:** 192796690 had written the game off because solo bosses were "two hit deaths", as if built for four; the optional ally bots added in a patch fixed it - the boss no longer targets only you, and the bots revive reliably (`enables-solo-play`, `revives-reliably`). The first `ai-teammates` bullet in the game. For Dominion's four-player runs: a boss built for four needs an answer for a short-handed group.
+- **Slow start, now 16 reviews:** 189563622 joins ("after some key unlocks it really gets rolling").
+- **Translation, now 23 reviews on `reads-badly`:** 191684680 and 193890999 join.
+- **A jab kept out:** 192800701 is a one-line jab about the studio's country; not repeated.
