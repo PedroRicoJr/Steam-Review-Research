@@ -10595,3 +10595,14 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Drop-and-rejoin, fifth review:** 144869799 makes 5 Gunfire Reborn reviews on `cannot-rejoin-a-match` or `a-disconnect-loses-the-run`.
 - **Solo worse than co-op, now 7 reviews on `punishing-solo`:** 142155443 ("6/10 solo, 10/10 co-op") and 145401389 join the earlier ones.
 - **DLC characters, two readings:** 142649307 says they are the best characters (`add-ons-outshine-the-base-game`); 144271511 calls them power-crept (`power-creep`), after 88495098 called them overtuned in round 509.
+
+## Notes - round 525 (Gunfire Reborn batch 24)
+
+50 read (2023-09-14 to 2023-11-30), 90 bullets on 49 reviews, 1 excluded (146813726, empty, written by hand first), 4 edited later. Running total 1,200 of 1,884 (3 excluded so far). 47 up / 2 down. No new mode; tree stays at 1,613. Lost-review check: all 49 on the first dry run; `--gaps` none. Done in the 00:44 backstop firing (timer re-created as `73b70707`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 32 of 50 reviews 15 words or fewer, 8 reviews over 60 words at 5.0 bullets each and 30 words per bullet, 27% of bullets on an `.unknown`.
+- **The two down reviews:** 146325360 opens with a jab (not repeated) and says the game is derivative, runs poorly and brings regret; 147833225 lost all progress to a reset and says the underpowered start is too much of a slog to redo (`progress-not-saved`, `slow-start`).
+- **Slow start, now 10 reviews:** 146359081 ("give it until you can beat that first boss"), 147371850 and 147833225 bring `unlock-pace.slow-start` to 10 Gunfire Reborn reviews - the most repeated complaint about the meta-progression.
+- **Melee for every character:** 146359081 is the third review on `one-playstyle-has-too-few-tools` (after 88026647 and 124722691).
+- **Reincarnation praised twice:** 148296531 and 148268332 say the Reincarnation tiers make it feel like a new game (`harder-adds-new-rules`), against 114300722 in round 518 who said the top tiers only scale numbers.
+- **A careful long review:** 148737732 (60 hours) praises balanced ascensions and scrolls and no hitscan enemies, but says the second half is too easy, some Bizarre Dream modifiers are too strong, and wants free rerolls.
