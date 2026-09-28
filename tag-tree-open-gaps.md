@@ -10729,3 +10729,15 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **Solo punished, now 14 on `punishing-solo`:** 208042954 joins.
 - **Translation, now 27 on `reads-badly`:** 209268033 and 212727989 ("unsheathe sword forward"; huge text boxes) join.
 - **Curator plugs:** 207412540 and 207408774 link their curator pages (`promotes-the-reviewers-own-curator-page`); 207408774 reads like a store blurb.
+
+## Notes - round 536 (Gunfire Reborn batch 35)
+
+50 read (2025-12-31 to 2026-03-15), 93 bullets on 50 reviews, none excluded, 1 edited later. Running total 1,750 of 1,884 (6 excluded so far). 45 up / 5 down. One new mode, `achievements.full-completion-needs-paid-dlc` (216038763: *"now I need to buy the new dlc to 100% this game... New achievements for more paid dlc characters"*); `findphrase "achievement"` found one earlier mention, Immortal: Unchained 72900717, which lists the DLC alongside five playthroughs and stays on `only-repetition-completes-the-set`. Tree 1,617 -> 1,618. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 11:44 backstop firing (timer re-created as `6ef587dc`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.86, 27 of 50 reviews 15 words or fewer, 7 reviews over 60 words at 4.9 bullets each and 29 words per bullet, 22% of bullets on an `.unknown`.
+- **The five down reviews:** 214760148 and 217800756 (frame drops and stutter, down to 40 FPS in big fights - `stutter`, `unstable-framerate`), 214753318 ("from boring cakewalks straight into a boss" that one-taps you - `spikes-out-of-nowhere`), 216038763 (achievements behind paid DLC) and 217286414 ("ultra mid").
+- **Seasons with no FOMO, now 4 on `you-can-put-it-down-and-come-back`:** 219479947 (15 helpful: "zero weird monetization or FOMO mechanics") and 220125902 (545 hours: "The way this game treats seasonal content is the best in any game... Mechanics are never removed... No FOMO") join. For Dominion's live service: seasons that stay playable and rewards that can be bought later with play currency are praised again and again here.
+- **Population, now 17 across `slow-to-find-games` and `cannot-find-games`, 5 on `the-numbers-are-falling` or `dead-game`:** 216633728 pleads with the studio to cut the price because "your game is dying cause of low player base"; 217285398 says matchmaking is "hit or miss outside of big updates".
+- **Translation, now 30 on `reads-badly`:** 219479947, 220125902 and 220774330 join; 220774330 says the free update text is worst and the latest season improved.
+- **DLC roster, now 2 on `content-behind-a-second-purchase`:** 220774330 ("most of the characters being behind DLC") joins 201108900.
+- **The fullest review:** 219465629 scores it 73/100 - praise for shooting, characters and art, against unfair gimmick bosses, a game that gets "very easy" by mid-game (`progression-outgrows-the-challenge`), over-strong meta progression and runs that feel samey per character (`not-random-enough`).

@@ -10186,6 +10186,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 535, Gunfire Reborn batch 34.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 35 - round 536 (Rule C)
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.full-completion-needs-paid-dlc` | **−** | Some of the game's achievements can only be earned with a paid add-on, so a player who owns the base game cannot reach 100% - and new paid add-ons can add more such achievements after they finished. **Distinct from `.gated-behind-unreachable-content`**, where the content cannot be reached at all, and from **`.completion-undone-by-updates`**, which covers any update, free or paid. Gunfire Reborn 216038763 (*"now I need to buy the new dlc to 100% this game... New achievements for more paid dlc characters"*). Immortal: Unchained 72900717 named the DLC as required for full completion alongside five playthroughs, filed on `.only-repetition-completes-the-set` for its main point. |
+
+🔑 **Round 536, Gunfire Reborn batch 35.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

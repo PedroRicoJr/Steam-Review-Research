@@ -1615,3 +1615,4 @@ game-design.co-op-design.the-group-moves-on-before-you-can-choose | - | In co-op
 game-design.enemy-design.a-boss-is-a-damage-check | - | One boss must be killed within a limit - a timer, an enrage, a phase that wipes the group - so a run that has 
 live-ops.abandonment.one-platform-was-left-behind | - | The studio keeps updating the game on one platform while the version on another has had no updates for a long 
 game-design.enemy-design.ordinary-enemies-turn-invulnerable | - | Regular or elite enemies - not bosses - spend stretches where they cannot be hurt, so the player waits them ou
+game-design.progression.achievements.full-completion-needs-paid-dlc | - | Some of the game's achievements can only be earned with a paid add-on, so a player who owns the base game cann
