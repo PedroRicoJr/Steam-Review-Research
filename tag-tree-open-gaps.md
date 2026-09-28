@@ -10797,3 +10797,14 @@ Wrote `findings/gunfire-reborn.md` and `findings/cross-game.md` section 22; `GAM
 - **Checked before commit:** "the longest read in months" and "the first co-op roguelite with seasons" were removed as unverified; a guess that text volume, not the studio's origin, explains the translation gap was replaced with the reviews' own words; the "ten times" line now names the 300-review floor.
 - **Corpus:** 26 games, 23,729 English summaries, 24,491 in all languages (counted by script, stats files excluded).
 - **Next unit:** the next game from `planning/`, closest to Dominion first, picked and recorded with its reason.
+
+## Notes - round 542 (EARTH DEFENSE FORCE 5: pick, row, grid, pull)
+
+No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394b`); the grid went up first as commit 7b316dca while the pull ran.
+
+- **Why this game:** after Gunfire Reborn the loop file takes the next game from `planning/`, closest to Dominion first. Dominion is a third-person, four-player co-op, sci-fi PvE extraction and arena shooter built on runs. **EARTH DEFENSE FORCE 5 (C17)** is third-person, sci-fi, a PvE shooter against waves, online co-op for four, and a success (94% positive, 11,549 reviews) - more of Dominion's traits than any other unread row. It has missions rather than runs and no extraction. **Runners-up:** The First Descendant (C28 - third-person sci-fi co-op looter, but a free-to-play live service at 57%), Roboquest (A15 - a co-op roguelite shooter for two, first-person), ELDEN RING NIGHTREIGN (B2 - third-person co-op runs, but melee and fantasy).
+- **Grid:** `build_grid.py --only earth-defense-force-5 --languages english` (slug added to `GAMES`, first month 2019-07): **7,208 English reviews across 87 months**; the biggest months are 2019-07 (679, the launch), 2019-11 (409) and 2019-12 (235). Steam's own English count on the day (`scripts/steam_counts.py 1007040`): 7,208; all languages 11,549, 94%.
+- **Pull:** planned 1,801 at +/-2.5%; **got 1,768** (ten small months returned 18 or 19 of their 20). **Actual margin +/-2.58%**, from the count actually pulled per month (Rule 12; the same calculation gives Gunfire Reborn's +/-2.51%). All 1,768 review ids are distinct. Heaviest weight: 2019-07 at x14.1.
+- **GAMES-TODO:** row 10 of section 4; `planning/third-person-shooter-list.md` C17 marked WIP.
+- **Still parked for Rico:** rows 6 and 7 (OUTRIDERS, Darktide) wait, as recorded in `OPEN-WITH-RICO.md`.
+- **Next:** EARTH DEFENSE FORCE 5 batch 1 (50 reviews).
