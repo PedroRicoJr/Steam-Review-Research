@@ -10168,6 +10168,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 530, Gunfire Reborn batch 29.** Built under Rule C.
 
+## Modes added in Gunfire Reborn batch 30 - round 531 (Rule C)
+
+### `live-ops.abandonment`
+| Mode | | Definition |
+|---|---|---|
+| `.one-platform-was-left-behind` | **−** | The studio keeps updating the game on one platform while the version on another has had no updates for a long time, and the reviewer reads it as the studio not caring about those players. **Distinct from `live-ops.update-cadence.consoles-get-updates-later`**, where the updates do arrive, only late, and from **`.updates-stopped`**, where support ended everywhere. Gunfire Reborn 186861464 (*"The console version has been dead in the water for around 2 years now, meanwhile the PC version gets a constant drip feed of updates and DLC"*). |
+
+🔑 **Round 531, Gunfire Reborn batch 30.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

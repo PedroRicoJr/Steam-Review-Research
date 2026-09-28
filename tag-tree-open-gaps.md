@@ -10667,3 +10667,15 @@ No reviews read. Done in the 01:44 backstop firing (timer re-created as `520e957
 - **DLC stronger than the base game, now 4 across `power-creep` and `add-ons-outshine-the-base-game`:** 177598095 and 182172404 join.
 - **Updates that made it worse, now 4 on `made-it-worse`:** 176554300 (a 771-hour veteran: fewer bonus stages, more boss stages, a changed feel) and 181170090 (season zero is still the best way to play) join.
 - **One skill wins, now 10 on `one-option-dominates`:** two jokes - 179050416 ("clicked q alot and win") and 181159374 ("sit in corner spamming i win").
+
+## Notes - round 531 (Gunfire Reborn batch 30)
+
+50 read (2024-12-15 to 2025-02-28), 90 bullets on 50 reviews, none excluded, none edited later. Running total 1,500 of 1,884 (5 excluded so far). 47 up / 3 down. One new mode, `live-ops.abandonment.one-platform-was-left-behind` (186861464: *"The console version has been dead in the water for around 2 years now, meanwhile the PC version gets a constant drip feed of updates and DLC"*); `findphrase "console version"` found 4 earlier lines, none about a platform left without updates. Tree 1,615 -> 1,616. Lost-review check: all 50 on the first dry run; `--gaps` none. Done in the 06:44 backstop firing (timer re-created as `93147777`).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 30 of 50 reviews 15 words or fewer, 5 reviews over 60 words at 5.6 bullets each and 32 words per bullet, 27% of bullets on an `.unknown`.
+- **The three down reviews:** 183493729 (16 helpful: repetitive too quickly, worth five dollars at most - `runs-out-fast`, `too-high-for-what-it-is`), 183471763 (cartoonish heroes, repeating rooms) and 187873758 (shiny, bloomy low-poly look that makes them dizzy - `causes-motion-sickness`; sluggish dodging; dull enemies).
+- **Translation, now 21 reviews on `reads-badly`:** 185670117, 186220283, 186852509 and 187414125 join; 187414125 adds that some text is still only in Chinese - the first `translation-quality.partial` in the game.
+- **Balance named without detail, now 7 on `power-balance.unknown`:** 183432106 and 187414125 join; 185676548 names the squirrel character as too strong (`something-needs-a-nerf`).
+- **The revive system, unexplained:** 183432106 warns new co-op players that the revive mechanic is "poorly implemented" and says no more - filed on `co-op-design.unknown`. Rounds 526 and 530 carry the specific forms (spectating until revived, a paid buy-back).
+- **Roboquest as the one rival:** 186230343 (10 helpful) and 187395412 both call Gunfire Reborn one of only two good FPS roguelites, the other Roboquest (A15 on `planning/action-roguelike-list.md`).
+- **Public matchmaking, now 6 on `cannot-find-games`:** 186220283 joins ("never found anyone in public matchmaking").
