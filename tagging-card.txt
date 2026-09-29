@@ -1677,3 +1677,5 @@ game-design.new-player-experience.it-grew-on-me | + | The reviewer says the game
 game-design.progression.build-and-customisation.armour-is-only-a-health-number | - | The character's own growth is one health figure - no stats, no skills, no armour pieces with their own propert
 game-design.solo-viability.the-vehicles-are-built-for-a-crew | - | The vehicles carry gunner seats a solo player cannot fill, so alone they are weaker than designed, and the rev
 game-design.game-feel.movement.helpless-in-deep-water | - | In deep water the character can only swim - no jump, boost or shooting - so maps with rivers and sea cause dea
+game-design.progression.unlock-pace.higher-difficulties-hold-back-new-gear | - | On a harder setting the enemies are stronger from the first mission, but better gear only starts to drop well 
+marketing.reputation.wants-the-rest-of-the-series-released-here | + | The reviewer asks the publisher to bring the series' other games - older entries, spin-offs, titles never tran

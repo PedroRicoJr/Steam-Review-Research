@@ -11112,3 +11112,12 @@ Other choices: 204647224 (3 helpful, thumbs down) has 18 bullets, the most of an
 
 Other choices: 210598353 is a long list of ideas for future games, so it takes `written-to-the-studio-not-to-the-buyer` and keeps 7 of its concrete asks. 214736603 says the Ranger has "no sprint". Nine other EDF5 summaries mention the Ranger's sprint; the claim is recorded as the reviewer wrote it. Its "hunting one missing bug" joins round 573's `the-last-enemy-must-be-hunted-down` (now 2). 207577052 prefers 5 to 6 (`better-than-the-sequel-that-followed`, now 4). 212939816 has 59 helpful votes, below the batch-level top of 186. Helldivers, or a jab name for it ("Slopdivers", "Redditdivers"), is now in 27 EDF5 summaries.
 
+## Notes - round 575 (EARTH DEFENSE FORCE 5 batch 33)
+
+50 reviews, created 2026-01-05 to 2026-03-23; all 50 summarised (85 bullets), none excluded. 2 new modes under Rule C:
+
+- `game-design.progression.unlock-pace.higher-difficulties-hold-back-new-gear` (−) - 219788457 (5 helpful): better weapons drop only from mission 50 on Hard and 25 on Inferno, while enemies are stronger from mission 1. The reviewer's numbers, not checked.
+- `marketing.reputation.wants-the-rest-of-the-series-released-here` (+) - 217211214: wants EDF 1-3 localised on Steam.
+
+Other choices: 219788457 praises the harder settings for new events and faster enemies (`harder-adds-new-rules`), and also says they are grindy and punishing; both are kept. Weapons needing another class go to `some-rewards-need-a-second-player`, as an earlier EDF5 Fencer bullet did. "Most aspects of the game are bad... make it a joy" (218264106, 8 helpful) goes to `so-bad-it-is-good`. 218221926's jab at Helldivers players is recorded as a jab, not repeated. "passcode only" (220463675) stays on `negative.unknown`: its meaning could not be told from the text. EDF5 against EDF 6 is now 5 better, 2 worse. Helldivers, or a jab name for it, is in 30 EDF5 summaries.
+

@@ -10592,6 +10592,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 574, EARTH DEFENSE FORCE 5 batch 32.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 33 - round 575 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.higher-difficulties-hold-back-new-gear` | **−** | On a harder setting the enemies are stronger from the first mission, but better gear only starts to drop well into the campaign, so the early missions of each new difficulty pay nothing new. EARTH DEFENSE FORCE 5 219788457 (*"On Hard, the game only starts giving you new, better weapons starting from mission 50. On the highest difficulty, new gear only drops from mission 25 onwards, even though the enemies become exponentially stronger right from the start"*). The reviewer's mission numbers, not checked against the game. |
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-the-rest-of-the-series-released-here` | **+** | The reviewer asks the publisher to bring the series' other games - older entries, spin-offs, titles never translated - to this store and language. **Distinct from `.i-want-a-sequel-to-this-one`**, which asks for a new game: this asks for games that already exist elsewhere. EARTH DEFENSE FORCE 5 217211214 (*"i hope that D3 can localize and release ALL their games in English on Steam, including EDF 1, 2, 3"*). |
+
+🔑 **Round 575, EARTH DEFENSE FORCE 5 batch 33.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
