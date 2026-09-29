@@ -11048,3 +11048,14 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 
 Other choices: the Wing Diver weakened since 4.1 stays on `role-underpowered`, as in earlier EDF5 rounds. "No fancy graphics" goes to `looks-dated`, as the 17 earlier EDF5 graphics complaints did. "Better than EDF 6" (171173580) and "A much better EDF 6" (171573552) take `better-than-the-sequel-that-followed`, now 3 EDF5 reviews. Helldivers is now named in 15 EDF5 summaries. 174982572 (5 helpful) is the batch's one thumbs-down: connection drops, no patches, $60 too high.
 
+## Notes - round 569 (EARTH DEFENSE FORCE 5 batch 27)
+
+50 reviews, created 2024-09-29 to 2024-12-15; 49 summarised (89 bullets). 1 excluded as not a review of the game: 178848998 is a personal message to a friend about leaving a group (its details left out). 4 new modes under Rule C:
+
+- `marketing.reputation.worse-than-the-sequel-that-followed` (−) - 179277084: "just buy EDF6 instead". The inverse of `better-than-the-sequel-that-followed` (3 EDF5 reviews); this is the first EDF5 review to send readers to 6.
+- `community.social-features.no-join-through-the-platform-friends-list` (−) - 179277084: no Steam friends-list joining; the in-game room system is "very wonky".
+- `marketing.reputation.feels-like-the-games-of-my-youth` (+) - 180834450 (9 helpful): "think back to when games were fun... this is that game".
+- `marketing.positioning.the-sequel-polished-away-the-charm` (−) - 178021838: "the polish takes away from the imperfect fun of the last ones". Kept apart from `live-ops.patch-quality.polished-the-character-out-of-it`, which is patches to one game over time.
+
+Other choices: the long copied "kill bugs, behead bugs" list (179278607) goes to `review.repeats-a-copied-meme-text`, its lines not repeated. A lewd line (182148015) and the "lingerie" joke (178539100) go to `the-cast-is-built-to-titillate`, as earlier leering remarks did. Drops for every class while playing one (176988609) stays on `quality-of-life-is-looked-after`, as three earlier EDF5 reviews did. 178414607 bought 5 because EDF 6 launched with an Epic account requirement: filed on `came-from-a-rival-that-failed-them`, the sequel standing in as the rival. Collecting drops by hand is now a chore in 8 EDF5 reviews; cheats to get through, 5.
+

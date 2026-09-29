@@ -10470,6 +10470,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 568, EARTH DEFENSE FORCE 5 batch 26.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 27 - round 569 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.worse-than-the-sequel-that-followed` | **−** | Writing after the next game in the series came out, the reviewer tells readers to skip this one and buy the sequel instead. **The inverse of `.better-than-the-sequel-that-followed`.** EARTH DEFENSE FORCE 5 179277084 (*"don't bother buying this game as it's an inferior product. I'm telling you, just buy EDF6 instead"*). |
+| `.feels-like-the-games-of-my-youth` | **+** | The reviewer says the game plays like the games they grew up with, from a time they remember games being more fun, and that is the draw. **Distinct from `game-design.game-feel.reward-moment.gives-a-nostalgia-hit`**, which is one payout landing as a return: this is the whole game. EARTH DEFENSE FORCE 5 180834450 (*"Those of us who were born in the late 80's/90's often think back to when games were fun... Well, this is that game"*). |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-sequel-polished-away-the-charm` | **−** | The reviewer says the new entry is cleaner than the earlier games in the series and that the cleaning removed the imperfect fun they liked. **Distinct from `live-ops.patch-quality.polished-the-character-out-of-it`**, which is patches changing one game over time: here it is one game in a series against the ones before it. EARTH DEFENSE FORCE 5 178021838 (*"the polish takes away from the imperfect fun of the last ones"*). |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.no-join-through-the-platform-friends-list` | **−** | Friends cannot join each other from the store's own friends list; the game makes them go through its own room or lobby system, and the reviewer finds that clumsy. **Distinct from `.cannot-add-friends`**, where getting friends in fails altogether. EARTH DEFENSE FORCE 5 179277084 (*"This doesn't have STEAM integration, so you have to go through their in-game room systems, which are very wonky"*). |
+
+🔑 **Round 569, EARTH DEFENSE FORCE 5 batch 27.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

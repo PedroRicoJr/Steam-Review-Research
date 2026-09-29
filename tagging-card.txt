@@ -1655,3 +1655,7 @@ game-design.role-design.a-class-waits-too-long-for-its-main-tool | - | The class
 game-design.role-design.one-class-makes-the-others-feel-dull | - | One class is so much fun that the reviewer finds the rest slow or flat and struggles to go back to them. **Dis
 game-design.enemy-design.enemies-heal-themselves | - | An enemy type restores its own health during the fight, and the reviewer names that as why they dislike it. EA
 game-design.progression.build-and-customisation.a-named-weapon-or-vehicle-is-loved | + | The reviewer names one weapon or vehicle and declares their love for it, with no more said. **Distinct from `.
+marketing.reputation.worse-than-the-sequel-that-followed | - | Writing after the next game in the series came out, the reviewer tells readers to skip this one and buy the se
+marketing.reputation.feels-like-the-games-of-my-youth | + | The reviewer says the game plays like the games they grew up with, from a time they remember games being more 
+marketing.positioning.the-sequel-polished-away-the-charm | - | The reviewer says the new entry is cleaner than the earlier games in the series and that the cleaning removed 
+community.social-features.no-join-through-the-platform-friends-list | - | Friends cannot join each other from the store's own friends list; the game makes them go through its own room 
