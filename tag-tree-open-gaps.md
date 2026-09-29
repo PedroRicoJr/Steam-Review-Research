@@ -10935,3 +10935,13 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **"A lot of bugs":** 111150953 (30 helpful) and 110867008 say the game has "a lot of bugs"; in a game about giant insects this reads as a pun and is filed on `review.positive.unknown`, not on `engineering.bugs`.
 - **For Dominion:** 111659741 (68 helpful, the most-helpful review so far this batch) sells it as a no-brain co-op game, with victory sounds as the one memorable piece of audio (`the-payout-lands-well`). 112670890 names camera hijacking as the only bad thing, fixed by a 'Camera Effects' toggle (`moves-more-than-you-asked-for`, `options-cover-what-you-need`) - a second case this game's options saved a player, after the mutable NPC voices in round 554.
 
+## Notes - round 557 (EARTH DEFENSE FORCE 5 batch 15)
+
+50 read (2022-03-30 to 2022-06-14), 89 bullets on 50 reviews, none excluded, 1 edited later. Running total 750 of 1,768. 47 up / 3 down. **One new mode** under Rule C: `marketing.positioning.too-niche-to-bring-friends-along` (-, 114278896 - none of 300 Steam friends own it because its over-the-top Japanese style puts them off). Tree 1,644 -> 1,645. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 05:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.78, 26 of 50 reviews 15 words or fewer (24% unknown), 10 reviews over 60 words at 3.7 bullets each and 45 words per bullet.
+- **The three down reviews:** 114263626 (missions that cannot be passed even on Easy; gave up at level 63 - `too-hard`), 115068487 (slow Ranger dash, obsolete Air Raider, slow Fencer, weapons that are worse copies of each other, $60) and 115039151 (4.1 again with reused assets - `the-sequel-changes-too-little`, now 8 - though it loves the English acting).
+- **Running counts at 750:** `successor-framing-accepted` 87 reviews, `cheesy-on-purpose` 75, `too-high-for-what-it-is` 11, `the-sequel-changes-too-little` 8.
+- **A personal account:** 113847412 credits the game with helping them through a very hard period, played one-handed while an injury healed (`the-game-helped-them-through-a-hard-time`, `playable-one-handed`). The personal details in the review are left out of the summary.
+- **For Dominion:** 114278896 is the co-op cost of a strong style: the game's biggest fan cannot get a single friend to buy it. 113905998 recommends it for a busy schedule, since the 110 missions are short (`good-in-short-sittings`).
+

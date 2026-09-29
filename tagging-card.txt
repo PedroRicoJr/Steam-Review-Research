@@ -1642,3 +1642,4 @@ marketing.reputation.better-than-the-sequel-that-followed | + | Writing after th
 game-design.ai-teammates.allied-soldiers-are-no-help | - | The mission fields the game's own allied soldiers, and the reviewer says they do little against the enemy, so 
 accessibility.phobia.playing-it-eased-the-fear | + | The reviewer says playing the game - facing the thing they fear over and over - made the phobia weaker. **Dist
 game-design.modes.the-second-couch-player-starts-behind | - | In split screen, the second player does not bring the main player's progress - armour, health, gear - so they 
+marketing.positioning.too-niche-to-bring-friends-along | - | The reviewer loves the game but says its style is too particular for their friends - who dismiss it on sight -

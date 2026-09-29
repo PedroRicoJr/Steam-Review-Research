@@ -10377,6 +10377,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 556, EARTH DEFENSE FORCE 5 batch 14.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 15 - round 557 (Rule C)
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.too-niche-to-bring-friends-along` | **−** | The reviewer loves the game but says its style is too particular for their friends - who dismiss it on sight - so the co-op they would enjoy most has nobody in it. **Distinct from `community.playing-with-friends.needs-a-group`**, which is the game needing company, not the company refusing the game. EARTH DEFENSE FORCE 5 114278896 (*"Its a shame that none of my 300 steam friends owns it ... If they see over-the-top stuff from Japan, they automatically disregard it"*). |
+
+🔑 **Round 557, EARTH DEFENSE FORCE 5 batch 15.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
