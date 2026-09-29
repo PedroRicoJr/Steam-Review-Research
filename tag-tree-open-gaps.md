@@ -10899,3 +10899,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 500:** `successor-framing-accepted` 72 reviews, `cheesy-on-purpose` 54, `grindy` 12, `solo-and-online-progress-are-separate` 4.
 - **For Dominion:** 92000655 calls the campaign too long - nearly twice EDF 2017 Portable's 60 missions, with big lulls (`sprawling-to-a-fault`) - and shows how split offline and online progress hurts completion hunters. 89718328 names spongy enemy types (`bullet-sponges`) and rare dud weapons (`some-options-are-useless`).
 
+## Notes - round 553 (EARTH DEFENSE FORCE 5 batch 11)
+
+50 read (2021-05-29 to 2021-08-15), 84 bullets on 50 reviews, none excluded, 5 edited later. Running total 550 of 1,768. 48 up / 2 down. **One new mode** under Rule C: `game-design.ai-teammates.allied-soldiers-are-no-help` (-, 92950686 - the negative side of `allied-soldiers-pull-their-weight`, built in round 545). Tree 1,641 -> 1,642. `findphrase "host leaves"` found `engineering.netcode.the-host-leaving-ends-everyones-run` already in the tree, so 94020422 went there instead of a new mode. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 01:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.68, 30 of 50 reviews 15 words or fewer (31% unknown), 7 reviews over 60 words at 4.6 bullets each and 23 words per bullet.
+- **The two down reviews:** 94672014 (fell asleep after 45 minutes, refunded it, a jab at fans) and 96711547 (completion means replaying 110 levels three times with each of four classes - `only-repetition-completes-the-set`, now 4).
+- **Running counts at 550:** `successor-framing-accepted` 74 reviews, `cheesy-on-purpose` 60.
+- **For Dominion (listen server):** 94020422 lists the online faults of a host-run co-op game - the session ends when the host leaves (`the-host-leaving-ends-everyones-run`), no joining a game in progress (`cannot-join-a-match-in-progress`), a high-ranking player joining makes it much harder (`dragged-into-content-above-your-level`), and a shrinking community (`the-numbers-are-falling`). 96695194 taught their wife mouse and keyboard with it (`non-gamers-can-play-it`).
+

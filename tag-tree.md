@@ -10350,6 +10350,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 552, EARTH DEFENSE FORCE 5 batch 10.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 11 - round 553 (Rule C)
+
+### `game-design.ai-teammates`
+| Mode | | Definition |
+|---|---|---|
+| `.allied-soldiers-are-no-help` | **−** | The mission fields the game's own allied soldiers, and the reviewer says they do little against the enemy, so the players carry the fight themselves. **The negative side of `.allied-soldiers-pull-their-weight`**, and distinct from `.useless-in-combat`, which is about bots filling a player's slot. EARTH DEFENSE FORCE 5 92950686 (*"the AI is pretty useless against the enemies and you will need friends to get through it"*). |
+
+🔑 **Round 553, EARTH DEFENSE FORCE 5 batch 11.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
