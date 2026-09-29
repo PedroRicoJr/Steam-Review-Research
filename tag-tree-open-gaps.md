@@ -10908,3 +10908,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 550:** `successor-framing-accepted` 74 reviews, `cheesy-on-purpose` 60.
 - **For Dominion (listen server):** 94020422 lists the online faults of a host-run co-op game - the session ends when the host leaves (`the-host-leaving-ends-everyones-run`), no joining a game in progress (`cannot-join-a-match-in-progress`), a high-ranking player joining makes it much harder (`dragged-into-content-above-your-level`), and a shrinking community (`the-numbers-are-falling`). 96695194 taught their wife mouse and keyboard with it (`non-gamers-can-play-it`).
 
+## Notes - round 554 (EARTH DEFENSE FORCE 5 batch 12)
+
+50 read (2021-08-12 to 2021-10-31), 80 bullets on 50 reviews, none excluded, 5 edited later. Running total 600 of 1,768. 48 up / 2 down. **No new modes** - every bullet found an existing home (the ragdolls went to `art.effects-and-gore.the-ragdolls-are-funny`, built for Gunfire Reborn). Tree stays at 1,642. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 02:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.60, 29 of 50 reviews 15 words or fewer (30% unknown), 6 reviews over 60 words at 4.2 bullets each and 33 words per bullet.
+- **The two down reviews:** 98960802 (cannot join a game in progress - `cannot-join-a-match-in-progress`, now 3 - and the revive and backup buttons are never explained) and 99379840 (fun mindless loot-and-shoot, not worth the asking price).
+- **Running counts at 600:** `successor-framing-accepted` 75 reviews, `cheesy-on-purpose` 64, `memorable-lines` 28 - "They look just like us" alone draws 54 helpful on 97955084.
+- **For Dominion:** 99702004 would have refunded over the NPC voice lines and kept playing only because they can be muted (`grating-or-repetitive`, `options-cover-what-you-need`) - the same lines other players quote with love. A mute option for voice chatter costs little and saved this sale.
+
