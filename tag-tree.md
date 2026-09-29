@@ -10368,6 +10368,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 555, EARTH DEFENSE FORCE 5 batch 13.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 14 - round 556 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-second-couch-player-starts-behind` | **−** | In split screen, the second player does not bring the main player's progress - armour, health, gear - so they start weaker. **A limit on `.split-screen-is-offered`**, like `.split-screen-cannot-go-online`. EARTH DEFENSE FORCE 5 109511609 (*"A local co-op player will not start with the same armor values as the main player"*). |
+
+🔑 **Round 556, EARTH DEFENSE FORCE 5 batch 14.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -10926,3 +10926,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 650:** `successor-framing-accepted` 76 reviews, `cheesy-on-purpose` 67, `memorable-lines` 33, `split-screen-is-offered` 9.
 - **For Dominion:** 106957109 (16 helpful) says full price is only worth it with at least one friend - multi-seat vehicles and weapon combos exist only in a group (`rewards-teamwork`) - and that random weapon stats can make a higher-tier weapon weaker than the one before it (`rarity-does-not-match-usefulness`). 106950193 reports a seizure while playing, possibly as a joke; it is filed on the photosensitivity mode as written.
 
+## Notes - round 556 (EARTH DEFENSE FORCE 5 batch 14)
+
+50 read (2022-01-13 to 2022-03-31), 98 bullets on 50 reviews, none excluded, 1 edited later. Running total 700 of 1,768. 50 up / 0 down. **One new mode** under Rule C: `game-design.modes.the-second-couch-player-starts-behind` (-, 109511609 - the split-screen partner does not get the main player's armour), the third limit filed on split screen after `split-screen-cannot-go-online`. Tree 1,643 -> 1,644. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 04:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.96, 30 of 50 reviews 15 words or fewer (21% unknown), 9 reviews over 60 words at 5.1 bullets each and 41 words per bullet.
+- **Running counts at 700:** `successor-framing-accepted` 84 reviews, `cheesy-on-purpose` 70, `weaker-than-the-last-game` 9 (the song again), `sprawling-to-a-fault` 3.
+- **"A lot of bugs":** 111150953 (30 helpful) and 110867008 say the game has "a lot of bugs"; in a game about giant insects this reads as a pun and is filed on `review.positive.unknown`, not on `engineering.bugs`.
+- **For Dominion:** 111659741 (68 helpful, the most-helpful review so far this batch) sells it as a no-brain co-op game, with victory sounds as the one memorable piece of audio (`the-payout-lands-well`). 112670890 names camera hijacking as the only bad thing, fixed by a 'Camera Effects' toggle (`moves-more-than-you-asked-for`, `options-cover-what-you-need`) - a second case this game's options saved a player, after the mutable NPC voices in round 554.
+
