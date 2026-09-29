@@ -1651,3 +1651,7 @@ game-design.progression.unlock-pace.collecting-the-drops-by-hand-is-a-chore | - 
 game-design.world-interaction.wants-bodies-to-stay-as-cover | - | The reviewer asks for the bodies of large enemies to stay in the world as temporary shields or obstacles, inst
 game-design.world-interaction.bodies-stay-and-block-the-way | + | The bodies of large enemies stay in the world and physically block shots and movement, and the reviewer names 
 marketing.discovery.came-because-a-rival-was-not-sold-here | ~ | The reviewer came to this game because a similar game was withdrawn from sale or blocked in their country. Neu
+game-design.role-design.a-class-waits-too-long-for-its-main-tool | - | The class's defining tool - a vehicle, an air strike, a call-in - must first be paid for with points earned in
+game-design.role-design.one-class-makes-the-others-feel-dull | - | One class is so much fun that the reviewer finds the rest slow or flat and struggles to go back to them. **Dis
+game-design.enemy-design.enemies-heal-themselves | - | An enemy type restores its own health during the fight, and the reviewer names that as why they dislike it. EA
+game-design.progression.build-and-customisation.a-named-weapon-or-vehicle-is-loved | + | The reviewer names one weapon or vehicle and declares their love for it, with no more said. **Distinct from `.

@@ -11037,3 +11037,14 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 1,250:** `cheesy-on-purpose` 127 reviews, `successor-framing-accepted` 114, `collecting-the-drops-by-hand-is-a-chore` 7 - two more reviews recommend a mod or cheat that collects every box at mission end.
 - **For Dominion:** 165278119 would have played Helldivers 2 if it had split screen and chose EDF 5 for local co-op, and prefers a long campaign to "doing runs over and over". 165751833 says missing 95% of upgrades unless you spend 10 minutes collecting loot after each mission is the design's cost. 165938812 (9 helpful) says the community plays along with the NPC radio, turning it into shared comedy (`welcoming-community`).
 
+## Notes - round 568 (EARTH DEFENSE FORCE 5 batch 26)
+
+50 reviews, created 2024-07-13 to 2024-09-30; 49 summarised (85 bullets), 1 empty review (172072148) excluded. 4 new modes under Rule C:
+
+- `game-design.role-design.a-class-waits-too-long-for-its-main-tool` (−) - 169822707: the Air Raider must earn credits in the mission before its vehicle drops, "far too little too late" in early missions.
+- `game-design.role-design.one-class-makes-the-others-feel-dull` (−) - 173590975: after the Wing Diver, the other classes feel slow, and it is "tough to go back".
+- `game-design.enemy-design.enemies-heal-themselves` (−) - 169822707: the humanoid aliens shoot from range and regenerate.
+- `game-design.progression.build-and-customisation.a-named-weapon-or-vehicle-is-loved` (+) - 173759594: "Armoured Vehicle Grape my beloved". Not filed as `review.repeats-a-copied-meme-text`: "X my beloved" is a phrase pattern, not a copied text.
+
+Other choices: the Wing Diver weakened since 4.1 stays on `role-underpowered`, as in earlier EDF5 rounds. "No fancy graphics" goes to `looks-dated`, as the 17 earlier EDF5 graphics complaints did. "Better than EDF 6" (171173580) and "A much better EDF 6" (171573552) take `better-than-the-sequel-that-followed`, now 3 EDF5 reviews. Helldivers is now named in 15 EDF5 summaries. 174982572 (5 helpful) is the batch's one thumbs-down: connection drops, no patches, $60 too high.
+

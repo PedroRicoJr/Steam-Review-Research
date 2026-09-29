@@ -10450,6 +10450,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 567, EARTH DEFENSE FORCE 5 batch 25.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 26 - round 568 (Rule C)
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-class-waits-too-long-for-its-main-tool` | **−** | The class's defining tool - a vehicle, an air strike, a call-in - must first be paid for with points earned inside the mission, and in many missions it arrives too late to matter. **Distinct from `.role-underpowered`**: the tool is strong once it comes; the complaint is the wait. EARTH DEFENSE FORCE 5 169822707 (*"there is a wait to get the credits to finally get the drop. And many of the early missions, its far too little too late"*). |
+| `.one-class-makes-the-others-feel-dull` | **−** | One class is so much fun that the reviewer finds the rest slow or flat and struggles to go back to them. **Distinct from `.role-underpowered`**, which is about strength: here the other classes may be fine, they just lose by comparison. EARTH DEFENSE FORCE 5 173590975 (*"She is hands down the best to play as and it is tough to go back to the others"*). |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.enemies-heal-themselves` | **−** | An enemy type restores its own health during the fight, and the reviewer names that as why they dislike it. EARTH DEFENSE FORCE 5 169822707 (*"humanoid aliens that have a long range attack and regenerate. Which I can't say I particularly like"*). |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.a-named-weapon-or-vehicle-is-loved` | **+** | The reviewer names one weapon or vehicle and declares their love for it, with no more said. **Distinct from `.deep-and-varied`**, which praises the range: this is one piece of kit. EARTH DEFENSE FORCE 5 173759594 (*"Armoured Vehicle Grape my beloved"*). |
+
+🔑 **Round 568, EARTH DEFENSE FORCE 5 batch 26.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
