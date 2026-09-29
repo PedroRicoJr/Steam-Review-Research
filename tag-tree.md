@@ -10549,6 +10549,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 572, EARTH DEFENSE FORCE 5 batch 30.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 31 - round 573 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.a-named-rival-does-it-better` | **−** | The reviewer names another game and says it does what this one does, better - even when they still recommend this one. **The inverse of `.beats-its-rivals`; distinct from `.beaten-by-games-it-does-not-name`**, where no game is named. EARTH DEFENSE FORCE 5 206084077 (*"Helldivers 2 improved on the formula in pretty much every way"*), 204647224 (*"War of the Worlds (1999) and Gears of War (2006) did it better"*). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.no-sign-a-weapon-is-winding-up` | **−** | A weapon has a wind-up before it fires, and nothing on screen or in sound shows it, so the player thinks the button did not work. EARTH DEFENSE FORCE 5 204647224 (*"The minigun has no clear indication when it's spinning up in preparation to fire... you'd be forgiven for thinking the controls didn't work"*). |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-last-enemy-must-be-hunted-down` | **−** | The mission ends only when every enemy is dead, and the last one is stuck or far away, so the end of a mission becomes a search. EARTH DEFENSE FORCE 5 204647224 (*"the last enemy gets stuck a mile away - some missions won't end unless you kill 100% of enemies"*). |
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.it-grew-on-me` | **+** | The reviewer says the game did not win them over at once and took a while to grow on them, and they ended up liking it. **Distinct from `game-design.pacing.slow-to-get-going`**, which is the game being slow: here the reviewer's liking was. EARTH DEFENSE FORCE 5 206091969 (*"It took a little bit to grow on me but in the end I find this to be a rather entertaining game"*). |
+
+🔑 **Round 573, EARTH DEFENSE FORCE 5 batch 31.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

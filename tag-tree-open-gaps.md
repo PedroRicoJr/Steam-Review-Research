@@ -11091,3 +11091,14 @@ Other choices: 188696240 is a mock review under a thumbs up, so its points are f
 
 Other choices: 195199567 says get EDF 6 unless you want the story that leads into it. It takes `worse-than-the-sequel-that-followed`, now 2 EDF5 reviews against 3 for `better-than-the-sequel-that-followed`. The second copied "kill the aliens" list (196427122) goes to `repeats-a-copied-meme-text`. "Best couple game" (197711941) goes to `it-is-how-i-play-with-my-family`. 199089436 ("a classic... when I was a child") takes round 569's `feels-like-the-games-of-my-youth`. Chinese review 197606630 is summarised in English and tagged `written-in-a-language-other-than-its-steam-tag`. 100% completion needing every class on Inferno is now in 9 EDF5 reviews.
 
+## Notes - round 573 (EARTH DEFENSE FORCE 5 batch 31)
+
+50 reviews, created 2025-08-04 to 2025-10-23; all 50 summarised (93 bullets), none excluded. 4 new modes under Rule C:
+
+- `marketing.reputation.a-named-rival-does-it-better` (−) - 206084077 (7 helpful): "Helldivers 2 improved on the formula in pretty much every way", under a thumbs up. Also 204647224. The inverse of `beats-its-rivals`, which had no named-rival negative.
+- `game-design.ui-ux.no-sign-a-weapon-is-winding-up` (−) - 204647224: the minigun's spin-up is not shown.
+- `game-design.level-design.the-last-enemy-must-be-hunted-down` (−) - 204647224: a mission ends only when the last, stuck, distant enemy dies.
+- `game-design.new-player-experience.it-grew-on-me` (+) - 206091969.
+
+Other choices: 204647224 (3 helpful, thumbs down) has 18 bullets, the most of any EDF5 summary so far. Replaying a whole mission after dying goes to `punishment-model.harsh-restart`. The start-up white flashes go to `flashing-that-endangers-photosensitive-players`, as in an earlier round. 201453939 is usually squeamish about gore and was won over; filed on `won-over-someone-who-avoids-the-genre`, with the gore named in the bullet. "Slopdivers 2 but good" (207417758) is recorded as a jab at Helldivers 2. Helldivers is now named in 23 EDF5 summaries; quoted lines and songs are in 116.
+

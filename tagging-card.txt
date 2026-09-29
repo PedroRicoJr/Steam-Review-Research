@@ -1670,3 +1670,7 @@ game-design.pacing.missions-that-only-introduce-an-enemy | - | Many short missio
 game-design.game-feel.movement.you-slide-on-after-stopping | - | Letting go of a sprint or dash leaves the character sliding on for a moment, unable to act, and enemies catch 
 game-design.ai-teammates.the-allied-soldiers-sing-to-fit-the-moment | + | The game's allied soldiers choose their songs or chants by the situation - a cave song in a cave, a gloomier v
 game-design.power-balance.health-drops-swing-from-too-many-to-too-few | - | Health pickups are plentiful in one place and scarce in the next, so the player cannot count on them. **Distin
+marketing.reputation.a-named-rival-does-it-better | - | The reviewer names another game and says it does what this one does, better - even when they still recommend t
+game-design.ui-ux.no-sign-a-weapon-is-winding-up | - | A weapon has a wind-up before it fires, and nothing on screen or in sound shows it, so the player thinks the b
+game-design.level-design.the-last-enemy-must-be-hunted-down | - | The mission ends only when every enemy is dead, and the last one is stuck or far away, so the end of a mission
+game-design.new-player-experience.it-grew-on-me | + | The reviewer says the game did not win them over at once and took a while to grow on them, and they ended up l
