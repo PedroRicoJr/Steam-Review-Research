@@ -10414,6 +10414,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 560, EARTH DEFENSE FORCE 5 batch 18.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 20 - round 562 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.collecting-the-drops-by-hand-is-a-chore` | **−** | Loot, armour and weapons fall to the ground and count only if the player runs over each one mid-fight, and the reviewer finds that collecting unfun. **Distinct from `.grindy`**, which is how long progress takes; this is the chore of gathering it. EARTH DEFENSE FORCE 5 140427854 (*"you have to run around and pick up armor and weapon boxes. The problem is, this isn't fun"*). |
+
+🔑 **Round 562, EARTH DEFENSE FORCE 5 batch 20.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
