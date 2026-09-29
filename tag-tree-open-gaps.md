@@ -10973,3 +10973,11 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 900:** `successor-framing-accepted` 96 reviews, `cheesy-on-purpose` 90, `the-reviewer-warns-phobic-players` 5, `flashing-that-endangers-photosensitive-players` 4.
 - **For Dominion:** 131919086 (the longest in the batch) takes apart the loot system - random drops in level brackets, duplicates raising a random stat, per-mission level caps, weapons useless until upgraded - and still recommends it for the moments "when the game works". 130297837 says armour must be re-farmed on easy missions before joining each new friend's harder games (`teammates-cannot-share-progress`): progression that keeps friends apart. 131324033 notes the story lives in mid-fight radio chatter and is lost under fire (`told-during-the-fighting-so-it-is-lost`).
 
+## Notes - round 561 (EARTH DEFENSE FORCE 5 batch 19)
+
+50 read (2023-01-29 to 2023-04-15), 82 bullets on 50 reviews, none excluded, 1 edited later. Running total 950 of 1,768. 50 up / 0 down. **No new modes.** Tree stays at 1,649. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 09:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.64, 31 of 50 reviews 15 words or fewer (33% unknown), 6 reviews over 60 words at 4.5 bullets each and 27 words per bullet.
+- **Running counts at 950:** `successor-framing-accepted` 99 reviews, `cheesy-on-purpose` 98, `buy-on-sale-only` 35, `no-extra-account-required` 2 (135755481, written in 2023 and edited in May 2024, calls it "a better HELL DIVER" with no PSN required - the first Helldivers comparison in the EDF 5 summaries so far).
+- **For Dominion:** 136259223 praises the online play (`smooth-online`) and then lists what a sequel should add - difficulty modifiers, light weapon mods, random side objectives for loot (`wants-more-than-shooting`), a better camera and options (`missing-quality-of-life`) - and says each new EDF adds nothing new (`the-sequel-changes-too-little`). 134103499 credits EDF 5 for respecting the player's time: Hard clears count for Easy and Normal, and weak vehicles and Air Raider guns were rebalanced.
+
