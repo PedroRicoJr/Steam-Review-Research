@@ -10954,3 +10954,13 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 800:** `successor-framing-accepted` 89 reviews, `cheesy-on-purpose` 80, `friendly-fire-makes-stories` 10.
 - **For Dominion:** 118369851 would recommend it but for the online connection, the one complaint here a listen-server game shares directly. 119349469 (15 helpful) repeats the pattern of this corpus: far better in co-op, much harder alone (`punishing-solo`).
 
+## Notes - round 559 (EARTH DEFENSE FORCE 5 batch 17)
+
+50 read (2022-08-30 to 2022-11-15), 121 bullets on 50 reviews, none excluded, 5 edited later. Running total 850 of 1,768. 49 up / 1 down. **Three new modes** under Rule C: `engineering.access.no-extra-account-required` (+, 124633213 - no PSN account; `findphrase "PSN"` found nothing), `game-design.role-design.some-missions-need-a-particular-class` (~, 122170835) and `game-design.co-op-design.online-games-cap-the-gear-you-bring` (-, 122622945, 34 helpful). Tree 1,645 -> 1,648. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 07:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.42, 28 of 50 reviews 15 words or fewer (18% unknown), 10 reviews over 60 words at 6.6 bullets each and 73 words per bullet - three very long reviews (122622945, 124490104, 125087250) carry the batch.
+- **The one down review:** 124490104 (7 helpful, 151 hours) - a long list of faults: $60 before DLC, dumb dialogue, bad in-game advice, the camera taken mid-fight, allied AI that cannot crew turrets and blocks shots, useless weapons in every class, Air Raider artillery that fails underground, a fragile Wing Diver, griefers, separate solo and online medals, and non-mission DLC not worth buying.
+- **Running counts at 850:** `successor-framing-accepted` 94 reviews, `cheesy-on-purpose` 84, `weaker-than-the-last-game` 13, `solo-and-online-progress-are-separate` 6.
+- **For Dominion:** 122622945 and 124490104 together lay out the online rules that frustrate: harder scaling online (`the-scaling-outpaces-a-full-group`), gear caps until 80% completion (`online-games-cap-the-gear-you-bring`) and progress kept apart from solo. 125087250 names the counterweight - every enemy is readable at a glance, so hordes stay fair (`reads-at-a-glance`) - and co-op that rewards complementary loadouts without forcing them (`rewards-teamwork`).
+- **Most helpful so far:** 125043406, "Finally, a game that knows it's a game", 186 helpful; 125070130, "Japanese Left 4 Dead", 94.
+

@@ -10386,6 +10386,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 557, EARTH DEFENSE FORCE 5 batch 15.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 17 - round 559 (Rule C)
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.no-extra-account-required` | **+** | The reviewer names the **absence** of a required third-party account - a publisher or console network login - as a plus. **The positive side of `.account-or-platform-gate`**, and distinct from `.the-extra-account-is-painless`, where an account is required and easy. EARTH DEFENSE FORCE 5 124633213 (*"Won't force you to create a PSN account"*). |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.some-missions-need-a-particular-class` | ~ | Some missions cannot be cleared with the player's favourite class and push them to switch class or bring a partner, so no one tool beats every mission. Neutral: the reviewer finds it annoying and a good design at once. EARTH DEFENSE FORCE 5 122170835 (*"the forced need to either play another class or play with a friend to get past some missions is annoying but a nice touch"*). |
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.online-games-cap-the-gear-you-bring` | **−** | Online sessions limit the level of weapons and armour a player may bring, by difficulty or mission, until a completion threshold is reached, so gear earned alone cannot all be used with others. **Distinct from `engineering.matchmaking.room-limits-rule-out-most-games`**, which is hosts' own room limits filtering who can join. EARTH DEFENSE FORCE 5 122622945 (*"on Multiplayer, depending on the Difficulty and Mission, you are limited in the level of equipment and amount of armor you can take with you"*, 34 helpful). |
+
+🔑 **Round 559, EARTH DEFENSE FORCE 5 batch 17.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

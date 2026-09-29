@@ -1643,3 +1643,6 @@ game-design.ai-teammates.allied-soldiers-are-no-help | - | The mission fields th
 accessibility.phobia.playing-it-eased-the-fear | + | The reviewer says playing the game - facing the thing they fear over and over - made the phobia weaker. **Dist
 game-design.modes.the-second-couch-player-starts-behind | - | In split screen, the second player does not bring the main player's progress - armour, health, gear - so they 
 marketing.positioning.too-niche-to-bring-friends-along | - | The reviewer loves the game but says its style is too particular for their friends - who dismiss it on sight -
+engineering.access.no-extra-account-required | + | The reviewer names the **absence** of a required third-party account - a publisher or console network login - 
+game-design.role-design.some-missions-need-a-particular-class | ~ | Some missions cannot be cleared with the player's favourite class and push them to switch class or bring a par
+game-design.co-op-design.online-games-cap-the-gear-you-bring | - | Online sessions limit the level of weapons and armour a player may bring, by difficulty or mission, until a co
