@@ -1674,3 +1674,6 @@ marketing.reputation.a-named-rival-does-it-better | - | The reviewer names anoth
 game-design.ui-ux.no-sign-a-weapon-is-winding-up | - | A weapon has a wind-up before it fires, and nothing on screen or in sound shows it, so the player thinks the b
 game-design.level-design.the-last-enemy-must-be-hunted-down | - | The mission ends only when every enemy is dead, and the last one is stuck or far away, so the end of a mission
 game-design.new-player-experience.it-grew-on-me | + | The reviewer says the game did not win them over at once and took a while to grow on them, and they ended up l
+game-design.progression.build-and-customisation.armour-is-only-a-health-number | - | The character's own growth is one health figure - no stats, no skills, no armour pieces with their own propert
+game-design.solo-viability.the-vehicles-are-built-for-a-crew | - | The vehicles carry gunner seats a solo player cannot fill, so alone they are weaker than designed, and the rev
+game-design.game-feel.movement.helpless-in-deep-water | - | In deep water the character can only swim - no jump, boost or shooting - so maps with rivers and sea cause dea

@@ -11102,3 +11102,13 @@ Other choices: 195199567 says get EDF 6 unless you want the story that leads int
 
 Other choices: 204647224 (3 helpful, thumbs down) has 18 bullets, the most of any EDF5 summary so far. Replaying a whole mission after dying goes to `punishment-model.harsh-restart`. The start-up white flashes go to `flashing-that-endangers-photosensitive-players`, as in an earlier round. 201453939 is usually squeamish about gore and was won over; filed on `won-over-someone-who-avoids-the-genre`, with the gore named in the bullet. "Slopdivers 2 but good" (207417758) is recorded as a jab at Helldivers 2. Helldivers is now named in 23 EDF5 summaries; quoted lines and songs are in 116.
 
+## Notes - round 574 (EARTH DEFENSE FORCE 5 batch 32)
+
+50 reviews, created 2025-10-20 to 2026-01-07; all 50 summarised (119 bullets), none excluded. 3 new modes under Rule C:
+
+- `game-design.progression.build-and-customisation.armour-is-only-a-health-number` (−) - 214736603 (7 helpful): no stats, skills or armour pieces, only a health number.
+- `game-design.solo-viability.the-vehicles-are-built-for-a-crew` (−) - 210598353: wants vehicles made for one pilot, without gunner seats.
+- `game-design.game-feel.movement.helpless-in-deep-water` (−) - 210598353: swimming allows no jump, boost or shot.
+
+Other choices: 210598353 is a long list of ideas for future games, so it takes `written-to-the-studio-not-to-the-buyer` and keeps 7 of its concrete asks. 214736603 says the Ranger has "no sprint". Six earlier EDF5 summaries say the Ranger can sprint; the claim is recorded as the reviewer wrote it. Its "hunting one missing bug" joins round 573's `the-last-enemy-must-be-hunted-down` (now 2). 207577052 prefers 5 to 6 (`better-than-the-sequel-that-followed`, now 4). 212939816 has 59 helpful votes, below the batch-level top of 186. Helldivers, or a jab name for it ("Slopdivers", "Redditdivers"), is now in 27 EDF5 summaries.
+

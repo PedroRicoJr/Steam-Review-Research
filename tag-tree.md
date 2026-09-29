@@ -10573,6 +10573,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 573, EARTH DEFENSE FORCE 5 batch 31.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 32 - round 574 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.armour-is-only-a-health-number` | **−** | The character's own growth is one health figure - no stats, no skills, no armour pieces with their own properties - so everything else the player earns is the guns they find. **Distinct from `game-design.progression.unlock-pace.levelling-up-feels-like-nothing`**, where levels exist and change nothing: here there is nothing but the number. EARTH DEFENSE FORCE 5 214736603 (*"There's no real armour upgrades, visual or functional, just an number that goes up that's essentially just health"*). |
+
+### `game-design.solo-viability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-vehicles-are-built-for-a-crew` | **−** | The vehicles carry gunner seats a solo player cannot fill, so alone they are weaker than designed, and the reviewer asks for vehicles made for one pilot. EARTH DEFENSE FORCE 5 210598353 (*"More new vehicles... & design them for solo playthrough... it would proof useful if it were a solo piloted vehicle"*). |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.helpless-in-deep-water` | **−** | In deep water the character can only swim - no jump, boost or shooting - so maps with rivers and sea cause deaths the player cannot fight. EARTH DEFENSE FORCE 5 210598353 (*"Implement a jumping, jump boost, fly, & a shooting mechanic whenever soldiers & players are on their swimming animation idles... to avoid multiple deaths on maps that are surrounded by deep waters"*). |
+
+🔑 **Round 574, EARTH DEFENSE FORCE 5 batch 32.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
