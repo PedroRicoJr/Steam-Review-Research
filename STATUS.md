@@ -18,13 +18,13 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-27 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Gunfire Reborn (Escape from Duckov finished in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 571: EARTH DEFENSE FORCE 5 batch 29, 50 reviews, 5 new modes (1,450 of 1,768) |
-| Next unit | EARTH DEFENSE FORCE 5 batch 30: the next **50** (`python summarise.py next --group earth-defense-force-5/english --n 50`) |
+| Last unit done | Round 572: EARTH DEFENSE FORCE 5 batch 30, 50 reviews, 2 new modes (1,500 of 1,768) |
+| Next unit | EARTH DEFENSE FORCE 5 batch 31: the next **50** (`python summarise.py next --group earth-defense-force-5/english --n 50`) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
-| Tree | 1,670 tags |
+| Tree | 1,672 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
 | Escape from Duckov | **Done** 2026-09-27 - 1,166 of 1,166 read; `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md`, cross-game section 21 |
 | Gunfire Reborn | pulled 2026-09-27: 1,884 reviews (+/-2.51%); 1,884 read (all); **Done** - findings written 2026-09-28 |
-| EARTH DEFENSE FORCE 5 | pulled 2026-09-28: 1,768 reviews (+/-2.58%); 1,450 read; next is batch 30 (50) |
+| EARTH DEFENSE FORCE 5 | pulled 2026-09-28: 1,768 reviews (+/-2.58%); 1,500 read; next is batch 31 (50) |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

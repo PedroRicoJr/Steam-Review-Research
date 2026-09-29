@@ -11082,3 +11082,12 @@ Other choices: "mission 18 should not exist" (184775845) goes to `level-design.o
 
 Other choices: 188696240 is a mock review under a thumbs up, so its points are filed as written, plus `thumb-contradicts-text`. 192086180 rates Insect Armageddon above 5 and goes to `falls-short-of-the-studios-earlier-games` - that game is by another developer, and the mode also covers the publisher's name. "Recommends it only offline" (193922521) goes to `modes.a-mode-falls-flat`. Friendly fire now makes stories in 15 EDF5 reviews.
 
+## Notes - round 572 (EARTH DEFENSE FORCE 5 batch 30)
+
+50 reviews, created 2025-05-18 to 2025-07-31; all 50 summarised (109 bullets), none excluded. 2 new modes under Rule C:
+
+- `game-design.ai-teammates.the-allied-soldiers-sing-to-fit-the-moment` (+) - 195194393 (5 helpful): the squad sings a cave song in caves and a gloomier verse once hurt, including lines the player cannot trigger.
+- `game-design.power-balance.health-drops-swing-from-too-many-to-too-few` (−) - 197420449.
+
+Other choices: 195199567 says get EDF 6 unless you want the story that leads into it. It takes `worse-than-the-sequel-that-followed`, now 2 EDF5 reviews against 3 for `better-than-the-sequel-that-followed`. The second copied "kill the aliens" list (196427122) goes to `repeats-a-copied-meme-text`. "Best couple game" (197711941) goes to `it-is-how-i-play-with-my-family`. 199089436 ("a classic... when I was a child") takes round 569's `feels-like-the-games-of-my-youth`. Chinese review 197606630 is summarised in English and tagged `written-in-a-language-other-than-its-steam-tag`. 100% completion needing every class on Inferno is now in 9 EDF5 reviews.
+

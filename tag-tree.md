@@ -10535,6 +10535,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 571, EARTH DEFENSE FORCE 5 batch 29.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 30 - round 572 (Rule C)
+
+### `game-design.ai-teammates`
+| Mode | | Definition |
+|---|---|---|
+| `.the-allied-soldiers-sing-to-fit-the-moment` | **+** | The game's allied soldiers choose their songs or chants by the situation - a cave song in a cave, a gloomier verse once they are hurt - including lines the player cannot trigger, and the reviewer names it as a favourite detail. **Distinct from `audio.voice-performance.memorable-lines`**, which is lines players quote: this is the squad reacting on its own. EARTH DEFENSE FORCE 5 195194393 (*"They'll sing a similar song, except more depressed... And you can't access those ones, so it just has to happen without your input"*). |
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.health-drops-swing-from-too-many-to-too-few` | **−** | Health pickups are plentiful in one place and scarce in the next, so the player cannot count on them. **Distinct from `.resources-too-scarce` and `.resources-too-plentiful`**, which are one-sided: this is the swing between them. EARTH DEFENSE FORCE 5 197420449 (*"health boxes are sometimes too abundant or few and far between"*). |
+
+🔑 **Round 572, EARTH DEFENSE FORCE 5 batch 30.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1668,3 +1668,5 @@ game-design.co-op-design.the-scaling-steps-are-uneven | - | The difficulty added
 game-design.co-op-design.gear-limits-keep-a-mixed-group-even | + | The room can cap armour and weapon levels at the weakest player's, so a group of mixed progress plays on even 
 game-design.pacing.missions-that-only-introduce-an-enemy | - | Many short missions exist only to show one new enemy type and a few lines of dialogue, and the reviewer wants 
 game-design.game-feel.movement.you-slide-on-after-stopping | - | Letting go of a sprint or dash leaves the character sliding on for a moment, unable to act, and enemies catch 
+game-design.ai-teammates.the-allied-soldiers-sing-to-fit-the-moment | + | The game's allied soldiers choose their songs or chants by the situation - a cave song in a cave, a gloomier v
+game-design.power-balance.health-drops-swing-from-too-many-to-too-few | - | Health pickups are plentiful in one place and scarce in the next, so the player cannot count on them. **Distin
