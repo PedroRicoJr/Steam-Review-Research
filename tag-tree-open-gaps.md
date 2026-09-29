@@ -10917,3 +10917,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 600:** `successor-framing-accepted` 75 reviews, `cheesy-on-purpose` 64, `memorable-lines` 28 - "They look just like us" alone draws 54 helpful on 97955084.
 - **For Dominion:** 99702004 would have refunded over the NPC voice lines and kept playing only because they can be muted (`grating-or-repetitive`, `options-cover-what-you-need`) - the same lines other players quote with love. A mute option for voice chatter costs little and saved this sale.
 
+## Notes - round 555 (EARTH DEFENSE FORCE 5 batch 13)
+
+50 read (2021-10-31 to 2022-01-15), 73 bullets on 50 reviews, none excluded, 4 edited later. Running total 650 of 1,768. 49 up / 1 down. **One new mode** under Rule C: `accessibility.phobia.playing-it-eased-the-fear` (+, 102839905, 9 helpful; `findphrase` "fear of spiders" and "arachnophobia" found only a reviewer who could not play). Tree 1,642 -> 1,643. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 03:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.46, **36 of 50 reviews 15 words or fewer** (38% unknown - song verses and chants), 4 reviews over 60 words at 5.0 bullets each and 41 words per bullet.
+- **The one down review:** 105759328 - crashes and freezes (one bomber call froze it) that lose all the loot of an Inferno mission (`crashes-repeatedly`).
+- **Running counts at 650:** `successor-framing-accepted` 76 reviews, `cheesy-on-purpose` 67, `memorable-lines` 33, `split-screen-is-offered` 9.
+- **For Dominion:** 106957109 (16 helpful) says full price is only worth it with at least one friend - multi-seat vehicles and weapon combos exist only in a group (`rewards-teamwork`) - and that random weapon stats can make a higher-tier weapon weaker than the one before it (`rarity-does-not-match-usefulness`). 106950193 reports a seizure while playing, possibly as a joke; it is filed on the photosensitivity mode as written.
+

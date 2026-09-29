@@ -10359,6 +10359,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 553, EARTH DEFENSE FORCE 5 batch 11.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 13 - round 555 (Rule C)
+
+### `accessibility.phobia`
+| Mode | | Definition |
+|---|---|---|
+| `.playing-it-eased-the-fear` | **+** | The reviewer says playing the game - facing the thing they fear over and over - made the phobia weaker. **Distinct from `.a-setting-let-me-play-it`**, where an option removed the trigger, and from `.the-reviewer-warns-phobic-players`, a warning to others. EARTH DEFENSE FORCE 5 102839905 (*"helped me to get over the fear of spiders"*, 9 helpful). |
+
+🔑 **Round 555, EARTH DEFENSE FORCE 5 batch 13.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
