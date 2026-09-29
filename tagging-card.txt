@@ -1650,3 +1650,4 @@ game-design.difficulty-tuning.each-mission-caps-your-weapon-level | - | Each mis
 game-design.progression.unlock-pace.collecting-the-drops-by-hand-is-a-chore | - | Loot, armour and weapons fall to the ground and count only if the player runs over each one mid-fight, and the
 game-design.world-interaction.wants-bodies-to-stay-as-cover | - | The reviewer asks for the bodies of large enemies to stay in the world as temporary shields or obstacles, inst
 game-design.world-interaction.bodies-stay-and-block-the-way | + | The bodies of large enemies stay in the world and physically block shots and movement, and the reviewer names 
+marketing.discovery.came-because-a-rival-was-not-sold-here | ~ | The reviewer came to this game because a similar game was withdrawn from sale or blocked in their country. Neu

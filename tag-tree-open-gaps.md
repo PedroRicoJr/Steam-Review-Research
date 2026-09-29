@@ -11027,3 +11027,13 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 1,200:** `cheesy-on-purpose` 124 reviews, `successor-framing-accepted` 110, `collecting-the-drops-by-hand-is-a-chore` 5.
 - **For Dominion:** 158894659, a first-time player, lays out the co-op cost of the price - 50 euros each, 200 for a team, with about 20 DLCs, is too much to talk friends into (`blocks-getting-a-group`) - alongside a diluted campaign (one new enemy type per 3 hours; cut half the missions), boring crate collecting and bad ally pathfinding (`gets-stuck`). 158185905 says Hard is what made it click: getting stuck pushes you to experiment with the arsenal (`asks-you-to-think`), and the radio chatter cues incoming waves.
 
+## Notes - round 567 (EARTH DEFENSE FORCE 5 batch 25)
+
+50 read (2024-04-28 to 2024-07-15), 90 bullets on 50 reviews, none excluded, 3 edited later. Running total 1,250 of 1,768. 49 up / 1 down. **One new mode** under Rule C: `marketing.discovery.came-because-a-rival-was-not-sold-here` (~, 165319991 and 165288608 - players whose country was blocked from Helldivers 2 in May 2024; `findphrase "region"` found only this game's own availability, on `not-sold-in-my-country`). Tree 1,652 -> 1,653. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 15:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.80, 25 of 50 reviews 15 words or fewer (22% unknown), 8 reviews over 60 words at 4.6 bullets each and 46 words per bullet.
+- **The one down review:** 166640440 (a better game than 4.1, but more annoying enemies - filed on `enemy-design.unknown`, since it names no enemy or behaviour).
+- **Helldivers 2 as the reference point:** 12 EDF 5 summaries now mention Helldivers, 7 of them in this batch - as a rival (`beats-its-rivals` on 163820223 and 168502676), a companion game, or a blocked alternative. `no-extra-account-required` reaches 4 (PSN, Epic).
+- **Running counts at 1,250:** `cheesy-on-purpose` 127 reviews, `successor-framing-accepted` 114, `collecting-the-drops-by-hand-is-a-chore` 7 - two more reviews recommend a mod or cheat that collects every box at mission end.
+- **For Dominion:** 165278119 would have played Helldivers 2 if it had split screen and chose EDF 5 for local co-op, and prefers a long campaign to "doing runs over and over". 165751833 says missing 95% of upgrades unless you spend 10 minutes collecting loot after each mission is the design's cost. 165938812 (9 helpful) says the community plays along with the NPC radio, turning it into shared comedy (`welcoming-community`).
+

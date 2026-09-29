@@ -10441,6 +10441,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 566, EARTH DEFENSE FORCE 5 batch 24.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 25 - round 567 (Rule C)
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.came-because-a-rival-was-not-sold-here` | ~ | The reviewer came to this game because a similar game was withdrawn from sale or blocked in their country. Neutral: it records how the game reached them, not a verdict. **Distinct from `publishing.availability.not-sold-in-my-country`**, which is this game being unavailable. EARTH DEFENSE FORCE 5 165319991 (*"my country is banned from Helldiver 2"*), 165288608. |
+
+🔑 **Round 567, EARTH DEFENSE FORCE 5 batch 25.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
