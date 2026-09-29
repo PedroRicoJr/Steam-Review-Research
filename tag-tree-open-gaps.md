@@ -10945,3 +10945,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **A personal account:** 113847412 credits the game with helping them through a very hard period, played one-handed while an injury healed (`the-game-helped-them-through-a-hard-time`, `playable-one-handed`). The personal details in the review are left out of the summary.
 - **For Dominion:** 114278896 is the co-op cost of a strong style: the game's biggest fan cannot get a single friend to buy it. 113905998 recommends it for a busy schedule, since the 110 missions are short (`good-in-short-sittings`).
 
+## Notes - round 558 (EARTH DEFENSE FORCE 5 batch 16)
+
+50 read (2022-06-13 to 2022-08-31), 74 bullets on 50 reviews, none excluded, 1 edited later. Running total 800 of 1,768. 46 up / 4 down. **No new modes** - a corrupted save went to `engineering.stability.progress-not-saved`, where `findphrase "corrupt"` found three earlier ones. Tree stays at 1,645. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 06:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.48, 29 of 50 reviews 15 words or fewer (36% unknown), 7 reviews over 60 words at 2.3 bullets each and **85 words per bullet** - song lyrics (117945391, the full infantry song; 119745059, an unrelated song about killing aliens) are long reviews with one bullet.
+- **The four down reviews:** 118369851 (disconnects and network problems online - `frequent-disconnects`), 119332443 (hard freezes within seconds despite many fixes), 120654742 (4.1 is a lot better - `successor-claim-backfired`, now 5) and 121114740 (the screen turned white in the first mission).
+- **Running counts at 800:** `successor-framing-accepted` 89 reviews, `cheesy-on-purpose` 80, `friendly-fire-makes-stories` 10.
+- **For Dominion:** 118369851 would recommend it but for the online connection, the one complaint here a listen-server game shares directly. 119349469 (15 helpful) repeats the pattern of this corpus: far better in co-op, much harder alone (`punishing-solo`).
+
