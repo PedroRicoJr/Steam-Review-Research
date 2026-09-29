@@ -10341,6 +10341,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 551, EARTH DEFENSE FORCE 5 batch 9.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 10 - round 552 (Rule C)
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.better-than-the-sequel-that-followed` | **+** | Writing after the next game in the series came out, the reviewer rates this one above it - the sequel is worse, so this is the one to play. **The mirror of `marketing.positioning.successor-framing-accepted`**, seen from the older game, and **distinct from `.i-want-a-sequel-to-this-one`**, written before a sequel exists. EARTH DEFENSE FORCE 5 89432567 (*"Forget EDF6 garbage! EDF5 is peak EDF!"*, a 2024 edit). |
+
+🔑 **Round 552, EARTH DEFENSE FORCE 5 batch 10.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -10891,3 +10891,11 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 450:** `successor-framing-accepted` 69 reviews, `cheesy-on-purpose` 47, `grindy` 10, `grind-feels-earned` 2, `causes-motion-sickness` 2.
 - **For Dominion:** 85167365 (the longest in the batch, a full guide) is the most useful read on the difficulty ladder so far: the start is "terribly" boring, the grind is the loop, online multiplies enemy health, the best weapons drop late in Inferno, DLC weapons only drop in DLC missions on Inferno, random star rankings decide weapon quality, and a few weapons dominate. Players who join Inferno with starting health spoil it for the group - the gear gap between players matters in a drop-in co-op game.
 
+## Notes - round 552 (EARTH DEFENSE FORCE 5 batch 10)
+
+50 read (2021-03-15 to 2021-05-31), 85 bullets on 50 reviews, none excluded, 2 edited later. Running total 500 of 1,768. 50 up / 0 down. **One new mode** under Rule C: `marketing.reputation.better-than-the-sequel-that-followed` (+, 89432567, a 2024 edit rating EDF 5 above EDF 6; `findphrase "than the sequel"` found nothing). Tree 1,640 -> 1,641. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 00:45 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.70, **36 of 50 reviews 15 words or fewer** (36% unknown - chants and "I'm doing my part", two of them with 66 and 22 helpful), 5 reviews over 60 words at 6.4 bullets each and 29 words per bullet.
+- **Running counts at 500:** `successor-framing-accepted` 72 reviews, `cheesy-on-purpose` 54, `grindy` 12, `solo-and-online-progress-are-separate` 4.
+- **For Dominion:** 92000655 calls the campaign too long - nearly twice EDF 2017 Portable's 60 missions, with big lulls (`sprawling-to-a-fault`) - and shows how split offline and online progress hurts completion hunters. 89718328 names spongy enemy types (`bullet-sponges`) and rare dud weapons (`some-options-are-useless`).
+

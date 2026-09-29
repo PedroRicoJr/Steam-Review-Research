@@ -1638,3 +1638,4 @@ game-design.progression.build-and-customisation.tools-combine-into-your-own-tact
 community.player-conduct.under-geared-players-join-the-hardest-games | - | Players join the top difficulty with starting health or weapons, die at once and drag the group down, and the 
 game-design.level-design.every-mission-starts-surrounded | - | Mission after mission opens with the squad dropped into the middle of the enemy, already surrounded and expect
 accessibility.phobia.the-reviewer-warns-phobic-players | ~ | The reviewer, not troubled themselves, warns readers with a phobia - most often of spiders - that the game is 
+marketing.reputation.better-than-the-sequel-that-followed | + | Writing after the next game in the series came out, the reviewer rates this one above it - the sequel is worse
