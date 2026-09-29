@@ -11008,3 +11008,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 1,100:** `cheesy-on-purpose` 117 reviews, `successor-framing-accepted` 108.
 - **For Dominion:** 151121003 (7 helpful) is a class-by-class read - the Fencer's mobility tied to weapon choice, the Ranger's vehicle-or-support-gear choice, the Air Raider's credit meta for vehicle drops - and names itemisation as the core problem: 120 weapon levels, duplicate-driven random upgrades, a disorganised weapon list (`managing-the-inventory-is-a-chore`) and crate collecting (`collecting-the-drops-by-hand-is-a-chore`) turn an arcade game into an MMO. 148654233 notes local split screen saves both players' gear to player one, which makes couch farming easy.
 
+## Notes - round 565 (EARTH DEFENSE FORCE 5 batch 23)
+
+50 read (2023-11-29 to 2024-02-14), 73 bullets on 50 reviews, none excluded, none edited later. Running total 1,150 of 1,768. 48 up / 2 down. **No new modes.** Tree stays at 1,651. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 13:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.46, **34 of 50 reviews 15 words or fewer** (36% unknown), 5 reviews over 60 words at 3.8 bullets each and 34 words per bullet.
+- **The two down reviews:** 154204020 (crashes in the tutorial, frame drops on a GTX 1650, asks readers for a fix) and 155451444 (poorly optimised, cannot get a kill, with a jab at anyone who disagrees).
+- **Running counts at 1,150:** `cheesy-on-purpose` 120 reviews, `successor-framing-accepted` 110; `some-missions-need-a-particular-class` and `collecting-the-drops-by-hand-is-a-chore` both reach 3.
+- **For Dominion:** 155403412 lists the mods players use to route around the design - auto-loot to skip crate running (`collecting-the-drops-by-hand-is-a-chore`), an unlocker for the online completion limit (`online-games-cap-the-gear-you-bring`), an armour multiplier against the grind and other hosts' armour limits (`room-limits-rule-out-most-games`). Each mod marks a system players want gone. 153477294 lists what EDF 5 fixed from the older games - armour and weapon drops for every class, offline weapons usable online - and still notes reused maps.
+
