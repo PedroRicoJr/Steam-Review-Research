@@ -1659,3 +1659,7 @@ marketing.reputation.worse-than-the-sequel-that-followed | - | Writing after the
 marketing.reputation.feels-like-the-games-of-my-youth | + | The reviewer says the game plays like the games they grew up with, from a time they remember games being more 
 marketing.positioning.the-sequel-polished-away-the-charm | - | The reviewer says the new entry is cleaner than the earlier games in the series and that the cleaning removed 
 community.social-features.no-join-through-the-platform-friends-list | - | Friends cannot join each other from the store's own friends list; the game makes them go through its own room 
+game-design.progression.unlock-pace.drops-left-when-the-mission-ends-are-lost | - | The mission ends moments after the last kill and any drop not yet picked up is gone, so a player who fought fr
+game-design.progression.unlock-pace.the-grind-is-optional | + | The reviewer says farming for better gear works but is not needed: picking up what drops along the way is enou
+game-design.progression.achievements.seem-to-need-online-play | - | The reviewer says, or suspects, that mission achievements count only in online play, so a solo player's tally 
+marketing.expectation-management.plays-exactly-as-the-videos-show | + | The reviewer tells buyers to watch the videos because the game plays just as they show, so what they see is wh

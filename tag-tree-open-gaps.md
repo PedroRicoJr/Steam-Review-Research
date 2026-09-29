@@ -11059,3 +11059,14 @@ Other choices: the Wing Diver weakened since 4.1 stays on `role-underpowered`, a
 
 Other choices: the long copied "kill bugs, behead bugs" list (179278607) goes to `review.repeats-a-copied-meme-text`, its lines not repeated. A lewd line (182148015) and the "lingerie" joke (178539100) go to `the-cast-is-built-to-titillate`, as earlier leering remarks did. Drops for every class while playing one (176988609) stays on `quality-of-life-is-looked-after`, as three earlier EDF5 reviews did. 178414607 bought 5 because EDF 6 launched with an Epic account requirement: filed on `came-from-a-rival-that-failed-them`, the sequel standing in as the rival. Collecting drops by hand is now a chore in 8 EDF5 reviews; cheats to get through, 5.
 
+## Notes - round 570 (EARTH DEFENSE FORCE 5 batch 28)
+
+50 reviews, created 2024-12-12 to 2025-02-28; all 50 summarised (86 bullets), none excluded. 4 new modes under Rule C:
+
+- `game-design.progression.unlock-pace.drops-left-when-the-mission-ends-are-lost` (−) - 186836235 (8 helpful): about 10 seconds to collect after the mission ends, so a sniper often gets no loot.
+- `game-design.progression.unlock-pace.the-grind-is-optional` (+) - 187397053: farming works, but picking up crates as you go is enough.
+- `game-design.progression.achievements.seem-to-need-online-play` (−) - 186836235 suspects mission achievements count only online. The mode records the belief; it is not checked against the game.
+- `marketing.expectation-management.plays-exactly-as-the-videos-show` (+) - 186478951.
+
+Other choices: "mission 18 should not exist" (184775845) goes to `level-design.one-area-drags-the-rest-down`. Love for one class (Fencer, Air Raider) goes to `each-role-plays-its-own-way`, as earlier EDF5 class praise did. Love for a named weapon, the Phobos strike (185989559), goes to the round-568 `a-named-weapon-or-vehicle-is-loved`. "Garry my beloved" (184055148) stays on `positive.unknown`: what Garry is could not be told from the text. 186461293 frames EDF5 as a remake of the first game with an Engineer class. That frame is filed as a joke, and its true points - part damage, merging duplicates, ragdolls, destruction - are kept. Helldivers is now named in 18 EDF5 summaries; solo play is called worse in 6.
+

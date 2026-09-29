@@ -10490,6 +10490,26 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 569, EARTH DEFENSE FORCE 5 batch 27.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 28 - round 570 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.drops-left-when-the-mission-ends-are-lost` | **−** | The mission ends moments after the last kill and any drop not yet picked up is gone, so a player who fought from far away - a sniper - loses much of the loot. **Distinct from `.collecting-the-drops-by-hand-is-a-chore`**, which is the effort of walking to them: here they are lost. EARTH DEFENSE FORCE 5 186836235 (*"more than half the time you'll not get ANY loot for missions espically if you play like a sniper cuse you only get like 10 seconds to collect"*). |
+| `.the-grind-is-optional` | **+** | The reviewer says farming for better gear works but is not needed: picking up what drops along the way is enough to finish. EARTH DEFENSE FORCE 5 187397053 (*"farming and grinding for upgraded or better weapons is viable but don't sweat it too much if you don't want to"*). |
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.seem-to-need-online-play` | **−** | The reviewer says, or suspects, that mission achievements count only in online play, so a solo player's tally barely moves after many missions. Records the reviewer's belief, not whether it is true. EARTH DEFENSE FORCE 5 186836235 (*"I don't even think you get achievements for the missions unless your playing online"*). |
+
+### `marketing.expectation-management`
+| Mode | | Definition |
+|---|---|---|
+| `.plays-exactly-as-the-videos-show` | **+** | The reviewer tells buyers to watch the videos because the game plays just as they show, so what they see is what they get. **Distinct from `art.visual-direction.look-undersells-the-game`**, where the footage falls short of the game. EARTH DEFENSE FORCE 5 186478951 (*"Watch the videos, and you know what it is about, because it plays exactly as shown"*). |
+
+🔑 **Round 570, EARTH DEFENSE FORCE 5 batch 28.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
