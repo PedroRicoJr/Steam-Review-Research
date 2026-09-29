@@ -10432,6 +10432,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 563, EARTH DEFENSE FORCE 5 batch 21.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 24 - round 566 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.bodies-stay-and-block-the-way` | **+** | The bodies of large enemies stay in the world and physically block shots and movement, and the reviewer names that as a source of chaos they enjoy. **The positive side of `.wants-bodies-to-stay-as-cover`**, which asks for it where it is missing. EARTH DEFENSE FORCE 5 158894659 (*"Having the carcasses block bullets and movements in this game is just genius"*). |
+
+🔑 **Round 566, EARTH DEFENSE FORCE 5 batch 24.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

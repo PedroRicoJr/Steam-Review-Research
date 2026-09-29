@@ -11017,3 +11017,13 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 1,150:** `cheesy-on-purpose` 120 reviews, `successor-framing-accepted` 110; `some-missions-need-a-particular-class` and `collecting-the-drops-by-hand-is-a-chore` both reach 3.
 - **For Dominion:** 155403412 lists the mods players use to route around the design - auto-loot to skip crate running (`collecting-the-drops-by-hand-is-a-chore`), an unlocker for the online completion limit (`online-games-cap-the-gear-you-bring`), an armour multiplier against the grind and other hosts' armour limits (`room-limits-rule-out-most-games`). Each mod marks a system players want gone. 153477294 lists what EDF 5 fixed from the older games - armour and weapon drops for every class, offline weapons usable online - and still notes reused maps.
 
+## Notes - round 566 (EARTH DEFENSE FORCE 5 batch 24)
+
+50 read (2024-02-12 to 2024-04-30), 86 bullets on 50 reviews, none excluded, 2 edited later. Running total 1,200 of 1,768. 49 up / 1 down. **One new mode** under Rule C: `game-design.world-interaction.bodies-stay-and-block-the-way` (+, 158894659 - the positive twin of `wants-bodies-to-stay-as-cover`, built in round 563; `findphrase "carcass"` found nothing). Tree 1,651 -> 1,652. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 15:38 firing (scheduled 14:44 and delivered late).
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.72, 32 of 50 reviews 15 words or fewer (27% unknown), 11 reviews over 60 words at 3.9 bullets each and 78 words per bullet (two reviews are pages of chanting).
+- **The one down review:** 161850420 (boring enemies, terrible graphics).
+- **Helldivers 2 arrives (February 2024):** four reviews in this batch compare EDF 5 with it - 158872972 ("EDF at home: helldivers 2", 180 helpful, second only to the 186 on 125043406), 160046074, 160601288 ("Walmart HellDiver") and 161293379 ("helldivers 0.1"). Five EDF 5 summaries mention Helldivers so far.
+- **Running counts at 1,200:** `cheesy-on-purpose` 124 reviews, `successor-framing-accepted` 110, `collecting-the-drops-by-hand-is-a-chore` 5.
+- **For Dominion:** 158894659, a first-time player, lays out the co-op cost of the price - 50 euros each, 200 for a team, with about 20 DLCs, is too much to talk friends into (`blocks-getting-a-group`) - alongside a diluted campaign (one new enemy type per 3 hours; cut half the missions), boring crate collecting and bad ally pathfinding (`gets-stuck`). 158185905 says Hard is what made it click: getting stuck pushes you to experiment with the arsenal (`asks-you-to-think`), and the radio chatter cues incoming waves.
+

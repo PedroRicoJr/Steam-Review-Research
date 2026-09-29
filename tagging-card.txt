@@ -1649,3 +1649,4 @@ game-design.co-op-design.online-games-cap-the-gear-you-bring | - | Online sessio
 game-design.difficulty-tuning.each-mission-caps-your-weapon-level | - | Each mission sets a maximum weapon or armour level, so the gear the player has earned cannot be brought into e
 game-design.progression.unlock-pace.collecting-the-drops-by-hand-is-a-chore | - | Loot, armour and weapons fall to the ground and count only if the player runs over each one mid-fight, and the
 game-design.world-interaction.wants-bodies-to-stay-as-cover | - | The reviewer asks for the bodies of large enemies to stay in the world as temporary shields or obstacles, inst
+game-design.world-interaction.bodies-stay-and-block-the-way | + | The bodies of large enemies stay in the world and physically block shots and movement, and the reviewer names 
