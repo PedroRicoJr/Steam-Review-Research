@@ -1648,3 +1648,4 @@ game-design.role-design.some-missions-need-a-particular-class | ~ | Some mission
 game-design.co-op-design.online-games-cap-the-gear-you-bring | - | Online sessions limit the level of weapons and armour a player may bring, by difficulty or mission, until a co
 game-design.difficulty-tuning.each-mission-caps-your-weapon-level | - | Each mission sets a maximum weapon or armour level, so the gear the player has earned cannot be brought into e
 game-design.progression.unlock-pace.collecting-the-drops-by-hand-is-a-chore | - | Loot, armour and weapons fall to the ground and count only if the player runs over each one mid-fight, and the
+game-design.world-interaction.wants-bodies-to-stay-as-cover | - | The reviewer asks for the bodies of large enemies to stay in the world as temporary shields or obstacles, inst

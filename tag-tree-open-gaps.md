@@ -10990,3 +10990,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **Running counts at 1,000:** `cheesy-on-purpose` 104 reviews, now ahead of `successor-framing-accepted` at 100; `memorable-lines` 64 - "They look just like us" is quoted almost every batch.
 - **For Dominion:** 139324588 (1,083 hours, 13 helpful) asks for an option to collect all the loot at the end of a map, and notes DLC lobbies can be joined without owning the DLC (`one-copy-covers-the-group`). 139698632 says Hard throughout forces more team coordination than expected, and the struggle made each win feel earned. 140427854 is the other side of the same loop: picking up crates by hand mid-fight is the chore that lost them in 2 hours.
 
+## Notes - round 563 (EARTH DEFENSE FORCE 5 batch 21)
+
+50 read (2023-06-30 to 2023-09-15), 88 bullets on 50 reviews, none excluded, 5 edited later. Running total 1,050 of 1,768. 48 up / 2 down. **One new mode** under Rule C: `game-design.world-interaction.wants-bodies-to-stay-as-cover` (-, 144639499; `findphrase "corpse"` found only corpse-run recovery modes). Tree 1,650 -> 1,651. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 11:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 1.76, 25 of 50 reviews 15 words or fewer (30% unknown), 7 reviews over 60 words at 5.4 bullets each and 39 words per bullet.
+- **The two down reviews:** 141551711 (text says "very gud and 10/10" - `thumb-contradicts-text`) and 144234286 (needlessly grindy; aggressive play punished until you grind 7k armour - `gear-decides-the-pve-fight`).
+- **Running counts at 1,050:** `cheesy-on-purpose` 109 reviews, `successor-framing-accepted` 103, `solo-and-online-progress-are-separate` 7, `cannot-join-a-match-in-progress` 4.
+- **For Dominion:** 142635239 (137 hours) gives the fullest online read so far - a lobby that lets you "join" a game in progress only to wait for it to end (`cannot-join-a-match-in-progress`), separate solo and online progress over 100+ missions, RNG duplicate upgrades it calls the worst it has seen, and armour values you must look up online (`requires-outside-research`) - against praise for an over-built communication wheel and strangers breaking into song together (`good-tools-for-coordinating`, `welcoming-community`). 142648009 calls it perfect filler, with 10-20 minute missions (`good-in-short-sittings`). 143053923 says this version is far more stable than 4.1 online (`rock-solid`).
+

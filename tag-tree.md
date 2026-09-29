@@ -10423,6 +10423,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 562, EARTH DEFENSE FORCE 5 batch 20.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 21 - round 563 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-bodies-to-stay-as-cover` | **−** | The reviewer asks for the bodies of large enemies to stay in the world as temporary shields or obstacles, instead of vanishing or passing through. **Distinct from `art.effects-and-gore.the-ragdolls-are-funny`**, which is about how bodies fly, not what they do once they land. EARTH DEFENSE FORCE 5 144639499 (*"need more improvement in the carcas? or corpse its can be shield temporarty and can become obstacle"*). |
+
+🔑 **Round 563, EARTH DEFENSE FORCE 5 batch 21.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
