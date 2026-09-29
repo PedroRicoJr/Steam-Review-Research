@@ -10964,3 +10964,12 @@ No reviews read. Done in the 17:44 backstop firing (timer re-created as `d037394
 - **For Dominion:** 122622945 and 124490104 together lay out the online rules that frustrate: harder scaling online (`the-scaling-outpaces-a-full-group`), gear caps until 80% completion (`online-games-cap-the-gear-you-bring`) and progress kept apart from solo. 125087250 names the counterweight - every enemy is readable at a glance, so hordes stay fair (`reads-at-a-glance`) - and co-op that rewards complementary loadouts without forcing them (`rewards-teamwork`).
 - **Most helpful in the game so far:** 125043406, "Finally, a game that knows it's a game", 186 helpful - above 55097665 (135, batch 2). 125070130, "Japanese Left 4 Dead", has 94.
 
+## Notes - round 560 (EARTH DEFENSE FORCE 5 batch 18)
+
+50 read (2022-11-13 to 2023-01-31), 101 bullets on 50 reviews, none excluded, 3 edited later. Running total 900 of 1,768 - past the halfway mark. 48 up / 2 down. **One new mode** under Rule C: `game-design.difficulty-tuning.each-mission-caps-your-weapon-level` (-, 131919086 - the offline form of the cap built in round 559; `findphrase "level limit"` found nothing). Tree 1,648 -> 1,649. Lost-review check: order matched on the first diff; `--gaps` none. Done in the 08:44 hourly firing.
+
+- **Quality at 50:** from `scripts/batch_quality.py`: bullets per review 2.02, 26 of 50 reviews 15 words or fewer (17% unknown), 9 reviews over 60 words at 5.4 bullets each and 45 words per bullet.
+- **The two down reviews:** 128533253 (a DLC-dependent grind: top gear only from the paid mission packs - `content-behind-a-second-purchase`; stun-locking enemies; gear, not skill, decides - `gear-decides-the-pve-fight`) and 130311079 (janky and glitchy, dated even for 2006).
+- **Running counts at 900:** `successor-framing-accepted` 96 reviews, `cheesy-on-purpose` 90, `the-reviewer-warns-phobic-players` 5, `flashing-that-endangers-photosensitive-players` 4.
+- **For Dominion:** 131919086 (the longest in the batch) takes apart the loot system - random drops in level brackets, duplicates raising a random stat, per-mission level caps, weapons useless until upgraded - and still recommends it for the moments "when the game works". 130297837 says armour must be re-farmed on easy missions before joining each new friend's harder games (`teammates-cannot-share-progress`): progression that keeps friends apart. 131324033 notes the story lives in mid-fight radio chatter and is lost under fire (`told-during-the-fighting-so-it-is-lost`).
+

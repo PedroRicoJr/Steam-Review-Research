@@ -10405,6 +10405,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 559, EARTH DEFENSE FORCE 5 batch 17.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 18 - round 560 (Rule C)
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.each-mission-caps-your-weapon-level` | **−** | Each mission sets a maximum weapon or armour level, so the gear the player has earned cannot be brought into easier or earlier missions until a milestone lifts the cap. **Distinct from `game-design.co-op-design.online-games-cap-the-gear-you-bring`**, which applies only to online sessions. EARTH DEFENSE FORCE 5 131919086 (*"each mission has its own maximum level restriction. Until you finish the campaign, these limiters cannot be disabled"*). |
+
+🔑 **Round 560, EARTH DEFENSE FORCE 5 batch 18.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
