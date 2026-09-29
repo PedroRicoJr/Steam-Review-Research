@@ -11070,3 +11070,15 @@ Other choices: the long copied "kill bugs, behead bugs" list (179278607) goes to
 
 Other choices: "mission 18 should not exist" (184775845) goes to `level-design.one-area-drags-the-rest-down`. Love for one class (Fencer, Air Raider) goes to `each-role-plays-its-own-way`, as earlier EDF5 class praise did. Love for a named weapon, the Phobos strike (185989559), goes to the round-568 `a-named-weapon-or-vehicle-is-loved`. "Garry my beloved" (184055148) stays on `positive.unknown`: what Garry is could not be told from the text. 186461293 frames EDF5 as a remake of the first game with an Engineer class. That frame is filed as a joke, and its true points - part damage, merging duplicates, ragdolls, destruction - are kept. Helldivers is now named in 18 EDF5 summaries; solo play is called worse in 6.
 
+## Notes - round 571 (EARTH DEFENSE FORCE 5 batch 29)
+
+50 reviews, created 2025-02-25 to 2025-05-15; 49 summarised (107 bullets), 1 excluded (192749774, a single invisible character). 5 new modes under Rule C:
+
+- `game-design.world-interaction.bodies-block-your-shots-and-view` (−) - 192086180: "tired of giant carcasses blocking my shot". The inverse of round 566's `bodies-stay-and-block-the-way` (+); EDF5 players split on the same fact.
+- `game-design.co-op-design.the-scaling-steps-are-uneven` (−) - 193922521 (6 helpful): "1 player = 4 player scaling, 2 & 3 = 2 player scaling". The reviewer's figures, not checked against the game.
+- `game-design.co-op-design.gear-limits-keep-a-mixed-group-even` (+) - 194931079: rooms can cap gear at the lowest player's. The positive side of `online-games-cap-the-gear-you-bring` (3 EDF5 reviews) - the same host control, read the other way.
+- `game-design.pacing.missions-that-only-introduce-an-enemy` (−) - 191333532: about 40 missions only show one new enemy.
+- `game-design.game-feel.movement.you-slide-on-after-stopping` (−) - 192086180: sliding defenceless for 3 seconds after a run.
+
+Other choices: 188696240 is a mock review under a thumbs up, so its points are filed as written, plus `thumb-contradicts-text`. 192086180 rates Insect Armageddon above 5 and goes to `falls-short-of-the-studios-earlier-games` - that game is by another developer, and the mode also covers the publisher's name. "Recommends it only offline" (193922521) goes to `modes.a-mode-falls-flat`. Friendly fire now makes stories in 15 EDF5 reviews.
+

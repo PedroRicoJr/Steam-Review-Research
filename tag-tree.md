@@ -10510,6 +10510,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 570, EARTH DEFENSE FORCE 5 batch 28.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 29 - round 571 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.bodies-block-your-shots-and-view` | **−** | The bodies of large enemies stay in the world, soak up shots and hide the fight, and the reviewer wants them to vanish. **The inverse of `.bodies-stay-and-block-the-way`**, where the same fact is praised. EARTH DEFENSE FORCE 5 192086180 (*"I am tired of giant carcasses blocking my shot, and not being able to see, anything... let them instantly dissolve"*). |
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-scaling-steps-are-uneven` | **−** | The difficulty added for players online does not follow the head count - one player alone online faces the scaling for a full team, while three face the scaling for two - so some group sizes are much harder or easier than others. **Distinct from `.the-scaling-outpaces-a-full-group`**, which is a full group overwhelmed on high settings. EARTH DEFENSE FORCE 5 193922521 (*"1 player = 4 player scaling, 2 & 3 = 2 player scaling"*). |
+| `.gear-limits-keep-a-mixed-group-even` | **+** | The room can cap armour and weapon levels at the weakest player's, so a group of mixed progress plays on even terms and nobody is left underpowered. **The positive side of `.online-games-cap-the-gear-you-bring`.** EARTH DEFENSE FORCE 5 194931079 (*"armor and weapon level setting can be adjusted to lowest level player in the room... nobody feel underpowered"*). |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.missions-that-only-introduce-an-enemy` | **−** | Many short missions exist only to show one new enemy type and a few lines of dialogue, and the reviewer wants them merged into real missions. **Distinct from `production.content-amount.sprawling-to-a-fault`**, which is size in general: this names the kind of mission that pads it. EARTH DEFENSE FORCE 5 191333532 (*"Many missions are pointless existing only to show you one singular new enemy type"*). |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.you-slide-on-after-stopping` | **−** | Letting go of a sprint or dash leaves the character sliding on for a moment, unable to act, and enemies catch them in that window. EARTH DEFENSE FORCE 5 192086180 (*"I stopped running, so now I slide defenselessly for 3 seconds, while a red ant grabs me"*). |
+
+🔑 **Round 571, EARTH DEFENSE FORCE 5 batch 29.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

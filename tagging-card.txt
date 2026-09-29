@@ -1663,3 +1663,8 @@ game-design.progression.unlock-pace.drops-left-when-the-mission-ends-are-lost | 
 game-design.progression.unlock-pace.the-grind-is-optional | + | The reviewer says farming for better gear works but is not needed: picking up what drops along the way is enou
 game-design.progression.achievements.seem-to-need-online-play | - | The reviewer says, or suspects, that mission achievements count only in online play, so a solo player's tally 
 marketing.expectation-management.plays-exactly-as-the-videos-show | + | The reviewer tells buyers to watch the videos because the game plays just as they show, so what they see is wh
+game-design.world-interaction.bodies-block-your-shots-and-view | - | The bodies of large enemies stay in the world, soak up shots and hide the fight, and the reviewer wants them t
+game-design.co-op-design.the-scaling-steps-are-uneven | - | The difficulty added for players online does not follow the head count - one player alone online faces the sca
+game-design.co-op-design.gear-limits-keep-a-mixed-group-even | + | The room can cap armour and weapon levels at the weakest player's, so a group of mixed progress plays on even 
+game-design.pacing.missions-that-only-introduce-an-enemy | - | Many short missions exist only to show one new enemy type and a few lines of dialogue, and the reviewer wants 
+game-design.game-feel.movement.you-slide-on-after-stopping | - | Letting go of a sprint or dash leaves the character sliding on for a moment, unable to act, and enemies catch 
