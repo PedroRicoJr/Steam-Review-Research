@@ -11146,3 +11146,13 @@ The last 18 reviews, created 2026-08-01 to 2026-09-28, all summarised (31 bullet
 
 Round 579 wrote `findings/earth-defense-force-5-english.md` and built the weighted month and group stats with `count.py`. Round 580 wrote `findings/earth-defense-force-5.md` and `findings/cross-game.md` section 23, and marked GAMES-TODO row 10 and planning C17 Done. The headline finding for the corpus: `memorable-lines` is 7.6 per 100 here against 0.6 or less in every other large game, and `cheesy-on-purpose` (169) is used by no other game. The Dominion lesson taken is about the online rules of a co-op game hosted by one player. Note for later counts: `count.py` writes `_*-stats.md` files into the month folders, so a `grep -rl` over `summaries/` must now use `--exclude='_*'`.
 
+## Notes - round 581 (Crab Champions: pick, row, grid, pull)
+
+No reviews read.
+
+- **Why this game:** after EARTH DEFENSE FORCE 5 the loop takes the next game from `planning/`, closest to Dominion first. Dominion is a third-person, four-player co-op, sci-fi PvE extraction and arena shooter built on runs. **Crab Champions (A7)** is a third-person co-op (1-4) roguelite shooter built on runs of arena islands, and a success (98% positive, 31,204 reviews). It carries the third-person tag as well (`planning/third-person-shooter-list.md` notes it). It shares more of Dominion's traits than any other unread row: third person, four-player co-op, runs, arenas, shooting. It is cartoonish rather than sci-fi and has no extraction. **Runners-up:** The First Descendant (C28 - third-person sci-fi co-op looter, but free-to-play live service at 57%), Roboquest (A15 - co-op roguelite shooter for two, first person), ELDEN RING NIGHTREIGN (B2 - third-person co-op runs, but melee and fantasy).
+- **Grid:** `build_grid.py --only crab-champions --languages english` (slug added to `GAMES`, first month 2023-04): **27,193 English reviews across 42 months**. The biggest months are 2023-04 (6,871, the launch), 2023-11 (1,956) and 2023-05 (1,749). Steam's own count on the day (`scripts/steam_counts.py 774801`): English 27,190; all languages 31,204, 98%, *Overwhelmingly Positive*.
+- **Pull:** planned 1,512 at +/-2.5%, **got all 1,512**, all ids distinct. **Actual margin +/-2.50%** (Rule 12, from the count per month; the same calculation gives EDF5's +/-2.58%). Heaviest weight about x20 (2025-03, 2024-04, 2023-10). **Every one of the 1,512 is flagged by Steam as written during Early Access**, from 2023-04 to 2026-09, so the game is still in Early Access by Steam's own flag.
+- **GAMES-TODO:** row 11 of section 4; `planning/action-roguelike-list.md` A7 marked WIP.
+- **Next:** Crab Champions batch 1 (50 reviews).
+
