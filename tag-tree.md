@@ -10874,6 +10874,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 597, Crab Champions batch 16.** Built under Rule C.
 
+## Modes added in Crab Champions batch 17 - round 598 (Rule C)
+
+### `live-ops.patch-quality`
+
+| Mode | | Definition |
+|---|---|---|
+| `.each-update-makes-it-harder` | **−** | Every patch raises the difficulty, and the player says the game keeps getting harder to play. **Distinct from `.retuned-for-the-hardcore-at-casual-players-expense`**, which names who the change is for; here only the direction is given. **Distinct from `.nerfs-what-players-liked`**, which is about weakening one favourite option. Crab Champions 160056231 (*"the game is only maken it harder to play every pacht"*). |
+
+🔑 **Round 598, Crab Champions batch 17.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

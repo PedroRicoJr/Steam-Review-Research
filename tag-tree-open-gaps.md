@@ -11317,3 +11317,15 @@ Other choices: "Where is the katana?" (154242718) goes to `wants-more-because-it
 `co-op-is-rare-in-its-genre` gets its second and third reviews: 154930945 ("one of the few 3D rougelikes ... AND it has multiplayer") and 155515552 (co-op "a breath of fresh air"). The thumbs-down, 157234469, is fun "normally" but going for 100% is "insufferable and tedious" (`only-repetition-completes-the-set`) and it sends readers to Risk of Rain 2 (`also-recommends-another-game`).
 
 Other choices: 156056995 finds the fun rising "as the challenge also ups" deep into loops (`the-challenge-keeps-up`), and credits the "Variety update" for taking builds further (`made-it-better`). 155515578 praises multiplayer latency (`smooth-online`). Running counts (by grep, stats files left out): naming other games 30, music praise 25, friends 41, thumbs-down 21.
+
+## Notes - round 598 (Crab Champions batch 17)
+
+50 reviews, created 2024-02-21 to 2024-03-23; 48 thumbs up, 1 down; 63 bullets on 49 reviews (1.26 per review); one excluded (161300945, empty). One new mode under Rule C:
+
+- `live-ops.patch-quality.each-update-makes-it-harder` (−): 160056231, the thumbs-down, "only maken it harder to play every pacht".
+
+Two missed tags found while checking the `review.` list, and fixed:
+- 140525120 (round 591) was recorded as reading "like a store blurb" but filed on `review.positive.unknown`; `review.reads-like-a-store-blurb` already existed. Re-homed.
+- 151186055 (round 595) flipped from thumbs up to thumbs down, and `review.the-thumb-was-flipped-from-its-first-verdict` already existed; a bullet was added.
+
+Other choices: 160064308 warns the studio not to add paid extras after promising none, citing another Early Access game (`worried-paid-extras-will-come`). 160067464 points readers to its own video review (`promotes-the-reviewers-own-stream-channel`). 160620411 sees "a lot of skill" in decisions and aim (`asks-you-to-think`), the other side of 136751622's and 149715427's complaints. Running counts (by grep, stats files left out): naming other games 34, music praise 27, friends 43, thumbs-down 22.
