@@ -10709,6 +10709,34 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 588, Crab Champions batch 7.** Built under Rule C.
 
+## Modes added in Crab Champions batch 8 - round 589 (Rule C)
+
+### `game-design.randomness`
+
+| Mode | | Definition |
+|---|---|---|
+| `.the-stated-chances-feel-rigged` | **−** | An item or upgrade shows a chance to trigger, and the player says it fires far less often than stated - "a lie". **Distinct from `.luck-decides-the-outcome`**, where the draw settles the run; here the complaint is that the number on screen does not match what happens. **Distinct from `.the-thing-you-need-may-never-roll`**, which is about what is offered, not how often an owned effect fires. Crab Champions 137968417 (*"Chance-based totems are a lie"*). |
+
+### `game-design.difficulty-tuning`
+
+| Mode | | Definition |
+|---|---|---|
+| `.drawbacks-you-choose-for-bigger-rewards` | **+** | The player can take on a handicap by choice - less health, fall damage, losing money when hit - in return for more power or money, and enjoys stacking them as a self-set challenge. **Distinct from `.random-rule-changes-welcome`**, where the rule changes are drawn for the player; here each one is picked. **Distinct from `game-design.punishment-model.stakes-worth-the-risk`**, which is about what failing costs, not a trade made during the run. Crab Champions 138867970 (*"Pick up every greed offer available ... Run on 1 health all the damage and all the money in the world!"*). |
+
+### `engineering.performance`
+
+| Mode | | Definition |
+|---|---|---|
+| `.slows-late-in-a-multiplayer-run` | **−** | The game runs smoothly until late in a run played with others, when builds are at their biggest and the frame rate drops. **Distinct from `.gets-slower-the-longer-you-play`**, where the slowdown comes with time played in one sitting, and **from `.unstable-framerate`**, where it swings during normal play. Crab Champions 137965602 (*"aside from late game multiplayer, it runs like butter"*). |
+
+### `engineering.bugs`
+
+| Mode | | Definition |
+|---|---|---|
+| `.mostly-in-multiplayer` | **−** | The reviewer says the bugs they met came mainly in multiplayer, and solo play is cleaner. **Distinct from `engineering.netcode.`**, which covers the connection itself; these are ordinary bugs that show up more with other players. Crab Champions 138347465 (*"few bugs/glitches i've encountered mainly in multiplayer"*). |
+
+🔑 **Round 589, Crab Champions batch 8.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

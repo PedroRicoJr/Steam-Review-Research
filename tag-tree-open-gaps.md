@@ -11217,3 +11217,14 @@ Other choices: "Orb Launcher is OP with the right perks" (137584246) goes to `on
 - `marketing.discovery.came-for-the-creators-other-work` (~): 137973825 bought the game "to support" it because it was "developed by the same musician who did the Crab Rave music video". Not `came-for-a-crossover-with-something-i-already-like`, since nothing borrowed is inside the game; the draw is who made it.
 
 Other choices: 137553387 names Quake, Tribes and Reflex and says runs "save & quit anytime" (`can-pause-anytime`). 137542254 has enemies stuck in walls (`poor-ai-behaviour`), Nightmare that "keeps you on edge" (`satisfyingly-hard`), and achievement skins without unique colours (`not-worth-chasing`). 137534552 has hitboxes and mob targeting that need work (`the-hitboxes-are-off`, `poor-ai-behaviour`). 137531843 asks for matchmaking (`no-public-matchmaking`). 137545495 says Steam's hours are wrong ("about 100 hours"). Running counts (by grep, stats files left out): naming other games 15, music praise 12 plus 1 music complaint, friends 14.
+
+## Notes - round 589 (Crab Champions batch 8)
+
+50 reviews, created 2023-05-07 to 2023-05-23, all thumbs up; 74 bullets (1.48 per review), none excluded; four new modes under Rule C:
+
+- `game-design.randomness.the-stated-chances-feel-rigged` (−): 137968417, "Chance-based totems are a lie".
+- `game-design.difficulty-tuning.drawbacks-you-choose-for-bigger-rewards` (+): 138867970's "greed run" - take every greed offer on Nightmare and play "on 1 health" with "all the damage and all the money".
+- `engineering.performance.slows-late-in-a-multiplayer-run` (−): 137965602, "aside from late game multiplayer, it runs like butter". The same review praises how fast the frame rate recovers (`well-optimised`).
+- `engineering.bugs.mostly-in-multiplayer` (−): 138347465.
+
+Other choices: "not too hard and not too easy" (137970617) and "hard enough that you need a decent build" (138869418) go to `well-graded`, following 5 earlier bullets found by findphrase. "The scaling difficulty is great" (138360158) goes to `the-challenge-keeps-up`. 138870837 wants more melee perks for a tank build and perks that block ranged shots (`one-playstyle-has-too-few-tools`). 138350835 calls it "aggressively mediocre, but still decent" (`calls-it-average`). Running counts (by grep, stats files left out): naming other games 16, beats its rivals 3, music praise 13, friends 17.
