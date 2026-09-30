@@ -11138,3 +11138,7 @@ Other choices: 221799320 (7 helpful) misses 90% of drops and wants to stay after
 
 Other choices: 229645933 (7 helpful) is a long thumbs-down on price. It says $60 base plus $85 of DLC comes to $145, which goes to `add-ons-cost-more-than-the-game`. It also calls the game a bad PS4 port (`built-for-another-platform`) and a dead game. Its jab at console players is recorded as a jab. 228699257 froze after nearly 100 hours, which goes to `less-stable-than-it-used-to-be`. No ultrawide support (233247376) goes to `narrow-view-is-a-handicap`. 229993356 says it is more stable online than EDF 6, which takes `better-than-the-sequel-that-followed`: now 7 better against 2 worse. Solo play is called worse in 12 EDF5 reviews, and "so bad it is good" in 3. 18 reviews remain, for batch 36.
 
+## Notes - round 578 (EARTH DEFENSE FORCE 5 batch 36, the last)
+
+The last 18 reviews, created 2026-08-01 to 2026-09-28, all summarised (31 bullets), no new mode. All 1,768 EDF5 reviews are now read, 8 of them excluded (7 empty or invisible text, 1 personal message). 235976419 is a scored review (6/10): four classes "like four different games", random progression, and singing along with every NPC "never gets old". 235802135 calls Helldivers 2 "a horrible rip off". Next are the findings: the English page, then the master page, then cross-game section 23.
+
