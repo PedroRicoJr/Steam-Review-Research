@@ -1697,3 +1697,5 @@ game-design.randomness.the-stated-chances-feel-rigged | - | An item or upgrade s
 game-design.difficulty-tuning.drawbacks-you-choose-for-bigger-rewards | + | The player can take on a handicap by choice - less health, fall damage, losing money when hit - in return for 
 engineering.performance.slows-late-in-a-multiplayer-run | - | The game runs smoothly until late in a run played with others, when builds are at their biggest and the frame 
 engineering.bugs.mostly-in-multiplayer | - | The reviewer says the bugs they met came mainly in multiplayer, and solo play is cleaner. **Distinct from `eng
+game-design.co-op-design.teammates-can-trade-items | + | Players can hand items to each other during a run, so a group can pass pickups to whoever's build needs them. 
+game-design.progression.unlock-pace.nothing-from-a-run-carries-into-the-next | - | Win or lose, the run's gains are wiped, so the player feels they earned nothing, and they want to keep what th

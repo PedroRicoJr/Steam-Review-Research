@@ -11228,3 +11228,14 @@ Other choices: 137553387 names Quake, Tribes and Reflex and says runs "save & qu
 - `engineering.bugs.mostly-in-multiplayer` (−): 138347465.
 
 Other choices: "not too hard and not too easy" (137970617) and "hard enough that you need a decent build" (138869418) go to `well-graded`, following 5 earlier bullets found by findphrase. "The scaling difficulty is great" (138360158) goes to `the-challenge-keeps-up`. 138870837 wants more melee perks for a tank build and perks that block ranged shots (`one-playstyle-has-too-few-tools`). 138350835 calls it "aggressively mediocre, but still decent" (`calls-it-average`). Running counts (by grep, stats files left out): naming other games 16, beats its rivals 3, music praise 13, friends 17.
+
+## Notes - round 590 (Crab Champions batch 9)
+
+50 reviews, created 2023-05-23 to 2023-06-15; 48 thumbs up, 2 down; 71 bullets on 49 reviews (1.42 per review); one excluded (139703971, empty; 4 excluded in the game so far). Two new modes under Rule C:
+
+- `game-design.co-op-design.teammates-can-trade-items` (+): 138850197, "you can trade items for better build crafting". The other side of `cannot-give-a-teammate-your-spare`.
+- `game-design.progression.unlock-pace.nothing-from-a-run-carries-into-the-next` (−): 139705166, "lose everything except keys upon victory or death".
+
+139705166 is the first long thumbs-down in Crab, feedback copied from the studio's Discord: besides the carry-over complaint, only three difficulties with too big a jump from normal to Nightmare (`badly-scaled`), all boss crystals to the last hit (`teammates-take-your-kills`), bosses shooting through walls (`attacks-pass-through-walls`), cosmetics not unlocking (`the-reward-never-arrives`) and ground attacks hitting them in mid-air (`the-hitboxes-are-off`). "Chests fall into rocks" goes to `engineering.bugs.buggy`, not `the-objective-spawns-inside-the-scenery`, since a chest is not a required object. The other thumbs-down is "Awesome game, terrible community" (`the-fanbase-puts-me-off`).
+
+Other choices: the roadmap shown in the lobby (139319739) goes to `open-about-what-it-is-doing`, following 5 earlier roadmap bullets. Back-flips as a crab (140124784) go to `useless-actions-players-love`. "Pretty hard at first", then a blast (139710840) goes to `overwhelming-at-first`, like 136751632. Running counts (by grep, stats files left out): naming other games 18, beats its rivals 4, music praise 14, friends 20.

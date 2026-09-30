@@ -10737,6 +10737,22 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 589, Crab Champions batch 8.** Built under Rule C.
 
+## Modes added in Crab Champions batch 9 - round 590 (Rule C)
+
+### `game-design.co-op-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.teammates-can-trade-items` | **+** | Players can hand items to each other during a run, so a group can pass pickups to whoever's build needs them. **The other side of `.cannot-give-a-teammate-your-spare`.** **Distinct from `.loot-is-shared`**, which is about who gets a pickup when it drops; this is about passing it on afterwards. Crab Champions 138850197 (*"Best if played with a friend, since you can trade items for better build crafting"*). |
+
+### `game-design.progression.unlock-pace`
+
+| Mode | | Definition |
+|---|---|---|
+| `.nothing-from-a-run-carries-into-the-next` | **−** | Win or lose, the run's gains are wiped, so the player feels they earned nothing, and they want to keep what they found and build a loadout before the next run. **Distinct from `.the-reward-only-buys-cosmetics`**, where a lasting payout exists and buys nothing useful; here the complaint is that the run's own gains are lost. **Distinct from `game-design.progression.build-and-customisation.wants-a-talent-tree-between-runs`**, which asks for one named system. Crab Champions 139705166 (*"lose everything except keys upon victory or death ... it would be much better if you could take with you what you earn and build a loadout"*). |
+
+🔑 **Round 590, Crab Champions batch 9.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
