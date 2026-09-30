@@ -11297,3 +11297,13 @@ Other choices: "family friendly" (149683216) goes to `production.age-suitability
 150108738 also has the first `only-a-few-builds-are-viable` bullet in Crab (all builds end in area damage) and says "after a couple of loops" power makes endless play pointless (`progression-outgrows-the-challenge`). 150193522 is the third `came-for-the-creators-other-work` (a fan "since early Monstercat").
 
 Other choices: "Play with crab rave on repeat" (150136012) goes to `best-played-with-your-own-music`. "Review a game you nominated." (151182966) is Steam's award prompt with nothing added, kept on `positive.unknown`. Running counts (by grep, stats files left out): naming other games 27, music praise 22, friends 36, thumbs-down 18.
+
+## Notes - round 596 (Crab Champions batch 15)
+
+50 reviews, created 2023-11-22 to 2023-12-31; 48 thumbs up, 2 down; 91 bullets (1.82 per review), none excluded; no new mode - every point fitted an existing one.
+
+153069742 is the long thumbs-down, edited after a December 2023 update: more useless perks (`new-items-thin-out-the-pool`), restarts because "only 2 out of 30 perks actually do anything" (`the-balance-assumes-you-restart-for-a-god-build`), a shop cut to "1 or 2 blue purchases" (`nerfs-what-players-liked`), one-shots from offscreen projectiles (`one-hit-kills`) and crabs "spawning right under you" (`unfair-spawns`). The other is "overrated ... this is risk of rain 2" (`derivative-of-an-older-game`), at 0 hours.
+
+152566033 gives the batch's widest praise (10 bullets): small download, quick start, smooth running, intuitive controls, Noisestorm's soundtrack, deep roguelite systems. 153026263 finished every achievement and says the game never explains that one needs 5 different greed perks (`does-not-say-what-is-missing`).
+
+Other choices: "Where is the katana?" (154242718) goes to `wants-more-because-it-is-good` - it asks for more without saying more. "Nightmare mode once you get the hang of things" (152611344) goes to `rewarding-once-learned`. 152560168 bought it as "the most appropriate game for the day (11/29/23)"; the review does not say why, and the note does not guess. Running counts (by grep, stats files left out): naming other games 28, music praise 25, friends 38, thumbs-down 20.
