@@ -11166,3 +11166,11 @@ No reviews read.
 
 Other choices: "Risk of Rain 2 but crab" and "ULTRAKILL but crab" go to `explained-by-naming-other-games` (3 this batch). 136302710 asked for PvP and edited to say it was added, filed on `patch-quality.made-it-better`. The 1v1 and parkour modes "announced in an earlier trailer" (136300218) go to `awaiting-promised-content`. ASCII art (136304964) and crude sex-update jokes stay on `positive.unknown`, the jokes not repeated. The first themes: movement praised (3 on `movement.responsive`), friends (3), and early-access roughness in enemies (136303159: unavoidable damage, bullet sponges, damage pools).
 
+## Notes - round 583 (Crab Champions batch 2)
+
+50 reviews, created 2023-04-07 to 2023-04-15, 49 up and 1 down (a joke: "not enough crabs"); 81 bullets (1.62 per review), none excluded. 1 new mode under Rule C:
+
+- `game-design.replayability.the-run-can-loop-endlessly` (+) - 136297444: "fun to go on easy mode and loop endlessly".
+
+Other choices: 136295436, "Risk of Rangoon", has **396 helpful votes**, the most in the sample so far; it is filed on `explained-by-naming-other-games`, which now has 7 Crab Champions reviews, most of them naming Risk of Rain 2. The soundtrack is praised in 7 reviews so far (`music.fits-the-game`). 136295495 loses all upgrades bought in the run when disconnected from a friend (`a-disconnect-loses-the-run`). 136295140 again wants meaningful upgrades between runs, joining round 582's `wants-a-talent-tree-between-runs` (now 2). A split-screen request (136294107) goes to `expected-mode-missing`. A checklist review (136769976) goes to `filled-in-from-a-template`.
+

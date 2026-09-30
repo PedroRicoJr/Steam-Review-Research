@@ -10648,6 +10648,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 582, Crab Champions batch 1.** Built under Rule C.
 
+## Modes added in Crab Champions batch 2 - round 583 (Rule C)
+
+### `game-design.replayability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-run-can-loop-endlessly` | **+** | A run does not have to end at a final stage: the player can keep looping for as long as they survive, and the reviewer names that as fun. Crab Champions 136297444 (*"Also fun to go on easy mode and loop endlessly"*). |
+
+🔑 **Round 583, Crab Champions batch 2.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
