@@ -10620,6 +10620,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 576, EARTH DEFENSE FORCE 5 batch 34.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 35 - round 577 (Rule C)
+
+### `engineering.stability`
+| Mode | | Definition |
+|---|---|---|
+| `.the-save-was-lost` | **−** | The player's save file was deleted or corrupted and all their progress went with it. **Distinct from `.a-crash-loses-the-run`**, which loses one run: this loses the whole save. The answer the player wanted is `.lost-progress-can-be-recovered`. EARTH DEFENSE FORCE 5 228541261 (*"for some reason my save file got deleted with all of my progress"*). |
+
+🔑 **Round 577, EARTH DEFENSE FORCE 5 batch 35.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

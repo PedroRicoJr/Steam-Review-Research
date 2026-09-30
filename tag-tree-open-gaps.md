@@ -11130,3 +11130,11 @@ Other choices: 219788457 praises the harder settings for new events and faster e
 
 Other choices: 221799320 (7 helpful) misses 90% of drops and wants to stay after clearing. It joins round 570's `drops-left-when-the-mission-ends-are-lost`, now 2. 225304044 carries a crude jab, recorded as "a crude jab" and not repeated, plus a "woke" charge against the studio, filed on `studio-politics-put-me-off`. 223352945 says the game got smoother and easier since last year without naming a cause; filed on `patch-quality.made-it-better` as the reviewer's claim. EDF5 against EDF 6 is now 6 better, 2 worse. Helldivers is named in 34 EDF5 summaries.
 
+## Notes - round 577 (EARTH DEFENSE FORCE 5 batch 35)
+
+50 reviews, created 2026-06-14 to 2026-08-31; 49 summarised (98 bullets), 1 empty review excluded (229073157). 1 new mode under Rule C:
+
+- `engineering.stability.the-save-was-lost` (−) - 228541261: the save file was deleted with all progress.
+
+Other choices: 229645933 (7 helpful) is a long thumbs-down on price. It says $60 base plus $85 of DLC comes to $145, which goes to `add-ons-cost-more-than-the-game`. It also calls the game a bad PS4 port (`built-for-another-platform`) and a dead game. Its jab at console players is recorded as a jab. 228699257 froze after nearly 100 hours, which goes to `less-stable-than-it-used-to-be`. No ultrawide support (233247376) goes to `narrow-view-is-a-handicap`. 229993356 says it is more stable online than EDF 6, which takes `better-than-the-sequel-that-followed`: now 7 better against 2 worse. Solo play is called worse in 12 EDF5 reviews, and "so bad it is good" in 3. 18 reviews remain, for batch 36.
+
