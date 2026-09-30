@@ -10606,6 +10606,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 575, EARTH DEFENSE FORCE 5 batch 33.** Built under Rule C.
 
+## Modes added in EARTH DEFENSE FORCE 5 batch 34 - round 576 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.health-grows-without-a-cap` | **+** | The character's health or defence keeps rising with play, with no ceiling, so progress never stops. The reviewer contrasts it with games where full upgrades hit a fixed limit. **The positive side of `.armour-is-only-a-health-number`**: the same single number, praised for having no cap. EARTH DEFENSE FORCE 5 223077222 (Indonesian: *"game ini bisa unlock limit defence jadi off yang buat perkembangan bisa terus dilakukan"* - this game can turn the defence limit off, so progress can keep going). |
+
+### `engineering.stability`
+| Mode | | Definition |
+|---|---|---|
+| `.crashes-caused-by-another-player` | **−** | The reviewer's game fails or crashes because of what some other, unrelated player online is doing, so they cannot play through no act of their own. EARTH DEFENSE FORCE 5 226886813 (*"According to the community hub, it's because a random user is playing on a custum mission which results in literally everyone else being unable to play the game"*). The reviewer's reading of a community thread, not checked. |
+
+🔑 **Round 576, EARTH DEFENSE FORCE 5 batch 34.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

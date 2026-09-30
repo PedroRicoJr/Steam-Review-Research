@@ -11121,3 +11121,12 @@ Other choices: 210598353 is a long list of ideas for future games, so it takes `
 
 Other choices: 219788457 praises the harder settings for new events and faster enemies (`harder-adds-new-rules`), and also says they are grindy and punishing; both are kept. Weapons needing another class go to `some-rewards-need-a-second-player`, as an earlier EDF5 Fencer bullet did. "Most aspects of the game are bad... make it a joy" (218264106, 8 helpful) goes to `so-bad-it-is-good`. 218221926's jab at Helldivers players is recorded as a jab, not repeated. "passcode only" (220463675) stays on `negative.unknown`: its meaning could not be told from the text. EDF5 against EDF 6 is now 5 better, 2 worse. Helldivers, or a jab name for it, is in 30 EDF5 summaries.
 
+## Notes - round 576 (EARTH DEFENSE FORCE 5 batch 34)
+
+50 reviews, created 2026-03-27 to 2026-06-07; 48 summarised (81 bullets), 2 empty reviews excluded (224950485, 224873727). That makes 7 EDF5 exclusions in all. 2 new modes under Rule C:
+
+- `game-design.progression.build-and-customisation.health-grows-without-a-cap` (+) - 223077222, written in Indonesian: defence keeps growing from drops, unlike another game's cap of 450. The positive side of round 574's `armour-is-only-a-health-number`: the same single number, praised here for having no ceiling.
+- `engineering.stability.crashes-caused-by-another-player` (−) - 226886813: citing the community hub, one user's custom mission stops everyone else from playing. The reviewer's reading, not checked.
+
+Other choices: 221799320 (7 helpful) misses 90% of drops and wants to stay after clearing. It joins round 570's `drops-left-when-the-mission-ends-are-lost`, now 2. 225304044 carries a crude jab, recorded as "a crude jab" and not repeated, plus a "woke" charge against the studio, filed on `studio-politics-put-me-off`. 223352945 says the game got smoother and easier since last year without naming a cause; filed on `patch-quality.made-it-better` as the reviewer's claim. EDF5 against EDF 6 is now 6 better, 2 worse. Helldivers is named in 34 EDF5 summaries.
+
