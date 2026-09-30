@@ -1715,3 +1715,4 @@ game-design.level-design.nothing-hidden-to-discover | - | The levels hold no sec
 game-design.role-design.only-one-character-to-play | - | There is a single playable character, and the player wants others that play differently. **Distinct from `.you
 live-ops.patch-quality.retuned-for-the-hardcore-at-casual-players-expense | - | The reviewer says updates made the game harder to please the most dedicated players, and lost the casual playe
 game-design.progression.unlock-pace.currency-keeps-its-worth-after-unlocks | + | The currency the game hands out stays useful after everything is unlocked, because it can still change how a r
+engineering.bugs.stats-drop-between-stages | - | A character stat - maximum health, armour - drops sharply while moving from one stage to the next, with nothin

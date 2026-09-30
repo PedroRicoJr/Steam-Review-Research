@@ -11307,3 +11307,13 @@ Other choices: "Play with crab rave on repeat" (150136012) goes to `best-played-
 152566033 gives the batch's widest praise (10 bullets): small download, quick start, smooth running, intuitive controls, Noisestorm's soundtrack, deep roguelite systems. 153026263 finished every achievement and says the game never explains that one needs 5 different greed perks (`does-not-say-what-is-missing`).
 
 Other choices: "Where is the katana?" (154242718) goes to `wants-more-because-it-is-good` - it asks for more without saying more. "Nightmare mode once you get the hang of things" (152611344) goes to `rewarding-once-learned`. 152560168 bought it as "the most appropriate game for the day (11/29/23)"; the review does not say why, and the note does not guess. Running counts (by grep, stats files left out): naming other games 28, music praise 25, friends 38, thumbs-down 20.
+
+## Notes - round 597 (Crab Champions batch 16)
+
+50 reviews, created 2023-12-31 to 2024-02-21; 49 thumbs up, 1 down; 76 bullets on 48 reviews (1.52 per review); two excluded - 156641371 (empty) and 156060165 (crude song lyrics with a slur and nothing about the game; recorded without repeating it). 8 excluded in the game so far. One new mode under Rule C:
+
+- `engineering.bugs.stats-drop-between-stages` (−): 154930865, max health falling from 3,654 to 941 between an island and the shop, "No greed perks ... didn't fail a totem".
+
+`co-op-is-rare-in-its-genre` gets its second and third reviews: 154930945 ("one of the few 3D rougelikes ... AND it has multiplayer") and 155515552 (co-op "a breath of fresh air"). The thumbs-down, 157234469, is fun "normally" but going for 100% is "insufferable and tedious" (`only-repetition-completes-the-set`) and it sends readers to Risk of Rain 2 (`also-recommends-another-game`).
+
+Other choices: 156056995 finds the fun rising "as the challenge also ups" deep into loops (`the-challenge-keeps-up`), and credits the "Variety update" for taking builds further (`made-it-better`). 155515578 praises multiplayer latency (`smooth-online`). Running counts (by grep, stats files left out): naming other games 30, music praise 25, friends 41, thumbs-down 21.

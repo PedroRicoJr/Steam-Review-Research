@@ -10864,6 +10864,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 595, Crab Champions batch 14.** Built under Rule C.
 
+## Modes added in Crab Champions batch 16 - round 597 (Rule C)
+
+### `engineering.bugs`
+
+| Mode | | Definition |
+|---|---|---|
+| `.stats-drop-between-stages` | **−** | A character stat - maximum health, armour - drops sharply while moving from one stage to the next, with nothing in the game to explain it, and stays low. **Distinct from `.equipped-things-vanish-or-unequip-themselves`**, where an item goes missing; here the item is kept and a number changes. Crab Champions 154930865 (*"Just had 3,654 max health ... When I loaded into the shop IMMEDIATELY after, I had 941 max health"*). |
+
+🔑 **Round 597, Crab Champions batch 16.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
