@@ -1717,3 +1717,7 @@ live-ops.patch-quality.retuned-for-the-hardcore-at-casual-players-expense | - | 
 game-design.progression.unlock-pace.currency-keeps-its-worth-after-unlocks | + | The currency the game hands out stays useful after everything is unlocked, because it can still change how a r
 engineering.bugs.stats-drop-between-stages | - | A character stat - maximum health, armour - drops sharply while moving from one stage to the next, with nothin
 live-ops.patch-quality.each-update-makes-it-harder | - | Every patch raises the difficulty, and the player says the game keeps getting harder to play. **Distinct from 
+game-design.randomness.you-can-win-without-lucky-draws | + | The player finds the balance fair enough that runs can be won often without an exceptional draw. **The answer 
+engineering.platform-support.the-cursor-escapes-to-another-monitor | - | On a multi-monitor setup the mouse leaves the game window mid-play, and the player wants it locked to the game
+game-design.enemy-design.slow-shots-still-find-you | - | Enemy projectiles are slow enough to see coming for seconds, yet land anyway without changing course, as if ai
+marketing.discovery.followed-the-studio-before-release | ~ | The player followed the game through the studio's own posts - clips, social media - before it came out, and bo

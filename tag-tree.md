@@ -10884,6 +10884,34 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 598, Crab Champions batch 17.** Built under Rule C.
 
+## Modes added in Crab Champions batch 18 - round 599 (Rule C)
+
+### `game-design.randomness`
+
+| Mode | | Definition |
+|---|---|---|
+| `.you-can-win-without-lucky-draws` | **+** | The player finds the balance fair enough that runs can be won often without an exceptional draw. **The answer to `.luck-decides-the-outcome`.** Crab Champions 162934594 (*"feels properly balanced being able to persevere often without needing insane RNG"*). |
+
+### `engineering.platform-support`
+
+| Mode | | Definition |
+|---|---|---|
+| `.the-cursor-escapes-to-another-monitor` | **−** | On a multi-monitor setup the mouse leaves the game window mid-play, and the player wants it locked to the game screen. Crab Champions 162954903 (*"my mouse sometimes goes off the screen on to my other monitor which is annoying"*). |
+
+### `game-design.enemy-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.slow-shots-still-find-you` | **−** | Enemy projectiles are slow enough to see coming for seconds, yet land anyway without changing course, as if aimed where the player would be. **Distinct from `.shots-track-you-through-a-dash`**, where the shot turns to follow; here it flies straight and is still right. **Distinct from `.always-knows-where-you-are`**, which is detection. Crab Champions 164859536 (*"a shot that takes nearly 5 whole seconds to reach you, and without altering its trejectory in the slightest, manage to hit you"*). |
+
+### `marketing.discovery`
+
+| Mode | | Definition |
+|---|---|---|
+| `.followed-the-studio-before-release` | ~ | The player followed the game through the studio's own posts - clips, social media - before it came out, and bought it at release. **Deliberately neutral**, like the rest of `discovery.`. **Distinct from `.found-it-through-someone-playing-it`**, where the source is another player; here it is the makers. Crab Champions 162444148 (*"I've been following this game since they were just posting Tiktoks showing off their game"*). |
+
+🔑 **Round 599, Crab Champions batch 18.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

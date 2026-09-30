@@ -11329,3 +11329,14 @@ Two missed tags found while checking the `review.` list, and fixed:
 - 151186055 (round 595) flipped from thumbs up to thumbs down, and `review.the-thumb-was-flipped-from-its-first-verdict` already existed; a bullet was added.
 
 Other choices: 160064308 warns the studio not to add paid extras after promising none, citing another Early Access game (`worried-paid-extras-will-come`). 160067464 points readers to its own video review (`promotes-the-reviewers-own-stream-channel`). 160620411 sees "a lot of skill" in decisions and aim (`asks-you-to-think`), the other side of 136751622's and 149715427's complaints. Running counts (by grep, stats files left out): naming other games 34, music praise 27, friends 43, thumbs-down 22.
+
+## Notes - round 599 (Crab Champions batch 18)
+
+50 reviews, created 2024-03-23 to 2024-05-07, all thumbs up; 85 bullets (1.70 per review), none excluded. Four new modes under Rule C:
+
+- `game-design.randomness.you-can-win-without-lucky-draws` (+): 162934594, "persevere often without needing insane RNG". The answer to `luck-decides-the-outcome`.
+- `engineering.platform-support.the-cursor-escapes-to-another-monitor` (−): 162954903.
+- `game-design.enemy-design.slow-shots-still-find-you` (−): 164859536, a shot taking "nearly 5 whole seconds" that still hits "without altering its trejectory".
+- `marketing.discovery.followed-the-studio-before-release` (~): 162444148, following "since they were just posting Tiktoks".
+
+Other choices: 162438163's 8 fps is "my fault for playing a big game on a non-gaming laptop" (`clears-the-game-and-blames-their-own-setup`). 164857337 praises a "narrative", "gripping story" and "rich world" in generic terms with nothing specific to the game (`reads-like-a-store-blurb`). 163390735 only repeats "I HATE BARRELS"; the review does not say what the barrels are, so it goes to `review.negative.unknown` rather than an enemy or level mode. 164859536's "either become a god ... or get chewed up" goes to `the-balance-assumes-you-restart-for-a-god-build`. 163938311 gets "1 or 2 updates each year" and calls them good (`slow-but-worth-the-wait`). Running counts (by grep, stats files left out): naming other games 34, music praise 29, friends 44, thumbs-down 22.
