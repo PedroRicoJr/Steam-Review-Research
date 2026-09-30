@@ -10836,6 +10836,34 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 594, Crab Champions batch 13.** Built under Rule C.
 
+## Modes added in Crab Champions batch 14 - round 595 (Rule C)
+
+### `game-design.level-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.nothing-hidden-to-discover` | **−** | The levels hold no secrets - no hidden rooms, portals or side areas - so once the player has seen the islands there is nothing left to find, and they want some. **Distinct from `.the-best-things-are-hidden-behind-a-guide`**, where secrets exist but are too obscure. Crab Champions 150108738 (*"the game needs a bunch of secrets, hidden levels, portals, things to discover... kinda like Risk of Rain 2 does it"*). |
+
+### `game-design.role-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.only-one-character-to-play` | **−** | There is a single playable character, and the player wants others that play differently. **Distinct from `.you-do-not-get-to-choose-who-you-play`**, where several exist and the game assigns one; here there is no one else. Crab Champions 150108738 (*"Maybe even different crab characters that will offer different playstyles (again like RoR2)"*). |
+
+### `live-ops.patch-quality`
+
+| Mode | | Definition |
+|---|---|---|
+| `.retuned-for-the-hardcore-at-casual-players-expense` | **−** | The reviewer says updates made the game harder to please the most dedicated players, and lost the casual players it used to suit. **The mirror of `.courts-new-players-at-the-veterans-expense`.** Crab Champions 151186055 (*"make it harder for a fun casual game to cater to sweats"*). |
+
+### `game-design.progression.unlock-pace`
+
+| Mode | | Definition |
+|---|---|---|
+| `.currency-keeps-its-worth-after-unlocks` | **+** | The currency the game hands out stays useful after everything is unlocked, because it can still change how a run plays - spent at the start to modify it. **The answer to `.currency-stops-being-worth-anything`.** Crab Champions 151186055's older text (*"The key system not being useless after all unlocks are obtained and actually modifying runs from the star is a super cool concept"*). |
+
+🔑 **Round 595, Crab Champions batch 14.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

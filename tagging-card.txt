@@ -1711,3 +1711,7 @@ game-design.enemy-design.bosses-are-just-bigger-enemies | - | Bosses play like l
 game-design.enemy-design.shots-track-you-through-a-dash | - | Enemy projectiles follow the player through a dash or dodge, so the move meant to escape them does not work. *
 game-design.game-feel.reward-moment.rewards-come-often | + | Loot and rewards arrive often during play, and the player likes the steady flow. **Distinct from `.the-payout-
 art.visual-direction.an-added-look-feels-out-of-place | - | One visual element - a prop, a head, a decoration - does not fit the rest of the game's look, and the player a
+game-design.level-design.nothing-hidden-to-discover | - | The levels hold no secrets - no hidden rooms, portals or side areas - so once the player has seen the islands 
+game-design.role-design.only-one-character-to-play | - | There is a single playable character, and the player wants others that play differently. **Distinct from `.you
+live-ops.patch-quality.retuned-for-the-hardcore-at-casual-players-expense | - | The reviewer says updates made the game harder to please the most dedicated players, and lost the casual playe
+game-design.progression.unlock-pace.currency-keeps-its-worth-after-unlocks | + | The currency the game hands out stays useful after everything is unlocked, because it can still change how a r

@@ -11283,3 +11283,17 @@ Other choices: 146341832's wish for perks that merge into a higher tier goes to 
 The thumbs-down (149715427, 0 hours) calls it "pretty one dimensional" (`asks-for-no-thought`, as 136751622's low skill ceiling was), "not challenging at all" (`too-easy`), old "in a couple minutes" (`runs-out-fast`), and wants a sideways dash (`no-modern-moves`).
 
 Other choices: "family friendly" (149683216) goes to `production.age-suitability.fine-for-younger-players`. 147367576's run to island 240 goes to `the-run-can-loop-endlessly`. 149694179 is a crude outburst written as a joke and is recorded without repeating it; 148303937's details about the reviewer's own habits are left out. Running counts (by grep, stats files left out): naming other games 27, music praise 21, friends 31, thumbs-down 17.
+
+## Notes - round 595 (Crab Champions batch 14)
+
+50 reviews, created 2023-11-06 to 2023-11-22; 49 thumbs up, 1 down; 80 bullets (1.60 per review), none excluded. Four new modes under Rule C:
+
+- `game-design.level-design.nothing-hidden-to-discover` (−) and `game-design.role-design.only-one-character-to-play` (−): both from 150108738, which asks for secrets, portals and more crab characters "like Risk of Rain 2 does it".
+- `live-ops.patch-quality.retuned-for-the-hardcore-at-casual-players-expense` (−): 151186055, "make it harder for a fun casual game to cater to sweats". The mirror of Warframe's `courts-new-players-at-the-veterans-expense`.
+- `game-design.progression.unlock-pace.currency-keeps-its-worth-after-unlocks` (+): 151186055's older text, keys that stay useful and modify runs from the start.
+
+151186055 is the batch's thumbs-down, edited in 2024 from a positive review: updates made it worse, nerfed good builds and removed keys - the same keys its older text praised. The edit is kept as bullets beside the old text, each marked "the old review".
+
+150108738 also has the first `only-a-few-builds-are-viable` bullet in Crab (all builds end in area damage) and says "after a couple of loops" power makes endless play pointless (`progression-outgrows-the-challenge`). 150193522 is the third `came-for-the-creators-other-work` (a fan "since early Monstercat").
+
+Other choices: "Play with crab rave on repeat" (150136012) goes to `best-played-with-your-own-music`. "Review a game you nominated." (151182966) is Steam's award prompt with nothing added, kept on `positive.unknown`. Running counts (by grep, stats files left out): naming other games 27, music praise 22, friends 36, thumbs-down 18.
