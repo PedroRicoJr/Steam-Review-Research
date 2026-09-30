@@ -10699,6 +10699,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 586, Crab Champions batch 5.** Built under Rule C.
 
+## Modes added in Crab Champions batch 7 - round 588 (Rule C)
+
+### `marketing.discovery`
+
+| Mode | | Definition |
+|---|---|---|
+| `.came-for-the-creators-other-work` | ~ | The player says they bought the game because they already knew the person or studio behind it from **other work outside games** - music, videos, a channel - and wanted to back them. **Deliberately neutral**, like the rest of `discovery.`. **Distinct from `.came-for-a-crossover-with-something-i-already-like`**, where something borrowed from another series is **inside** the game; here nothing in the game is the draw, only who made it. **Distinct from `marketing.reputation.likes-the-people-running-the-studio`**, which praises how the makers behave, not why the buyer came. Crab Champions 137973825 (*"developed by the same musician who did the Crab Rave music video ... That's why I decided to support this game"*). |
+
+🔑 **Round 588, Crab Champions batch 7.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

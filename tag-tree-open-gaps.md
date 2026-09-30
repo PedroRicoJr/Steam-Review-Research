@@ -11210,3 +11210,10 @@ Other choices: 137123053 also has unlocked skins that are never enabled (`the-re
 
 Other choices: "Orb Launcher is OP with the right perks" (137584246) goes to `one-option-dominates`. "Don't be put off by its memes" (137584536) goes to `looks-like-a-joke-plays-like-a-real-game`. "No loading times" (137566231) goes to `quick-to-get-in`. Running counts: naming other games 13, music 12, friends 12.
 
+## Notes - round 588 (Crab Champions batch 7)
+
+50 reviews, created 2023-04-30 to 2023-05-07, all thumbs up; 79 bullets (1.58 per review), none excluded; one new mode under Rule C:
+
+- `marketing.discovery.came-for-the-creators-other-work` (~): 137973825 bought the game "to support" it because it was "developed by the same musician who did the Crab Rave music video". Not `came-for-a-crossover-with-something-i-already-like`, since nothing borrowed is inside the game; the draw is who made it.
+
+Other choices: 137553387 names Quake, Tribes and Reflex and says runs "save & quit anytime" (`can-pause-anytime`). 137542254 has enemies stuck in walls (`poor-ai-behaviour`), Nightmare that "keeps you on edge" (`satisfyingly-hard`), and achievement skins without unique colours (`not-worth-chasing`). 137534552 has hitboxes and mob targeting that need work (`the-hitboxes-are-off`, `poor-ai-behaviour`). 137531843 asks for matchmaking (`no-public-matchmaking`). 137545495 says Steam's hours are wrong ("about 100 hours"). Running counts (by grep, stats files left out): naming other games 15, music praise 12 plus 1 music complaint, friends 14.
