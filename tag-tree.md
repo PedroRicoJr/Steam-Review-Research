@@ -10690,6 +10690,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 585, Crab Champions batch 4.** Built under Rule C.
 
+## Modes added in Crab Champions batch 5 - round 586 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-weapon-is-fixed-for-the-run` | **−** | The weapon chosen at the start stays for the whole run with no way to swap it for another found along the way, so long runs with one gun grow dull. **Distinct from `.cannot-choose-the-starting-weapon`**, which is about the start: here the start is chosen and the run cannot change it. Crab Champions 137123053 (*"I wish you could change guns through Legendary chests. The game gets boring using the same gun for 100+ runs"*). |
+
+🔑 **Round 586, Crab Champions batch 5.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

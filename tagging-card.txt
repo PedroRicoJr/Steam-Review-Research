@@ -1691,3 +1691,4 @@ game-design.ui-ux.reading-the-upgrades-means-pausing | - | The upgrade and item 
 game-design.ui-ux.an-upgrades-numbers-are-hidden-until-picked | - | The game does not show what an upgrade or perk actually does in numbers until after the player has taken it, s
 game-design.power-balance.upgrades-make-aiming-unnecessary | - | The upgrades turn shots into wide area damage, so aiming stops mattering and the fight becomes kiting and firi
 game-design.progression.unlock-pace.the-level-cap-is-too-low | - | The reviewer says the maximum level the game allows is too low. Crab Champions 137136416 (*"complaint max leve
+game-design.progression.build-and-customisation.the-weapon-is-fixed-for-the-run | - | The weapon chosen at the start stays for the whole run with no way to swap it for another found along the way,

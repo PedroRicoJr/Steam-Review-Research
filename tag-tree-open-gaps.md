@@ -11193,3 +11193,11 @@ Other choices: 136759850 is the first detailed complaint about the enemies. It n
 
 Other choices: "the lighting crab" (136751352) goes to `one-enemy-is-overtuned`, since the ask is to tone it down; the text does not say what the crab is. A missing epilepsy warning for flashy pickups (137138958) goes to `flashing-that-endangers-photosensitive-players`. A non-fan of roguelikes still hooked after 3 hours (137142573) goes to `won-over-someone-who-avoids-the-genre`. Running counts: naming other games 11 (mostly Risk of Rain 2), music 10, friends 9.
 
+## Notes - round 586 (Crab Champions batch 5)
+
+50 reviews, all created 2023-04-22, 47 up and 3 down; 49 summarised (62 bullets, 1.24 per review), 1 empty review excluded (137123493). 60% of bullets are `positive.unknown`, the highest share so far. 1 new mode under Rule C:
+
+- `game-design.progression.build-and-customisation.the-weapon-is-fixed-for-the-run` (−) - 137123053: wants to swap guns via legendary chests; one gun for 100+ runs gets boring.
+
+Other choices: 137123053 also has unlocked skins that are never enabled (`the-reward-never-arrives`) and gets stuck in rocky biomes (`you-get-stuck-on-the-scenery`). It credits a game made "by 1 dude with no prior experience" (`impressive-for-a-small-team`). 137106528 is "basically unstoppable" on Nightmare (`progression-outgrows-the-challenge`). The three thumbs down are "It still isn't good" (a 2026 edit), "d", and too little content with no balance (137123675). Running counts: naming other games 13, music 11, friends 10.
+
