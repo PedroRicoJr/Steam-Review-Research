@@ -11201,3 +11201,12 @@ Other choices: "the lighting crab" (136751352) goes to `one-enemy-is-overtuned`,
 
 Other choices: 137123053 also has unlocked skins that are never enabled (`the-reward-never-arrives`) and gets stuck in rocky biomes (`you-get-stuck-on-the-scenery`). It credits a game made "by 1 dude with no prior experience" (`impressive-for-a-small-team`). 137106528 is "basically unstoppable" on Nightmare (`progression-outgrows-the-challenge`). The three thumbs down are "It still isn't good" (a 2026 edit), "d", and too little content with no balance (137123675). Running counts: naming other games 13, music 11, friends 10.
 
+## Notes - round 587 (Crab Champions batch 6)
+
+50 reviews, created 2023-04-22 to 2023-04-30, all thumbs up; 71 bullets (1.42 per review), none excluded; no new mode. Two long reviews carry most of the design detail:
+
+- 137582211: armed early-game crabs so tanky you restart without lucky items (`bullet-sponges`), unavoidable fire-skull damage (`no-counterplay`), a soft-lock when an enemy is stuck under the map, with no timer to open the exit (`breaks-play`, and round 573's `the-last-enemy-must-be-hunted-down`, now in its second game).
+- 137578862: a "gem" with a robust roadmap and consistent updates (`steady-stream`), too little content, armour too rare (`resources-too-scarce`), repetitive music over long sessions, hard-to-read enemy patterns and melee ranges (`attacks-are-poorly-telegraphed`), and weapon unlocks balanced poorly for solo.
+
+Other choices: "Orb Launcher is OP with the right perks" (137584246) goes to `one-option-dominates`. "Don't be put off by its memes" (137584536) goes to `looks-like-a-joke-plays-like-a-real-game`. "No loading times" (137566231) goes to `quick-to-get-in`. Running counts: naming other games 13, music 12, friends 12.
+
