@@ -10657,6 +10657,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 583, Crab Champions batch 2.** Built under Rule C.
 
+## Modes added in Crab Champions batch 3 - round 584 (Rule C)
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.the-balance-assumes-you-restart-for-a-god-build` | **−** | The reviewer says the game is tuned so that a player must keep restarting runs until the random offers hand them an overpowered build, because an ordinary build cannot survive the enemies. **Distinct from `.the-thing-you-need-may-never-roll`**, which is one missing piece: this is the whole balance resting on rerolling runs. Crab Champions 136759850 (*"the balance of the game seemingly centered around the player resetting repeatedly until they get a god build"*). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.reading-the-upgrades-means-pausing` | **−** | The upgrade and item texts are long or shown in a small window, so the player has to stop play to read them. **Distinct from `.tooltips-get-in-the-way`**, where the text covers the screen: here the text is hard to take in without pausing. Crab Champions 136762269 (*"the descriptions and texts do force you to pause if only to read up all the info in a somewhat-small window"*). |
+
+🔑 **Round 584, Crab Champions batch 3.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

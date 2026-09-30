@@ -11174,3 +11174,12 @@ Other choices: "Risk of Rain 2 but crab" and "ULTRAKILL but crab" go to `explain
 
 Other choices: 136295436, "Risk of Rangoon", has **396 helpful votes**, the most in the sample so far; it is filed on `explained-by-naming-other-games`, which now has 7 Crab Champions reviews, most of them naming Risk of Rain 2. The soundtrack is praised in 7 reviews so far (`music.fits-the-game`). 136295495 loses all upgrades bought in the run when disconnected from a friend (`a-disconnect-loses-the-run`). 136295140 again wants meaningful upgrades between runs, joining round 582's `wants-a-talent-tree-between-runs` (now 2). A split-screen request (136294107) goes to `expected-mode-missing`. A checklist review (136769976) goes to `filled-in-from-a-template`.
 
+## Notes - round 584 (Crab Champions batch 3)
+
+50 reviews, all created 2023-04-15; 48 summarised (72 bullets), 2 excluded: 136764874 (empty) and 136765154 (an apple pie recipe, with nothing about the game). 49 up, 1 down. 2 new modes under Rule C:
+
+- `game-design.randomness.the-balance-assumes-you-restart-for-a-god-build` (−) - 136759850 (22 helpful, thumbs down, edited 2024-10): "centered around the player resetting repeatedly until they get a god build".
+- `game-design.ui-ux.reading-the-upgrades-means-pausing` (−) - 136762269: long texts in a small window.
+
+Other choices: 136759850 is the first detailed complaint about the enemies. It names spawns under you (`unfair-spawns`), ranged elites with fast, predictive, hard-to-see shots (`ranged-enemies-hit-you-from-anywhere-while-you-are-swarmed`), useless weapons and rare build-defining mods. Its 2024 edit keeps the verdict. The level-100-in-70-minutes achievement, whose time was cut from 2 hours in the beta (136764137), goes to `gated-behind-unreachable-content`. "Always get Glass Cannon" (136767593) goes to `one-option-dominates`. Running counts: naming other games 8, music 8, friends 7.
+

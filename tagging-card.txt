@@ -1686,3 +1686,5 @@ community.social-features.no-leaderboard-to-compete-on | - | The game keeps no r
 game-design.progression.build-and-customisation.wants-a-talent-tree-between-runs | - | The reviewer wants permanent upgrades to spend points on after every run - a talent or skill tree that carries
 game-design.game-feel.combat.the-hitboxes-are-off | - | Shots and attacks connect or miss in ways that do not match what is drawn on screen, and the reviewer names th
 game-design.replayability.the-run-can-loop-endlessly | + | A run does not have to end at a final stage: the player can keep looping for as long as they survive, and the 
+game-design.randomness.the-balance-assumes-you-restart-for-a-god-build | - | The reviewer says the game is tuned so that a player must keep restarting runs until the random offers hand th
+game-design.ui-ux.reading-the-upgrades-means-pausing | - | The upgrade and item texts are long or shown in a small window, so the player has to stop play to read them. *
