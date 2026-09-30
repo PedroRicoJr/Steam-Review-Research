@@ -10791,6 +10791,41 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 592, Crab Champions batch 11.** Built under Rule C.
 
+## Modes added in Crab Champions batch 12 - round 593 (Rule C)
+
+### `game-design.power-balance`
+
+| Mode | | Definition |
+|---|---|---|
+| `.a-damage-cap-stops-you-killing-first` | **−** | The game caps how much damage a hit can do, so even a strong build cannot kill a dangerous enemy before it attacks, and the player must take the hit. **Distinct from `.progression-outgrows-the-challenge`** and its opposite `.the-challenge-keeps-up`, which judge the overall balance; here one rule blocks the answer the build should give. Crab Champions 145860217 (*"damage is capped so it's not like you can kill them before they hit you"*). |
+
+### `game-design.co-op-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.who-gets-the-loot-is-unclear` | **−** | In a group, which pickups are shared and which go to one player seems random, so nobody can plan around it. **Distinct from `.loot-is-shared`** and **`.teammates-can-take-your-things`**, where the rule is clear and judged; here the rule itself cannot be read. Crab Champions 145860217 (*"Loot distribution and what's shared amongst players is a toss up"*). |
+
+### `game-design.readability`
+
+| Mode | | Definition |
+|---|---|---|
+| `.the-pickups-look-alike` | **−** | Item pickups look nearly the same, so the player cannot tell them apart at a glance, and no item stands out. **The pickup counterpart of `.enemies-look-alike`.** Crab Champions 145860217 (*"almost every item pickup looks the same, which is fitting because no item has it's own identity"*). |
+
+### `game-design.enemy-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.bosses-are-just-bigger-enemies` | **−** | Bosses play like larger versions of normal enemies, and the fight is a simple repeat - shoot, run, shoot. **Distinct from `.bosses-are-a-chore`**, which is about length, and **`.all-fought-the-same-way`**, which is about the whole roster. Crab Champions 146341832 (*"All I need to do is attack→run→attack→run. In fact they more like enemies gets bigger"*). |
+| `.shots-track-you-through-a-dash` | **−** | Enemy projectiles follow the player through a dash or dodge, so the move meant to escape them does not work. **Distinct from `.attacks-are-timed-to-bait-your-dodge`**, where the timing baits the dodge; here the shot keeps aiming after it. Crab Champions 146341832 (*"Enemy's projectiles still could read my movement while I'm making dash"*). |
+
+### `game-design.game-feel.reward-moment`
+
+| Mode | | Definition |
+|---|---|---|
+| `.rewards-come-often` | **+** | Loot and rewards arrive often during play, and the player likes the steady flow. **Distinct from `.the-payout-lands-well`**, which is about how one reward feels; this is about how often they come. Crab Champions 145860217 (*"it's nice getting loot so often"*). |
+
+🔑 **Round 593, Crab Champions batch 12.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

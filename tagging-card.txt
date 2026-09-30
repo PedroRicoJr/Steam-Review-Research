@@ -1704,3 +1704,9 @@ marketing.positioning.co-op-is-rare-in-its-genre | + | The reviewer praises the 
 game-design.progression.achievements.two-achievements-give-the-same-reward | - | Different achievements unlock the same reward - the same skin - so finishing the second one earns nothing. **D
 game-design.game-feel.movement.wants-to-cancel-a-move-early | - | The player wants to stop a move part-way - end a slide with another tap - and the game does not allow it. **Di
 audio.music.the-song-it-is-built-on-is-missing | - | The game is built on or known for one song, and that song is not in it; the player wants it added. **Distinct 
+game-design.power-balance.a-damage-cap-stops-you-killing-first | - | The game caps how much damage a hit can do, so even a strong build cannot kill a dangerous enemy before it att
+game-design.co-op-design.who-gets-the-loot-is-unclear | - | In a group, which pickups are shared and which go to one player seems random, so nobody can plan around it. **
+game-design.readability.the-pickups-look-alike | - | Item pickups look nearly the same, so the player cannot tell them apart at a glance, and no item stands out. *
+game-design.enemy-design.bosses-are-just-bigger-enemies | - | Bosses play like larger versions of normal enemies, and the fight is a simple repeat - shoot, run, shoot. **Di
+game-design.enemy-design.shots-track-you-through-a-dash | - | Enemy projectiles follow the player through a dash or dodge, so the move meant to escape them does not work. *
+game-design.game-feel.reward-moment.rewards-come-often | + | Loot and rewards arrive often during play, and the player likes the steady flow. **Distinct from `.the-payout-
