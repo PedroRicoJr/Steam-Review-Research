@@ -1682,3 +1682,6 @@ marketing.reputation.wants-the-rest-of-the-series-released-here | + | The review
 game-design.progression.build-and-customisation.health-grows-without-a-cap | + | The character's health or defence keeps rising with play, with no ceiling, so progress never stops. The review
 engineering.stability.crashes-caused-by-another-player | - | The reviewer's game fails or crashes because of what some other, unrelated player online is doing, so they can
 engineering.stability.the-save-was-lost | - | The player's save file was deleted or corrupted and all their progress went with it. **Distinct from `.a-crash
+community.social-features.no-leaderboard-to-compete-on | - | The game keeps no ranking of the best runs or players, and the reviewer wants one to compete on. **Distinct fr
+game-design.progression.build-and-customisation.wants-a-talent-tree-between-runs | - | The reviewer wants permanent upgrades to spend points on after every run - a talent or skill tree that carries
+game-design.game-feel.combat.the-hitboxes-are-off | - | Shots and attacks connect or miss in ways that do not match what is drawn on screen, and the reviewer names th

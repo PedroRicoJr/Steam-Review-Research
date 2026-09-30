@@ -10629,6 +10629,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 577, EARTH DEFENSE FORCE 5 batch 35.** Built under Rule C.
 
+## Modes added in Crab Champions batch 1 - round 582 (Rule C)
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.no-leaderboard-to-compete-on` | **−** | The game keeps no ranking of the best runs or players, and the reviewer wants one to compete on. **Distinct from `game-design.progression.cosmetic-rewards.nothing-to-show-for-it`**, which is about showing off what was earned: this is about a ranked table. Crab Champions 136300218 (*"I personally still lack a ranking list on which the best players in the game are honored"*). |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-a-talent-tree-between-runs` | **−** | The reviewer wants permanent upgrades to spend points on after every run - a talent or skill tree that carries across runs. **Distinct from `game-design.progression.unlock-pace.nothing-accumulates`**, where nothing at all carries over: here unlocks exist, but no lasting power to build. Crab Champions 136300577 (*"only missing a talent tree that you put points in after every run"*). |
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.the-hitboxes-are-off` | **−** | Shots and attacks connect or miss in ways that do not match what is drawn on screen, and the reviewer names the hitboxes. **Distinct from `.weak-spot-hits-do-not-count`**, which is one kind of shot: this is hit detection in general. Crab Champions 136303159 (*"Hitboxes suck at the moment"*). |
+
+🔑 **Round 582, Crab Champions batch 1.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -11156,3 +11156,13 @@ No reviews read.
 - **GAMES-TODO:** row 11 of section 4; `planning/action-roguelike-list.md` A7 marked WIP.
 - **Next:** Crab Champions batch 1 (50 reviews).
 
+## Notes - round 582 (Crab Champions batch 1)
+
+50 reviews, all created on 2023-04-07 (the launch week of the Early Access release), all thumbs up, 6 edited later; 64 bullets (1.28 per review), none excluded. **Very short reviews**: 42 of 50 are 15 words or fewer, and 53% of bullets are `positive.unknown` - many are just "crab". 3 new modes under Rule C:
+
+- `community.social-features.no-leaderboard-to-compete-on` (−) - 136300218: wants a ranking of the best players.
+- `game-design.progression.build-and-customisation.wants-a-talent-tree-between-runs` (−) - 136300577: wants points to spend after every run.
+- `game-design.game-feel.combat.the-hitboxes-are-off` (−) - 136303159: "Hitboxes suck at the moment".
+
+Other choices: "Risk of Rain 2 but crab" and "ULTRAKILL but crab" go to `explained-by-naming-other-games` (3 this batch). 136302710 asked for PvP and edited to say it was added, filed on `patch-quality.made-it-better`. The 1v1 and parkour modes "announced in an earlier trailer" (136300218) go to `awaiting-promised-content`. ASCII art (136304964) and crude sex-update jokes stay on `positive.unknown`, the jokes not repeated. The first themes: movement praised (3 on `movement.responsive`), friends (3), and early-access roughness in enemies (136303159: unavoidable damage, bullet sponges, damage pools).
+
