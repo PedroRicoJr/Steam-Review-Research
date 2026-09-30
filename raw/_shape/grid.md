@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-09-28 17:45:59 UTC. Rebuild with `python build_grid.py`.
+Built 2026-09-30 05:46:18 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -18,6 +18,7 @@ Built 2026-09-28 17:45:59 UTC. Rebuild with `python build_grid.py`.
 | `back-4-blood/schinese` | 59 | 15,000 | 2021-11 (2,312) |
 | `back-4-blood/spanish` | 59 | 2,903 | 2021-10 (261) |
 | `banzai-escape/english` | 48 | 80 | 2016-03 (10) |
+| `crab-champions/english` | 42 | 27,193 | 2023-04 (6,871) |
 | `deep-rock-galactic/brazilian` | 103 | 8,824 | 2023-11 (435) |
 | `deep-rock-galactic/english` | 103 | 215,564 | 2022-11 (10,316) |
 | `deep-rock-galactic/latam` | 94 | 2,140 | 2023-11 (139) |
