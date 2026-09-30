@@ -1699,3 +1699,4 @@ engineering.performance.slows-late-in-a-multiplayer-run | - | The game runs smoo
 engineering.bugs.mostly-in-multiplayer | - | The reviewer says the bugs they met came mainly in multiplayer, and solo play is cleaner. **Distinct from `eng
 game-design.co-op-design.teammates-can-trade-items | + | Players can hand items to each other during a run, so a group can pass pickups to whoever's build needs them. 
 game-design.progression.unlock-pace.nothing-from-a-run-carries-into-the-next | - | Win or lose, the run's gains are wiped, so the player feels they earned nothing, and they want to keep what th
+community.developer-communication.the-feedback-button-is-broken | - | The game has its own button or form for sending feedback to the studio, and it does not work. **Distinct from 

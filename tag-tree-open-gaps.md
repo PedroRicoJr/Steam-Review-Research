@@ -11239,3 +11239,13 @@ Other choices: "not too hard and not too easy" (137970617) and "hard enough that
 139705166 is the second long thumbs-down in Crab (7 bullets, like 136759850), feedback copied from the studio's Discord: besides the carry-over complaint, only three difficulties with too big a jump from normal to Nightmare (`badly-scaled`), all boss crystals to the last hit (`teammates-take-your-kills`), bosses shooting through walls (`attacks-pass-through-walls`), cosmetics not unlocking (`the-reward-never-arrives`) and ground attacks hitting them in mid-air (`the-hitboxes-are-off`). "Chests fall into rocks" goes to `engineering.bugs.buggy`, not `the-objective-spawns-inside-the-scenery`, since a chest is not a required object. The other thumbs-down is "Awesome game, terrible community" (`the-fanbase-puts-me-off`).
 
 Other choices: the roadmap shown in the lobby (139319739) goes to `open-about-what-it-is-doing`, following 5 earlier roadmap bullets. Back-flips as a crab (140124784) go to `useless-actions-players-love`. "Pretty hard at first", then a blast (139710840) goes to `overwhelming-at-first`, like 136751632. Running counts (by grep, stats files left out): naming other games 18, beats its rivals 4, music praise 14, friends 20.
+
+## Notes - round 591 (Crab Champions batch 10)
+
+50 reviews, created 2023-06-15 to 2023-07-15; 47 thumbs up, 3 down; 68 bullets (1.36 per review), none excluded. One new mode under Rule C:
+
+- `community.developer-communication.the-feedback-button-is-broken` (−): 140513653, "the feedback button is broken". Not `no-way-to-reach-the-studio`, since the channel exists and fails.
+
+The three thumbs-down are all one line: "not enough updates" (`too-slow`), "All elite need a nerf" (`one-enemy-type-is-hated`, as 137121347's elite complaint was), and a censored word alone (`review.negative.unknown`). 11 thumbs-down in the game so far.
+
+Other choices: "no enemy counter in Arena or Hordes" (140513653) goes to `hides-information` - the player cannot see how many are left. 142162720's tip - hand all your perks to a good player for an easy level 100 - goes to `one-player-can-carry`. 140525120 reads like a store blurb; its three concrete claims (updates, fluid movement, fresh runs) get their own bullets and the rest goes to `positive.unknown`. Lag when opening 255 chests at once (141001637) goes to `unstable-framerate`. Running counts (by grep, stats files left out): naming other games 22, beats its rivals 4, music praise 14, friends 22.

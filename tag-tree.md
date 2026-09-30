@@ -10753,6 +10753,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 590, Crab Champions batch 9.** Built under Rule C.
 
+## Modes added in Crab Champions batch 10 - round 591 (Rule C)
+
+### `community.developer-communication`
+
+| Mode | | Definition |
+|---|---|---|
+| `.the-feedback-button-is-broken` | **−** | The game has its own button or form for sending feedback to the studio, and it does not work. **Distinct from `.no-way-to-reach-the-studio`**, where no channel exists at all; here the channel exists and fails. **Distinct from `.feedback-only-through-an-outside-chat-app`**, which is about where feedback has to go, not a broken tool. Crab Champions 140513653 (*"the feedback button is broken"*). |
+
+🔑 **Round 591, Crab Champions batch 10.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
