@@ -11302,7 +11302,7 @@ Other choices: "Play with crab rave on repeat" (150136012) goes to `best-played-
 
 50 reviews, created 2023-11-22 to 2023-12-31; 48 thumbs up, 2 down; 91 bullets (1.82 per review), none excluded; no new mode - every point fitted an existing one.
 
-153069742 is the long thumbs-down, edited after a December 2023 update: more useless perks (`new-items-thin-out-the-pool`), restarts because "only 2 out of 30 perks actually do anything" (`the-balance-assumes-you-restart-for-a-god-build`), a shop cut to "1 or 2 blue purchases" (`nerfs-what-players-liked`), one-shots from offscreen projectiles (`one-hit-kills`) and crabs "spawning right under you" (`unfair-spawns`). The other is "overrated ... this is risk of rain 2" (`derivative-of-an-older-game`), at 0 hours.
+153069742 is the long thumbs-down, edited on 2023-12-30 after "this latest update": more useless perks (`new-items-thin-out-the-pool`), restarts because "only 2 out of 30 perks actually do anything" (`the-balance-assumes-you-restart-for-a-god-build`), a shop cut to "1 or 2 blue purchases" (`nerfs-what-players-liked`), one-shots from offscreen projectiles (`one-hit-kills`) and crabs "spawning right under you" (`unfair-spawns`). The other is "overrated ... this is risk of rain 2" (`derivative-of-an-older-game`), at 0 hours.
 
 152566033 gives the batch's widest praise (10 bullets): small download, quick start, smooth running, intuitive controls, Noisestorm's soundtrack, deep roguelite systems. 153026263 finished every achievement and says the game never explains that one needs 5 different greed perks (`does-not-say-what-is-missing`).
 
