@@ -10671,6 +10671,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 584, Crab Champions batch 3.** Built under Rule C.
 
+## Modes added in Crab Champions batch 4 - round 585 (Rule C)
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.an-upgrades-numbers-are-hidden-until-picked` | **−** | The game does not show what an upgrade or perk actually does in numbers until after the player has taken it, so choosing is guesswork. Crab Champions 136751771 (*"Cant tell what the stats of perks are before you pick them"*). |
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.upgrades-make-aiming-unnecessary` | **−** | The upgrades turn shots into wide area damage, so aiming stops mattering and the fight becomes kiting and firing in the enemies' general direction. **Distinct from `game-design.game-feel.combat.shots-go-where-they-want`**, where spread takes aim away by design: here the player's own upgrades make it pointless. Crab Champions 136751622 (*"a lot of perks make it so that aiming isn't necessary as your shots just become huge swathes of AOE damage"*). |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-level-cap-is-too-low` | **−** | The reviewer says the maximum level the game allows is too low. Crab Champions 137136416 (*"complaint max level cap to small"*). |
+
+🔑 **Round 585, Crab Champions batch 4.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

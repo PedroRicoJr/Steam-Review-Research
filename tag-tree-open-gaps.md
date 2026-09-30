@@ -11183,3 +11183,13 @@ Other choices: 136295436, "Risk of Rangoon", has **396 helpful votes**, the most
 
 Other choices: 136759850 is the first detailed complaint about the enemies. It names spawns under you (`unfair-spawns`), ranged elites with fast, predictive, hard-to-see shots (`ranged-enemies-hit-you-from-anywhere-while-you-are-swarmed`), useless weapons and rare build-defining mods. Its 2024 edit keeps the verdict. The level-100-in-70-minutes achievement, whose time was cut from 2 hours in the beta (136764137), goes to `gated-behind-unreachable-content`. "Always get Glass Cannon" (136767593) goes to `one-option-dominates`. Running counts: naming other games 8, music 8, friends 7.
 
+## Notes - round 585 (Crab Champions batch 4)
+
+50 reviews, created 2023-04-15 to 2023-04-22, 49 up and 1 down; 63 bullets (1.26 per review), none excluded; 54% of bullets are `positive.unknown`. 3 new modes under Rule C:
+
+- `game-design.ui-ux.an-upgrades-numbers-are-hidden-until-picked` (−) - 136751771 (5 helpful, thumbs down): "Cant tell what the stats of perks are before you pick them".
+- `game-design.power-balance.upgrades-make-aiming-unnecessary` (−) - 136751622: AOE perks make aim pointless, so it becomes kite and shoot.
+- `game-design.progression.unlock-pace.the-level-cap-is-too-low` (−) - 137136416. Which level is not said.
+
+Other choices: "the lighting crab" (136751352) goes to `one-enemy-is-overtuned`, since the ask is to tone it down; the text does not say what the crab is. A missing epilepsy warning for flashy pickups (137138958) goes to `flashing-that-endangers-photosensitive-players`. A non-fan of roguelikes still hooked after 3 hours (137142573) goes to `won-over-someone-who-avoids-the-genre`. Running counts: naming other games 11 (mostly Risk of Rain 2), music 10, friends 9.
+

@@ -1688,3 +1688,6 @@ game-design.game-feel.combat.the-hitboxes-are-off | - | Shots and attacks connec
 game-design.replayability.the-run-can-loop-endlessly | + | A run does not have to end at a final stage: the player can keep looping for as long as they survive, and the 
 game-design.randomness.the-balance-assumes-you-restart-for-a-god-build | - | The reviewer says the game is tuned so that a player must keep restarting runs until the random offers hand th
 game-design.ui-ux.reading-the-upgrades-means-pausing | - | The upgrade and item texts are long or shown in a small window, so the player has to stop play to read them. *
+game-design.ui-ux.an-upgrades-numbers-are-hidden-until-picked | - | The game does not show what an upgrade or perk actually does in numbers until after the player has taken it, s
+game-design.power-balance.upgrades-make-aiming-unnecessary | - | The upgrades turn shots into wide area damage, so aiming stops mattering and the fight becomes kiting and firi
+game-design.progression.unlock-pace.the-level-cap-is-too-low | - | The reviewer says the maximum level the game allows is too low. Crab Champions 137136416 (*"complaint max leve
