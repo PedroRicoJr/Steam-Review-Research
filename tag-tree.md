@@ -10763,6 +10763,34 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 591, Crab Champions batch 10.** Built under Rule C.
 
+## Modes added in Crab Champions batch 11 - round 592 (Rule C)
+
+### `marketing.positioning`
+
+| Mode | | Definition |
+|---|---|---|
+| `.co-op-is-rare-in-its-genre` | **+** | The reviewer praises the game for offering co-op in a genre where few games do. **Distinct from `production.content-variety.blends-genres-into-something-fresh`**, which is about mixing genres; here the genre is plain and the co-op is the rare part. Crab Champions 142668300 (*"it is co-op (which seems to be fairly rare for the genre)"*). |
+
+### `game-design.progression.achievements`
+
+| Mode | | Definition |
+|---|---|---|
+| `.two-achievements-give-the-same-reward` | **−** | Different achievements unlock the same reward - the same skin - so finishing the second one earns nothing. **Distinct from `.do-not-track-what-you-actually-did`**, where the achievement fails to count; here it counts and pays out a duplicate. Crab Champions 142666872 (*"some of the character skins can be unlocked multiple times through different achievments, which kind of defeats the point"*). |
+
+### `game-design.game-feel.movement`
+
+| Mode | | Definition |
+|---|---|---|
+| `.wants-to-cancel-a-move-early` | **−** | The player wants to stop a move part-way - end a slide with another tap - and the game does not allow it. **Distinct from `.the-dodge-roll-locks-you-in`**, where the locked move costs the player deaths; here it is a missing control, raised as a wish. Crab Champions 143596761 (*"the ability to cancel your slide with another tap of the shift key"*). |
+
+### `audio.music`
+
+| Mode | | Definition |
+|---|---|---|
+| `.the-song-it-is-built-on-is-missing` | **−** | The game is built on or known for one song, and that song is not in it; the player wants it added. **Distinct from `.forgettable-or-annoying`**, which judges the music that is there. Crab Champions 142666872 (*"I'm surprised Crab Rave doesn't play in this game, considering that is the song this game is based on"*); 137117708 (*"Only dislike is lack of Crab Rave!"*), moved here from `review.positive.unknown`. |
+
+🔑 **Round 592, Crab Champions batch 11.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

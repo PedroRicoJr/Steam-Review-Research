@@ -11249,3 +11249,16 @@ Other choices: the roadmap shown in the lobby (139319739) goes to `open-about-wh
 The three thumbs-down are all one line: "not enough updates" (`too-slow`), "All elite need a nerf" (`one-enemy-type-is-hated`, as 137121347's elite complaint was), and a censored word alone (`review.negative.unknown`). 11 thumbs-down in the game so far.
 
 Other choices: "no enemy counter in Arena or Hordes" (140513653) goes to `hides-information` - the player cannot see how many are left. 142162720's tip - hand all your perks to a good player for an easy level 100 - goes to `one-player-can-carry`. 140525120 reads like a store blurb; its three concrete claims (updates, fluid movement, fresh runs) get their own bullets and the rest goes to `positive.unknown`. Lag when opening 255 chests at once (141001637) goes to `unstable-framerate`. Running counts (by grep, stats files left out): naming other games 22, beats its rivals 4, music praise 14, friends 22.
+
+## Notes - round 592 (Crab Champions batch 11)
+
+50 reviews, created 2023-07-15 to 2023-08-23; 47 thumbs up, 3 down; 84 bullets (1.68 per review), none excluded. Four new modes under Rule C:
+
+- `marketing.positioning.co-op-is-rare-in-its-genre` (+): 142668300, "it is co-op (which seems to be fairly rare for the genre)". The same review is the second for round 588's `came-for-the-creators-other-work` ("made by the dude who made Crab Rave? Sign me ... up").
+- `game-design.progression.achievements.two-achievements-give-the-same-reward` (−): 142666872, skins "unlocked multiple times through different achievments".
+- `game-design.game-feel.movement.wants-to-cancel-a-move-early` (−): 143596761 wants to end a slide "with another tap of the shift key".
+- `audio.music.the-song-it-is-built-on-is-missing` (−): 142666872, "surprised Crab Rave doesn't play in this game". 137117708 ("Only dislike is lack of Crab Rave!", round 586) moved here from `review.positive.unknown` - a missed build. 136299775 stays on `positive.unknown`: it only jokes about the missing song.
+
+142666872 ties 137578862 for the most bullets in the game so far (11): Dark Souls, Ultrakill and Risk of Rain 2 named; enemy variety (`good-variety`); puffer fish that sneak up silently and explode (`no-warning-sounds`); an overpowered crossbow the reviewer asks not to weaken (`one-option-dominates`). The thumbs-down are a joke about a friend's addiction (`keeps-pulling-you-back`), "one of the most ass games" at 0 hours, and floaty crab animations with a refund (`stiff-or-clunky`, `refunded`).
+
+Other choices: 143596761 wants starting armour, small damage buffs and a chosen starting loadout (`wants-a-talent-tree-between-runs`). 142673901 is a filled-in checklist (`filled-in-from-a-template`). "Seems like a funny asset flip" and "looks hilarious" (143612942, 142668300) go to `looks-like-a-joke-plays-like-a-real-game`. Running counts (by grep, stats files left out): naming other games 24, beats its rivals 4, music praise 15, friends 24, thumbs-down 14.

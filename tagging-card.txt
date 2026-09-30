@@ -1700,3 +1700,7 @@ engineering.bugs.mostly-in-multiplayer | - | The reviewer says the bugs they met
 game-design.co-op-design.teammates-can-trade-items | + | Players can hand items to each other during a run, so a group can pass pickups to whoever's build needs them. 
 game-design.progression.unlock-pace.nothing-from-a-run-carries-into-the-next | - | Win or lose, the run's gains are wiped, so the player feels they earned nothing, and they want to keep what th
 community.developer-communication.the-feedback-button-is-broken | - | The game has its own button or form for sending feedback to the studio, and it does not work. **Distinct from 
+marketing.positioning.co-op-is-rare-in-its-genre | + | The reviewer praises the game for offering co-op in a genre where few games do. **Distinct from `production.co
+game-design.progression.achievements.two-achievements-give-the-same-reward | - | Different achievements unlock the same reward - the same skin - so finishing the second one earns nothing. **D
+game-design.game-feel.movement.wants-to-cancel-a-move-early | - | The player wants to stop a move part-way - end a slide with another tap - and the game does not allow it. **Di
+audio.music.the-song-it-is-built-on-is-missing | - | The game is built on or known for one song, and that song is not in it; the player wants it added. **Distinct 
