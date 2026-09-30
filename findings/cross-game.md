@@ -1421,3 +1421,68 @@ put the meta progression before the fun build; both get praised for the build on
 - **The non-English audience.** About 60,000 reviews in other languages; none pulled.
 
 ⚠️ **The corpus is now 26 games and 23,729 English summaries (24,491 in all languages).**
+
+## 23. ⭐ What the seventeenth large game adds - EARTH DEFENSE FORCE 5, added 2026-09-30
+
+**A third-person PvE shooter for up to four players online or two on one screen, read from its Steam
+launch to seven years on.** 1,768 of 7,208 English reviews, a 24.5% sample at ±2.58%, across 87 months
+(2019-07 to 2026-09); 95.7% up; 3,331 bullets, 1.89 per review; 354 distinct tags, **67 used by no
+other game; 66 modes built in the EDF5 blocks (rounds 543-577)**. Full read in
+`earth-defense-force-5-english.md`, ranked lists in `earth-defense-force-5.md`.
+
+**On the same count as section 22** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included):
+
+| | Deep Rock Galactic | Risk of Rain 2 | Gunfire Reborn | **EDF 5** | Escape from Duckov | Warframe | Helldivers 2 | ARC Raiders |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 95.6% | 93.9% | **95.7%** | 90.9% | 89.9% | 83.3% | 79.7% |
+| Bullets per review | 2.12 | 1.43 | 1.78 | **1.89** | 1.92 | 2.01 | 1.79 | 1.56 |
+| Praise per 100 | 175.9 | 104.9 | 130.0 | **140.2** | 134.6 | 127.3 | 108.0 | 86.8 |
+| Complaint per 100 | 23.7 | 18.0 | 33.1 | **38.9** | 40.4 | 50.9 | 55.5 | 56.7 |
+| Praise to complaint | 7.4 : 1 | 5.8 : 1 | 3.9 : 1 | **3.6 : 1** | 3.3 : 1 | 2.5 : 1 | 1.95 : 1 | 1.53 : 1 |
+
+### 🔑 The finding: a voice the players quote back is worth more than any other praise here
+
+`memorable-lines` is **7.6 per 100 reviews here, and 0.6 or less in every other game of 300 or more
+reviews** (Redfall 0.6, DRG: Rogue Core 0.5, Deep Rock Galactic 0.4; reviews carrying the tag per 100
+kept English reviews). Add `cheesy-on-purpose` (**169 bullets, 9.6 per 100, in no other game**). The two
+together make the game's identity the most-praised thing about it, ahead of friends (8.3) and the
+classes (4.0). Players quote the marching song and *"They look just like us!"* as their whole review,
+and they sing along with the allied soldiers (8 reviews). **For Dominion: a squad that talks, and a line
+or chant players can repeat, cost little and are what this game's reviews are written about.**
+
+### A co-op game hosted by one player, and what it costs online
+
+Its co-op is hosted by one player, as Dominion's is. Its online
+rules draw a list of small complaints: **separate solo and online progress (7 reviews), gear capped
+online (4), no joining a mission in progress (4), a weapon cap per mission (2), uneven scaling by head
+count (2), the host leaving ending the game (1).** None is large, but they come from the same choice. One
+review praises the gear cap for keeping a mixed group even (194931079). **For Dominion: decide early
+whether progress and gear carry between solo and online play, and say so on the store page.**
+
+### Other ways it stands out in the corpus
+
+- **Loot picked up by hand.** `collecting-the-drops-by-hand-is-a-chore` (10, game-only), plus cheats
+  (5) and mods (4) to collect drops, and 2 reviews that lose the drops left when the mission ends.
+- **Dated looks and destruction lead the corpus**: `looks-dated` 2.5 per 100 (Redfall 1.9) and
+  `destruction-changes-play` 2.5 (Deep Rock Galactic 1.4).
+- **Buy on sale.** `buy-on-sale-only` is 3.4 per 100, fourth in the corpus after Redfall (17.0), Aliens:
+  Fireteam Elite (9.1) and Back 4 Blood (8.6).
+- **Split screen** is praised in 18 reviews (1.0 per 100, a game-only mode); 5 more use Steam Remote
+  Play to take it online.
+
+### Two things this game says about samples and comparison
+
+1. **A new rival changes what a review is about.** No review names Helldivers before 2024; 36 do after
+   it, none of them thumbs down, and `beats-its-rivals` rises from 0.4 per 100 (2019-23) to 3.2 (from
+   2024-08). **The same game gets a new yardstick without changing.**
+2. **A large share of a small game is still small counts.** 24.5% of its English reviews were read,
+   yet the online frictions above are counts of 1 to 7.
+
+### What this game does NOT settle
+
+- **Runs and extraction.** It has missions in a linear campaign; no runs, no extraction, no PvP.
+- **A live service.** `live-ops` is 3 bullets; nothing here speaks to seasons or updates.
+- **The non-English audience.** About 4,300 reviews in other languages; none pulled.
+
+⚠️ **The corpus is now 27 games and 25,497 English summaries (26,259 in all languages).**

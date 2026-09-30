@@ -11142,3 +11142,7 @@ Other choices: 229645933 (7 helpful) is a long thumbs-down on price. It says $60
 
 The last 18 reviews, created 2026-08-01 to 2026-09-28, all summarised (31 bullets), no new mode. All 1,768 EDF5 reviews are now read, 8 of them excluded (7 empty or invisible text, 1 personal message). 235976419 is a scored review (6/10): four classes "like four different games", random progression, and singing along with every NPC "never gets old". 235802135 calls Helldivers 2 "a horrible rip off". Next are the findings: the English page, then the master page, then cross-game section 23.
 
+## Notes - rounds 579-580 (EARTH DEFENSE FORCE 5 findings)
+
+Round 579 wrote `findings/earth-defense-force-5-english.md` and built the weighted month and group stats with `count.py`. Round 580 wrote `findings/earth-defense-force-5.md` and `findings/cross-game.md` section 23, and marked GAMES-TODO row 10 and planning C17 Done. The headline finding for the corpus: `memorable-lines` is 7.6 per 100 here against 0.6 or less in every other large game, and `cheesy-on-purpose` (169) is used by no other game. The Dominion lesson taken is about the online rules of a co-op game hosted by one player. Note for later counts: `count.py` writes `_*-stats.md` files into the month folders, so a `grep -rl` over `summaries/` must now use `--exclude='_*'`.
+
