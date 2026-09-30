@@ -11273,3 +11273,13 @@ Other choices: 143596761 wants starting armour, small damage buffs and a chosen 
 145860217 is now the longest review in the game (19 bullets, 303 hours, thumbs down). It was written in 2023 and edited in 2024 and 2026: the 2024 edit recommended it after the elemental update, then was struck out, and the 2026 edit says the game is "a lot more sterile" (`polished-the-character-out-of-it`) and gets "slowly worse" beta after beta (`made-it-worse`). The complaints mostly concern the hardest modes: end-of-stage specials that make a run a "build check" luck decides (`luck-decides-the-outcome`, twice), sprayed enemy shots that cannot all be dodged (`no-counterplay`), elites that kill in one hit (`one-hit-kills`), scarce armour, difficulties "between baby mode and impossible" (`badly-scaled`), tanky enemies (`bullet-sponges`) and lost momentum between islands in multiplayer (`nothing-happens-between-fights`). The reviewer mocks a planned parkour update as the wrong priority (`working-on-the-wrong-thing-first`). The other thumbs-down is "very boring" (`negative.unknown`).
 
 Other choices: 146341832's wish for perks that merge into a higher tier goes to `items-barely-combine`, whose definition already asks for combinations. 146787368's tip - shoot the crowns in the lobby - goes to `useless-actions-players-love`. A reviewer's mention of their own health was left out as a private detail (145879910). Running counts (by grep, stats files left out): naming other games 26, music praise 19, friends 29, thumbs-down 16.
+
+## Notes - round 594 (Crab Champions batch 13)
+
+50 reviews, created 2023-09-30 to 2023-11-07; 48 thumbs up, 1 down; 67 bullets on 49 reviews (1.34 per review); one excluded (148292292, empty; 6 excluded in the game so far). One new mode under Rule C:
+
+- `art.visual-direction.an-added-look-feels-out-of-place` (−): 149677383, "What's with the giant pumpkin heads. That seems out of place". The review does not say why the heads are there, so the mode does not assume a seasonal event.
+
+The thumbs-down (149715427, 0 hours) calls it "pretty one dimensional" (`asks-for-no-thought`, as 136751622's low skill ceiling was), "not challenging at all" (`too-easy`), old "in a couple minutes" (`runs-out-fast`), and wants a sideways dash (`no-modern-moves`).
+
+Other choices: "family friendly" (149683216) goes to `production.age-suitability.fine-for-younger-players`. 147367576's run to island 240 goes to `the-run-can-loop-endlessly`. 149694179 is a crude outburst written as a joke and is recorded without repeating it; 148303937's details about the reviewer's own habits are left out. Running counts (by grep, stats files left out): naming other games 27, music praise 21, friends 31, thumbs-down 17.

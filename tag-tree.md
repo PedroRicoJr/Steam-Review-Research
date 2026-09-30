@@ -10826,6 +10826,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 593, Crab Champions batch 12.** Built under Rule C.
 
+## Modes added in Crab Champions batch 13 - round 594 (Rule C)
+
+### `art.visual-direction`
+
+| Mode | | Definition |
+|---|---|---|
+| `.an-added-look-feels-out-of-place` | **−** | One visual element - a prop, a head, a decoration - does not fit the rest of the game's look, and the player asks why it is there. **Distinct from `.copies-another-games-look`** and **`.off-putting-look`**, which judge the whole style; here one piece clashes with a style the player otherwise accepts. **Distinct from `narrative.tone.wrong-tone-for-the-setting`**, which is about attitude, not a visual. Crab Champions 149677383 (*"What's with the giant pumpkin heads. That seems out of place"*). |
+
+🔑 **Round 594, Crab Champions batch 13.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

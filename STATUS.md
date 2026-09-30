@@ -18,14 +18,14 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-09-27 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Crab Champions (EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 593: Crab Champions batch 12, 50 reviews, 6 new modes (600 of 1,512) |
-| Next unit | Crab Champions batch 13: the next **50** (`python summarise.py next --group crab-champions/english --n 50`) |
+| Last unit done | Round 594: Crab Champions batch 13, 50 reviews, 1 new mode (650 of 1,512) |
+| Next unit | Crab Champions batch 14: the next **50** (`python summarise.py next --group crab-champions/english --n 50`) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
-| Tree | 1,712 tags |
+| Tree | 1,713 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
 | Escape from Duckov | **Done** 2026-09-27 - 1,166 of 1,166 read; `findings/escape-from-duckov-english.md`, `findings/escape-from-duckov.md`, cross-game section 21 |
 | Gunfire Reborn | pulled 2026-09-27: 1,884 reviews (+/-2.51%); 1,884 read (all); **Done** - findings written 2026-09-28 |
 | EARTH DEFENSE FORCE 5 | **Done** 2026-09-30 - 1,768 of 1,768 read; `findings/earth-defense-force-5-english.md`, `findings/earth-defense-force-5.md`, cross-game section 23 |
-| Crab Champions | pulled 2026-09-30: 1,512 reviews (+/-2.50%); 600 read; next is batch 13 (50) |
+| Crab Champions | pulled 2026-09-30: 1,512 reviews (+/-2.50%); 650 read; next is batch 14 (50) |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

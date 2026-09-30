@@ -1710,3 +1710,4 @@ game-design.readability.the-pickups-look-alike | - | Item pickups look nearly th
 game-design.enemy-design.bosses-are-just-bigger-enemies | - | Bosses play like larger versions of normal enemies, and the fight is a simple repeat - shoot, run, shoot. **Di
 game-design.enemy-design.shots-track-you-through-a-dash | - | Enemy projectiles follow the player through a dash or dodge, so the move meant to escape them does not work. *
 game-design.game-feel.reward-moment.rewards-come-often | + | Loot and rewards arrive often during play, and the player likes the steady flow. **Distinct from `.the-payout-
+art.visual-direction.an-added-look-feels-out-of-place | - | One visual element - a prop, a head, a decoration - does not fit the rest of the game's look, and the player a
