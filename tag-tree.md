@@ -10966,6 +10966,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 605, Crab Champions batch 24.** Built under Rule C.
 
+## Modes added in Crab Champions batch 25 - round 606 (Rule C)
+
+### `game-design.power-balance`
+
+| Mode | | Definition |
+|---|---|---|
+| `.many-options-play-the-same` | **−** | A large share of the weapons or options feel nearly identical in use, so the list is longer than the real choice; the few that stand out are what the player enjoys. **The other side of `.every-option-plays-differently`.** **Distinct from `game-design.progression.build-and-customisation.shallow-options`**, where each option barely changes anything; here they change things, but alike. Crab Champions 202740742 (*"half of the weapons feel almost exactly the same which is disappointing since the ones that do stand out all feel really fun to use"*). |
+
+🔑 **Round 606, Crab Champions batch 25.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

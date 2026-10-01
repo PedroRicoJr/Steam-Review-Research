@@ -11400,3 +11400,13 @@ Other choices: 188916404 is a long, structured review whose specific points are 
 The thumbs-down (197279593) is "WHY TF CANT I PLAY WITH OTHER PEOPLE". It does not say whether the problem is matchmaking or connection, so it goes to `engineering.netcode.unknown`.
 
 Other choices: 194415940's "either way too easy or way too hard. there is no middleground" goes to `badly-scaled`; it may mean runs rather than settings, which the review does not say. 198585264 lost a good run and "all saves, including backup autosaves" to one death (`harsh-restart`). 195506075 says the game "respects your time" (`respects-your-time`). 196101823 is a comic piece whose claims about the reviewer's own life are left out. 197310842 fits "a single run" into a lunch break (`good-in-short-sittings`) and runs well on Steam Deck (`runs-well-on-my-platform`, its second review). Running counts (by grep, stats files left out): naming other games 46, music praise 35, friends 60, thumbs-down 28.
+
+## Notes - round 606 (Crab Champions batch 25)
+
+50 reviews, created 2025-06-30 to 2025-09-15; 48 thumbs up, 2 down; 73 bullets (1.46 per review), none excluded. One new mode under Rule C:
+
+- `game-design.power-balance.many-options-play-the-same` (−): 202740742, "half of the weapons feel almost exactly the same". The other side of `every-option-plays-differently`. The same review says there is "pretty much nothing left to do" after max difficulty with a few weapons, about 20 hours (`nothing-left-to-chase`), and wants tailored boss fights (`bosses-are-just-bigger-enemies`).
+
+The thumbs-down: 203287249 found that only new weapons and cosmetics carry between runs, "No upgrades to get in-between" (`wants-a-talent-tree-between-runs`) - the fourth review with this wish, after 136295140, 136300577 and 143596761. It also says "There's leader boards, I guess", which bears on round 604's note about leaderboards; both reviews are 2025, while round 582's `no-leaderboard-to-compete-on` review is from 2023, so the game may have added them. Not tagged either way. The other thumbs-down is "makes me feel hollow and empty inside" (`negative.unknown`).
+
+Other choices: 201139707 finds the top difficulties "very hard to win from the sheer volume of incoming attacks" (`no-counterplay`). 204442762 "wish[es] there were more updates" (`too-slow`). 201132429 is crude jokes around a real feat (top rank with the minigun on True Nightmare); its claims about the reviewer's health and private life are left out. Running counts (by grep, stats files left out): naming other games 47, music praise 35, friends 62, thumbs-down 30.
