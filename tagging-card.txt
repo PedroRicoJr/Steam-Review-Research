@@ -1734,3 +1734,14 @@ engineering.netcode.a-disconnect-does-not-lose-the-run | + | The player was drop
 engineering.platform-support.drains-a-handheld-battery | - | On a handheld PC the game empties the battery fast enough to cut sessions short. **Distinct from `.runs-poorly
 review.marked-as-a-placeholder | ~ | The reviewer says the review is a placeholder to be updated after more play, and tells readers not to decide f
 game-design.progression.cosmetic-rewards.the-best-look-is-nearly-impossible-to-earn | - | The most desirable cosmetic sits behind a requirement so hard that the player calls it basically impossible, a
+art.animation.the-lips-do-not-match-the-speech | - | The characters' mouths move, but out of step with the spoken lines - often because the voices were recorded in
+engineering.servers.cannot-choose-a-region | - | The game puts the player in one server region and gives no way to change it, so they are stuck with that regio
+engineering.servers.times-you-out-while-loading | - | The server drops the player for being idle while their own machine is still loading, so a slow load ends in a 
+community.social-features.the-chat-has-no-separate-channels | - | All public talk runs through one chat, with no channels to keep help, group-finding and idle talk apart. **Dis
+community.moderation.the-chat-filter-hides-ordinary-words | - | The chat filter blanks out ordinary words of the player's language - even words the game itself uses - so norm
+game-design.progression.cosmetic-rewards.everyone-looks-the-same | - | So many players use the same few characters in the same looks that the shared world looks uniform, and the rev
+accessibility.vision.gentler-on-motion-sickness-than-a-rival | + | The reviewer names a similar game that makes players motion-sick and says this one does not, so it is the one 
+production.launch-state.the-test-build-problems-were-never-fixed | - | The reviewer played a test before release and finds the same problems still there at launch. **Distinct from `
+marketing.discovery.played-a-test-before-release | ~ | The reviewer played a beta or technical test before launch and names that as part of how they came to the game
+marketing.discovery.sold-by-the-trailer | ~ | The reviewer says a trailer alone won them over, before or regardless of how the game plays. The First Descend
+review.written-before-the-game-could-be-played | ~ | The review was posted during pre-load or before the servers opened, and says so - a joke about installing, or 

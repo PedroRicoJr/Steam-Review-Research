@@ -11018,6 +11018,57 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 609, Crab Champions batch 28.** Built under Rule C.
 
+## Modes added in The First Descendant batch 1 - round 616 (Rule C)
+
+### `art.animation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-lips-do-not-match-the-speech` | **−** | The characters' mouths move, but out of step with the spoken lines - often because the voices were recorded in another language than the animation. **Distinct from `.the-faces-do-not-move`**, where the lips do not move at all. The First Descendant 168928770 (*"Lips are not sync with audio"*). |
+
+### `engineering.servers`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-choose-a-region` | **−** | The game puts the player in one server region and gives no way to change it, so they are stuck with that region's players and chat. **Distinct from `.the-leaders-region-is-forced-on-everyone`**, where a party leader's choice overrides the group: here there is no choice at all. The First Descendant 168928257 (*"you cant change regions"*). |
+| `.times-you-out-while-loading` | **−** | The server drops the player for being idle while their own machine is still loading, so a slow load ends in a disconnect. **Distinct from `engineering.netcode.idling-disconnects-you`**, where the player has stepped away: here they are waiting on the game. The First Descendant 168927601 (*"You often get an idle timeout from the server before your loading screen finishes"*). |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.the-chat-has-no-separate-channels` | **−** | All public talk runs through one chat, with no channels to keep help, group-finding and idle talk apart. **Distinct from `.recruiting-is-a-wall-of-chat`**, which is about finding a group: here every kind of talk is mixed together. The First Descendant 168928257 (*"without any 'subchats' to separate people saying stupid things from people wating help or people searching for a group"*). |
+
+### `community.moderation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-chat-filter-hides-ordinary-words` | **−** | The chat filter blanks out ordinary words of the player's language - even words the game itself uses - so normal messages arrive censored. **Distinct from `community.player-conduct.the-chat-filter-bans-for-harmless-words`**, where players are banned: here the words are hidden. The First Descendant 168928257 (*"half of the words of my language are censored and most of those words are even IN THE GAME questlines"*). |
+
+### `game-design.progression.cosmetic-rewards`
+| Mode | | Definition |
+|---|---|---|
+| `.everyone-looks-the-same` | **−** | So many players use the same few characters in the same looks that the shared world looks uniform, and the reviewer wants more ways to look different. **Distinct from `.too-few-to-choose-from`**, which counts the cosmetics: here the complaint is what the crowd looks like. The First Descendant 168927711 (*"I definitely do not like seeing the same characters being played by multiple players makes the game look bland"*), 168928086. |
+
+### `accessibility.vision`
+| Mode | | Definition |
+|---|---|---|
+| `.gentler-on-motion-sickness-than-a-rival` | **+** | The reviewer names a similar game that makes players motion-sick and says this one does not, so it is the one to play for them. **The positive side of `.causes-motion-sickness`.** The First Descendant 168928483 (*"if Warframe gives you motion sickness, this is a fantastic alternative"*). |
+
+### `production.launch-state`
+| Mode | | Definition |
+|---|---|---|
+| `.the-test-build-problems-were-never-fixed` | **−** | The reviewer played a test before release and finds the same problems still there at launch. **Distinct from `.the-test-build-ran-better-than-the-release`**, where the launch got worse: here nothing changed. The First Descendant 168927864 (*"seem like nothing really change from the beta ... same frame rate problems, same lack luster gun sounds"*). |
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.played-a-test-before-release` | ~ | The reviewer played a beta or technical test before launch and names that as part of how they came to the game. **Distinct from `.followed-the-studio-before-release`**, which is following the studio's posts: here they played. The First Descendant 168648115 (*"Played both beta and technical test"*), 168927891. |
+| `.sold-by-the-trailer` | ~ | The reviewer says a trailer alone won them over, before or regardless of how the game plays. The First Descendant 168647880 (*"Did you see the Trailer?? I don't even care what the game plays like!"*). |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.written-before-the-game-could-be-played` | ~ | The review was posted during pre-load or before the servers opened, and says so - a joke about installing, or a reply to people pointing out the game is not out yet. Counts show 0 hours. The First Descendant 168648285 (*"The best Preinstaler simulator"*), 168648362, 168648115. |
+
+🔑 **Round 616, The First Descendant batch 1.** Built under Rule C. Predictions that the game will not last were filed on the existing `live-ops.abandonment.expects-it-to-be-switched-off`, as earlier games did.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
