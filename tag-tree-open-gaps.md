@@ -11472,3 +11472,11 @@ The last 12 reviews, created 2026-09-13 to 2026-09-29, all thumbs up; 25 bullets
 235787078 adds the batch's one design ask: carry two guns, "a handgun and a rifle", because one gun "can get boring when you have looped twelve times" (`the-weapon-is-fixed-for-the-run`, round 586's mode). 235849950 is one achievement short of 100% and saving it "for a game night" with friends (`plenty-to-hunt`). 236510175 "looks like fornite but it plays like DOOM". Family details in 235849950 and 236510175 are reduced to "partner" and "a young relative".
 
 Final running counts (by grep, stats files left out): naming other games 53, music praise 39, friends 86, thumbs-down 37. Next: the findings pages.
+
+## Notes - round 613 (Crab Champions English findings)
+
+`findings/crab-champions-english.md` written from `count.py --group crab-champions/english` and `scripts/findings_tables.py` with four periods: launch (2023-04), first year (2023-05 to 2023-12), steady Early Access (2024-01 to 2025-10) and after the Island Update (2025-11 to 2026-09). No tree change.
+
+The update dates come from Steam's announcements for app 774801 (`api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=774801`): Early Access Update 11, *The Island Update*, on 2025-11-02 (new islands, a new out-of-bounds system, a difficulty rework with the Prismatic rank), hotfixes on 2025-11-03 and 2025-11-22, and a 2026-03-18 post on the next update. This confirms that 188959484's "patch 11.0" (edited 2025-11-12) is the Island Update. Header numbers by script on the sample files: median 12.7 hours, mean 21.1 words, 1,080 of 1,499 reviews 15 words or fewer, 43 reviews naming Risk of Rain (2 thumbs down), margin ±2.50%.
+
+Corrections made while checking the draft: the 2 thumbs-down reviews that name Risk of Rain (154240327, 157234469) were missed by a first reading that said none prefers it; `removed-a-feature` on the old islands is 3 of 4, not 2 (188959484 counts); 3, not 2, of the 5 `slows-at-the-highest-levels` bullets enjoy the slowdown; the 5.6% sample is not the smallest share in the corpus (several English pages show smaller shares, down to 0.20%), so that claim was dropped.
