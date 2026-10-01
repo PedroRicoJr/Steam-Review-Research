@@ -11371,3 +11371,11 @@ Other choices: 171639334 died on loop 3 "cus my whole screen was full of explosi
 Risk of Rain 2's decline appears in two reviews from October 2024: 177078102 calls Crab "the definitive third-person roguelike shooter" now that RoR2 "has become piss in the hands of Gearbox" (`beats-its-rivals`), and 178129296 will play Crab "until I hear that RoR2 doesn't suck anymore" (`came-from-a-rival-that-failed-them`).
 
 Other choices: 177078102 blames 10-20 fps on "spawning 50 turrets" (`slows-at-the-highest-levels`). 179589496 crashes constantly at launch on a new account but still recommends it. 178557353 uses a condition as a slang adjective; recorded without it. Running counts (by grep, stats files left out): naming other games 42, beats its rivals 6, music praise 32, friends 51, thumbs-down 26.
+
+## Notes - round 603 (Crab Champions batch 22)
+
+50 reviews, created 2024-11-30 to 2025-02-14; 49 thumbs up, 1 down; 70 bullets (1.40 per review), none excluded; no new mode. The thumbs-down is one line, "not realy that fun" (`negative.unknown`).
+
+Updates are the batch's main praise: 182190943 says huge updates "build on the already highly satisfying build system" (`new-systems-build-on-the-old`), 185049901 credits "huge updates every few months" from the solo developer (`steady-stream`), and 185673764 and 187399090 say the game got better (`made-it-better`). 186213805 says Risk of Rain 2's expansion "should have been this" (`beats-its-rivals`, now 7 reviews).
+
+Other choices: 185673764's "best rng game that not enough people play" goes to `nobody-ever-heard-of-it`. 186833504's "not a terribly hard game" in a genre review goes to `easier-than-its-genre`. 185058885 only asks how to install mods (`asks-readers-for-help`). 186776225's anecdote about a night out is recorded as a joke, without the place or details. Running counts (by grep, stats files left out): naming other games 44, beats its rivals 7, music praise 32, friends 53, thumbs-down 27.
