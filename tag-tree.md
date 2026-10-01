@@ -11069,6 +11069,40 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 616, The First Descendant batch 1.** Built under Rule C. Predictions that the game will not last were filed on the existing `live-ops.abandonment.expects-it-to-be-switched-off`, as earlier games did.
 
+## Modes added in The First Descendant batch 2 - round 617 (Rule C)
+
+### `art.visual-direction`
+| Mode | | Definition |
+|---|---|---|
+| `.overdesigned` | **−** | Characters, weapons and set pieces carry so much detail and movement that the look turns busy and tiring - every piece of armour clanks and moves. **Distinct from `.off-putting-look`**, which is a style the player dislikes: here the complaint is too much of it. The First Descendant 168927321 (*"full of the most overly-designed characters and guns and setpieces that UE5 can render"*). |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.weightless` | **−** | The characters move without any sense of mass, even the ones built to look heavy. **Distinct from `.sluggish`**, which is slow to respond: here movement lacks weight. The movement twin of `game-design.game-feel.combat.weightless`. The First Descendant 168927321 (*"character movements are weightless even with heavier classes"*). |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.outage-news-only-on-social-media` | **−** | When the game is down, the studio explains only on outside social media, not in the game or on the store's community pages. **Distinct from `.went-silent-after-a-bad-launch`**, where nothing is said: here something is said, in the wrong place. The First Descendant 168926941 (*"the game has been down for hours with somewhat vague reasoning being tweeted out instead of announced anywhere on the community hub/discussion board/in-game"*). |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-scenery-snags-your-character` | **−** | Rocks and other detailed scenery catch the player's character as they move, so getting out of a fight means getting stuck on the ground. **Distinct from `.invisible-walls-block-the-way`**, where nothing is visible: here the scenery itself catches. The First Descendant 168926939 (*"Sterile Lands especially is a snag-fest of epic proportions where your character can snag on just about everything"*). |
+
+### `engineering.performance`
+| Mode | | Definition |
+|---|---|---|
+| `.runs-worse-than-it-used-to` | **−** | The game ran well on the player's machine before, and on the same machine it now runs badly after updates. **Distinct from `engineering.stability.less-stable-than-it-used-to-be`**, which is crashing, and from `.gets-slower-the-longer-you-play`, which is within one session. The First Descendant 168927082 (a 2026 edit: *"I could play this perfectly fine on Medium last year"*). |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.players-idle-and-leave-the-work-to-others` | **−** | In public missions other players go idle or camp one safe spot, so whoever is left does the work and gets no help. **Distinct from `.unskilled-or-careless`**, who try and fail: these players do not try. The First Descendant 168926599 (*"everyone goes afk or will run to the way back ... and sit only in that door way"*). |
+
+🔑 **Round 617, The First Descendant batch 2.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
