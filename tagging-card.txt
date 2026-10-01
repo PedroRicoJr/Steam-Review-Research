@@ -1761,3 +1761,4 @@ game-design.randomness.one-random-drop-leads-to-another | - | The item the playe
 community.social-features.no-guilds-or-clans | - | The game has no guild or clan system, and the reviewer wants one - a group to belong to, a shared home, a team
 game-design.progression.build-and-customisation.the-mod-rules-are-too-restrictive | - | The rules for fitting upgrades - one of each kind, small bonuses - leave little room to build, and the reviewe
 game-design.enemy-design.a-boss-rule-is-never-hinted | - | A boss can only be beaten by following a rule - an order, a target - that nothing in the game hints at, so pla
+game-design.co-op-design.a-stronger-player-can-help-you-through | + | A stronger player - geared up by time or money - joining the reviewer's mission is welcome help, because in a 

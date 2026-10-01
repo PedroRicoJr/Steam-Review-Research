@@ -11157,6 +11157,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 619, The First Descendant batch 4.** Built under Rule C.
 
+## Modes added in The First Descendant batch 5 - round 620 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-stronger-player-can-help-you-through` | **+** | A stronger player - geared up by time or money - joining the reviewer's mission is welcome help, because in a co-op game with no PvP their strength only speeds the group along. **The positive side of `.one-player-can-carry`**, where a strong player leaves the others nothing to do; also distinct from `game-design.new-player-experience.needs-carrying`, which says the start cannot be done without help. The First Descendant 169546063 (*"it's honestly super helpful when I get someone with a stronger char to help me clear the story faster"*). |
+
+🔑 **Round 620, The First Descendant batch 5.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
