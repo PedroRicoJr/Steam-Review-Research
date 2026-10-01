@@ -60,7 +60,7 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 | C25b | The Last of Us Part II Remastered | 2531310 | Apr 3, 2025 | 55,667 | 91% | 20,355 | no |  |
 | C26 | Marvel Rivals | 2767030 | Dec 5, 2024 | 418,169 | 76% | 302,125 | no | free-to-play team PvP hero shooter |
 | C27 | HITMAN 2 | 863550 | Nov 13, 2018 | 74,773 | 91% | 32,119 | no | replaced on sale by HITMAN World of Assassination, 1659040, 69,449 reviews, 87% positive |
-| C28 | The First Descendant | 2074920 | Jun 30, 2024 | 112,468 | 57% | 51,172 | no | free-to-play third-person co-op looter shooter |
+| C28 | The First Descendant | 2074920 | Jun 30, 2024 | 112,468 | 57% | 51,172 | **WIP** (row 12 of `GAMES-TODO.md`, pulled 2026-10-01) | free-to-play third-person co-op looter shooter |
 | C29 | Warframe | 230410 | Mar 25, 2013 | 683,928 | 87% | 302,897 | **STOPPED** at 700 read | Rico keeps it for third-person shooter research |
 | C30 | 007 First Light | 3768760 | May 26, 2026 | 46,725 | 91% | 23,792 | no |  |
 | C31 | Arma 3 | 107410 | Sep 12, 2013 | 298,392 | 90% | 140,271 | no |  |

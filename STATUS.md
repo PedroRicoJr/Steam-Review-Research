@@ -17,9 +17,9 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | | |
 |---|---|
 | Updated | 2026-10-01 |
-| Current stage | After stage 3: games from `planning/`, closest to Dominion first - next pick pending (Crab Champions finished in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 614: Crab Champions master page `findings/crab-champions.md` and `findings/cross-game.md` section 24; GAMES-TODO row 11 and planning A7 marked Done |
-| Next unit | Pick the next game from `planning/`, closest to Dominion first (Rico's standing order of 2026-09-25); record the pick and why, add its GAMES-TODO row, then measure and pull |
+| Current stage | After stage 3: games from `planning/`, closest to Dominion first - now The First Descendant (Crab Champions finished in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
+| Last unit done | Round 615: picked The First Descendant (C28) as the next game; GAMES-TODO row 12, grid measured, 1,604 English reviews pulled (+/-2.50%) |
+| Next unit | The First Descendant batch 1 (50 reviews): `python3 summarise.py next --group the-first-descendant/english --n 50` |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,736 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
@@ -27,5 +27,6 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | Gunfire Reborn | pulled 2026-09-27: 1,884 reviews (+/-2.51%); 1,884 read (all); **Done** - findings written 2026-09-28 |
 | EARTH DEFENSE FORCE 5 | **Done** 2026-09-30 - 1,768 of 1,768 read; `findings/earth-defense-force-5-english.md`, `findings/earth-defense-force-5.md`, cross-game section 23 |
 | Crab Champions | **Done** 2026-10-01 - 1,512 of 1,512 read; `findings/crab-champions-english.md`, `findings/crab-champions.md`, cross-game section 24 |
+| The First Descendant | pulled 2026-10-01: 1,604 reviews (+/-2.50%); 0 read |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

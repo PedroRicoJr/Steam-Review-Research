@@ -69,6 +69,7 @@ GAMES = {
     "gunfire-reborn":        (1217060, 2020, 5),   # co-op roguelite shooter, Early Access from 2020-05, released 2021-11
     "earth-defense-force-5": (1007040, 2019, 7),   # third-person sci-fi 4-player co-op PvE shooter, released 2019-07
     "crab-champions":        (774801,  2023, 4),   # third-person co-op (1-4) roguelite shooter, on Steam from 2023-04
+    "the-first-descendant":  (2074920, 2024, 6),   # third-person sci-fi co-op (up to 4) looter shooter, free, released 2024-06-30
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 

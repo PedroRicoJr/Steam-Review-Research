@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-09-30 05:46:18 UTC. Rebuild with `python build_grid.py`.
+Built 2026-10-01 15:45:33 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -45,6 +45,7 @@ Built 2026-09-30 05:46:18 UTC. Rebuild with `python build_grid.py`.
 | `space-marine-2/english` | 25 | 124,849 | 2024-09 (57,134) |
 | `terminull-brigade/english` | 15 | 2,818 | 2025-08 (1,615) |
 | `the-anacrusis/english` | 56 | 1,290 | 2022-06 (345) |
+| `the-first-descendant/english` | 29 | 51,208 | 2024-07 (31,555) |
 | `town-of-the-dead-life/english` | 1 | 1 | 2021-07 (1) |
 | `voidcrisis/english` | 5 | 17 | 2022-08 (11) |
 | `warframe/english` | 163 | 302,482 | 2018-11 (11,813) |
