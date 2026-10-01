@@ -11464,3 +11464,11 @@ The thumbs-down (229868355) calls the game "a waste of potential": most maps are
 `an-unkillable-enemy-hunts-you` (round 604) gets its second review: 232277771, "the speedy immortal snail". 230547405 asks for "a PVP Version or Extraction Shooter Version" (`expected-mode-missing`) - an extraction ask in a game with none, noted for Dominion. 232914887 plays with "40 friends" (`the-player-cap-can-be-lifted`); the review does not say how.
 
 Other choices: 232793515 and 234681682 enjoy builds that drop the frame rate "to sub 30fps" (`slows-at-the-highest-levels`; the card direction is kept though the reviewers like it). 234719014 wants an in-game currency and cosmetics to chase (`too-few-to-choose-from`). 232277771's partner's handle is left out. Running counts (by grep, stats files left out): naming other games 52, music praise 39, friends 86, thumbs-down 37.
+
+## Notes - round 612 (Crab Champions batch 31, the last)
+
+The last 12 reviews, created 2026-09-13 to 2026-09-29, all thumbs up; 25 bullets, none excluded; no new mode. All 1,512 sampled reviews are now read: 1,499 summarised, 13 excluded (empty or off-topic), 37 thumbs-down in the game.
+
+235787078 adds the batch's one design ask: carry two guns, "a handgun and a rifle", because one gun "can get boring when you have looped twelve times" (`the-weapon-is-fixed-for-the-run`, round 586's mode). 235849950 is one achievement short of 100% and saving it "for a game night" with friends (`plenty-to-hunt`). 236510175 "looks like fornite but it plays like DOOM". Family details in 235849950 and 236510175 are reduced to "partner" and "a young relative".
+
+Final running counts (by grep, stats files left out): naming other games 53, music praise 39, friends 86, thumbs-down 37. Next: the findings pages.
