@@ -1751,3 +1751,8 @@ community.developer-communication.outage-news-only-on-social-media | - | When th
 game-design.level-design.the-scenery-snags-your-character | - | Rocks and other detailed scenery catch the player's character as they move, so getting out of a fight means ge
 engineering.performance.runs-worse-than-it-used-to | - | The game ran well on the player's machine before, and on the same machine it now runs badly after updates. **D
 community.player-conduct.players-idle-and-leave-the-work-to-others | - | In public missions other players go idle or camp one safe spot, so whoever is left does the work and gets no h
+game-design.progression.unlock-pace.the-farming-is-throttled-on-purpose | - | The reviewer says activities are built to slow how fast players can farm - limits, waits or low yields placed 
+marketing.positioning.a-fresh-start-for-latecomers-to-a-rival | + | The reviewer recommends the game to people who never got into an older rival because it felt too late to start
+publishing.monetisation-practice.a-bought-character-comes-without-its-upgrades | - | A character bought with real money arrives without the item that makes it fully usable - an upgrade slot, a ca
+publishing.monetisation-practice.the-battle-pass-rewards-are-poor | - | The paid battle pass gives rewards the reviewer does not want - no character skins, repeats of the same item, 
+community.developer-communication.the-apology-gift-was-too-small | - | After outages or a bad launch the studio gave players a gift, and the reviewer says it was too small or the wr

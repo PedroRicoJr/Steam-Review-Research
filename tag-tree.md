@@ -11103,6 +11103,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 617, The First Descendant batch 2.** Built under Rule C.
 
+## Modes added in The First Descendant batch 3 - round 618 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-farming-is-throttled-on-purpose` | **−** | The reviewer says activities are built to slow how fast players can farm - limits, waits or low yields placed to stretch the grind - and names that as deliberate. **Distinct from `.gated-behind-real-world-time`**, a timer: here the farming itself is held back. The First Descendant 169189451 (*"they designed certain activities to throttle our farming grind and in a looter shooter game, that is very annoying"*). |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.a-fresh-start-for-latecomers-to-a-rival` | **+** | The reviewer recommends the game to people who never got into an older rival because it felt too late to start, so here everyone begins together. The First Descendant 169189437 (*"For someone that never got into Warframe but felt like it was too late to start this is your game!"*). |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.a-bought-character-comes-without-its-upgrades` | **−** | A character bought with real money arrives without the item that makes it fully usable - an upgrade slot, a capacity booster - which must be bought or farmed separately, unlike in a named rival. **Distinct from `.the-shop-charges-far-too-much`**, which is the price: here the purchase is incomplete. The First Descendant 169189118 (*"these Descendants DO NOT COME WITH THE ITEM THAT INCREASES BASE MOD CAPACITY PRE-INSTALLED!"*). |
+| `.the-battle-pass-rewards-are-poor` | **−** | The paid battle pass gives rewards the reviewer does not want - no character skins, repeats of the same item, a currency for a weak side shop. **Distinct from `.the-pass-does-not-pay-for-the-next`**, which is about currency back: here the contents are poor. The First Descendant 169188338 (*"No operator skins ... theres like one gun in the battlepass that shows up like 5 times"*). |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.the-apology-gift-was-too-small` | **−** | After outages or a bad launch the studio gave players a gift, and the reviewer says it was too small or the wrong kind to make up for it. The First Descendant 169189118 (*"the 'compensation' for the day 1 issues and multiple server outages in the first 3-4 days was 6 days worth of +30% boosters"*). |
+
+🔑 **Round 618, The First Descendant batch 3.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
