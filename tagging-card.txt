@@ -1762,3 +1762,5 @@ community.social-features.no-guilds-or-clans | - | The game has no guild or clan
 game-design.progression.build-and-customisation.the-mod-rules-are-too-restrictive | - | The rules for fitting upgrades - one of each kind, small bonuses - leave little room to build, and the reviewe
 game-design.enemy-design.a-boss-rule-is-never-hinted | - | A boss can only be beaten by following a rule - an order, a target - that nothing in the game hints at, so pla
 game-design.co-op-design.a-stronger-player-can-help-you-through | + | A stronger player - geared up by time or money - joining the reviewer's mission is welcome help, because in a 
+game-design.difficulty-tuning.a-timed-minigame-is-too-tight | - | A timed side task - opening a vault, a lock puzzle - gives too little time, offers no way to practise, and bec
+game-design.randomness.the-drop-rates-feel-fair | + | The reviewer finds the drop chances better than they expected for this kind of game or this publisher. **The p

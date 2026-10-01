@@ -11166,6 +11166,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 620, The First Descendant batch 5.** Built under Rule C.
 
+## Modes added in The First Descendant batch 6 - round 621 (Rule C)
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.a-timed-minigame-is-too-tight` | **−** | A timed side task - opening a vault, a lock puzzle - gives too little time, offers no way to practise, and becomes near impossible with any lag. **Distinct from `game-design.level-design.the-jumping-sections-do-not-belong-in-a-shooter`**, which is platforming: here it is a timed puzzle. The First Descendant 169542345 (*"get rid of encrypted vaults, first there is no way to practise - the timer is far to short and with any lag near impossible"*). |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.the-drop-rates-feel-fair` | **+** | The reviewer finds the drop chances better than they expected for this kind of game or this publisher. **The positive side of `.the-thing-you-need-may-never-roll`** and of `.the-stated-chances-feel-rigged`. The First Descendant 169539633 (*"for a nexon game the drop rates feels strangely good"*). |
+
+🔑 **Round 621, The First Descendant batch 6.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
