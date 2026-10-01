@@ -1485,4 +1485,72 @@ whether progress and gear carry between solo and online play, and say so on the 
 - **A live service.** `live-ops` is 3 bullets; nothing here speaks to seasons or updates.
 - **The non-English audience.** About 4,300 reviews in other languages; none pulled.
 
-⚠️ **The corpus is now 27 games and 25,497 English summaries (26,259 in all languages).**
+⚠️ **The corpus was then 27 games and 25,497 English summaries (26,259 in all languages).**
+
+---
+
+## 24. ⭐ What the eighteenth large game adds - Crab Champions, added 2026-10-01
+
+**A third-person roguelike shooter built on runs, solo or co-op online, read from its Early Access
+launch to three and a half years on.** 1,512 of 27,193 English reviews, a 5.6% sample at ±2.50%, across
+42 months (2023-04 to 2026-09); 97.5% up; 2,284 bullets, 1.52 per review; 268 distinct tags, **52 used by
+no other game; 52 modes built in the 23 Crab Champions blocks (rounds 582-609)**. Full read in
+`crab-champions-english.md`, ranked lists in `crab-champions.md`.
+
+**On the same count as sections 22 and 23** (`scripts/findings_tables.py`, every bullet whose mode is +
+or -, `review.*` included):
+
+| | Deep Rock Galactic | **Crab Champions** | Risk of Rain 2 | Gunfire Reborn | EDF 5 | Escape from Duckov | Warframe | Helldivers 2 | ARC Raiders |
+|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | **97.5%** | 95.6% | 93.9% | 95.7% | 90.9% | 89.9% | 83.3% | 79.7% |
+| Bullets per review | 2.12 | **1.52** | 1.43 | 1.78 | 1.89 | 1.92 | 2.01 | 1.79 | 1.56 |
+| Praise per 100 | 175.9 | **123.2** | 104.9 | 130.0 | 140.2 | 134.6 | 127.3 | 108.0 | 86.8 |
+| Complaint per 100 | 23.7 | **18.7** | 18.0 | 33.1 | 38.9 | 40.4 | 50.9 | 55.5 | 56.7 |
+| Praise to complaint | 7.4 : 1 | **6.6 : 1** | 5.8 : 1 | 3.9 : 1 | 3.6 : 1 | 3.3 : 1 | 2.5 : 1 | 1.95 : 1 | 1.53 : 1 |
+
+### 🔑 The finding: movement is the feel players name, and only two games earn it
+
+Reviews praising movement (`game-design.game-feel.movement.*`, any good mode) are **2.7 per 100 here and
+2.6 in Warframe; every other English group of 300 or more reviews is at 0.5 or less** (reviews carrying
+the tag per 100 kept English reviews). Here it is `responsive` (39); in Warframe it is
+`rewards-mastery` (69). **In the other sixteen groups, movement is praised in at most 1 review in 200.**
+The commonest movement complaint elsewhere is
+`sluggish` (Gunfire Reborn 15, DRG: Rogue Core 11, Immortal: Unchained 10). **For Dominion: a third-person
+shooter is judged on how it moves; a slide, a dash or a jump that feels quick is praised by name, and a
+slow one is the complaint.**
+
+### Two runs-based games side by side: Crab Champions and Risk of Rain 2
+
+Both are third-person roguelikes built on runs, and they read alike: the two lowest complaint rates on
+this count (18.7 and 18.0 per 100), and the two highest bare-thumbs-up rates (`review.positive.unknown`
+61.0 and 50.3 per 100). **43 Crab Champions reviews name Risk of Rain; all 9 `beats-its-rivals` bullets
+are against it.** Two 2024-10 reviews came over because Risk of Rain 2 got worse for them (177078102,
+178129296). **Getting too strong is praised in both**: `makes-you-feel-superhumanly-strong` is 3.8 per
+100 in Risk of Rain 2 and 2.5 here, behind only Space Marine 2 (4.5).
+
+### Other ways it stands out in the corpus
+
+- **An update that splits the fans, in Early Access.** Complaints per 100 go 18.8, 19.5, 12.7, then 24.8
+  after the Island Update (2025-11-02, Steam announcement), while thumbs up stays at 97.8%. `made-it-worse`
+  7, `wants-the-old-version-back` 3 (game-only).
+- **Difficulty you set yourself.** `difficulty-can-be-tuned-in-detail` is 1.1 per 100, the highest in the
+  corpus (Escape from Duckov 0.5); `satisfyingly-hard` rises from 0.3 to 2.2 per 100 across the periods.
+- **Looks like a joke, plays like a real game.** 1.3 per 100, second to Escape from Duckov (3.4).
+- **Co-op called rare in its genre** (3, game-only), and **online play draws almost no complaints**: 1
+  bullet on a disconnect losing a run, 2 on matchmaking, in 1,499 reviews.
+
+### Two things this game says about samples and comparison
+
+1. **A game that almost everyone likes says the least about why.** 61 of every 100 reviews are a
+   thumbs up with nothing specific, and the mean review is 21.1 words. **High approval buys few
+   reasons**: the named counts are small, and no complaint reaches 10.
+2. **A short-sample game still shows a turn.** One update moved the complaint rate from 12.7 to 24.8 per
+   100 in a period of 230 reviews (about ±7). The direction is clear; the size is not.
+
+### What this game does NOT settle
+
+- **Extraction.** It has none; one review asks for an extraction version (230547405).
+- **Sci-fi and a serious tone.** It is a cartoon about crabs; its humour is part of the praise.
+- **The non-English audience.** About 4,000 reviews in other languages; none pulled.
+
+⚠️ **The corpus is now 28 games and 27,009 English summaries (27,771 in all languages).**

@@ -40,7 +40,7 @@ since" is Steam's own date, which for older or re-listed games is later than the
 | A5a | The Binding of Isaac | 113200 | Sep 28, 2011 | 62,903 | 95% | 30,961 | no | the 2011 original. Rico wants both versions |
 | A5b | The Binding of Isaac: Rebirth | 250900 | Nov 4, 2014 | 457,721 | 97% | 180,909 | no | the 2014 remake |
 | A6 | Dead Cells | 588650 | Aug 6, 2018 | 183,721 | 97% | 51,688 | no |  |
-| A7 | Crab Champions | 774801 | Apr 1, 2023 | 31,176 | 98% | 27,166 | **WIP** (row 11 of `GAMES-TODO.md`, pulled 2026-09-30) |  |
+| A7 | Crab Champions | 774801 | Apr 1, 2023 | 31,176 | 98% | 27,166 | **Done** (row 11 of `GAMES-TODO.md`; findings 2026-10-01, cross-game section 24) |  |
 | A8 | R.E.P.O. | 3241660 | Feb 26, 2025 | 425,197 | 96% | 175,496 | no |  |
 | A9 | Brotato | 1942280 | Jun 23, 2023 | 119,117 | 96% | 33,872 | no |  |
 | A10 | Cult of the Lamb | 1313140 | Aug 11, 2022 | 129,922 | 96% | 70,122 | no |  |
