@@ -1768,3 +1768,5 @@ publishing.monetisation-practice.sells-what-the-story-gives-free | - | The shop 
 game-design.progression.unlock-pace.locked-doors-send-you-back-to-old-missions | - | A mission or area is behind a locked door whose key comes only from replaying earlier missions, so going forwa
 game-design.ui-ux.text-too-small-on-a-handheld | - | On a handheld PC's small screen the text and maps are hard to read, so the game becomes hard to follow there. 
 game-design.randomness.wants-a-token-that-guarantees-the-drop | - | The reviewer asks for every run to also pay a token, so enough runs buy the wanted drop outright and bad luck 
+game-design.game-feel.camera.cannot-switch-shoulders | - | The third-person camera sits over one shoulder only, and the player cannot swap it to the other side. **Distin
+game-design.progression.cosmetic-rewards.skins-only-for-items-nobody-uses | - | Cosmetic skins exist for weapons or items too weak to use, while the gear players actually carry has none. The

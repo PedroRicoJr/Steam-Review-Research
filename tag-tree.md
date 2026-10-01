@@ -11204,6 +11204,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 622, The First Descendant batch 7.** Built under Rule C.
 
+## Modes added in The First Descendant batch 8 - round 623 (Rule C)
+
+### `game-design.game-feel.camera`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-switch-shoulders` | **−** | The third-person camera sits over one shoulder only, and the player cannot swap it to the other side. **Distinct from `.no-choice-of-view`**, which is first against third person: here it is left against right. The First Descendant 169802013 (*"No third person side switching, currently its stuck to right side"*). |
+
+### `game-design.progression.cosmetic-rewards`
+| Mode | | Definition |
+|---|---|---|
+| `.skins-only-for-items-nobody-uses` | **−** | Cosmetic skins exist for weapons or items too weak to use, while the gear players actually carry has none. The First Descendant 170120750 (*"the skins they have for guns aren't even for legendary or epic (purple) guns. they are for guns that are trash and you will never use"*). |
+
+🔑 **Round 623, The First Descendant batch 8.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
