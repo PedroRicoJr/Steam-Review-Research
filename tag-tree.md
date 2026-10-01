@@ -10986,6 +10986,28 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 607, Crab Champions batch 26.** Built under Rule C.
 
+## Modes added in Crab Champions batch 27 - round 608 (Rule C)
+
+### `engineering.netcode`
+
+| Mode | | Definition |
+|---|---|---|
+| `.a-disconnect-does-not-lose-the-run` | **+** | The player was dropped from an online session, and the game's save let the group pick the run back up. **The answer to `.a-disconnect-loses-the-run`.** Crab Champions 214020710 (*"I was randomly kicked out of my multiplayer lobby once ... and the save feature saved us"*). |
+
+### `engineering.platform-support`
+
+| Mode | | Definition |
+|---|---|---|
+| `.drains-a-handheld-battery` | **−** | On a handheld PC the game empties the battery fast enough to cut sessions short. **Distinct from `.runs-poorly-on-my-platform`**, which is about frame rate; here it runs, and the cost is power. Crab Champions 216045154 (*"if u have an lcd deck it kills battery, like almost half in not even a full hour"*). |
+
+### `review`
+
+| Mode | | Definition |
+|---|---|---|
+| `.marked-as-a-placeholder` | ~ | The reviewer says the review is a placeholder to be updated after more play, and tells readers not to decide from it. **Distinct from `.written-as-a-diary-at-hour-marks`**, which is updated as it goes; here nothing has been added yet. Crab Champions 214766803 (*"This is just a placeholder Review until I get more time in it ... PLEASE DO NOT TAKE THIS REVIEW AS A REASON TO BUY OR NOT TO!"*). |
+
+🔑 **Round 608, Crab Champions batch 27.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

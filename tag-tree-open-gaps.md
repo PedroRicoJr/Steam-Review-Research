@@ -11422,3 +11422,15 @@ A November 2025 update draws the batch's two long thumbs-down. 208656455: moveme
 The other thumbs-down: "I beat it in less than an hour on my first run" (`too-easy`) and "my freind wont play weith me" (`the-thumb-is-aimed-at-other-players`).
 
 Other choices: 208083312 finds unlocks slow "because you can only use one key at a time" (`grindy`). 205523444 and 206150242 name or describe people in the reviewer's life; those details are left out. Running counts (by grep, stats files left out): naming other games 48, music praise 37, friends 64, thumbs-down 34.
+
+## Notes - round 608 (Crab Champions batch 27)
+
+50 reviews, created 2025-11-22 to 2026-01-31; 49 thumbs up, 1 down ("bad", `negative.unknown`); 76 bullets (1.52 per review), none excluded. Three new modes under Rule C:
+
+- `engineering.netcode.a-disconnect-does-not-lose-the-run` (+): 214020710, "randomly kicked out of my multiplayer lobby once ... and the save feature saved us". The answer to `a-disconnect-loses-the-run`.
+- `engineering.platform-support.drains-a-handheld-battery` (−): 216045154, an LCD Steam Deck losing "almost half in not even a full hour".
+- `review.marked-as-a-placeholder` (~): 214766803.
+
+Against the previous batch's update complaints, this batch (late November 2025 onward) mostly praises the developer: "Listens to feedback" (209876511, 209872720, 214026475; `listens-and-acts` now 5 reviews), "very fun game good update" (212193698), and 212134125 is happy to return "to 100% every update" - the opposite feeling to 208656455's `completion-undone-by-updates`. 217241421's "Call it Crab Champions 2 at this point" gives no verdict on the change and goes to `live-ops.patch-quality.unknown`.
+
+Other choices: 212800309 notes "reused skins", which the game says will be fixed at full release (`two-achievements-give-the-same-reward`), and jokes "REMOVE THE BARREL SKULL" - a third mention of barrels, still unexplained. 215430645's run lost when the team pooled crystals on one player holding a perk that cost them all goes to `the-run-falling-apart-is-the-fun`. 214776821 says it is "not great for playing in really short sessions" (`demands-long-sessions`). 217237955's mention of a condition is left out. Running counts (by grep, stats files left out): naming other games 49, music praise 38, friends 70, thumbs-down 35.
