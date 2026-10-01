@@ -10956,6 +10956,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 604, Crab Champions batch 23.** Built under Rule C.
 
+## Modes added in Crab Champions batch 24 - round 605 (Rule C)
+
+### `game-design.ui-ux`
+
+| Mode | | Definition |
+|---|---|---|
+| `.auto-loot-takes-what-you-do-not-want` | **−** | When a room ends with more pickups than anyone would collect by hand, the only practical way to gather them is an auto-loot button that takes everything, so the player then has to throw away the items that do not fit their build. **Distinct from `game-design.progression.unlock-pace.collecting-the-drops-by-hand-is-a-chore`**, where there is no auto-collect; here it exists and is too blunt. Crab Champions 197866902 (*"100+ chests in a line ... you can't get them except click auto-loot but then you need to throw away ones you don't want in your build"*). |
+
+🔑 **Round 605, Crab Champions batch 24.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

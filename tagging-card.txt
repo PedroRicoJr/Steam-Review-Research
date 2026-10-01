@@ -1727,3 +1727,4 @@ engineering.performance.slows-at-the-highest-levels | - | Play is smooth until t
 game-design.session-flexibility.only-one-saved-run | - | The game keeps a single saved run for solo and multiplayer together, so starting one overwrites the other; the
 game-design.level-design.the-map-edge-cannot-be-seen | - | The arena has no visible border, so a player backing away while fighting steps out of bounds without knowing, 
 game-design.enemy-design.an-unkillable-enemy-hunts-you | - | An enemy that cannot be killed follows the player through the level and kills on contact, so the player must k
+game-design.ui-ux.auto-loot-takes-what-you-do-not-want | - | When a room ends with more pickups than anyone would collect by hand, the only practical way to gather them is
