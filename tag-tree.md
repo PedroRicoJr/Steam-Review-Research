@@ -10940,6 +10940,22 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 600, Crab Champions batch 19.** Built under Rule C.
 
+## Modes added in Crab Champions batch 23 - round 604 (Rule C)
+
+### `game-design.level-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.the-map-edge-cannot-be-seen` | **−** | The arena has no visible border, so a player backing away while fighting steps out of bounds without knowing, and has to fight back in. **The opposite complaint to `.invisible-walls-block-the-way`**, where an unseen wall stops the player; here nothing stops them and nothing warns them. Crab Champions 188959484 (*"you'll step outside the map without realizing it, because you can't see where the border is"*). |
+
+### `game-design.enemy-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.an-unkillable-enemy-hunts-you` | **−** | An enemy that cannot be killed follows the player through the level and kills on contact, so the player must keep moving - even towards other enemies, or away from a teammate who needs reviving. **Distinct from `.ordinary-enemies-turn-invulnerable`**, where normal enemies gain a temporary shield; here one pursuer can never be beaten. **Distinct from `.one-hit-kills`**, which is about the size of a hit, not a chaser. Crab Champions 188959484 (*"there's now an immortal snail that always chases you. Touch it once and you die instantly"*). |
+
+🔑 **Round 604, Crab Champions batch 23.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

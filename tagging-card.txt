@@ -1725,3 +1725,5 @@ game-design.level-design.too-few-biomes | - | The game has only a handful of env
 game-design.modes.a-practice-mode-to-warm-up | + | A side mode or mini-game lets the player practise and warm up before a real run, and the player likes it. **Di
 engineering.performance.slows-at-the-highest-levels | - | Play is smooth until the highest levels of a long run, where the game "freaks out" under the load. **Distinct 
 game-design.session-flexibility.only-one-saved-run | - | The game keeps a single saved run for solo and multiplayer together, so starting one overwrites the other; the
+game-design.level-design.the-map-edge-cannot-be-seen | - | The arena has no visible border, so a player backing away while fighting steps out of bounds without knowing, 
+game-design.enemy-design.an-unkillable-enemy-hunts-you | - | An enemy that cannot be killed follows the player through the level and kills on contact, so the player must k
