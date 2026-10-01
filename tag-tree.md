@@ -11180,6 +11180,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 621, The First Descendant batch 6.** Built under Rule C.
 
+## Modes added in The First Descendant batch 7 - round 622 (Rule C)
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.sells-what-the-story-gives-free` | **−** | The shop sells something the story hands every player soon anyway - a character, an item - so the sale only catches players who do not know. **Distinct from `.free-items-still-sold-through-a-shop`**, where a free item must still be bought: here buying it is never needed. The First Descendant 169806301 (*"selling the base version of Bunny ... despite the fact that you earn her very early on through the main story missions"*). |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.locked-doors-send-you-back-to-old-missions` | **−** | A mission or area is behind a locked door whose key comes only from replaying earlier missions, so going forward means going back. **Distinct from `.gated-behind-farming`**, a general farming wall: here the gate is a key from content already done. The First Descendant 169805815 (*"some missons require you to do older missions in order to get to them via locked doors"*). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.text-too-small-on-a-handheld` | **−** | On a handheld PC's small screen the text and maps are hard to read, so the game becomes hard to follow there. **Distinct from `.text-hard-to-read-on-the-background`**, a contrast problem on any screen: here the size suits only a monitor. The First Descendant 169805345 (*"text / maps are slightly difficult to read on the deck"*). |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-a-token-that-guarantees-the-drop` | **−** | The reviewer asks for every run to also pay a token, so enough runs buy the wanted drop outright and bad luck has an end - often naming a rival game that does this. **Distinct from `.the-thing-you-need-may-never-roll`**, which describes the problem: here the fix is asked for. The First Descendant 169805125 (*"if you spam the mission with her drops also grant a unique resource ... you can instead use the resource to claim her parts"*). |
+
+🔑 **Round 622, The First Descendant batch 7.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1764,3 +1764,7 @@ game-design.enemy-design.a-boss-rule-is-never-hinted | - | A boss can only be be
 game-design.co-op-design.a-stronger-player-can-help-you-through | + | A stronger player - geared up by time or money - joining the reviewer's mission is welcome help, because in a 
 game-design.difficulty-tuning.a-timed-minigame-is-too-tight | - | A timed side task - opening a vault, a lock puzzle - gives too little time, offers no way to practise, and bec
 game-design.randomness.the-drop-rates-feel-fair | + | The reviewer finds the drop chances better than they expected for this kind of game or this publisher. **The p
+publishing.monetisation-practice.sells-what-the-story-gives-free | - | The shop sells something the story hands every player soon anyway - a character, an item - so the sale only ca
+game-design.progression.unlock-pace.locked-doors-send-you-back-to-old-missions | - | A mission or area is behind a locked door whose key comes only from replaying earlier missions, so going forwa
+game-design.ui-ux.text-too-small-on-a-handheld | - | On a handheld PC's small screen the text and maps are hard to read, so the game becomes hard to follow there. 
+game-design.randomness.wants-a-token-that-guarantees-the-drop | - | The reviewer asks for every run to also pay a token, so enough runs buy the wanted drop outright and bad luck 
