@@ -11361,3 +11361,13 @@ Other choices: "Beat Nightmare mode first try" (165401761) goes to `too-easy`. 1
 The one thumbs-down (175040764) is "feels like a roblox game on crack" (`negative.unknown`).
 
 Other choices: 171639334 died on loop 3 "cus my whole screen was full of explosions that i couldnt see the mobs" (`effects-block-your-view`). 171646968's late-2025 edit calls the developer "super responsive" (`listens-and-acts`). 172158482 says the game "can easily be beaten due to the insane combo's" (`progression-outgrows-the-challenge`). 175059509 contrasts Crab with Risk of Rain 2: danger grows with distance into the run, not "a ticking clock" - kept inside the `explained-by-naming-other-games` bullet. 172194288 and 173932545 enjoy breaking the game with builds (`finding-the-build-yourself-is-the-fun`). Running counts (by grep, stats files left out): naming other games 39, music praise 30, friends 51, thumbs-down 25.
+
+## Notes - round 602 (Crab Champions batch 21)
+
+50 reviews, created 2024-09-22 to 2024-11-30; 49 thumbs up, 1 down; 72 bullets (1.44 per review), none excluded; no new mode.
+
+175562462 is the thumbs-down, a good-and-bad list: enemy aim "very prediction based" (`slow-shots-still-find-you`, its second review), dodging many shots "a thing of luck" (`luck-decides-the-outcome`), enemies unseen behind you or in bushes (`threats-unclear`), and runs that are "black and white" - over in the first area or a broken combo (`the-balance-assumes-you-restart-for-a-god-build`). It hopes this is Early Access (`hopes-the-updates-prove-this-wrong`).
+
+Risk of Rain 2's decline appears in two reviews from October 2024: 177078102 calls Crab "the definitive third-person roguelike shooter" now that RoR2 "has become piss in the hands of Gearbox" (`beats-its-rivals`), and 178129296 will play Crab "until I hear that RoR2 doesn't suck anymore" (`came-from-a-rival-that-failed-them`).
+
+Other choices: 177078102 blames 10-20 fps on "spawning 50 turrets" (`slows-at-the-highest-levels`). 179589496 crashes constantly at launch on a new account but still recommends it. 178557353 uses a condition as a slang adjective; recorded without it. Running counts (by grep, stats files left out): naming other games 42, beats its rivals 6, music praise 32, friends 51, thumbs-down 26.
