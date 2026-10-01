@@ -11353,3 +11353,11 @@ Other choices: 162438163's 8 fps is "my fault for playing a big game on a non-ga
 The thumbs-down: 167446683 (very repetitive, stale "after a week") and "Dont waste your money" (169960251, `negative.unknown`). 166418974 is a one-line joke in Norwegian about a friend leaving the game (`written-in-a-language-other-than-its-steam-tag`); the friend's name is left out.
 
 Other choices: "Beat Nightmare mode first try" (165401761) goes to `too-easy`. 167961250 lists three broken builds instead of a review (`the-review-teaches-you-how-to-play`). "crashed six times" (169957488) goes to `crashes-repeatedly`. Running counts (by grep, stats files left out): naming other games 37, music praise 30, friends 48, thumbs-down 24.
+
+## Notes - round 601 (Crab Champions batch 20)
+
+50 reviews, created 2024-07-15 to 2024-09-22; 48 thumbs up, 1 down; 64 bullets on 49 reviews (1.28 per review); one excluded - 170574444, an angry rant about a ghost and a level in a Roblox game with nothing about this one (its self-harm hyperbole is not repeated). 10 excluded in the game so far. No new mode.
+
+The one thumbs-down (175040764) is "feels like a roblox game on crack" (`negative.unknown`).
+
+Other choices: 171639334 died on loop 3 "cus my whole screen was full of explosions that i couldnt see the mobs" (`effects-block-your-view`). 171646968's late-2025 edit calls the developer "super responsive" (`listens-and-acts`). 172158482 says the game "can easily be beaten due to the insane combo's" (`progression-outgrows-the-challenge`). 175059509 contrasts Crab with Risk of Rain 2: danger grows with distance into the run, not "a ticking clock" - kept inside the `explained-by-naming-other-games` bullet. 172194288 and 173932545 enjoy breaking the game with builds (`finding-the-build-yourself-is-the-fun`). Running counts (by grep, stats files left out): naming other games 39, music praise 30, friends 51, thumbs-down 25.
