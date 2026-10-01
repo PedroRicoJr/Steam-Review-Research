@@ -11128,6 +11128,35 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 618, The First Descendant batch 3.** Built under Rule C.
 
+## Modes added in The First Descendant batch 4 - round 619 (Rule C)
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.bought-colours-are-used-up` | **−** | Paints or dyes bought with money are consumed when applied, so changing colours again means buying again. **Distinct from `.colours-and-basic-cosmetics-cost-real-money`**, which is that colours cost money at all: here each purchase works once. The First Descendant 169187103 (*"the fact that dyes are not re-usable is kinda rough"*), 169186705. |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.one-random-drop-leads-to-another` | **−** | The item the player wants comes from a random roll that needs another item, itself from a random roll, so the chances multiply. **Distinct from `.the-thing-you-need-may-never-roll`**, a single low chance: here chances are stacked. The First Descendant 169186705 (*"you have to RNG your slot machine coin, so you can RNG your slot machine, the double RNG in this game can be brutal"*). |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.no-guilds-or-clans` | **−** | The game has no guild or clan system, and the reviewer wants one - a group to belong to, a shared home, a team for the hardest fights. **Distinct from `.hard-to-get-into-a-clan`**, where clans exist. The First Descendant 169187271 (*"Still no Guild System it should have one like Warframe has with a Guild House"*), 169186705. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-mod-rules-are-too-restrictive` | **−** | The rules for fitting upgrades - one of each kind, small bonuses - leave little room to build, and the reviewer compares it unfavourably with a looser system. **Distinct from `.only-a-few-builds-are-viable`**, which is about balance: here the slots and rules limit what can be fitted. The First Descendant 169186648 (*"The builds are much pickier with various types of cards only allowing one type of that card to be equipped"*). |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-boss-rule-is-never-hinted` | **−** | A boss can only be beaten by following a rule - an order, a target - that nothing in the game hints at, so players learn it from outside. **Distinct from `.attacks-are-poorly-telegraphed`**, which is about seeing attacks coming: here the win condition is hidden. The First Descendant 169186280 (*"NOT ONCE did anything or any mechanic HINT at breaking the 'shield orbs' in the order that they spawn"*). |
+
+🔑 **Round 619, The First Descendant batch 4.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
