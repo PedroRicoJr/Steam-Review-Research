@@ -1729,3 +1729,4 @@ game-design.level-design.the-map-edge-cannot-be-seen | - | The arena has no visi
 game-design.enemy-design.an-unkillable-enemy-hunts-you | - | An enemy that cannot be killed follows the player through the level and kills on contact, so the player must k
 game-design.ui-ux.auto-loot-takes-what-you-do-not-want | - | When a room ends with more pickups than anyone would collect by hand, the only practical way to gather them is
 game-design.power-balance.many-options-play-the-same | - | A large share of the weapons or options feel nearly identical in use, so the list is longer than the real choi
+live-ops.patch-quality.wants-the-old-version-back | - | After an update, the player asks to play the version before it - a rollback, or a way to choose the old build 

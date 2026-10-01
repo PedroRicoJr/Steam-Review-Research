@@ -10976,6 +10976,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 606, Crab Champions batch 25.** Built under Rule C.
 
+## Modes added in Crab Champions batch 26 - round 607 (Rule C)
+
+### `live-ops.patch-quality`
+
+| Mode | | Definition |
+|---|---|---|
+| `.wants-the-old-version-back` | **−** | After an update, the player asks to play the version before it - a rollback, or a way to choose the old build - because it was more fun. **Distinct from `.made-it-worse`**, which judges the change; here the ask is concrete: return what was there. **Distinct from `.removed-a-feature`**, which is one thing taken out; here it is the whole earlier version. Crab Champions 209330769 (*"I wish I could go back and play the pre-update version again as it was more fun"*); 188959484 (*"Keep the money. Bring back the previous patch."*), added in round 607. |
+
+🔑 **Round 607, Crab Champions batch 26.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

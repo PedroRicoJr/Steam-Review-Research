@@ -11410,3 +11410,15 @@ Other choices: 194415940's "either way too easy or way too hard. there is no mid
 The thumbs-down: 203287249 found that only new weapons and cosmetics carry between runs, "No upgrades to get in-between" (`wants-a-talent-tree-between-runs`) - the fourth review with this wish, after 136295140, 136300577 and 143596761. It also says "There's leader boards, I guess", which bears on round 604's note about leaderboards; both reviews are 2025, while round 582's `no-leaderboard-to-compete-on` review is from 2023, so the game may have added them. Not tagged either way. The other thumbs-down is "makes me feel hollow and empty inside" (`negative.unknown`).
 
 Other choices: 201139707 finds the top difficulties "very hard to win from the sheer volume of incoming attacks" (`no-counterplay`). 204442762 "wish[es] there were more updates" (`too-slow`). 201132429 is crude jokes around a real feat (top rank with the minigun on True Nightmare); its claims about the reviewer's health and private life are left out. Running counts (by grep, stats files left out): naming other games 47, music praise 35, friends 62, thumbs-down 30.
+
+## Notes - round 607 (Crab Champions batch 26)
+
+50 reviews, created 2025-09-14 to 2025-11-22; 46 thumbs up, 4 down; 72 bullets on 48 reviews (1.44 per review); two excluded (204957886 and 206767064, both empty; 12 excluded in the game so far). One new mode under Rule C:
+
+- `live-ops.patch-quality.wants-the-old-version-back` (−): 209330769, "I wish I could go back and play the pre-update version again". 188959484 (round 604) ends "Bring back the previous patch" and was given a bullet on it - a missed sighting.
+
+A November 2025 update draws the batch's two long thumbs-down. 208656455: movement "stuck in mud" (`sluggish`), loot "awful" (`resources-too-scarce`), "nerfed every fun item" (`nerfs-what-players-liked`), and new top weapon ranks that undo a 100% completion (`completion-undone-by-updates`); it was edited after a developer comment (`replied-to-my-review`) and praises the new maps. 209330769: redone graphics "look great", but maps "smaller and more restrictive" with no cover (`the-spaces-are-scaled-too-small`), a worse difficulty system, good perks moved to Epic (`nerfs-what-players-liked`), and a promise to change the review if modifiers are reworked (`the-thumb-will-flip-when-one-thing-is-fixed`). 209311888, a thumbs-up, misses "the old islands" (`removed-a-feature`). With round 604's 188959484, four reviews now object to 2025 updates.
+
+The other thumbs-down: "I beat it in less than an hour on my first run" (`too-easy`) and "my freind wont play weith me" (`the-thumb-is-aimed-at-other-players`).
+
+Other choices: 208083312 finds unlocks slow "because you can only use one key at a time" (`grindy`). 205523444 and 206150242 name or describe people in the reviewer's life; those details are left out. Running counts (by grep, stats files left out): naming other games 48, music praise 37, friends 64, thumbs-down 34.
