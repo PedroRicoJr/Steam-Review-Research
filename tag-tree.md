@@ -11008,6 +11008,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 608, Crab Champions batch 27.** Built under Rule C.
 
+## Modes added in Crab Champions batch 28 - round 609 (Rule C)
+
+### `game-design.progression.cosmetic-rewards`
+
+| Mode | | Definition |
+|---|---|---|
+| `.the-best-look-is-nearly-impossible-to-earn` | **−** | The most desirable cosmetic sits behind a requirement so hard that the player calls it basically impossible, and wishes it were within reach. **Distinct from `.not-worth-chasing`**, where the rewards do not motivate; here the reward motivates and is out of reach. **Distinct from `game-design.progression.achievements.gated-behind-unreachable-content`**, where the content needed no longer exists. Crab Champions 220122649 (*"kalieoscopic. It is way too hard to get ... it's just way too cool to be basically impossible to get"*). |
+
+🔑 **Round 609, Crab Champions batch 28.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

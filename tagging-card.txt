@@ -1733,3 +1733,4 @@ live-ops.patch-quality.wants-the-old-version-back | - | After an update, the pla
 engineering.netcode.a-disconnect-does-not-lose-the-run | + | The player was dropped from an online session, and the game's save let the group pick the run back up. **The a
 engineering.platform-support.drains-a-handheld-battery | - | On a handheld PC the game empties the battery fast enough to cut sessions short. **Distinct from `.runs-poorly
 review.marked-as-a-placeholder | ~ | The reviewer says the review is a placeholder to be updated after more play, and tells readers not to decide f
+game-design.progression.cosmetic-rewards.the-best-look-is-nearly-impossible-to-earn | - | The most desirable cosmetic sits behind a requirement so hard that the player calls it basically impossible, a
