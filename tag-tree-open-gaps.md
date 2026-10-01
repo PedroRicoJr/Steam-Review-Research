@@ -11454,3 +11454,13 @@ Other choices: 220777155 describes each player getting their own upgrades and "p
 `many-options-play-the-same` (round 606) gets its second review: 228585788, "the massive selection of guns are ... essentially the same standard bullet". 223866650 names "critical chance upgrades" and "black-hole grenades" as the winning play (`one-option-dominates`).
 
 Other choices: 226199324 wants the two mini-games made easier (`one-part-is-far-harder-than-the-rest`), finds joining a friend's game clumsy (`clumsy-to-use`), and calls the flawless and mini-game achievements "not worth the time or anger" (`an-unlock-challenge-is-a-chore`); its remark about the developer's family is left out. 224439848's "PLEASE GET RID OF SPEEDRUN 3" does not say what Speedrun 3 is and goes to `negative.unknown`. 226238618 found the game on a visiting friend's laptop (`found-it-through-someone-playing-it`). Running counts (by grep, stats files left out): naming other games 50, music praise 39, friends 79, thumbs-down 36.
+
+## Notes - round 611 (Crab Champions batch 30)
+
+50 reviews, created 2026-06-30 to 2026-09-15; 49 thumbs up, 1 down; 74 bullets (1.48 per review), none excluded; no new mode.
+
+The thumbs-down (229868355) calls the game "a waste of potential": most maps are bad (`badly-laid-out`; its crude jab is not repeated), the slide boost randomly fails "45min into a run" (`movement.unreliable`), and it wishes for "the same dev attention as like megabonk" (`too-slow`). Megabonk is named again in 233534608, beside Risk of Rain 2 and Gunfire Reborn - the first batch where it appears.
+
+`an-unkillable-enemy-hunts-you` (round 604) gets its second review: 232277771, "the speedy immortal snail". 230547405 asks for "a PVP Version or Extraction Shooter Version" (`expected-mode-missing`) - an extraction ask in a game with none, noted for Dominion. 232914887 plays with "40 friends" (`the-player-cap-can-be-lifted`); the review does not say how.
+
+Other choices: 232793515 and 234681682 enjoy builds that drop the frame rate "to sub 30fps" (`slows-at-the-highest-levels`; the card direction is kept though the reviewers like it). 234719014 wants an in-game currency and cosmetics to chase (`too-few-to-choose-from`). 232277771's partner's handle is left out. Running counts (by grep, stats files left out): naming other games 52, music praise 39, friends 86, thumbs-down 37.
