@@ -10912,6 +10912,34 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 599, Crab Champions batch 18.** Built under Rule C.
 
+## Modes added in Crab Champions batch 19 - round 600 (Rule C)
+
+### `game-design.level-design`
+
+| Mode | | Definition |
+|---|---|---|
+| `.too-few-biomes` | **−** | The game has only a handful of environment types, so the scenery repeats across runs. **Distinct from `.repetitive-layouts`**, which is the shape of the levels; here it is the kinds of place. Crab Champions 165925038 (*"Low Biome diversity currently"*). |
+
+### `game-design.modes`
+
+| Mode | | Definition |
+|---|---|---|
+| `.a-practice-mode-to-warm-up` | **+** | A side mode or mini-game lets the player practise and warm up before a real run, and the player likes it. **Distinct from `.a-mode-stands-out`**, which praises a mode as fun in itself; here it is valued as practice. Crab Champions 165925038 (*"Mini-games are a nice touch for practicing and warming up"*). |
+
+### `engineering.performance`
+
+| Mode | | Definition |
+|---|---|---|
+| `.slows-at-the-highest-levels` | **−** | Play is smooth until the highest levels of a long run, where the game "freaks out" under the load. **Distinct from `.slows-late-in-a-multiplayer-run`**, which ties the slowdown to playing with others; here no such condition is given. **Distinct from `.gets-slower-the-longer-you-play`**, which follows time played, not how far the run has gone. Crab Champions 165925038 (*"consistently smooth until the upper level range where the game starts to freak out"*). |
+
+### `game-design.session-flexibility`
+
+| Mode | | Definition |
+|---|---|---|
+| `.only-one-saved-run` | **−** | The game keeps a single saved run for solo and multiplayer together, so starting one overwrites the other; the player wants separate slots. **Distinct from `.cannot-save-and-come-back`**, where no saving exists. Crab Champions 167926365 (*"you can only have one saved game Either singleplayer or multiplayer"*). |
+
+🔑 **Round 600, Crab Champions batch 19.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -11340,3 +11340,16 @@ Other choices: 160064308 warns the studio not to add paid extras after promising
 - `marketing.discovery.followed-the-studio-before-release` (~): 162444148, following "since they were just posting Tiktoks".
 
 Other choices: 162438163's 8 fps is "my fault for playing a big game on a non-gaming laptop" (`clears-the-game-and-blames-their-own-setup`). 164857337 praises a "narrative", "gripping story" and "rich world" in generic terms with nothing specific to the game (`reads-like-a-store-blurb`). 163390735 only repeats "I HATE BARRELS"; the review does not say what the barrels are, so it goes to `review.negative.unknown` rather than an enemy or level mode. 164859536's "either become a god ... or get chewed up" goes to `the-balance-assumes-you-restart-for-a-god-build`. 163938311 gets "1 or 2 updates each year" and calls them good (`slow-but-worth-the-wait`). Running counts (by grep, stats files left out): naming other games 34, music praise 29, friends 44, thumbs-down 22.
+
+## Notes - round 600 (Crab Champions batch 19)
+
+50 reviews, created 2024-05-07 to 2024-07-15; 48 thumbs up, 2 down; 74 bullets (1.48 per review), none excluded. Four new modes under Rule C:
+
+- `game-design.level-design.too-few-biomes` (−), `game-design.modes.a-practice-mode-to-warm-up` (+) and `engineering.performance.slows-at-the-highest-levels` (−): all from 165925038, a pros-and-cons review (11 bullets).
+- `game-design.session-flexibility.only-one-saved-run` (−): 167926365, "you can only have one saved game Either singleplayer or multiplayer".
+
+`two-achievements-give-the-same-reward` (round 592) now has 3 reviews: 165417951 ("multiple challenges award the same skins") and 168648583 ("a lot of dupilicates of skins") join 142666872.
+
+The thumbs-down: 167446683 (very repetitive, stale "after a week") and "Dont waste your money" (169960251, `negative.unknown`). 166418974 is a one-line joke in Norwegian about a friend leaving the game (`written-in-a-language-other-than-its-steam-tag`); the friend's name is left out.
+
+Other choices: "Beat Nightmare mode first try" (165401761) goes to `too-easy`. 167961250 lists three broken builds instead of a review (`the-review-teaches-you-how-to-play`). "crashed six times" (169957488) goes to `crashes-repeatedly`. Running counts (by grep, stats files left out): naming other games 37, music praise 30, friends 48, thumbs-down 24.
