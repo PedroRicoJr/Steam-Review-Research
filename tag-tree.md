@@ -11519,6 +11519,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 645, The First Descendant batch 30.** Built under Rule C on the first sighting; `findphrase.py` on "universal" and "each character" found one earlier bullet comparing single-character and universal skin prices (on `the-shop-charges-far-too-much`) and none on buying the same skin again for each character.
 
+## Modes added in The First Descendant batch 31 - round 646 (Rule C)
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.returning-players-get-a-catch-up` | **+** | A player coming back after a long break is handed materials or rewards that bring them up to date, so returning feels worth it. **The positive side of `.returning-players-get-no-catch-up`** (−). |
+
+🔑 **Round 646, The First Descendant batch 31.** Built under Rule C on the first sighting; `findphrase.py` on "mailbox" found no earlier sighting, and the only catch-up mode was its negative side.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

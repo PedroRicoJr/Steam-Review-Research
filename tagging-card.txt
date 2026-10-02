@@ -1815,3 +1815,4 @@ engineering.matchmaking.every-activity-has-matchmaking | + | Every multiplayer a
 publishing.price.not-adjusted-for-my-region | - | Prices are set in one currency level for every country, so in the reviewer's region a purchase costs a large s
 game-design.ui-ux.cannot-hide-other-players-in-the-hub | - | The shared hub is crowded with other players' characters and name tags, and there is no option to hide or simp
 publishing.monetisation-practice.a-skin-must-be-bought-for-each-character | - | A cosmetic set is sold per character, so the same look for several characters costs the full price again for e
+game-design.new-player-experience.returning-players-get-a-catch-up | + | A player coming back after a long break is handed materials or rewards that bring them up to date, so returnin
