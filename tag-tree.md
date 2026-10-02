@@ -11339,6 +11339,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 633, The First Descendant batch 18.** Built under Rule C on the first sighting; `findphrase.py` on "framerate", "frame rate", "catalyst", "back to level 1", "subtitles", "walking" and "tutorial" found no earlier sighting of any of the five.
 
+## Modes added in The First Descendant batch 19 - round 634 (Rule C)
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.more-time-in-menus-than-playing` | **−** | The reviewer says the share of time spent in menus - upgrading, equipping, crafting - is too large next to the time spent playing. **Distinct from `.hard-to-navigate`** (the menus are confusing; here they are simply too much of the game) **and from `.managing-the-inventory-is-a-chore`** (storage and stacking). |
+
+### `art.fidelity`
+| Mode | | Definition |
+|---|---|---|
+| `.the-brightness-is-wrong-in-play` | **−** | The gamma or brightness renders wrongly in play - washed out or too dark - and no setting fixes it. **Distinct from `.the-picture-is-blurry`** (sharpness) **and from `.rough-in-places`** (asset quality). |
+| `.detail-pops-in-close-up` | **−** | Models or scenery appear suddenly only a few metres away, so the world visibly builds itself around the player. **Distinct from `engineering.performance.stutter`** (the frame rate; here the picture). |
+
+🔑 **Round 634, The First Descendant batch 19.** Built under Rule C on the first sighting; `findphrase.py` on "time in menu", "in menus", "gamma" and "pop-in" found no earlier sighting of these three.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

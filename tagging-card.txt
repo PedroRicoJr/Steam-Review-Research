@@ -1787,3 +1787,6 @@ game-design.progression.unlock-pace.an-upgrade-sends-the-character-back-to-level
 game-design.ui-ux.subtitles-cannot-be-turned-off | - | The subtitles are always on, with no option to hide them. **Distinct from `.cannot-hide-the-interface`** (the 
 art.animation.running-and-walking-look-alike | - | The movement speeds share near-identical animations, so the player cannot see how fast the character is going,
 game-design.new-player-experience.the-tutorial-is-more-fun-than-the-game | - | The opening tutorial promised a fun game, and the reviewer lost interest as soon as the real game began. **Dis
+game-design.ui-ux.more-time-in-menus-than-playing | - | The reviewer says the share of time spent in menus - upgrading, equipping, crafting - is too large next to the
+art.fidelity.the-brightness-is-wrong-in-play | - | The gamma or brightness renders wrongly in play - washed out or too dark - and no setting fixes it. **Distinct
+art.fidelity.detail-pops-in-close-up | - | Models or scenery appear suddenly only a few metres away, so the world visibly builds itself around the player
