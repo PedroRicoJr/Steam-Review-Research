@@ -1782,3 +1782,8 @@ game-design.co-op-design.you-join-another-players-mission-by-accident | - | Figh
 game-design.power-balance.a-weapon-type-uses-the-scarcest-ammo | - | One weapon type draws on the ammo that is hardest to find, without hitting hard enough to be worth saving it f
 engineering.matchmaking.the-fight-starts-before-you-load-in | - | A matched mission goes live before the player has control, so they arrive already hurt or dead. **Distinct fro
 marketing.positioning.popular-only-because-nothing-else-is-out | - | The reviewer says the game draws its players only because it launched when there was nothing else to play, not
+engineering.bugs.damage-depends-on-the-frame-rate | - | A weapon's damage is tied to the frame rate, so a player with more frames per second deals more, and lowering 
+game-design.progression.unlock-pace.an-upgrade-sends-the-character-back-to-level-one | - | Fitting an upgrade item to a character or weapon resets it to level 1, so every upgrade means levelling again.
+game-design.ui-ux.subtitles-cannot-be-turned-off | - | The subtitles are always on, with no option to hide them. **Distinct from `.cannot-hide-the-interface`** (the 
+art.animation.running-and-walking-look-alike | - | The movement speeds share near-identical animations, so the player cannot see how fast the character is going,
+game-design.new-player-experience.the-tutorial-is-more-fun-than-the-game | - | The opening tutorial promised a fun game, and the reviewer lost interest as soon as the real game began. **Dis

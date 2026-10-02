@@ -11310,6 +11310,35 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 632, The First Descendant batch 17.** Built under Rule C on the first sighting; `findphrase.py` found no earlier sighting of joining a mission by accident, a weapon type starved of ammo, a fight that starts during the load, or a game popular only for lack of rivals.
 
+## Modes added in The First Descendant batch 18 - round 633 (Rule C)
+
+### `engineering.bugs`
+| Mode | | Definition |
+|---|---|---|
+| `.damage-depends-on-the-frame-rate` | **−** | A weapon's damage is tied to the frame rate, so a player with more frames per second deals more, and lowering the graphics becomes a way to hit harder. **Distinct from `engineering.performance.unstable-framerate`** (the frame rate itself; here it leaks into the rules). |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.an-upgrade-sends-the-character-back-to-level-one` | **−** | Fitting an upgrade item to a character or weapon resets it to level 1, so every upgrade means levelling again. **Distinct from `.the-optional-reset-is-not-worth-what-it-costs`** (a prestige wipe of everything for a bonus; here one item resets one character) **and from `.a-new-weapon-starts-the-grind-again`** (a new item starts low; here an owned one is set back). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.subtitles-cannot-be-turned-off` | **−** | The subtitles are always on, with no option to hide them. **Distinct from `.cannot-hide-the-interface`** (the HUD) **and from `accessibility.hearing.the-subtitles-do-not-match-the-speech`** (the text is wrong). |
+
+### `art.animation`
+| Mode | | Definition |
+|---|---|---|
+| `.running-and-walking-look-alike` | **−** | The movement speeds share near-identical animations, so the player cannot see how fast the character is going, which matters where speed changes the damage. **Distinct from `.stiff-or-clunky`** (the animations are poor; here they are too alike to read). |
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.the-tutorial-is-more-fun-than-the-game` | **−** | The opening tutorial promised a fun game, and the reviewer lost interest as soon as the real game began. **Distinct from `.it-grew-on-me`** (+, the reverse) **and from `.the-game-never-arrives`** (the start drags; here the start was the best part). |
+
+🔑 **Round 633, The First Descendant batch 18.** Built under Rule C on the first sighting; `findphrase.py` on "framerate", "frame rate", "catalyst", "back to level 1", "subtitles", "walking" and "tutorial" found no earlier sighting of any of the five.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
