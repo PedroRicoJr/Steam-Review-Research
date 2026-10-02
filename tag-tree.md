@@ -11501,6 +11501,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 643, The First Descendant batch 28.** Built under Rule C on the first sighting; `findphrase.py` on "regional pric", "region" and "africa" found one earlier bullet that named a region (a premium game called not worth its price there, filed on `too-high-for-what-it-is`) and none asking for regional prices.
 
+## Modes added in The First Descendant batch 29 - round 644 (Rule C)
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-hide-other-players-in-the-hub` | **−** | The shared hub is crowded with other players' characters and name tags, and there is no option to hide or simplify them. **Distinct from `.cluttered-screen`** (the interface itself; here other players fill the view) **and from `.cannot-hide-the-interface`** (the HUD). |
+
+🔑 **Round 644, The First Descendant batch 29.** Built under Rule C on the first sighting; `findphrase.py` on "hide players" and "hide other players" found no earlier sighting.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
