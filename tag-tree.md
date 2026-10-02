@@ -11510,6 +11510,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 644, The First Descendant batch 29.** Built under Rule C on the first sighting; `findphrase.py` on "hide players" and "hide other players" found no earlier sighting.
 
+## Modes added in The First Descendant batch 30 - round 645 (Rule C)
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.a-skin-must-be-bought-for-each-character` | **−** | A cosmetic set is sold per character, so the same look for several characters costs the full price again for each. **Distinct from `.the-shop-charges-far-too-much`** (the price of one item) **and from `.items-sold-only-in-bundles`** (the packaging). |
+
+🔑 **Round 645, The First Descendant batch 30.** Built under Rule C on the first sighting; `findphrase.py` on "universal" and "each character" found one earlier bullet comparing single-character and universal skin prices (on `the-shop-charges-far-too-much`) and none on buying the same skin again for each character.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
