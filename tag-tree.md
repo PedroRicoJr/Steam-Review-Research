@@ -11478,6 +11478,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 641, The First Descendant batch 26.** Built under Rule C on the first sighting; `findphrase.py` on "achievement" modes, "drop rates are shown", "shows drop", "exclamation", "creator program" and "content creator" found no earlier sighting of these five.
 
+## Modes added in The First Descendant batch 27 - round 642 (Rule C)
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.bad-luck-protection-exists` | **+** | The game guarantees a wanted drop after enough failed tries, so bad luck has an end. **The positive side of `.failed-tries-do-not-raise-the-chance`** (−) **and distinct from `.wants-a-token-that-guarantees-the-drop`** (− , the request; here the feature exists and is praised). |
+
+### `engineering.matchmaking`
+| Mode | | Definition |
+|---|---|---|
+| `.every-activity-has-matchmaking` | **+** | Every multiplayer activity can be queued for, and a group finder sits inside the game, so nobody has to look for a team outside it. **The positive side of `.no-public-matchmaking`** (−). |
+
+🔑 **Round 642, The First Descendant batch 27.** Built under Rule C on the first sighting; `findphrase.py` on "bad luck protection", "party finder" and "lfg" found no earlier sighting of either praise.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
