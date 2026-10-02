@@ -1748,7 +1748,6 @@ review.written-before-the-game-could-be-played | ~ | The review was posted durin
 art.visual-direction.overdesigned | - | Characters, weapons and set pieces carry so much detail and movement that the look turns busy and tiring - eve
 game-design.game-feel.movement.weightless | - | The characters move without any sense of mass, even the ones built to look heavy. **Distinct from `.sluggish`*
 community.developer-communication.outage-news-only-on-social-media | - | When the game is down, the studio explains only on outside social media, not in the game or on the store's com
-game-design.level-design.the-scenery-snags-your-character | - | Rocks and other detailed scenery catch the player's character as they move, so getting out of a fight means ge
 engineering.performance.runs-worse-than-it-used-to | - | The game ran well on the player's machine before, and on the same machine it now runs badly after updates. **D
 community.player-conduct.players-idle-and-leave-the-work-to-others | - | In public missions other players go idle or camp one safe spot, so whoever is left does the work and gets no h
 game-design.progression.unlock-pace.the-farming-is-throttled-on-purpose | - | The reviewer says activities are built to slow how fast players can farm - limits, waits or low yields placed 

@@ -11086,10 +11086,9 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 |---|---|---|
 | `.outage-news-only-on-social-media` | **−** | When the game is down, the studio explains only on outside social media, not in the game or on the store's community pages. **Distinct from `.went-silent-after-a-bad-launch`**, where nothing is said: here something is said, in the wrong place. The First Descendant 168926941 (*"the game has been down for hours with somewhat vague reasoning being tweeted out instead of announced anywhere on the community hub/discussion board/in-game"*). |
 
-### `game-design.level-design`
-| Mode | | Definition |
-|---|---|---|
-| `.the-scenery-snags-your-character` | **−** | Rocks and other detailed scenery catch the player's character as they move, so getting out of a fight means getting stuck on the ground. **Distinct from `.invisible-walls-block-the-way`**, where nothing is visible: here the scenery itself catches. The First Descendant 168926939 (*"Sterile Lands especially is a snag-fest of epic proportions where your character can snag on just about everything"*). |
+### `game-design.level-design` - `.the-scenery-snags-your-character` ⛔ RETIRED, ROUND 624
+
+**Merged into `engineering.bugs.you-get-stuck-on-the-scenery`**, which already covered a body caught on rocks and ledges; round 617 missed it when checking the subject's modes. Its 2 bullets (The First Descendant 168926939, 169802703) were re-homed there in round 624.
 
 ### `engineering.performance`
 | Mode | | Definition |
