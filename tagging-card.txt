@@ -1802,3 +1802,4 @@ publishing.monetisation-practice.items-sold-only-in-bundles | - | A wanted item 
 game-design.ui-ux.the-preview-does-not-match-the-game | - | A colour, skin or item looks different in the menu preview from how it looks in play. **Distinct from `.hides-
 audio.sound-effects.an-irritating-noise-on-the-loading-screen | - | A repeated sound plays during loading screens and grates. **Distinct from `engineering.bugs.the-audio-breaks-a
 game-design.game-feel.movement.players-block-each-other | - | Players collide with each other's bodies and get in the way, which the reviewer calls pointless realism. **The
+game-design.game-feel.combat.carrying-an-objective-stops-you-shooting | - | Picking up a mission item takes away the player's weapons, even one-handed ones, and using a power drops it, s

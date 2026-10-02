@@ -11426,6 +11426,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 637, The First Descendant batch 22.** Built under Rule C on the first sighting; `findphrase.py` on "guns are pointless", "bundle", "preview", "beep" and "player collision" found no earlier sighting of these five (the one "player collision" hit is the inverse mode).
 
+## Modes added in The First Descendant batch 24 - round 639 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.carrying-an-objective-stops-you-shooting` | **−** | Picking up a mission item takes away the player's weapons, even one-handed ones, and using a power drops it, so carry missions leave the carrier defenceless. **Distinct from `.forces-the-melee-on-you`** (melee replaces the gun by design) **and from `game-design.game-feel.controls.stuns-take-control-away`** (an enemy's hit). |
+
+🔑 **Round 639, The First Descendant batch 24.** Built under Rule C on the first sighting; `findphrase.py` on "holding a bag", "carrying", "can't shoot" and "cannot shoot" found no earlier sighting.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
