@@ -1773,3 +1773,4 @@ community.developer-communication.took-back-a-promise | - | The studio announced
 game-design.role-design.abilities-cost-energy-and-a-cooldown | - | Each ability both spends a resource and then waits on a timer, so the two limits stack and abilities feel rati
 publishing.refund.a-refund-gets-the-account-banned | - | The reviewer says asking for a refund on an in-game purchase gets the whole account banned, so a refund costs 
 game-design.role-design.a-character-is-built-against-the-games-pace | - | One character's skills work in a way that fights the speed of the game - a timed rhythm input to start and kee
+game-design.co-op-design.a-reset-fills-groups-with-low-level-players | - | The game hands out an item that sends a character back to level 1 to make it stronger later, just before a bos

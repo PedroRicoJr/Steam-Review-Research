@@ -11249,6 +11249,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 628, The First Descendant batch 13.** Built under Rule C.
 
+## Modes added in The First Descendant batch 14 - round 629 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-reset-fills-groups-with-low-level-players` | **−** | The game hands out an item that sends a character back to level 1 to make it stronger later, just before a boss that must be beaten with a group, so public groups fill with freshly reset characters too weak to win. **Distinct from `.dragged-into-content-above-your-level`**, where one player is underlevelled: here the design puts many there at once. The First Descendant 170652516 (*"they slaotted the boss fight right after they give an item that resets your character to level 1 ... half the time I'm in a group with 2 level 1 characters"*). |
+
+🔑 **Round 629, The First Descendant batch 14.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
