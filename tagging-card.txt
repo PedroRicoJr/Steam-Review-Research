@@ -1775,3 +1775,6 @@ publishing.refund.a-refund-gets-the-account-banned | - | The reviewer says askin
 game-design.role-design.a-character-is-built-against-the-games-pace | - | One character's skills work in a way that fights the speed of the game - a timed rhythm input to start and kee
 game-design.co-op-design.a-reset-fills-groups-with-low-level-players | - | The game hands out an item that sends a character back to level 1 to make it stronger later, just before a bos
 marketing.discovery.came-from-an-advert | ~ | The reviewer says an advert is how they found the game and why they downloaded it. **Distinct from `.sold-by-t
+publishing.monetisation-practice.the-skins-can-only-be-bought | - | Character skins are sold for money with no way to earn them by playing, and the reviewer wants one. **Distinct
+game-design.randomness.failed-tries-do-not-raise-the-chance | - | Each try rolls the same odds; failed attempts never raise the chance, so bad luck has no end. **Distinct from 
+community.player-conduct.players-call-for-nerfs-instead-of-buffs | - | Other players push the studio to weaken one strong character or item rather than strengthen the rest, and the 

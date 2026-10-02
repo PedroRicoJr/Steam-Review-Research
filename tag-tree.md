@@ -11267,6 +11267,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 630, The First Descendant batch 15.** Built under Rule C.
 
+## Modes added in The First Descendant batch 16 - round 631 (Rule C)
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.the-skins-can-only-be-bought` | **−** | Character skins are sold for money with no way to earn them by playing, and the reviewer wants one. **Distinct from `.colours-and-basic-cosmetics-cost-real-money`** (the plainest looks - a colour, a palette) **and from `.cosmetic-only`** (+, praise that paid looks never touch play). |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.failed-tries-do-not-raise-the-chance` | **−** | Each try rolls the same odds; failed attempts never raise the chance, so bad luck has no end. **Distinct from `.wants-a-token-that-guarantees-the-drop`** (asks for a currency that buys the drop) **and from `.the-thing-you-need-may-never-roll`** (the outcome; this names the missing memory in the odds). |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.players-call-for-nerfs-instead-of-buffs` | **−** | Other players push the studio to weaken one strong character or item rather than strengthen the rest, and the reviewer blames them for what follows. **Distinct from `game-design.power-balance.something-needs-a-nerf`** (the reviewer wants the nerf) **and from `live-ops.patch-quality.nerfs-what-players-liked`** (the studio's act). |
+
+🔑 **Round 631, The First Descendant batch 16.** Built under Rule C on the first sighting; `findphrase.py` found no earlier sighting of skins that can only be bought, odds with no memory, or players lobbying for nerfs.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
