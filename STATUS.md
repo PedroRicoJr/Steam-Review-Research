@@ -18,8 +18,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-10-01 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now The First Descendant (Crab Champions finished in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 647: The First Descendant batch 32, the last 54 reviews, no new mode (1,604 of 1,604 - all read) |
-| Next unit | The First Descendant findings: `findings/the-first-descendant-english.md` first (`python3 scripts/findings_tables.py the-first-descendant/english --only-in-this-game`), then `findings/the-first-descendant.md` and section 25 of `findings/cross-game.md`; then mark GAMES-TODO row 12 and planning C28 Done |
+| Last unit done | Round 648: The First Descendant English findings page, `findings/the-first-descendant-english.md` |
+| Next unit | The First Descendant master page `findings/the-first-descendant.md` and section 25 of `findings/cross-game.md` (the ten-game table, as in section 24); then mark GAMES-TODO row 12 and planning C28 Done |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,818 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
