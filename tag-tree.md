@@ -11258,6 +11258,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 629, The First Descendant batch 14.** Built under Rule C.
 
+## Modes added in The First Descendant batch 15 - round 630 (Rule C)
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.came-from-an-advert` | ~ | The reviewer says an advert is how they found the game and why they downloaded it. **Distinct from `.sold-by-the-trailer`**, which is the studio's trailer winning them over: here a paid ad was simply the way in. The First Descendant 170913418 (*"i downloaded this game off a ad seeing it was multiplayer"*). |
+
+🔑 **Round 630, The First Descendant batch 15.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
