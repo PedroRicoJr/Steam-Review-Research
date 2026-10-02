@@ -11217,6 +11217,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 623, The First Descendant batch 8.** Built under Rule C.
 
+## Modes added in The First Descendant batch 10 - round 625 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.took-back-a-promise` | **−** | The studio announced a change players welcomed, then withdrew it - blaming a translation or wording error - and did the opposite. **Distinct from `.misreads-what-players-want`**, which is a wrong idea of the fun: here a stated promise was reversed. The First Descendant 170356309 (*"after telling us they were going to buff other farms to match the Valby farm they retracted their statement claiming an error in translation"*). |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.abilities-cost-energy-and-a-cooldown` | **−** | Each ability both spends a resource and then waits on a timer, so the two limits stack and abilities feel rationed, unlike a named rival that uses one or the other. **Distinct from `.the-abilities-are-no-fun-to-use`**, a judgement on the abilities themselves: here the complaint is the double limit. The First Descendant 170110118 (*"Abilities both cost energy and have cooldown"*). |
+
+🔑 **Round 625, The First Descendant batch 10.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
