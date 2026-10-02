@@ -11383,6 +11383,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 635, The First Descendant batch 20.** Built under Rule C on the first sighting; `findphrase.py` on "resurrection", "revive limit", "iframe", "invulnerab", "choose your reward" and "crybab" and "wasted my money" found no earlier sighting of these five.
 
+## Modes added in The First Descendant batch 21 - round 636 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.enemies-switch-off-your-abilities` | **−** | Enemies or fight rules disable the player's skills for whole events or bosses, so only the gun is left and a character built on skills loses its point. **Distinct from `game-design.game-feel.controls.stuns-take-control-away`** (a hit takes all control briefly; here the skills are off for the fight). |
+
+### `engineering.performance`
+| Mode | | Definition |
+|---|---|---|
+| `.loading-screens-split-small-areas` | **−** | Small maps are cut into separate areas with a loading screen between each, where the reviewer expects one continuous space. **Distinct from `.long-load-times`** (each load is slow; here there are too many for areas so small). |
+
+🔑 **Round 636, The First Descendant batch 21.** Built under Rule C on the first sighting; `findphrase.py` on "disable", "small maps" and "loading bar" found no earlier sighting of either.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

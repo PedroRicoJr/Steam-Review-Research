@@ -1795,3 +1795,5 @@ game-design.co-op-design.a-revived-player-gets-no-grace-period | - | A player pi
 game-design.randomness.cannot-choose-the-reward-from-the-pool | - | Opening a reward container hands over one random item, where a rival lets the group pick from the pool shown, 
 publishing.monetisation-practice.regrets-what-they-spent | - | The reviewer spent money in the game's shop and now calls it wasted, because of what the game became. **Distin
 community.player-conduct.players-push-the-studio-to-make-it-easier | - | Other players lobby for content to be made easier or quicker, and the reviewer wants the studio to stop listen
+game-design.enemy-design.enemies-switch-off-your-abilities | - | Enemies or fight rules disable the player's skills for whole events or bosses, so only the gun is left and a c
+engineering.performance.loading-screens-split-small-areas | - | Small maps are cut into separate areas with a loading screen between each, where the reviewer expects one cont
