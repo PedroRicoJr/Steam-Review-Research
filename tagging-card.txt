@@ -1797,3 +1797,8 @@ publishing.monetisation-practice.regrets-what-they-spent | - | The reviewer spen
 community.player-conduct.players-push-the-studio-to-make-it-easier | - | Other players lobby for content to be made easier or quicker, and the reviewer wants the studio to stop listen
 game-design.enemy-design.enemies-switch-off-your-abilities | - | Enemies or fight rules disable the player's skills for whole events or bosses, so only the gun is left and a c
 engineering.performance.loading-screens-split-small-areas | - | Small maps are cut into separate areas with a loading screen between each, where the reviewer expects one cont
+game-design.power-balance.the-skills-make-the-guns-pointless | - | Character abilities do so much damage that weapons stop mattering, so new guns are not worth getting. **Distin
+publishing.monetisation-practice.items-sold-only-in-bundles | - | A wanted item is only sold inside a costly bundle with things the buyer already owns or does not want. **Disti
+game-design.ui-ux.the-preview-does-not-match-the-game | - | A colour, skin or item looks different in the menu preview from how it looks in play. **Distinct from `.hides-
+audio.sound-effects.an-irritating-noise-on-the-loading-screen | - | A repeated sound plays during loading screens and grates. **Distinct from `engineering.bugs.the-audio-breaks-a
+game-design.game-feel.movement.players-block-each-other | - | Players collide with each other's bodies and get in the way, which the reviewer calls pointless realism. **The

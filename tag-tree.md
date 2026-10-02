@@ -11397,6 +11397,35 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 636, The First Descendant batch 21.** Built under Rule C on the first sighting; `findphrase.py` on "disable", "small maps" and "loading bar" found no earlier sighting of either.
 
+## Modes added in The First Descendant batch 22 - round 637 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.the-skills-make-the-guns-pointless` | **−** | Character abilities do so much damage that weapons stop mattering, so new guns are not worth getting. **Distinct from `.upgrades-make-aiming-unnecessary`** (upgrades remove the need to aim; here one system makes another worthless) **and from `.one-option-dominates`** (one choice among equals). |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.items-sold-only-in-bundles` | **−** | A wanted item is only sold inside a costly bundle with things the buyer already owns or does not want. **Distinct from `.the-shop-charges-far-too-much`** (the price; here the packaging). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-preview-does-not-match-the-game` | **−** | A colour, skin or item looks different in the menu preview from how it looks in play. **Distinct from `.hides-information`** (something is missing; here what is shown is wrong). |
+
+### `audio.sound-effects`
+| Mode | | Definition |
+|---|---|---|
+| `.an-irritating-noise-on-the-loading-screen` | **−** | A repeated sound plays during loading screens and grates. **Distinct from `engineering.bugs.the-audio-breaks-and-stays-broken`** (a fault; here a design choice). |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.players-block-each-other` | **−** | Players collide with each other's bodies and get in the way, which the reviewer calls pointless realism. **The inverse of `.no-player-collision`** (players pass through each other and the reviewer wants them solid). |
+
+🔑 **Round 637, The First Descendant batch 22.** Built under Rule C on the first sighting; `findphrase.py` on "guns are pointless", "bundle", "preview", "beep" and "player collision" found no earlier sighting of these five (the one "player collision" hit is the inverse mode).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
