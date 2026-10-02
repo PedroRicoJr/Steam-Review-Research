@@ -11354,6 +11354,35 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 634, The First Descendant batch 19.** Built under Rule C on the first sighting; `findphrase.py` on "time in menu", "in menus", "gamma" and "pop-in" found no earlier sighting of these three.
 
+## Modes added in The First Descendant batch 20 - round 635 (Rule C)
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.a-revive-limit-restarts-the-whole-fight` | **−** | A fixed number of revives per fight means one late death sends the player back to the start of a long boss fight, wasting the time spent. **Distinct from `.player-too-fragile`** (dying is too easy; here the cost of dying is the complaint). |
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-revived-player-gets-no-grace-period` | **−** | A player picked up by a teammate has no moment of safety and is knocked straight back down. **Distinct from `.you-can-revive-yourself`** (+, who can revive; here what happens after). |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-choose-the-reward-from-the-pool` | **−** | Opening a reward container hands over one random item, where a rival lets the group pick from the pool shown, so the run can pay nothing useful. **Distinct from `.the-thing-you-need-may-never-roll`** (the odds; here the missing choice). |
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.regrets-what-they-spent` | **−** | The reviewer spent money in the game's shop and now calls it wasted, because of what the game became. **Distinct from `publishing.preorder.regretted-preordering`** (buying before release) **and from `.players-buy-in-to-support-the-studio`** (+, spending gladly). |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.players-push-the-studio-to-make-it-easier` | **−** | Other players lobby for content to be made easier or quicker, and the reviewer wants the studio to stop listening to them. **Distinct from `.players-call-for-nerfs-instead-of-buffs`** (the target is one strong character; here it is the challenge or the grind). |
+
+🔑 **Round 635, The First Descendant batch 20.** Built under Rule C on the first sighting; `findphrase.py` on "resurrection", "revive limit", "iframe", "invulnerab", "choose your reward" and "crybab" and "wasted my money" found no earlier sighting of these five.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

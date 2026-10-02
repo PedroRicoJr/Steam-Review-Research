@@ -1790,3 +1790,8 @@ game-design.new-player-experience.the-tutorial-is-more-fun-than-the-game | - | T
 game-design.ui-ux.more-time-in-menus-than-playing | - | The reviewer says the share of time spent in menus - upgrading, equipping, crafting - is too large next to the
 art.fidelity.the-brightness-is-wrong-in-play | - | The gamma or brightness renders wrongly in play - washed out or too dark - and no setting fixes it. **Distinct
 art.fidelity.detail-pops-in-close-up | - | Models or scenery appear suddenly only a few metres away, so the world visibly builds itself around the player
+game-design.difficulty-tuning.a-revive-limit-restarts-the-whole-fight | - | A fixed number of revives per fight means one late death sends the player back to the start of a long boss fig
+game-design.co-op-design.a-revived-player-gets-no-grace-period | - | A player picked up by a teammate has no moment of safety and is knocked straight back down. **Distinct from `.
+game-design.randomness.cannot-choose-the-reward-from-the-pool | - | Opening a reward container hands over one random item, where a rival lets the group pick from the pool shown, 
+publishing.monetisation-practice.regrets-what-they-spent | - | The reviewer spent money in the game's shop and now calls it wasted, because of what the game became. **Distin
+community.player-conduct.players-push-the-studio-to-make-it-easier | - | Other players lobby for content to be made easier or quicker, and the reviewer wants the studio to stop listen
