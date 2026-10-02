@@ -11231,6 +11231,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 625, The First Descendant batch 10.** Built under Rule C.
 
+## Modes added in The First Descendant batch 11 - round 626 (Rule C)
+
+### `publishing.refund`
+| Mode | | Definition |
+|---|---|---|
+| `.a-refund-gets-the-account-banned` | **−** | The reviewer says asking for a refund on an in-game purchase gets the whole account banned, so a refund costs everything else bought or earned. **Distinct from `.wanted-to-but-could-not`**, where a refund is refused: here it is punished. The First Descendant 170349391 (*"if you refund anything from the shop they outright ban your account"*). |
+
+🔑 **Round 626, The First Descendant batch 11.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
