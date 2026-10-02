@@ -11449,6 +11449,35 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 640, The First Descendant batch 25.** Built under Rule C on the first sighting; `findphrase.py` on "same drops", "different drops", "afk ban" and "kicked for" found no earlier sighting (the one "same drops" hit is the inverse mode).
 
+## Modes added in The First Descendant batch 26 - round 641 (Rule C)
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.new-content-adds-none` | **−** | Major updates and new content arrive without new achievements, and the reviewer wants them added. **Distinct from `.completion-undone-by-updates`** (updates add achievements that break a finished set). |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.the-odds-are-shown` | **+** | The game states the drop chances for its rewards, so the player knows what a mission can pay. **The positive side of `.the-stated-chances-feel-rigged`** (the shown odds are doubted) **and distinct from `game-design.ui-ux.hides-information`**. |
+
+### `narrative.characters-writing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-names-are-mundane` | **−** | Characters in a grand setting carry everyday names - a Greg, a Jeremy - and the reviewer finds it deflating. **Distinct from `narrative.world-and-setting.real-and-made-up-names-mixed`** (a naming clash in the world; here the cast's names). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.alert-badges-everywhere` | **−** | After each mission the menus fill with red alert marks and notices, which the reviewer finds annoying. **Distinct from `.reward-popups-get-in-the-way`** (pop-ups during play; here markers across the menus). |
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.the-creator-programme-picks-the-wrong-people` | **−** | The studio's content-creator programme accepts people who make no videos and turns away those who do, by the reviewer's account. **Distinct from `review.carries-the-reviewers-referral-link`** (a creator promoting their own code). |
+
+🔑 **Round 641, The First Descendant batch 26.** Built under Rule C on the first sighting; `findphrase.py` on "achievement" modes, "drop rates are shown", "shows drop", "exclamation", "creator program" and "content creator" found no earlier sighting of these five.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
