@@ -1772,3 +1772,4 @@ game-design.progression.cosmetic-rewards.skins-only-for-items-nobody-uses | - | 
 community.developer-communication.took-back-a-promise | - | The studio announced a change players welcomed, then withdrew it - blaming a translation or wording error - an
 game-design.role-design.abilities-cost-energy-and-a-cooldown | - | Each ability both spends a resource and then waits on a timer, so the two limits stack and abilities feel rati
 publishing.refund.a-refund-gets-the-account-banned | - | The reviewer says asking for a refund on an in-game purchase gets the whole account banned, so a refund costs 
+game-design.role-design.a-character-is-built-against-the-games-pace | - | One character's skills work in a way that fights the speed of the game - a timed rhythm input to start and kee

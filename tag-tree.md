@@ -11240,6 +11240,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 626, The First Descendant batch 11.** Built under Rule C.
 
+## Modes added in The First Descendant batch 13 - round 628 (Rule C)
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-character-is-built-against-the-games-pace` | **−** | One character's skills work in a way that fights the speed of the game - a timed rhythm input to start and keep up abilities in the middle of fast combat, effects too short to help the team - so few will play it however good it looks. **Distinct from `.the-abilities-are-no-fun-to-use`**, a general judgement: here one character's mechanic clashes with the genre's pace. The First Descendant 170656925 (*"Having to basically play a rhythm mini game to start and maintain the skills ... in the midst of combat is not a good way to do this"*). |
+
+🔑 **Round 628, The First Descendant batch 13.** Built under Rule C.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
