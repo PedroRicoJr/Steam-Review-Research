@@ -11435,6 +11435,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 639, The First Descendant batch 24.** Built under Rule C on the first sighting; `findphrase.py` on "holding a bag", "carrying", "can't shoot" and "cannot shoot" found no earlier sighting.
 
+## Modes added in The First Descendant batch 25 - round 640 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.each-player-rolls-their-own-drops` | **−** | Each squad member rolls separately for a drop, so one player's luck does nothing for the others and farming as a group brings no shared reward. **The negative side of `.loot-is-shared`** (+, a drop counts for everyone); **distinct from `.the-loot-does-not-grow-with-the-group`** (one pool split between players). |
+
+### `engineering.access`
+| Mode | | Definition |
+|---|---|---|
+| `.an-automatic-ban-cannot-be-lifted` | **−** | The game banned the player automatically - for idling, for example - and there is no way to appeal or undo it. **Distinct from `.banned-with-no-reason-given`** (the cause is unknown; here it is known and the complaint is the missing remedy). |
+
+🔑 **Round 640, The First Descendant batch 25.** Built under Rule C on the first sighting; `findphrase.py` on "same drops", "different drops", "afk ban" and "kicked for" found no earlier sighting (the one "same drops" hit is the inverse mode).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

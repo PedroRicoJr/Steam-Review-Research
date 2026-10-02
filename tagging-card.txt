@@ -1803,3 +1803,5 @@ game-design.ui-ux.the-preview-does-not-match-the-game | - | A colour, skin or it
 audio.sound-effects.an-irritating-noise-on-the-loading-screen | - | A repeated sound plays during loading screens and grates. **Distinct from `engineering.bugs.the-audio-breaks-a
 game-design.game-feel.movement.players-block-each-other | - | Players collide with each other's bodies and get in the way, which the reviewer calls pointless realism. **The
 game-design.game-feel.combat.carrying-an-objective-stops-you-shooting | - | Picking up a mission item takes away the player's weapons, even one-handed ones, and using a power drops it, s
+game-design.co-op-design.each-player-rolls-their-own-drops | - | Each squad member rolls separately for a drop, so one player's luck does nothing for the others and farming as
+engineering.access.an-automatic-ban-cannot-be-lifted | - | The game banned the player automatically - for idling, for example - and there is no way to appeal or undo it.
