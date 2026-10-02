@@ -11286,6 +11286,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 631, The First Descendant batch 16.** Built under Rule C on the first sighting; `findphrase.py` found no earlier sighting of skins that can only be bought, odds with no memory, or players lobbying for nerfs.
 
+## Modes added in The First Descendant batch 17 - round 632 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.you-join-another-players-mission-by-accident` | **−** | Fighting near another player's objective joins you to their mission without asking; the reviewer wants an invite to accept instead. **Distinct from `.puts-you-in-public-games-by-default`** (the lobby setting) **and from `.the-group-moves-on-before-you-can-choose`** (a group you already chose to join). |
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.a-weapon-type-uses-the-scarcest-ammo` | **−** | One weapon type draws on the ammo that is hardest to find, without hitting hard enough to be worth saving it for, so the type goes unused. **Distinct from `.a-weapon-fails-at-its-own-job`** (the weapon itself underperforms; here the ammo supply sinks it). |
+
+### `engineering.matchmaking`
+| Mode | | Definition |
+|---|---|---|
+| `.the-fight-starts-before-you-load-in` | **−** | A matched mission goes live before the player has control, so they arrive already hurt or dead. **Distinct from `engineering.servers.times-you-out-while-loading`** (the load fails) **and from `game-design.level-design.every-mission-starts-surrounded`** (the start is designed that way). |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.popular-only-because-nothing-else-is-out` | **−** | The reviewer says the game draws its players only because it launched when there was nothing else to play, not on its merits. **Distinct from `marketing.reputation.unlike-anything-else`** (+, nothing else is like it). |
+
+🔑 **Round 632, The First Descendant batch 17.** Built under Rule C on the first sighting; `findphrase.py` found no earlier sighting of joining a mission by accident, a weapon type starved of ammo, a fight that starts during the load, or a game popular only for lack of rivals.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
