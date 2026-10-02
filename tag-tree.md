@@ -11492,6 +11492,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 642, The First Descendant batch 27.** Built under Rule C on the first sighting; `findphrase.py` on "bad luck protection", "party finder" and "lfg" found no earlier sighting of either praise.
 
+## Modes added in The First Descendant batch 28 - round 643 (Rule C)
+
+### `publishing.price`
+| Mode | | Definition |
+|---|---|---|
+| `.not-adjusted-for-my-region` | **−** | Prices are set in one currency level for every country, so in the reviewer's region a purchase costs a large share of ordinary spending, and they ask for regional pricing. **Distinct from `.too-high-for-what-it-is`** (the price against the product; here against local means). |
+
+🔑 **Round 643, The First Descendant batch 28.** Built under Rule C on the first sighting; `findphrase.py` on "regional pric", "region" and "africa" found one earlier bullet that named a region (a premium game called not worth its price there, filed on `too-high-for-what-it-is`) and none asking for regional prices.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

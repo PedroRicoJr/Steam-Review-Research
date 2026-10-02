@@ -1812,3 +1812,4 @@ game-design.ui-ux.alert-badges-everywhere | - | After each mission the menus fil
 community.developer-communication.the-creator-programme-picks-the-wrong-people | - | The studio's content-creator programme accepts people who make no videos and turns away those who do, by the r
 game-design.randomness.bad-luck-protection-exists | + | The game guarantees a wanted drop after enough failed tries, so bad luck has an end. **The positive side of `.
 engineering.matchmaking.every-activity-has-matchmaking | + | Every multiplayer activity can be queued for, and a group finder sits inside the game, so nobody has to look f
+publishing.price.not-adjusted-for-my-region | - | Prices are set in one currency level for every country, so in the reviewer's region a purchase costs a large s
