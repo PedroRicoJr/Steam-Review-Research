@@ -11,7 +11,6 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | Cadence | **every 30 minutes** (Rico, 2026-09-25: the cloud-session credit pays for it, about $1 a firing). Re-create the timer as `7,37 * * * *`. **Standing order: run forever, never stop to ask - park decisions in OPEN-WITH-RICO.md.** |
 | In-session timer | **Not re-created** (Rico, 2026-09-28: the hourly Routine alone sets the pace). The old job `d037394b` (`7,37 * * * *`) is left to die with the session; if `CronList` is empty, carry on without it. |
 | Backstop | Routine `trig_01Va8fnQYvp4XU9rzChSjVaf`, hourly at :44 - now the only timer; renamed "Steam review research - hourly loop" and its prompt no longer asks to re-create the in-session timer (round 547) |
-| **Paused** | **Rico, 2026-10-03: "stop all agents and timer for today."** The Routine is disabled (enabled=false) and every helper is stopped. Turn the Routine back on only on Rico's word. |
 
 ## Where it stands
 
@@ -20,7 +19,6 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | Updated | 2026-10-03 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Roboquest (The First Descendant finished in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
 | Last unit done | Round 655: Roboquest batch 4 - 50 reviews read (1 excluded, empty), 4 modes built. (Round 654 was by hand on Rico's word: `templates/` and `DOMINION-TAKEAWAYS.md`.) |
-| Pending by hand | **Second pass on `DOMINION-TAKEAWAYS.md`** (Rico, 2026-10-03): update each game's entry from its rebuilt findings pages. All 27 games' findings pages and `cross-game.md` were rebuilt on `templates/` on 2026-10-03. |
 | Next unit | Roboquest batch 5 (50 reviews): `python3 summarise.py next --group roboquest/english --n 50` |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,832 tags |
