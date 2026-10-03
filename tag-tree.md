@@ -11610,6 +11610,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 655, Roboquest batch 4.** Built under Rule C on the first sighting. `findphrase.py` on "air strafe", "strafing", "slide hop" and "bhop" found no bullet on advanced movement feeling off; on "mutator" and "modifiers like" found only praise where modifiers exist; on "placeholder" found none on enemy looks; on "no animation" found none on other players' characters.
 
+## Modes added in Roboquest batch 5 - round 657 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.hard-without-being-sponges` | **+** | The enemies are hard because of how they fight, not because they take more damage, and the reviewer names that. **The positive side of `.bullet-sponges`** (−). |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.a-favourite-weapon-cannot-keep-up` | **−** | A weapon the player likes is outgrown within a stage or two and must be dropped, because nothing lets it be upgraded to keep pace. **Distinct from `game-design.power-balance.some-options-are-useless`** (a weapon is weak from the start). |
+
+### `narrative.world-and-setting`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-a-codex-of-the-world` | **−** | The reviewer asks for an in-game logbook of enemies, characters and places, so they can learn more about the world than play shows. **Distinct from `game-design.progression.complexity.no-need-to-leave-the-game-to-learn-it`** (+), where the reference is for learning to play. |
+
+🔑 **Round 657, Roboquest batch 5.** Built under Rule C on the first sighting. `findphrase.py` on "sponge" found only the complaint; on "abandon" and "outclassed" found none on a favourite weapon being outgrown; on "codex", "logbook" and "bestiary" found none asking for a world logbook.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
