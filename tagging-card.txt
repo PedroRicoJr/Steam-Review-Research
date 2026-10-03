@@ -1820,3 +1820,6 @@ game-design.progression.achievements.there-are-none | - | The game has no achiev
 marketing.discovery.played-a-pirated-copy-first | ~ | The reviewer says they first played a pirated copy and then bought the game. **Deliberately neutral**, like th
 game-design.level-design.the-jumping-sections-stay-light | + | The levels have jumping or platforming parts and the reviewer says they are few and easy enough not to get in 
 game-design.pacing.the-run-ends-just-as-the-build-comes-together | - | The run finishes at the point where the player's build has only just become strong, so the best part of each r
+game-design.progression.build-and-customisation.the-final-boss-dictates-the-build | - | The last boss is hard enough that the player must build the whole run around beating it, so the choices they e
+game-design.enemy-design.the-enemy-shots-can-be-dodged | + | Enemy fire travels and can be seen, with no instant-hit shooters, so the player can avoid damage by moving and
+game-design.power-balance.fighting-is-how-you-heal | + | Health comes back from attacking - drops from killed enemies, healing on a kill - so the game pushes the playe

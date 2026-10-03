@@ -11552,6 +11552,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 651, Roboquest batch 1.** Built under Rule C on the first sighting. `findphrase.py` on "achievement" found bullets on achievement sets that exist and one on a game with no levels and no achievements (filed on `nothing-accumulates`), none asking for achievements; on "pirat" found only advice to pirate and a note on pirated copies joining games; on "jumping puzzle" and "jumping" found only complaints and movement praise; on "build comes together" found one bullet on the payoff (on `reward-moment.the-payout-lands-well`), none on the run ending there.
 
+## Modes added in Roboquest batch 2 - round 652 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-final-boss-dictates-the-build` | **−** | The last boss is hard enough that the player must build the whole run around beating it, so the choices they enjoy along the way have to be given up. **Distinct from `game-design.power-balance.one-option-dominates`** (one choice beats the rest everywhere); here one fight decides the build. |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-enemy-shots-can-be-dodged` | **+** | Enemy fire travels and can be seen, with no instant-hit shooters, so the player can avoid damage by moving and names that as fair. **The positive side of `.hitscan-enemies-never-miss`** (−). |
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.fighting-is-how-you-heal` | **+** | Health comes back from attacking - drops from killed enemies, healing on a kill - so the game pushes the player forward rather than into cover. **The positive side of `.health-does-not-come-back-between-fights`** (−). |
+
+🔑 **Round 652, Roboquest batch 2.** Built under Rule C on the first sighting. `findphrase.py` on "final boss" found bullets on the last fight being unreadable, too hard or too easy and none on it forcing the build; on "hitscan" found only complaints; on "heal on kill", "lifesteal" and "recharge your health" found one build named in passing and none on healing from fighting.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
