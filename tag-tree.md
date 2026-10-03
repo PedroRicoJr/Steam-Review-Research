@@ -11724,6 +11724,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 663, Roboquest batch 11.** Built under Rule C on the first sighting. `findphrase.py` on "gamescom", "met the dev" and "in person" found nothing; on "not fitting", "doesn't fit" and "does not fit" found clashes of interface, sound effects and genre, none of music against the setting.
 
+## Modes added in Roboquest batch 12 - round 664 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.low-health-pushes-you-forward` | **+** | The game rewards pressing on while hurt instead of hanging back, and the reviewer names that as a good thing. **Distinct from `.fighting-is-how-you-heal`**, which names the mechanism (health coming back from attacking); this mode records the push forward when the reviewer does not say how it works. Roboquest 130372675. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-build-grows-between-runs-not-inside-them` | **−** | The character grows mostly through permanent upgrades bought between runs, and the reviewer counts that against it and wants choices inside a run to carry the build. **The opposite wish to `.wants-a-talent-tree-between-runs`.** Roboquest 129053909. |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.its-kind-of-game-is-rare` | **+** | The reviewer says few games of this kind exist - a first-person roguelike, say - and praises this one as a good example of it. **Distinct from `.co-op-is-rare-in-its-genre`** (co-op is what is rare) **and from `marketing.reputation.best-in-its-category`** (the top of a crowded field). Roboquest 131963767. |
+
+🔑 **Round 664, Roboquest batch 12.** Built under Rule C on the first sighting. `findphrase.py` on "low health", "pushing ahead", "push forward", "encourages push", "encourages aggress", "rewards aggress" and "while hurt" found only high-stakes escapes, friendly fire and a director handing out supplies, none of a game that rewards pushing on while hurt; on "rare breed", "are rare", "not many" and "few games" found nothing on a kind of game being rare; on "outside of run", "in a run, not", "inside the run", "between runs instead" and "permanent upgrade" found only wishes for more permanent upgrades and praise for them. A third mode drafted for this batch (health worn down over a run, 132391900's "health attrition") was not built: `findphrase.py` on "attrition" found nothing on it, and `power-balance.health-does-not-come-back-between-fights` already covers damage that stays taken with healing too scarce, so the bullet goes there.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

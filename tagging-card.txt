@@ -1848,3 +1848,6 @@ game-design.role-design.the-classes-are-stock-archetypes | - | The classes are f
 game-design.enemy-design.bosses-punish-melee | - | Bosses explode, ring themselves with damage or otherwise punish getting close, so a melee or close-range build
 community.developer-communication.met-the-developers-in-person | + | The reviewer met the developers face to face - at a trade show or event - and says they were good people. **Di
 audio.music.does-not-fit-the-setting | - | The reviewer says the music clashes with the game's theme or world, however good it is on its own. **Distinct 
+game-design.power-balance.low-health-pushes-you-forward | + | The game rewards pressing on while hurt instead of hanging back, and the reviewer names that as a good thing. 
+game-design.progression.build-and-customisation.the-build-grows-between-runs-not-inside-them | - | The character grows mostly through permanent upgrades bought between runs, and the reviewer counts that agains
+marketing.positioning.its-kind-of-game-is-rare | + | The reviewer says few games of this kind exist - a first-person roguelike, say - and praises this one as a goo
