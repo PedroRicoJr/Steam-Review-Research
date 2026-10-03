@@ -1,36 +1,47 @@
-<!-- reviewed: 2026-09-14 | status: active | SAMPLE, 1,885 of 239,309 English reviews read (0.79%), +/-2.64%; row 4 of the large-games queue; no patch notes pulled -->
+<!-- reviewed: 2026-10-03 | status: active | SAMPLE, 1,885 of 239,309 English reviews read (0.79%), +/-2.64%; row 4 of the large-games queue; no patch notes pulled | previously reviewed 2026-09-14 | rebuilt on templates/ 2026-10-03 -->
 
 # Risk of Rain 2 — English
 
 **A sample: 1,885 of 239,309 English reviews read, ±2.64% on any whole-sample share.** Grid month-sum
 239,309 against Steam's own English total of 239,276 on the day the row was added — the grid matches
-Steam to within 33 reviews. Figures are as of 2026-09-14.
+Steam to within 33 reviews. Figures are as of 2026-09-14 unless marked as today's script run
+(2026-10-03, section 8).
 
 **A third-person roguelite co-op shooter from Hopoo Games, published by Gearbox, in early access from
-2019-03 and at 1.0 from 2020-08.** The 3D sequel to *Risk of Rain* (2013). Gearbox bought the series
-from Hopoo in 2022 (the reviews date it); three paid expansions the reviews name (*Survivors of the
-Void*, *Seekers of the Storm* in 2024-08, *Alloyed Collective* in 2025-11). 352,630 reviews in all
-languages, 93.8% positive, *Very Positive*. The fourth game in the large-games queue, and the game
-every ArcRunner review named.
+2019-03 and at 1.0 from 2020-08.** The 3D sequel to *Risk of Rain* (2013). Each run starts weak; you
+pick up items (some from gambling shrines) until your character is far too strong, while a clock makes
+the enemies harder the longer you take; then you die and start again. Gearbox bought the series from
+Hopoo in 2022 (the reviews date it); three paid expansions the reviews name (*Survivors of the Void*,
+*Seekers of the Storm* in 2024-08, *Alloyed Collective* in 2025-11). Co-op is hosted on a player's
+machine (the pages show this through the disconnect and host-leaving complaints); the largest group
+size and the engine are not given on this page. 352,630 reviews in all languages, 93.8% positive,
+*Very Positive*. **The fourth game in the large-games queue, and the game every ArcRunner review
+named.** How close to Dominion (from `DOMINION-TAKEAWAYS.md`): close in shape — third-person, co-op,
+sci-fi, runs that build power and end, a player hosts the game. It differs in having no extraction
+(the run ends when you die or win). It is the best example in the corpus of a run loop players cannot
+put down.
 
 | | |
 |---|---|
 | Reviews on Steam for this group | **239,309** |
-| Reviews sampled and read | **1,885** (0.79%) |
+| Reviews sampled and read | **1,885** (0.79%) — 1,876 kept, 9 excluded |
 | Margin of error, whole sample | **±2.64%** (Rule 12, from the count actually pulled per month) |
 | Months covered | **91** — 2019-03 to 2026-09 |
-| Launch-month coverage | **2019-03: 5 of 5,307 (0.09%)** — early access opened 2019-03-28, so the month is four days long; **1.0 month 2020-08: 37 of 8,867 (0.42%)**; the biggest month is 2020-11, 9,159 on Steam, 39 read (0.43%) |
-| Tagged observations | **2,686** (1.42 per review) |
-| Bullets that said nothing specific (`unknown`) | **1,253, 47%** — 948 of them a bare thumbs up |
+| Heaviest weight | **Launch-month coverage: 2019-03, 5 of 5,307 (0.09%)** — early access opened 2019-03-28, so the month is four days long; **1.0 month 2020-08: 37 of 8,867 (0.42%)**; the biggest month is 2020-11, 9,159 on Steam, 39 read (0.43%) |
+| Tagged observations | **2,686** (1.42 per review; 1.43 per kept review in today's script run) |
+| Bullets that said nothing specific (`unknown`) | **1,253, 47%** — 948 of them a bare thumbs up (today's script run, after later retags: 1,175, 43.7%, 946) |
 | Observations with no home in the tree | **0** |
-| Not reviews of the game, excluded | **9** — 7 empty, 1 the Steam review-box placeholder, 1 invisible characters only |
-| Reviews with a later edit, flattened onto the created date | **223 (11.8%)** |
-| Thumbs up in the sample | **1,802 of 1,885 — 95.6%** (Steam, all languages: 93.8%) |
-| Distinct modes used | **240** — 8 of them appear in no other game |
+| Not reviews of the game, excluded | **9** — 7 empty, 1 the Steam review-box placeholder, 1 invisible characters only. *Today's grep finds the nine as: 4 empty, 1 the placeholder, 1 invisible characters only, 1 a pasted weather forecast, 1 a campaign slogan, 1 picture art made of Braille characters* (`71762601`, `76836259`, `86669122`, `94189672`, `114304262`, `123106034`, `163943879`, `200467174`, `229286336`) |
+| Reviews with a later edit, flattened onto the created date | **223 (11.8%)** of all files; 11.9% of kept reviews |
+| Written in Early Access | **364** read in 2019-03 to 2020-07 (363 kept) |
+| Thumbs up in the sample | **1,802 of 1,885 — 95.6%** (today's script run: 1,793 of 1,876, 95.6%; Steam, all languages: 93.8%) |
+| Distinct tags used | **240** modes — 8 of them appear in no other game (today's script run: 286 tags, 16 in no other game) |
+| Hours shown on the review | median **38**; **474** show 100+ and **5** show 1,000+; median **27** for the 83 thumbs down and **38** for the 1,793 thumbs up |
+| Written in another language than the Steam tag | **16** — Portuguese, Spanish, Russian, French, Polish, Turkish or Hungarian |
 
 ⚠️ **This is the thinnest sample in the queue and the flattest game.** 0.79% read, against 3.6% for
 Remnant II; every month after 2019 holds 20 to 39 reviews. The margin is fine for whole-sample shares
-(±2.64%) and useless for any single month. **Read the five periods in section 3, not the months.**
+(±2.64%) and useless for any single month. **Read the five periods in section 2, not the months.**
 
 ⚠️ **1.42 bullets per review is the lowest in the queue** (Remnant II 2.30, Space Marine 2 2.1). Half
 the reviews are one line — *good*, *peak*, *yes*, or a joke about the weather. **The game's reviewers
@@ -47,32 +58,40 @@ engineering), a **subject** (the thing being talked about), and a **mode** (what
 
 ---
 
-## 1. The short version
+## 1. In plain words
 
-**The most-recommended game in the queue, by people who mostly do not say why.** 95.6% thumbs up,
-15.9 complaints per 100 reviews (Remnant II 76, Space Marine 2 55–71), and 47% of everything said is
-`unknown`. When they do say why, it is one of four things, in this order: **it pulls you back**
-(`keeps-pulling-you-back`, 172 — *crack*, *addiction*, *one more loop*, *how do I have 40 hours*);
-**it is better with friends** (88); **the run makes you a god** (73 — *become god, die anyway, do it
-all again*); **the music** (71 — Chris Christodoulou is named more often than any developer in the
-corpus). Those four are 404 of the 1,953 praise bullets.
+**The most-recommended game in the queue, by people who mostly do not say why.** 95.6% of the sampled
+reviews are thumbs up, and there are only 15.9 complaints per 100 reviews (Remnant II 76, Space Marine 2
+55–71). Almost half of everything written (47%) raises a subject and says nothing about it, and 948
+reviews say *good* or *peak* and nothing else.
 
-**The complaint line is the lowest in the queue and it is not flat.** 22.5 per 100 in early access,
-13.0 after 1.0, **9.2 in 2022–23**, then **18.3 in 2024 and 19.0 in 2025–26**. The rise is the change
-of owner: `owner-puts-players-off` is 0 → 0 → 0.6 → **1.7** → 1.0 per 100 across the five periods, and
-`made-it-worse` peaks in 2024 at 1.7 with the *Seekers of the Storm* launch. **The thumb fell from 98%
-to 93%, which in this game is the biggest fall it has.**
+**When players do say why, it is one of four things, in this order.** It pulls you back like an
+addiction (172 times — *crack*, *one more loop*, *how do I have 40 hours*); it is better with friends
+(88); each run turns you from weak into a god (73 — *become god, die anyway, do it all again*); and the
+music (71 — the composer, Chris Christodoulou, is named more often than any developer in the study).
+Those four are 404 of the 1,953 good remarks.
 
-**One design fact carries the praise and the complaint both.** *You start weak and become a god* is
-the top specific praise (73). *Everything on screen just dies — is someone really playing when there
-is no point to user inputs?* is the same fact as a thumbs-down (`progression-outgrows-the-challenge`,
-1, at 247 hours). The screen chaos is `effects-block-your-view` (14, complaint 2 in the table) and it
-is written as a joke twelve times out of fourteen — *vision is overrated anyway*.
+**The top complaint is a thumbs down with nothing said, and the second is a screen so full of effects
+you cannot see** (14 times) — which players write as a joke twelve times out of fourteen. No complaint
+reaches 1 in 100 reviews over the whole sample.
 
-**The thing this game gives the tree** is the ownership pair. The reviews argue, in the same months,
-whether the new owner is a reason to stop buying (`owner-puts-players-off`, 11) or has since earned
-trust (`the-new-owner-is-accepted`, 6, built here) — and five more sit on `ownership.unknown` with a
-grudge and no verdict. Section 4.
+**Complaints come mostly from people who stayed.** 173 of the 299 complaint remarks (57.9%) are from
+people who recommend the game. The friend who grabs all the items is the oldest complaint, and 11 of
+the 12 who say it still recommend the game.
+
+**Complaints fell for five years, then the owner changed and they doubled.** 22.5 complaints per 100
+reviews in early access, 13.0 after release, 9.2 in 2022–23 — then 18.3 in 2024 and 19.0 in 2025–26.
+The rise is the new owner: players saying the owner puts them off went from none, to 0.6, to 1.7 per
+100 in 2024, then 1.0; an update made things worse peaked at 1.7 per 100 in 2024 with the *Seekers of
+the Storm* expansion. The thumbs up fell from 98% to 93% — in this game, the biggest fall it ever had.
+
+**One design fact carries the praise and a complaint.** Starting weak and becoming a god is the top
+specific praise (73). One player with 247 hours turned the same fact into a thumbs down: everything
+dies on its own, so *"is someone really playing the game when there is no point to user inputs?"*
+
+**The one surprise: the music is the only praise in the study that grows every year** (3.3 to 6.0 per
+100 reviews over seven years), while almost every other kind of praise shrinks because later players
+describe less.
 
 ---
 
@@ -95,6 +114,10 @@ grudge and no verdict. Section 4.
 | `narrative` | 23 | 0.9% |
 | `accessibility` | 2 | 0.1% |
 
+*Today's script run, after later retags: `review` 1,058, `game-design` 902, `community` 147,
+`publishing` 112, `marketing` 94, `audio` 78, `live-ops` 72, `art` 58, `narrative` 24, `accessibility`
+5; `engineering` and `production` unchanged.*
+
 **`review` at 39.5% is the highest in the corpus.** 948 bullets are a bare thumbs up with nothing
 attached, 34 are the same copied meme (*bungus*, *she risk on my rain*), 16 are in another language
 under the English tag, and 6 say the opposite of their thumb. **Four reviews in ten told the studio
@@ -103,12 +126,16 @@ nothing.**
 **`game-design` at 33.7% is where the real feedback lives**, and inside it the biggest subjects are
 replayability (176), progression (141), difficulty tuning (111), role design (103 — 60 of them a
 character named and nothing said: *acrid :)*, *Loader for life*), combat feel (79), enemy design (72
-— 44 of them an enemy named and nothing said) and randomness (62).
+— 44 of them an enemy named and nothing said) and randomness (62). When it is described, it is the run,
+then friends (90), then the music (76).
+
+**`community` at 5.4%** is friends (much better with friends 88) and mods (mods extend the game 31).
 
 **`engineering` at 3.1% is the lowest of any large game** (Space Marine 2 crashed; Remnant II
 demanded hardware). What there is, is player-hosted netcode: `frequent-disconnects` 10, `high-latency`
 1, `a-disconnect-loses-the-run` 2 — all of them since 2024. **`narrative` at 0.9% is the lowest in
-the corpus**; the lore is praised 12 times as *worth exploring* and never argued with.
+the corpus**; the lore is praised 12 times as *worth exploring* and never argued with. Nothing crashes,
+nothing is ugly.
 
 ### The twenty things said most often
 
@@ -136,16 +163,17 @@ the corpus**; the lore is praised 12 times as *worth exploring* and never argued
 | 24 | `game-design.randomness.unknown` | ~ |
 
 **Row 2 is 9.1 per 100 reviews and it is the highest `keeps-pulling-you-back` in the corpus.** The
-words are addiction words — *crack* (six times), *drugs*, *my wife left*, *I left my husband and
-kids*, *doom scrolling*, *risk of addiction* — and the thumb is up every time but one. **Row 7, the
-sequel framing, is an early-access number**: 8.5 per 100 in 2019–20, 2.7 after 1.0, and 0.4 or less
-since 2022. After 2021 nobody is comparing it to the first game; they are comparing it to nothing.
+words are addiction words — *crack* (six times), *drugs*, two jokes about leaving family for the game,
+*doom scrolling*, *risk of addiction* — and the thumb is up every time but one. **Row 7, the sequel
+framing, is an early-access number**: 8.5 per 100 in 2019–20, 2.7 after 1.0, and 0.4 or less since
+2022. After 2021 nobody is comparing it to the first game; they are comparing it to nothing.
 
 **Rows 6 and 8 are the character and the enemy named with no reason.** 60 reviews name a survivor
 (*Acrid*, *Loader*, *Huntress*, *Railgunner*, *MUL-T*) and 44 name an enemy (*blind pests*, *wisps*,
 *Elder Lemurians*, *Brass Contraptions*) and say nothing about either. **Fourteen name a hated enemy
 type and only one says why** — *one-shot by Brass Contraptions*. Every other one is *I hate those,
-remove them*.
+remove them*. *(Today's script run shows a later retag: `game-design.enemy-design.one-enemy-type-is-hated`
+now holds 12 and `enemy-design.unknown` 27.)*
 
 ### The complaints, in order
 
@@ -180,16 +208,22 @@ Per 100 reviews in each period: EA = 2019-03 to 2020-07 (364 read), V1 = 2020-08
 
 *Correction, round 470:* `review.thumb-contradicts-text` is a neutral tag (the thumb and the words disagree). A bug in `summarise.py card` carried it as a complaint until round 470, so it was counted here. It is struck out, not replaced, and the table above was not re-ranked.
 
-**The top complaint is a thumbs-down with nothing attached** — *no*, *bad*, *gyat*, *go away* — and
-it doubles in 2024. **Nothing in this game reaches 1 per 100 over the whole sample.** For scale,
-Remnant II's top complaint is 4.4 per 100 and Space Marine 2's is 7.1. Half of this table is a mode
-seen four to six times in 1,885 reviews; the table is the shape of the complaints, not their size.
+*Today's script run (section 8) differs after later retags: `game-design.enemy-design.one-enemy-type-is-hated`
+12 (a new mode, ranked 3rd), `effects-block-your-view` 12, `made-it-worse` 11, `one-hit-kills` 8;
+three modes enter its top 25 at 4 each — `production.content-amount.too-little`,
+`game-design.progression.complexity.requires-outside-research`, `publishing.ownership.dislikes-the-owner`;
+`buggy` drops out. The ranked page `risk-of-rain-2.md` adds two of these rows to complete its top 25.*
+
+**The top complaint is a thumbs-down with nothing attached** — *no*, *bad*, *go away* — and it doubles
+in 2024. **Nothing in this game reaches 1 per 100 over the whole sample.** For scale, Remnant II's top
+complaint is 4.4 per 100 and Space Marine 2's is 7.1. Half of this table is a mode seen four to six
+times in 1,885 reviews; the table is the shape of the complaints, not their size.
 
 **Rows 4, 5, 6, 15 are the ownership change, and they all start in the same place.** Zero in early
 access, zero after 1.0, and a 2024 peak: the owner (1.7), the disconnects (1.2), *made it worse*
 (1.7), the DLC not worth it (1.2). The 2024-08 and 2024-09 months are the two lowest thumbs in 91
 months (76.2% and 80.0%). **Row 6 falls back to 0.2 in 2025–26 while `fixed-what-mattered` and
-`made-it-better` take over** — *Gearbox mostly unf**ked it (after really f**king it)*. Section 4.
+`made-it-better` take over** — *Gearbox mostly unf**ked it (after really f**king it)*. Section 3.
 
 **Rows 2 and 3 are the two complaints that were there from the start and never left.** The screen
 chaos (row 2) is the game's own joke — *what is happening on my screen? 10/10*, *I'm overstimulated*,
@@ -204,6 +238,32 @@ second* (row 9), *too easy* (row 13) and *no tutorial, no explanations* (row 23)
 moments where it isn't and you die in a second… also the tutorial doesn't work, or maybe even exist."*
 The late reviewer is newer to the game, dies to the difficulty curve, and says the game did not tell
 them.
+
+**All complaint and all praise.** On the old count, **299 complaint bullets in 1,885 reviews, 173 of
+them from recommenders (57.9%)**, and 1,953 praise bullets, 948 of them a bare thumbs-up — praise to
+complaint 6.5 : 1. On today's script count (`review.*` included, the count `cross-game.md` section 25
+uses): **338 complaint bullets, 18.0 per 100; 1,967 praise bullets, 104.9 per 100; 5.8 : 1.** Of the
+ten games in that table only Crab Champions (18.7) and Deep Rock Galactic (23.7) are near it on
+complaints, and this game is the lowest of the ten; every other game is 33.1 or more (Gunfire Reborn
+33.1, EDF 5 38.9, Escape from Duckov 40.4, Warframe 50.9, Helldivers 2 55.5, ARC Raiders 56.7, The
+First Descendant 122.2). Its praise per 100 is eighth of the ten.
+
+**In plain words:**
+1. A thumbs down with nothing said — 22 times.
+2. The screen fills with so many effects you cannot see — 14 times, mostly as a joke.
+3. Teammates grab the items before you can — 12 times.
+4. The new owner of the series puts me off — 11 times.
+5. I keep getting disconnected — 10 times.
+6. An update made it worse — 10 times.
+7. It gets repetitive — 9 times.
+8. The frame rate jumps around — 8 times.
+9. You die in one hit — 7 times.
+10. It is hard to find the way to the next stage — 6 times.
+11. Only buy it on sale — 6 times.
+12. The item I need never shows up — 6 times.
+13. It is too easy — 6 times.
+14. The add-on was not worth the money — 6 times.
+15. Luck decides whether you win — 5 times.
 
 ### The praise, in order
 
@@ -232,6 +292,10 @@ them.
 | 21 | `game-design.game-feel.controls.responsive-and-clear` | **11** | 0.6 | **2.5** | 0.5 | 0.0 | 0.0 | 0.0 |
 | 22 | `live-ops.update-cadence.steady-stream` | **11** | 0.6 | 0.8 | 0.8 | 0.8 | 0.0 | 0.2 |
 
+*Neutral tags left out because they are neither praise nor complaint: the `.unknown` modes for role
+design (60), enemy design (44), difficulty (30) and randomness (24), and the copied meme (34). The bare
+thumbs up (`review.positive.unknown`, 948) is left out of this table; today's script ranks it first.*
+
 **Praise per 100 falls from 120 to 95 across the seven years, and it is the specific praise that goes.**
 Rows 1, 2, 5, 9, 11, 13, 15 and 21 all peak in early access. The 2019 reviewer explains the game —
 *a true sequel*, *good value while unfinished*, *the controls are tight*, *fun solo* — because in 2019 it
@@ -248,7 +312,112 @@ three *worth it* and no thumbs-down.
 slow, gain power, become god, die anyway, do it all again*. It halves by 2025–26, not because the fact
 changed but because the 2025 reviewer says *peak* instead of describing it.
 
-### ⭐ The god run: 73 say it is the point, one says it is the problem, 14 say it blinds them
+**In plain words:**
+1. It keeps pulling you back, like an addiction — 172 times.
+2. Much better with friends — 88 times.
+3. Each run turns you from weak into a god — 73 times.
+4. The music fits the game — 71 times.
+5. A true sequel to the first game — 44 times, almost all in early access.
+6. Hard in a good way — 44 times.
+7. Unlocking things feels good — 39 times.
+8. Each character plays its own way — 37 times.
+9. It works fine alone — 34 times.
+10. Fan-made mods add to the game — 31 times.
+11. The price is fair — 30 times.
+12. Builds are deep and varied — 29 times.
+13. The randomness keeps it fresh — 26 times.
+14. The add-ons are fair — 26 times.
+15. Good value even while unfinished — 18 times, all in early access.
+
+### Praise and complaint per 100, by period
+
+| Period | Reviews | Thumbs up | Praise/100 | Complaint/100 | Mean hours | Edited |
+|---|---|---|---|---|---|---|
+| 2019-03 to 2020-07 (early access) | 364 | 96.2% | **119.8** | **22.5** | 63 | 70 |
+| 2020-08 to 2021-12 (1.0) | 376 | **98.4%** | 115.7 | 13.0 | 78 | 56 |
+| 2022 to 2023 | 489 | 96.1% | 96.7 | **9.2** | 92 | 47 |
+| 2024 (Seekers of the Storm) | 241 | **92.9%** | **90.0** | 18.3 | 100 | 25 |
+| 2025-01 to 2026-09 | 415 | 93.5% | 94.5 | 19.0 | 77 | 25 |
+
+*Today's script run (kept reviews only, `review.*` left out of praise and complaint): EA 363 reviews,
+96.1%, praise 79.6, complaints 24.0; V1 373, 98.4%, 64.1, 14.5; 2022–23 487, 96.1%, 44.1, 10.7; 2024
+240, 92.9%, 47.5, 19.2; 2025–26 413, 93.5%, 39.7, 18.6. The five periods (241 to 489 reviews each)
+carry ±5 to ±6.*
+
+**Everything falls together and then the complaint line turns.** Praise per 100 goes 120 → 116 → 97 →
+90 → 95: the reviewer says less every year. Complaint per 100 goes 22.5 → 13.0 → 9.2 — the early-access
+bugs and the missing content being fixed — **and then doubles to 18.3 in the year the owner's expansion
+shipped, and stays there.** The thumb follows the complaint line, not the praise line. **The early
+access period is the one with the most to say and the most to complain about: 4.9 per 100 said *good
+value while unfinished* and 4.1 said they were waiting for promised content**, and both are zero from
+1.0 on.
+
+**Rose:** the music (3.3 → 6.0 per 100); the DLC being fair (0 → 2.2); the owner putting people off (0
+→ 1.0, via a 1.7 peak); disconnects (0 → 1.0); *too easy* and *you die in a second* and *no tutorial*
+(each 0 → 1.0); reviews written in another language (0.3 → 1.4); the bare thumbs-up (24% of bullets →
+42%).
+
+**Fell:** the sequel framing (8.5 → 0); *good value while unfinished* (4.9 → 0); *waiting for promised
+content* (4.1 → 0); *the controls are tight* (2.5 → 0); *better with friends* (7.7 → 2.9); *pulls you
+back* (11.5 → 6.5); the god run (6.9 → 1.7); *satisfyingly hard* (3.2 → 1.4); *works solo* (3.0 → 1.0);
+the price being fair (2.7 → 0.5); explained by naming other games (2.5 → 0).
+
+**The pattern is one pattern: the early-access reviewer described the game, and the 2026 reviewer
+does not.** Every mode that fell is a description; the modes that rose are the music (which is
+quoted, not described), the owner (news, not play), and the three complaints of a newer player.
+
+---
+
+## 3. ⭐ The ownership problem: one sale, two years of argument, and a mode built for the other side
+
+**Gearbox is named in 35 reviews, and the argument starts before the expansion.** The first line on
+its own date is 2023-01-07 (130388821): *"The devs sold out to Gearbox, the game has no future."*
+Before it, every Gearbox line in the sample is a 2024–2026 edit flattened onto a 2019–2023 date — the
+flattening rule (open with Rico) puts 15 of the 35 in the wrong period. **Read the per-period numbers
+in the tables with that in mind: `owner-puts-players-off` at 0.6 per 100 in 2022–23 is partly 2024
+speaking.**
+
+**The sample holds the same fact across four homes and a tally:**
+
+| Home | Count | What it says |
+|---|---|---|
+| `publishing.ownership.owner-puts-players-off` (−) | 11 | *"For as long as Gearbox has the IP I could never recommend this."* — *"Boycott Gearbox. Hopoo sold their soul."* — and one jab at the publisher's chief executive |
+| `publishing.ownership.the-new-owner-is-accepted` (+), **built here** | 6 | *"Gearbox had me scared with SOTS, but they fixed it and made the practically bugless Alloyed Collective; they've earned my trust."* — two more answer the put-off side with a jab at it |
+| `publishing.ownership.unknown` (~) | 5 | *"top 3 favourite games of all time despite gearbox existing"* — *"a greasy publisher owned by a very scummy company"* (under a thumbs-up) — and one jab at the chief executive |
+| `live-ops.patch-quality.made-it-worse` (−) | 10 | *"unplayable and basically ruined; Aliens Colonial Marines-level garbage all over again"* (2024-08-31) — *"I don't even have the DLC and they've introduced bugs from it."* |
+| `fixed-what-mattered` + `made-it-better` (+) | 16 + 4 | *"Gearbox mostly unf**ked it (after really f**king it)"* — *"was good, then bad, now it's good again"* |
+
+*Today's script run also shows `publishing.ownership.dislikes-the-owner` (4) and
+`the-new-owner-cares-less-than-the-makers` (1), built after this page was written.*
+
+**The two sides do not argue about the facts; they argue about whether the repair counts.** Both
+sides say *Seekers of the Storm* shipped broken (six `dlc-not-worth-it`, all 2024–26, against 26
+`dlc-is-fair`, most of them the earlier expansion). Both sides say the fixes came. The put-off side
+says the fixes prove the point — *"You need a roadmap for bug fixes because you did a quick cash grab
+on a DLC that was nowhere near ready"* (189635801, 6 helpful) — and the accepted side says the fixes
+are the trust — *"the game is now in good hands, and I'm willing to wait and see"* (181186472). **The
+tree could hold only the first side until this run; the second side was six praise lines with nowhere
+to go, and `the-new-owner-is-accepted` is the twin built for them (round 357).**
+
+**The 2025 EULA is the second act and it has three lines, in order.** 193373656 (2025-04-22, 10
+helpful, thumbs-down): *"Nice EULA change, tracking user information such as passwords, addresses,
+phone numbers, and IP addresses"* — `collects-more-than-expected`. 196109434 (2025-05-31, 9 helpful,
+thumbs-down): *"Added EULA that I have no intent of accepting after I bought the game. Now I cannot play
+the game nor refund it"* — `a-consent-wall-was-added-after-purchase`, built in this run on two earlier
+sightings (round 358) and waiting for exactly this line. 196660257 (edited 2026-07): *"Changing my
+review as they seem to have removed/not acted on their new EULA"* — `the-thumb-was-flipped-from-its-
+first-verdict`. **The wall went up, two of the ten most-helped reviews in the sample said so, and the
+wall came down** — as the reviewers tell it; the terms themselves were not checked. The most-helpful
+review in the sample is a joke (324 votes, thumbs-up, 2026-02).
+
+**What the numbers say for a studio:** the owner's name cost this game two points of thumb and doubled
+a complaint line that had been falling for five years — and the repair, eighteen months on, has the
+thumb at 93–96% again but has not brought the complaint line back down. **The people who were put off
+did not come back to say so; the people who stayed say *fixed*.** The reviews do not blame the design;
+they blame the publisher's other games (*Aliens: Colonial Marines*, *Borderlands*) and carry that blame
+into the EULA change a year later (master page).
+
+## 3. ⭐ The god run: 73 say it is the point, one says it is the problem, 14 say it blinds them
 
 **`makes-you-feel-superhumanly-strong` (73) is the specific praise the game was built for**, and the
 reviews describe the same arc every time: weak, scavenging, then *"everything dies without you inputting
@@ -266,9 +435,11 @@ just an epileptic crisis*, thumbs-down, 2020-02). **One review asks
 for an epilepsy warning** (152614012: *"there should definitely be an epilepsy warning somewhere in
 the game"*) and one jokes about it; the ask is on `accessibility.vision.unknown` waiting for a second.
 
----
+The cross-game read sets this beside Space Marine 2, where the mode was built (64 land, 13 do not):
+**in Space Marine 2 the inverse was the fiction not delivered; here it is the fiction delivered so
+completely that the player stops playing** (`cross-game.md` section 19).
 
-## 3. Month by month, against true Steam volume
+## 3. ⭐ Month by month, against true Steam volume
 
 | Month | On Steam | Read | % | Thumbs up | Bullets/rev | Praise/100 | Complaint/100 | Mean hours | Edited |
 |---|---|---|---|---|---|---|---|---|---|
@@ -381,122 +552,141 @@ not fallen in seven years — 2026-08 holds 1,043.
 five years, then 93% in 2024 and 93% in 2025–26. In a game this positive, two points is the biggest
 move it has, and it is the change of owner.
 
-### Praise and complaint per 100, by period
+---
 
-| Period | Reviews | Thumbs up | Praise/100 | Complaint/100 | Mean hours | Edited |
-|---|---|---|---|---|---|---|
-| 2019-03 to 2020-07 (early access) | 364 | 96.2% | **119.8** | **22.5** | 63 | 70 |
-| 2020-08 to 2021-12 (1.0) | 376 | **98.4%** | 115.7 | 13.0 | 78 | 56 |
-| 2022 to 2023 | 489 | 96.1% | 96.7 | **9.2** | 92 | 47 |
-| 2024 (Seekers of the Storm) | 241 | **92.9%** | **90.0** | 18.3 | 100 | 25 |
-| 2025-01 to 2026-09 | 415 | 93.5% | 94.5 | 19.0 | 77 | 25 |
+## 4. What the sample says about the design itself
 
-**Everything falls together and then the complaint line turns.** Praise per 100 goes 120 → 116 → 97 →
-90 → 95: the reviewer says less every year. Complaint per 100 goes 22.5 → 13.0 → 9.2 — the early-access
-bugs and the missing content being fixed — **and then doubles to 18.3 in the year the owner's expansion
-shipped, and stays there.** The thumb follows the complaint line, not the praise line. **The early
-access period is the one with the most to say and the most to complain about: 4.9 per 100 said *good
-value while unfinished* and 4.1 said they were waiting for promised content**, and both are zero from
-1.0 on.
-
-### What rose and what fell
-
-**Rose:** the music (3.3 → 6.0 per 100); the DLC being fair (0 → 2.2); the owner putting people off (0
-→ 1.0, via a 1.7 peak); disconnects (0 → 1.0); *too easy* and *you die in a second* and *no tutorial*
-(each 0 → 1.0); reviews written in another language (0.3 → 1.4); the bare thumbs-up (24% of bullets →
-42%).
-
-**Fell:** the sequel framing (8.5 → 0); *good value while unfinished* (4.9 → 0); *waiting for promised
-content* (4.1 → 0); *the controls are tight* (2.5 → 0); *better with friends* (7.7 → 2.9); *pulls you
-back* (11.5 → 6.5); the god run (6.9 → 1.7); *satisfyingly hard* (3.2 → 1.4); *works solo* (3.0 → 1.0);
-the price being fair (2.7 → 0.5); explained by naming other games (2.5 → 0).
-
-**The pattern is one pattern: the early-access reviewer described the game, and the 2026 reviewer
-does not.** Every mode that fell is a description; the modes that rose are the music (which is
-quoted, not described), the owner (news, not play), and the three complaints of a newer player.
+- **Co-op and online play.** Better with friends 88; works alone 34. **The co-op is per-player loot in
+  a shared arena, and the sample says it once a batch for seven years.** `teammates-can-take-your-things`
+  is 12, from *"I really wish my teammates would stop taking all the items"* to *"NO ITEM SHARING IN
+  MULTIPLAYER WHICH IS A PROBLEM… many mods fix this."* The thumb is up in 11 of 12. **It is the one
+  design complaint that is older than the owner and that the owner did not touch.** Player hosting
+  shows its cost late: frequent disconnects 10 (since 2024), a disconnect loses the run 2, the host
+  leaving ends everyone's run 1, high latency 1, a crash loses the run 4, cannot save and come back 4.
+  One review says the weaker teammate resents the power gap; one says the loot does not grow with the
+  group; one asks for LAN play. Friendly fire: one line in 1,885 (81298981). Crossplay: one Linux
+  crossplay bug. **Matchmaking, cheating and strangers: nothing said on this page.**
+- **Combat and feel.** The god run 73 — weak at the start, unstoppable by the end (section 3). Tight,
+  clear controls 11 (2.5 per 100 in early access, then zero). Screen clutter: the effects block your
+  view 14; one asks for an epilepsy warning. When power outgrows the game, play stops needing input (1
+  review, 247 hours). One review: an attack you cannot see coming. One: a skill stops working.
+  **Stuns and loss of control: nothing said on this page.**
+- **Movement and controls.** Tight, clear controls 11, all but a few in early access. **Nothing else
+  said on this page** about speed, sprint, jump, controllers or rebinding.
+- **Enemies, bosses and difficulty.** **The difficulty argument is three-sided and the sides do not
+  meet.** 44 *satisfyingly hard*; 6 *too easy* (all thumbs-down or *2 ez*); 30 raise it and say nothing
+  (*Risk of Pain*, *let me beat a Monsoon run on Merc*); clear difficulty steps 15. The 2025–26 reviewer
+  is the one who says *too easy* AND *you die in a second* — the timer's difficulty climb read as a
+  spike by someone who has not learned to read it. **`the-clock-is-the-thrill` was built in this run
+  (round 362) for the five reviews across two games that name the timer as the fun**, against
+  `a-clock-decides-when-you-leave` where it is an imposition. One-hit kills 7. 44 reviews name an
+  enemy and say nothing; 14 name a hated enemy and only one says why. One: the boss arena can roll
+  badly.
+- **Progression, loot and randomness.** **The run is the product, and the run is a slot machine the
+  reviewers know is a slot machine.** 62 randomness bullets: 26 say the randomness keeps it fresh, 24
+  name a gamble and say nothing (*Shrine of Chance* ×5, *let's go gambling*, *just one more lunar
+  roll*), 6 say the thing they need never rolls, 5 say luck decides. **Three of the six *never rolls*
+  lines are about unlocks, not items** — an achievement gated on a key that spawns by chance, a
+  survivor whose unlock needs *luck on three factors plus the final boss in the riskiest way, one
+  chance* — and the tree keeps them on the item mode because its own words cover a *goal* placed by
+  chance. **The unlocks are praised 39 times and gated behind the hardest content twice** —
+  `the-strongest-options-are-locked-behind-challenges`, built here (round 358): *"the essential items
+  are locked behind hard challenges, so the player who needs them most can't get them."* Deep builds
+  29; deep once learned 13; grindy 5; nothing left to chase 4. Item complaints are tiny: some items are
+  trash (1), stacking falls off (1). **The starter is the wrong survivor and two reviews say so, one
+  built a mode.** *"Commando is extremely boring and the game forces you to play him for hours"* built
+  `stuck-with-the-worst-starter` (round 364); *"commando sukz"* is the second; and the run's last batch
+  holds a defence of him, written as an insult to the people who call him the worst.
+- **Runs, content and replay.** Pulls you back 172 — the strongest in the corpus. Repetitive 9;
+  levels too small 2; the early stages of every run are dull 2; the way onward is hard to find 6;
+  cannot save mid-run 4; a crash or disconnect loses the run. Mods extend the game 31. One worries the
+  content will run dry.
+- **Money and price.** Price fair 30 against too high 2; buy on sale only 6. DLC fair 26 (much of it
+  the first expansion) against DLC not worth it 6 (all about the 2024 expansion, which both sides say
+  shipped broken); one says a weaker add-on is still welcome. Good value while unfinished 18 (early
+  access). One review each: the DLC price as a caveat; the DLC does not fit the theme; buying copies
+  for friends.
+- **Tech.** 3.1% of all remarks, the lowest of any large game. Unstable frame rate 8; buggy 4; a crash
+  loses the run 4; disconnects 10. Nothing is said about the platform until 2025 (Steam Deck broken ×1,
+  Mac via Whisky ×1, Linux crossplay bug ×1). One 16 GB RAM line; one Mac request; one objective that
+  spawns inside the scenery.
+- **The studio and the community.** The owner change and the EULA (section 3). Updates regular 11;
+  fixed what mattered 16; made it better 4; made it worse 10. Mods extend the game 31; mods fixed what
+  the patch broke 2; one update broke the mods. The music and composer are the community's quotable
+  thing; a copied meme in 34 reviews. **Nothing is said about the story** (23 narrative bullets in
+  1,885 reviews; 12 *worth exploring*, 0 against).
+- **What players asked for.** Item sharing in multiplayer (in the 12 "teammates take the items"
+  complaints); a tutorial and explanations (4, all 2025–26); remove hated enemies (14 name one); an
+  epilepsy warning (1); save and come back mid-run (4); bigger levels with more to find (2); a different
+  starter survivor (2); a Mac version (1); LAN play (1).
 
 ---
 
-## 4. ⭐ The ownership problem: one sale, two years of argument, and a mode built for the other side
+## 5. For Dominion — our reading
 
-**Gearbox is named in 35 reviews, and the argument starts before the expansion.** The first line on
-its own date is 2023-01-07 (130388821): *"The devs sold out to Gearbox, the game has no future."*
-Before it, every Gearbox line in the sample is a 2024–2026 edit flattened onto a 2019–2023 date — the
-flattening rule (open with Rico) puts 15 of the 35 in the wrong period. **Read the per-period numbers
-in the tables with that in mind: `owner-puts-players-off` at 0.6 per 100 in 2022–23 is partly 2024
-speaking.**
+**These are suggestions drawn from what players said, not something the reviews said.** Dominion is a
+third-person, four-player co-op sci-fi PvE extraction and arena shooter built on runs, hosted on one
+player's machine (listen server), in Unreal Engine 5.
 
-**The sample holds the same fact across four homes and a tally:**
-
-| Home | Count | What it says |
-|---|---|---|
-| `publishing.ownership.owner-puts-players-off` (−) | 11 | *"For as long as Gearbox has the IP I could never recommend this."* — *"Boycott Gearbox. Hopoo sold their soul."* — *"Ask SEGA about the grifter in chief of this publisher."* |
-| `publishing.ownership.the-new-owner-is-accepted` (+), **built here** | 6 | *"Gearbox had me scared with SOTS, but they fixed it and made the practically bugless Alloyed Collective; they've earned my trust."* — *"'gearbox bad' — cope."* — *"a purist fooling yourself."* |
-| `publishing.ownership.unknown` (~) | 5 | *"top 3 favourite games of all time despite gearbox existing"* — *"look up Randy Pitchford USB"* — *"a greasy publisher owned by a very scummy company"* (under a thumbs-up) |
-| `live-ops.patch-quality.made-it-worse` (−) | 10 | *"unplayable and basically ruined; Aliens Colonial Marines-level garbage all over again"* (2024-08-31) — *"I don't even have the DLC and they've introduced bugs from it."* |
-| `fixed-what-mattered` + `made-it-better` (+) | 16 + 4 | *"Gearbox mostly unf**ked it (after really f**king it)"* — *"was good, then bad, now it's good again"* |
-
-**The two sides do not argue about the facts; they argue about whether the repair counts.** Both
-sides say *Seekers of the Storm* shipped broken (six `dlc-not-worth-it`, all 2024–26, against 26
-`dlc-is-fair`, most of them the earlier expansion). Both sides say the fixes came. The put-off side
-says the fixes prove the point — *"You need a roadmap for bug fixes because you did a quick cash grab
-on a DLC that was nowhere near ready"* (189635801, 6 helpful) — and the accepted side says the fixes
-are the trust — *"the game is now in good hands, and I'm willing to wait and see"* (181186472). **The
-tree could hold only the first side until this run; the second side was six praise lines with nowhere
-to go, and `the-new-owner-is-accepted` is the twin built for them (round 357).**
-
-**The 2025 EULA is the second act and it has three lines, in order.** 193373656 (2025-04-22, 10
-helpful, thumbs-down): *"Nice EULA change, tracking user information such as passwords, addresses,
-phone numbers, and IP addresses"* — `collects-more-than-expected`. 196109434 (2025-05-31, 9 helpful,
-thumbs-down): *"Added EULA that I have no intent of accepting after I bought the game. Now I cannot play
-the game nor refund it"* — `a-consent-wall-was-added-after-purchase`, built in this run on two earlier
-sightings (round 358) and waiting for exactly this line. 196660257 (edited 2026-07): *"Changing my
-review as they seem to have removed/not acted on their new EULA"* — `the-thumb-was-flipped-from-its-
-first-verdict`. **The wall went up, two of the ten most-helped reviews in the sample said so, and the
-wall came down.**
-
-**What the numbers say for a studio:** the owner's name cost this game two points of thumb and doubled
-a complaint line that had been falling for five years — and the repair, eighteen months on, has the
-thumb at 93–96% again but has not brought the complaint line back down. **The people who were put off
-did not come back to say so; the people who stayed say *fixed*.**
-
----
-
-## 5. What the sample says about the design itself
-
-**The run is the product, and the run is a slot machine the reviewers know is a slot machine.** 62
-randomness bullets: 26 say the randomness keeps it fresh, 24 name a gamble and say nothing (*Shrine of
-Chance* ×5, *let's go gambling*, *just one more lunar roll*), 6 say the thing they need never rolls, 5
-say luck decides. **Three of the six *never rolls* lines are about unlocks, not items** — an achievement
-gated on a key that spawns by chance, a survivor whose unlock needs *luck on three factors plus the
-final boss in the riskiest way, one chance* — and the tree keeps them on the item mode because its own
-words cover a *goal* placed by chance.
-
-**The co-op is per-player loot in a shared arena, and the sample says it once a batch for seven
-years.** `teammates-can-take-your-things` is 12, from *"I really wish my teammates would stop taking
-all the items"* to *"NO ITEM SHARING IN MULTIPLAYER WHICH IS A PROBLEM… many mods fix this."* The
-thumb is up in 11 of 12. **It is the one design complaint that is older than the owner and that the
-owner did not touch.**
-
-**The difficulty argument is three-sided and the sides do not meet.** 44 *satisfyingly hard*; 6 *too
-easy* (all thumbs-down or *2 ez*); 30 raise it and say nothing (*Risk of Pain*, *let me beat a Monsoon
-run on Merc*). The 2025–26 reviewer is the one who says *too easy* AND *you die in a second* — the
-timer's difficulty climb read as a spike by someone who has not learned to read it. **`the-clock-is-
-the-thrill` was built in this run (round 362) for the five reviews across two games that name the
-timer as the fun**, against `a-clock-decides-when-you-leave` where it is an imposition.
-
-**The starter is the wrong survivor and two reviews say so, one built a mode.** *"Commando is extremely
-boring and the game forces you to play him for hours"* built `stuck-with-the-worst-starter` (round
-364); *"commando sukz"* is the second; and the run's last batch holds the defence — *"I'm going to end
-this world if another pathetic pig of a human being says that commando is somehow the worst character."*
-
-**The unlocks are praised 39 times and gated behind the hardest content twice** —
-`the-strongest-options-are-locked-behind-challenges`, built here (round 358): *"the essential items are
-locked behind hard challenges, so the player who needs them most can't get them."*
-
-**Nothing is said about the story** (23 narrative bullets in 1,885 reviews; 12 *worth exploring*, 0
-against) and nothing about the platform until 2025 (Steam Deck broken ×1, Mac via Whisky ×1, Linux
-crossplay bug ×1).
+1. **Make the run loop short and "one more go".** Evidence: pulls you back 172 (9.1 per 100, the
+   corpus high); *one more loop*. Dominion could: keep runs short enough to start another, put the
+   restart one button away, and end each run with a hook (a new unlock, a near-miss). Strength:
+   **strong**.
+2. **Let players go from weak to god inside one run — but keep them playing.** Evidence: the god run
+   73; 35 use the word *god*; one 247-hour reviewer says it turns into an idle game. Dominion could: let
+   power snowball within a run, but keep the end of a run (extraction, the arena finale) asking for
+   skill — rising threats, a timer, a final fight that power alone does not win. Strength: **strong**.
+3. **Cap screen clutter and add an effects option and a seizure warning.** Evidence: effects block
+   your view 14 (the second complaint); two real complaints mention fits; one asks for an epilepsy
+   warning. Dominion could: let players turn down teammates' effects, keep enemy attacks readable above
+   the clutter, ship a photosensitivity warning. Strength: **medium**.
+4. **Decide loot sharing on purpose; do not let a fast teammate take everything.** Evidence: teammates
+   take the items 12, steady for seven years, fixed by mods. Dominion could: give each player their own
+   drops, or show who claimed what, or split extraction loot fairly. Strength: **medium** (small count,
+   but steady, and it matters more with extraction loot).
+5. **On a player-hosted game, protect the run from drops.** Evidence: disconnects 10 (since 2024), a
+   disconnect loses the run 2, the host leaving ends everyone's run 1, a crash loses the run 4, cannot
+   save and come back 4. Dominion could: let a dropped player rejoin a running game; consider host
+   migration or at least save each player's run state when the host leaves; allow suspend-and-resume.
+   Strength: **medium** (small counts, but exactly Dominion's listen-server risk).
+6. **Music is worth real money.** Evidence: the music 71, the only praise in the corpus that keeps
+   rising; the composer named more than any developer. Dominion could: hire a strong composer, build
+   tracks that rise with the run, make them quotable. Strength: **strong**.
+7. **Never change the deal after people bought it.** Evidence: the terms wall (*"now I cannot play the
+   game nor refund it"*, 9 helpful) and the data complaint (10 helpful) were two of the most-helped
+   thumbs-down; the owner's name cost two points. Dominion could: keep terms, data use and accounts the
+   same as on day one; do not add a sign-in or consent screen later. Strength: **medium**.
+8. **Ship expansions finished; a broken one costs more than it earns.** Evidence: 2024 complaints
+   doubled (9.2 to 18.3 per 100); patch made it worse 1.7 per 100; DLC not worth it 6 against DLC fair
+   26; the line never came back down. Dominion could: test DLC and big updates on the base game too
+   (one reviewer got bugs without the DLC); delay rather than ship broken. Strength: **medium**.
+9. **Teach new players, and put a good character first.** Evidence: no tutorial 4, too easy 6,
+   one-hit kills 7 — all rising together in 2025–26; stuck with the worst starter 2; the early stages
+   dull 2; the way onward hard to find 6. Dominion could: add a short tutorial run, make the first class
+   fun, mark the exit or objective clearly, and make the first minutes of a run interesting. Strength:
+   **medium**.
+10. **Support mods.** Evidence: mods extend the game 31; mods fixed what a patch broke 2; the
+    item-sharing fix is a mod. Dominion could: plan for mod support or at least private-match options,
+    and do not break mods with every patch. Strength: **medium**.
+11. **Let randomness feel like a fun gamble, but never gate unlocks on luck.** Evidence: randomness
+    keeps it fresh 26, gambles named 24; but never drops 6 (three of them unlocks gated on chance), luck
+    decides 5, the strongest items locked behind hard challenges 2. Dominion could: put gambling shrines
+    in runs for items, but give unlocks a sure path. Strength: **medium**.
+12. **A clock that raises the danger can be the thrill.** Evidence: the timer is the thrill 4 (plus 3
+    in Rogue Core, where the clock is also the top argument). Dominion could: test a rising-threat clock
+    in runs, with clear warnings as it climbs. Strength: **weak**.
+13. **Early access works when it is honest and fast.** Evidence: good value while unfinished 4.9 per
+    100 in early access; fixed what mattered 2.2; tight controls 2.5; complaints fell 22.5 to 9.2 per
+    100 over five years. Dominion could: if it goes into early access, sell it as unfinished, fix the
+    top issues fast, and say what is coming. Strength: **medium**.
+14. **Characters are identity; make each one play differently.** Evidence: each survivor plays its own
+    way 37; 60 just name a favourite. Dominion could: give each class a distinct feel and a
+    fan-favourite personality. Strength: **medium**.
+15. **If Dominion is ever sold or partnered, the partner's name becomes part of the review.** Evidence:
+    the owner change was the biggest event in this game's score. Strength: **weak** for design; noted
+    for business.
+16. **Watch the text, not just the score.** Evidence: 47% of remarks say nothing; the 2024 rise shows
+    first in specific complaints. Strength: **medium**.
 
 ---
 
@@ -526,6 +716,9 @@ thrill` and `the-action-never-stops` are approving twins of `a-clock-decides-whe
 had no + twin. **Lesson recorded twice (rounds 362, 372): a praise line on a − mode is a build, not a
 note.**
 
+**A 0.79% sample built 12 modes in 38 batches** — 0.3 per batch, against Remnant II's 1.5. The rate
+tracks how much the reviewer says (`cross-game.md` section 19).
+
 **Re-homed during batches 13–38:** 13 files, including three DRG: Rogue Core reviews, one Aliens:
 Fireteam Elite, one Arcrunner, one Terminull Brigade.
 
@@ -534,6 +727,16 @@ warning; the weak teammate who resents the power gap; the promised content that 
 date; buying copies for friends; the DLC that does not fit the theme; an attack you cannot see coming;
 the DLC price as a caveat; a 16 GB RAM line; a Mac request; *"the first game had X"* (five lines,
 tally open with Rico).
+
+**Used here and in no other game, today's script run (16):** `the-new-owner-is-accepted` 6,
+`publishing.ownership.dislikes-the-owner` 4, `a-consent-wall-was-added-after-purchase` 3,
+`the-strongest-options-are-locked-behind-challenges` 2, `mods-fix-what-the-patch-broke` 2, and one each
+of `the-new-owner-cares-less-than-the-makers`, `a-weaker-add-on-still-welcome`,
+`worried-it-will-run-dry`, `defends-a-character-others-call-weak`, `the-boss-arena-can-roll-badly`,
+`the-loot-does-not-grow-with-the-group`, `the-objective-spawns-inside-the-scenery`,
+`a-skill-stops-working`, `no-lan-play`, `an-update-broke-the-mods`, `weaker-teammates-resent-your-power`.
+Some of the twelve modes built in this run have since been used in other games, which is why the two
+lists differ.
 
 ---
 
@@ -550,10 +753,21 @@ tally open with Rico).
   is built from the other half, and a mode seen six times is a mode seen six times.
 - **The launch is not covered.** 5 reviews from a four-day early-access launch month (0.09%); 37 from
   the 1.0 month (0.42%). Nothing in this page describes the launch week of either.
-- **No patch notes were pulled.** Expansion dates come from the reviews and the month volumes.
+- **No patch notes were pulled.** Expansion dates come from the reviews and the month volumes. The
+  owner change, the 2024 expansion's state and the EULA story are the reviewers' word.
 - **The hated-enemy tally (14) has one reason in it.** The tree keeps *I hate blind pests* on
   `enemy-design.unknown` until the reviewer says what the pest does; only *one-shot by Brass
-  Contraptions* did.
+  Contraptions* did. (A later retag moved 12 of them to `one-enemy-type-is-hated`.)
+- **Why the reviewer who left, left.** The fall in the thumb is 83 thumbs-down in 1,885, 18 of them
+  naming the owner, the expansion or the EULA; the rest say *no*, *bad*, *2 ez*, *the game is dead*.
+- **English only.** About 113,000 reviews in other languages were not pulled; 16 "English" reviews
+  were in other languages.
+- **Slurs, jabs and personal details.** Jabs at a named executive and at other players are recorded as
+  "a jab" and not repeated; two jokes about family are described, not quoted.
+- **Counts moved after this page was first written.** Today's script run differs from the page's
+  2026-09-14 tables by a few bullets (section 2 notes each); the cross-game recount gives 18.0
+  complaints per 100 and 5.8 : 1, against 15.9 and 6.5 : 1 here. The recount is the one to compare
+  across games.
 
 ---
 
@@ -561,8 +775,16 @@ tally open with Rico).
 
 - Summaries: `raw/risk-of-rain-2/english/summaries/<YYYY-MM>/<id>.md` — 1,885 files, 9 excluded.
 - Weighted counts: `raw/risk-of-rain-2/english/_risk-of-rain-2-english-group-stats.md` and the 91 month
-  stats files.
+  stats files (`count.py --group risk-of-rain-2/english`).
+- Unweighted tables (2026-10-03):
+  `python3 scripts/findings_tables.py risk-of-rain-2/english --periods 2019-03:2020-07=EA,2020-08:2021-12=V1,2022-01:2023-12=22-23,2024-01:2024-12=2024,2025-01:2026-12=25-26 --top 25 --only-in-this-game`
+- Hours (2026-10-03, kept reviews only):
+  `grep -L 'is_review_of_the_game: \*\*no' raw/risk-of-rain-2/english/summaries/*/[0-9]*.md | xargs grep -h '^Thumbs:' | sed -E 's/^Thumbs: (up|down) · ([0-9.,]+)h played.*/\1 \2/' | tr -d ',' | sort -k2,2n | awk '{a[NR]=$2; if($1=="up"){u[++nu]=$2}else{d[++nd]=$2}; if($2>=100)h++; if($2>=1000)k++} function med(x,n){return (n%2)?x[(n+1)/2]:(x[n/2]+x[n/2+1])/2} END{print NR,med(a,NR),h,k,med(d,nd),nd,med(u,nu),nu}'`
+- Excluded reviews and why: `grep -l 'is_review_of_the_game: \*\*no' raw/risk-of-rain-2/english/summaries/*/[0-9]*.md`
+- Other-language reviews: `grep -h 'written-in-a-language-other-than-its-steam-tag' raw/risk-of-rain-2/english/summaries/*/[0-9]*.md | wc -l` (16)
 - Sample: `raw/risk-of-rain-2/english/sample/*.json`, `raw/risk-of-rain-2/english/MANIFEST.md`.
 - Tree changes: `tag-tree.md`, the eleven headings *Mode(s) added during the Risk of Rain 2 run*.
 - Batch notes: `tag-tree-open-gaps.md`, rounds 345–382 (batches 1–38).
 - Commits: 38 batch commits, *Risk of Rain 2 batch N of 38*, 2026-09-13 to 2026-09-14.
+- Ranked page: `risk-of-rain-2.md`. Cross-game: `cross-game.md` sections 19, 24 and 25.
+- Plain-words entry: `DOMINION-TAKEAWAYS.md`, section *Risk of Rain 2*.

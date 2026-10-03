@@ -1,11 +1,16 @@
-<!-- reviewed: 2026-09-13 | status: active | per-game master — only one language group pulled and read, english; a SAMPLE, not a census -->
+<!-- reviewed: 2026-10-03 | status: active | 1,382 of 38,120 English reviews, +/-3.27% | per-game master — only one language group pulled and read, english; a SAMPLE, not a census | previously reviewed 2026-09-13 | rebuilt on templates/ 2026-10-03 -->
 
 # Remnant II — the whole game, ranked
 
-**One game, one language group read as a sample. The ranked lists this page exists for.**
+**One game, one language group read as a sample. The ranked lists this page exists for.** Full read:
+`findings/remnant-2-english.md`. Plain-words lessons for Dominion: `DOMINION-TAKEAWAYS.md`.
 
 | | |
 |---|---|
+| What it is | Third-person co-op souls-like shooter; procedurally assembled worlds; one player hosts, others join as guests; full price with three paid DLCs; Gunfire Games, published by Gearbox; released 2023-07-25; sequel to *Remnant: From the Ashes* (2019) |
+| Read | 1,382 of 38,120 English reviews, ±3.27%, 2023-07 to 2026-09 |
+| Thumbs up | 83.6% (Steam, all languages: 82.3%) |
+| Praise and complaint per 100 reviews | **121.6** and **77.5** (today's script run, `review.*` included) |
 | Language groups pulled | **1** — english |
 | Language groups read | **1** — english |
 | Reviews on Steam, all languages | **68,559** — 82.3% positive |
@@ -33,17 +38,20 @@ grid's weekly split (English page, section 7). Full read of the English group in
 
 **A sequel that people accept as a sequel, play with friends, and cannot finish without a wiki.**
 
-- **The two most-said specific things tie at 139**: *a worthy successor* and *much better with
-  friends*. The first falls across the run (12.7 → 4.7 per 100), the second rises (7.3 → 12.4).
-- **The number one complaint is that the best things are hidden behind a guide** — 61 bullets, 46 of
-  them from recommenders, and the only complaint in the top ten that rises in every period: 2.6 per
-  100 in the launch quarter, 10.0 in 2026.
-- **The second complaint is the first game** — 53 say this one falls short of *From the Ashes*,
-  against 139 who accept the sequel. 2.6 to 1.
-- **The thumb fell six points and stayed there**: 86.5% in the launch quarter, 79.6% in 2025, 82.4%
-  in 2026, while complaints per 100 rose from 67 to 91.
-- **The most-helpful review in the sample is two words long** — *"uncap trait points"*, 174 votes,
-  thumbs-up, launch week. The trait cap is one of nine modes this game built that no other game uses.
+**The two most common specific remarks tie at 139**: *a worthy follow-up* and *much better with
+friends*. The first fades across the years (12.7 → 4.7 per 100), the second grows (7.3 → 12.4).
+
+**The number one complaint is that the best things are hidden so well you need a guide** — 61
+remarks, 46 of them from people who still recommend it, and the only top-ten complaint that rises in
+every period: 2.6 per 100 in the launch quarter, 10.0 in 2026.
+
+**The second complaint is the first game** — 53 say this one falls short of *From the Ashes*,
+against 139 who accept the sequel. 2.6 to 1.
+
+**The thumbs up fell six points and stayed there**: 86.5% in the launch quarter, 79.6% in 2025, 82.4%
+in 2026, while complaints per 100 rose from 67 to 91. **The most-helpful review in the sample is three
+words** — *"uncap trait points"*, 174 votes, thumbs up, launch week. The cap on character upgrades is
+one of nine kinds of remark first recorded for this game that no other game uses.
 
 ---
 
@@ -68,39 +76,48 @@ grid's weekly split (English page, section 7). Full read of the English group in
 of systems: progression 226, difficulty 147, enemies 141, level design 107, combat feel 93. **`marketing`
 at 13.5% is the sequel (145) and the comparison (135 reviews name another game, 57 of them Dark
 Souls).** There is no slogan, no player-conduct argument, and `narrative` at 7.0% is half of Space
-Marine 2's.
+Marine 2's. `review` (15.6%) is mostly the bare thumbs up (396); `engineering` (7.8%) is the PC that
+cannot run it; `community` (7.0%) is the friends (139). In tag terms the top complaint is
+`the-best-things-are-hidden-behind-a-guide` and the second `falls-short-of-the-studios-earlier-games`;
+the top praise ties `successor-framing-accepted` with `much-better-with-friends`; the trait cap is
+`unlock-pace.the-cap-stops-you-short`.
 
 ---
 
 ## 3. The complaint list, ranked
 
-| # | Mode | Count | Per 100 read |
-|---|---|---|---|
-| 1 | `game-design.level-design.the-best-things-are-hidden-behind-a-guide` | **61** | 4.4 |
-| 2 | `marketing.reputation.falls-short-of-the-studios-earlier-games` | **53** | 3.8 |
-| 3 | `review.negative.unknown` | **47** | 3.4 |
-| 4 | `narrative.story.thin-or-forgettable` | **47** | 3.4 |
-| 5 | `game-design.randomness.the-thing-you-need-may-never-roll` | **24** | 1.7 |
-| 6 | `publishing.sale-dependency.buy-on-sale-only` | **20** | 1.4 |
-| 7 | `engineering.performance.demanding-hardware` | **17** | 1.2 |
-| 8 | `production.content-amount.too-little` | **16** | 1.2 |
-| 9 | `publishing.price.too-high-for-what-it-is` | **16** | 1.2 |
-| 10 | `production.content-variety.repetitive` | **16** | 1.2 |
-| 11 | `game-design.progression.unlock-pace.grindy` | **15** | 1.1 |
-| 12 | `engineering.bugs.buggy` | **15** | 1.1 |
-| 13 | `game-design.progression.build-and-customisation.shallow-options` | **15** | 1.1 |
-| 14 | `narrative.story.the-ending-lets-it-down` | **14** | 1.0 |
-| 15 | `engineering.performance.only-runs-right-with-upscaling-on` | **14** | 1.0 |
-| 16 | `game-design.solo-viability.punishing-solo` | **14** | 1.0 |
-| 17 | `live-ops.patch-quality.made-it-worse` | **13** | 0.9 |
-| 18 | `game-design.ui-ux.hard-to-navigate` | **13** | 0.9 |
-| 19 | `game-design.power-balance.some-options-are-useless` | **12** | 0.9 |
-| 20 | `engineering.stability.progress-not-saved` | **12** | 0.9 |
-| 21 | `game-design.enemy-design.bosses-are-a-chore` | **12** | 0.9 |
-| 22 | `narrative.characters-writing.flat-or-annoying` | **12** | 0.9 |
-| 23 | `game-design.enemy-design.one-hit-kills` | **11** | 0.8 |
-| 24 | `engineering.servers.cannot-connect` | **11** | 0.8 |
-| 25 | `game-design.ui-ux.missing-quality-of-life` | **11** | 0.8 |
+| # | Mode | Count | Per 100 read | What players said |
+|---|---|---|---|---|
+| 1 | `game-design.level-design.the-best-things-are-hidden-behind-a-guide` | **61** | 4.4 | The best things are hidden so well you need a guide |
+| 2 | `marketing.reputation.falls-short-of-the-studios-earlier-games` | **53** | 3.8 | It falls short of the first game |
+| 3 | `review.negative.unknown` | **47** | 3.4 | A thumbs down with nothing said |
+| 4 | `narrative.story.thin-or-forgettable` | **47** | 3.4 | The story is thin or forgettable |
+| 5 | `game-design.randomness.the-thing-you-need-may-never-roll` | **24** | 1.7 | The item you need may never drop |
+| 6 | `publishing.sale-dependency.buy-on-sale-only` | **20** | 1.4 | Only buy it on sale |
+| 7 | `engineering.performance.demanding-hardware` | **17** | 1.2 | It needs a strong PC |
+| 8 | `production.content-amount.too-little` | **16** | 1.2 | There is too little to do |
+| 9 | `publishing.price.too-high-for-what-it-is` | **16** | 1.2 | The price is too high for what it is |
+| 10 | `production.content-variety.repetitive` | **16** | 1.2 | It gets repetitive |
+| 11 | `game-design.progression.unlock-pace.grindy` | **15** | 1.1 | Unlocking things is a grind |
+| 12 | `engineering.bugs.buggy` | **15** | 1.1 | It is buggy |
+| 13 | `game-design.progression.build-and-customisation.shallow-options` | **15** | 1.1 | Build choices are shallow |
+| 14 | `narrative.story.the-ending-lets-it-down` | **14** | 1.0 | The ending lets it down |
+| 15 | `engineering.performance.only-runs-right-with-upscaling-on` | **14** | 1.0 | It only runs right with an upscaler switched on |
+| 16 | `game-design.solo-viability.punishing-solo` | **14** | 1.0 | It is much harder alone |
+| 17 | `live-ops.patch-quality.made-it-worse` | **13** | 0.9 | An update made it worse |
+| 18 | `game-design.ui-ux.hard-to-navigate` | **13** | 0.9 | The menus and map are hard to use |
+| 19 | `game-design.power-balance.some-options-are-useless` | **12** | 0.9 | Some options are useless (mostly the rings) |
+| 20 | `engineering.stability.progress-not-saved` | **12** | 0.9 | I lost my save |
+| 21 | `game-design.enemy-design.bosses-are-a-chore` | **12** | 0.9 | Bosses are a chore |
+| 22 | `narrative.characters-writing.flat-or-annoying` | **12** | 0.9 | The characters are flat or annoying |
+| 23 | `game-design.enemy-design.one-hit-kills` | **11** | 0.8 | You die in one hit |
+| 24 | `engineering.servers.cannot-connect` | **11** | 0.8 | I cannot connect to my friends' game |
+| 25 | `game-design.ui-ux.missing-quality-of-life` | **11** | 0.8 | Basic comforts are missing from the menus |
+
+*Today's script run (section 7), after later retags, counts `review.negative.unknown` 46, upscaling
+13, `hard-to-navigate` 12 and `flat-or-annoying` 11, and ranks `community.social-features.cannot-communicate`
+(11 — no voice, no text, only a ping) 25th in place of `missing-quality-of-life`. The table is kept as
+it was.*
 
 **Group the top 25 by who could have prevented it.**
 
@@ -117,7 +134,7 @@ Marine 2's.
 
 **Game design owns more than a third of the top 25, and 85 of its 188 are the hidden content** (rows
 1 and 5). Engineering is a launch and DLC-patch figure
-that goes to zero by 2026 (English page, section 3). Narrative is the surprise: a co-op shooter whose
+that goes to zero by 2026 (English page, section 2). Narrative is the surprise: a co-op shooter whose
 third and fourteenth complaints are the story and the ending. Compare Space Marine 2, where production
 tied game design; here production is seventh.
 
@@ -125,33 +142,36 @@ tied game design; here production is seventh.
 
 ## 4. The praise list, ranked
 
-| # | Mode | Count | Per 100 read |
-|---|---|---|---|
-| 1 | `marketing.positioning.successor-framing-accepted` | **139** | 10.1 |
-| 2 | `community.playing-with-friends.much-better-with-friends` | **139** | 10.1 |
-| 3 | `game-design.progression.build-and-customisation.deep-and-varied` | **98** | 7.1 |
-| 4 | `narrative.world-and-setting.world-worth-exploring` | **92** | 6.7 |
-| 5 | `game-design.replayability.keeps-pulling-you-back` | **75** | 5.4 |
-| 6 | `game-design.difficulty-tuning.satisfyingly-hard` | **71** | 5.1 |
-| 7 | `game-design.game-feel.combat.impactful` | **63** | 4.6 |
-| 8 | `game-design.enemy-design.memorable-specials` | **44** | 3.2 |
-| 9 | `art.fidelity.looks-great` | **35** | 2.5 |
-| 10 | `production.content-variety.procedurally-varied` | **33** | 2.4 |
-| 11 | `game-design.solo-viability.works-solo` | **25** | 1.8 |
-| 12 | `game-design.difficulty-tuning.well-graded` | **24** | 1.7 |
-| 13 | `narrative.story.worth-following` | **23** | 1.7 |
-| 14 | `marketing.reputation.won-over-someone-who-avoids-the-genre` | **21** | 1.5 |
-| 15 | `art.environment-art.evocative-places` | **20** | 1.4 |
-| 16 | `publishing.price.fair` | **19** | 1.4 |
-| 17 | `art.atmosphere.draws-you-in` | **17** | 1.2 |
-| 18 | `production.content-amount.plenty` | **17** | 1.2 |
-| 19 | `audio.music.fits-the-game` | **15** | 1.1 |
-| 20 | `game-design.level-design.well-built` | **13** | 0.9 |
-| 21 | `publishing.dlc-and-editions.dlc-is-fair` | **13** | 0.9 |
-| 22 | `game-design.role-design.each-role-plays-its-own-way` | **12** | 0.9 |
-| 23 | `marketing.reputation.best-in-its-category` | **12** | 0.9 |
-| 24 | `game-design.world-interaction.world-reacts-to-you` | **11** | 0.8 |
-| 25 | `marketing.reputation.studio-earned-my-trust` | **11** | 0.8 |
+| # | Mode | Count | Per 100 read | What players said |
+|---|---|---|---|---|
+| 1 | `marketing.positioning.successor-framing-accepted` | **139** | 10.1 | A worthy follow-up to the first game |
+| 2 | `community.playing-with-friends.much-better-with-friends` | **139** | 10.1 | Much better with friends |
+| 3 | `game-design.progression.build-and-customisation.deep-and-varied` | **98** | 7.1 | Builds are deep and varied |
+| 4 | `narrative.world-and-setting.world-worth-exploring` | **92** | 6.7 | The world is worth exploring |
+| 5 | `game-design.replayability.keeps-pulling-you-back` | **75** | 5.4 | It keeps pulling you back |
+| 6 | `game-design.difficulty-tuning.satisfyingly-hard` | **71** | 5.1 | Hard in a good way |
+| 7 | `game-design.game-feel.combat.impactful` | **63** | 4.6 | The shooting has punch |
+| 8 | `game-design.enemy-design.memorable-specials` | **44** | 3.2 | Special enemies and bosses you remember |
+| 9 | `art.fidelity.looks-great` | **35** | 2.5 | It looks great |
+| 10 | `production.content-variety.procedurally-varied` | **33** | 2.4 | The computer-built worlds keep it varied |
+| 11 | `game-design.solo-viability.works-solo` | **25** | 1.8 | It works fine alone |
+| 12 | `game-design.difficulty-tuning.well-graded` | **24** | 1.7 | Clear difficulty steps |
+| 13 | `narrative.story.worth-following` | **23** | 1.7 | The story is worth following |
+| 14 | `marketing.reputation.won-over-someone-who-avoids-the-genre` | **21** | 1.5 | It won over someone who avoids this kind of game |
+| 15 | `art.environment-art.evocative-places` | **20** | 1.4 | Places that set a mood |
+| 16 | `publishing.price.fair` | **19** | 1.4 | The price is fair |
+| 17 | `art.atmosphere.draws-you-in` | **17** | 1.2 | The atmosphere draws you in |
+| 18 | `production.content-amount.plenty` | **17** | 1.2 | There is plenty to do |
+| 19 | `audio.music.fits-the-game` | **15** | 1.1 | The music fits |
+| 20 | `game-design.level-design.well-built` | **13** | 0.9 | The levels are well built |
+| 21 | `publishing.dlc-and-editions.dlc-is-fair` | **13** | 0.9 | The add-ons are fair |
+| 22 | `game-design.role-design.each-role-plays-its-own-way` | **12** | 0.9 | Each class plays its own way |
+| 23 | `marketing.reputation.best-in-its-category` | **12** | 0.9 | The best game of its kind |
+| 24 | `game-design.world-interaction.world-reacts-to-you` | **11** | 0.8 | The world reacts to you — almost all of it the pet dog |
+| 25 | `marketing.reputation.studio-earned-my-trust` | **11** | 0.8 | The studio earned my trust |
+
+*The bare thumbs up (`review.positive.unknown`, 396; 395 today) is left out of this list; today's
+script run ranks it first. Today's run has `studio-earned-my-trust` just outside its top 25.*
 
 **Rows 3, 5, 6, 7, 8 and 10 are the systems — 384 bullets — and row 4 is the worlds they run in.**
 Row 1 is the first game, accepted (against 53 who say it fell short); row 14 is the person who does
@@ -190,13 +210,35 @@ most-helpful review in the sample), Survival mode, the old worlds. The people wh
 writing. **A sequel is reviewed against its predecessor for two years and then against itself.**
 
 **The hidden content is one design choice filed on seven modes**, five of them built in this run
-(English page, section 4). The complaint is not that secrets exist — the same reviewers praise the
+(English page, section 3). The complaint is not that secrets exist — the same reviewers praise the
 secrets — but that a 2026 player cannot find the game's classes without a second monitor. 46 of the
 61 recommend the game anyway.
 
+In plain words: the game did not change, but the people writing about it did. First came fans of the
+first game whose computers struggled; then owners of the add-ons who missed the old game; then new
+players who loved playing with friends but could not find the game's hidden classes without looking
+them up.
+
 ---
 
-## 6. The open method questions this game raised
+## 6. What this page cannot tell you
+
+1. **What the other languages think.** About 30,000 reviews unread; none pulled. Twelve of the
+   1,382 "English" reviews were in Russian, Finnish, Portuguese, Arabic or Spanish.
+2. **Anything about a single month after 2024-01.** 32 of 39 months are the 20-review floor; the
+   five-period table is the honest resolution.
+3. **Anything precise about the launch week.** 70 of 7,906 reviews; the grid's first three July
+   windows end before the 2023-07-25 launch.
+4. **Whether the studio did anything.** No patch notes were pulled. The reviews name three DLCs, the
+   prism system, boss rush, the loadout slots and a region filter as later additions; none is confirmed
+   from the studio's side, and the page cannot say whether the wiki problem was ever addressed.
+5. **Whether the save corruption was fixed.** Twelve reviews lost a save; two recovered one; one review
+   (31 votes) says the bug was unfixed for a year and names a launcher workaround the players found
+   themselves. The tree records what the player felt, not the root cause.
+6. **Counts that moved.** Today's script run differs from this page's tables by a bullet or two in a
+   few rows; this page's own praise-to-complaint figure was 1.60 : 1, the recount gives 1.57 : 1.
+
+### The open method questions this game raised
 
 **None is answered here. All are Rico's.**
 
@@ -211,8 +253,9 @@ secrets — but that a 2026 player cannot find the game's classes without a seco
    three say currency is always short, two praise the staged drops, and all of it sits on
    `power-balance.some-options-are-useless` and `resources-too-scarce` for want of a loot subject.
 4. **The publisher-communication split.** The reviews name Gunfire Games for the design and Arc Games
-   for the unfixed save corruption (*"Arc Games is breaking the law"*, `187410273`, 31 votes); seven
-   communication complaints sit on `community.developer-communication` without saying which company.
+   for the unfixed save corruption (*"Arc Games is breaking the law"*, `187410273`, 31 votes — the
+   reviewer's claim); seven communication complaints sit on `community.developer-communication`
+   without saying which company.
 5. **The *"the first game had X"* pattern.** Twenty-plus reviews name a feature the first game had and
    this one dropped — armour sets, the trait cap, Survival mode, biomes, worlds, levelling. They are
    filed by what each said (`falls-short-of-the-studios-earlier-games`, `the-cap-stops-you-short`,
@@ -222,24 +265,7 @@ secrets — but that a 2026 player cannot find the game's classes without a seco
 
 ---
 
-## 7. What this page cannot tell you
-
-1. **What the other languages think.** About 30,000 reviews unread; none pulled. Twelve of the
-   1,382 "English" reviews were in Russian, Finnish, Portuguese, Arabic or Spanish.
-2. **Anything about a single month after 2024-01.** 32 of 39 months are the 20-review floor; the
-   five-period table is the honest resolution.
-3. **Anything precise about the launch week.** 70 of 7,906 reviews; the grid's first three July
-   windows end before the 2023-07-25 launch.
-4. **Whether the studio did anything.** No patch notes were pulled. The reviews name three DLCs, the
-   prism system, boss rush, the loadout slots and a region filter as later additions; none is confirmed
-   from the studio's side, and the page cannot say whether the wiki problem was ever addressed.
-5. **Whether the save corruption was fixed.** Twelve reviews lost a save; two recovered one; one review
-   (31 votes) says the bug was unfixed for a year and names a launcher workaround the players found
-   themselves. The tree records what the player felt, not the root cause.
-
----
-
-## 8. Where the work is recorded
+## 7. Where the work is recorded
 
 - `remnant-2-english.md` — the full read, with the month table, the wiki section and the 43 modes built
 - `raw/remnant-2/english/summaries/<month>/<id>.md` — one file per review
@@ -247,3 +273,6 @@ secrets — but that a 2026 player cannot find the game's classes without a seco
 - `tag-tree.md` — sections headed *Mode(s) added during the Remnant II run*, batches 1 to 28
 - `tag-tree-open-gaps.md` — rounds 317 to 344
 - `cross-game.md` section 18 — what the twelfth large game adds
+- `DOMINION-TAKEAWAYS.md`, section *Remnant II* — the plain-words lessons
+- Ranked lists checked against, and the per-100 totals (2026-10-03):
+  `python3 scripts/findings_tables.py remnant-2/english --periods 2023-07:2023-09=LaunchQ,2023-10:2023-12=2023Q4,2024-01:2024-12=2024,2025-01:2025-12=2025,2026-01:2026-12=2026 --top 25 --only-in-this-game`

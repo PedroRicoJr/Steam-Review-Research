@@ -1,11 +1,16 @@
-<!-- reviewed: 2026-09-14 | status: active | per-game master — only one language group pulled and read, english; a SAMPLE, not a census -->
+<!-- reviewed: 2026-10-03 | status: active | 1,885 of 239,309 English reviews, +/-2.64% | per-game master — only one language group pulled and read, english; a SAMPLE, not a census | previously reviewed 2026-09-14 | rebuilt on templates/ 2026-10-03 -->
 
 # Risk of Rain 2 — the whole game, ranked
 
-**One game, one language group read as a sample. The ranked lists this page exists for.**
+**One game, one language group read as a sample. The ranked lists this page exists for.** Full read:
+`findings/risk-of-rain-2-english.md`. Plain-words lessons for Dominion: `DOMINION-TAKEAWAYS.md`.
 
 | | |
 |---|---|
+| What it is | Third-person roguelite co-op shooter, sci-fi; runs that start weak and end with a character far too strong; player-hosted co-op; paid game with three paid expansions; Hopoo Games, published by Gearbox; early access 2019-03, 1.0 2020-08 |
+| Read | 1,885 of 239,309 English reviews, ±2.64%, 2019-03 to 2026-09 |
+| Thumbs up | 95.6% (Steam, all languages: 93.8%) |
+| Praise and complaint per 100 reviews | **104.9** and **18.0** (today's script run, `review.*` included; the old count below gives 15.9 complaints per 100) |
 | Language groups pulled | **1** — english |
 | Language groups read | **1** — english |
 | Reviews on Steam, all languages | **352,630** — 93.8% positive |
@@ -32,25 +37,26 @@ months are direction only.** Full read of the English group in `risk-of-rain-2-e
 **The most-recommended game in the queue, by people who mostly say nothing — and the one game whose
 complaint line was falling for five years until the owner changed.**
 
-- **95.6% thumbs up and 15.9 complaints per 100 reviews** — a quarter of Remnant II's complaint rate
-  (76) and a fifth of Space Marine 2's (55–71). 47% of all bullets are `unknown`; 948 reviews said
-  *good* and nothing else.
-- **The number one specific praise is addiction** — `keeps-pulling-you-back`, 172, 9.1 per 100, the
-  highest in the corpus. *Crack* six times, *my wife left*, *I left my husband and kids*, *how do I
-  have 40 hours on this game*.
-- **The number one complaint is a thumbs-down with nothing attached** (22), and the number two is the
-  screen you cannot see through (14) — which the reviewers write as a joke twelve times in fourteen.
-  **No complaint reaches 1 per 100 over the whole sample.**
-- **The complaint line went 22.5 → 13.0 → 9.2 per 100 across five years, then doubled to 18.3 in
-  2024 and stayed at 19.0.** The rise is the owner: `owner-puts-players-off` (11), `made-it-worse`
-  (10), `frequent-disconnects` (10) and `dlc-not-worth-it` (6) are all zero before 2022 and all peak in
-  2024, the *Seekers of the Storm* year. The thumb fell from 98.4% to 92.9%.
-- **The tree got the other side of that argument here.** `the-new-owner-is-accepted` (+) was built for
-  six reviews that say the new owner has earned trust — *"Gearbox mostly unf**ked it (after really
-  f**king it)"* — against eleven that say the name alone is a reason not to buy.
-- **The most-helpful review in the sample is a joke** — 324 votes, thumbs-up, 2026-02 — and the two
-  most-helped thumbs-down (10 and 9 votes) are the 2025 EULA: *tracking passwords, addresses, IPs*
-  and *added after I bought it; now I can neither play nor refund*.
+**95.6% thumbs up and 15.9 complaints per 100 reviews** — a quarter of Remnant II's complaint rate
+(76) and a fifth of Space Marine 2's (55–71). Almost half of what players write (47%) says nothing
+specific; 948 reviews said *good* and nothing else.
+
+**The number one specific praise is that it is addictive** — 172 times, 9.1 per 100, the highest in
+the study. *Crack* six times, two jokes about leaving family for it, *how do I have 40 hours on this
+game*.
+
+**Complaints are small.** The top one is a thumbs down with nothing said (22), and the second is a
+screen so full of effects you cannot see (14) — written as a joke twelve times in fourteen. **No
+complaint reaches 1 per 100 over the whole sample.**
+
+**Complaints went 22.5 → 13.0 → 9.2 per 100 across five years, then doubled to 18.3 in 2024 and
+stayed at 19.0.** The rise is the new owner: players put off by the owner (11), an update that made it
+worse (10), frequent disconnects (10) and an add-on not worth it (6) are all zero before 2022 and all
+peak in 2024, the *Seekers of the Storm* year. The thumbs up fell from 98.4% to 92.9%. Six reviews
+say the new owner has since earned their trust, against eleven who say the name alone is a reason not
+to buy. The most-helpful review in the sample is a joke (324 votes, thumbs up, 2026-02); the two
+most-helped thumbs down (10 and 9 votes) are about a 2025 change to the terms — *tracking passwords,
+addresses, IPs* and *added after I bought it; now I can neither play nor refund* (the reviewers say).
 
 ---
 
@@ -75,39 +81,50 @@ complaint line was falling for five years until the owner changed.**
 0.9% are the lowest.** The game is recommended, not described; when it is described, it is the run
 (replayability 176, progression 141, difficulty 111, characters 103, combat feel 79, enemies 72,
 randomness 62), then friends (90), then the music (76). Nothing crashes, nothing is ugly, and the
-story is praised twelve times and argued with never.
+story is praised twelve times and argued with never. `community` (5.4%) is friends and mods. The
+number one praise in tag terms is `keeps-pulling-you-back`, 172, 9.1 per 100; 47% of all bullets are `unknown`.
+*Today's script run, after later retags, gives `review` 1,058 and `game-design` 902.*
 
 ---
 
 ## 3. The complaint list, ranked
 
-| # | Mode | Count | Per 100 read |
-|---|---|---|---|
-| 1 | `review.negative.unknown` | **22** | 1.2 |
-| 2 | `art.effects-and-gore.effects-block-your-view` | **14** | 0.7 |
-| 3 | `game-design.co-op-design.teammates-can-take-your-things` | **12** | 0.6 |
-| 4 | `publishing.ownership.owner-puts-players-off` | **11** | 0.6 |
-| 5 | `engineering.servers.frequent-disconnects` | **10** | 0.5 |
-| 6 | `live-ops.patch-quality.made-it-worse` | **10** | 0.5 |
-| 7 | `production.content-variety.repetitive` | **9** | 0.5 |
-| 8 | `engineering.performance.unstable-framerate` | **8** | 0.4 |
-| 9 | `game-design.enemy-design.one-hit-kills` | **7** | 0.4 |
-| 10 | `game-design.level-design.the-way-onward-is-hard-to-find` | **6** | 0.3 |
-| 11 | `publishing.sale-dependency.buy-on-sale-only` | **6** | 0.3 |
-| 12 | `game-design.randomness.the-thing-you-need-may-never-roll` | **6** | 0.3 |
-| 13 | `game-design.difficulty-tuning.too-easy` | **6** | 0.3 |
-| 14 | ~~`review.thumb-contradicts-text`~~ (neutral, not a complaint - see note) | **6** | 0.3 |
-| 15 | `publishing.dlc-and-editions.dlc-not-worth-it` | **6** | 0.3 |
-| 16 | `game-design.randomness.luck-decides-the-outcome` | **5** | 0.3 |
-| 17 | `game-design.progression.unlock-pace.grindy` | **5** | 0.3 |
-| 18 | `game-design.session-flexibility.cannot-save-and-come-back` | **4** | 0.2 |
-| 19 | `engineering.bugs.buggy` | **4** | 0.2 |
-| 20 | `audio.music.forgettable-or-annoying` | **4** | 0.2 |
-| 21 | `engineering.stability.a-crash-loses-the-run` | **4** | 0.2 |
-| 22 | `game-design.progression.unlock-pace.nothing-left-to-chase` | **4** | 0.2 |
-| 23 | `game-design.new-player-experience.poorly-explained` | **4** | 0.2 |
+| # | Mode | Count | Per 100 read | What players said |
+|---|---|---|---|---|
+| 1 | `review.negative.unknown` | **22** | 1.2 | A thumbs down with nothing said |
+| 2 | `art.effects-and-gore.effects-block-your-view` | **14** | 0.7 | So many effects on screen you cannot see — mostly as a joke |
+| 3 | `game-design.co-op-design.teammates-can-take-your-things` | **12** | 0.6 | Teammates grab the items before you can |
+| 4 | `publishing.ownership.owner-puts-players-off` | **11** | 0.6 | The new owner of the series puts me off |
+| 5 | `engineering.servers.frequent-disconnects` | **10** | 0.5 | I keep getting disconnected |
+| 6 | `live-ops.patch-quality.made-it-worse` | **10** | 0.5 | An update made it worse |
+| 7 | `production.content-variety.repetitive` | **9** | 0.5 | It gets repetitive |
+| 8 | `engineering.performance.unstable-framerate` | **8** | 0.4 | The frame rate jumps around |
+| 9 | `game-design.enemy-design.one-hit-kills` | **7** | 0.4 | You die in one hit |
+| 10 | `game-design.level-design.the-way-onward-is-hard-to-find` | **6** | 0.3 | Hard to find the way to the next stage |
+| 11 | `publishing.sale-dependency.buy-on-sale-only` | **6** | 0.3 | Only buy it on sale |
+| 12 | `game-design.randomness.the-thing-you-need-may-never-roll` | **6** | 0.3 | The item or unlock I need never shows up |
+| 13 | `game-design.difficulty-tuning.too-easy` | **6** | 0.3 | It is too easy |
+| 14 | ~~`review.thumb-contradicts-text`~~ (neutral, not a complaint - see note) | **6** | 0.3 | The thumb says the opposite of the words (not a complaint) |
+| 15 | `publishing.dlc-and-editions.dlc-not-worth-it` | **6** | 0.3 | The add-on was not worth the money |
+| 16 | `game-design.randomness.luck-decides-the-outcome` | **5** | 0.3 | Luck decides whether you win |
+| 17 | `game-design.progression.unlock-pace.grindy` | **5** | 0.3 | Unlocking things is a grind |
+| 18 | `game-design.session-flexibility.cannot-save-and-come-back` | **4** | 0.2 | You cannot stop a run and come back later |
+| 19 | `engineering.bugs.buggy` | **4** | 0.2 | It is buggy |
+| 20 | `audio.music.forgettable-or-annoying` | **4** | 0.2 | The music is annoying |
+| 21 | `engineering.stability.a-crash-loses-the-run` | **4** | 0.2 | A crash throws away the whole run |
+| 22 | `game-design.progression.unlock-pace.nothing-left-to-chase` | **4** | 0.2 | Nothing left to unlock |
+| 23 | `game-design.new-player-experience.poorly-explained` | **4** | 0.2 | Nothing explains the game; no tutorial |
+| 24 | `game-design.enemy-design.one-enemy-type-is-hated` | **12** | 0.6 | One kind of enemy is hated; remove it |
+| 25 | `production.content-amount.too-little` | **4** | 0.2 | There is too little to do |
 
 *Correction, round 470:* `review.thumb-contradicts-text` is a neutral tag (the thumb and the words disagree). A bug in `summarise.py card` carried it as a complaint until round 470, so it was counted here. It is struck out, not replaced, and the table above was not re-ranked.
+
+*Rows 24 and 25 were added on 2026-10-03 from today's script run (section 7) to complete the top 25;
+they are not re-ranked into the old order. Row 24 is a mode built after this page was first written:
+the script puts it third. Today's run also counts `effects-block-your-view` 12, `made-it-worse` 11 and
+`one-hit-kills` 8, and two more modes at 4 each: `game-design.progression.complexity.requires-outside-research`
+(you have to look things up outside the game) and `publishing.ownership.dislikes-the-owner` (I dislike
+the owner).*
 
 **299 complaint bullets in 1,885 reviews, 173 of them from recommenders (57.9%).** The list is the
 shape of the complaints, not their size: half the table is a mode seen four to six times. **Rows 4,
@@ -125,28 +142,36 @@ list would fix the item-sharing (row 3, a design choice the mods already reverse
 
 ## 4. The praise list, ranked
 
-| # | Mode | Count | Per 100 read |
-|---|---|---|---|
-| 1 | `game-design.replayability.keeps-pulling-you-back` | **172** | 9.1 |
-| 2 | `community.playing-with-friends.much-better-with-friends` | **88** | 4.7 |
-| 3 | `game-design.game-feel.combat.makes-you-feel-superhumanly-strong` | **73** | 3.9 |
-| 4 | `audio.music.fits-the-game` | **71** | 3.8 |
-| 5 | `marketing.positioning.successor-framing-accepted` | **44** | 2.3 |
-| 6 | `game-design.difficulty-tuning.satisfyingly-hard` | **44** | 2.3 |
-| 7 | `game-design.progression.unlock-pace.satisfying-progression` | **39** | 2.1 |
-| 8 | `game-design.role-design.each-role-plays-its-own-way` | **37** | 2.0 |
-| 9 | `game-design.solo-viability.works-solo` | **34** | 1.8 |
-| 10 | `community.user-created-content.mods-extend-the-game` | **31** | 1.6 |
-| 11 | `publishing.price.fair` | **30** | 1.6 |
-| 12 | `game-design.progression.build-and-customisation.deep-and-varied` | **29** | 1.5 |
-| 13 | `game-design.randomness.randomness-keeps-it-fresh` | **26** | 1.4 |
-| 14 | `publishing.dlc-and-editions.dlc-is-fair` | **26** | 1.4 |
-| 15 | `production.early-access.good-value-while-unfinished` | **18** | 1.0 |
-| 16 | `art.fidelity.looks-great` | **16** | 0.8 |
-| 17 | `live-ops.patch-quality.fixed-what-mattered` | **16** | 0.8 |
-| 18 | `game-design.difficulty-tuning.well-graded` | **15** | 0.8 |
-| 19 | `game-design.progression.complexity.rewarding-once-learned` | **13** | 0.7 |
-| 20 | `narrative.world-and-setting.world-worth-exploring` | **12** | 0.6 |
+| # | Mode | Count | Per 100 read | What players said |
+|---|---|---|---|---|
+| 1 | `game-design.replayability.keeps-pulling-you-back` | **172** | 9.1 | It keeps pulling you back, like an addiction |
+| 2 | `community.playing-with-friends.much-better-with-friends` | **88** | 4.7 | Much better with friends |
+| 3 | `game-design.game-feel.combat.makes-you-feel-superhumanly-strong` | **73** | 3.9 | Each run turns you from weak into a god |
+| 4 | `audio.music.fits-the-game` | **71** | 3.8 | The music fits the game |
+| 5 | `marketing.positioning.successor-framing-accepted` | **44** | 2.3 | A true sequel to the first game |
+| 6 | `game-design.difficulty-tuning.satisfyingly-hard` | **44** | 2.3 | Hard in a good way |
+| 7 | `game-design.progression.unlock-pace.satisfying-progression` | **39** | 2.1 | Unlocking things feels good |
+| 8 | `game-design.role-design.each-role-plays-its-own-way` | **37** | 2.0 | Each character plays its own way |
+| 9 | `game-design.solo-viability.works-solo` | **34** | 1.8 | It works fine alone |
+| 10 | `community.user-created-content.mods-extend-the-game` | **31** | 1.6 | Fan-made mods add to the game |
+| 11 | `publishing.price.fair` | **30** | 1.6 | The price is fair |
+| 12 | `game-design.progression.build-and-customisation.deep-and-varied` | **29** | 1.5 | Builds are deep and varied |
+| 13 | `game-design.randomness.randomness-keeps-it-fresh` | **26** | 1.4 | The randomness keeps it fresh |
+| 14 | `publishing.dlc-and-editions.dlc-is-fair` | **26** | 1.4 | The add-ons are fair |
+| 15 | `production.early-access.good-value-while-unfinished` | **18** | 1.0 | Good value even while unfinished |
+| 16 | `art.fidelity.looks-great` | **16** | 0.8 | It looks great |
+| 17 | `live-ops.patch-quality.fixed-what-mattered` | **16** | 0.8 | An update fixed what mattered |
+| 18 | `game-design.difficulty-tuning.well-graded` | **15** | 0.8 | Clear difficulty steps |
+| 19 | `game-design.progression.complexity.rewarding-once-learned` | **13** | 0.7 | Deep once you learn it |
+| 20 | `narrative.world-and-setting.world-worth-exploring` | **12** | 0.6 | The world is worth exploring |
+| 21 | `game-design.game-feel.controls.responsive-and-clear` | **11** | 0.6 | The controls are tight and clear |
+| 22 | `live-ops.update-cadence.steady-stream` | **11** | 0.6 | Updates keep arriving |
+| 23 | `art.visual-direction.looks-well-directed` | **10** | 0.5 | The art direction looks well done |
+| 24 | `production.content-amount.plenty` | **9** | 0.5 | There is plenty to do |
+| 25 | `game-design.difficulty-tuning.random-rule-changes-welcome` | **9** | 0.5 | Random rule changes to a run are welcome |
+
+*Rows 21 to 25 were added on 2026-10-03 from today's script run (section 7) to complete the top 25.
+The bare thumbs up (`review.positive.unknown`, 948; 946 today) is left out of this list.*
 
 **1,953 praise bullets, 948 of them a bare thumbs-up; praise to complaint 6.5 : 1** (Remnant II 1.6 :
 1, Space Marine 2 about 2 : 1). **Rows 1 to 4 are the game**: it pulls you back, it is better with
@@ -183,12 +208,32 @@ stayed say *fixed*; the people who left are the missing two points of thumb.**
 **Why it matters for a studio that will be bought, or will buy:** in a game this positive, the owner's
 name was the biggest single thing that ever happened to the review score — bigger than early access,
 bigger than 1.0, bigger than any expansion — and it cost two points. The reviews do not blame the
-design; they blame the publisher's other games (*Aliens: Colonial Marines*, *Borderlands*, *Randy
-Pitchford*) and they carry that blame into a EULA change a year later.
+design; they blame the publisher's other games (*Aliens: Colonial Marines*, *Borderlands*) and jab its
+chief executive, and they carry that blame into a EULA change a year later.
+
+In plain words: players loved this game for years and complained less and less. When a bigger company
+bought it and shipped a broken add-on, complaints doubled in a year. The company fixed things, and
+players who stayed say so — but the complaint rate never came back down.
 
 ---
 
-## 6. The open method questions this game raised
+## 6. What this page cannot tell you
+
+1. **What the other languages think.** About 113,000 reviews unread; none pulled. Sixteen of the
+   1,885 "English" reviews were in Portuguese, Spanish, Russian, French, Polish, Turkish or Hungarian.
+2. **Anything about a single month.** 88 of 91 months are 20 to 39 reviews at 0.4 to 2% of the
+   month; the five-period table in the English page is the honest resolution.
+3. **Anything about the launch week of either launch.** 5 reviews from the four-day early-access
+   month; 37 from the 1.0 month.
+4. **Why the reviewer who left, left.** The two-point fall in the thumb is 83 thumbs-down in 1,885,
+   18 of them naming the owner, the expansion or the EULA; the rest say *no*, *bad*, *2 ez*, *the game
+   is dead*.
+5. **What the patch notes say.** None were pulled; expansion dates come from the reviews and the
+   month volumes. The owner change, the add-on's state and the terms change are the reviewers' word.
+6. **Counts that moved.** Today's script run gives 18.0 complaints per 100 and 5.8 : 1 against this
+   page's 15.9 and 6.5 : 1; the recount is the one to compare across games.
+
+### The open method questions this game raised
 
 **None is answered here. All are Rico's.**
 
@@ -213,23 +258,7 @@ Pitchford*) and they carry that blame into a EULA change a year later.
 
 ---
 
-## 7. What this page cannot tell you
-
-1. **What the other languages think.** About 113,000 reviews unread; none pulled. Sixteen of the
-   1,885 "English" reviews were in Portuguese, Spanish, Russian, French, Polish, Turkish or Hungarian.
-2. **Anything about a single month.** 88 of 91 months are 20 to 39 reviews at 0.4 to 2% of the
-   month; the five-period table in the English page is the honest resolution.
-3. **Anything about the launch week of either launch.** 5 reviews from the four-day early-access
-   month; 37 from the 1.0 month.
-4. **Why the reviewer who left, left.** The two-point fall in the thumb is 83 thumbs-down in 1,885,
-   18 of them naming the owner, the expansion or the EULA; the rest say *no*, *bad*, *2 ez*, *the game
-   is dead*.
-5. **What the patch notes say.** None were pulled; expansion dates come from the reviews and the
-   month volumes.
-
----
-
-## 8. Where the work is recorded
+## 7. Where the work is recorded
 
 - English read: `findings/risk-of-rain-2-english.md`.
 - Summaries: `raw/risk-of-rain-2/english/summaries/<YYYY-MM>/<id>.md` — 1,885 files, 9 excluded.
@@ -237,3 +266,6 @@ Pitchford*) and they carry that blame into a EULA change a year later.
 - Tree: `tag-tree.md`, eleven headings *Mode(s) added during the Risk of Rain 2 run* (twelve modes,
   1,076 → 1,088). Batch notes: `tag-tree-open-gaps.md`, rounds 345–382.
 - Cross-game: `findings/cross-game.md`, section 19.
+- Plain-words lessons: `DOMINION-TAKEAWAYS.md`, section *Risk of Rain 2*.
+- Rows added to complete the top 25, and the per-100 totals (2026-10-03):
+  `python3 scripts/findings_tables.py risk-of-rain-2/english --periods 2019-03:2020-07=EA,2020-08:2021-12=V1,2022-01:2023-12=22-23,2024-01:2024-12=2024,2025-01:2026-12=25-26 --top 30 --only-in-this-game`
