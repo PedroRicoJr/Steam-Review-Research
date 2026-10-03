@@ -1826,3 +1826,7 @@ game-design.power-balance.fighting-is-how-you-heal | + | Health comes back from 
 game-design.power-balance.speed-and-flight-outrun-the-enemies | - | Speed boosts, flight or other movement upgrades let the player outpace enemies whose attacks were tuned for no
 game-design.power-balance.a-higher-level-weapon-is-not-better | - | A weapon's level or tier does not track its strength, so a starting weapon can beat a much higher one and the 
 game-design.game-feel.combat.no-reloading-keeps-you-shooting | + | The guns never need reloading, and the reviewer names that as a plus because the shooting never stops. **The o
+game-design.game-feel.movement.the-advanced-moves-feel-off | - | The game has advanced movement tricks - air strafing, slide-hopping, chaining jumps - and the reviewer says th
+game-design.difficulty-tuning.wants-run-modifiers | - | The reviewer asks for optional rules that change a run - mutators, challenge modifiers, boosted enemies - on t
+art.character-design.the-enemies-look-generic | - | The enemies' look is plain or placeholder-like - one colour, one shape - even when they fight differently. **D
+art.animation.the-other-players-are-not-animated | - | In online play, the other players' characters move without their animations, which breaks the scene. **Distinc

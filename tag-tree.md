@@ -11586,6 +11586,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 653, Roboquest batch 3.** Built under Rule C on the first sighting. `findphrase.py` on "movement speed" and "jetpack" found bullets on slow movement and on speed as a build choice, none on speed breaking the enemies; on "level 1" and "higher level" found none on weapon level not tracking strength; on "reload" found only complaints about slow reloading.
 
+## Modes added in Roboquest batch 4 - round 655 (Rule C)
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.the-advanced-moves-feel-off` | **−** | The game has advanced movement tricks - air strafing, slide-hopping, chaining jumps - and the reviewer says they do not feel right next to the movement shooters they know. **Distinct from `.no-modern-moves`** (the move is missing) **and from `.unreliable`** (a move fails to happen). |
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-run-modifiers` | **−** | The reviewer asks for optional rules that change a run - mutators, challenge modifiers, boosted enemies - on top of the difficulty setting. **The ask side of `.random-rule-changes-welcome`** (+), where the modifiers exist. |
+
+### `art.character-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-enemies-look-generic` | **−** | The enemies' look is plain or placeholder-like - one colour, one shape - even when they fight differently. **Distinct from `.generic-cast`** (the player characters) **and from `game-design.enemy-design.variety-lacking`** (how they behave). |
+
+### `art.animation`
+| Mode | | Definition |
+|---|---|---|
+| `.the-other-players-are-not-animated` | **−** | In online play, the other players' characters move without their animations, which breaks the scene. **Distinct from `.actions-have-no-animation`** (an action has no animation for anyone). |
+
+🔑 **Round 655, Roboquest batch 4.** Built under Rule C on the first sighting. `findphrase.py` on "air strafe", "strafing", "slide hop" and "bhop" found no bullet on advanced movement feeling off; on "mutator" and "modifiers like" found only praise where modifiers exist; on "placeholder" found none on enemy looks; on "no animation" found none on other players' characters.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
