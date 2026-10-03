@@ -1836,3 +1836,7 @@ narrative.world-and-setting.wants-a-codex-of-the-world | - | The reviewer asks f
 game-design.game-feel.controls.the-default-sensitivity-is-off | - | The aim or camera sensitivity ships at a setting the player has to change, often by trial and error, before it
 game-design.pacing.picking-upgrades-stops-the-run | - | Choosing between upgrades or items mid-run takes long enough to break the flow, and worse in co-op where the g
 game-design.progression.unlock-pace.fast-clears-should-pay-in-the-run | - | A fast clear is rewarded with currency for later, and the reviewer wants the reward inside the current run, wh
+community.developer-communication.feedback-can-be-sent-from-inside-the-game | + | The game has its own button or form for bug reports and feedback, and the reviewer says reports are acted on. 
+marketing.reputation.fun-to-watch | + | Someone who does not play enjoys watching the game being played - for its look or its action - and the reviewe
+game-design.role-design.wants-progression-for-each-class | - | The classes are distinct, but nothing levels or unlocks per class, so there is no reason to keep playing any o
+game-design.progression.build-and-customisation.switching-builds-is-too-easy | - | The run lets the player change build at any point at little cost, so a choice carries no weight. **The opposit

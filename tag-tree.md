@@ -11652,6 +11652,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 659, Roboquest batch 7.** Built under Rule C on the first sighting (both had been drafted onto `unknown`, which Rule C counts as a missed build). `findphrase.py` on "slows you down", "pick an upgrade", "choosing" and "time to choose" found none on picking upgrades breaking the run; nothing on where a speed reward should land.
 
+## Modes added in Roboquest batch 8 - round 660 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.feedback-can-be-sent-from-inside-the-game` | **+** | The game has its own button or form for bug reports and feedback, and the reviewer says reports are acted on. **The positive side of `.the-feedback-button-is-broken`** and **of `.feedback-only-through-an-outside-chat-app`** (−). |
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.fun-to-watch` | **+** | Someone who does not play enjoys watching the game being played - for its look or its action - and the reviewer names that. **Distinct from `marketing.discovery.found-it-through-someone-playing-it`** (~), where watching is how the reviewer found it. |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-progression-for-each-class` | **−** | The classes are distinct, but nothing levels or unlocks per class, so there is no reason to keep playing any one of them. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.switching-builds-is-too-easy` | **−** | The run lets the player change build at any point at little cost, so a choice carries no weight. **The opposite worry to `.choices-cannot-be-undone`** (−). |
+
+🔑 **Round 660, Roboquest batch 8.** Built under Rule C on the first sighting. `findphrase.py` on "feedback button" and "in-game feedback" found only the broken-button complaint; on "fun to watch" and "watching me play" found one bullet about watching the developers talk to players, not about watching play; on "class progression" found three bullets about existing class progression; on "too forgiving" and "switch builds" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
