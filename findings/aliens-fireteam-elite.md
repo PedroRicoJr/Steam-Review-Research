@@ -67,7 +67,8 @@ conclusion is that the AI option should be **taken out of the game**, because it
 a solo route that is not there.
 
 **For Dominion:** the launch is peer-to-peer listen-server sessions with 3–4 players and a design
-target of 200 on a dedicated server. **Communication is not a polish item; in this genre it is part
+target of 200 on a dedicated server. *(Rico, 2026-10-03: Dominion starts at four players on a listen
+server; a larger version, possibly 200 players, may come later. See `Rico notes.md`.)* **Communication is not a polish item; in this genre it is part
 of whether the session works at all.** Build the text and voice path with the session code, not
 after it.
 

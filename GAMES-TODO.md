@@ -170,7 +170,7 @@ cycle and find one game, outline it so you can pull those Steam reviews, and the
 them on a batch, round by round."*
 
 **What "similar" means here:** Dominion is a competitive sci-fi PvE extraction and arena shooter,
-third-person, four humans on a listen server. So: third-person, co-op or PvPvE, shooting, and
+third-person, four humans on a listen server (Rico, 2026-10-03: four to start, possibly 200 later). So: third-person, co-op or PvPvE, shooting, and
 successful - the corpus is heavy on failures and light on games that worked. **One failure is kept as
 a counterpart.** Every row was checked against Steam's own data on 2026-09-10.
 

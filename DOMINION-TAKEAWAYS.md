@@ -6876,8 +6876,9 @@ These include every lesson the game's own "for Dominion" page gives, marked (pag
 17. **Friendly fire splits people.** Evidence: present both as a cost and as fun. Dominion could: make it
     a lobby option or a difficulty rule. Strength: weak.
 18. **The page's network note:** the game's page wrote its lessons for a Dominion with a 200-player
-    dedicated-server target, and says nothing in the corpus speaks to that. For a four-player listen
-    server, this game's peer-to-peer complaints are the right comparison.
+    dedicated-server target, and says nothing in the corpus speaks to that. Dominion starts as a
+    four-player listen server, so this game's peer-to-peer complaints are the right comparison now; the
+    200-player lessons are kept for the possible larger version later (Rico, 2026-10-03).
 
 ### Limits
 - 1,501 reviews, ±3.56%, not ±2.5%. The launch month (2021-08) holds 25.4% of English reviews and was
@@ -6890,7 +6891,8 @@ These include every lesson the game's own "for Dominion" page gives, marked (pag
 - It cannot see people who stopped without reviewing.
 - Several sharp complaints (bots can't be set, film details missing) have no counts on the pages.
 - The game's page compares it to a Dominion of "3-4" players with a 200-player dedicated-server target;
-  the current brief is a four-player listen server.
+  Rico ruled on 2026-10-03 that Dominion starts at four players on a listen server, with a larger
+  version (possibly 200) only as a later maybe.
 
 ---
 
