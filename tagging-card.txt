@@ -1840,3 +1840,8 @@ community.developer-communication.feedback-can-be-sent-from-inside-the-game | + 
 marketing.reputation.fun-to-watch | + | Someone who does not play enjoys watching the game being played - for its look or its action - and the reviewe
 game-design.role-design.wants-progression-for-each-class | - | The classes are distinct, but nothing levels or unlocks per class, so there is no reason to keep playing any o
 game-design.progression.build-and-customisation.switching-builds-is-too-easy | - | The run lets the player change build at any point at little cost, so a choice carries no weight. **The opposit
+game-design.game-feel.combat.cannot-shoot-while-sprinting | - | Sprinting stops the player firing, so moving fast and shooting cannot happen together. **Distinct from `.slugg
+game-design.progression.unlock-pace.permanent-upgrades-too-small-to-feel | - | The upgrades bought between runs are small steps the player does not notice in play, so buying them does not f
+game-design.progression.unlock-pace.one-currency-for-the-run-and-the-base | - | The same currency buys power inside a run and permanent upgrades outside it, so spending in the run feels like
+art.character-design.the-2d-art-and-the-3d-model-do-not-match | - | A character's drawn art (comic panels, menus) and their in-game 3D model look like different quality or differ
+game-design.role-design.the-classes-are-stock-archetypes | - | The classes are familiar types - tank, stealth, turrets, soldier - and the reviewer says nothing about them is

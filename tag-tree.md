@@ -11676,6 +11676,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 660, Roboquest batch 8.** Built under Rule C on the first sighting. `findphrase.py` on "feedback button" and "in-game feedback" found only the broken-button complaint; on "fun to watch" and "watching me play" found one bullet about watching the developers talk to players, not about watching play; on "class progression" found three bullets about existing class progression; on "too forgiving" and "switch builds" found nothing.
 
+## Modes added in Roboquest batch 9 - round 661 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-shoot-while-sprinting` | **−** | Sprinting stops the player firing, so moving fast and shooting cannot happen together. **Distinct from `.sluggish-weapon-handling`** (slow swaps and reloads). |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.permanent-upgrades-too-small-to-feel` | **−** | The upgrades bought between runs are small steps the player does not notice in play, so buying them does not feel like getting stronger. |
+| `.one-currency-for-the-run-and-the-base` | **−** | The same currency buys power inside a run and permanent upgrades outside it, so spending in the run feels like paying to win and saving feels like playing weaker. |
+
+### `art.character-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-2d-art-and-the-3d-model-do-not-match` | **−** | A character's drawn art (comic panels, menus) and their in-game 3D model look like different quality or different people. |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-classes-are-stock-archetypes` | **−** | The classes are familiar types - tank, stealth, turrets, soldier - and the reviewer says nothing about them is new, even if they play differently. **Distinct from `.roles-feel-samey`** (the classes play alike). |
+
+🔑 **Round 661, Roboquest batch 9.** Built under Rule C on the first sighting, all from 115416841 (a long review, 8 found it helpful). `findphrase.py` on "while sprinting" found bullets on slow handling, camera and stutter, none on firing being blocked; on "incremental" found none on permanent upgrades too small to feel; on "3D model" found only cutscene complaints; on "archetype" found only praise for archetypes as build choices.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
