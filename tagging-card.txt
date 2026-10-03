@@ -1833,3 +1833,4 @@ art.animation.the-other-players-are-not-animated | - | In online play, the other
 game-design.enemy-design.hard-without-being-sponges | + | The enemies are hard because of how they fight, not because they take more damage, and the reviewer names that
 game-design.progression.build-and-customisation.a-favourite-weapon-cannot-keep-up | - | A weapon the player likes is outgrown within a stage or two and must be dropped, because nothing lets it be up
 narrative.world-and-setting.wants-a-codex-of-the-world | - | The reviewer asks for an in-game logbook of enemies, characters and places, so they can learn more about the w
+game-design.game-feel.controls.the-default-sensitivity-is-off | - | The aim or camera sensitivity ships at a setting the player has to change, often by trial and error, before it

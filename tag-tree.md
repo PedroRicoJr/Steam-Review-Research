@@ -11629,6 +11629,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 657, Roboquest batch 5.** Built under Rule C on the first sighting. `findphrase.py` on "sponge" found only the complaint; on "abandon" and "outclassed" found none on a favourite weapon being outgrown; on "codex", "logbook" and "bestiary" found none asking for a world logbook.
 
+## Modes added in Roboquest batch 6 - round 658 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.the-default-sensitivity-is-off` | **−** | The aim or camera sensitivity ships at a setting the player has to change, often by trial and error, before it feels right. **Distinct from `.aim-sensitivity-cannot-be-tuned`** (the setting is missing or too coarse) **and from `.the-default-layout-is-awkward`** (where the buttons are). |
+
+🔑 **Round 658, Roboquest batch 6.** Built under Rule C on the first sighting. `findphrase.py` on "sensitivity" found bullets on settings that are missing or inconsistent, and on fixes, none on a default that has to be changed.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
