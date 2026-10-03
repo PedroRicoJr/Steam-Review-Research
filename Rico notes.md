@@ -64,3 +64,15 @@ Tagged in the review tree as `community.player-conduct.players-want-different-th
 way or fork the repo. Nothing is published now. `artifact/tag-tree.html` is re-rendered every loop
 round so it is ready, but it is **not** republished anywhere until Rico says so.
 
+
+---
+
+## 2026-10-03 — Dominion's player count: four on a listen server first, maybe 200 later
+
+**Rico:** *"we'll start with four players on a listen server, and then ... we might expand ... to 200
+players potentially."*
+
+**Settled:** Dominion launches as four players on one player's machine (a listen server). A larger
+version, possibly 200 players, is a later maybe, not a plan. `DOMINION-TAKEAWAYS.md` and `templates/`
+use the four-player listen server; lessons about large numbers of players or dedicated servers (for
+example in `findings/aliens-fireteam-elite.md`) are kept for the later step.

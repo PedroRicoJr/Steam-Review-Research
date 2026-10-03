@@ -23,9 +23,3 @@ remove it when Rico rules.
   Routine cannot fire more often than hourly. Option: let each backstop firing do several units in a row
   (twelve would match a 5-minute pace). Waiting on Rico's word.
 
-- **Which description of Dominion is current?** (parked 2026-10-03, round 654.) `findings/aliens-fireteam-elite.md`
-  (written 2026-09-04) plans for launch on peer-to-peer listen-server sessions of 3-4 players, with a
-  design target of 200 players on a dedicated server. `GAMES-TODO.md` section 4, the new `templates/` and
-  `DOMINION-TAKEAWAYS.md` describe four players on a listen server and say nothing of 200 players.
-  **Default taken:** the takeaways file uses "four players on a listen server", and its Aliens: Fireteam
-  Elite entry keeps that page's 200-player lessons as written. Waiting on Rico's word.

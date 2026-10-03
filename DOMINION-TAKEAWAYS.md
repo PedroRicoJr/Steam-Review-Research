@@ -9,7 +9,9 @@ here** (`CLAUDE.md`, `templates/README.md`). New entries use `templates/dominion
 and go at the top of "The games", newest finished first.
 
 **Dominion, for this file:** a third-person, four-player co-op sci-fi PvE extraction and arena shooter
-built on runs, hosted on one player's machine (a listen server), in Unreal Engine 5.
+built on runs, hosted on one player's machine (a listen server), in Unreal Engine 5. **It starts at four
+players on a listen server; a larger version, possibly 200 players, may come later** (Rico, 2026-10-03,
+`Rico notes.md`). Lessons about dedicated servers or large player counts are for that later step.
 
 **How to read it.**
 - **Every number comes from the game's findings pages** in `findings/`, or, where an entry marks it,
