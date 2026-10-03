@@ -11528,6 +11528,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 646, The First Descendant batch 31.** Built under Rule C on the first sighting; `findphrase.py` on "mailbox" found no earlier sighting, and the only catch-up mode was its negative side.
 
+## Modes added in Roboquest batch 1 - round 651 (Rule C)
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.there-are-none` | **−** | The game has no achievements and the reviewer wants some. **Distinct from the other `achievements` modes**, which all judge a set that exists. |
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.played-a-pirated-copy-first` | ~ | The reviewer says they first played a pirated copy and then bought the game. **Deliberately neutral**, like the rest of `discovery`: it records how the game reached them. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-jumping-sections-stay-light` | **+** | The levels have jumping or platforming parts and the reviewer says they are few and easy enough not to get in the way of the shooting. **The positive side of `.the-jumping-sections-do-not-belong-in-a-shooter`** (−). |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-run-ends-just-as-the-build-comes-together` | **−** | The run finishes at the point where the player's build has only just become strong, so the best part of each run is cut off. **Distinct from `production.content-amount.too-little`** (the whole game is short); here the complaint is where each run stops. |
+
+🔑 **Round 651, Roboquest batch 1.** Built under Rule C on the first sighting. `findphrase.py` on "achievement" found bullets on achievement sets that exist and one on a game with no levels and no achievements (filed on `nothing-accumulates`), none asking for achievements; on "pirat" found only advice to pirate and a note on pirated copies joining games; on "jumping puzzle" and "jumping" found only complaints and movement praise; on "build comes together" found one bullet on the payoff (on `reward-moment.the-payout-lands-well`), none on the run ending there.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

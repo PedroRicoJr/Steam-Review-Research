@@ -1816,3 +1816,7 @@ publishing.price.not-adjusted-for-my-region | - | Prices are set in one currency
 game-design.ui-ux.cannot-hide-other-players-in-the-hub | - | The shared hub is crowded with other players' characters and name tags, and there is no option to hide or simp
 publishing.monetisation-practice.a-skin-must-be-bought-for-each-character | - | A cosmetic set is sold per character, so the same look for several characters costs the full price again for e
 game-design.new-player-experience.returning-players-get-a-catch-up | + | A player coming back after a long break is handed materials or rewards that bring them up to date, so returnin
+game-design.progression.achievements.there-are-none | - | The game has no achievements and the reviewer wants some. **Distinct from the other `achievements` modes**, wh
+marketing.discovery.played-a-pirated-copy-first | ~ | The reviewer says they first played a pirated copy and then bought the game. **Deliberately neutral**, like th
+game-design.level-design.the-jumping-sections-stay-light | + | The levels have jumping or platforming parts and the reviewer says they are few and easy enough not to get in 
+game-design.pacing.the-run-ends-just-as-the-build-comes-together | - | The run finishes at the point where the player's build has only just become strong, so the best part of each r
