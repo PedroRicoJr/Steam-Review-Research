@@ -1823,3 +1823,6 @@ game-design.pacing.the-run-ends-just-as-the-build-comes-together | - | The run f
 game-design.progression.build-and-customisation.the-final-boss-dictates-the-build | - | The last boss is hard enough that the player must build the whole run around beating it, so the choices they e
 game-design.enemy-design.the-enemy-shots-can-be-dodged | + | Enemy fire travels and can be seen, with no instant-hit shooters, so the player can avoid damage by moving and
 game-design.power-balance.fighting-is-how-you-heal | + | Health comes back from attacking - drops from killed enemies, healing on a kill - so the game pushes the playe
+game-design.power-balance.speed-and-flight-outrun-the-enemies | - | Speed boosts, flight or other movement upgrades let the player outpace enemies whose attacks were tuned for no
+game-design.power-balance.a-higher-level-weapon-is-not-better | - | A weapon's level or tier does not track its strength, so a starting weapon can beat a much higher one and the 
+game-design.game-feel.combat.no-reloading-keeps-you-shooting | + | The guns never need reloading, and the reviewer names that as a plus because the shooting never stops. **The o

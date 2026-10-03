@@ -11571,6 +11571,21 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 652, Roboquest batch 2.** Built under Rule C on the first sighting. `findphrase.py` on "final boss" found bullets on the last fight being unreadable, too hard or too easy and none on it forcing the build; on "hitscan" found only complaints; on "heal on kill", "lifesteal" and "recharge your health" found one build named in passing and none on healing from fighting.
 
+## Modes added in Roboquest batch 3 - round 653 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.speed-and-flight-outrun-the-enemies` | **−** | Speed boosts, flight or other movement upgrades let the player outpace enemies whose attacks were tuned for normal movement, so the challenge falls away. **Distinct from `.one-option-dominates`** (any choice beating the rest); here the movement itself breaks the enemies. |
+| `.a-higher-level-weapon-is-not-better` | **−** | A weapon's level or tier does not track its strength, so a starting weapon can beat a much higher one and the number means little. |
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.no-reloading-keeps-you-shooting` | **+** | The guns never need reloading, and the reviewer names that as a plus because the shooting never stops. **The opposite case to `.sluggish-weapon-handling`** (−), where reloading and swapping are too slow. |
+
+🔑 **Round 653, Roboquest batch 3.** Built under Rule C on the first sighting. `findphrase.py` on "movement speed" and "jetpack" found bullets on slow movement and on speed as a build choice, none on speed breaking the enemies; on "level 1" and "higher level" found none on weapon level not tracking strength; on "reload" found only complaints about slow reloading.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
