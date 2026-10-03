@@ -5,7 +5,16 @@ bullets, and files each bullet under one tag in `tag-tree.md`. It feeds design d
 DOMINION, Rico's game.
 
 Read first, in this order: `GAMES-TODO.md` (section 4 is live), `SAMPLING-RULES.md`,
-`SUMMARISER.md`, the last few rounds of `tag-tree-open-gaps.md`, `findings/cross-game.md`.
+`SUMMARISER.md`, the last few rounds of `tag-tree-open-gaps.md`, `findings/cross-game.md`,
+`DOMINION-TAKEAWAYS.md`.
+
+## Templates and the Dominion takeaways
+
+**Every page written from the reviews starts from a template in `templates/`** (Rico, 2026-10-03). Read
+`templates/README.md` before writing a findings page, a master page, a cross-game section or a takeaways
+entry. **A game is not Done until its entry is in `DOMINION-TAKEAWAYS.md`** (repo root): the plain-words,
+exhaustive list of what each game teaches for Dominion, with no tag names. Rico wants every usable detail
+squeezed out of each game.
 
 ## Folders
 

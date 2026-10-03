@@ -31,7 +31,7 @@ report.** Work in this order:
    sampled reviews are read. Then write `findings/warframe-english.md`, `findings/warframe.md` and a
    numbered section in `findings/cross-game.md`, and mark the row Done.
 3. **Escape from Duckov** (appid 3167020): add a `GAMES-TODO.md` row, measure, dry-run, pull, read,
-   findings. Then the next game from `planning/`, closest to Dominion first (Rico, 2026-09-25: the loop picks it
+   findings. **Findings are written from `templates/` (Rico, 2026-10-03): the English page, the master page and the cross-game section as before, then the game's entry in `DOMINION-TAKEAWAYS.md` as its own unit; the game is Done only when the takeaways entry is in.** Then the next game from `planning/`, closest to Dominion first (Rico, 2026-09-25: the loop picks it
    itself and records why in the round note; tell Rico which in the one-line report, do not wait), and so on, game after game.
 
 **Every unit ends with:** `scripts/dircheck.py` = 0, `summarise.py check` unfitted = 0 for every group
