@@ -11701,6 +11701,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 661, Roboquest batch 9.** Built under Rule C on the first sighting, all from 115416841 (a long review, 8 found it helpful). `findphrase.py` on "while sprinting" found bullets on slow handling, camera and stutter, none on firing being blocked; on "incremental" found none on permanent upgrades too small to feel; on "3D model" found only cutscene complaints; on "archetype" found only praise for archetypes as build choices.
 
+## Modes added in Roboquest batch 10 - round 662 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.bosses-punish-melee` | **−** | Bosses explode, ring themselves with damage or otherwise punish getting close, so a melee or close-range build cannot fight them. **Distinct from `.bosses-are-a-chore`** (too long or too many phases for anyone). |
+
+🔑 **Round 662, Roboquest batch 10.** Built under Rule C. `findphrase.py` on "melee" found one earlier sighting, DRG: Rogue Core 226248906 (*"a crowd-clearing or melee build gets destroyed by a boss fight"*), filed on `bosses-are-a-chore`; it is re-homed here this round. Same round: two Roboquest asks for more characters (87869275, 97137632), parked on `role-design.unknown`, are re-homed to `production.content-amount.wants-more-because-it-is-good`, the mode earlier games use for that ask.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
