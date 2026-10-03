@@ -1,11 +1,23 @@
-<!-- reviewed: 2026-09-11 | status: active | master read across ten games plus the ten-game roguelike block, English only -->
+<!-- reviewed: 2026-09-11 | status: active | master read across nineteen large games plus the ten-game roguelike block (29 games), English only -->
 
-# Nineteen games, one tree — the cross-game read
+# Twenty-nine games, one tree — the cross-game read
 
 **One failed co-op shooter, one loved one, one that fought its own audience, one spin-off of the
-loved one, one that closed its studio, one free-to-play game whose whole conversation is a single
-unfixed fault, one ordinary success — and now one game that is not a co-op shooter at all. All
-tagged with the same tree.**
+loved one, one that closed its studio, one small game its fans stopped hoping for, one free-to-play
+game whose whole conversation is a single unfixed fault, one ordinary success, one game that is not a
+co-op shooter at all, ten small games read whole — and ten more large games: a PvPvE extraction game,
+a licensed game, a sequel, a runs game that changed owners, a thirteen-year free-to-play game,
+a single-player extraction game, a co-op roguelite, a co-op game hosted by one player, a cartoon runs
+shooter and a free looter shooter. Nineteen large games and the ten-game block, 29 games, all tagged
+with the same tree.**
+
+✅ **Where the page stands now.** Sections 1-8 compare the first three games; sections 9-25 each add
+one game or the block, newest last. **Section 25 is the latest: The First Descendant, and the corpus
+at 29 games and 28,613 English summaries.** The table below covers the first nine large games, on the
+earlier count. **Sections 20-25 recompute the large games on one newer count**
+(`scripts/findings_tables.py`), and where the two counts differ the later tables are the ones to
+compare. Every section from 9 on has an *In plain words* and a *For Dominion — what changes* subsection
+(after its key finding where it has one, otherwise near its end).
 
 ✅ **The ninth game is the genre test.** Immortal: Unchained is a single-player soulslike third-person
 shooter, read as a census. **The tree absorbed it with five new modes and no structural change** —
@@ -54,19 +66,23 @@ detailed** at 3.05 bullets per review. **The corrected rule is in section 12: de
 of disagreements, not their strength.** Terminull's reviewers are negative about one thing, and one
 thing does not take many words.
 
-⚠️ **Two rows disagree with Steam, and both for the same reason.** Redfall reads 48.6% against
+⚠️ **Two rows disagree with Steam, and both for the same reason.** *(Written when the table had five
+columns; the Terminull Brigade and The Anacrusis rows, added later, also carry ⚠️ because Steam's figure
+there is all-language - see `terminull-brigade-english.md` and `the-anacrusis-english.md`.)* Redfall reads 48.6% against
 Steam's 38.5%; Rogue Core reads 70.3% against 60.1%. **Both are games whose reviews are stacked in
 their launch month** — 65% of Redfall's English group and 75% of Rogue Core's — and the method reads
 every month at a similar depth, which under-weights that month. **Weighting Redfall's months back to
 their true volume gives 42.9%.** The other three games' reviews are spread across their lives, and
 their samples match Steam exactly.
 
-**Method: English only, all seven.** Back 4 Blood also has a LatAm Spanish census, but comparing a
+**Method: English only, every game.** Back 4 Blood also has a LatAm Spanish census, but comparing a
 census against samples would put the difference in the method rather than in the games. **Every
-number on this page is one language, one tag tree, seven games.** Rates are per 100 reviews read, so
-the seven sample sizes do not distort them.
+number on this page is one language and one tag tree**, across the nine large games in the table above
+and the games each later section adds. Rates are per 100 reviews read, so the different sample sizes
+do not distort them.
 
-⚠️ **Language groups across the games are unread — 329,785 reviews on Steam**, including all
+⚠️ **Language groups across the games are unread — 329,785 reviews on Steam** (counted across the
+first five games; each later section gives its own game's unread count), including all
 7,220 non-English Rogue Core reviews and all 1,645 non-English Redfall reviews.
 This is a read of the English-speaking audience, not of the games.
 
@@ -277,6 +293,16 @@ is therefore a floor, not a total.
 | Sampling method and its rules | `../SAMPLING-RULES.md` |
 | The plan this all runs on | `../../../Docs/Planning Documents/Tools/Steam Review Mining - Plan.md` |
 
+### In plain words
+
+*Sections 1 to 8, the first three games side by side.* The first three games read were Back 4 Blood,
+Deep Rock Galactic and Helldivers 2. The two games that lasted have players who share their own jokes,
+cheers and habits; Back 4 Blood has none, and its reviews keep comparing it to an older game instead.
+All three audiences praised the same short list: playing with friends, a game that pulls you back, a
+fair price, shooting that feels good, and a good kind of hard. All three also complained, at almost the
+same rate, that the game gets repetitive. In every game, about one review in five just says the game
+is good and nothing more.
+
 
 ---
 
@@ -284,6 +310,18 @@ is therefore a floor, not a total.
 
 **Rogue Core is the controlled experiment.** Same studio, same universe, same players as Deep Rock
 Galactic. **97.1% against 70.3%, with every variable except the game held constant.**
+
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | **Rogue Core** |
+|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | **70.3%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | **3.26** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | **117.2** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | **193.2** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | **0.61 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
 
 ### Three modes that only this game produces
 
@@ -337,12 +375,66 @@ in July** after a hotfix. **The thumb rate turned a month later.** See `drg-rogu
 at 300 reviews predicted its thumb rate at 500; its July patch bullets predicted its August thumb
 rate. **A studio watching only the percentage is reading a lagging indicator.**
 
+### In plain words
+
+Rogue Core was made by the same studio as Deep Rock Galactic, set in the same world, and sold to the
+same players, yet players liked it much less. It copied the older game's famous cheer, but its own
+players used it only about a quarter as often. One review in ten argues with the other reviews instead
+of describing the game. Players praised the studio's fixes even while giving the game low scores, and
+the written reviews turned sour about a month before the score did.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds to "A culture cannot be copied in" (the squad-voice lesson).** Evidence: the inherited
+  catchphrase runs 28.6 per 100 reviews in Deep Rock Galactic and 7.5 here, 26% of its strength. Our
+  reading: Dominion's squad call-outs and rituals have to be its own; borrowing a famous one does not
+  bring its hold with it.
+- **Adds "Read the words, not just the thumb".** Evidence: patch bullets ran 4.8 : 1 positive at
+  launch, 5.8 : 1 in June and 1 : 1 in July after a hotfix, and the thumb turned a month later; the
+  bullet ratio at 300 reviews predicted the thumb rate at 500. Our reading: after every Dominion patch,
+  read the new review and playtest text before waiting for the score.
+- **Adds "Patch fast, but praise for fixes is not praise for the design".** Evidence: Rogue Core leads
+  both patch-praise rows (3.8 and 3.7 per 100), and its players say so while giving the game its worst
+  scores. Our reading: do not read thanks for quick fixes as proof the design is right.
+- **Adds a warning on run systems Dominion shares.** Evidence: the run clock (13.8 per 100) and
+  teammates taking each other's things (5.8) are this game's two signature systems and exist nowhere
+  else in the corpus; `DOMINION-TAKEAWAYS.md` adds that most timer talk sits on thumbs-up reviews. Our
+  reading: a run-based extraction game should expect its clock to be its most-argued feature, test the
+  clock alone and with four players, and default to each player getting their own pickups.
+
+
+### Other ways it stands out in the corpus
+
+- **The run clock** that decides when you leave: 13.8 per 100, and 0.0 in Back 4 Blood, Deep Rock
+  Galactic and Helldivers 2.
+- **Teammates who can take your things**: 5.8 per 100, against 0.2, 0.0 and 0.0.
+- **Reviews arguing the game was judged unfairly**: 10.2 per 100, the highest of the four (Back 4 Blood
+  7.1, Helldivers 2 1.3, Deep Rock Galactic 0.2).
+- **Patch praise**: it leads both rows - made it better 3.8 and fixed what mattered 3.7 per 100 - and
+  also has the highest "ignores feedback" rate of the four, 1.8.
+- **The only patch signal that reversed inside a group** at that point: 4.8 : 1 at launch, 5.8 : 1 in
+  June, 1 : 1 in July.
+
 ---
 
 ## 10. ⭐ What the fifth game adds — added 2026-09-03
 
 **Redfall is the corpus's disaster case: 38.5% on Steam, a studio closed eleven months after
 release, and a game still on sale that a tenth of new buyers cannot start.**
+
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | **Redfall** |
+|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | **48.6%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | **3.77** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | **116.7** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | **241.6** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | **0.48 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
 
 ### The community line, extended
 
@@ -420,12 +512,65 @@ store selling the game; it converts every new sale into a zero-hour negative rev
 the studio from the company that owns it. **No game before Redfall forced that distinction.** It will
 apply to any game whose publisher and developer are judged differently by the people playing it.
 
+### In plain words
+
+Redfall is the worst-scored game in the study, and its studio was closed less than a year after
+launch. Its players wrote very little about each other, far less than players of the games that lasted.
+Many reviewers spent their review arguing that the game was judged too harshly. The fix that finally
+raised its score came five months late, after most players had gone. The game still asks a server for
+permission the first time it starts, so some new buyers cannot play at all, and other buyers now post
+the workaround in their own reviews.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Confirms "Never lock the game behind an online check the studio might not be around to answer".**
+  Evidence: 13 of the 18 cannot-connect reviews are dated after the studio closed, seven of them at zero
+  hours played. The section's own line: *"Any always-online gate on a single-player-capable game is a
+  dead-man switch on the game's own shelf life."* Our reading: Dominion is hosted on a player's machine;
+  keep starting, solo play and hosting free of any studio server.
+- **Confirms "Patch fast; a late rescue does not bring players back".** Evidence: the first big patch
+  (v1.1, June 2023) moved nothing; Game Update 2 took the score from 34.7% to 60.7% five months after
+  release, when concurrent players were in single figures. Our reading: plan the first-month fix cycle
+  before launch, not after the reviews arrive.
+- **Adds to the community line.** Evidence: talk about other players is 2.7% of Redfall's bullets
+  against 28.8% and 28.5% in the two survivors, and the measure separates survivors from failures across
+  five games; the section says this does not prove a direction. Our reading: give squads things to talk
+  about with each other, and watch that share in playtests.
+- **Adds: a review pile-on feeds itself.** Evidence: in the worst-reviewed game, reviewers argue 124 to
+  9 that the reviews are wrong rather than describe what they played. Our reading: the launch state
+  decides the page; a later defence by fans does not replace it.
+
+
+### Other ways it stands out in the corpus
+
+- **Talk about other players is the lowest in the corpus at that point**: 2.7% of all bullets, a third
+  of the next-lowest game (Rogue Core 9.2%, Back 4 Blood 9.4%, Helldivers 2 28.5%, Deep Rock Galactic
+  28.8%).
+- **Reputation is its largest subject** - 356 bullets, 9.3% - and nowhere near the top in any other game;
+  judged unfairly 124 against deserved 9.
+- **The only game whose always-online check outlived its studio**: 13 of 18 cannot-connect reviews dated
+  after the closure, seven at zero hours.
+
 ---
 
 ## 11. ⭐ What the sixth game adds — added 2026-09-03
 
 **[The Anacrusis](the-anacrusis.md)** — 611 of 1,290 English reviews, **47.4% of the population and
 49 of 55 months at 100% census.** The deepest read in the corpus by share, after Redfall's 33.0%.
+
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | **The Anacrusis** |
+|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | **57.4%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | **3.97** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | **129.3** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | **224.2** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | **0.58 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
 
 ### It fills the empty seat in the culture line
 
@@ -500,6 +645,39 @@ The ones that will apply beyond it:
 what a studio *did* from what a studio *said*, and both only became visible in a corpus where the
 studio was still talking.
 
+### In plain words
+
+The Anacrusis is a small co-op game that people liked and hoped would grow, and then they stopped
+hoping. In its first two years many reviews said the game had promise; after that almost none did,
+while reviews calling the game empty kept coming. Its reviewers named other games more often than in
+any game read before it, often just to explain what it is like. Players who said the characters had no
+personality had mostly played about an hour, while those who liked the cast had played longer.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds: hope runs out on a clock.** Evidence: reviews saying the potential is still there run 35, 33,
+  4 and 2 by year; 68 of the 74 optimism bullets are from the first two years, while empty-game
+  complaints run 8, 14, 15 and 10. Our reading: if Dominion goes into Early Access, players' patience
+  is measured in about two years; the promised content has to arrive inside that window.
+- **Confirms "Expect to be compared; do not invite the comparison yourself".** Evidence: 263 bullets
+  (10.9%) name another game, nearly three times Redfall's 3.8%, and 71 of them use a famous game only as
+  a description. Our reading: players will explain Dominion by naming another game, so Dominion should
+  describe itself in its own words and know which game it will be held against.
+- **Adds: characters must speak in the first hour.** Evidence: the 32 bullets saying the cast has no
+  personality come from reviewers with a median of one hour; the nine who like the cast played a median
+  of six; one reviewer names voice lines weighted to play rarely. Our reading: if Dominion's squad
+  talks, early runs should hear the lines that make each character who they are.
+
+### Other ways it stands out in the corpus
+
+- **The comparison ceiling**: 263 bullets naming another game, 10.9%, nearly three times Redfall's 3.8%.
+- **Marketing is 14.4% of everything said, the highest of any game read at that point.**
+- **The deepest read by share**: 47.4% of the English population, 49 of 55 months at 100% census.
+- **The only game where optimism collapses as its own event**: 68 of 74 optimism bullets in the first two
+  years.
+
 ### What it does not add
 
 **It is not a second Redfall.** Redfall's corpus is a launch disaster with a shutdown at the end. This
@@ -517,6 +695,18 @@ fifteen months old. Full evidence in [`terminull-brigade-english.md`](terminull-
 🔴 **Read this before any row above.** **This is the only free-to-play game in the corpus.** Zero-hour
 share, playtime, population and refund behaviour all mean something different when the game costs
 nothing. **Its playtime and population rows are not comparable to the other six.**
+
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`, `terminull-brigade`.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | The Anacrusis | **Terminull Brigade** |
+|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | 57.4% | **41.0%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | 3.97 | **3.05** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | 129.3 | **65.4** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | 224.2 | **183.6** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | 0.58 : 1 | **0.36 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
 
 ### It is now the most negative text in the corpus, and the reward crowd is not why
 
@@ -590,6 +780,44 @@ six months earlier**, and that comparison is only available to someone who was t
 🔑 **For a live game: when you change the loop, complaint volume will not tell you. Weigh it by
 playtime or you will not see it at all.**
 
+### In plain words
+
+Terminull Brigade is a free game, and its reviews are the most negative writing in the study. Most of
+the anger is about one problem, the game stuttering, so the reviews are short even though they are
+angry. Many people installed it only to get a reward in another game, but taking them out barely
+changes the score. When an update changed the shape of play, only players with many hours noticed and
+said so.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Confirms "Performance faults can become the whole review page".** Evidence: stutter is 165 bullets,
+  7.3% of everything said, the largest single complaint in any game at that point; 40 of those 165
+  reviews are thumbs up and 18 say their verdict flips the day it is fixed. Our reading: smooth frame
+  times are a launch requirement for Dominion, not a polish item.
+- **Adds the section's own line on live changes.** *"For a live game: when you change the loop,
+  complaint volume will not tell you. Weigh it by playtime or you will not see it at all."* Evidence:
+  the six reviewers who saw the loop replaced had 4, 13, 73, 102, 147 and 402 hours, against a group
+  median of five; nobody at zero hours raised it. Our reading: sort Dominion's feedback by hours played
+  after every large update.
+- **Adds: an outside reward campaign writes empty reviews and does not explain the score.** Evidence:
+  removing all 90 reward reviews moves the thumb from 40.98% to 43.3%, 2.3 points; the second wave of
+  the same reward was 9.1% up with 32 of 33 at zero hours, against 36.6% in the first. Our reading: do
+  not run a promotion that installs the game for people who have no reason to play it, and do not blame
+  a low score on one.
+
+### Other ways it stands out in the corpus
+
+- **The most negative text in the corpus**: 0.36 : 1 praise to complaint (Redfall 0.48, The Anacrusis
+  0.58, Rogue Core 0.60), and the lowest praise per 100, 65.5.
+- **The largest single mode in any game**: stutter, 165 bullets, 7.3% of the game's bullets (The
+  Anacrusis's largest, weightless combat, is 81 and 3.4%).
+- **The only free-to-play game in the corpus at that point.**
+- **Third least detailed** at 3.05 bullets per review, ahead of only Helldivers 2 and Deep Rock Galactic.
+- **The only game where a replaced loop was seen only by long-play reviewers** (4 to 402 hours, against a
+  group median of five).
+
 ### What the seventh game does NOT settle
 
 - **Whether free-to-play explains the number.** The comparison group is six paid games and **nothing
@@ -610,6 +838,18 @@ computed across five games and is now further out of date.
 **Aliens: Fireteam Elite. 1,501 of 1,501 English reviews read, 4,400 bullets, 0 unfitted.**
 ⚠️ **Margin of error +/-3.56%, not +/-2.5%. 2021-08 holds 25.4% of the English population and was
 read at 1.62%.** See `aliens-fireteam-elite-english.md` section 0.
+
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`, `terminull-brigade`, `aliens-fireteam-elite`.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | The Anacrusis | Terminull Brigade | **Aliens: Fireteam Elite** |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | 57.4% | 41.0% | **81.3%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | 3.97 | 3.05 | **2.94** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | 129.3 | 65.4 | **124.6** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | 224.2 | 183.6 | **141.8** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | 0.58 : 1 | 0.36 : 1 | **0.88 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
 
 ### 🔑 The finding: the thumb and the text disagree, and the text is the useful one
 
@@ -640,6 +880,46 @@ pieces of praise.**
 
 🔑 **A thumbs up is not a report that nothing is wrong. The thumb records whether they would buy it
 again; the text records what they would change.**
+
+### In plain words
+
+Aliens: Fireteam Elite is the study's normal success: it was good, it sold, it ran for five years, and
+then it stopped. Most of its players recommended it, yet even happy players listed almost one complaint
+each. Its biggest praise was that it felt true to the Aliens series it is based on, and its biggest
+complaint was that there was not enough of it. In its last year, the bad reviews were about empty
+lobbies, not about how the game plays.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Confirms "Read the words, not just the thumb".** Evidence: 79.7% on Steam with a praise-to-complaint
+  ratio of 0.88 : 1, against Back 4 Blood's 69.2% and 0.86 : 1; the 1,221 thumbs-up reviews carry 1,187
+  complaints. The section's line: *"The thumb records whether they would buy it again; the text records
+  what they would change."* Our reading: Dominion's to-do list comes from the text of its positive
+  reviews, not only its negative ones.
+- **Confirms "Plan for the day the player count falls".** Evidence: thumbs up was 80.5% to 85.4% from
+  2021 to 2025 and fell to 75.3% in 2026, with the negatives on dead lobbies, failing to find games and
+  disconnects, not design. Our reading: solo and two-player runs have to stay worth playing on a thin
+  night.
+- **Confirms "Expect not enough content to be the fans' main complaint".** Evidence: the two largest
+  modes are faithful to the source (193) and too little content (187). Our reading: plan run variety as
+  an ongoing supply, not a launch set.
+- **Adds: its network complaints are the closest match to Dominion's model.** Evidence: the game is
+  peer-to-peer and the section notes nothing in the corpus has a dedicated-server analogue. Our
+  reading: Dominion is hosted by one player, so this game's late disconnect complaints are the ones to
+  learn from. The licence findings (193 bullets of goodwill, 76 telling non-fans to stay away) apply to
+  Dominion only by analogy, since it is its own setting.
+
+### Other ways it stands out in the corpus
+
+- **The corpus's only ordinary success** and its only licensed adaptation at that point; nine modes exist
+  because of the licence.
+- **Its two largest modes point opposite ways**: faithful to the source 193, too little content 187.
+- **The third largest contribution to the tree**: 69 modes, behind the original English run (172) and
+  Deep Rock Galactic (122).
+- **The thumb and the text disagree**: 79.7% on Steam with a 0.88 : 1 ratio, within two hundredths
+  of Back 4 Blood's 0.86 : 1 at 69.2%.
 
 ### It is the corpus's only ordinary success, and that is what it is for
 
@@ -748,6 +1028,18 @@ ours.
 third-person shooter from 2018, chosen to answer one question: **does a tree built entirely from
 co-op shooters still work when the co-op is taken away?**
 
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`, `terminull-brigade`, `aliens-fireteam-elite`, `immortal-unchained`.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | The Anacrusis | Terminull Brigade | Aliens: Fireteam Elite | **Immortal: Unchained** |
+|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | 57.4% | 41.0% | 81.3% | **64.6%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | 3.97 | 3.05 | 2.94 | **4.10** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | 129.3 | 65.4 | 124.6 | **133.1** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | 224.2 | 183.6 | 141.8 | **217.7** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | 0.58 : 1 | 0.36 : 1 | 0.88 : 1 | **0.61 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
+
 ### 🔑 The finding: the tree held, and the gaps it left are two different kinds of gap
 
 **Of the 245 modes this game needed, 240 already existed.** Five modes are used by this game and no
@@ -764,6 +1056,44 @@ evidence for the universality claim this study has produced.
 
 ⚠️ **The tree cannot tell these apart. Both read as a subject with zero bullets.** This is about
 how the divisions are organised, and **it is Rico's call.**
+
+### In plain words
+
+Immortal: Unchained is a game for one player, not a team shooter, and every English review was read.
+Almost everything players said about it fit the same sorting system built from team shooters. With no
+other players around, more than half of what reviewers wrote was about how the game plays. Players who
+liked it still complained when numbers were off, but they turned against it when the game took control
+away from them, such as being stunned with no way to fight back.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Sharpens "Let players grow powerful, and never take control away from them".** Evidence: complaints
+  about numbers are mostly from recommenders (some options useless 73% thumbs up, one option dominates
+  72%), while complaints about losing control are not (no counterplay 25%, sluggish weapon handling 30%,
+  stuns taking control away 31%). The section's line: *"faults about numbers are forgiven; faults about
+  the game taking the controller away are not."* Our reading: Dominion's balance can be patched with
+  players' patience; stun-locks and slow weapon handling cannot.
+- **Adds: alone, the play is the whole review.** Evidence: with other players removed, how the game plays
+  rose to 53.6% of everything said, against 30.3% in the other eight games. Our reading: Dominion's solo
+  runs will be judged on the shooting and enemies alone, with no friends to carry them.
+- **Confirms "Expect to be compared".** Evidence: explained by naming other games is 17.5 per 100, the
+  largest mode here, with "unlike anything else" (27) and "beaten by a competitor" (25) beside it.
+- **Adds two third-person checks.** Evidence: modes were built here for a lock-on that holds the body
+  rather than the weak point, and for spaces scaled too small. Our reading: if Dominion has aim help,
+  it should help with weak points; arenas should be sized for a third-person camera.
+
+### Other ways it stands out in the corpus
+
+- **The first game that is not a co-op shooter.** How the game plays is 53.6% of everything said
+  (30.3% in the other eight); talk about other players is 0.8% (13.6%).
+- **Recommenders write the second most complaints**: 1.53 per thumbs-up review, second only to Redfall's
+  1.80.
+- **Its largest mode is a comparison**: explained by naming other games, 17.5 per 100, and it is the only
+  game where that mode's neighbours are the same claim with opposite signs (unlike anything else 27,
+  beaten by a competitor 25).
+- **Five modes used by no other game**; 240 of its 245 modes already existed.
 
 ### Where the missing share went
 
@@ -840,6 +1170,18 @@ VOIDCRISIS 17, Town Of The Dead Life 1. **65.1% up, 1,823 bullets, 2.43 per revi
 0.56 : 1, 327 distinct modes.** Full read in `roguelike-block.md`; per-game pages for the eight over
 forty reviews.
 
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `zombie-girl`, `zcrew`, `arcrunner`, `full-metal-schoolgirl`, `banzai-escape`, `scp-abhorrent`, `alien-dawn`, `die-after-sunset`. One column per block game with a page of its own; VOIDCRISIS (17 reviews) and Town Of The Dead Life (1) have none. The large games are in section 14's table.
+
+| | Zombie Girl | ZCREW | ArcRunner | FULL METAL SCHOOLGIRL | Banzai Escape | SCP: Abhorrent | Alien Dawn | Die After Sunset |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 73.0% | 49.4% | 68.4% | 69.8% | 63.8% | 63.8% | 63.5% | 58.8% |
+| Bullets per review | 3.00 | 2.79 | 2.55 | 2.65 | 2.25 | 1.41 | 2.03 | 2.33 |
+| Praise per 100 | 80.9 | 72.7 | 85.3 | 69.8 | 66.2 | 66.7 | 94.6 | 58.8 |
+| Complaint per 100 | 152.8 | 171.4 | 141.2 | 156.0 | 131.2 | 53.6 | 90.5 | 154.9 |
+| Praise to complaint | 0.53 : 1 | 0.42 : 1 | 0.60 : 1 | 0.45 : 1 | 0.50 : 1 | 1.24 : 1 | 1.04 : 1 | 0.38 : 1 |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
+
 ### 🔑 The finding: the small censuses supply the second sighting the big samples could not
 
 **Eight modes built in the block; six came from claims already in the corpus, one sighting per game,
@@ -849,6 +1191,42 @@ never been captured as a bullet in three games until ZCREW made it three sightin
 read whole tips a claim that 800,000 reviews sampled at 1,626 cannot.** The ninth game tested the tree
 with a new genre; the block tested it with volume at the small end. **Four modes are used by the
 block and no other game.**
+
+### In plain words
+
+Ten small games were read in full, every English review. Reviewers judged them as small, cheap, rough
+games and liked them anyway. In five of them, players first praised the makers for listening and later
+said the makers had left. Even the small games built for playing together showed no shared jokes or
+habits among players, because there were too few players. The small games also gave the second and
+third sightings of things that big games had only shown once.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds "A small studio's early listening is praised most and trusted least; keep it going".**
+  Evidence: the devs listen 23 times, every one in a launch window; updates stopped 16 times, every one
+  a year or more after, in five of the nine games; Alien Dawn is the exception. Our reading: plan a
+  support schedule Dominion can keep for years, and say what it is.
+- **Confirms "Price fairly for the amount of game".** Evidence: one review in six is about what the game
+  costs or how much of it there is; grading against the studio's size is 3.2% here against 0.7% in the
+  nine big games. Our reading: a small studio's roughness is forgiven; too little game for the price
+  is not.
+- **Confirms "Plan for the day the player count falls".** Evidence: player culture is 1,325 bullets in
+  the nine big games and zero in the block, including its four co-op games. Our reading: a co-op game
+  with too few players has no community to lean on, so solo play has to hold up.
+- **Adds to "Decide fan-service choices on purpose".** Evidence: in FULL METAL SCHOOLGIRL the twelve
+  censorship reviews carry 52% of every helpful vote on the game. Our reading: such choices draw
+  attention out of all proportion to their count.
+
+### Other ways it stands out in the corpus
+
+- **Grading the game against the studio's size**: 3.2% of block reviews, against 0.7% in the nine big games.
+- **Player culture is zero** in the block, including its four co-op games, against 1,325 bullets in the
+  nine big games.
+- **One argument holds most of a game's helpful votes**: in FULL METAL SCHOOLGIRL the twelve censorship
+  reviews carry 52% of every helpful vote.
+- **Four modes are used by the block and no other game.**
 
 ### The block's own shape: price, amount, and the studio as ruler
 
@@ -898,6 +1276,18 @@ reviews, a 0.59% sample at ±2.69%; 79.7% up; 2,296 bullets, 1.56 per review; pr
 **1.55 : 1**; 279 distinct modes, **37 used by no other game.** Full read in `arc-raiders-english.md`,
 ranked lists in `arc-raiders.md`.
 
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`, `terminull-brigade`, `aliens-fireteam-elite`, `immortal-unchained`, `arc-raiders`. The ten small games of section 15 are left out, as the opening explains for the first table; their own columns are in section 15.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | The Anacrusis | Terminull Brigade | Aliens: Fireteam Elite | Immortal: Unchained | **ARC Raiders** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | 57.4% | 41.0% | 81.3% | 64.6% | **79.7%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | 3.97 | 3.05 | 2.94 | 4.10 | **1.56** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | 129.3 | 65.4 | 124.6 | 133.1 | **86.8** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | 224.2 | 183.6 | 141.8 | 217.7 | **56.7** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | 0.58 : 1 | 0.36 : 1 | 0.88 : 1 | 0.61 : 1 | **1.53 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
+
 ### 🔑 The finding: a PvPvE game moves the argument from the design to the lobby
 
 **In every co-op game before this one, the complaint list was owned by the studio - its design, its
@@ -911,6 +1301,40 @@ earlier game.** It is five of the top eight here.
 `says-friendly-then-shoots-you-in-the-back` (38) files as the complaint. **147 reviews carry only the
 praise, 158 only the complaint, 11 both.** The tree records both because it records what the player
 felt, not who was right.
+
+### In plain words
+
+ARC Raiders is the first game in the study where other players can shoot you. Because of that, much of
+the complaining is about how other people behave, not about the game's design. Players loved not
+knowing whether a stranger would help them or turn on them, and other players hated the same thing. As
+cheaters became more common, the share of people recommending the game fell a long way. Many players
+asked for a mode with no other players at all.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds "PvE extraction is what both extraction audiences asked for".** Evidence: in the top 25
+  complaints, other players' conduct is 180 against game design's 148, and about half of the design
+  share is asking for a mode without the other players. Our reading: Dominion's co-op PvE removes the
+  largest complaint block in this game; the store page should say plainly that no other players hunt
+  you.
+- **Confirms "Plan for the day the player count falls".** Evidence: one of the five failure shapes the
+  reviewers give for the matchmaking is that it degrades as the population falls.
+- **Adds: protect what players earned.** Evidence: the thumb fell from 86% to 52% while cheating
+  complaints rose from 0.9 to 12.4 per 100, and the last period adds a duplication exploit and the wipe
+  that followed it. Our reading: cheating matters less in co-op PvE, but an exploit fix that wipes
+  honest players' progress is its own complaint; Dominion should plan how to fix an exploit without
+  one.
+
+### Other ways it stands out in the corpus
+
+- **The first game where other players can shoot you**: player conduct is five of its top eight
+  complaints and appears in no earlier game's top ten.
+- **The bare thumbs up is 40% of the sample, the highest in the corpus.**
+- **The most-said specific thing** is not knowing who to trust being the thrill: 95, 6.4 per 100.
+- **Cheating complaints rose fourteen-fold**, 0.9 to 12.4 per 100, while the thumb fell from 86% to 52%.
+- **37 modes used by no other game.**
 
 ### The subject that grew: `community.player-conduct` went from a co-op subject to a PvP one
 
@@ -962,6 +1386,18 @@ reviews, a 1.14% sample at ±2.60%; 87.6% up; 2,813 bullets, 1.98 per review; pr
 **1.92 : 1**; 365 distinct modes, **29 used by no other game.** Full read in `space-marine-2-english.md`,
 ranked lists in `space-marine-2.md`.
 
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`, `terminull-brigade`, `aliens-fireteam-elite`, `immortal-unchained`, `arc-raiders`, `space-marine-2`. The ten small games of section 15 are left out, as the opening explains for the first table; their own columns are in section 15.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | The Anacrusis | Terminull Brigade | Aliens: Fireteam Elite | Immortal: Unchained | ARC Raiders | **Space Marine 2** |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | 57.4% | 41.0% | 81.3% | 64.6% | 79.7% | **87.6%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | 3.97 | 3.05 | 2.94 | 4.10 | 1.56 | **1.99** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | 129.3 | 65.4 | 124.6 | 133.1 | 86.8 | **116.1** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | 224.2 | 183.6 | 141.8 | 217.7 | 56.7 | **61.9** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | 0.58 : 1 | 0.36 : 1 | 0.88 : 1 | 0.61 : 1 | 1.53 : 1 | **1.87 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
+
 ### 🔑 The finding: the thumb can sit still while the whole complaint list turns over
 
 **Every large game before this one had a story in its thumb** - Helldivers 2's collapse, ARC Raiders'
@@ -977,6 +1413,45 @@ has moved it.
 relationship collapsed; in ARC Raiders the design held and the lobby collapsed; here everything held
 and the price took over. Complaints per 100 rise with hours here too (mean hours 29 → 74, complaints 55 → 71), and
 this is the first game where the thumb is shown to be independent of that rise.
+
+### In plain words
+
+Space Marine 2 is based on a well-known fictional world, and its score barely moved in two years.
+Under that steady score, what people complained about changed completely: crash complaints went away,
+and complaints about price and grind took their place. Players loved feeling hugely strong, and the few
+who did not feel strong were almost all the ones who did not recommend it. The most common complaint was
+that there was not enough to play, mostly from people who liked it and wanted more.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Confirms "Let players grow powerful, and never take control away from them".** Evidence: feeling
+  superhumanly strong is 64 bullets, 63 from recommenders; its opposite is 13, 12 from non-recommenders;
+  the mechanism that breaks the feeling is always control taken away (stuns, a parry that fails). Our
+  reading: Dominion's power fantasy is measured on this pair.
+- **Confirms "Expect not enough content to be the fans' main complaint".** Evidence: too little is the
+  top complaint (84), 66 of the 84 thumbs up, median 17 hours; it falls from 7.6 to 1.9 per 100 as new
+  missions were added and returns at 5.1 in 2026. Our reading: adding content pulls the complaint down,
+  and it comes back when the additions stop.
+- **Adds: the launch month sets the score.** Evidence: thumbs up 88.5% in the launch month and 87.8% two
+  years later, with 46% of all reviewers writing in the launch month; *"A studio that fixes its
+  engineering does not earn a higher thumb - it earns a different complaint."* Our reading: polish
+  before launch is worth more to Dominion's score than fixes after it.
+- **Confirms "Give the squad a voice and a line players can repeat".** Evidence: the slogan is the second
+  most-said thing at 21.9 per 100.
+
+### Other ways it stands out in the corpus
+
+- **Story and setting are the highest share in the corpus**: 9.2% of everything said (Redfall 8.2%, the
+  co-op games under 3%, ARC Raiders 0.5%).
+- **The cleanest thumb split of any mode pair**: feeling superhumanly strong 63 of 64 from recommenders;
+  its opposite 12 of 13 from non-recommenders.
+- **The flattest thumb**: 88.5% in the launch month and 87.8% two years later, inside three points across
+  five periods.
+- **The top complaint is wanting more**: too little content is row 1 at 5.9 per 100 (Deep Rock Galactic
+  row 4 at 0.9).
+- **Bare thumbs up 26% and nothing-specific 19%**, below ARC Raiders' 40% and 31%.
 
 ### The subject that grew: the combat learned to say *strong*
 
@@ -1038,6 +1513,18 @@ bullets, 2.30 per review; praise to complaint **1.60 : 1**; 363 distinct modes, 
 game; 43 built in 28 batches** - the tree went 1,033 → 1,076. Full read in `remnant-2-english.md`,
 ranked lists in `remnant-2.md`.
 
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`, `terminull-brigade`, `aliens-fireteam-elite`, `immortal-unchained`, `arc-raiders`, `space-marine-2`, `remnant-2`. The ten small games of section 15 are left out, as the opening explains for the first table; their own columns are in section 15.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | The Anacrusis | Terminull Brigade | Aliens: Fireteam Elite | Immortal: Unchained | ARC Raiders | Space Marine 2 | **Remnant II** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | 57.4% | 41.0% | 81.3% | 64.6% | 79.7% | 87.6% | **83.6%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | 3.97 | 3.05 | 2.94 | 4.10 | 1.56 | 1.99 | **2.30** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | 129.3 | 65.4 | 124.6 | 133.1 | 86.8 | 116.1 | **121.6** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | 224.2 | 183.6 | 141.8 | 217.7 | 56.7 | 61.9 | **77.5** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | 0.58 : 1 | 0.36 : 1 | 0.88 : 1 | 0.61 : 1 | 1.53 : 1 | 1.87 : 1 | **1.57 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
+
 ### 🔑 The finding: the complaint list can turn over completely while the design stands still
 
 **Space Marine 2 showed a flat thumb over a moving complaint list, and the movement was the studio's
@@ -1053,6 +1540,44 @@ the wiki exists, and the new player is handed the answer key - three 2025-26 rev
 **The corpus now has three shapes of turnover.** Helldivers 2: engineering held, the relationship
 collapsed. Space Marine 2: everything held, the price took over. Remnant II: nothing changed, the
 reviewer did. **A complaint that rises for three years is not always a problem that got worse.**
+
+### In plain words
+
+Remnant II is a sequel, and for its first two years players judged it against the first game. Its top
+complaint is that the best things in the game are hidden so well you need a guide to find them, yet
+most people who said so still recommended it and also praised the secrets. Some players could not run
+it well, and turning the settings down did not help. Over the years the complaints changed because new
+kinds of players arrived, not because the game changed.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds to "Show the odds and end bad luck": give a sure path to content.** Evidence: hidden content
+  you need a guide for is the top complaint (61), with 46 of the 61 recommending the game; a reroll that
+  never gives the item (24) and a roll that decides which content you ever see (7) sit beside it. Our
+  reading: in a run-based game built from random parts, secrets are praised when players can find them,
+  and resented when only a wiki can.
+- **Confirms "Performance faults can become the whole review page".** Evidence: four ways of saying the
+  machine cannot run it: only right with upscaling on (14), lowering the settings does not help (7),
+  only stable with the processor slowed (2), will not start at all (9, eight of them thumbs down). Our
+  reading: Dominion, also on Unreal Engine 5, needs settings that actually help and should not depend
+  on upscaling to play.
+- **Adds: a rising complaint line is not always a worse game.** Evidence: complaints per 100 went from
+  67 to 91 while the thumb went 86.5%, 79.6%, 82.4%, and the section traces the change to who was
+  reviewing. Our reading: compare like with like (who is playing, how long) before reacting to a trend.
+- **Confirms "Let players make their own stories and fun".** Evidence: six reviews say the friendly fire
+  is the fun.
+
+### Other ways it stands out in the corpus
+
+- **Its top complaint appears in no other game**: the best things hidden behind a guide, 61.
+- **Successor framing accepted is 139**, tied for its most-said specific thing.
+- **The fastest tree-building of the three latest games**: 43 modes in 28 batches, 1.5 per batch, against
+  ARC Raiders' 1.3 and Space Marine 2's 1.0.
+- **Reviews written in a language other than their Steam tag** rise from 0.0 per 100 in 2023 to 2.9 in
+  2026.
+- **38 modes used by no other game.**
 
 ### The subject that grew: level design learned to say *hidden*
 
@@ -1123,6 +1648,18 @@ line moved because of who owns it.** 1,885 of 239,309 English reviews, a 0.79% s
 38 batches** - the tree went 1,076 → 1,088. Full read in `risk-of-rain-2-english.md`, ranked lists in
 `risk-of-rain-2.md`.
 
+**On the same count as the sections before it** - recounted 2026-10-03 with `scripts/findings_tables.py` (every bullet whose mode is + or -, `review.*` included, per 100 kept English reviews; praise to complaint is praise bullets divided by complaint bullets). Commands, one per column: `python3 scripts/findings_tables.py <slug>/english` for `back-4-blood`, `deep-rock-galactic`, `helldivers-2`, `drg-rogue-core`, `redfall`, `the-anacrusis`, `terminull-brigade`, `aliens-fireteam-elite`, `immortal-unchained`, `arc-raiders`, `space-marine-2`, `remnant-2`, `risk-of-rain-2`. The ten small games of section 15 are left out, as the opening explains for the first table; their own columns are in section 15.
+
+| | Back 4 Blood | Deep Rock Galactic | Helldivers 2 | Rogue Core | Redfall | The Anacrusis | Terminull Brigade | Aliens: Fireteam Elite | Immortal: Unchained | ARC Raiders | Space Marine 2 | Remnant II | **Risk of Rain 2** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 69.2% | 97.1% | 83.3% | 70.3% | 48.6% | 57.4% | 41.0% | 81.3% | 64.6% | 79.7% | 87.6% | 83.6% | **95.6%** |
+| Bullets per review | 2.63 | 2.12 | 1.79 | 3.26 | 3.77 | 3.97 | 3.05 | 2.94 | 4.10 | 1.56 | 1.99 | 2.30 | **1.43** |
+| Praise per 100 | 118.0 | 175.9 | 108.0 | 117.2 | 116.7 | 129.3 | 65.4 | 124.6 | 133.1 | 86.8 | 116.1 | 121.6 | **104.9** |
+| Complaint per 100 | 137.2 | 23.7 | 55.5 | 193.2 | 241.6 | 224.2 | 183.6 | 141.8 | 217.7 | 56.7 | 61.9 | 77.5 | **18.0** |
+| Praise to complaint | 0.86 : 1 | 7.43 : 1 | 1.95 : 1 | 0.61 : 1 | 0.48 : 1 | 0.58 : 1 | 0.36 : 1 | 0.88 : 1 | 0.61 : 1 | 1.53 : 1 | 1.87 : 1 | 1.57 : 1 | **5.82 : 1** |
+
+*The recount may differ from the figures written at the time elsewhere in this section; those are left as they were.*
+
 ### 🔑 The finding: a complaint line that fell for five years, and the owner's name doubled it
 
 **Helldivers 2's complaint line rose when the studio fought its audience; Space Marine 2's when the
@@ -1140,6 +1677,42 @@ EULA change a year later.
 **The corpus now has four shapes of complaint-line movement.** The relationship (Helldivers 2), the
 price (Space Marine 2), the reviewer (Remnant II), the owner (Risk of Rain 2). **A rising complaint
 line has four causes and only one of them is the game.**
+
+### In plain words
+
+Risk of Rain 2 is the most recommended game in the study, and most of its reviews are short. Its
+complaints fell for five years as the game was fixed and filled out, then doubled when people turned on
+the company that bought it, even though the game itself had not changed. Its music is the one thing
+praised more as the years went by, because players quote it. Players love growing so strong that the
+screen fills with effects, though a few say that by then the player hardly matters.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds to "Owners and user agreements can sink a good game".** Evidence: complaints ran 22.5, 13.0 and
+  9.2 per 100, then doubled to 18.3 in 2024 with the owner, the expansion and a patch named; the thumb
+  went from 96-98% to 92.9% and 93.5%, about two points. A user agreement added after purchase drew a
+  review saying the buyer could no longer play or refund. Our reading: Dominion should never put a new
+  agreement between a buyer and a game they already own.
+- **Confirms "Give the squad a voice and a line players can repeat".** Evidence: music that fits the game
+  rises from 3.3 to 6.0 per 100 over seven years, the only praise that rises, because it is quoted. Our
+  reading: something players can quote keeps being praised after reviewers stop describing the game.
+- **Confirms "Let players grow powerful", with a limit.** Evidence: the god run is praised 73 times; the
+  screen it produces, effects that block your view (14), is the second complaint. Our reading: with four
+  players' effects stacking, Dominion must keep the screen readable at full power.
+- **Adds a playtest note.** Evidence: 1.42 bullets per review and 47% of them saying nothing specific.
+  Our reading: a well-liked build gives few reasons; ask testers direct questions rather than waiting
+  for them to explain.
+
+### Other ways it stands out in the corpus
+
+- **Described in this section as the most-recommended game in the corpus**, and the thinnest sample, with 1.42
+  bullets per review, the lowest in the queue.
+- **The only praise line that rises with age**: music that fits the game, 3.3 to 6.0 per 100; the composer
+  is named more often than any developer in the corpus.
+- **The slowest tree-building**: 12 modes in 38 batches, 0.3 per batch, against Remnant II's 1.5.
+- **The highest edit share in the queue at that point**: 223 reviews (11.8%) carry a later edit.
 
 ### The subject that grew: ownership learned to say *accepted*
 
@@ -1252,6 +1825,45 @@ price is fair (198).
 Marine 2), the reviewer (Remnant II), the owner (Risk of Rain 2) - and **the flat line (Warframe)**:
 a complaint built into the design and accepted by the people who stay.
 
+### In plain words
+
+Warframe is a free game that has run for thirteen years. Its most common complaint is the grind, but
+most people who complain about it still recommend the game, because they also say everything can be
+earned and the grind pays off. Some players warn that the game can take over your life, and still
+recommend it. Most players think the way it makes money is fair, and the real argument is about time,
+not money. Reviews get shorter as a game gets older, so falling praise numbers are not always bad news.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+Rico stopped this game as not the kind of game Dominion is and resumed it as research: *"read it for the
+loop, not the format."*
+
+- **Confirms "A grind is accepted when it is fair and the play itself is fun".** Evidence: the grind is
+  the top complaint (264, 8.2 per 100) and 223 of the 264 are thumbs up, beside everything can be earned
+  (133), the grind pays off (111) and a fair price (198). Our reading: Dominion's unlock pace can be
+  long if every run is fun on its own and nothing is out of reach.
+- **Adds: an endless loop is reviewed for what it costs the player.** Evidence: warnings that it takes
+  over your life (74, 60 of them thumbs up), interest that comes and goes in waves (44). Our reading:
+  give runs natural stopping points and let players come back without falling behind.
+- **Adds, if Dominion ever sells anything after purchase: paying should only save time.** Evidence:
+  money praise outnumbers money complaints 134 to 103; the largest money mode is the neutral "paying
+  only shortens the grind" (73); paying to win is 16 in 3,233 reviews.
+- **Adds a reading rule.** Evidence: mean review length falls from 67 to 28 words across five periods.
+  Our reading: a praise line falling over time means something only when it falls much faster than
+  the reviews shrink.
+
+### Other ways it stands out in the corpus
+
+- **The longest-running game in the corpus**: 163 months.
+- **Three modes in no other game** about the pull as a harm: it takes over your life (74), interest comes
+  and goes in waves (44), keeps playing while hating it (9).
+- **Buying in to support the studio is 0.93 per 100, the highest rate in the queue.**
+- **The player market works** (46) is a game-only mode.
+- **The second highest edit share**: 581 reviews (18.0%), behind Helldivers 2 (18.4%).
+- **156 tags used by no other game**, and 2.4 modes built per batch against Risk of Rain 2's 0.3.
+
 ### The pull, read as a harm
 
 **`keeps-pulling-you-back` is in most games; its opposite was built here.** `warns-that-it-takes-over-
@@ -1325,6 +1937,43 @@ Escape from Duckov (4.4 per 100) and 0 in ARC Raiders**; the next game on it is 
 0.8. **No other game reaches 1 per 100 on it**, and `won-over-someone-who-avoids-the-genre` (16, 1.4 per 100) is second
 only to Remnant II (1.5).
 
+### In plain words
+
+Escape from Duckov is a game where you go out, grab loot and try to get back, played alone against the
+computer. Its players often asked for co-op, while players of ARC Raiders, where other players can
+attack you, asked for a mode without them. Many players said having no other players to fight was a
+plus. It looks like a joke but plays like a serious game, and players often said it beats the famous
+game it is compared to. Near the end, players complained that the part they needed might never drop.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Strengthens "PvE extraction is what both extraction audiences asked for".** Evidence: in ARC Raiders
+  42 of 55 missing-mode requests ask for PvE; here 39 requests mostly ask for co-op; "no PvP is a
+  feature" is 51 (4.4 per 100) here and 0 in ARC Raiders, with no other game reaching 1 per 100. Our
+  reading: co-op PvE extraction, Dominion's format, sits where both audiences point. Still two games.
+- **Confirms "Do not stack chance on chance; show the odds and end bad luck".** Evidence: the thing you
+  need may never roll is 2.0 per 100 here, the highest in the corpus (Remnant II 1.7, Warframe 1.2, Risk
+  of Rain 2 0.3), and the late-game grind complaints sit on it. Our reading: give a sure path to the
+  end-game gear that matters.
+- **Adds to "Expect to be compared": a comparison can be won.** Evidence: beats its rivals is 6.1 per
+  100, the highest in the corpus; 135 of 1,160 reviews name Tarkov and only 6 of those are thumbs down.
+  Our reading: being measured against a famous rival helps when the game is clearly a friendlier version
+  of it.
+- **Confirms "Do not read a dip in the thumb as a verdict until the words say so".** Evidence: 96.7% up
+  in 2025-11 and 74.4% in 2025-12, with 13 of December's 34 thumbs down from an outside dispute about a
+  mod.
+
+### Other ways it stands out in the corpus
+
+- **No PvP as a feature**: 4.4 per 100; no other game reaches 1 (Terminull Brigade 0.8, ARC Raiders 0).
+- **The part you need may never roll**: 2.0 per 100, the highest (Remnant II 1.7, Warframe 1.2, Risk of
+  Rain 2 0.3).
+- **Beats its rivals**: 6.1 per 100, the highest (The Anacrusis 5.6, Warframe 2.1).
+- **Won over someone who avoids the genre**: 1.4 per 100, second only to Remnant II (1.5).
+- **Game-only modes**: looks like a joke, plays like a real game (39); late-game grind (14).
+
 ### Chance at the end
 
 `the-thing-you-need-may-never-roll` is **2.0 per 100 here, the highest in the corpus** (Remnant II 1.7,
@@ -1386,6 +2035,45 @@ review on it, 0.9 to 1.3 per 100). It grows with the game: 7 reviews in Early Ac
 2025-26, as each update brings new text; the late reviews say the new season text is the worst, and
 that item descriptions run *"at least 3 lines long"* (230540835). **For Dominion: any system that asks the player to read
 upgrade text mid-run needs its English checked at every update, not once.**
+
+### In plain words
+
+Gunfire Reborn is a co-op shooter built on runs that has had updates for five years. Its biggest
+complaint is that the English text reads badly, and that grew as each update added more text. Players
+praised it as much better with friends and liked that updates kept coming. They also liked that they
+could stop and come back later without missing out. Over the years complaints slowly rose, about the
+text, about moving, and about fewer players.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds "Check upgrade text in English at every update" (the section's own line).** *"For Dominion: any
+  system that asks the player to read upgrade text mid-run needs its English checked at every update,
+  not once."* Evidence: reads badly is 1.9 per 100, ten times the next game, rising from 7 reviews in
+  Early Access to 20 in 2025-26.
+- **Confirms "Make the game best with friends".** Evidence: much better with friends is 9.6 per 100,
+  fourth in the corpus.
+- **Adds: a live service that does not punish absence.** Evidence: a steady stream of updates is 3.9 per
+  100, the highest in the corpus; seasons that stay playable are praised in 6 reviews, and a console
+  version left without the seasons draws 6. Our reading: if Dominion runs seasons, keep old ones
+  playable and keep every platform in step.
+- **Confirms "Avoid a slow start where the good systems are locked".** Evidence: a slow start is 1.2 per
+  100, the highest in the corpus, just ahead of Warframe (1.1).
+- **Adds: plan for the late slide.** Evidence: complaints per 100 rise 20.9, 28.5, 36.1, 46.3 across four
+  periods, in three late clusters (translation, movement, population). Our reading: a first-year read
+  of Dominion's reviews will not show these; check again in later years.
+
+### Other ways it stands out in the corpus
+
+- **Text that reads badly**: 1.9 per 100, ten times the next game (Escape from Duckov 0.2, Terminull
+  Brigade 0.1, Back 4 Blood 0.1).
+- **A steady stream of updates**: 3.9 per 100, the highest (Warframe 3.6, Deep Rock Galactic 3.2).
+- **A slow start**: 1.2 per 100, the highest, just ahead of Warframe (1.1).
+- **Much better with friends**: 9.6 per 100, fourth (Aliens: Fireteam Elite 10.4, Deep Rock Galactic
+  10.1, Remnant II 10.1).
+- **One platform left behind** (6) is a game-only mode; AI-made art is 5 reviews here and 1 in the only
+  other game with it (ARC Raiders).
 
 ### Friends, and a live service that does not punish absence
 
@@ -1460,6 +2148,38 @@ count (2), the host leaving ending the game (1).** None is large, but they come 
 review praises the gear cap for keeping a mixed group even (194931079). **For Dominion: decide early
 whether progress and gear carry between solo and online play, and say so on the store page.**
 
+### In plain words
+
+Earth Defense Force 5 is a shooting game for up to four players online or two on one screen, and
+players love it most for its voice. They quote its songs and lines back as their whole review, and they
+enjoy that it is cheesy on purpose. One player hosts the game for the others, as in Dominion, and the
+online rules draw a list of small complaints, such as progress not carrying over between playing alone
+and playing online. Years after launch, players began comparing it to a newer game of the same kind,
+even though it had not changed.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+This section already carries two "For Dominion" lines; they are the core of this subsection.
+
+- **Adds "Give the squad a voice and a line players can repeat" (the section's own line).** *"For
+  Dominion: a squad that talks, and a line or chant players can repeat, cost little and are what this
+  game's reviews are written about."* Evidence: memorable lines 7.6 per 100 here and 0.6 or less in
+  every other game of 300 or more reviews; cheesy on purpose 169 bullets, 9.6 per 100, ahead of friends
+  (8.3) and the classes (4.0).
+- **Adds "Decide early whether progress and gear carry between solo and online play" (the section's own
+  line).** *"For Dominion: decide early whether progress and gear carry between solo and online play,
+  and say so on the store page."* Evidence: separate solo and online progress (7), gear capped online
+  (4), no joining a mission in progress (4), a weapon cap per mission (2), uneven scaling by head count
+  (2), the host leaving ending the game (1); one review praises the gear cap for keeping a mixed group
+  even. Our reading: strong on the rule, weak on each item, since the counts are 1 to 7.
+- **Confirms "Expect to be compared".** Evidence: no review names Helldivers before 2024 and 36 do after
+  it; beats its rivals rises from 0.4 to 3.2 per 100. Our reading: Dominion's yardstick can change
+  after launch when a new rival arrives.
+- **Adds, as our reading: playing together in one room is praised where it exists.** Evidence: split
+  screen is praised in 18 reviews (1.0 per 100), and 5 more use Steam Remote Play to take it online.
+
 ### Other ways it stands out in the corpus
 
 - **Loot picked up by hand.** `collecting-the-drops-by-hand-is-a-chore` (10, game-only), plus cheats
@@ -1518,6 +2238,34 @@ The commonest movement complaint elsewhere is
 `sluggish` (Gunfire Reborn 15, DRG: Rogue Core 11, Immortal: Unchained 10). **For Dominion: a third-person
 shooter is judged on how it moves; a slide, a dash or a jump that feels quick is praised by name, and a
 slow one is the complaint.**
+
+### In plain words
+
+Crab Champions is a cartoon shooter built on runs, played alone or with friends online, and almost every
+reviewer recommends it. Players praise how quick and responsive it feels to move, which is rare in the
+games we read. It reads a lot like Risk of Rain 2, another game built on runs, and players enjoy getting
+too strong in both. One big update split its fans and raised complaints, while the share of people
+recommending it stayed the same. Because so many reviews just say it is good, they give few reasons.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds "Make movement feel quick" (the section's own line).** *"For Dominion: a third-person shooter is
+  judged on how it moves; a slide, a dash or a jump that feels quick is praised by name, and a slow one
+  is the complaint."* Evidence: movement praise is 2.7 per 100 here and 2.6 in Warframe, 0.5 or less
+  everywhere else; sluggish is the common complaint (Gunfire Reborn 15, DRG: Rogue Core 11, Immortal:
+  Unchained 10).
+- **Confirms that online co-op in a runs game can draw almost no complaints.** Evidence: 1 bullet on a
+  disconnect losing a run and 2 on matchmaking, in 1,499 reviews. Our reading: a run that survives a
+  dropped player is a reachable bar for Dominion.
+- **Confirms "Let players grow powerful".** Evidence: feeling superhumanly strong is 2.5 per 100 here,
+  3.8 in Risk of Rain 2 and 4.5 in Space Marine 2.
+- **Confirms "Read the words, not just the thumb".** Evidence: after the Island Update, complaints went
+  from 12.7 to 24.8 per 100 while thumbs up stayed at 97.8%; made it worse 7, wants the old version back
+  3. Our reading: in Early Access, a large update can split Dominion's fans without moving its score.
+- **Adds: difficulty players set themselves is praised.** Evidence: detailed difficulty settings are 1.1
+  per 100, the highest in the corpus, and satisfyingly hard rises from 0.3 to 2.2 per 100.
 
 ### Two runs-based games side by side: Crab Champions and Risk of Rain 2
 
@@ -1591,6 +2339,40 @@ catch-up rewards appear only in the 2025-2026 reviews, and over the four periods
 128 → 84 while grind and price complaints fall by more than half. **For Dominion: chance stacked on
 chance, with money as the exit, is what this audience reads as the design's purpose; showing the odds and
 ending bad luck are what it praises once they arrive.**
+
+### In plain words
+
+The First Descendant is a free sci-fi shooter for up to four players, and it is the only one of the
+recent large games where complaints outnumber praise. Players said the game was built so that bad luck
+and long waits push you to pay, with one random drop leading to another. Many reviews compare it to
+Warframe, and half of those do not recommend it. Later the game showed the drop odds and added
+protection against bad luck, and complaints fell. The most-read late reviews came from players with
+over a hundred hours, and they were negative.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line below is our reading of what players said, not something the reviews said.
+
+- **Adds "Do not stack chance on chance with money as the way out" (the section's own line).** *"For
+  Dominion: chance stacked on chance, with money as the exit, is what this audience reads as the
+  design's purpose; showing the odds and ending bad luck are what it praises once they arrive."*
+  Evidence: money complaints on 14.6 of every 100 reviews (Terminull Brigade 13.2, Warframe 2.8,
+  Helldivers 2 1.8, every other large group 1.4 or less); randomness complaints 7.2 per 100, the
+  highest; the chain counts 20, 58 and 75; complaints per 100 fall from 128 to 84 after the changes.
+- **Narrows "A grind is accepted when it is fair".** Evidence: Warframe and this game are both free;
+  the section says the gap is the chain players describe, not the price. Our reading: the grind is
+  accepted when no step of it is sold back to the player. The section warns this may not carry to a
+  game sold once.
+- **Confirms "Owners, user agreements and fan-service choices": fan service.** Evidence: the cast built
+  to titillate is 9.3 reviews per 100, rising from 6.6 to 16.8. Our reading: decide this on purpose.
+- **Confirms "Performance faults" for Unreal Engine 5.** Evidence: performance complaints fall from 8.8
+  to 4.9 reviews per 100; cannot connect is 15, all at launch. Our reading: Dominion, on the same
+  engine, should treat launch-day joining and frame rate as the first test.
+- **Confirms "Expect to be compared".** Evidence: 282 reviews (17.6%) name Warframe.
+- **Adds: veterans write the reviews people read.** Evidence: median hours rise from 20 at launch to
+  50-70 later; the three most-helpful reviews (592, 554, 545 helpful) are thumbs down from players with
+  117 to 3,012 hours. Our reading: keep Dominion's late game healthy, because its longest players set
+  what new buyers read.
 
 ### The rival it cannot escape
 
