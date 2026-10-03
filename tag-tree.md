@@ -11710,6 +11710,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 662, Roboquest batch 10.** Built under Rule C. `findphrase.py` on "melee" found one earlier sighting, DRG: Rogue Core 226248906 (*"a crowd-clearing or melee build gets destroyed by a boss fight"*), filed on `bosses-are-a-chore`; it is re-homed here this round. Same round: two Roboquest asks for more characters (87869275, 97137632), parked on `role-design.unknown`, are re-homed to `production.content-amount.wants-more-because-it-is-good`, the mode earlier games use for that ask.
 
+## Modes added in Roboquest batch 11 - round 663 (Rule C)
+
+### `community.developer-communication`
+| Mode | | Definition |
+|---|---|---|
+| `.met-the-developers-in-person` | **+** | The reviewer met the developers face to face - at a trade show or event - and says they were good people. **Distinct from `.the-developers-play-with-us`** (meeting them inside the game). |
+
+### `audio.music`
+| Mode | | Definition |
+|---|---|---|
+| `.does-not-fit-the-setting` | **−** | The reviewer says the music clashes with the game's theme or world, however good it is on its own. **Distinct from `.forgettable-or-annoying`** (the music is weak or wears out) **and from `.jumps-between-styles-with-no-theme`**. |
+
+🔑 **Round 663, Roboquest batch 11.** Built under Rule C on the first sighting. `findphrase.py` on "gamescom", "met the dev" and "in person" found nothing; on "not fitting", "doesn't fit" and "does not fit" found clashes of interface, sound effects and genre, none of music against the setting.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

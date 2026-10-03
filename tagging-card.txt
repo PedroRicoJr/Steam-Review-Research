@@ -1846,3 +1846,5 @@ game-design.progression.unlock-pace.one-currency-for-the-run-and-the-base | - | 
 art.character-design.the-2d-art-and-the-3d-model-do-not-match | - | A character's drawn art (comic panels, menus) and their in-game 3D model look like different quality or differ
 game-design.role-design.the-classes-are-stock-archetypes | - | The classes are familiar types - tank, stealth, turrets, soldier - and the reviewer says nothing about them is
 game-design.enemy-design.bosses-punish-melee | - | Bosses explode, ring themselves with damage or otherwise punish getting close, so a melee or close-range build
+community.developer-communication.met-the-developers-in-person | + | The reviewer met the developers face to face - at a trade show or event - and says they were good people. **Di
+audio.music.does-not-fit-the-setting | - | The reviewer says the music clashes with the game's theme or world, however good it is on its own. **Distinct 
