@@ -1854,3 +1854,10 @@ marketing.positioning.its-kind-of-game-is-rare | + | The reviewer says few games
 game-design.game-feel.combat.trains-your-aim-for-other-shooters | + | The reviewer uses the game, or recommends it, to sharpen aim, movement and reflexes for other shooters - a war
 game-design.game-feel.movement.going-fast-does-not-feel-fast | - | The character is moving at speed but the screen does not sell it, so going fast does not feel fast. **Distinct
 game-design.pacing.one-kind-of-room-comes-up-too-often | - | One kind of room or encounter - the reviewer's least favourite - makes up too much of each run. **Distinct fro
+game-design.co-op-design.a-teammates-revive-costs-your-health | - | When a downed teammate comes back up, the game takes the health from the player still standing, even when that
+game-design.level-design.the-bonus-areas-are-not-worth-the-risk | - | Optional side or bonus areas cost more danger than their rewards repay, so the player stops entering them. **T
+game-design.level-design.too-little-cover-for-the-enemy-count | - | Rooms hold more enemies shooting at once than the scenery gives cover against, so dodging them all is not poss
+game-design.progression.build-and-customisation.finds-change-the-numbers-not-the-play | - | Finding a new weapon or upgrade makes the player stronger in general but does not open a new way to approach a
+game-design.progression.build-and-customisation.a-helper-has-no-clear-use | - | A helper the player is given - a small robot, a pet, a drone - never proves useful, the reviewer cannot tell w
+marketing.discovery.read-about-it-online | ~ | The player found the game through an article or other piece of writing online. **Deliberately neutral**, like 
+marketing.positioning.the-name-does-not-fit-the-game | - | The reviewer finds the title a poor fit - it promises something the game does not do, or is simply a weak name

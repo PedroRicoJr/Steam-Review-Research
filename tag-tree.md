@@ -11762,6 +11762,37 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 666, Roboquest batch 14.** Built under Rule C. `findphrase.py` on "warmup", "warm up", "warm-up", "skill intensive", "train your aim" and "improve your aim" found nothing; on "aim train" found two plain sightings filed on `review.positive.unknown` - Gunfire Reborn 199834617 ("a good aim trainer") and Roboquest 87922002 ("a fun little aim trainer") - which are re-homed to `.trains-your-aim-for-other-shooters` this round; a third that only jokes about it (Gunfire Reborn 236125933) and Roboquest 136257973 ("Aim Trainer 3.0") stay where they are. `findphrase.py` on "doesn't feel fast", "fast doesn" and "sense of speed" found nothing; on "combat rooms", "challenge room", "rooms", "too often" and "too many fights" found layouts and levels that repeat, none of one room type crowding a run.
 
+## Modes added in Roboquest batch 15 - round 667 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-teammates-revive-costs-your-health` | **−** | When a downed teammate comes back up, the game takes the health from the player still standing, even when that player did not choose to revive them, and it can kill them. **Distinct from `.a-revived-player-gets-no-grace-period`** (the revived player is knocked straight down). Roboquest 142076375. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-bonus-areas-are-not-worth-the-risk` | **−** | Optional side or bonus areas cost more danger than their rewards repay, so the player stops entering them. **The opposite verdict to `.exploring-off-the-path-pays`.** Roboquest 145376126. |
+| `.too-little-cover-for-the-enemy-count` | **−** | Rooms hold more enemies shooting at once than the scenery gives cover against, so dodging them all is not possible. **Distinct from `game-design.enemy-design.ranged-enemies-hit-you-from-anywhere-while-you-are-swarmed`** (the shooters themselves are tanky and sure-aimed) **and from `difficulty-tuning.player-too-fragile`** (each hit does too much). Roboquest 144270129. |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.finds-change-the-numbers-not-the-play` | **−** | Finding a new weapon or upgrade makes the player stronger in general but does not open a new way to approach a fight. **The negative twin of `.changes-how-you-play`.** Roboquest 147381949. |
+| `.a-helper-has-no-clear-use` | **−** | A helper the player is given - a small robot, a pet, a drone - never proves useful, the reviewer cannot tell what it is for, and it gets in the way. **Distinct from `game-design.role-design.role-has-no-clear-job`** (a whole class without a job). Roboquest 145376126. |
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.read-about-it-online` | ~ | The player found the game through an article or other piece of writing online. **Deliberately neutral**, like the rest of `discovery`. **Distinct from `.found-it-through-someone-playing-it`** (a stream or video). Roboquest 144865377. |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-name-does-not-fit-the-game` | **−** | The reviewer finds the title a poor fit - it promises something the game does not do, or is simply a weak name. Roboquest 145376126 ("not a whole lot of 'quest' involved"). |
+
+🔑 **Round 667, Roboquest batch 15.** Built under Rule C on the first sighting. `findphrase.py` on "revive" and "share health" found AI teammates reviving and revive bugs, none of a revive paid for with the standing player's health; on "risk vs", "risk/reward", "bonus area", "not worth the risk", "optional area" and "side area" found only praise for side areas; on "cover" and "not enough cover" found nothing on rooms short of cover; on "new ways to" found only praise; on "companion" found AI teammates and companions that help; on "article" found no discovery through an article; on "the name" found nothing on a title that does not fit.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
