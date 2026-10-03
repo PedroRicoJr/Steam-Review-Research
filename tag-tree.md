@@ -11638,6 +11638,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 658, Roboquest batch 6.** Built under Rule C on the first sighting. `findphrase.py` on "sensitivity" found bullets on settings that are missing or inconsistent, and on fixes, none on a default that has to be changed.
 
+## Modes added in Roboquest batch 7 - round 659 (Rule C)
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.picking-upgrades-stops-the-run` | **−** | Choosing between upgrades or items mid-run takes long enough to break the flow, and worse in co-op where the group waits. **Distinct from `game-design.ui-ux.more-time-in-menus-than-playing`** (menus outside the run). |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.fast-clears-should-pay-in-the-run` | **−** | A fast clear is rewarded with currency for later, and the reviewer wants the reward inside the current run, where speed would matter. |
+
+🔑 **Round 659, Roboquest batch 7.** Built under Rule C on the first sighting (both had been drafted onto `unknown`, which Rule C counts as a missed build). `findphrase.py` on "slows you down", "pick an upgrade", "choosing" and "time to choose" found none on picking upgrades breaking the run; nothing on where a speed reward should land.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

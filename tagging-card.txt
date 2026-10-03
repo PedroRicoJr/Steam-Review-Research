@@ -1834,3 +1834,5 @@ game-design.enemy-design.hard-without-being-sponges | + | The enemies are hard b
 game-design.progression.build-and-customisation.a-favourite-weapon-cannot-keep-up | - | A weapon the player likes is outgrown within a stage or two and must be dropped, because nothing lets it be up
 narrative.world-and-setting.wants-a-codex-of-the-world | - | The reviewer asks for an in-game logbook of enemies, characters and places, so they can learn more about the w
 game-design.game-feel.controls.the-default-sensitivity-is-off | - | The aim or camera sensitivity ships at a setting the player has to change, often by trial and error, before it
+game-design.pacing.picking-upgrades-stops-the-run | - | Choosing between upgrades or items mid-run takes long enough to break the flow, and worse in co-op where the g
+game-design.progression.unlock-pace.fast-clears-should-pay-in-the-run | - | A fast clear is rewarded with currency for later, and the reviewer wants the reward inside the current run, wh
