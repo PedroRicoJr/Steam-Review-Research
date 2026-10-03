@@ -1861,3 +1861,4 @@ game-design.progression.build-and-customisation.finds-change-the-numbers-not-the
 game-design.progression.build-and-customisation.a-helper-has-no-clear-use | - | A helper the player is given - a small robot, a pet, a drone - never proves useful, the reviewer cannot tell w
 marketing.discovery.read-about-it-online | ~ | The player found the game through an article or other piece of writing online. **Deliberately neutral**, like 
 marketing.positioning.the-name-does-not-fit-the-game | - | The reviewer finds the title a poor fit - it promises something the game does not do, or is simply a weak name
+game-design.power-balance.rewards-playing-aggressively | + | The game pays the player for pushing into fights rather than holding back, and the reviewer names that as a dr

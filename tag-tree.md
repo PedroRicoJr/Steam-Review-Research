@@ -11793,6 +11793,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 667, Roboquest batch 15.** Built under Rule C on the first sighting. `findphrase.py` on "revive" and "share health" found AI teammates reviving and revive bugs, none of a revive paid for with the standing player's health; on "risk vs", "risk/reward", "bonus area", "not worth the risk", "optional area" and "side area" found only praise for side areas; on "cover" and "not enough cover" found nothing on rooms short of cover; on "new ways to" found only praise; on "companion" found AI teammates and companions that help; on "article" found no discovery through an article; on "the name" found nothing on a title that does not fit.
 
+## Modes added in Roboquest batch 16 - round 668 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.rewards-playing-aggressively` | **+** | The game pays the player for pushing into fights rather than holding back, and the reviewer names that as a draw, without saying how. **Wider than `.low-health-pushes-you-forward`** (pressing on while hurt) **and distinct from `.fighting-is-how-you-heal`** (names the healing mechanism). Roboquest 149214407. |
+
+🔑 **Round 668, Roboquest batch 16.** Built under Rule C on the first sighting. `findphrase.py` on "playing aggressively", "rewards aggress" and "aggressive play" found only extraction-shooter matchmaking and gear complaints, none of a game that rewards aggressive play.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
