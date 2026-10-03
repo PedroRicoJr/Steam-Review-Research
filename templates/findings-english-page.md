@@ -116,8 +116,7 @@ said" with the count if the sample is silent:>
 
 **These are suggestions drawn from what players said, not something the reviews said.** Dominion is a
 third-person, four-player co-op sci-fi PvE extraction and arena shooter built on runs, hosted on one
-player's machine (listen server), in Unreal Engine 5. It may later grow to a larger version, possibly
-200 players (Rico, 2026-10-03); mark lessons that only matter for that step.
+player's machine (listen server), in Unreal Engine 5.
 
 <Numbered list. Each item: the lesson in one plain sentence; the evidence on this page with numbers;
 what Dominion could do; strength (strong / medium / weak). Cover every design area in section 4 that

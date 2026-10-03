@@ -30,8 +30,7 @@ release date and early access dates.>
 
 **How close to Dominion:** <what it shares with Dominion - a third-person, four-player co-op sci-fi PvE
 extraction and arena shooter built on runs, hosted on one player's machine (listen server), in Unreal
-Engine 5, starting at four players and possibly growing to about 200 later (Rico, 2026-10-03) - and
-what it does not. Mark any lesson that only matters for the larger version.>
+Engine 5 - and what it does not.>
 
 ### The short version (plain words)
 <3 to 6 sentences: the one or two things that decide how players feel about this game, with the
