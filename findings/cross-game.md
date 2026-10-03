@@ -1554,3 +1554,74 @@ are against it.** Two 2024-10 reviews came over because Risk of Rain 2 got worse
 - **The non-English audience.** About 4,000 reviews in other languages; none pulled.
 
 ⚠️ **The corpus is now 28 games and 27,009 English summaries (27,771 in all languages).**
+
+## 25. ⭐ What the nineteenth large game adds - The First Descendant, added 2026-10-03
+
+**A free third-person sci-fi looter shooter for up to four players online, on Unreal Engine 5, read from
+its launch (2024-06-30) to two years and three months on.** 1,604 of 51,208 English reviews, a 3.1%
+sample at ±2.50%, across 29 months (2024-06 to 2026-10); 64.5% up; 3,792 bullets, 2.37 per review; 515
+distinct tags, **82 used by no other game; 82 modes built in the 28 The First Descendant blocks (rounds
+616-646)**. Full read in `the-first-descendant-english.md`, ranked lists in `the-first-descendant.md`.
+
+**On the same count as sections 22-24** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included):
+
+| | Deep Rock Galactic | Crab Champions | Risk of Rain 2 | Gunfire Reborn | EDF 5 | Escape from Duckov | Warframe | Helldivers 2 | ARC Raiders | **The First Descendant** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 97.5% | 95.6% | 93.9% | 95.7% | 90.9% | 89.9% | 83.3% | 79.7% | **64.5%** |
+| Bullets per review | 2.12 | 1.52 | 1.43 | 1.78 | 1.89 | 1.92 | 2.01 | 1.79 | 1.56 | **2.37** |
+| Praise per 100 | 175.9 | 123.2 | 104.9 | 130.0 | 140.2 | 134.6 | 127.3 | 108.0 | 86.8 | **83.6** |
+| Complaint per 100 | 23.7 | 18.7 | 18.0 | 33.1 | 38.9 | 40.4 | 50.9 | 55.5 | 56.7 | **122.2** |
+| Praise to complaint | 7.4 : 1 | 6.6 : 1 | 5.8 : 1 | 3.9 : 1 | 3.6 : 1 | 3.3 : 1 | 2.5 : 1 | 1.95 : 1 | 1.53 : 1 | **0.68 : 1** |
+
+**The only game of the ten where complaints outnumber praise**, with the lowest thumbs up and the most
+bullets per review: its reviewers argue at length.
+
+### 🔑 The finding: how a free game is sold can outweigh how it plays
+
+Reviews carrying a monetisation complaint (`publishing.monetisation-practice.*`, any bad mode) are
+**14.6 per 100 here**; Terminull Brigade is 13.2, **Warframe 2.8**, Helldivers 2 1.8, and every other
+English group of 300 or more reviews is at 1.4 or less. Randomness complaints (`game-design.randomness.*`,
+bad) are **7.2 per 100**, the highest (DRG: Rogue Core 6.6, Remnant 2 2.5, Escape from Duckov 2.0; Warframe 1.3). **Both this game
+and Warframe are free; the gap is not price but the chain players describe** — grind for a container,
+roll it for a part, wait for a craft, and pay to skip any step (`one-random-drop-leads-to-another` 20,
+`frustration-is-built-to-sell-shortcuts` 58, `the-shop-charges-far-too-much` 75; the last two are each
+under 0.5 per 100 in Warframe). **The game then changed it**: drop odds shown, bad-luck protection and
+catch-up rewards appear only in the 2025-2026 reviews, and over the four periods complaints per 100 fall
+128 → 84 while grind and price complaints fall by more than half. **For Dominion: chance stacked on
+chance, with money as the exit, is what this audience reads as the design's purpose; showing the odds and
+ending bad luck are what it praises once they arrive.**
+
+### The rival it cannot escape
+
+**282 reviews (17.6%) name Warframe**, half of them thumbs down; Destiny is named in 186.
+`a-named-rival-does-it-better` is on 112 reviews here and 2 in the rest of the corpus. When it wins, the
+reasons given are the shooting and time (*"Compared to Warframe, The First Descendant respects my time
+more"*, 229267499); when it loses, the grind and the shop.
+
+### Other ways it stands out in the corpus
+
+- **Fan service is its loudest single subject.** `the-cast-is-built-to-titillate` (~) is 9.3 reviews per
+  100, against Terminull Brigade 3.3 and EDF 5 0.8, and rises from 6.6 to 16.8 per 100 across the
+  periods.
+- **Veterans write the late reviews.** Median hours on a review go from 20 at launch to 50-70 later; the
+  three most-helpful reviews (592, 554, 545 helpful) are thumbs down from 2025-2026 players with 117 to
+  3,012 hours.
+- **Launch servers and Unreal Engine 5 performance.** `cannot-connect` is 15, all at launch;
+  performance complaints fall from 8.8 to 4.9 reviews per 100.
+
+### Two things this game says about samples and comparison
+
+1. **A heavy launch month hides the turn.** 62% of all English reviews were written in 2024-07, so a
+   whole-sample share is mostly the launch verdict; the improvement shows only in the period table.
+2. **A tag can be one game's habit.** `a-named-rival-does-it-better` is almost entirely this game's;
+   other games file a similar idea under `beaten-by-a-competitor`. Read a large count of a rare mode
+   against the tag's history before reading it against other games.
+
+### What this game does NOT settle
+
+- **Extraction and runs.** It has neither; progress is a long grind for characters and gear.
+- **A paid game.** It is free with a shop; the monetisation finding may not carry to a game sold once.
+- **The non-English audience.** About 61,000 reviews in other languages; none pulled.
+
+⚠️ **The corpus is now 29 games and 28,613 English summaries (29,375 in all languages).**
