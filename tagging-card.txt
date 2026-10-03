@@ -1851,3 +1851,6 @@ audio.music.does-not-fit-the-setting | - | The reviewer says the music clashes w
 game-design.power-balance.low-health-pushes-you-forward | + | The game rewards pressing on while hurt instead of hanging back, and the reviewer names that as a good thing. 
 game-design.progression.build-and-customisation.the-build-grows-between-runs-not-inside-them | - | The character grows mostly through permanent upgrades bought between runs, and the reviewer counts that agains
 marketing.positioning.its-kind-of-game-is-rare | + | The reviewer says few games of this kind exist - a first-person roguelike, say - and praises this one as a goo
+game-design.game-feel.combat.trains-your-aim-for-other-shooters | + | The reviewer uses the game, or recommends it, to sharpen aim, movement and reflexes for other shooters - a war
+game-design.game-feel.movement.going-fast-does-not-feel-fast | - | The character is moving at speed but the screen does not sell it, so going fast does not feel fast. **Distinct
+game-design.pacing.one-kind-of-room-comes-up-too-often | - | One kind of room or encounter - the reviewer's least favourite - makes up too much of each run. **Distinct fro

@@ -11743,6 +11743,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 664, Roboquest batch 12.** Built under Rule C on the first sighting. `findphrase.py` on "low health", "pushing ahead", "push forward", "encourages push", "encourages aggress", "rewards aggress" and "while hurt" found only high-stakes escapes, friendly fire and a director handing out supplies, none of a game that rewards pushing on while hurt; on "rare breed", "are rare", "not many" and "few games" found nothing on a kind of game being rare; on "outside of run", "in a run, not", "inside the run", "between runs instead" and "permanent upgrade" found only wishes for more permanent upgrades and praise for them. A third mode drafted for this batch (health worn down over a run, 132391900's "health attrition") was not built: `findphrase.py` on "attrition" found nothing on it, and `power-balance.health-does-not-come-back-between-fights` already covers damage that stays taken with healing too scarce, so the bullet goes there.
 
+## Modes added in Roboquest batch 14 - round 666 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.trains-your-aim-for-other-shooters` | **+** | The reviewer uses the game, or recommends it, to sharpen aim, movement and reflexes for other shooters - a warm-up before them, or an aim trainer that is also a game. **Distinct from `.impactful`** (how hits feel) **and from `game-design.game-feel.movement.rewards-mastery`** (skill that pays off inside this game). Roboquest 137899056 and 139297251. |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.going-fast-does-not-feel-fast` | **−** | The character is moving at speed but the screen does not sell it, so going fast does not feel fast. **Distinct from `.sluggish`** (moving feels heavy or delayed) **and from `.weightless`** (no sense of mass). Roboquest 140337816. |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.one-kind-of-room-comes-up-too-often` | **−** | One kind of room or encounter - the reviewer's least favourite - makes up too much of each run. **Distinct from `production.content-variety.repetitive`** (every session feels the same) **and from `game-design.level-design.repetitive-layouts`** (the same layouts return). Roboquest 140428732 (combat rooms, "40% of my playthroughs"). |
+
+🔑 **Round 666, Roboquest batch 14.** Built under Rule C. `findphrase.py` on "warmup", "warm up", "warm-up", "skill intensive", "train your aim" and "improve your aim" found nothing; on "aim train" found two plain sightings filed on `review.positive.unknown` - Gunfire Reborn 199834617 ("a good aim trainer") and Roboquest 87922002 ("a fun little aim trainer") - which are re-homed to `.trains-your-aim-for-other-shooters` this round; a third that only jokes about it (Gunfire Reborn 236125933) and Roboquest 136257973 ("Aim Trainer 3.0") stay where they are. `findphrase.py` on "doesn't feel fast", "fast doesn" and "sense of speed" found nothing; on "combat rooms", "challenge room", "rooms", "too often" and "too many fights" found layouts and levels that repeat, none of one room type crowding a run.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
