@@ -11993,6 +11993,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 687, Roboquest batch 35.** Built under Rule C on first sighting. `findphrase` checks: "choose your own path", "choose your path" and "plan out" found only one endgame goal-setting case (`unlock-pace.you-set-your-own-goals`), never fixed routes praised against random builds; "not win", "to lose" and "on purpose to" found nothing about runs given up to meet unlock conditions.
 
+## Modes added in Roboquest batch 36 - round 688 (Rule C)
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.knowing-the-maps-pays-off` | **+** | The levels stay the same from run to run and the reviewer says what they learn of the routes and layouts carries into later runs and is rewarded. **Distinct from `randomness.fixed-routes-and-random-builds-strike-a-balance`** (planning against chance) and the opposite claim in `new-player-experience.newcomers-keep-up-with-veterans`. Roboquest 235353903. |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.leaves-room-to-talk` | **+** | The fights hold the player's attention and still leave gaps where co-op players can talk to each other, and the reviewer names that as part of why they play together. **Distinct from `.a-game-you-can-unwind-to`** (calm throughout): here the play is demanding and the talk fits between its peaks. Roboquest 236513632. |
+
+🔑 **Round 688, Roboquest batch 36.** Built under Rule C on first sighting. `findphrase` checks: "memoriz", "memoris" and "learn the map" found memorising as a burden or as a thing randomness prevents; "learning the maps" found one earlier praise filed under `content-amount.plenty` because the bullet joins it to "a lot to do" - left in place. "breathing", "room to talk" and "time to talk" found nothing about co-op talk between fights.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1889,3 +1889,5 @@ game-design.level-design.arena-rooms-shut-you-in-with-a-horde | - | The level sh
 game-design.randomness.the-run-is-only-fun-with-a-strong-weapon | - | The reviewer says a run is fun only when the draw hands them an unusually strong weapon, and without one the r
 game-design.randomness.fixed-routes-and-random-builds-strike-a-balance | + | The levels and the route through them are fixed or picked by the player, while weapons and upgrades come by ch
 game-design.progression.unlock-pace.unlocking-means-runs-you-do-not-try-to-win | - | Meeting the unlock conditions takes runs spent on errands - digging, fetching named items for a character - in
+game-design.level-design.knowing-the-maps-pays-off | + | The levels stay the same from run to run and the reviewer says what they learn of the routes and layouts carri
+game-design.pacing.leaves-room-to-talk | + | The fights hold the player's attention and still leave gaps where co-op players can talk to each other, and th
