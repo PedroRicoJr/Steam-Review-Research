@@ -11970,6 +11970,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 684, Roboquest batch 32.** Built under Rule C on first sighting. `findphrase` checks: "ping system" and "pings" found only the no-chat complaints (`.cannot-communicate`) and the praise (`.good-tools-for-coordinating`), never a ping that covers too little; "despawn" and "disappear" found no health pickup on a timer; "arena room", "cannot escape", "locked room" and "locks you in" found only the too-small arena (Roboquest 163948845) and move animations.
 
+## Modes added in Roboquest batch 33 - round 685 (Rule C)
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.the-run-is-only-fun-with-a-strong-weapon` | **−** | The reviewer says a run is fun only when the draw hands them an unusually strong weapon, and without one the run is a slog. **Distinct from `.luck-decides-the-outcome`** (the draw decides who wins) and `.the-balance-assumes-you-restart-for-a-god-build` (the player restarts to fish for one): here the complaint is about the fun of the run they keep playing. Roboquest 213925089. |
+
+🔑 **Round 685, Roboquest batch 33.** Built under Rule C on first sighting. `findphrase` checks: "op weapon" and "good weapon" found weapon praise, useless weapons and one luck-decides-the-outcome case (a player at the mercy of chance), never fun hanging on a strong weapon; "god roll" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

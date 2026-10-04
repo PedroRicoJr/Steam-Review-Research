@@ -1886,3 +1886,4 @@ game-design.game-feel.movement.momentum-is-capped | - | Speed comes only as flat
 community.social-features.the-pings-mark-too-few-things | - | The game has a ping or marker, and it points at only some things - weapons, say, and not enemies or items - so
 game-design.power-balance.health-pickups-vanish-before-you-reach-them | - | Health dropped in a fight disappears after a few seconds, so under fire the player cannot get to it in time. *
 game-design.level-design.arena-rooms-shut-you-in-with-a-horde | - | The level shuts the player in a room they cannot leave until a wave of enemies is cleared, and the reviewer na
+game-design.randomness.the-run-is-only-fun-with-a-strong-weapon | - | The reviewer says a run is fun only when the draw hands them an unusually strong weapon, and without one the r
