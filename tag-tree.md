@@ -11937,6 +11937,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 680, Roboquest batch 28.** Built under Rule C on the first sighting. `findphrase.py` on "from the get go", "available from the start" and "unlocked from the start" found plenty of content, mods and a maximum-quality gun at the start, and wishes for everything open - none praising an open pool; the achievement modes already in the tree name gating, misses and repetition, none a set finished too quickly.
 
+## Modes added in Roboquest batch 31 - round 683 (Rule C)
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.built-for-moves-you-have-not-unlocked` | **−** | The levels are plainly laid out for traversal tools - a grapple, a jetpack - that the player must unlock over many hours, so playing them without those tools is a chore, and the reviewer wants the tools from the start. **Distinct from `.the-levels-do-not-suit-the-movement`** (the levels do not use movement the player has) **and from `unlock-pace.slow-start`.** Roboquest 201662266. |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.momentum-is-capped` | **−** | Speed comes only as flat percentage boosts, so rocket jumps, bunny hops and other movement tech hit a hard ceiling quickly, and the reviewer misses building momentum. **Distinct from `.sluggish`** (moving feels heavy) **and from `.no-modern-moves`** (verbs are missing). Roboquest 204975291. |
+
+🔑 **Round 683, Roboquest batch 31.** Built under Rule C on the first sighting. `findphrase.py` on "designed around" found games built around co-op or consoles, none around unlockable traversal; on "momentum" and "speed cap" found stiff movement and stalled pacing, none of momentum capped by design.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

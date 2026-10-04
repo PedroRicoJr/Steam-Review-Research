@@ -1881,3 +1881,5 @@ game-design.power-balance.the-fun-builds-are-the-weak-ones | - | The builds the 
 game-design.ui-ux.the-test-range-is-too-limited | - | The game has a place to test weapons or builds, but it does not let the player set up the combinations they wa
 game-design.progression.unlock-pace.most-of-the-pool-is-open-from-the-start | + | Most weapons, items and perks are in the drop pool from the first run rather than unlocked one by one, so runs
 game-design.progression.achievements.the-set-is-finished-too-quickly | - | All the achievements can be earned in little time, and the reviewer counts that as a downside - the chase ends
+game-design.level-design.built-for-moves-you-have-not-unlocked | - | The levels are plainly laid out for traversal tools - a grapple, a jetpack - that the player must unlock over 
+game-design.game-feel.movement.momentum-is-capped | - | Speed comes only as flat percentage boosts, so rocket jumps, bunny hops and other movement tech hit a hard cei
