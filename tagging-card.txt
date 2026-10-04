@@ -1869,3 +1869,4 @@ game-design.progression.build-and-customisation.upgrades-carry-unwanted-drawback
 game-design.progression.unlock-pace.collectibles-are-a-chore | - | The reviewer dislikes having to hunt collectibles to progress or complete the game. **Distinct from `game-desi
 production.craftsmanship.the-design-pulls-against-itself | - | The reviewer says the game's systems push one way of playing and punish it elsewhere - fast play is encouraged
 game-design.power-balance.the-only-heal-is-charging-the-enemy | - | Health comes back mainly from what killed enemies drop, so healing means running straight into the fight, and 
+game-design.randomness.you-can-shape-the-pool | + | Progress lets the player remove unwanted items or weapons from the random pool, or raise the odds of ones they

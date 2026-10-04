@@ -11845,6 +11845,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 670, Roboquest batch 18.** Built under Rule C on the first sighting. `findphrase.py` on "ways to heal" and "ways to gain" found nothing; on "heal" found healing that is too scarce, none asking for a heal that does not mean charging the enemy.
 
+## Modes added in Roboquest batch 20 - round 672 (Rule C)
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.you-can-shape-the-pool` | **+** | Progress lets the player remove unwanted items or weapons from the random pool, or raise the odds of ones they like, so the draws can be steered without being chosen outright. **Distinct from `.the-best-gear-is-not-left-to-chance`** (the best gear is earned, not drawn) **and the answer to `.the-thing-you-need-may-never-roll`.** Roboquest 154915046 (up to 12 guns removed from the pool). |
+
+🔑 **Round 672, Roboquest batch 20.** Built under Rule C on the first sighting. `findphrase.py` on "remove guns", "out of the pool" and "banish" found nothing on steering the pool; on "reroll" found only complaints that the needed item never rolls.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
