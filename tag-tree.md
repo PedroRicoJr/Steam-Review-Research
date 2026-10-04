@@ -11891,6 +11891,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 676, Roboquest batch 24.** Built under Rule C on the first sighting. `findphrase.py` on "voice act" found voice work called lacklustre, flat or bad, none wishing an unvoiced character had a voice. Same round: 163948845's hallways that turn the game into a choke-point cover shooter go to `level-design.only-one-way-to-play-it`, following an earlier "hiding and peeking behind a wall" bullet found by `findphrase.py` on "peek".
 
+## Modes added in Roboquest batch 25 - round 677 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.capped-at-a-few-core-skills-per-run` | **−** | A run allows only a small fixed number of core skills, and the reviewer questions the cap. **Distinct from `.too-few-weapon-slots`** (weapons carried) **and from `.one-slot-is-compulsory`.** Roboquest 167451689 (four core skills). |
+
+🔑 **Round 677, Roboquest batch 25.** Built under Rule C on the first sighting. `findphrase.py` on "skills per run", "core skill", "limited to 4" and "ability slots" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
