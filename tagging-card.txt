@@ -1883,3 +1883,6 @@ game-design.progression.unlock-pace.most-of-the-pool-is-open-from-the-start | + 
 game-design.progression.achievements.the-set-is-finished-too-quickly | - | All the achievements can be earned in little time, and the reviewer counts that as a downside - the chase ends
 game-design.level-design.built-for-moves-you-have-not-unlocked | - | The levels are plainly laid out for traversal tools - a grapple, a jetpack - that the player must unlock over 
 game-design.game-feel.movement.momentum-is-capped | - | Speed comes only as flat percentage boosts, so rocket jumps, bunny hops and other movement tech hit a hard cei
+community.social-features.the-pings-mark-too-few-things | - | The game has a ping or marker, and it points at only some things - weapons, say, and not enemies or items - so
+game-design.power-balance.health-pickups-vanish-before-you-reach-them | - | Health dropped in a fight disappears after a few seconds, so under fire the player cannot get to it in time. *
+game-design.level-design.arena-rooms-shut-you-in-with-a-horde | - | The level shuts the player in a room they cannot leave until a wave of enemies is cleared, and the reviewer na

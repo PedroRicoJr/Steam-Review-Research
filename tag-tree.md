@@ -11951,6 +11951,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 683, Roboquest batch 31.** Built under Rule C on the first sighting. `findphrase.py` on "designed around" found games built around co-op or consoles, none around unlockable traversal; on "momentum" and "speed cap" found stiff movement and stalled pacing, none of momentum capped by design.
 
+## Modes added in Roboquest batch 32 - round 684 (Rule C)
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.the-pings-mark-too-few-things` | **−** | The game has a ping or marker, and it points at only some things - weapons, say, and not enemies or items - so the reviewer wants it widened. **Distinct from `.cannot-communicate`** (no usable way to talk at all) and the negative partner of `.good-tools-for-coordinating`. Roboquest 206714368. |
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.health-pickups-vanish-before-you-reach-them` | **−** | Health dropped in a fight disappears after a few seconds, so under fire the player cannot get to it in time. **Distinct from `.resources-too-scarce`** (too little supply) and `.health-drops-swing-from-too-many-to-too-few` (uneven supply): here the supply is there and runs out on a timer. Roboquest 207965546. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.arena-rooms-shut-you-in-with-a-horde` | **−** | The level shuts the player in a room they cannot leave until a wave of enemies is cleared, and the reviewer names the trap itself as the problem - the fight costs health they cannot avoid losing. **Distinct from `.the-spaces-are-scaled-too-small`** (the room is too tight): here the complaint is being locked in. Roboquest 207965546. |
+
+🔑 **Round 684, Roboquest batch 32.** Built under Rule C on first sighting. `findphrase` checks: "ping system" and "pings" found only the no-chat complaints (`.cannot-communicate`) and the praise (`.good-tools-for-coordinating`), never a ping that covers too little; "despawn" and "disappear" found no health pickup on a timer; "arena room", "cannot escape", "locked room" and "locks you in" found only the too-small arena (Roboquest 163948845) and move animations.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
