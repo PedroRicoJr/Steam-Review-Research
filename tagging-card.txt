@@ -1870,3 +1870,5 @@ game-design.progression.unlock-pace.collectibles-are-a-chore | - | The reviewer 
 production.craftsmanship.the-design-pulls-against-itself | - | The reviewer says the game's systems push one way of playing and punish it elsewhere - fast play is encouraged
 game-design.power-balance.the-only-heal-is-charging-the-enemy | - | Health comes back mainly from what killed enemies drop, so healing means running straight into the fight, and 
 game-design.randomness.you-can-shape-the-pool | + | Progress lets the player remove unwanted items or weapons from the random pool, or raise the odds of ones they
+game-design.enemy-design.the-bosses-stack-too-many-threats | - | Boss fights layer several hazards at once - a lava floor, mines, lasers, a stun followed straight by a heavy h
+game-design.level-design.the-puzzle-answers-differ-in-every-game | ~ | Codes or puzzle answers are generated for each player's game, so they cannot be looked up in a guide, and the 

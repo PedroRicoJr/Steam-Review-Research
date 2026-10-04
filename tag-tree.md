@@ -11854,6 +11854,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 672, Roboquest batch 20.** Built under Rule C on the first sighting. `findphrase.py` on "remove guns", "out of the pool" and "banish" found nothing on steering the pool; on "reroll" found only complaints that the needed item never rolls.
 
+## Modes added in Roboquest batch 21 - round 673 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-bosses-stack-too-many-threats` | **−** | Boss fights layer several hazards at once - a lava floor, mines, lasers, a stun followed straight by a heavy hit - so dodging everything is not practical and losses to them feel like attrition. **Distinct from `.no-counterplay`** (one attack that cannot be answered) **and from `.bosses-are-a-chore`** (too long). Roboquest 156056992. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-puzzle-answers-differ-in-every-game` | ~ | Codes or puzzle answers are generated for each player's game, so they cannot be looked up in a guide, and the reviewer tells readers to write them down. **Neutral**: a fact about the design the reviewer passes on. Roboquest 155466934. |
+
+🔑 **Round 673, Roboquest batch 21.** Built under Rule C on the first sighting. `findphrase.py` on "codes", "door code" and "write them down" found ability input codes, crash codes and a defence of the puzzles (filed on `review.answers-a-claim-made-in-another-review`), none saying the codes differ per game; the boss sightings already in the tree name length, adds, invulnerability and damage checks, none the piling-up of hazards.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
