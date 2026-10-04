@@ -1,4 +1,4 @@
-<!-- reviewed: 2026-10-03 | status: active | one entry per finished game, written from templates/dominion-takeaways-entry.md -->
+<!-- reviewed: 2026-10-04 | status: active | one entry per finished game, written from templates/dominion-takeaways-entry.md -->
 
 # Dominion takeaways — what every game we read teaches
 
@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Roboquest | 2026-10-04 | 96.4% |
 | The First Descendant | 2026-10-03 | 64.5% |
 | Crab Champions | 2026-10-01 | 97.5% |
 | EARTH DEFENSE FORCE 5 | 2026-09-30 | 95.7% |
@@ -1110,6 +1111,309 @@ reviews said.
 ---
 
 # The games
+
+## Roboquest
+
+**Read:** 1,786 of 17,274 English reviews (10.4%; 1,796 were read and 10 were empty), ±2.50%, written
+August 2020 to October 2026. **96.4% thumbs up** in the sample (Steam, all languages: 95%,
+Overwhelmingly Positive). **Pages:** `findings/roboquest-english.md`, `findings/roboquest.md`,
+`findings/cross-game.md` section 26.
+
+**What it is:** A fast first-person shooter against robots, built on runs: each run goes through a set
+of levels to a final boss, and you start again when you die. You play alone or with one friend online
+(two players at most, from the reviews and the studio's posts; the store page does not give a number).
+Cross-platform play is on. The pages do not say who hosts a game. Sci-fi, with a bright comic-book look.
+Sold once, $24.99 on Steam, with no shop. Windows only on Steam. Made and published by RyseUp Studios.
+In Early Access from 2020-08-20, full release 2023-11-07; the studio announced the end of updates on
+2025-05-07. The pages do not name the engine. (Store facts and dates checked against Steam's store page
+and the studio's Steam posts.)
+
+**How close to Dominion:** Close in play. It shares the shooting, the sci-fi setting, play with friends
+against the computer online, and runs that build power and then reset. It differs in the first-person
+camera, two players instead of four, and no extraction - a run ends at a boss, not at a way out.
+
+### The short version (plain words)
+Players love how this game feels: 96% recommend it, and its players praise the music, the shooting and
+the movement more than the players of any of the 20 large games we have read (music 11.3 reviews per
+100, shooting 9.4, movement 9.2; the next highest are 3.8, 5.8 and 2.7). The one complaint that lasts
+from 2020 to 2026 is that only two people can play together: 36 times it was said, and 34 of those 36
+reviews still recommend the game. "There is too little to do" was the biggest complaint while the game
+was unfinished (5.5 per 100 reviews in Early Access) and almost vanished after (0.3). Players explain the
+game by naming others - Borderlands in 126 reviews, DOOM in 113, Gunfire Reborn in 93 - and say it wins:
+75 times it was called the best of its kind, and 67 times it beat a game the reviewer named.
+
+The reviews are short (half are 15 words or fewer) and kind: 615 thumbs up say nothing specific, and 73%
+of all complaints come from players who still recommend it. The median review shows 12.9 hours played;
+the 65 thumbs-down reviews show a median of only 5.5.
+
+What the points are about: game design 41.3% (mostly how it feels and the builds), a bare thumbs up or
+down 15.7%, comparisons and reputation 12.2%, content and Early Access 7.1%, sound 5.3% (almost all the
+music), playing with friends and the community 4.3%, updates 3.9%, art 3.8%, tech 3.0%, price 2.4%,
+story 0.9%.
+
+### What players praised, most to least
+Counts here are times it was said. 615 more thumbs-up reviews said nothing specific (34.4 per 100).
+1. **The music.** Said 202 times (11.3 per 100). One player downloaded tracks to their phone (208087719); another says buy it *"Even if it's
+   just for the soundtrack"* (213960449).
+2. **The shooting hits hard.** Said 168 times (9.4 per 100). Feeling far stronger than your enemies: 11.
+   Never having to reload keeps you shooting: 4. It trains your aim for other shooters: 4.
+3. **Many ways to build your character in a run.** Said 144 times (8.1 per 100). Tools that combine into
+   your own tactics: 11.
+4. **Quick, smooth movement.** Said 132 times (7.4 per 100). Movement that rewards skill - rocket jumps,
+   slides, the grappling hook, bunny hops: 33.
+5. **One more run.** Said 129 times (7.2 per 100).
+6. **Much better with a friend.** Said 125 times (7.0 per 100). With a family member: 12.
+7. **The look.** A clean, bright comic style, said 100 times (5.6 per 100); words like *"POW"* pop up as
+   guns fire. It also looks great: 24. Easy to read what is happening: 10.
+8. **Unlocking things feels good.** Said 78 times (4.4 per 100).
+9. **The best game of its kind.** Said 75 times (4.2 per 100), rising from 0.5 per 100 in Early Access to
+   7.9 after updates ended.
+10. **The action never lets up.** Said 70 times (3.9 per 100).
+11. **Better than a named rival.** Said 67 times; Gunfire Reborn is the game most often beaten (32).
+12. **Each class plays its own way** (51) and **each weapon feels different** (50).
+13. **Hard in a way players enjoy.** Said 50 times. Difficulty levels that step up well: 18. Difficulty
+    you can set in detail: 5. Losses that feel like your own fault: 8.
+14. **A fair price** (48) and **worth it at any price** (11).
+15. **Secrets reward exploring.** Said 47 times. Levels that are well built: 15.
+16. **Made with care** (42). **Updates made it better** (38); updates came steadily (20).
+17. **Overlooked, underrated** (37). It even won over players who avoid this kind of game (11), and it
+    beats most big-budget games (5).
+18. **Early Access was worth it** - good value while unfinished (33), and the finished game kept the
+    promise (35); it never felt unfinished (17).
+19. **Great bosses** (26), **good enemy variety** (15), **runs that differ** (26), **works alone** (25),
+    **good in short sittings** (16).
+20. **It runs well** (19), **even on weak machines** (8), **with few, small bugs** (19); it runs well on
+    the Steam Deck (5).
+21. **Smaller things:** fine for younger players (6 - *"family-friendly Doom with co-op"*, 156644725), a story worth following
+    (8), well-made cutscenes (4), a fair, achievable set of achievements with plenty to hunt (12), a
+    demo that let them try it first (13), the studio is open about its plans (11), and they will buy
+    the studio's next game (11).
+
+### What players complained about, most to least
+Counts are times it was said. 533 of the 729 complaints (73%) come from thumbs-up reviews.
+1. **Too little to do.** Said 48 times (2.7 per 100); 4 are thumbs down. Mostly in Early Access (5.5 per
+   100), down to 0.3 after updates ended.
+2. **Only two players.** Said 36 times (2.0 per 100), steady from 2020 to 2026; only 2 are thumbs down.
+   *"game of the year if it had 4 player"* (134257787). Two players defend the limit:
+   more would make it too easy (140071314) or the maps too small (190306353).
+3. **Buy it on sale only.** Said 18 times, all thumbs up. Too expensive for what it is: 9 (5 thumbs down).
+4. **Another game does it better.** Said 17 times, 7 of them thumbs down. Gunfire Reborn in 9 of the
+   17, for its progression and replay value.
+5. **Build choices are shallow** (16) and **some weapons are not worth using** (16); only a few guns
+   carry you (8); only a few builds work (6); finds change numbers, not play (5).
+6. **Runs feel the same** (15), **too few kinds of enemy** (15), **it runs out fast** (10); mostly early.
+7. **An update made it worse.** Said 13 times, **8 of them thumbs down** - the most common reason given
+   in a thumbs-down review: reworked abilities and classes, the final bosses, *"feature creep"*
+   (162400098).
+8. **You cannot stop a run and finish it later.** Said 12 times, **5 thumbs down**. *"Runs can take an
+   hour … there's no saves between levels"* (149722424).
+9. **The levels are the same every run** (10), too easy (10), too hard (7), a mode they expected is
+   missing (10).
+10. **The studio wiped their progress** (9): 5 of them at the full release, when everyone's progress
+    was reset (the studio's post confirms it); 2 thumbs down. *"felt robbed"* (151158851).
+11. **Sad that updates stopped** (9, 2 thumbs down).
+12. **Smaller things:** the music is not to their taste (8); arena rooms too small (7); wants more
+    updates (7); the robots look alike - *"They look like placeholders"* (89809773) (7);
+    too much grind to unlock everything (7); the story does not land (7); the first hours are slow
+    because the good tools are locked (6); a class is too weak (6); stuns and loss of control (6); one
+    part far harder than the rest (6); one hated enemy or boss (5); no mod support (5); bugs that break
+    play (5); crashes (4); the name does not fit the game - *"terrible title"* (202204363) (4);
+    required jumping sections in a shooter (4); motion sickness (3); an empty, lifeless home base (3).
+
+### How it changed over time
+Four periods: Early Access (2020-08 to 2023-10, 767 reviews), the full-release month (2023-11, 157),
+the update years (2023-12 to 2025-04, 519) and after updates ended (2025-05 to 2026-10, 343).
+- **Thumbs up barely moved:** 96.0%, 97.5%, 97.1%, 95.6%.
+- **Complaints fell once the game was finished:** 51.4 per 100 in Early Access, 40.1 at release, about
+  30 after. Too little content 5.5 → 0.3; shallow builds 1.8 → 0.3; too few enemies 1.7 → 0.3; runs
+  that feel the same 1.7 → 0.0.
+- **What rose:** best of its kind 0.5 → 7.9; buy on sale only 1.2 → 1.7; updates stopped 0.0 → 2.0.
+- **The release month** had the most anger about the progress reset (3.2 per 100) and the most wins over
+  named rivals (7.6).
+- **The ending:** the studio's post of 2025-05-07 said there would be no more updates, that the game was
+  designed for 25 to 50 hours, and that online play would stay. Reviews took it calmly (below).
+- **Online play broke later.** Reviews from late 2025 and early 2026 say friends could not play together
+  or kept dropping; the studio posted a fix on 2026-03-25, worked out with Epic Games. One reviewer
+  turned the thumb back to up once it worked (211941093).
+- **Movement praise falls in the last period** (9.4 → 2.0 per 100). Part of that may be how later
+  reviews were filed, not only what players said; this was not checked.
+
+### Co-op and online play
+- **Friends make it:** much better with friends, 125 times; with family, 12; one player meets a friend
+  every week through it, with *"enough breathing space that you can actually talk with the other player"* (236513632).
+- **Two players at most** is the top lasting complaint (36). Players ask for three, four, even *"4-6 players"* (136706547).
+- **Dropping out loses the run** (4): *"you can't reinvite to your run"* (218297733); one player
+  understands no reconnect is planned (234193633, the reviewer's understanding). Cannot connect at all:
+  2. Frequent drops: 1. Lag: 3. Smooth online: 9.
+- **The guest fights at a disadvantage** (1). **Bringing a teammate back costs your own health** (2):
+  *"give my dead teammate half of my hp"* to open a door (221526073).
+- **Finding people:** no server browser (3), no public matchmaking (1), cannot talk to the other player
+  (3), pings that mark only some things (1).
+- **Works alone** (25) - *"The most fun I had singleplayer in an fps in a long time"* (206079322) - though 3 say it punishes
+  playing alone.
+- **Playing well together:** partners cover each other with different classes and help in locked
+  challenge rooms (3).
+- Who hosts a game is not known from the pages.
+
+### Combat, movement and feel
+- **Shooting** that hits hard (168) is the heart of it; feeling far stronger than your enemies (11);
+  never reloading (4). Feels like every other shooter: 4. Cannot shoot while sprinting: 1.
+- **Movement** quick and smooth (132); rewards skill (33). Sluggish (3); a move that does not do what you
+  asked, like a grappling hook that never pulls (4); missing modern moves (4); speed boosts capped at a
+  flat percentage (1).
+- **The jetpack and grappling hook are unlocks**, and one player says the levels are built for them,
+  which takes 10 to 15 hours (201662266).
+- **Loss of control (6):** enemy hacks that reverse your controls, stuns you break by tapping a key three
+  times in a game built on movement (153663026), and a run on the hardest setting lost at the final
+  boss when a "hacked" effect walked the player into it; they want a toggle to turn it off (232808117).
+- **Controls** responsive and clear (13); on a controller, aim help can be tuned all the way up
+  (236648445). Motion sickness: 3.
+- **Reading the fight:** easy to read at a glance (10); threats unclear (3); the robots look alike (7).
+
+### Enemies, bosses and difficulty
+- Great bosses (26); good enemy variety (15) against too few enemy types (15, mostly early); one hated
+  enemy or boss (5 - the Judge Ball boss twice); enemies that soak bullets (3); poor enemy behaviour (4).
+- Hard in a good way (50); difficulty levels that step up well (18); set in detail (5). Too easy (10);
+  too hard (7); one part far harder (6); difficulty badly scaled (3).
+- Healing: *"all melee weapons grant extra healing on kill"*, so melee builds are never wasted runs
+  (232191761);
+  one player says health pickups vanish before you can reach them and heal very little (207965546);
+  one dislikes being locked in arena rooms with a horde (207965546), while another likes that the
+  locked rooms keep you moving (232191761).
+- Losses feel like your own fault (8): *"you can recognise how your own misplays bring about your
+  failed runs"* (236513632).
+
+### Progression, loot, randomness and grind
+- Unlocking feels good (78); many ways to build (144); each class different (51); each weapon different
+  (50).
+- What carries over: permanent upgrades at the base camp, classes, and weapon cards. Some say the
+  permanent upgrades are too small to feel (5) and filled up quickly; one says *"The real upgrade is your skill as a
+  player"* and that, unlike Hades, no huge grind is needed (222060858).
+- Grind: too much to unlock everything (7); the first hours are weak because the good tools are locked
+  (6); unlocks come too fast (4); nothing left to chase at the end (5).
+- **Unlocks through errands outside combat** (2): powerful gadgets need graves dug at random or named
+  guns shown to a character, with guides needed and runs spent not trying to win (231696370, thumbs
+  down; the store page never says so).
+- Luck: the levels are fixed, with random weapons and upgrades. The same levels every run (10) against
+  one who likes fixed routes with random builds (226898448) and one who likes learning the maps
+  (235353903). Luck decides too much (4); a run is only fun with a strong weapon (1); progress lets you
+  shape what drops (2).
+
+### Runs, content and replay value
+- A run takes 30 to 60 minutes, players say. One more run (129); good in short sittings (16).
+- **No way to stop a run and come back** (12, 5 thumbs down). The studio added a save and quit on
+  2024-11-27, for single player only (studio post); after it, one player never found it (207408865)
+  and a co-op player says a run resets if you leave (236645998).
+- Too little content (48, mostly Early Access); runs feel the same (15); it runs out fast (10). Endless
+  mode, added in 2024, gives more replay (3).
+- Secrets reward exploring (47); quests and secrets that need a wiki or guide to understand (3).
+
+### Money and price
+- Sold once; no shop (2 say so with praise). A fair price (48); worth it at any price (11); 4 bought it to
+  support the studio.
+- Buy on sale only (18); too expensive for what it is (9); *"a bit pricey for the duration of the game, so get it on a sale"* (232808117).
+- Came through a game subscription (6); the studio's release post lists Xbox and PC Game Pass. A demo
+  let them try first (13).
+
+### Tech: performance, crashes, bugs
+- Runs well (19), even on weak machines (8); few, small bugs (19); runs well on the Steam Deck (5).
+- Crashes (4); bugs that break play (5); stuck on scenery (2); demanding or hot-running (6); slows down
+  the longer you play (2).
+- Saves lost on two computers (233527755). One says the whole computer hard-crashes since a patch
+  (224456327, the reviewer's account).
+
+### The studio, updates and community
+- Updates made it better (38) and came steadily (20); the studio is open about its plans (11) and
+  listens (8). Players like the people running it (3) and will buy their next game (11).
+- Changes that made it worse (13, 8 thumbs down) - the top reason in thumbs-down reviews.
+- The full-release progress reset (9 complaints), confirmed by the studio's post; the studio then
+  offered a way to recover progress (studio post, 2023-11-22).
+- **The ending was accepted:** 9 are sad updates stopped (2 thumbs down: *"Devs are no longer updating the game, don't buy this game"*, 194438198),
+  and 4 call the game finished, not abandoned - *"Its feature complete"* (229034414, 21 found it helpful).
+  Across the corpus, sadness at stopped updates is 0.5 per 100 here against 4.7 in Back 4 Blood.
+- A Dead Cells crossover update came in 2024-08 (studio post); 8 reviews name Dead Cells.
+- No mod support (5).
+
+### What players asked for
+- More players: 36 times.
+- A way to save a run and come back: 12.
+- More content, as praise: 25.
+- Modes: versus play (3), endless or new game plus (2, before Endless mode came), horde or survival (2),
+  practice (1), online before it existed (1), playing as an enemy (1).
+- A way back into a run after a drop (2); a toggle for the hack effect (1); wider pings (1); voiced
+  characters (1); a codex of the world (1); run modifiers (1); a crossover DLC (1); a livelier home base,
+  some with traders (3).
+
+### Only in this game
+Things said here and in no other game read so far (73 such tags), the ones that matter for design:
+- The robots look alike and generic (7).
+- Rewards for playing fast and aggressive (6; one names ranks for speed that raise earnings).
+- Permanent upgrades too small to feel (5); finds that change numbers, not play (5).
+- Never reloading keeps you shooting (4); the game's name puts people off (4).
+- A teammate's revive costs your own health (2); fighting is how you heal (2).
+- Fixed routes with random builds as a strength (1); learning the maps pays (1); room to talk between
+  fights (1); errands outside combat to unlock gadgets (1); pings that mark too little (1); health
+  pickups that vanish (1); being shut in arena rooms with a horde (1).
+
+### For Dominion - our reading
+These are suggestions, not decisions.
+1. **Four players is a selling point; say it loudly.** Evidence: 36 asks for more than two players,
+   from 2020 to 2026, 34 of them from players who still recommend the game; the highest rate in the
+   corpus (2.0 per 100). Dominion could put "four-player co-op" on the store page and in the first
+   trailer, and test scaling, revives and rewards at four, three and two. **Strong.**
+2. **Feel comes first.** Evidence: music, shooting and movement praised more here than in any other
+   game read (11.3, 9.4 and 9.2 per 100), in a game rated 96%. Dominion could spend early effort on
+   the gun feel, a short quick move set with room to master, and the soundtrack. **Strong.**
+3. **Let a group stop a run and come back to it, in co-op too.** Evidence: 12 times, 5 thumbs down; the
+   single-player-only save left co-op without one. Dominion could save at each extraction or between
+   arenas, for the whole group, and show where. **Strong.**
+4. **Let a dropped player back into the same run.** Evidence: a drop loses the run (4, 2 thumbs down);
+   online play broke for months after support ended (studio fix, 2026-03-25). Dominion could hold a
+   dropped player's slot and let the host re-invite; and keep testing the online service even after
+   updates stop. **Medium.**
+5. **Do not take control away.** Evidence: 6 complaints, including a top-difficulty run lost to a
+   "hacked" effect at the final boss. Dominion could keep stuns short, rare and readable, give a way
+   out, and never reverse the controls. **Medium.**
+6. **Give the movement tools the levels need from the first run.** Evidence: levels built for a
+   grappling hook that takes 10-15 hours to unlock; a slow first few hours (6); gadgets behind errands
+   (2). Dominion could put the grind on options, not on basic movement. **Medium.**
+7. **Never wipe what players earned, or give it back.** Evidence: the full-release reset drew 5 of its 9
+   complaints in one month, 2 thumbs down. Dominion could plan its save format early and, if a reset is
+   ever needed, offer recovery. **Medium.**
+8. **If support ends, explain it, finish the game and keep online working.** Evidence: 9 sad, 4
+   "finished, not abandoned", 2 thumbs down - far calmer than other games that stopped (Back 4 Blood
+   4.7 per 100); the online fault came after. **Medium.**
+9. **Know the closest rival and beat it on progression and replay.** Evidence: Gunfire Reborn, the
+   nearest rival, beaten 32 times and preferred 9, for progression and replay. **Medium.**
+10. **Make enemies look distinct.** Evidence: the robots look alike (7, only in this game); threats
+    unclear (3). Dominion's sci-fi enemies should read apart at a glance. **Weak.**
+11. **Mix fixed layouts with changing runs.** Evidence: the same levels every run (10) against those who
+    like learning fixed maps (2). Dominion could keep arena layouts learnable while routes, enemies and
+    modifiers change. **Weak.**
+12. **Reward pushing forward; let close fighting heal.** Evidence: rewards for playing fast and aggressive (6, one naming speed ranks that raise earnings);
+    melee heals on a kill (2). **Weak.**
+13. **A long Early Access can work if it keeps its promise.** Evidence: three years of Early Access at
+    96% up; too little content fell from 5.5 to 0.3 per 100 after release; the promise kept, 35 times.
+    **Medium.**
+
+### Limits
+- 10.4% of English reviews, ±2.50% on the whole sample; the periods carry about ±3.5 to ±7.8 (the
+  release month is 157 reviews).
+- Weights reach ×16 in several months; the release month holds 14.4% of all English reviews.
+- Half the reviews are 15 words or fewer, and 16% of points say nothing specific; most complaint counts
+  are under 20.
+- The fall in movement praise in the last period may partly be how reviews were filed; not checked.
+- 200 reviews (11.2%) were edited later and are counted on the day they were first written.
+- Not checked: the publisher history some reviewers name, when the online fault began (the fix date is
+  the studio's), prices quoted in reviews, and the crash one player blames on a patch.
+- Rival counts come from searching review text, so a review that names a game without praising or
+  faulting it is counted too.
+- First person and two players: the feel lessons may not carry one to one to a third-person,
+  four-player game.
+- English only: about 7,200 reviews in other languages were not read. Slurs and jabs are recorded only
+  as jabs; personal, family and health details were left out.
+
+---
 
 ## The First Descendant
 

@@ -17,9 +17,9 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | | |
 |---|---|
 | Updated | 2026-10-04 |
-| Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Roboquest (The First Descendant finished in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 690: Roboquest master page `findings/roboquest.md` and cross-game section 26 |
-| Next unit | Roboquest entry in `DOMINION-TAKEAWAYS.md` from `templates/dominion-takeaways-entry.md`; then mark GAMES-TODO row 13 and planning A15 Done and pick the next game from `planning/` (closest to Dominion first) |
+| Current stage | After stage 3: games from `planning/`, closest to Dominion first - next game to be picked (Roboquest finished in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
+| Last unit done | Round 691: Roboquest entry in `DOMINION-TAKEAWAYS.md`; Roboquest Done (GAMES-TODO row 13, planning A15) |
+| Next unit | Pick the next game from `planning/` (closest to Dominion first, record why), add its GAMES-TODO row, build the grid and pull - as round 650 did for Roboquest |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,893 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
@@ -28,6 +28,6 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | EARTH DEFENSE FORCE 5 | **Done** 2026-09-30 - 1,768 of 1,768 read; `findings/earth-defense-force-5-english.md`, `findings/earth-defense-force-5.md`, cross-game section 23 |
 | Crab Champions | **Done** 2026-10-01 - 1,512 of 1,512 read; `findings/crab-champions-english.md`, `findings/crab-champions.md`, cross-game section 24 |
 | The First Descendant | **Done** 2026-10-03 - 1,604 of 1,604 read (4 excluded); `findings/the-first-descendant-english.md`, `findings/the-first-descendant.md`, cross-game section 25 |
-| Roboquest | pulled 2026-10-03: 1,796 reviews (+/-2.50%); 1,796 read (10 excluded) |
+| Roboquest | **Done** 2026-10-04 - 1,796 of 1,796 read (10 excluded); `findings/roboquest-english.md`, `findings/roboquest.md`, cross-game section 26, `DOMINION-TAKEAWAYS.md` entry |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.

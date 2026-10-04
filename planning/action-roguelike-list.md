@@ -48,7 +48,7 @@ since" is Steam's own date, which for older or re-listed games is later than the
 | A12 | Enter the Gungeon | 311690 | Apr 5, 2016 | 89,884 | 95% | 44,475 | no | not Enter the Gungeon 2 (2339840) or Exit the Gungeon (1209490) |
 | A13 | PEAK | 3527290 | Jun 16, 2025 | 373,993 | 94% | 178,840 | no |  |
 | A14 | BALL x PIT | 2062430 | Oct 15, 2025 | 27,197 | 95% | 16,614 | no |  |
-| A15 | Roboquest | 692890 | Nov 7, 2023 | 24,443 | 95% | 17,257 | **WIP** (row 13 of `GAMES-TODO.md`, pulled 2026-10-03) |  |
+| A15 | Roboquest | 692890 | Nov 7, 2023 | 24,443 | 95% | 17,257 | **Done** (row 13 of `GAMES-TODO.md`; findings 2026-10-04, cross-game section 26, takeaways entry in) |  |
 | A16 | Megabonk | 3405340 | Sep 18, 2025 | 106,254 | 94% | 61,368 | no | not the spin-off Megabonk Apocalypse (4331030) |
 | A17 | Risk of Rain 2 | 632360 | Aug 11, 2020 | 353,060 | 94% | 239,542 | **Done** (1,885 pulled) | no new pull |
 | A18 | Gunfire Reborn | 1217060 | Nov 17, 2021 | 103,730 | 93% | 43,865 | **Done** (1,884 read) |  |

@@ -482,6 +482,9 @@ mode was retired. The most-used game-only modes:
 - **Not checked:** the publisher history some reviewers name (the store lists RyseUp Studios as both
   developer and publisher), the dates of the online outage (only the fix date is the studio's), prices
   reviewers quote, and claims about crashes caused by a patch.
+- **Italic phrases with an id are mostly the wording of the summary bullet, not the review's own words.**
+  The exact review text is in `raw/roboquest/english/sample/*.json`; `DOMINION-TAKEAWAYS.md` quotes the
+  review text itself.
 - **Slurs and jabs were recorded as "a jab" or "a crude remark" and not repeated. Personal, family and
   health details were left out.**
 - **7 reviews were written in another language** (Portuguese 3, Russian 2, Polish 1, French 1), filed on
