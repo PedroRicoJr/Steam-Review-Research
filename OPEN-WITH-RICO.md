@@ -22,4 +22,11 @@ remove it when Rico rules.
   unit, which wipes it (found on every firing since 2026-09-24). Only the hourly backstop survives, and a
   Routine cannot fire more often than hourly. Option: let each backstop firing do several units in a row
   (twelve would match a 5-minute pace). Waiting on Rico's word.
+- **Re-pull a launch month that starts late in the month?** ELDEN RING NIGHTREIGN came out on 2025-05-29;
+  the standard pull got 73 of the 294 wanted for 2025-05 (three of four windows are before release), so
+  the group is at +/-3.18%, and 2025-05 (19.8% of the group) is read at 0.38%. A one-month re-pull from
+  the release hour (`scripts/pull_month_from_day.py`, round 692) was tested and returns all 294 and
+  +/-2.50%. Default taken: **your 2026-09-04 ruling** (Aliens: Fireteam Elite) - read the standard pull
+  as it is and state the margin; the test files were deleted and the standard pull restored. Your word
+  would switch it, at about 221 more reviews (4-5 batches).
 
