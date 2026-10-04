@@ -11900,6 +11900,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 677, Roboquest batch 25.** Built under Rule C on the first sighting. `findphrase.py` on "skills per run", "core skill", "limited to 4" and "ability slots" found nothing.
 
+## Modes added in Roboquest batch 26 - round 678 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.stays-out-of-the-way` | **+** | The story sits to one side - light, optional, never interrupting - so the player can focus on play, and the reviewer names that as a plus. **Distinct from `.worth-following`** (the story itself holds interest) **and the other side of `.the-game-talks-too-much`.** Roboquest 174472197. |
+
+🔑 **Round 678, Roboquest batch 26.** Built under Rule C on the first sighting. `findphrase.py` on "not in the way", "out of the way", "story is optional" and "skip the story" found one story that "stays out of the way" filed on `narrative.tone.cheesy-on-purpose` for its B-movie tone, which stays there.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
