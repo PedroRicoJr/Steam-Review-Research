@@ -11836,6 +11836,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 669, Roboquest batch 17.** Built under Rule C on the first sighting. `findphrase.py` on "drawback", "negative trait" and "downside" found only praise for trade-offs and other complaints; on "at odds", "contradict" and "design bible" found clashes with an original game, item rarity and pricing, none of a design that punishes the play it encourages; on "melee in a", "too fast on", "rails" and "already in" found nothing on melee classes against ranged enemies, rails that carry you too fast or enemies placed before you arrive; on "collectibles" found only praise for them and one platforming complaint (127651241), which stays where it is.
 
+## Modes added in Roboquest batch 18 - round 670 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.the-only-heal-is-charging-the-enemy` | **−** | Health comes back mainly from what killed enemies drop, so healing means running straight into the fight, and the reviewer wants other ways to heal. **The negative reading of `.fighting-is-how-you-heal`** (+), the same mechanism praised; **distinct from `.resources-too-scarce`** (too little healing overall). Roboquest 151179899. |
+
+🔑 **Round 670, Roboquest batch 18.** Built under Rule C on the first sighting. `findphrase.py` on "ways to heal" and "ways to gain" found nothing; on "heal" found healing that is too scarce, none asking for a heal that does not mean charging the enemy.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1868,3 +1868,4 @@ game-design.game-feel.movement.a-traversal-aid-carries-you-too-fast | - | A rail
 game-design.progression.build-and-customisation.upgrades-carry-unwanted-drawbacks | - | Many upgrades come with a negative trait, and the reviewer would rather have a weaker upgrade with no downside
 game-design.progression.unlock-pace.collectibles-are-a-chore | - | The reviewer dislikes having to hunt collectibles to progress or complete the game. **Distinct from `game-desi
 production.craftsmanship.the-design-pulls-against-itself | - | The reviewer says the game's systems push one way of playing and punish it elsewhere - fast play is encouraged
+game-design.power-balance.the-only-heal-is-charging-the-enemy | - | Health comes back mainly from what killed enemies drop, so healing means running straight into the fight, and 
