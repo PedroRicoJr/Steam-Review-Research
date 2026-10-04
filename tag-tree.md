@@ -11882,6 +11882,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 675, Roboquest batch 23.** Built under Rule C on the first sighting. `findphrase.py` on "art style doesn" and "adds nothing" found mines, ammo and timers that add nothing, none about the art style; on "restart a run", "restarting a run" and "quest item" found random quest items and quest-item bugs, none about quests pushing a restart.
 
+## Modes added in Roboquest batch 24 - round 676 (Rule C)
+
+### `audio.voice-performance`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-the-characters-voiced` | **−** | A character who speaks only in text has no voice, and the reviewer wishes they had a voice actor. **Distinct from `.the-players-lines-are-the-only-ones-unvoiced`** (only the player's own lines are silent) **and from `.badly-acted`.** Roboquest 165930346 (Max). |
+
+🔑 **Round 676, Roboquest batch 24.** Built under Rule C on the first sighting. `findphrase.py` on "voice act" found voice work called lacklustre, flat or bad, none wishing an unvoiced character had a voice. Same round: 163948845's hallways that turn the game into a choke-point cover shooter go to `level-design.only-one-way-to-play-it`, following an earlier "hiding and peeking behind a wall" bullet found by `findphrase.py` on "peek".
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

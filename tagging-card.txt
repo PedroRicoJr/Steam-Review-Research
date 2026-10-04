@@ -1874,3 +1874,4 @@ game-design.enemy-design.the-bosses-stack-too-many-threats | - | Boss fights lay
 game-design.level-design.the-puzzle-answers-differ-in-every-game | ~ | Codes or puzzle answers are generated for each player's game, so they cannot be looked up in a guide, and the 
 art.visual-direction.the-style-adds-nothing-to-play | - | The reviewer likes the look but says the game does nothing with it - it could be swapped for another style and
 game-design.pacing.quests-push-you-to-restart-runs | ~ | Secrets and quest items found mid-run make the player abandon the run and start again to use them, rather than
+audio.voice-performance.wants-the-characters-voiced | - | A character who speaks only in text has no voice, and the reviewer wishes they had a voice actor. **Distinct f
