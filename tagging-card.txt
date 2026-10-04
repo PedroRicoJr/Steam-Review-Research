@@ -1862,3 +1862,9 @@ game-design.progression.build-and-customisation.a-helper-has-no-clear-use | - | 
 marketing.discovery.read-about-it-online | ~ | The player found the game through an article or other piece of writing online. **Deliberately neutral**, like 
 marketing.positioning.the-name-does-not-fit-the-game | - | The reviewer finds the title a poor fit - it promises something the game does not do, or is simply a weak name
 game-design.power-balance.rewards-playing-aggressively | + | The game pays the player for pushing into fights rather than holding back, and the reviewer names that as a dr
+game-design.enemy-design.enemies-are-in-place-before-you-arrive | + | Enemies stand in the room when the player enters, rather than all teleporting or spawning in around them, and 
+game-design.role-design.some-classes-lean-on-melee-against-ranged-enemies | - | Some classes need close-range or melee fighting to work, in a game where nearly every enemy shoots from a dist
+game-design.game-feel.movement.a-traversal-aid-carries-you-too-fast | - | A rail, launcher or other traversal aid moves the player faster than they can control, so fights and jumps on 
+game-design.progression.build-and-customisation.upgrades-carry-unwanted-drawbacks | - | Many upgrades come with a negative trait, and the reviewer would rather have a weaker upgrade with no downside
+game-design.progression.unlock-pace.collectibles-are-a-chore | - | The reviewer dislikes having to hunt collectibles to progress or complete the game. **Distinct from `game-desi
+production.craftsmanship.the-design-pulls-against-itself | - | The reviewer says the game's systems push one way of playing and punish it elsewhere - fast play is encouraged

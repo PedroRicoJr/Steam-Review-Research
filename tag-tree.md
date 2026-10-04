@@ -11802,6 +11802,40 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 668, Roboquest batch 16.** Built under Rule C on the first sighting. `findphrase.py` on "playing aggressively", "rewards aggress" and "aggressive play" found only extraction-shooter matchmaking and gear complaints, none of a game that rewards aggressive play.
 
+## Modes added in Roboquest batch 17 - round 669 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.enemies-are-in-place-before-you-arrive` | **+** | Enemies stand in the room when the player enters, rather than all teleporting or spawning in around them, and the reviewer names that as a plus. **The positive side of `.unfair-spawns`.** Roboquest 150196202. |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.some-classes-lean-on-melee-against-ranged-enemies` | **−** | Some classes need close-range or melee fighting to work, in a game where nearly every enemy shoots from a distance, and the reviewer says it does not fit. **Distinct from `.role-underpowered`** (a class is weaker overall) **and from `.a-character-is-built-against-the-games-pace`.** Roboquest 150196202. |
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.a-traversal-aid-carries-you-too-fast` | **−** | A rail, launcher or other traversal aid moves the player faster than they can control, so fights and jumps on it get harder and the player has to fight the controls to slow down. Roboquest 150196202 (rails act as if sprint is held). |
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.upgrades-carry-unwanted-drawbacks` | **−** | Many upgrades come with a negative trait, and the reviewer would rather have a weaker upgrade with no downside. **The opposite verdict to `.upgrades-come-with-a-cost`** (+), which welcomes the trade-off. Roboquest 150196202 (who names Returnal as having the same problem). |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.collectibles-are-a-chore` | **−** | The reviewer dislikes having to hunt collectibles to progress or complete the game. **Distinct from `game-design.level-design.the-jumping-sections-do-not-belong-in-a-shooter`** (the platforming to reach them). Roboquest 150196202. |
+
+### `production.craftsmanship`
+| Mode | | Definition |
+|---|---|---|
+| `.the-design-pulls-against-itself` | **−** | The reviewer says the game's systems push one way of playing and punish it elsewhere - fast play is encouraged by the music and by pickups that vanish within seconds, then punished by stuns and hard-to-avoid damage - and reads that as a design with no clear intent. **Distinct from `marketing.positioning.does-not-know-what-it-is`** (genre identity). Roboquest 150185140. |
+
+🔑 **Round 669, Roboquest batch 17.** Built under Rule C on the first sighting. `findphrase.py` on "drawback", "negative trait" and "downside" found only praise for trade-offs and other complaints; on "at odds", "contradict" and "design bible" found clashes with an original game, item rarity and pricing, none of a design that punishes the play it encourages; on "melee in a", "too fast on", "rails" and "already in" found nothing on melee classes against ranged enemies, rails that carry you too fast or enemies placed before you arrive; on "collectibles" found only praise for them and one platforming complaint (127651241), which stays where it is.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
