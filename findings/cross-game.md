@@ -2407,3 +2407,102 @@ more"*, 229267499); when it loses, the grind and the shop.
 - **The non-English audience.** About 61,000 reviews in other languages; none pulled.
 
 ⚠️ **The corpus is now 29 games and 28,613 English summaries (29,375 in all languages).**
+
+---
+
+## 26. ⭐ What the twentieth large game adds - Roboquest, added 2026-10-04
+
+**A first-person sci-fi roguelite shooter for one player or two online, sold once, read from its Early
+Access start (2020-08-20) through its full release (2023-11-07) and the studio's announced end of updates
+(2025-05-07) to 2026-10.** 1,796 of 17,274 English reviews, a 10.4% sample at ±2.50%, across 75 months
+(2020-08 to 2026-10); 96.4% up; 4,240 bullets, 2.37 per review; 460 distinct tags, **73 used by no other
+game; 75 modes built in the 30 Roboquest blocks (rounds 651-688)**. Full read in `roboquest-english.md`,
+ranked lists in `roboquest.md`, plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-25** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included; every column re-run on 2026-10-04 and unchanged):
+
+| | Deep Rock Galactic | Crab Champions | Risk of Rain 2 | **Roboquest** | Gunfire Reborn | EDF 5 | Escape from Duckov | Warframe | Helldivers 2 | ARC Raiders | The First Descendant |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 97.5% | 95.6% | **96.4%** | 93.9% | 95.7% | 90.9% | 89.9% | 83.3% | 79.7% | 64.5% |
+| Bullets per review | 2.12 | 1.52 | 1.43 | **2.37** | 1.78 | 1.89 | 1.92 | 2.01 | 1.79 | 1.56 | 2.37 |
+| Praise per 100 | 175.9 | 123.2 | 104.9 | **173.6** | 130.0 | 140.2 | 134.6 | 127.3 | 108.0 | 86.8 | 83.6 |
+| Complaint per 100 | 23.7 | 18.7 | 18.0 | **40.8** | 33.1 | 38.9 | 40.4 | 50.9 | 55.5 | 56.7 | 122.2 |
+| Praise to complaint | 7.4 : 1 | 6.6 : 1 | 5.8 : 1 | **4.3 : 1** | 3.9 : 1 | 3.6 : 1 | 3.3 : 1 | 2.5 : 1 | 1.95 : 1 | 1.53 : 1 | 0.68 : 1 |
+
+**Praise nearly as dense as Deep Rock Galactic's, with complaints at Escape from Duckov's level**: its
+reviewers write a lot (2.37 bullets per review, tied with The First Descendant for the most in the table) and most of what they write is
+praise, but 73% of the complaints come from players who still recommend it.
+
+### 🔑 The finding: the feel is the product, and the group is too small
+
+Reviews carrying each mode, per 100 kept reviews, over the 20 English groups of 300 or more (a Python
+pass over `raw/*/english/summaries/*/[0-9]*.md`, round 690 note):
+
+| | **Roboquest** | Next highest | Rest of the corpus |
+|---|---|---|---|
+| Music praised (`audio.music.fits-the-game`) | **11.3** | Risk of Rain 2 3.8 | Crab Champions 2.6, The Anacrusis 2.5, others 2.3 or less |
+| Shooting hits hard (`combat.impactful`) | **9.4** | Back 4 Blood 5.8 | Aliens: Fireteam Elite 5.4, Redfall 5.2, others 4.5 or less |
+| Movement praised (`movement.responsive` or `.rewards-mastery`) | **9.2** | Crab Champions 2.7 | Warframe 2.6, others 1.2 or less |
+| Best of its kind (`best-in-its-category`) | **4.2** | Crab Champions 2.8, Helldivers 2 2.8 | others 2.5 or less |
+| Group too small (`group-is-too-small`) | **2.0** | Aliens: Fireteam Elite 1.9 | every other group 0.1 or less (the mode appears in only 7 of the 20 groups; not checked whether it existed when the others were read) |
+| Cannot save a run and come back | **0.7** | Redfall 0.6 | others 0.2 or less |
+
+All four praise rates are the highest in the corpus. The players who praise the feel most are also the
+ones asking most for a bigger group: 36 bullets, 34 of them in thumbs-up reviews, steady from 2020 to
+2026.
+
+### In plain words
+
+Roboquest is a fast robot-shooting game for one player or two, made by a small studio that finished it
+and then stopped updating it on purpose. Its players praise its music, its shooting and its movement
+more than the players of any other game we have read. Their main wish is to play with more friends: two
+is not enough. Complaints that there was too little to do faded once the game left Early Access.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line
+below is our reading of what players said, not something the reviews said.
+
+- **Confirms "Make the game best with friends, and make that easy" — and adds the group size.**
+  Evidence: much better with friends 7.0 per 100; a bigger group asked for at 2.0 per 100, the corpus
+  high. Our reading: Dominion's four players answer the most common complaint of the most loved game in
+  the corpus; say it on the store page.
+- **Confirms "Make movement feel quick" for a first-person game too.** Evidence: movement praised 9.2
+  per 100 (Crab Champions 2.7, Warframe 2.6). The period drop to 2.0 may partly be filing (see the
+  English page).
+- **Confirms "never take control away from them".** Evidence: stuns and control loss 6, including a
+  top-difficulty run lost at the final boss to a "hacked" effect (232808117).
+- **Confirms "Let players put it down and come back".** Evidence: cannot save 0.7 per 100, the corpus
+  high, 5 of 12 thumbs down; the studio's save (2024-11-27) was single-player only.
+- **Confirms "Protect what players earned".** Evidence: the 1.0 progress reset (Steam announcement,
+  2023-11-07) drew 5 of its 9 complaints in the launch month.
+- **Confirms "If Dominion goes into Early Access, hope lasts about two years" — and shows a longer
+  run kept.** Evidence: over three years of Early Access (2020-08-20 to 2023-11-07) at 96.0% up; too little content
+  5.5 → 0.3 per 100 after release; the promise kept 35.
+- **Adds: an announced, explained ending is accepted.** Evidence: updates stopped 0.5 per 100 here
+  against Back 4 Blood 4.7 and Redfall 1.8; 4 call it finished, not abandoned; the studio's post
+  (2025-05-07) said the game was designed for 25-50 hours. But the online service failed later and was
+  fixed only on 2026-03-25 (studio post). Our reading: if Dominion's support ends, explain it, and keep
+  the online path tested.
+- **Confirms "Expect to be compared … a comparison can be won".** Evidence: Gunfire Reborn, another
+  first-person co-op roguelite in this corpus, is named in 93 reviews; Roboquest wins 32 to 9.
+
+### Other ways it stands out in the corpus
+
+- **Named comparisons are dense.** `explained-by-naming-other-games` is on 11.8 reviews per 100, second
+  behind Immortal: Unchained (17.5) and just ahead of The Anacrusis (11.6); Borderlands 126 reviews, DOOM
+  113, Gunfire Reborn 93.
+- **Hours are low and thumbs down are lower.** Median 12.9 hours on a review; the 65 thumbs-down reviews
+  have a median of 5.5.
+- **The ending is milder than other stopped games.** Updates stopped 0.5 per 100 (Back 4 Blood 4.7,
+  Redfall 1.8, The Anacrusis 1.3).
+
+### What this game does NOT settle
+
+- **Third person.** It is first person; the feel lessons may not carry one to one.
+- **Four players.** It allows two; what four players do to its pacing and scaling is untested here.
+- **Extraction.** It has none; runs end at a final boss.
+- **The non-English audience.** About 7,200 reviews in other languages; none pulled.
+
+⚠️ **The corpus is now 30 games and 30,409 English summaries (31,171 in all languages).**
