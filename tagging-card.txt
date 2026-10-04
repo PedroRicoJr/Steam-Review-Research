@@ -1879,3 +1879,5 @@ game-design.progression.build-and-customisation.capped-at-a-few-core-skills-per-
 narrative.story.stays-out-of-the-way | + | The story sits to one side - light, optional, never interrupting - so the player can focus on play, and the re
 game-design.power-balance.the-fun-builds-are-the-weak-ones | - | The builds the reviewer finds most fun to play are among the weakest, so playing for fun and playing to win pu
 game-design.ui-ux.the-test-range-is-too-limited | - | The game has a place to test weapons or builds, but it does not let the player set up the combinations they wa
+game-design.progression.unlock-pace.most-of-the-pool-is-open-from-the-start | + | Most weapons, items and perks are in the drop pool from the first run rather than unlocked one by one, so runs
+game-design.progression.achievements.the-set-is-finished-too-quickly | - | All the achievements can be earned in little time, and the reviewer counts that as a downside - the chase ends

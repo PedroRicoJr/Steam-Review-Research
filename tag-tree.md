@@ -11923,6 +11923,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 679, Roboquest batch 27.** Built under Rule C on the first sighting. `findphrase.py` on "most fun builds" and "fun builds" found only praise for fun builds; on "sandbox", "shooting range", "creative mode" and "firing range" found a wish for a sandbox mode (`modes.expected-mode-missing`), a wish for a shooting range as quality of life, and praise for a test range, none for a test range that exists but is too limited.
 
+## Modes added in Roboquest batch 28 - round 680 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.most-of-the-pool-is-open-from-the-start` | **+** | Most weapons, items and perks are in the drop pool from the first run rather than unlocked one by one, so runs vary from the start, and the reviewer names that as a good choice. **The other side of `.grindy`** for a run-based game, **and distinct from `.the-classes-should-all-be-open-from-the-start`** (a wish about classes). Roboquest 187410295. |
+
+### `game-design.progression.achievements`
+| Mode | | Definition |
+|---|---|---|
+| `.the-set-is-finished-too-quickly` | **−** | All the achievements can be earned in little time, and the reviewer counts that as a downside - the chase ends early. **Distinct from `.a-fair-set-to-finish`** (+), the same speed read as fairness. Roboquest 187341039. |
+
+🔑 **Round 680, Roboquest batch 28.** Built under Rule C on the first sighting. `findphrase.py` on "from the get go", "available from the start" and "unlocked from the start" found plenty of content, mods and a maximum-quality gun at the start, and wishes for everything open - none praising an open pool; the achievement modes already in the tree name gating, misses and repetition, none a set finished too quickly.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
