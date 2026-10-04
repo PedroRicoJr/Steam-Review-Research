@@ -1877,3 +1877,5 @@ game-design.pacing.quests-push-you-to-restart-runs | ~ | Secrets and quest items
 audio.voice-performance.wants-the-characters-voiced | - | A character who speaks only in text has no voice, and the reviewer wishes they had a voice actor. **Distinct f
 game-design.progression.build-and-customisation.capped-at-a-few-core-skills-per-run | - | A run allows only a small fixed number of core skills, and the reviewer questions the cap. **Distinct from `.t
 narrative.story.stays-out-of-the-way | + | The story sits to one side - light, optional, never interrupting - so the player can focus on play, and the re
+game-design.power-balance.the-fun-builds-are-the-weak-ones | - | The builds the reviewer finds most fun to play are among the weakest, so playing for fun and playing to win pu
+game-design.ui-ux.the-test-range-is-too-limited | - | The game has a place to test weapons or builds, but it does not let the player set up the combinations they wa

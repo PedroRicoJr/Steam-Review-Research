@@ -11909,6 +11909,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 678, Roboquest batch 26.** Built under Rule C on the first sighting. `findphrase.py` on "not in the way", "out of the way", "story is optional" and "skip the story" found one story that "stays out of the way" filed on `narrative.tone.cheesy-on-purpose` for its B-movie tone, which stays there.
 
+## Modes added in Roboquest batch 27 - round 679 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.the-fun-builds-are-the-weak-ones` | **−** | The builds the reviewer finds most fun to play are among the weakest, so playing for fun and playing to win pull apart. **Distinct from `game-design.progression.build-and-customisation.only-a-few-builds-are-viable`** (a wide choice narrows to a short list, with no word on fun). Roboquest 177530094. |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-test-range-is-too-limited` | **−** | The game has a place to test weapons or builds, but it does not let the player set up the combinations they want - levels, qualities, affixes or perks can only be rolled, not chosen. **The negative twin of `.a-place-to-test-your-build`.** Roboquest 181148440. |
+
+🔑 **Round 679, Roboquest batch 27.** Built under Rule C on the first sighting. `findphrase.py` on "most fun builds" and "fun builds" found only praise for fun builds; on "sandbox", "shooting range", "creative mode" and "firing range" found a wish for a sandbox mode (`modes.expected-mode-missing`), a wish for a shooting range as quality of life, and praise for a test range, none for a test range that exists but is too limited.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
