@@ -11868,6 +11868,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 673, Roboquest batch 21.** Built under Rule C on the first sighting. `findphrase.py` on "codes", "door code" and "write them down" found ability input codes, crash codes and a defence of the puzzles (filed on `review.answers-a-claim-made-in-another-review`), none saying the codes differ per game; the boss sightings already in the tree name length, adds, invulnerability and damage checks, none the piling-up of hazards.
 
+## Modes added in Roboquest batch 23 - round 675 (Rule C)
+
+### `art.visual-direction`
+| Mode | | Definition |
+|---|---|---|
+| `.the-style-adds-nothing-to-play` | **−** | The reviewer likes the look but says the game does nothing with it - it could be swapped for another style and play would not change. **Distinct from `.forgettable-look`** (the look itself is weak) **and from `.look-undersells-the-game`.** Roboquest 161283563. |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.quests-push-you-to-restart-runs` | ~ | Secrets and quest items found mid-run make the player abandon the run and start again to use them, rather than seeing a run through. **Neutral**: named as a difference from a rival, not always as a fault. Roboquest 160602711 (against Gunfire Reborn). |
+
+🔑 **Round 675, Roboquest batch 23.** Built under Rule C on the first sighting. `findphrase.py` on "art style doesn" and "adds nothing" found mines, ammo and timers that add nothing, none about the art style; on "restart a run", "restarting a run" and "quest item" found random quest items and quest-item bugs, none about quests pushing a restart.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
