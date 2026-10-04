@@ -1887,3 +1887,5 @@ community.social-features.the-pings-mark-too-few-things | - | The game has a pin
 game-design.power-balance.health-pickups-vanish-before-you-reach-them | - | Health dropped in a fight disappears after a few seconds, so under fire the player cannot get to it in time. *
 game-design.level-design.arena-rooms-shut-you-in-with-a-horde | - | The level shuts the player in a room they cannot leave until a wave of enemies is cleared, and the reviewer na
 game-design.randomness.the-run-is-only-fun-with-a-strong-weapon | - | The reviewer says a run is fun only when the draw hands them an unusually strong weapon, and without one the r
+game-design.randomness.fixed-routes-and-random-builds-strike-a-balance | + | The levels and the route through them are fixed or picked by the player, while weapons and upgrades come by ch
+game-design.progression.unlock-pace.unlocking-means-runs-you-do-not-try-to-win | - | Meeting the unlock conditions takes runs spent on errands - digging, fetching named items for a character - in

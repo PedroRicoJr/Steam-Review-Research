@@ -11979,6 +11979,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 685, Roboquest batch 33.** Built under Rule C on first sighting. `findphrase` checks: "op weapon" and "good weapon" found weapon praise, useless weapons and one luck-decides-the-outcome case (a player at the mercy of chance), never fun hanging on a strong weapon; "god roll" found nothing.
 
+## Modes added in Roboquest batch 35 - round 687 (Rule C)
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.fixed-routes-and-random-builds-strike-a-balance` | **+** | The levels and the route through them are fixed or picked by the player, while weapons and upgrades come by chance, and the reviewer names the mix as letting them plan ahead and still have to adapt. **The positive reading of what `.not-random-enough` faults** - the same fixed levels, judged as a strength. Roboquest 226898448. |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.unlocking-means-runs-you-do-not-try-to-win` | **−** | Meeting the unlock conditions takes runs spent on errands - digging, fetching named items for a character - instead of on winning, so the player must give up real attempts to earn what they need to win. **Distinct from `.an-unlock-challenge-is-a-chore`** (one tedious condition) and `pacing.quests-push-you-to-restart-runs` (abandoning a run to use what it found): here the unlock hunt and the attempt to win pull against each other. Roboquest 231696370. |
+
+🔑 **Round 687, Roboquest batch 35.** Built under Rule C on first sighting. `findphrase` checks: "choose your own path", "choose your path" and "plan out" found only one endgame goal-setting case (`unlock-pace.you-set-your-own-goals`), never fixed routes praised against random builds; "not win", "to lose" and "on purpose to" found nothing about runs given up to meet unlock conditions.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
