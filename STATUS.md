@@ -18,8 +18,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-10-04 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Roboquest (The First Descendant finished in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 688: Roboquest batch 36, the last - 46 reviews read (2 excluded), 2 modes built; all 1,796 read |
-| Next unit | Roboquest findings from `templates/`: `findings/roboquest-english.md`, `findings/roboquest.md` and cross-game section 26 (`scripts/findings_tables.py roboquest/english`). Then the `DOMINION-TAKEAWAYS.md` entry as its own unit |
+| Last unit done | Round 689: Roboquest English findings page, `findings/roboquest-english.md` |
+| Next unit | Roboquest master page `findings/roboquest.md` and cross-game section 26, from `templates/` (`scripts/findings_tables.py roboquest/english --top 25`). Then the `DOMINION-TAKEAWAYS.md` entry as its own unit |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,893 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
