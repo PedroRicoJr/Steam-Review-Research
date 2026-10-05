@@ -1939,3 +1939,4 @@ game-design.co-op-design.small-groups-have-it-hard | - | The game is playable wi
 game-design.pacing.too-much-waiting | - | The reviewer says too much of the game is spent waiting, without naming one fixed stretch or one cause. **Dist
 engineering.bugs.the-view-moves-on-its-own | - | The mouse or camera keeps moving without input, in this game only, so the player cannot look or aim steadily. 
 storefront.the-gift-would-not-go-through | - | The reviewer tried to buy the game as a gift for someone and the store would not complete it. The cause is not
+game-design.level-design.the-level-can-run-out-of-loot | - | Monsters or accidents can destroy all the loot on a level, so the target can no longer be met and the players 

@@ -12323,6 +12323,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 739, R.E.P.O. batch 16.** Built under Rule C on first sighting. `findphrase "gift"` found gifts given and received, none that failed. In the same round R.E.P.O. 194973327's Xbox bullet moved from `crossplay-and-platform-mix.no-crossplay-at-all` to `engineering.platform-support.asks-for-another-platform`: the game is not sold on Xbox, so the wish is for a version there, not for play across platforms.
 
+## Modes added in R.E.P.O. batch 17 - round 740 (Rule C)
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-level-can-run-out-of-loot` | **−** | Monsters or accidents can destroy all the loot on a level, so the target can no longer be met and the players are stuck with no way to win it. **Distinct from `ui-ux.hides-information`** (the player cannot see how much is left). R.E.P.O. 198597222 |
+
+🔑 **Round 740, R.E.P.O. batch 17.** Built under Rule C on first sighting. `findphrase` checks: "unwinnable" found R.E.P.O. 191034649, filed at `ui-ux.hides-information` for its complaint that the loot left cannot be seen (left there); "no more loot" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
