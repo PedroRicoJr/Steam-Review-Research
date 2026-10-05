@@ -12305,6 +12305,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 733, R.E.P.O. batch 10.** Built under Rule C on first sighting. `findphrase` checks: "too much waiting" and "waiting around" found nothing.
 
+## Modes added in R.E.P.O. batch 11 - round 734 (Rule C)
+
+### `engineering.bugs`
+| Mode | | Definition |
+|---|---|---|
+| `.the-view-moves-on-its-own` | **−** | The mouse or camera keeps moving without input, in this game only, so the player cannot look or aim steadily. **Distinct from `game-design.game-feel.controls.actions-trigger-by-themselves`** (the character performs an action the player did not ask for). R.E.P.O. 193938650 |
+
+🔑 **Round 734, R.E.P.O. batch 11.** Built under Rule C on first sighting. `findphrase` checks: "drift" (four sightings, none about input), "moving on its own" and "mouse keeps" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
