@@ -12314,6 +12314,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 734, R.E.P.O. batch 11.** Built under Rule C on first sighting. `findphrase` checks: "drift" (four sightings, none about input), "moving on its own" and "mouse keeps" found nothing.
 
+## Modes added in R.E.P.O. batch 16 - round 739 (Rule C)
+
+### `storefront`
+| Mode | | Definition |
+|---|---|---|
+| `.the-gift-would-not-go-through` | **−** | The reviewer tried to buy the game as a gift for someone and the store would not complete it. The cause is not given; the complaint is posted on the game's page. **Distinct from `marketing.discovery.someone-gave-it-to-me`** (a gift that arrived). R.E.P.O. 197338402 |
+
+🔑 **Round 739, R.E.P.O. batch 16.** Built under Rule C on first sighting. `findphrase "gift"` found gifts given and received, none that failed. In the same round R.E.P.O. 194973327's Xbox bullet moved from `crossplay-and-platform-mix.no-crossplay-at-all` to `engineering.platform-support.asks-for-another-platform`: the game is not sold on Xbox, so the wish is for a version there, not for play across platforms.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

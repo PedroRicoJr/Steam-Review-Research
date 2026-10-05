@@ -12295,3 +12295,9 @@ Second unit of the 17:44 firing. 50 reviews, 2025-05-15 and 2025-05-23, all in E
 Third unit of the 17:44 firing. 50 reviews, 2025-05-23 to 2025-06-07, all in Early Access. **No thumbs down** (12 so far). 62 bullets on 49 reviews, 1.24 per review (39 short reviews, 1 long, unknown share 32%). **1 excluded** (196111866: empty). **No modes built.**
 
 196111258, edited after the cosmetic update (v0.4.0, 2026-05-07 on Steam news), says outfits now give a reason to keep playing beyond high numbers - a grind, but time now feels better spent - and that updates fill out and polish rather than change the game. 196113756 finds it a bit unbalanced for new players, who cannot tell what to do when surrounded. Family and home-country details in 195505665 and 196110041 are left out. No public matchmaking stays at 22 with no new mention in 50 reviews; slapstick 190, much better with friends 122. 762 reviews left.
+
+## Notes - round 739 (R.E.P.O. batch 16)
+
+First unit of the 18:45 firing. 50 reviews, 2025-06-07 to 2025-06-22, all in Early Access. **1 thumbs down** (13 so far): 196663872 says only "Huntsman", an enemy. 61 bullets on 49 reviews, 1.22 per review (41 short reviews, 1 long, unknown share 21%). **1 excluded** (196666954: a crude pun on the game's name). **1 mode built** (tree 1,940 -> 1,941): `storefront.the-gift-would-not-go-through` (197338402). **One bullet re-homed**: 194973327's Xbox wish, from `no-crossplay-at-all` to `asks-for-another-platform` (found with `findphrase "console version"`); 197338922 asks for PS5 and Xbox versions too, saying those stores carry fake R.E.P.O. games (reviewer's claim).
+
+196666220 explains the scare level: "not horror scary. It's jumpscare scary", so it does not set off their anxiety - "the perfect amount of silly and scary" to play on repeat. Slapstick reaches 199 reviews of 800, much better with friends 134, no public matchmaking 24. 712 reviews left.
