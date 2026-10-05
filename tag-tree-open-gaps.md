@@ -12359,3 +12359,9 @@ Rico asked (2026-10-05) for a check that quality held after the rate went to thr
 3. **Fixed from the read:** 202747138 said "truck" where the reviewer wrote "bus"; 200469306 carried "(added in v0.2.0)", a checked fact but not the reviewer's words - both bullets now keep to the reviewer's words; 191683921's "keep the emotes" moved from `review.positive.unknown` to `expressive-play.useless-actions-players-love`. Rule kept from this: facts checked against Steam go in the round note, not into a bullet.
 
 Lower notes per long review in late 2025 reflect the reviews (more short ones, one made-up blurb at one note), as the blind read found nothing missed at a higher rate there.
+
+## Notes - round 749 (R.E.P.O. batch 25)
+
+First unit of the 21:44 firing. 50 reviews, 2025-12-23 to 2026-01-23, all in Early Access. **1 thumbs down** (37 so far): a keyboard mash (215442484). 77 bullets on 49 reviews, 1.54 per review (40 short reviews, 2 long, 7.5 bullets per long review, unknown share 30%). **1 excluded** (215440659: a crude sexual remark). **No modes built.**
+
+216645725 (86 hours, "Overall Score: B+") is a full balance review: won over despite disliking horror; five or six monsters at once in later levels; three Bellas in one early level stalling the collecting; the Headman's manor as the least favourite level (`one-area-drags-the-rest-down`); and frustration at only being able to run or hide. It expects trouble with strangers without having tried them, and the bullet says so. 214775572 says a 2026 update made the game crash before the menu on their laptop. Strangers: `fine-with-strangers` 14, `poor-with-strangers` 5. Too hard 7. Slapstick 267, much better with friends 210. 262 reviews left.
