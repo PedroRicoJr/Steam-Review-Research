@@ -12355,6 +12355,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 744, R.E.P.O. batch 21.** Built under Rule C on first sighting. `findphrase` checks: "worth buying" (five sightings, all about the game's price or add-ons), "useful to buy" and "nothing to buy" found nothing.
 
+## Modes added in R.E.P.O. batch 30 - round 754 (Rule C)
+
+### `art.atmosphere`
+| Mode | | Definition |
+|---|---|---|
+| `.too-scary-to-enjoy` | **−** | The reviewer finds the game too frightening to enjoy and names that as a reason against it. **The inverse of `.falls-flat`** (not scary enough); distinct from `accessibility.phobia.*` (a named phobia). R.E.P.O. 233553439 |
+
+🔑 **Round 754, R.E.P.O. batch 30.** Built under Rule C on first sighting. `findphrase` checks: "too scary" found one sighting, filed as praise (fear that is part of the fun); "too scared" found one, the same. Nothing re-homed.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
