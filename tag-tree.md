@@ -12160,6 +12160,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 704, ELDEN RING NIGHTREIGN batch 12.** Built under Rule C on first sighting. `findphrase` checks: "same penalt", "crash counts", "penalised for crash" and "penalty for crash" found nothing.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 13 - round 705 (Rule C)
+
+### `game-design.progression.cosmetic-rewards`
+| Mode | | Definition |
+|---|---|---|
+| `.the-wanted-looks-come-only-after-the-end` | **−** | The outfits players most want, or the ones they can afford, unlock only after the final boss is beaten, so they cannot be worn on the way there. **Distinct from `.the-best-look-is-nearly-impossible-to-earn`** (the requirement is close to impossible): here it is simply placed at the end. NIGHTREIGN 198142803, 198139869 |
+
+🔑 **Round 705, ELDEN RING NIGHTREIGN batch 13.** Built under Rule C on first sighting (two in the batch). `findphrase` checks: "postgame" and "post-game" found no cosmetic complaint; "after beating the final boss" and "behind defeating" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
