@@ -1903,3 +1903,6 @@ game-design.co-op-design.wants-abilities-built-for-teamwork | - | The co-op work
 game-design.enemy-design.the-boss-ignores-who-has-its-attention | - | The game shows which player a boss is focused on, then the boss attacks someone else with no sense to it, so a
 game-design.solo-viability.only-some-classes-can-carry-a-solo-run | - | Solo play works with one or two characters and is near impossible with the rest, so a solo player is pushed on
 game-design.randomness.wants-a-safe-pick-when-every-offer-is-useless | - | A reward screen offers a choice of random items, all useless to the player's character, and there is no fallba
+game-design.co-op-design.the-enemies-stay-scaled-for-players-who-left | - | Teammates leave mid-run and the enemies keep the strength set for the full group, so whoever is left fights a 
+engineering.netcode.a-teammates-bad-connection-loses-the-loot | - | A teammate's weak connection stops an item from dropping - a boss's reward may never appear - so one player's 
+engineering.matchmaking.a-shared-password-finds-like-minded-players | + | Players agree a public matchmaking password - often one a content creator hands out - and typing it pairs them

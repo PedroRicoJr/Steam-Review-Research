@@ -12079,6 +12079,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 699, ELDEN RING NIGHTREIGN batch 7.** Built under Rule C on first sighting. `findphrase` checks: "default choice", "default option" and "skip option" found nothing; "nothing useful" found one weak weapon crate (`power-balance.some-options-are-useless`).
 
+## Modes added in ELDEN RING NIGHTREIGN batch 8 - round 700 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-enemies-stay-scaled-for-players-who-left` | **−** | Teammates leave mid-run and the enemies keep the strength set for the full group, so whoever is left fights a group-sized challenge alone. **Distinct from `engineering.matchmaking.no-backfill-for-leavers`** (the empty slot cannot be filled) and the inverse of `.scales-to-the-number-of-players`. NIGHTREIGN 197497249 |
+
+### `engineering.netcode`
+| Mode | | Definition |
+|---|---|---|
+| `.a-teammates-bad-connection-loses-the-loot` | **−** | A teammate's weak connection stops an item from dropping - a boss's reward may never appear - so one player's line costs the whole group. **Distinct from `.a-disconnect-loses-the-run`** (the run ends): here the run goes on and the reward is gone. NIGHTREIGN 197084436 |
+
+### `engineering.matchmaking`
+| Mode | | Definition |
+|---|---|---|
+| `.a-shared-password-finds-like-minded-players` | **+** | Players agree a public matchmaking password - often one a content creator hands out - and typing it pairs them with strangers who share their aims and skill, which the reviewer says beats open matchmaking. **Distinct from `community.social-features.only-a-player-run-chat-fills-a-lobby`** (a chat channel is the route): here the game's own matchmaking does the work once the password is known. NIGHTREIGN 197084436 |
+
+🔑 **Round 700, ELDEN RING NIGHTREIGN batch 8.** Built under Rule C on first sighting. `findphrase` checks: "scale down", "reward did not drop" and "everdark" found nothing; "loot did not drop" found one Remnant 2 bug (`engineering.bugs.buggy`); "password" found three unrelated uses (a lobby-password menu, no private sessions, a licence-terms complaint); "Discord" found the chat-server modes, none about a password.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
