@@ -17,9 +17,9 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | | |
 |---|---|
 | Updated | 2026-10-04 |
-| Current stage | After stage 3: games from `planning/`, closest to Dominion first - next game to be picked (ELDEN RING NIGHTREIGN finished in round 722; Roboquest in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 722: ELDEN RING NIGHTREIGN entry in `DOMINION-TAKEAWAYS.md`; GAMES-TODO row 14 and planning B2 marked Done - **ELDEN RING NIGHTREIGN is Done** |
-| Next unit | Pick the next game from `planning/`, closest to Dominion first, and record why (Alien Swarm C11 and LORT B20 were weighed in round 692); add its GAMES-TODO row, build its grid and pull the sample |
+| Current stage | After stage 3: games from `planning/`, closest to Dominion first - now R.E.P.O. (ELDEN RING NIGHTREIGN finished in round 722; Roboquest in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
+| Last unit done | Round 723: R.E.P.O. picked (planning A8), GAMES-TODO row 15, grid and pull - 1,512 reviews, +/-2.52% |
+| Next unit | R.E.P.O. batch 1 (50 reviews): `python3 summarise.py next --group repo/english --n 50` |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,927 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
