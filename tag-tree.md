@@ -12273,6 +12273,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 726, R.E.P.O. batch 3.** Built under Rule C on first sighting. `findphrase` checks: "voip", "voice quality", "mic quality" and "audio quality" found nothing.
 
+## Modes added in R.E.P.O. batch 5 - round 728 (Rule C)
+
+### `live-ops.abandonment`
+| Mode | | Definition |
+|---|---|---|
+| `.worried-it-will-be-abandoned` | ~ | The reviewer has no complaint about support yet, but hopes or warns that the studio will not drop the game - often because the studio's earlier game, or other games like it, were dropped. **Distinct from `.expects-it-to-be-switched-off`** (the player will not invest because they expect a shutdown) and from `.updates-stopped` (support has already ended). R.E.P.O. 191034631; re-homed: Back 4 Blood 105478605, Zombie Girl 202386794, Terminull Brigade 209527618 |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-odd-store-art-is-on-purpose` | **+** | The reviewer defends the store art others call off-putting: it is meant to look bad or creepy, and its oddness makes the game stand out in a store list. **The inverse of `.the-store-art-puts-people-off`.** R.E.P.O. 191034847 |
+
+🔑 **Round 728, R.E.P.O. batch 5.** Built under Rule C on first sighting. `findphrase` checks: "abandoned like" found two (Back 4 Blood, filed at `live-ops.abandonment.unknown`, re-homed; Z.C.R.E.W., a different meaning, left); a pass over the 12 `live-ops.abandonment.unknown` bullets re-homed two more worded as a hope or a doubt about the future. "the icon" found no defence of store art.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

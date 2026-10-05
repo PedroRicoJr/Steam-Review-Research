@@ -1933,3 +1933,5 @@ marketing.positioning.the-store-art-puts-people-off | - | The store page's main 
 game-design.game-feel.combat.the-fighting-does-not-belong | - | The reviewer would rather the game had no fighting at all: hiding, avoiding and carrying are the game, and com
 marketing.reputation.suspected-of-being-made-for-streams | ~ | The reviewer calls the game "stream bait" or "a game for streamers" - built to look funny on a broadcast - whe
 community.social-features.the-in-game-voice-sounds-poor | - | The game's own voice chat works but sounds bad - muffled, crackling, low quality - so players hear each other 
+live-ops.abandonment.worried-it-will-be-abandoned | ~ | The reviewer has no complaint about support yet, but hopes or warns that the studio will not drop the game - o
+marketing.positioning.the-odd-store-art-is-on-purpose | + | The reviewer defends the store art others call off-putting: it is meant to look bad or creepy, and its oddness
