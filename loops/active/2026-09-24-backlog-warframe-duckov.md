@@ -5,13 +5,13 @@
 
 **Standing order (Rico, 2026-09-25): keep running forever and never stop to ask.** When a unit needs a decision, take the safest default, write the question and the default taken in `OPEN-WITH-RICO.md`, and carry on with the next unit. New subjects still go to Rico the same way (parked, not waited on). Reports stay one line.
 
-**Pace (Rico, 2026-09-28):** the hourly Routine alone; the 30-minute in-session timer is no longer re-created. **Loops only (Rico, 2026-09-26):** work is done only in a timer firing - the 30-minute in-session timer or the hourly backstop - one unit per firing. No units by hand between firings, even when the next step is known.
+**Pace (Rico, 2026-10-05: "increase the rate of batches"):** each hourly Routine firing now does **up to three units in a row**, each checked, committed and pushed before the next, stopping early if the next firing is under 10 minutes away. **Earlier pace (Rico, 2026-09-28):** the hourly Routine alone; the 30-minute in-session timer is no longer re-created. **Loops only (Rico, 2026-09-26):** work is done only in a timer firing - the 30-minute in-session timer or the hourly backstop - one unit per firing. No units by hand between firings, even when the next step is known.
 
 **Done when:** never, by the standing order - after each game's findings, the next game starts. Archive this file only if Rico stops it.
 
 ## Stages and steps
 
-**Each firing does ONE unit of work, fully checked, committed and pushed to `main`, then a short
+**Each firing does up to THREE units of work (Rico, 2026-10-05), each fully checked, committed and pushed to `main`, then a short
 report.** Work in this order:
 
 1. **Backlog rounds** until no row in `tag-tree-backlog.tsv` has status `open`. One round = the next

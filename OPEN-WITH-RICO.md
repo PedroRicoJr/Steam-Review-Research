@@ -17,11 +17,6 @@ remove it when Rico rules.
   took Gunfire Reborn (A18) as row 9. Default taken: keep following the loop file; rows 6 and 7 wait.
   Rico's word would reorder them.
 - 21 backlog rows that need a new subject (`skip: needs a new subject` in `tag-tree-backlog.tsv`).
-- **The loop runs hourly, not every 5 minutes.** Rico set the pace to 10 minutes on 2026-09-25 (it
-  was 20), then halved it to 5 after the batch-size test. The timer lives inside the session, and the cloud session goes idle and restarts after each
-  unit, which wipes it (found on every firing since 2026-09-24). Only the hourly backstop survives, and a
-  Routine cannot fire more often than hourly. Option: let each backstop firing do several units in a row
-  (twelve would match a 5-minute pace). Waiting on Rico's word.
 - **Re-pull a launch month that starts late in the month?** ELDEN RING NIGHTREIGN came out on 2025-05-29;
   the standard pull got 73 of the 294 wanted for 2025-05 (three of four windows are before release), so
   the group is at +/-3.18%, and 2025-05 (19.8% of the group) is read at 0.38%. A one-month re-pull from

@@ -48,7 +48,7 @@ the one file in `loops/active/`. Following it must always be enough to carry on.
      session runs, and expires after 7 days.
    - **Backstop:** a Routine (`create_trigger`) that fires into this session. **The minimum is once
      an hour**; a Routine more often than hourly is refused.
-   - Both prompts say only: *follow the loop pointer chain in CLAUDE.md and do one unit.* The steps
+   - Both prompts say only: *follow the loop pointer chain in CLAUDE.md and do one unit* (since 2026-10-05 the active loop's Routine does up to three units per firing, on Rico's word; see the loop file's Pace line). The steps
      live in the files, never in the timer prompt, so they can change without touching the timers.
 4. Commit and push.
 

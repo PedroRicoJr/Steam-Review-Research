@@ -10,7 +10,7 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | Active loop | `loops/active/2026-09-24-backlog-warframe-duckov.md` |
 | Cadence | **every 30 minutes** (Rico, 2026-09-25: the cloud-session credit pays for it, about $1 a firing). Re-create the timer as `7,37 * * * *`. **Standing order: run forever, never stop to ask - park decisions in OPEN-WITH-RICO.md.** |
 | In-session timer | **Not re-created** (Rico, 2026-09-28: the hourly Routine alone sets the pace). The old job `d037394b` (`7,37 * * * *`) is left to die with the session; if `CronList` is empty, carry on without it. |
-| Backstop | Routine `trig_01P8epJLxQXcEm6hKD3epatb`, hourly at :44 - the only timer, "Steam review research - hourly loop". Made 2026-10-03 (round 664) to fire into a new session, because the old session could no longer run commands; the old Routine `trig_01Va8fnQYvp4XU9rzChSjVaf` is disabled, not deleted |
+| Backstop | Routine `trig_01P8epJLxQXcEm6hKD3epatb`, hourly at :44 - the only timer; **since 2026-10-05 each firing does up to three units in a row** (Rico: "increase the rate of batches"), "Steam review research - hourly loop". Made 2026-10-03 (round 664) to fire into a new session, because the old session could no longer run commands; the old Routine `trig_01Va8fnQYvp4XU9rzChSjVaf` is disabled, not deleted |
 
 ## Where it stands
 
