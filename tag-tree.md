@@ -12122,6 +12122,40 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 701, ELDEN RING NIGHTREIGN batch 9.** Built under Rule C on first sighting. `findphrase` checks: "no opening", "window to heal", "time to heal", "rooted", "timer would stop", "pause the timer" and "stop the timer" found nothing; "neither" found no genre-mix complaint; "locks you in place" found one hammer that roots the player (`combat.sluggish-weapon-handling`).
 
+## Modes added in ELDEN RING NIGHTREIGN batch 10 - round 702 (Rule C)
+
+### `live-ops.patch-quality`
+| Mode | | Definition |
+|---|---|---|
+| `.each-update-resets-your-settings` | **−** | Every patch puts the player's graphics or control settings back to the defaults, so each update means setting the game up again. **Distinct from `game-design.ui-ux.forgets-your-settings-between-launches`** (the loss happens on every start, not on an update). NIGHTREIGN 197493809 |
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.abilities-double-as-dodges` | **+** | Most character abilities make the player briefly untouchable, so using one at the right moment is a defensive choice as well as an attack. NIGHTREIGN 197828923 |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-common-enemies-slow-down-a-fast-game` | **−** | Ordinary enemies built to be waited out - shields, blocks, heavy guard - turn up often enough to drag a game whose design rewards speed. **Distinct from `.no-counterplay`** (the enemy cannot be answered at all) and **`.variety-lacking`** (too few kinds): here a common kind is at odds with the pace. NIGHTREIGN 197828923 |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.choosing-a-reward-does-not-pause-the-danger` | **−** | The reward-choice screen opens while enemies are still active, so the player is hit while reading the options. NIGHTREIGN 197828923 (castle trolls) |
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.guaranteed-best-rewards-narrow-the-builds` | **−** | The strongest rewards are fixed drops from set bosses, so every experienced player ends up holding the same ones and late-game builds converge. **The cost side of `.the-best-gear-is-not-left-to-chance`** (+). NIGHTREIGN 197828923 |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-build-up-to-the-boss-is-fun-too` | **+** | The stretch of play before each boss attempt - the levelling, the route, the gathering - is enjoyable in itself, so trying a boss again is not a chore. **Inverse of `.the-early-stages-of-every-run-are-dull`** and of `punishment-model.harsh-restart` read as a run-back. NIGHTREIGN 197829105 |
+
+🔑 **Round 702, ELDEN RING NIGHTREIGN batch 10.** Built under Rule C on first sighting. `findphrase` checks: "resets my", "reset my settings", "choosing my reward", "while choosing", "runbacks enjoyable" and "guaranteed drops" found nothing; "i-frames" and "invincibility" found dodges and boss phases only; "shielded" found shield enemies filed as `no-counterplay`, `runs-out-fast` and `all-fought-the-same-way`, none about the pace. Not built: a wish for a stats page (`ui-ux.hides-information`, after "Lacks overall player statistics") and achievements that need random events (`achievements.only-repetition-completes-the-set`, after a luck-based achievement).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

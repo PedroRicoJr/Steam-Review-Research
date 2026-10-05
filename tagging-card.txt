@@ -1910,3 +1910,9 @@ game-design.enemy-design.the-boss-leaves-almost-no-opening | - | Long multi-hit 
 game-design.role-design.the-caster-is-too-slow-for-the-pace | - | The spell-casting character moves slowly and is held in place while casting, in a game that rewards speed, so 
 game-design.pacing.the-closing-ring-does-not-wait-for-events | - | The shrinking play area keeps closing while the player fights an optional event the map itself sent, so taking
 production.content-variety.the-genre-mix-does-neither-well | - | The game joins two genres and the reviewer says it falls short of both, so fans of either come away wanting. *
+live-ops.patch-quality.each-update-resets-your-settings | - | Every patch puts the player's graphics or control settings back to the defaults, so each update means setting 
+game-design.game-feel.combat.abilities-double-as-dodges | + | Most character abilities make the player briefly untouchable, so using one at the right moment is a defensive 
+game-design.enemy-design.the-common-enemies-slow-down-a-fast-game | - | Ordinary enemies built to be waited out - shields, blocks, heavy guard - turn up often enough to drag a game w
+game-design.ui-ux.choosing-a-reward-does-not-pause-the-danger | - | The reward-choice screen opens while enemies are still active, so the player is hit while reading the options.
+game-design.randomness.guaranteed-best-rewards-narrow-the-builds | - | The strongest rewards are fixed drops from set bosses, so every experienced player ends up holding the same on
+game-design.pacing.the-build-up-to-the-boss-is-fun-too | + | The stretch of play before each boss attempt - the levelling, the route, the gathering - is enjoyable in itsel
