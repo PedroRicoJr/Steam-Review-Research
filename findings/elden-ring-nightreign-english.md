@@ -23,8 +23,8 @@ Nightfarers, 2 Day Three bosses, 1 new Shifting Earth" (store page for app 35317
 `planning/third-person-shooter-list.md`, picked by the active loop as the next closest to Dominion
 (round 692).** It shares a third-person camera, a three-player online co-op team, play built on
 runs with a closing timer, and bosses at the end of each run. It differs in being a melee-first
-fantasy action game rather than a shooter, three players rather than four, no extraction, and
-servers run by the publisher rather than one player hosting.
+fantasy action game rather than a shooter, three players rather than four, and
+no extraction; how its sessions are hosted was not checked (two reviewers call it peer-to-peer).
 
 **Dates checked against the studio's Steam announcements**
 (`api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=2622380`): patch 1.01 on 2025-05-29;
@@ -458,7 +458,7 @@ player's machine (listen server), in Unreal Engine 5.
    quitting 2, punished for leaving when trapped 5. Runs are 30-45 minutes.
    Dominion could: hold a dropped player's slot and gear on the host for a time; never apply a leave
    penalty to a crash or a host drop; let a player leave without penalty once the others have gone.
-   Strength: strong (Dominion's host-run sessions make drops more likely, not less).
+   Strength: strong (on Dominion's host-run sessions a drop by the host can end the run for everyone, so the rules matter more).
 5. **Let a lost boss be retried without replaying the whole run.**
    Evidence: harsh restart 12; *"why not retry the boss without the reward"* (208671319, 9 helpful);
    no time to explore 8.

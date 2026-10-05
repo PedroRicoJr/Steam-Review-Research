@@ -2506,3 +2506,101 @@ below is our reading of what players said, not something the reviews said.
 - **The non-English audience.** About 7,200 reviews in other languages; none pulled.
 
 ⚠️ **The corpus is now 30 games and 30,409 English summaries (31,171 in all languages).**
+
+## 27. ⭐ What the twenty-first large game adds - ELDEN RING NIGHTREIGN, added 2026-10-05
+
+**A third-person fantasy action game built on runs, by FromSoftware with Bandai Namco: up to three
+players race a closing ring across two in-game days and fight a night boss on the third; $39.99, one
+paid add-on ($15.00, 2025-12-03); released 2025-05-29 (Steam store page).** 1,307 of 97,217 English
+reviews, a 1.3% sample at ±3.18%, across 18 months (2025-05 to 2026-10), with the launch month read at
+0.38% (the game came out on the 29th; read as pulled under Rico's ruling of 2026-09-04); 87.8% up;
+2,439 bullets, 1.88 per review; 343 distinct tags, **35 used by no other game; 35 modes built in the
+15 NIGHTREIGN blocks (rounds 693-715), one later merged into an older mode (round 703), 34 kept**.
+Full read in `elden-ring-nightreign-english.md`, ranked lists in `elden-ring-nightreign.md`,
+plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-26** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included; every column re-run on 2026-10-05):
+
+| | Deep Rock Galactic | Roboquest | Gunfire Reborn | Warframe | Helldivers 2 | Space Marine 2 | **ELDEN RING NIGHTREIGN** | Remnant 2 | ARC Raiders | Aliens: Fireteam Elite |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 96.4% | 93.9% | 89.9% | 83.3% | 87.6% | **87.8%** | 83.6% | 79.7% | 81.3% |
+| Bullets per review | 2.12 | 2.37 | 1.78 | 2.01 | 1.79 | 1.99 | **1.88** | 2.30 | 1.56 | 2.94 |
+| Praise per 100 | 175.9 | 173.6 | 130.0 | 127.3 | 108.0 | 116.1 | **105.3** | 121.6 | 86.8 | 124.6 |
+| Complaint per 100 | 23.7 | 40.8 | 33.1 | 50.9 | 55.5 | 61.9 | **64.0** | 77.5 | 56.7 | 141.8 |
+| Praise to complaint | 7.4 : 1 | 4.3 : 1 | 3.9 : 1 | 2.5 : 1 | 1.95 : 1 | 1.87 : 1 | **1.65 : 1** | 1.57 : 1 | 1.53 : 1 | 0.88 : 1 |
+
+**In the middle of the corpus, 11th of 21 groups with 300 or more kept reviews**, between Space Marine 2
+and Remnant 2. Its praise rate is low because
+its reviews are short (median 8 words; 63% are 15 words or fewer), not because players dislike it.
+
+### 🔑 The finding: in a co-op game built on runs, the link between players is the product
+
+Reviews carrying each mode, per 100 kept reviews, over the 21 English groups of 300 or more (a Python
+pass over `raw/*/english/summaries/*/[0-9]*.md`, round 720 note):
+
+| | **NIGHTREIGN** | Next highest | Rest of the corpus |
+|---|---|---|---|
+| No way to talk to the team (`cannot-communicate`) | **2.8** | Aliens: Fireteam Elite 3.4 (above it) | Remnant 2 0.8, The Anacrusis 0.7, others less |
+| No crossplay (`no-crossplay-at-all`) | **1.2** | Terminull Brigade 0.3, Aliens: Fireteam Elite 0.3 | The Anacrusis 0.2, others less |
+| Frequent disconnects (`frequent-disconnects`) | **1.7** | Aliens: Fireteam Elite 1.7 (tied) | Helldivers 2 0.9, Space Marine 2 0.8 |
+| No two-player mode (`no-way-to-play-as-two`) | **2.0** | used in no other game | — |
+| Much better with friends | 9.6 | Aliens: Fireteam Elite 10.4, Deep Rock Galactic 10.1, Remnant 2 10.1, Gunfire Reborn 9.6 | 5th of 21 |
+
+The fighting is praised - hard in a good way 4.7 per 100 (3rd), the bosses 3.6 (1st) - but the
+complaints gather around the connection between players. The two-player mode shows what fixing one
+of them does: 26 requests in the first two months, then none after the studio added it on 2025-07-31
+(patch 1.02, studio announcement). The others stayed: no chat fell after the launch summer (3.6 to 0.5 per 100) but was
+back to 1.8 in the last period.
+
+### In plain words
+
+ELDEN RING NIGHTREIGN takes a famous single-player game's world and makes it a three-player co-op game
+with short, timed runs. Players love the bosses and the challenge and play it for a long time - half
+the reviews show 43 hours or more. What they complain about is mostly the co-op itself: there is no
+voice or text chat, two friends could not play alone together at first, dropped connections throw away
+a 30-45 minute run, and friends on other consoles cannot join. Many also feel the game reuses too much
+of Elden Ring for its price.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line
+below is our reading of what players said, not something the reviews said.
+
+- **Confirms "Make the game best with friends, and make that easy" - and names what "easy" means.**
+  Evidence: much better with friends 9.6 per 100; no chat 2.8 (2nd in the corpus), no duo at launch
+  2.0, no crossplay 1.2 (corpus high), drops 1.7 (tied high). Our reading: voice chat, every group size
+  from one to four, rejoin after a drop and fair leave rules are part of that lesson, not extras.
+- **Confirms "If Dominion has a run clock, expect it to be the most-argued feature."** Evidence: the
+  closing ring is loved (the clock is the thrill 5; good in short sittings 16) and hated (no let-up 14;
+  no time to explore 8; it does not wait for map events 1; you cannot tell whether you are inside it 2).
+- **Adds: a lost run must not be lost to the network.** Evidence: a drop loses the run 8, crashes
+  punished like quitting 2, penalised for leaving when trapped 5, cannot rejoin 3 or rejoin a level down
+  2; runs of 30-45 minutes. Our reading: on Dominion's host-run sessions, hold a dropped player's place
+  and never treat a crash as quitting.
+- **Adds: a harsh restart after a boss loss is felt more when the run is long.** Evidence: harsh restart
+  12; *"why not retry the boss without the reward"* (208671319). Our reading: offer a practice retry.
+- **Confirms "Expect to be compared" - here with the studio's own game.** Evidence: Elden Ring named in
+  189 kept reviews; reused content 2.2 per 100, the corpus high; falls short of the studio's earlier
+  games 14 (12 thumbs down) against living up to them 10.
+- **Confirms "Patch fast and say so".** Evidence: patches made it better 14 through 2025 (solo help in
+  1.01.1 on 2025-06-02, duo in 1.02, a harder mode on 2025-09-11); after the last patch (2026-01-16),
+  updates stopped 7, six of them from July to October 2026.
+
+### Other ways it stands out in the corpus
+
+- **The bosses are praised more than in any other game** (3.6 per 100; Roboquest 1.5 next), **and one
+  named enemy is hated more** (2.0; Risk of Rain 2 and EDF 5 0.6) - the same bosses draw both.
+- **Made for its fans** 1.2 per 100, second to Space Marine 2 (1.3); **assumes you played the earlier
+  game** 1.2, used in no other game.
+
+### What this game does NOT settle
+
+- **Shooting.** It is a melee-first action game; the shooting lessons do not come from here.
+- **Four players.** It allows three; four is untested here.
+- **Extraction.** It has none; runs end at a boss.
+- **Hosting.** How its sessions are hosted was not checked (two reviewers say peer-to-peer); a
+  listen server like Dominion's is not tested.
+- **The non-English audience.** About 94,700 reviews in other languages; none pulled.
+
+⚠️ **The corpus is now 31 games and 31,716 English summaries (32,478 in all languages).**
