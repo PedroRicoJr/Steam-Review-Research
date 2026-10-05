@@ -12277,3 +12277,9 @@ Second unit of the 16:44 firing. 50 reviews, 2025-04-22 and 2025-04-30, all in E
 Third unit of the 16:44 firing. 50 reviews, 2025-04-30 and 2025-05-07, all in Early Access. **2 thumbs down** (12 so far): 193936229 says the hype is misplaced; 193936129 is crude and calls it bad "cause 2D" (the game is 3D). 57 bullets on 50 reviews, 1.14 per review (44 short reviews, none long, unknown share 39%) - the thinnest batch so far, from very short reviews; none excluded. **No modes built.**
 
 Two reviewers praise an update. 194441790's "beta update" (2025-05-07) fits the public test Steam announced on 2025-05-02 ("TRY OUT THE UPCOMING UPDATE!", Steam news API); 193937025's "gambling update" (edited 2026-06-27) is not matched to any Steam patch title, so the bullet says so. A named enemy called over-tuned is now 5 (the blind hunter here, set off by a duck at the cart). Slapstick 154, much better with friends 97, no public matchmaking 19, mods 8. 912 reviews left.
+
+## Notes - round 736 (R.E.P.O. batch 13)
+
+First unit of the 17:44 firing. 50 reviews, 2025-05-07 and 2025-05-15, all in Early Access. **No thumbs down** (12 so far). 71 bullets on 50 reviews, 1.42 per review (41 short reviews, 2 long, unknown share 28%); none excluded. **No modes built.** A jab at a group of people in a comparison with Lethal Company (194440634) is recorded only as "a jab".
+
+Two new details on talking: typed chat is spoken aloud in a funny voice whose pitch follows where you look (194976516; reviewer's description, not checked), and soundboards come up again (194441586). One reviewer points strangers to a mod manager because the game has no way to find them (194440178). Updates are said to make it run better (194975382). Slapstick 169, much better with friends 103, no public matchmaking 21, mods 9. 862 reviews left.
