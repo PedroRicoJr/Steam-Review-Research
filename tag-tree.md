@@ -12070,6 +12070,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 698, ELDEN RING NIGHTREIGN batch 6.** Built under Rule C on first sighting. `findphrase` checks: "changes target", "switches target", "aggro" (round 693), "only class" and "only characters" found nothing on either point.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 7 - round 699 (Rule C)
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.wants-a-safe-pick-when-every-offer-is-useless` | **−** | A reward screen offers a choice of random items, all useless to the player's character, and there is no fallback - more currency, a consumable - to take instead, so the reward is wasted. **Distinct from `.the-thing-you-need-may-never-roll`** (the wanted item never comes): here the complaint is the missing default. NIGHTREIGN 197086064. |
+
+🔑 **Round 699, ELDEN RING NIGHTREIGN batch 7.** Built under Rule C on first sighting. `findphrase` checks: "default choice", "default option" and "skip option" found nothing; "nothing useful" found one weak weapon crate (`power-balance.some-options-are-useless`).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
