@@ -12056,6 +12056,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 697, ELDEN RING NIGHTREIGN batch 5.** Built under Rule C on first sighting. `findphrase` check: "revive" found bots that revive or fail to, bugs, and the existing revive modes, never revives that grow harder each time; "teamwork" found praise of teamwork and complaints that it does not pay, never a wish for abilities built for it.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 6 - round 698 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-boss-ignores-who-has-its-attention` | **−** | The game shows which player a boss is focused on, then the boss attacks someone else with no sense to it, so a group cannot plan who holds it. **Distinct from `co-op-design.the-boss-turns-away-so-melee-must-chase`** (the cost to a melee player): here the complaint is that the targeting cannot be read. NIGHTREIGN 196755583. |
+
+### `game-design.solo-viability`
+| Mode | | Definition |
+|---|---|---|
+| `.only-some-classes-can-carry-a-solo-run` | **−** | Solo play works with one or two characters and is near impossible with the rest, so a solo player is pushed onto a short list. **Distinct from `.punishing-solo`** (harder alone for everyone). NIGHTREIGN 196755402. |
+
+🔑 **Round 698, ELDEN RING NIGHTREIGN batch 6.** Built under Rule C on first sighting. `findphrase` checks: "changes target", "switches target", "aggro" (round 693), "only class" and "only characters" found nothing on either point.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

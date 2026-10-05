@@ -1900,3 +1900,5 @@ game-design.game-feel.controls.switching-lock-on-targets-is-unreliable | - | The
 publishing.dlc-and-editions.the-add-on-was-planned-before-launch | - | The reviewer says a paid add-on was planned or approved before the game came out, and reads that as a bad sign
 game-design.co-op-design.each-revive-gets-harder | - | Bringing a downed teammate back takes more work each time they fall in the same fight, until a late revive is 
 game-design.co-op-design.wants-abilities-built-for-teamwork | - | The co-op works, but the reviewer wants more abilities or tools that only make sense together - combos, shared
+game-design.enemy-design.the-boss-ignores-who-has-its-attention | - | The game shows which player a boss is focused on, then the boss attacks someone else with no sense to it, so a
+game-design.solo-viability.only-some-classes-can-carry-a-solo-run | - | Solo play works with one or two characters and is near impossible with the rest, so a solo player is pushed on
