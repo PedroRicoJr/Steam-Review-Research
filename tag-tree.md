@@ -12211,6 +12211,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 714, ELDEN RING NIGHTREIGN batch 22.** Built under Rule C on first sighting. `findphrase` checks: "horse" found a "dark horse", horse-headed enemies and a list of activities, none a missing mount; "gauge" found nothing; "jumping around" found movement praise only, and "melee" found weapon complaints, none about bosses that punish standing close. A small add-on went to `content-amount.too-little` after "Short so far, with only two bosses"; a hawk ride into the storm with no way to cancel went to `fairness.losses-feel-arbitrary`.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 23 - round 715 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.not-part-of-the-series-canon` | **−** | The game sits outside the series' official story, and the reviewer says that makes it hard to care about what happens in it. **Distinct from `narrative.world-and-setting.faithful-to-the-source-it-adapts`** (+): here the complaint is that it does not count. NIGHTREIGN 217290205 |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.beating-the-game-takes-variety-away` | **−** | Finishing the game switches off content that varied the runs - map-changing events, in the case named - so the reward for winning is a duller game. **Distinct from `.nothing-left-to-chase`** (no goals remain): here something already there is removed. NIGHTREIGN 217819718 |
+
+🔑 **Round 715, ELDEN RING NIGHTREIGN batch 23.** Built under Rule C on first sighting. `findphrase` checks: "canon" found faithful-adaptation praise and one content wish, none about a game outside the official story; "official story", "lore doesn" and "stops happening" found nothing; "after beating" and "beat the game" found nothing-left-to-chase complaints, none about variety switched off, and "beating the final" found one boss praised. Ultrawide and frame-cap complaints went to their existing modes (`does-not-support-my-screen-shape`, `locked-to-a-low-frame-rate`).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

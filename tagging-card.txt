@@ -1923,3 +1923,5 @@ game-design.modes.the-ranked-mode-punishes-you-for-your-teammates | - | In a ran
 game-design.game-feel.movement.no-mount-to-ride | - | The player misses a mount - a horse the earlier game had - and wants one for crossing the map, alone above all
 game-design.ui-ux.a-meter-looks-full-before-it-is | - | A charge meter looks full well before it is - the reviewer gives about 85% - so the player reaches for the abi
 game-design.enemy-design.the-bosses-punish-standing-close | - | Bosses leap away, fly, and hit all around themselves, so the melee characters who must stand close take the wo
+narrative.story.not-part-of-the-series-canon | - | The game sits outside the series' official story, and the reviewer says that makes it hard to care about what 
+game-design.progression.unlock-pace.beating-the-game-takes-variety-away | - | Finishing the game switches off content that varied the runs - map-changing events, in the case named - so the
