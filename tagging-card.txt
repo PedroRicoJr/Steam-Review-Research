@@ -1891,3 +1891,8 @@ game-design.randomness.fixed-routes-and-random-builds-strike-a-balance | + | The
 game-design.progression.unlock-pace.unlocking-means-runs-you-do-not-try-to-win | - | Meeting the unlock conditions takes runs spent on errands - digging, fetching named items for a character - in
 game-design.level-design.knowing-the-maps-pays-off | + | The levels stay the same from run to run and the reviewer says what they learn of the routes and layouts carri
 game-design.pacing.leaves-room-to-talk | + | The fights hold the player's attention and still leave gaps where co-op players can talk to each other, and th
+game-design.co-op-design.no-way-to-play-as-two | - | The game is built for one player or a full group and offers nothing for two, so a pair must play alone, take a
+game-design.co-op-design.the-boss-turns-away-so-melee-must-chase | - | In a group fight the boss keeps switching to other players, so a close-range player spends the fight chasing i
+game-design.co-op-design.character-quests-are-solo-in-practice | - | Each character's own story missions cannot realistically be done with a group - they are hard to queue for tog
+game-design.level-design.nearby-bosses-join-the-fight | - | Bosses or strong enemies sit close enough together that fighting one draws another in from behind. **Distinct 
+game-design.new-player-experience.made-for-players-of-the-earlier-games | - | The reviewer says the game assumes skill or knowledge from the earlier games of its series or genre, so a newc

@@ -12007,6 +12007,27 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 688, Roboquest batch 36.** Built under Rule C on first sighting. `findphrase` checks: "memoriz", "memoris" and "learn the map" found memorising as a burden or as a thing randomness prevents; "learning the maps" found one earlier praise filed under `content-amount.plenty` because the bullet joins it to "a lot to do" - left in place. "breathing", "room to talk" and "time to talk" found nothing about co-op talk between fights.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 1 - round 693 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.no-way-to-play-as-two` | **−** | The game is built for one player or a full group and offers nothing for two, so a pair must play alone, take a stranger, or not play. **Distinct from `.group-is-too-small`** (too few slots for a big group) and `.needs-a-full-team` (a short team cannot survive): here the missing size is in the middle. NIGHTREIGN batch 1. |
+| `.the-boss-turns-away-so-melee-must-chase` | **−** | In a group fight the boss keeps switching to other players, so a close-range player spends the fight chasing it rather than hitting it, while ranged players are not hurt. **Distinct from `enemy-design.a-whole-loadout-cannot-hit-it`** (out of reach by design): here the group causes it. NIGHTREIGN 196114442. |
+| `.character-quests-are-solo-in-practice` | **−** | Each character's own story missions cannot realistically be done with a group - they are hard to queue for together, or only one fits in a run - so the story pulls players away from co-op. NIGHTREIGN 196114464, 196113975. |
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.nearby-bosses-join-the-fight` | **−** | Bosses or strong enemies sit close enough together that fighting one draws another in from behind. **Distinct from `enemy-design.unfair-spawns`** (enemies appear from nothing): here they were placed too close. NIGHTREIGN 196114002. |
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.made-for-players-of-the-earlier-games` | **−** | The reviewer says the game assumes skill or knowledge from the earlier games of its series or genre, so a newcomer struggles. **The negative partner of `.no-need-to-have-played-the-earlier-games`.** NIGHTREIGN 196114200, 196114247. |
+
+🔑 **Round 693, ELDEN RING NIGHTREIGN batch 1.** Built under Rule C on first sighting. `findphrase` checks: "duo" found only duos in other games' matchmaking (`smaller-teams-are-matched-against-full-squads`, the solo-versus-squad conduct mode), "two-player mode" and "2 player" nothing about a missing two-player option; "chasing the boss" and "aggro" nothing about a boss turning away from melee in a group; "another boss" and "two bosses" a bug and a slow boss, never bosses placed too close; "remembrance" nothing; "previous game" and "souls games" only studio trust and difficulty, never a game assuming its series' skills.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
