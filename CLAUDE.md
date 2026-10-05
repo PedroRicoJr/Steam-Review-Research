@@ -40,6 +40,7 @@ The batch helpers live in `scripts/`. Each one states its size bound at the top.
 | `scripts/batch_quality.py` | `python scripts/batch_quality.py <group> --sizes 50x20,100x2,50,25x2 --from 17` - bullets per review, short and long reviews, bullets per long review, words per bullet and the unknown share, per batch. The Rule 7 batch-size watch. |
 | `scripts/steam_counts.py` | Steam's own name, type, date and review counts for appids (or every appid in `planning/`). |
 | `scripts/findings_tables.py` | `python scripts/findings_tables.py <group> --periods <a:b=name,...> --only-in-this-game` - the unweighted tables for a findings page: header counts, divisions, top 20, complaints and praise per 100 by period, and the modes used in no other game. |
+| `scripts/quality_by_length.py` | `python scripts/quality_by_length.py <game> ...` - notes per review and unknown share by review length; the batch-rate quality check (round 748). |
 
 A data script outside the repo imports them with:
 
