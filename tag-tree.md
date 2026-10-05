@@ -12264,6 +12264,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 725, R.E.P.O. batch 2.** Built under Rule C on first sighting. `findphrase` checks: "remove the fighting", "without combat", "no combat", "combat feels out of place" and "stream bait" found nothing. One earlier bullet re-homed: ELDEN RING NIGHTREIGN 198593926 ("Calls it a game for streamers; refunded"), filed at `marketing.reputation.unknown` in round 706, now under the new mode.
 
+## Modes added in R.E.P.O. batch 3 - round 726 (Rule C)
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.the-in-game-voice-sounds-poor` | **−** | The game's own voice chat works but sounds bad - muffled, crackling, low quality - so players hear each other poorly. **Distinct from `.cannot-communicate`** (no way to talk at all) and the inverse of `.the-in-game-voice-is-part-of-the-fun`. R.E.P.O. 190309092 |
+
+🔑 **Round 726, R.E.P.O. batch 3.** Built under Rule C on first sighting. `findphrase` checks: "voip", "voice quality", "mic quality" and "audio quality" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
