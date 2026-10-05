@@ -12296,6 +12296,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 730, R.E.P.O. batch 7.** Built under Rule C on first sighting. `findphrase` checks: "good sized", "2 people", "just two of us" and "with only two" found nothing filed for a hard-but-playable pair.
 
+## Modes added in R.E.P.O. batch 10 - round 733 (Rule C)
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.too-much-waiting` | **−** | The reviewer says too much of the game is spent waiting, without naming one fixed stretch or one cause. **Distinct from `.every-run-starts-with-dead-time`** (one fixed stretch before each run) and from `co-op-design.a-dead-player-spectates-until-the-next-checkpoint` (the waiting is named as being dead). R.E.P.O. 193373198 |
+
+🔑 **Round 733, R.E.P.O. batch 10.** Built under Rule C on first sighting. `findphrase` checks: "too much waiting" and "waiting around" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
