@@ -18,8 +18,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-10-04 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now ELDEN RING NIGHTREIGN (Roboquest finished in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 719: ELDEN RING NIGHTREIGN batch 27, the last - 7 reviews read, no modes built; all 1,307 read (8 excluded) |
-| Next unit | ELDEN RING NIGHTREIGN findings from `templates/`: `findings/elden-ring-nightreign-english.md` (state +/-3.18% and the launch month read at 0.38%), `findings/elden-ring-nightreign.md` and cross-game section 27 (`scripts/findings_tables.py elden-ring-nightreign/english`). Then the `DOMINION-TAKEAWAYS.md` entry as its own unit |
+| Last unit done | Round 720: ELDEN RING NIGHTREIGN English findings page (`findings/elden-ring-nightreign-english.md`) and weighted stats files |
+| Next unit | ELDEN RING NIGHTREIGN master page `findings/elden-ring-nightreign.md` and cross-game section 27, from `templates/`. Then the `DOMINION-TAKEAWAYS.md` entry as its own unit |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,927 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |

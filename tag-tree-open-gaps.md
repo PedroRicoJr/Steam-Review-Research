@@ -12171,3 +12171,11 @@ Second unit of the 11:44 firing. The last 7 reviews, 2026-09-30 and 2026-10-04. 
 Both thumbs-down are about abandonment: "no updates and abandoned by the devs" (236571846) and "no update since January" (236921008, the reviewer's claim, not checked; with a jab at the studio) - `abandonment.updates-stopped` ends at 7. 236928456 still plays weekly and asks for a pass or event system with new bosses.
 
 **All 1,307 sampled reviews are read: 1,299 kept, 8 excluded** (5 empty - rounds 699, 708, 709, 713 and 718 - plus a made-up story, song lyrics and a crude remark, all three in round 700). Next: the findings pages from `templates/`, then the takeaways entry.
+
+## Notes - round 720 (ELDEN RING NIGHTREIGN English findings page)
+
+Third unit of the 11:44 firing. `findings/elden-ring-nightreign-english.md` written from `templates/findings-english-page.md`, all eight sections; the 18 month stats files and the group stats file written by `count.py --group elden-ring-nightreign/english`. Tables from `findings_tables.py` with four periods (launch summer, duo and Deep of Night, the add-on, no new updates).
+
+Checked against primary sources for the page: the store page (FromSoftware; FromSoftware and Bandai Namco; 2025-05-29; $39.99; the add-on The Forsaken Hollows, 2025-12-03, $15.00, two characters, two bosses, one map event) and the studio's Steam announcements (1.01.1 on 2025-06-02 gave solo players a free revive per night boss and more runes - confirming 197495319's account of those two changes; 1.02 on 2025-07-31 added two-player expeditions; Deep of Night on 2025-09-11; 1.02.4 on 2025-10-09; 1.03.2 on 2026-01-16, the last patch - matching 236921008's "no update since January").
+
+Corpus comparisons run for the page over every English group with 300+ kept reviews: NIGHTREIGN has the highest per-100 rate of `recycled-assets` (2.2) and `no-crossplay-at-all` (1.2), the second-highest of `cannot-communicate` (2.8, after Aliens: Fireteam Elite 3.4), and praise to complaint 1.65 : 1, 11th of 21. A first draft overstated three things, corrected before commit: the praise rate's rank (Risk of Rain 2 is also lower), what patch 1.02.4 fixed (progress carrying over, not lost), and the per-period columns (they leave out every `review.*` bullet).
