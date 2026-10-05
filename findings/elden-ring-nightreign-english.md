@@ -20,7 +20,7 @@ group size; the reviews and the studio's posts speak of expeditions for one, two
 three players. One paid add-on, **The Forsaken Hollows, 2025-12-03, $15.00**: "2 additional
 Nightfarers, 2 Day Three bosses, 1 new Shifting Earth" (store page for app 3531720). All languages:
 **191,962 reviews, 82% positive, *Very Positive*** (2026-10-05). **It is B2 on
-`planning/third-person-shooter-list.md`, picked by the active loop as the next closest to Dominion
+`planning/action-roguelike-list.md`, picked by the active loop as the next closest to Dominion
 (round 692).** It shares a third-person camera, a three-player online co-op team, play built on
 runs with a closing timer, and bosses at the end of each run. It differs in being a melee-first
 fantasy action game rather than a shooter, three players rather than four, and

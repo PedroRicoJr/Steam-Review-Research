@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| ELDEN RING NIGHTREIGN | 2026-10-05 | 87.8% |
 | Roboquest | 2026-10-04 | 96.4% |
 | The First Descendant | 2026-10-03 | 64.5% |
 | Crab Champions | 2026-10-01 | 97.5% |
@@ -1111,6 +1112,301 @@ reviews said.
 ---
 
 # The games
+
+## ELDEN RING NIGHTREIGN
+
+**Read:** 1,299 of 97,217 English reviews (1.3%; 1,307 were read and 8 were left out - 5 empty, plus a
+made-up story, song lyrics and a crude remark), ±3.18%, written May 2025 to October 2026. The first
+month was read very thinly: the game came out on 29 May, so only 73 of its 19,254 reviews were
+sampled (0.38%). **87.8% thumbs up** in the sample (Steam, all languages: 82%, Very Positive).
+**Pages:** `findings/elden-ring-nightreign-english.md`, `findings/elden-ring-nightreign.md`,
+`findings/cross-game.md` section 27.
+
+**What it is:** A third-person fantasy action game set in the Elden Ring world, built on runs. Up to
+three players drop onto one map, race a ring of deadly rain that closes in over two in-game days,
+level up and gather gear, then fight a big "night boss" on day three. You can play alone, in a team of
+three, and - from 31 July 2025 - in a team of two. Combat is the studio's sword-and-dodge style, with
+bows and spells; each of the characters has its own skills. Made by FromSoftware, published with Bandai
+Namco. Sold once, $39.99 on Steam, released 29 May 2025. One paid add-on, The Forsaken Hollows (3 December
+2025, $15.00: two new characters, two new bosses, one new map change). The pages do not name the engine
+or check how games are hosted (two reviewers say players connect to each other directly). (Store facts
+and dates checked against Steam's store page and the studio's Steam posts.)
+
+**How close to Dominion:** Close in shape, not in weapons. It shares the third-person camera, a small
+team playing together online against the computer, runs with a clock, a boss at the end, and characters
+with their own skills. It differs in melee and magic instead of guns, a fantasy world instead of
+sci-fi, three players instead of four, and no extraction - a run ends at the boss, not at a way out.
+
+### The short version (plain words)
+Players judge this game as a co-op game first. "Much better with friends" was said 125 times, and
+players stay a long time: half the reviews show 43 hours or more, and 275 show over 100. The fighting
+is what they love - hard in a good way (61), one more run (60), great bosses (47), characters that each
+play their own way (38). What they complain about is mostly the link between players: there is no
+voice or text chat (36 times, the second-highest of the 21 large games we have read), two friends could
+not play alone together until a patch on 31 July 2025 (26 times, then never again), dropped connections
+throw away a whole run, and friends on other consoles cannot join (15, the highest of any game). Many
+also feel it reuses too much of Elden Ring for its price (28, the highest of any game).
+
+The reviews are very short (half are 8 words or fewer), so 544 thumbs up say nothing specific. Players
+who leave thumbs down still played a lot: their median is 25 hours.
+
+What the points are about: game design 34.2%, a bare thumbs up or down 25.2%, who you play with and
+talking to them 12.0%, content 7.5%, comparisons 7.3%, tech and servers 6.2%, price 2.7%, updates 2.5%,
+story, art and sound together 2.5%.
+
+### What players praised, most to least
+Counts here are times it was said. 544 more thumbs-up reviews said nothing specific (41.9 per 100).
+1. **Much better with friends.** Said 125 times (9.6 per 100). *"Best played with a couple of friends on
+   a voice call, but I've had lots of fun playing with randoms online as well!"* (201176143).
+2. **Hard in a good way.** Said 61 times (4.7 per 100, third-highest of 21 large games). Losing feels
+   earned, and beating a boss after days of trying is the high point.
+3. **One more run.** Said 60 times. It rose to 8.5 per 100 in the last months read.
+4. **The bosses.** Said 47 times (3.6 per 100) - more than in any other game we have read (the next is
+   Roboquest at 1.5). The final night boss and the harder weekly versions are named often.
+5. **Each character plays its own way.** Said 38 times. *"Each class feels distinct, not just in stats
+   or equipment, but in how they approach fights"* (197828923).
+6. **A fresh mix of the studio's combat with runs that start over.** Said 33 times. *"a faster paced
+   version of Elden Ring, you can play through game expeditions several times in an afternoon"*
+   (203284135, 20 people found it helpful).
+7. **More, please - as praise.** Said 31 times, rising to 4.9 per 100 in the last months read.
+8. **Fine with strangers.** Said 28 times (but see the complaints: 21 say the opposite).
+9. **A fair price.** Said 21 times.
+10. **Weighty hits** (19), **the potential is there** (17), **a run fits a short sitting** (16 - a run is
+    about 30 to 45 minutes), **it works alone** (16), **made for the studio's fans and better for it**
+    (16 - bosses from the older Dark Souls games are a treat).
+11. **The characters' stories** (15), told through each character's own quest with cutscenes.
+12. **Better than its reputation** (14) and **patches made it better** (14).
+13. **Won over people who dislike this kind of game** (12), many ways to build (11), the sprint and
+    climbing (11 - *"being able to run fast and climb is a game changer honestly"*, 199242894), the
+    music (10), rewarding once learned (10), best of its kind (10), up to the studio's standard (10).
+14. **Smaller things:** abilities that make you briefly safe (*"Most class abilities have generous
+    i-frames"*, 197828923), the closing ring as a thrill (5), route planning that makes you think (7),
+    no chat keeping it civil (2: *"if this game had game chat it would be the most toxic game ever
+    made"*, 236581664), it prepares newcomers for the studio's harder games (2).
+
+### What players complained about, most to least
+Counts are times it was said. 451 of the 831 complaints (54%) come from thumbs-up reviews. The
+thumbs-down reviews name these most: reused Elden Ring content (14 reviews), luck deciding the run (12),
+falling short of the studio's earlier games (12), and connection drops (11).
+1. **No way to talk to the team.** Said 36 times (2.8 per 100), mostly from people who stayed (8 in
+   thumbs-down reviews). Only map markers and pings exist. *"Communication is another huge miss. Outside
+   of simple map pings, there's no text chat, no voice chat, nothing"* (212811996, 46 found it helpful).
+2. **Reused Elden Ring content.** Said 28 times (2.2 per 100, the highest of any game we have read); 14
+   of the thumbs-down reviews say it. One reviewer guessed "about 5%" new content (not checked).
+3. **No two-player mode at launch.** Said 26 times, all in May and June 2025: *"Add duo queue"*
+   (197499099). The studio added it on 31 July 2025, and the complaint stopped: *"We got the duoQ now"*
+   (198583917).
+4. **One hated boss.** Said 26 times. The Bell Bearing Hunter, a boss who roams the map, is named most;
+   the same bosses that draw praise draw this.
+5. **The connection drops.** Said 22 times (11 thumbs-down reviews). A drop can end a 30-45 minute run
+   (8): *"You've had the best run of your life? Best gear?? NETWORK ERROR... STARTING OFFLINE MODE"*
+   (198588917).
+6. **Strangers spoil it.** Said 21 times; careless teammates 16, quitters 8, griefers 4, cheaters 3.
+7. **Not random enough** (20 - one map, the same places), **luck decides the run** (19), **the weapon or
+   relic you need never comes** (15).
+8. **Too hard alone** (19, against 16 who say solo works). The studio made solo easier on 2 June 2025 (a
+   free revive per night boss and more runes); one player later called solo too easy.
+9. **Too little content** (19), **it assumes you played Elden Ring** (16 - *"Peak, but def play Elden
+   Ring first"*, 200469440), **no crossplay** (15, the highest of any game).
+10. **Too rushed** (14), **runs feel the same** (14), **below the studio's earlier games** (14, 12 of them
+    thumbs down).
+11. **Level-up choices are dull stat bumps** (12), **lose to a boss and replay the whole run** (12 -
+    *"Why is it not possible to try to kill the boss after death in order to get used to it? The reward
+    and kill will not be counted, but you will not have to play the entire run"*, 208671319), little to
+    build (11), too expensive for what it is (11), only worth it with a group (11).
+12. **Smaller things:** unfinished (9); no time to explore (8); nothing left to do after the end (8);
+    the lock-on picks the wrong target (4 - *"I'll lock onto something ten miles away instead of my
+    downed friend begging to be revived"*, 198146831); no ultrawide screen support (4); a 60
+    frames-per-second cap (3).
+
+### How it changed over time
+Four periods: the launch summer (May to July 2025, 851 reviews), the duo mode and the harder mode
+(August to November 2025, 189), the add-on (December 2025 to January 2026, 95), and no new updates
+(February to October 2026, 164).
+- **Complaints fell by a third after the launch summer**, from 68.6 to 44.4 per 100 reviews (not counting
+  bare thumbs), because the duo request (3.1 to 0.0), no chat (3.6 to 0.5) and drops (2.1 to 1.6 to 0.0)
+  faded.
+- **The add-on months were the worst**: the lowest thumbs up (83.2%) and the most bare thumbs down.
+- **In the last months**, luck deciding the run (0.8 to 3.0 per 100), bad strangers (1.4 to 3.0) and
+  "more, please" (2.1 to 4.9) rose. Six of the seven "updates have stopped" complaints come from July to
+  October 2026. The studio's last patch was on 16 January 2026 (studio post); *"No update since
+  January"* (236921008) matches it.
+- What players tie each turn to: the solo patch (2 June 2025), weekly harder bosses (from 26 June 2025),
+  the duo mode (31 July 2025), the harder "Deep of Night" mode with ranked points (11 September 2025), the
+  add-on (3 December 2025). All dates are the studio's.
+
+### Co-op and online play
+- **Friends make it.** Much better with friends 125; only worth it with a group 11.
+- **Strangers split players.** Fine 28, bad 21, careless 16. Players work around it: a public
+  matchmaking password from a video maker that finds skilled strangers (1), the game's Discord (1).
+- **No chat.** 36 complaints; 2 like the silence.
+- **Group sizes.** Solo, three, and from 31 July 2025 two. Two-player requests: 26, then none. Only 2
+  asked for a bigger group.
+- **Scaling after a leave.** When teammates leave or get lost on the add-on map, the rest face a boss
+  scaled for three (2): *"an unfamiliar player gets lost and takes more than 10 minutes to rejoin the
+  team, leaving the two teammates alone against bosses scaled for 3 players"* (222216652). A
+  well-practised trio can make bosses trivial (2).
+- **Drops and leaving.** Frequent drops 22; a drop loses the run 8; rejoin a level down 2; cannot
+  rejoin 3; punished for leaving 5, including when trapped: *"When they leave you your not aloud to
+  leave the match without a penalty and possible account bans. No matter how many times you die solo
+  you cant leave the match"* (214041589); a crash is punished like quitting 2. One reviewer says there
+  was no penalty at all (reviewers disagree; not checked).
+- **Crossplay.** None; 15 ask for it, and one wants saves to carry over between platforms (225610557).
+- **Character quests.** Only one player's quest can move forward in a group, so they are played alone
+  in practice (5).
+- **The ranked points mode.** Losing points to a stranger's leave or a bad connection (3): *"'The
+  penalty has been waived because a player left early' Here is your -300 points"* (208660420).
+
+### Combat, movement and feel
+- Weighty hits 19. Abilities that make you briefly safe 1.
+- **Movement is loved**: the sprint, climbing and no fall damage (11 praise). Against: janky climbing
+  and hawk rides that force a path (2), no horse to ride (2).
+- **Lock-on picks the wrong target** (4).
+- Smaller: stamina runs out too fast (1); hit while getting up (1); a sword cannot block without a
+  shield (1); one character's heavy-weapon moves feel bad (1 - the studio sped up those attacks on 16
+  January 2026, studio post).
+- **A meter that lies**: *"the ultimate gauge will look full at any point above 85% charge … only to
+  stand around and die"* (214770612).
+- Not being able to tell whether you are inside the deadly rain (2).
+
+### Enemies, bosses and difficulty
+- **Bosses are the high point** (47) and the most hated thing (one named boss 26; one too strong 3).
+- Boss complaints with detail: long combos that leave no opening (2), a boss that chases a player who
+  is not fighting it (2), bosses that leap and sweep all round so close fighters suffer (1), one-hit
+  kills (4), too much health (6).
+- **Difficulty**: hard in a good way 61; too hard 4; too easy 6 (*"I just wish it was a little more
+  challenging"*, 213372815); one part far harder 4.
+- **Solo**: too hard 19, works 16, only some characters can carry a solo run (3).
+- **The harder mode** (Deep of Night): praised as the hardest challenge (2), called just bigger numbers
+  (3) and unfair in its points (3).
+
+### Progression, loot, randomness and grind
+- Each character its own way 38; many ways to build 11.
+- **Relics** (the lasting upgrades): a slot machine of random effects with no reroll (3), drawbacks that
+  make many useless (4), a crowded inventory with a cap (5). *"Please, I beg you, Fromsoft, throw the
+  relic system in the trash"* (222216652).
+- **Luck**: luck decides the run 19; the needed item never comes 15; not random enough 20.
+- **Level-ups**: fixed stats you cannot choose (11); choices that only change numbers (12).
+- **What carries over**: lasting upgrades too small to feel (4); nothing builds up (4); a skill tree
+  for each character wished for (1).
+- The best rewards are fixed drops, so late builds look alike (1). Beating the final boss turns off the
+  map changes, so winning makes the game duller (1). The best outfits come only after the end (2).
+
+### Runs, content and replay value
+- A run is about 30 to 45 minutes; good in short sittings 16; one more run 60.
+- **The closing ring** is the most argued feature: a thrill (5) and a reason to think about routes (7),
+  but too rushed (14), no time to explore or read (8), and it does not wait while you fight an event the
+  map sent you (1).
+- **Repetition**: one main map (20 not random enough), runs feel the same 14, too little content 19,
+  runs out fast 8, nothing left to chase after the end 8.
+- **A lost boss means a whole new run** (12).
+
+### Money and price
+- Fair 21; too high for what it is 11; buy on sale 7; not worth it even free 1; a cash grab 5; should
+  have been an add-on for Elden Ring 3.
+- **The add-on** ($15.00, checked on the store page): fair 4, not worth it 2. *"the game needs so much
+  more for it to be good yet instead of adding to it they're just going to sell you more through the
+  DLC"* (209882127, 43 found it helpful).
+
+### Tech: performance, crashes, bugs
+- Connection drops 22 (see co-op). Crashes 7; freezes 3; stutter 5; poorly optimised 6; saves lost 4
+  (one heard on the forums, not checked).
+- Every patch resets graphics settings (1): *"every patch resets my graphics settings"* (197493809).
+- Anti-cheat that blocks fixes or mods (3); no ultrawide support (4); a 60 frames-per-second cap (3).
+  Runs well on the Steam Deck (2).
+
+### The studio, updates and community
+- **Through 2025 the studio added a lot**, and players noticed: patches made it better 14; a steady
+  stream 8. Solo help came within days (2 June 2025).
+- **After January 2026 it went quiet.** Updates stopped 7, six of them from July 2026 on: *"they decide
+  to only drop one 1 dlc for the game then let it become abandon ware within a year"* (230556884).
+- Players trust the studio (5) or lost trust (4); the director is named in two reviews.
+- **The community**: memes and jokes are common, many reviews joke about one roaming boss, and some
+  reviews teach how to play (2).
+
+### What players asked for
+A way to talk 36; a two-player mode 26 (added); more content, as praise 31; crossplay 15; more
+randomness 20; a boss retry without a full run 2; a minimap 3; harder bosses 6; a horse 2; a skill tree
+1; modes they expected 5 (custom matches, lobby fights, raids); the add-on map as a choice 2; a relic
+reroll or search 3 (a search came in the 31 July 2025 patch); a pass or weekly events with new bosses 1
+(*"this looks like a perfect game to add a pass or some other system with events and other bosses"*,
+236928456); keep exploring co-op Soulslike games 2 (*"Coop soulslike is such a … good formula, please
+continue exploring this"*, 218330062).
+
+### Only in this game
+- **No two-player mode at launch** - 26 times, and it vanished when fixed.
+- **It assumes you played the studio's earlier game** - 16.
+- **The ranked mode punishes you for strangers' leaves** - 3.
+- **A crash punished like quitting** - 2. **Enemies stay scaled for players who left** - 2.
+- **A meter that looks full at 85%**, **a teammate's bad connection loses the boss's reward**, **the
+  ring that does not wait for events**, **beating the game turns off variety**, **no horse** - 1 or 2
+  each.
+
+### For Dominion - our reading
+1. **Ship voice chat and quick messages, or rich pings, on day one.**
+   Evidence: no way to talk 36, the top complaint, second-highest of 21 games; bad strangers 21.
+   Dominion could: push-to-talk voice with mute and report, quick text lines, and pings for enemies,
+   items and plans.
+   Strength: strong.
+2. **Support one, two, three and four players from launch.**
+   Evidence: 26 duo requests in two months, then none after the patch.
+   Dominion could: tune and test every group size before release.
+   Strength: strong.
+3. **A drop must not cost the run, and a crash is not quitting.**
+   Evidence: drops 22, run lost 8, crash punished like quitting 2, trapped by the leave penalty 5; runs
+   of 30-45 minutes.
+   Dominion could: keep a dropped player's place and gear for a while; never punish a crash or a host
+   drop; let a player leave freely once the others have gone. On Dominion's player-hosted games the host
+   leaving can end everyone's run, so this matters more.
+   Strength: strong.
+4. **Rescale the fight when someone leaves.**
+   Evidence: two players left facing a boss scaled for three (2); griefed with no way out (197497249).
+   Strength: medium.
+5. **Let a lost boss be practised without replaying the whole run.**
+   Evidence: harsh restart 12; 208671319 (9 found it helpful).
+   Strength: medium.
+6. **Bosses sell the game; give every attack an opening and keep the rules readable.**
+   Evidence: bosses 47 (highest of any game) and hated bosses 26 (also highest); no opening 2; one-hit
+   kills 4; too much health 6.
+   Strength: strong.
+7. **Randomness should change what you do, not only what you get.**
+   Evidence: not random enough 20; luck decides 19; the needed item never comes 15; dull stat-bump
+   choices 12; relics with no reroll 3.
+   Dominion could: vary arenas, objectives and enemy mixes; add a reroll or a "bad luck" safety net;
+   make upgrades change how a weapon plays.
+   Strength: strong.
+8. **A run clock will be loved and hated; let it pause for the content it sends.**
+   Evidence: thrill 5, routing 7, against too rushed 14, no time to explore 8, does not wait for events 1.
+   Strength: medium.
+9. **Plan support after launch and say it out loud.**
+   Evidence: patches praised 14 through 2025; after the last patch, updates stopped 7 and "more, please"
+   rose to 4.9 per 100.
+   Strength: medium.
+10. **Teach the game inside the game.**
+    Evidence: assumes the earlier game 16; hard at first 24; poorly explained 5; needs a guide 5.
+    Strength: medium.
+11. **Do not lie with the screen.**
+    Evidence: a meter full at 85% (214770612); cannot tell whether you are inside the danger zone (2).
+    Dominion could: make charge meters and danger edges exact and clear.
+    Strength: weak (few reviews, but cheap to get right).
+12. **Plan crossplay and cross-save even if Dominion starts on PC.**
+    Evidence: no crossplay 15, the highest of any game.
+    Strength: weak.
+
+### Limits
+- 1.3% of the English reviews were read; ±3.18% on whole-sample shares, about ±3.4 to ±10.1 per period.
+- The launch month was read at 0.38% (weighted ×264); Rico ruled on 4 September 2026 that short launch
+  months are read as pulled.
+- Two thirds of all reviews come from the first two months, before the duo mode and the harder mode.
+- Half the reviews are 8 words or fewer; most counts are under 30.
+- 139 reviews (10.7%) were edited later and are counted on the day they were first written.
+- Checked: the store page and the studio's Steam posts (dates, the solo patch, the duo patch, the
+  harder mode, the add-on and its price, the last patch). Not checked: the leave-penalty rules, how games
+  are hosted, "about 5% new content", solo boss health, save loss heard on the forums, cheaters on VPNs.
+- Jabs and slurs are recorded only as jabs; family, health and home-town details are left out.
+- English only; about 94,700 reviews in other languages were not read.
+
+---
 
 ## Roboquest
 

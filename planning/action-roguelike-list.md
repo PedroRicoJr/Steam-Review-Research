@@ -72,7 +72,7 @@ In the order Rico gave them.
 | # | Game | appid | On Steam since | Reviews, all languages | Positive | English reviews | In the corpus | Note |
 |---|---|---|---|---|---|---|---|---|
 | B1 | Slay the Spire 2 | 2868840 | Mar 5, 2026 | 230,326 | 58% | 88,523 | no | Early Access; co-op up to 4. A Steam news headline mentions review-bombing |
-| B2 | ELDEN RING NIGHTREIGN | 2622380 | May 29, 2025 | 191,438 | 82% | 97,041 | **WIP** (row 14 of `GAMES-TODO.md`, pulled 2026-10-04) | a separate app from ELDEN RING (1245620); 3-player co-op |
+| B2 | ELDEN RING NIGHTREIGN | 2622380 | May 29, 2025 | 191,438 | 82% | 97,041 | **Done** (row 14 of `GAMES-TODO.md`; findings 2026-10-05, cross-game section 27, takeaways entry in) | a separate app from ELDEN RING (1245620); 3-player co-op |
 | B3 | Don't Starve Together | 322330 | Apr 21, 2016 | 543,394 | 95% | 130,902 | no |  |
 | B4 | Slay the Spire | 646570 | Jan 23, 2019 | 220,512 | 97% | 92,810 | no | single-player deckbuilder |
 | B5 | Deep Rock Galactic: Survivor | 2321470 | Sep 17, 2025 | 48,329 | 86% | 24,886 | no | a different game from Deep Rock Galactic; single-player |
