@@ -12192,6 +12192,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 712, ELDEN RING NIGHTREIGN batch 20.** Built under Rule C on first sighting (two in the batch). `findphrase` checks: "rank points", "lose points" and "depth points" found nothing; "losing points" found a wish to punish campers (`co-op-design.wants-a-price-on-attacking-other-players`); "-300" found two unrelated numbers. An earlier NIGHTREIGN bullet, "A terrible ranked system" (197494882, round 701), stays at `modes.unknown`: it names no reason.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 22 - round 714 (Rule C)
+
+### `game-design.game-feel.movement`
+| Mode | | Definition |
+|---|---|---|
+| `.no-mount-to-ride` | **−** | The player misses a mount - a horse the earlier game had - and wants one for crossing the map, alone above all. NIGHTREIGN 212813124, 213370964 |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.a-meter-looks-full-before-it-is` | **−** | A charge meter looks full well before it is - the reviewer gives about 85% - so the player reaches for the ability, finds it not ready, and dies waiting. **Distinct from `.hides-information`** (the number is not shown at all): here the display misleads. NIGHTREIGN 214770612 |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-bosses-punish-standing-close` | **−** | Bosses leap away, fly, and hit all around themselves, so the melee characters who must stand close take the worst of every fight. **Distinct from `role-design.some-classes-lean-on-melee-against-ranged-enemies`** (the enemies shoot from range): here the boss's own moves punish closeness. NIGHTREIGN 214040948 |
+
+🔑 **Round 714, ELDEN RING NIGHTREIGN batch 22.** Built under Rule C on first sighting. `findphrase` checks: "horse" found a "dark horse", horse-headed enemies and a list of activities, none a missing mount; "gauge" found nothing; "jumping around" found movement praise only, and "melee" found weapon complaints, none about bosses that punish standing close. A small add-on went to `content-amount.too-little` after "Short so far, with only two bosses"; a hawk ride into the storm with no way to cancel went to `fairness.losses-feel-arbitrary`.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

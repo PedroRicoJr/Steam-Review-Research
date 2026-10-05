@@ -1920,3 +1920,6 @@ game-design.progression.cosmetic-rewards.the-wanted-looks-come-only-after-the-en
 game-design.new-player-experience.prepares-you-for-the-harder-games-in-the-series | + | The reviewer says the game teaches the core of its series' harder games, so a newcomer leaves it ready to take
 game-design.role-design.a-character-handles-its-own-weapon-type-badly | - | A character built around one kind of weapon gets poor moves with exactly that kind, so playing it as designed 
 game-design.modes.the-ranked-mode-punishes-you-for-your-teammates | - | In a ranked or points-based mode, a loss caused by others - a leaver, a weak stranger, a bad connection - cost
+game-design.game-feel.movement.no-mount-to-ride | - | The player misses a mount - a horse the earlier game had - and wants one for crossing the map, alone above all
+game-design.ui-ux.a-meter-looks-full-before-it-is | - | A charge meter looks full well before it is - the reviewer gives about 85% - so the player reaches for the abi
+game-design.enemy-design.the-bosses-punish-standing-close | - | Bosses leap away, fly, and hit all around themselves, so the melee characters who must stand close take the wo
