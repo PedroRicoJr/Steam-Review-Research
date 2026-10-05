@@ -12239,3 +12239,9 @@ Second unit of the 14:44 firing. 50 reviews from 2025-03-23, all in Early Access
 Third unit of the 14:44 firing. 50 reviews, 2025-03-23 and 2025-03-31, all in Early Access. **2 thumbs down** (7 so far): 191686067 says it over-complicates a formula and wished they were playing Lethal Company; 191685219 is an unclear in-joke. 78 bullets on 50 reviews, 1.56 per review (40 short reviews, 3 long, unknown share 35%); none excluded. **No modes built.** One thumb up says only "horrible" (`review.thumb-contradicts-text`). "The Reaper" (191685612) is not in the game's Steam news, so it stays unchecked.
 
 The rival comparison is not one-sided: Lethal Company is beaten 12 times, but 4 reviews now say a named rival (Lethal Company three times, Content Warning once) does it better. Slapstick comedy 79 reviews, much better with friends 45. 1,212 reviews left.
+
+## Notes - round 730 (R.E.P.O. batch 7)
+
+First unit of the 15:44 firing. 50 reviews, 2025-03-31 and 2025-04-07, all in Early Access. **No thumbs down** (7 so far). 76 bullets on 48 reviews, 1.52 per review (34 short reviews, 3 long, unknown share 32%). **2 excluded** (191683932: a sports commentator's name; 192256862: a pasted comic-book monologue). **1 mode built** (tree 1,937 -> 1,938): `co-op-design.small-groups-have-it-hard` (191684292: "Def need a good sized team to play. 2 people is ok, but tough."). `findphrase` checks are in the tree's round-730 block; "with only two" found four sightings, none about a hard pair, so nothing was re-homed.
+
+Talking aloud draws the monsters (191685053), which turns the voice chat into part of the joke. One reviewer praises the studio for being open about updates on YouTube and Discord (191684131). No public matchmaking now 11, slapstick comedy 92, much better with friends 56, beats Lethal Company 14. 1,162 reviews left.

@@ -12287,6 +12287,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 728, R.E.P.O. batch 5.** Built under Rule C on first sighting. `findphrase` checks: "abandoned like" found two (Back 4 Blood, filed at `live-ops.abandonment.unknown`, re-homed; Z.C.R.E.W., a different meaning, left); a pass over the 12 `live-ops.abandonment.unknown` bullets re-homed two more worded as a hope or a doubt about the future. "the icon" found no defence of store art.
 
+## Modes added in R.E.P.O. batch 7 - round 730 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.small-groups-have-it-hard` | **−** | The game is playable with two players but tough, and the reviewer says it needs a good-sized team to be at its best. **Distinct from `.needs-a-full-team`** (one missing player ends the run), from `.no-way-to-play-as-two` (nothing for a pair at all) and from `solo-viability.punishing-solo` (one player alone). R.E.P.O. 191684292 |
+
+🔑 **Round 730, R.E.P.O. batch 7.** Built under Rule C on first sighting. `findphrase` checks: "good sized", "2 people", "just two of us" and "with only two" found nothing filed for a hard-but-playable pair.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

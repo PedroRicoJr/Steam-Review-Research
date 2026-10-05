@@ -1935,3 +1935,4 @@ marketing.reputation.suspected-of-being-made-for-streams | ~ | The reviewer call
 community.social-features.the-in-game-voice-sounds-poor | - | The game's own voice chat works but sounds bad - muffled, crackling, low quality - so players hear each other 
 live-ops.abandonment.worried-it-will-be-abandoned | ~ | The reviewer has no complaint about support yet, but hopes or warns that the studio will not drop the game - o
 marketing.positioning.the-odd-store-art-is-on-purpose | + | The reviewer defends the store art others call off-putting: it is meant to look bad or creepy, and its oddness
+game-design.co-op-design.small-groups-have-it-hard | - | The game is playable with two players but tough, and the reviewer says it needs a good-sized team to be at its
