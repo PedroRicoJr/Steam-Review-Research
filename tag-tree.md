@@ -12098,6 +12098,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 700, ELDEN RING NIGHTREIGN batch 8.** Built under Rule C on first sighting. `findphrase` checks: "scale down", "reward did not drop" and "everdark" found nothing; "loot did not drop" found one Remnant 2 bug (`engineering.bugs.buggy`); "password" found three unrelated uses (a lobby-password menu, no private sessions, a licence-terms complaint); "Discord" found the chat-server modes, none about a password.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 9 - round 701 (Rule C)
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-boss-leaves-almost-no-opening` | **−** | Long multi-hit combos, attacks that carry the boss across the arena and very short gaps between them leave the player almost no safe moment to heal or strike. **Distinct from `.attacks-are-timed-to-bait-your-dodge`** (the timing tricks the dodge) and **`.bosses-are-a-chore`** (the fight runs too long). NIGHTREIGN 197496635 |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-caster-is-too-slow-for-the-pace` | **−** | The spell-casting character moves slowly and is held in place while casting, in a game that rewards speed, so the reviewer finds it a poor fit and rarely sees anyone play it. **Distinct from `game-design.game-feel.combat.sluggish-weapon-handling`** (one weapon feels slow): here a whole character's kit is at odds with the game's pace. NIGHTREIGN 197493962 |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.the-closing-ring-does-not-wait-for-events` | **−** | The shrinking play area keeps closing while the player fights an optional event the map itself sent, so taking the event can leave them stranded at the ring's edge. **Distinct from `.the-pace-leaves-no-time-to-explore`** (the general hurry): here the complaint is the clock running through content the game offered. NIGHTREIGN 197493962 |
+
+### `production.content-variety`
+| Mode | | Definition |
+|---|---|---|
+| `.the-genre-mix-does-neither-well` | **−** | The game joins two genres and the reviewer says it falls short of both, so fans of either come away wanting. **Inverse of `.blends-genres-into-something-fresh`.** NIGHTREIGN 197495428 |
+
+🔑 **Round 701, ELDEN RING NIGHTREIGN batch 9.** Built under Rule C on first sighting. `findphrase` checks: "no opening", "window to heal", "time to heal", "rooted", "timer would stop", "pause the timer" and "stop the timer" found nothing; "neither" found no genre-mix complaint; "locks you in place" found one hammer that roots the player (`combat.sluggish-weapon-handling`).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

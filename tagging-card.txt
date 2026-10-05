@@ -1906,3 +1906,7 @@ game-design.randomness.wants-a-safe-pick-when-every-offer-is-useless | - | A rew
 game-design.co-op-design.the-enemies-stay-scaled-for-players-who-left | - | Teammates leave mid-run and the enemies keep the strength set for the full group, so whoever is left fights a 
 engineering.netcode.a-teammates-bad-connection-loses-the-loot | - | A teammate's weak connection stops an item from dropping - a boss's reward may never appear - so one player's 
 engineering.matchmaking.a-shared-password-finds-like-minded-players | + | Players agree a public matchmaking password - often one a content creator hands out - and typing it pairs them
+game-design.enemy-design.the-boss-leaves-almost-no-opening | - | Long multi-hit combos, attacks that carry the boss across the arena and very short gaps between them leave the
+game-design.role-design.the-caster-is-too-slow-for-the-pace | - | The spell-casting character moves slowly and is held in place while casting, in a game that rewards speed, so 
+game-design.pacing.the-closing-ring-does-not-wait-for-events | - | The shrinking play area keeps closing while the player fights an optional event the map itself sent, so taking
+production.content-variety.the-genre-mix-does-neither-well | - | The game joins two genres and the reviewer says it falls short of both, so fans of either come away wanting. *
