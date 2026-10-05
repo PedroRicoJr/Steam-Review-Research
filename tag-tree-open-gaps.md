@@ -12221,3 +12221,9 @@ Existing modes took the rest. Slapstick comedy is the game's signature (`the-pla
 Third unit of the 13:45 firing. 50 reviews from 2025-03-15, all in Early Access. **No thumbs down** (1 so far). 79 bullets on 50 reviews, 1.58 per review (33 short reviews, 5 long, unknown share 24%); none excluded. **1 mode built** (tree 1,934 -> 1,935): `community.social-features.the-in-game-voice-sounds-poor` (190309092). `findphrase` checks are in the tree's round-726 block.
 
 Existing modes took the rest. Slapstick comedy now 39 after three batches, the store art called off-putting 5 times, no public matchmaking 7, much better with friends 19. 1,362 reviews left.
+
+## Notes - round 727 (R.E.P.O. batch 4)
+
+First unit of the 14:44 firing. 50 reviews, 2025-03-15 and 2025-03-23, all in Early Access. **3 thumbs down** (4 so far): one finds the walking slow, the carrying the whole game and the deaths impossible to make sense of (190307551); one refunded over the missing matchmaking (190307007); one says only "cauldron kills" (191036423). What the cauldron was in March 2025 is not checked: the only Steam news hit is a "Valuable Cauldron Box" in v0.4.0 (2026-05-07), so the bullet stays at `review.negative.unknown`. 75 bullets on 49 reviews, 1.50 per review (37 short reviews, 1 long, unknown share 28%). **1 excluded** (191036300: a Minecraft command, nothing about the game). **No modes built**: every complaint fit an existing mode (the baby enemy is hated twice, `one-enemy-type-is-hated`; "Great Developer" went to `likes-the-people-running-the-studio`, found with `findphrase "great developer"`).
+
+Running counts after 200: slapstick comedy 51 reviews, much better with friends 32, beats its rivals 10 (all Lethal Company), no public matchmaking 9. 1,312 reviews left.
