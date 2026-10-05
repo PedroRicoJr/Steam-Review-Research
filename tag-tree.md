@@ -12225,6 +12225,31 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 715, ELDEN RING NIGHTREIGN batch 23.** Built under Rule C on first sighting. `findphrase` checks: "canon" found faithful-adaptation praise and one content wish, none about a game outside the official story; "official story", "lore doesn" and "stops happening" found nothing; "after beating" and "beat the game" found nothing-left-to-chase complaints, none about variety switched off, and "beating the final" found one boss praised. Ultrawide and frame-cap complaints went to their existing modes (`does-not-support-my-screen-shape`, `locked-to-a-low-frame-rate`).
 
+## Modes added in R.E.P.O. batch 1 - round 724 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-play-is-slapstick-comedy` | **+** | Playing together produces slapstick - dropped and smashed loot, flailing bodies, screams, teammates knocked about - and the reviewer names the laughter as the reason to play. **Distinct from `.the-run-falling-apart-is-the-fun`** (the run's collapse is the draw) and from `narrative.tone.*` (written jokes): here the comedy comes out of the play itself. R.E.P.O. 189637602, 189636713, 189636119 |
+| `.extracting-brings-the-dead-back` | **+** | A fallen teammate is brought back by the team's main task - delivering loot to the extraction point - so rescuing a friend and playing the objective are one act. **Distinct from `.you-can-revive-yourself`** and from `punishment-model.quick-recovery-keeps-flow`. R.E.P.O. 189003424 |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.the-in-game-voice-is-part-of-the-fun` | **+** | The game's own voice or text chat - heard by distance, pitched, distorted or read aloud - is named as a source of fun in itself, not just a way to coordinate. **Distinct from `.good-tools-for-coordinating`** (tools for working together). R.E.P.O. 189636239, 189637248 |
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.carrying-fragile-loot-is-the-game` | **+** | The core task is moving fragile physical objects - lifting, steering and fitting them into a cart without breaking them - and the reviewer names that handling as the fun. **Distinct from `.searching-reveals-loot-slowly`** (finding loot) and `.destruction-changes-play`. R.E.P.O. 189003424 |
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-store-art-puts-people-off` | **−** | The store page's main art or banner is called odd or off-putting, and the reviewer tells readers to ignore it because the game is better than it looks. **Distinct from `marketing.expectation-management.store-page-hides-a-dealbreaker`** (the page hides a fault). R.E.P.O. 189635310, 189635820 |
+
+🔑 **Round 724, R.E.P.O. batch 1.** Built under Rule C on first sighting. `findphrase` checks: "funny" and "hilarious" found written humour (`characters-writing.funny-or-memorable`, `tone.satire-lands`, `tone.cheesy-on-purpose`), friendly-fire stories and bare thumbs up, none about slapstick from play; "slapstick" found one satire; "voice modulation" found nothing and "proximity" found a PvP trust mode; "physics" found ragdolls and movement complaints, none about carrying loot; "cart" found art praise and `expectation-management.looks-like-a-joke-plays-like-a-real-game`; "revive" found bot and bug modes; "banner" and "emoji" found nothing about store art. "Scary" stays with `art.atmosphere.draws-you-in` (5 earlier sightings).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1925,3 +1925,8 @@ game-design.ui-ux.a-meter-looks-full-before-it-is | - | A charge meter looks ful
 game-design.enemy-design.the-bosses-punish-standing-close | - | Bosses leap away, fly, and hit all around themselves, so the melee characters who must stand close take the wo
 narrative.story.not-part-of-the-series-canon | - | The game sits outside the series' official story, and the reviewer says that makes it hard to care about what 
 game-design.progression.unlock-pace.beating-the-game-takes-variety-away | - | Finishing the game switches off content that varied the runs - map-changing events, in the case named - so the
+game-design.co-op-design.the-play-is-slapstick-comedy | + | Playing together produces slapstick - dropped and smashed loot, flailing bodies, screams, teammates knocked ab
+game-design.co-op-design.extracting-brings-the-dead-back | + | A fallen teammate is brought back by the team's main task - delivering loot to the extraction point - so rescu
+community.social-features.the-in-game-voice-is-part-of-the-fun | + | The game's own voice or text chat - heard by distance, pitched, distorted or read aloud - is named as a source
+game-design.world-interaction.carrying-fragile-loot-is-the-game | + | The core task is moving fragile physical objects - lifting, steering and fitting them into a cart without brea
+marketing.positioning.the-store-art-puts-people-off | - | The store page's main art or banner is called odd or off-putting, and the reviewer tells readers to ignore it 

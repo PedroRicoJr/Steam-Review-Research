@@ -12203,3 +12203,9 @@ Third unit of the 12:44 firing. No reviews read.
 - **Pull:** planned 1,542 at +/-2.5%, **got 1,512**, all ids distinct. **Actual margin +/-2.52%** (`pull_sample.true_moe` on the count actually pulled per month, Rule 12). Two months came back short: **2025-02, 5 of 20** - the game came out on 2025-02-26, so the early windows hold no reviews; that month is 0.9% of the group, read at 0.31%, weight x325 - and 2026-10, 5 of 20, the month being five days old. Read as pulled under Rico's ruling of 2026-09-04; the launch month here is small, so no re-pull question is raised.
 - **GAMES-TODO:** row 15 of section 4; `planning/action-roguelike-list.md` A8 marked WIP.
 - **Next:** R.E.P.O. batch 1 (50 reviews).
+
+## Notes - round 724 (R.E.P.O. batch 1)
+
+First unit of the 13:45 firing. 50 reviews, 2025-02-28 and 2025-03-07, all written in Early Access. **1 thumbs down.** 74 bullets on 50 reviews, 1.48 per review; none excluded. **5 modes built** (tree 1,927 -> 1,932), for what a new kind of game brings: `co-op-design.the-play-is-slapstick-comedy` (the laughter that comes out of physics, dropped loot and screams; 16 bullets in this batch alone), `social-features.the-in-game-voice-is-part-of-the-fun` (189636239: "The voice modulation is hilarious"), `world-interaction.carrying-fragile-loot-is-the-game` and `co-op-design.extracting-brings-the-dead-back` (both 189003424, a long launch review), and `positioning.the-store-art-puts-people-off` (189635310 and 189635820: "Ignore the weird emoji banner"). `findphrase` checks are in the tree's round-724 block.
+
+Existing modes took the rest: Lethal Company is the game it is measured against (beaten twice, named once), no public matchmaking yet (2, with the official Discord as the stopgap), too few places (2), a ghost enemy to nerf, one-hit monsters. The one thumbs down (189635666, edited June 2025) finds the movement and mechanics clunky and the loop a monotonous chore. 1,462 reviews left.
