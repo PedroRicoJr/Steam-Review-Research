@@ -12151,6 +12151,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 702, ELDEN RING NIGHTREIGN batch 10.** Built under Rule C on first sighting. `findphrase` checks: "resets my", "reset my settings", "choosing my reward", "while choosing", "runbacks enjoyable" and "guaranteed drops" found nothing; "i-frames" and "invincibility" found dodges and boss phases only; "shielded" found shield enemies filed as `no-counterplay`, `runs-out-fast` and `all-fought-the-same-way`, none about the pace. Not built: a wish for a stats page (`ui-ux.hides-information`, after "Lacks overall player statistics") and achievements that need random events (`achievements.only-repetition-completes-the-set`, after a luck-based achievement).
 
+## Modes added in ELDEN RING NIGHTREIGN batch 12 - round 704 (Rule C)
+
+### `engineering.matchmaking`
+| Mode | | Definition |
+|---|---|---|
+| `.a-crash-is-punished-like-quitting` | **−** | A player whose game crashes or disconnects gets the same penalty as one who walks out of a match on purpose, so a technical fault is treated as bad conduct. **Distinct from `.punished-for-leaving`** (the penalty for choosing to leave): here the player did not choose to go. NIGHTREIGN 198146653 |
+
+🔑 **Round 704, ELDEN RING NIGHTREIGN batch 12.** Built under Rule C on first sighting. `findphrase` checks: "same penalt", "crash counts", "penalised for crash" and "penalty for crash" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

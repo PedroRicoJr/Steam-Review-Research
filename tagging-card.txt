@@ -1915,3 +1915,4 @@ game-design.enemy-design.the-common-enemies-slow-down-a-fast-game | - | Ordinary
 game-design.ui-ux.choosing-a-reward-does-not-pause-the-danger | - | The reward-choice screen opens while enemies are still active, so the player is hit while reading the options.
 game-design.randomness.guaranteed-best-rewards-narrow-the-builds | - | The strongest rewards are fixed drops from set bosses, so every experienced player ends up holding the same on
 game-design.pacing.the-build-up-to-the-boss-is-fun-too | + | The stretch of play before each boss attempt - the levelling, the route, the gathering - is enjoyable in itsel
+engineering.matchmaking.a-crash-is-punished-like-quitting | - | A player whose game crashes or disconnects gets the same penalty as one who walks out of a match on purpose, s
