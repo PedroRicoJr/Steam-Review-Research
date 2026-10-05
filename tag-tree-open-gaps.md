@@ -12251,3 +12251,11 @@ Talking aloud draws the monsters (191685053), which turns the voice chat into pa
 Second unit of the 15:44 firing. 50 reviews from 2025-04-07, all in Early Access. **No thumbs down** (7 so far). 79 bullets on 49 reviews, 1.58 per review (40 short reviews, 3 long, unknown share 39%). **1 excluded** (192254887: a crude remark). **No modes built.** One tick-box template review (192255363) filed at `review.filled-in-from-a-template`, with its specific ticks (price, bugs, hardware, size, grind) as their own bullets, as earlier template reviews were. A second reviewer defends the store art and says the Tax Man face was taken off the store page (192255631; the change is the reviewer's claim, not checked). The eye monster's spawn rate is the first named over-tuned enemy (192255916).
 
 Slapstick comedy reaches 100 reviews of 400, much better with friends 62, beats Lethal Company 16, no public matchmaking 12. 1,112 reviews left.
+
+## Notes - round 732 (R.E.P.O. batch 9)
+
+Third unit of the 15:44 firing. 50 reviews, 2025-04-07 and 2025-04-15, all in Early Access. **1 thumbs down** (8 so far): 192833057, "100% not ready". 82 bullets on 49 reviews, 1.64 per review (34 short reviews, 6 long, unknown share 23%). **1 excluded** (192833372: says they miss another game). **No modes built.**
+
+192832707 is polished praise of a dark story, a "repo man" in a near-future city, voice acting and fluid combat. The Steam store page (appdetails, checked 2026-10-05) describes physics-based extraction for "a mysterious computer intelligence" and none of those things, so the review is filed at `review.reads-like-a-store-blurb`, as Crab Champions 164857337 was; a new mode was considered and not built. The store lists Windows only, so 192833892's smooth Manjaro Linux run stays the reviewer's claim.
+
+A second reviewer asks for a way to retry a round instead of losing every upgrade when the team dies (192833128; `harsh-restart` now 2), and is glad the cover art was changed (the third mention of a change; not checked). Slapstick 113, much better with friends 74, no public matchmaking 14, store art off-putting 6. 1,062 reviews left.
