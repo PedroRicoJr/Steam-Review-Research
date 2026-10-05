@@ -12245,3 +12245,9 @@ The rival comparison is not one-sided: Lethal Company is beaten 12 times, but 4 
 First unit of the 15:44 firing. 50 reviews, 2025-03-31 and 2025-04-07, all in Early Access. **No thumbs down** (7 so far). 76 bullets on 48 reviews, 1.52 per review (34 short reviews, 3 long, unknown share 32%). **2 excluded** (191683932: a sports commentator's name; 192256862: a pasted comic-book monologue). **1 mode built** (tree 1,937 -> 1,938): `co-op-design.small-groups-have-it-hard` (191684292: "Def need a good sized team to play. 2 people is ok, but tough."). `findphrase` checks are in the tree's round-730 block; "with only two" found four sightings, none about a hard pair, so nothing was re-homed.
 
 Talking aloud draws the monsters (191685053), which turns the voice chat into part of the joke. One reviewer praises the studio for being open about updates on YouTube and Discord (191684131). No public matchmaking now 11, slapstick comedy 92, much better with friends 56, beats Lethal Company 14. 1,162 reviews left.
+
+## Notes - round 731 (R.E.P.O. batch 8)
+
+Second unit of the 15:44 firing. 50 reviews from 2025-04-07, all in Early Access. **No thumbs down** (7 so far). 79 bullets on 49 reviews, 1.58 per review (40 short reviews, 3 long, unknown share 39%). **1 excluded** (192254887: a crude remark). **No modes built.** One tick-box template review (192255363) filed at `review.filled-in-from-a-template`, with its specific ticks (price, bugs, hardware, size, grind) as their own bullets, as earlier template reviews were. A second reviewer defends the store art and says the Tax Man face was taken off the store page (192255631; the change is the reviewer's claim, not checked). The eye monster's spawn rate is the first named over-tuned enemy (192255916).
+
+Slapstick comedy reaches 100 reviews of 400, much better with friends 62, beats Lethal Company 16, no public matchmaking 12. 1,112 reviews left.
