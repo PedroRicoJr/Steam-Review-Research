@@ -18,8 +18,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-10-04 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now ELDEN RING NIGHTREIGN (Roboquest finished in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 715: ELDEN RING NIGHTREIGN batch 23 - 50 reviews read, 2 modes built |
-| Next unit | ELDEN RING NIGHTREIGN batch 24 (50 reviews): `python3 summarise.py next --group elden-ring-nightreign/english --n 50` |
+| Last unit done | Round 716: ELDEN RING NIGHTREIGN batch 24 - 50 reviews read, no modes built |
+| Next unit | ELDEN RING NIGHTREIGN batch 25 (50 reviews): `python3 summarise.py next --group elden-ring-nightreign/english --n 50` |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,927 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
@@ -29,6 +29,6 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 | Crab Champions | **Done** 2026-10-01 - 1,512 of 1,512 read; `findings/crab-champions-english.md`, `findings/crab-champions.md`, cross-game section 24 |
 | The First Descendant | **Done** 2026-10-03 - 1,604 of 1,604 read (4 excluded); `findings/the-first-descendant-english.md`, `findings/the-first-descendant.md`, cross-game section 25 |
 | Roboquest | **Done** 2026-10-04 - 1,796 of 1,796 read (10 excluded); `findings/roboquest-english.md`, `findings/roboquest.md`, cross-game section 26, `DOMINION-TAKEAWAYS.md` entry |
-| ELDEN RING NIGHTREIGN | pulled 2026-10-04: 1,307 reviews (+/-3.18%); 1,150 read (7 excluded) |
+| ELDEN RING NIGHTREIGN | pulled 2026-10-04: 1,307 reviews (+/-3.18%); 1,200 read (7 excluded) |
 
 **Decisions waiting on Rico:** `OPEN-WITH-RICO.md`.
