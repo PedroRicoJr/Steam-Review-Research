@@ -12046,6 +12046,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 695, ELDEN RING NIGHTREIGN batch 3.** Built under Rule C on first sighting. `findphrase` checks: "greenlit", "day one dlc", "day-one dlc" and "dlc before" found nothing.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 5 - round 697 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.each-revive-gets-harder` | **−** | Bringing a downed teammate back takes more work each time they fall in the same fight, until a late revive is near impossible without a special ability. **Distinct from `difficulty-tuning.a-revive-limit-restarts-the-whole-fight`** (a fixed count) and `.a-teammates-revive-costs-your-health` (the cost falls on the reviver's health). NIGHTREIGN 196757540. |
+| `.wants-abilities-built-for-teamwork` | **−** | The co-op works, but the reviewer wants more abilities or tools that only make sense together - combos, shared buffs - so playing as a team is more than fighting side by side. **Distinct from `.working-together-buys-you-nothing`** (co-operation does not pay at all). NIGHTREIGN 196756743. |
+
+🔑 **Round 697, ELDEN RING NIGHTREIGN batch 5.** Built under Rule C on first sighting. `findphrase` check: "revive" found bots that revive or fail to, bugs, and the existing revive modes, never revives that grow harder each time; "teamwork" found praise of teamwork and complaints that it does not pay, never a wish for abilities built for it.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
