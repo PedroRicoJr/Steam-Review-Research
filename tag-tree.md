@@ -12332,6 +12332,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 740, R.E.P.O. batch 17.** Built under Rule C on first sighting. `findphrase` checks: "unwinnable" found R.E.P.O. 191034649, filed at `ui-ux.hides-information` for its complaint that the loot left cannot be seen (left there); "no more loot" found nothing.
 
+## Modes added in R.E.P.O. batch 19 - round 742 (Rule C)
+
+### `narrative.tone`
+| Mode | | Definition |
+|---|---|---|
+| `.tries-too-hard-to-be-funny` | **−** | The reviewer says the game leans on being funny and would be better if it dropped the jokes for a real challenge. **The inverse of `.takes-itself-too-seriously`**; distinct from `.a-one-note-joke` (the joke wore thin). R.E.P.O. 202213242 |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.a-level-drags-on` | **−** | A single level takes too long - gathering everything is slow - so the game feels long. **The inverse of `production.content-amount.levels-too-short`**; distinct from `.too-much-waiting` (time spent idle). R.E.P.O. 204991769 |
+
+🔑 **Round 742, R.E.P.O. batch 19.** Built under Rule C on first sighting. `findphrase` checks: "trying to be funny", "tries to be funny", "too funny" and "levels are too long" found nothing; "level takes" found only `levels-too-short`, the inverse.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
