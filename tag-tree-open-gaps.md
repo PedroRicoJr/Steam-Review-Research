@@ -12163,3 +12163,11 @@ The sample is now in the game's second year. 226907710 (550 hours, thumbs down) 
 First unit of the 11:44 firing. 50 reviews, 2026-07-15 to 2026-09-30. **6 thumbs down** (157 so far). 89 bullets on 49 reviews, 1.82 per review (`batch_quality.py` gives 1.78 over all 50; 27 short reviews, 12 long, unknown share 24%); one excluded (231153505, empty, written by hand first). **No modes built** (tree stays 1,927): being hit while getting up went to `controls.stuns-take-control-away`, after Immortal: Unchained 44619359 (no invincibility when knocked down) and EARTH DEFENSE FORCE 5 192086180 (damage while getting up).
 
 The game's second summer reads as abandonment: one add-on and then nothing (230556884), "support is probably over" (234199512), "desperately needs updates" (235345576), and no boss updates in a year (236582144) - `abandonment.updates-stopped` now 5 - four of them from 2026; the fifth, 196114338 at launch, reported a claim that no more content would come. Players still buy it twice across platforms (234200103, 235351233). 236581664 credits the missing chat with keeping it civil, against the many who want voice chat. 231160852's health complaints and a nationality jab in 236582144 are left out of the bullets. 7 reviews left - the last unit.
+
+## Notes - round 719 (ELDEN RING NIGHTREIGN batch 27, the last)
+
+Second unit of the 11:44 firing. The last 7 reviews, 2026-09-30 and 2026-10-04. **2 thumbs down** (159 of 1,299 kept reviews over the whole sample, before weighting). 11 bullets; none excluded. **No modes built** (tree stays 1,927).
+
+Both thumbs-down are about abandonment: "no updates and abandoned by the devs" (236571846) and "no update since January" (236921008, the reviewer's claim, not checked; with a jab at the studio) - `abandonment.updates-stopped` ends at 7. 236928456 still plays weekly and asks for a pass or event system with new bosses.
+
+**All 1,307 sampled reviews are read: 1,299 kept, 8 excluded** (5 empty - rounds 699, 708, 709, 713 and 718 - plus a made-up story, song lyrics and a crude remark, all three in round 700). Next: the findings pages from `templates/`, then the takeaways entry.
