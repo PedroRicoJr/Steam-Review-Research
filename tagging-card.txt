@@ -1897,3 +1897,4 @@ game-design.co-op-design.character-quests-are-solo-in-practice | - | Each charac
 game-design.level-design.nearby-bosses-join-the-fight | - | Bosses or strong enemies sit close enough together that fighting one draws another in from behind. **Distinct 
 game-design.new-player-experience.made-for-players-of-the-earlier-games | - | The reviewer says the game assumes skill or knowledge from the earlier games of its series or genre, so a newc
 game-design.game-feel.controls.switching-lock-on-targets-is-unreliable | - | The lock-on works, but moving it from one enemy to the next does not pick the target the player meant, or beha
+publishing.dlc-and-editions.the-add-on-was-planned-before-launch | - | The reviewer says a paid add-on was planned or approved before the game came out, and reads that as a bad sign

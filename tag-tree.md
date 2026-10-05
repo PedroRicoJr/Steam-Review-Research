@@ -12037,6 +12037,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 694, ELDEN RING NIGHTREIGN batch 2.** Built under Rule C on first sighting. `findphrase` checks: "lock on" and "lock-on" found unlock wording, weak lock-on missiles and one camera complaint (Immortal: Unchained 44619359, filed under the camera); "switch target" and "swap target" found nothing.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 3 - round 695 (Rule C)
+
+### `publishing.dlc-and-editions`
+| Mode | | Definition |
+|---|---|---|
+| `.the-add-on-was-planned-before-launch` | **−** | The reviewer says a paid add-on was planned or approved before the game came out, and reads that as a bad sign about the studio's practices. **Distinct from `.content-behind-a-second-purchase`** (named content missing from the base game) and `.sold-before-it-is-known` (sold before its contents are told). NIGHTREIGN 196417473. |
+
+🔑 **Round 695, ELDEN RING NIGHTREIGN batch 3.** Built under Rule C on first sighting. `findphrase` checks: "greenlit", "day one dlc", "day-one dlc" and "dlc before" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
