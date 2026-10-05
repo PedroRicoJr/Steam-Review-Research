@@ -12183,6 +12183,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 708, ELDEN RING NIGHTREIGN batch 16.** Built under Rule C on first sighting. `findphrase` checks: "gateway" found a looter shooter called "the gateway drug" of its genre (`new-player-experience.easy-to-start`) and a level with portal gateways; "mainline", "before tackling", "other souls" and "more confident" found no sighting of a game that prepares players for its series; "moveset" found five uses, none about a character's own weapon type.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 20 - round 712 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-ranked-mode-punishes-you-for-your-teammates` | **−** | In a ranked or points-based mode, a loss caused by others - a leaver, a weak stranger, a bad connection - costs the player rank points, so weeks of climbing can be wiped by things they could not control. **Distinct from `progression.unlock-pace.rank-decays-if-you-stop-playing`** (rank lost to time away): here it is lost to other people. NIGHTREIGN 208660420, 208611665 |
+
+🔑 **Round 712, ELDEN RING NIGHTREIGN batch 20.** Built under Rule C on first sighting (two in the batch). `findphrase` checks: "rank points", "lose points" and "depth points" found nothing; "losing points" found a wish to punish campers (`co-op-design.wants-a-price-on-attacking-other-players`); "-300" found two unrelated numbers. An earlier NIGHTREIGN bullet, "A terrible ranked system" (197494882, round 701), stays at `modes.unknown`: it names no reason.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1919,3 +1919,4 @@ engineering.matchmaking.a-crash-is-punished-like-quitting | - | A player whose g
 game-design.progression.cosmetic-rewards.the-wanted-looks-come-only-after-the-end | - | The outfits players most want, or the ones they can afford, unlock only after the final boss is beaten, so the
 game-design.new-player-experience.prepares-you-for-the-harder-games-in-the-series | + | The reviewer says the game teaches the core of its series' harder games, so a newcomer leaves it ready to take
 game-design.role-design.a-character-handles-its-own-weapon-type-badly | - | A character built around one kind of weapon gets poor moves with exactly that kind, so playing it as designed 
+game-design.modes.the-ranked-mode-punishes-you-for-your-teammates | - | In a ranked or points-based mode, a loss caused by others - a leaver, a weak stranger, a bad connection - cost
