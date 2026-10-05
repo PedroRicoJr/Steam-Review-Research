@@ -12250,6 +12250,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 724, R.E.P.O. batch 1.** Built under Rule C on first sighting. `findphrase` checks: "funny" and "hilarious" found written humour (`characters-writing.funny-or-memorable`, `tone.satire-lands`, `tone.cheesy-on-purpose`), friendly-fire stories and bare thumbs up, none about slapstick from play; "slapstick" found one satire; "voice modulation" found nothing and "proximity" found a PvP trust mode; "physics" found ragdolls and movement complaints, none about carrying loot; "cart" found art praise and `expectation-management.looks-like-a-joke-plays-like-a-real-game`; "revive" found bot and bug modes; "banner" and "emoji" found nothing about store art. "Scary" stays with `art.atmosphere.draws-you-in` (5 earlier sightings).
 
+## Modes added in R.E.P.O. batch 2 - round 725 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.the-fighting-does-not-belong` | **−** | The reviewer would rather the game had no fighting at all: hiding, avoiding and carrying are the game, and combat spoils it. **Distinct from `.forces-the-melee-on-you`** (one style of fighting is forced): here any fighting is unwanted. R.E.P.O. 189633764 |
+
+### `marketing.reputation`
+| Mode | | Definition |
+|---|---|---|
+| `.suspected-of-being-made-for-streams` | ~ | The reviewer calls the game "stream bait" or "a game for streamers" - built to look funny on a broadcast - whether or not they then enjoy it. **Distinct from `.streamers-play-a-different-game`** (−, the game streamers show is not the one an ordinary player gets). R.E.P.O. 190309906; ELDEN RING NIGHTREIGN 198593926 (moved here from `.unknown` in round 725) |
+
+🔑 **Round 725, R.E.P.O. batch 2.** Built under Rule C on first sighting. `findphrase` checks: "remove the fighting", "without combat", "no combat", "combat feels out of place" and "stream bait" found nothing. One earlier bullet re-homed: ELDEN RING NIGHTREIGN 198593926 ("Calls it a game for streamers; refunded"), filed at `marketing.reputation.unknown` in round 706, now under the new mode.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
