@@ -1942,3 +1942,4 @@ storefront.the-gift-would-not-go-through | - | The reviewer tried to buy the gam
 game-design.level-design.the-level-can-run-out-of-loot | - | Monsters or accidents can destroy all the loot on a level, so the target can no longer be met and the players 
 narrative.tone.tries-too-hard-to-be-funny | - | The reviewer says the game leans on being funny and would be better if it dropped the jokes for a real challen
 game-design.pacing.a-level-drags-on | - | A single level takes too long - gathering everything is slow - so the game feels long. **The inverse of `produ
+game-design.progression.unlock-pace.the-shop-has-little-worth-buying | - | The in-run shop between levels rarely offers anything good or useful beyond the basic character upgrades, so s

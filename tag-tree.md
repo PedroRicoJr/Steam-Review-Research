@@ -12346,6 +12346,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 742, R.E.P.O. batch 19.** Built under Rule C on first sighting. `findphrase` checks: "trying to be funny", "tries to be funny", "too funny" and "levels are too long" found nothing; "level takes" found only `levels-too-short`, the inverse.
 
+## Modes added in R.E.P.O. batch 21 - round 744 (Rule C)
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.the-shop-has-little-worth-buying` | **−** | The in-run shop between levels rarely offers anything good or useful beyond the basic character upgrades, so spending feels like a formality. **Distinct from `publishing.monetisation-practice.the-shop-charges-far-too-much`** (a real-money store). R.E.P.O. 208662014 |
+
+🔑 **Round 744, R.E.P.O. batch 21.** Built under Rule C on first sighting. `findphrase` checks: "worth buying" (five sightings, all about the game's price or add-ons), "useful to buy" and "nothing to buy" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
