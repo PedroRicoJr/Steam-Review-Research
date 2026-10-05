@@ -12169,6 +12169,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 705, ELDEN RING NIGHTREIGN batch 13.** Built under Rule C on first sighting (two in the batch). `findphrase` checks: "postgame" and "post-game" found no cosmetic complaint; "after beating the final boss" and "behind defeating" found nothing.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 16 - round 708 (Rule C)
+
+### `game-design.new-player-experience`
+| Mode | | Definition |
+|---|---|---|
+| `.prepares-you-for-the-harder-games-in-the-series` | **+** | The reviewer says the game teaches the core of its series' harder games, so a newcomer leaves it ready to take those on. **Distinct from `.easy-to-start`** (this game is easy to get into) and the inverse of `.made-for-players-of-the-earlier-games`: here this game is the way in to the others. NIGHTREIGN 199895293, 199894205 |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-character-handles-its-own-weapon-type-badly` | **−** | A character built around one kind of weapon gets poor moves with exactly that kind, so playing it as designed feels bad. **Distinct from `power-balance.a-weapon-fails-at-its-own-job`** (the weapon itself is weak for everyone) and **`.role-underpowered`** (the whole class is weak). NIGHTREIGN 199895754 |
+
+🔑 **Round 708, ELDEN RING NIGHTREIGN batch 16.** Built under Rule C on first sighting. `findphrase` checks: "gateway" found a looter shooter called "the gateway drug" of its genre (`new-player-experience.easy-to-start`) and a level with portal gateways; "mainline", "before tackling", "other souls" and "more confident" found no sighting of a game that prepares players for its series; "moveset" found five uses, none about a character's own weapon type.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -1917,3 +1917,5 @@ game-design.randomness.guaranteed-best-rewards-narrow-the-builds | - | The stron
 game-design.pacing.the-build-up-to-the-boss-is-fun-too | + | The stretch of play before each boss attempt - the levelling, the route, the gathering - is enjoyable in itsel
 engineering.matchmaking.a-crash-is-punished-like-quitting | - | A player whose game crashes or disconnects gets the same penalty as one who walks out of a match on purpose, s
 game-design.progression.cosmetic-rewards.the-wanted-looks-come-only-after-the-end | - | The outfits players most want, or the ones they can afford, unlock only after the final boss is beaten, so the
+game-design.new-player-experience.prepares-you-for-the-harder-games-in-the-series | + | The reviewer says the game teaches the core of its series' harder games, so a newcomer leaves it ready to take
+game-design.role-design.a-character-handles-its-own-weapon-type-badly | - | A character built around one kind of weapon gets poor moves with exactly that kind, so playing it as designed 
