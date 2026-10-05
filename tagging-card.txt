@@ -1896,3 +1896,4 @@ game-design.co-op-design.the-boss-turns-away-so-melee-must-chase | - | In a grou
 game-design.co-op-design.character-quests-are-solo-in-practice | - | Each character's own story missions cannot realistically be done with a group - they are hard to queue for tog
 game-design.level-design.nearby-bosses-join-the-fight | - | Bosses or strong enemies sit close enough together that fighting one draws another in from behind. **Distinct 
 game-design.new-player-experience.made-for-players-of-the-earlier-games | - | The reviewer says the game assumes skill or knowledge from the earlier games of its series or genre, so a newc
+game-design.game-feel.controls.switching-lock-on-targets-is-unreliable | - | The lock-on works, but moving it from one enemy to the next does not pick the target the player meant, or beha

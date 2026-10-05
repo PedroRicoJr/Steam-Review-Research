@@ -12028,6 +12028,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 693, ELDEN RING NIGHTREIGN batch 1.** Built under Rule C on first sighting. `findphrase` checks: "duo" found only duos in other games' matchmaking (`smaller-teams-are-matched-against-full-squads`, the solo-versus-squad conduct mode), "two-player mode" and "2 player" nothing about a missing two-player option; "chasing the boss" and "aggro" nothing about a boss turning away from melee in a group; "another boss" and "two bosses" a bug and a slow boss, never bosses placed too close; "remembrance" nothing; "previous game" and "souls games" only studio trust and difficulty, never a game assuming its series' skills.
 
+## Modes added in ELDEN RING NIGHTREIGN batch 2 - round 694 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.switching-lock-on-targets-is-unreliable` | **−** | The lock-on works, but moving it from one enemy to the next does not pick the target the player meant, or behaves differently from the studio's other games. **Distinct from `combat.the-lock-on-holds-the-body-not-the-weak-point`** (where the lock aims on one target). NIGHTREIGN 196418910. |
+
+🔑 **Round 694, ELDEN RING NIGHTREIGN batch 2.** Built under Rule C on first sighting. `findphrase` checks: "lock on" and "lock-on" found unlock wording, weak lock-on missiles and one camera complaint (Immortal: Unchained 44619359, filed under the camera); "switch target" and "swap target" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
