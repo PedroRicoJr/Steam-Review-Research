@@ -12499,6 +12499,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 778, Alien Swarm batch 18.** Built under Rule C on first sighting (three for the custom-maps mode in this batch). `findphrase` checks: "custom maps", "custom campaigns" and "get the custom" found praise for player maps, one complaint that they give no experience and one (3822309) that they must be copied in by hand, now re-homed here; earlier "tech" sightings that call the class mandatory sit on `.each-role-plays-its-own-way` and stay there, since they praise the roles rather than state the requirement.
 
+## Modes added in Alien Swarm batch 25 - round 785 (Rule C)
+
+### `storefront`
+| Mode | | Definition |
+|---|---|---|
+| `.the-game-dropped-out-of-my-library` | **−** | A game the player had claimed stopped showing in their Steam library, so they forgot it or could not find it again for a long time. **Distinct from `marketing.discovery.its-own-publisher-hides-it`**, which is about the store not promoting it to new players. Alien Swarm 19224640; re-home: 9982292 (searched eight years for it) off `storefront.unknown` |
+
+🔑 **Round 785, Alien Swarm batch 25.** Built under Rule C (the second sighting; the first had gone to `storefront.unknown`). `findphrase` checks: "library", "disappeared" and "vanished" found no earlier report of a game dropping out of a library.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
