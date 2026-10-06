@@ -1951,3 +1951,4 @@ game-design.pacing.no-way-to-sit-and-camp | + | The game's rules - limited ammo,
 engineering.servers.too-few-servers | - | The reviewer says there are not enough servers to play on. **Distinct from `.no-local-servers`** (none near th
 community.player-conduct.teammates-run-ahead-and-leave-you | - | In a co-op game, other players race to the next goal instead of moving as a group, leave the reviewer alone to
 community.user-created-content.player-maps-earn-no-progress | - | Maps or campaigns made by players give no experience or unlocks, so a player who wants to level up is tied to 
+game-design.ui-ux.charts-your-play-after-each-mission | + | After a mission the game shows how each player did, in charts or figures, and the reviewer names the review sc

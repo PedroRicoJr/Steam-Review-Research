@@ -12411,6 +12411,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 767, Alien Swarm batch 7.** Built under Rule C on first sighting. `findphrase` checks: "camping" found only complaints about players camping and other uses, none praising a rule that stops it; "enough servers" found nothing, and "servers" no mode for too few of them; "leave you behind", "run ahead", "rush ahead", "rushing" and "rushers" found no complaint about teammates running off; "custom maps", "no experience" and "no xp" found no complaint that player maps give no experience.
 
+## Modes added in Alien Swarm batch 8 - round 768 (Rule C)
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.charts-your-play-after-each-mission` | **+** | After a mission the game shows how each player did, in charts or figures, and the reviewer names the review screen as a plus. **The positive side of what `.missing-quality-of-life` lists as absent when a game has no scoreboard.** Alien Swarm 3818189 |
+
+🔑 **Round 768, Alien Swarm batch 8.** Built under Rule C on first sighting. `findphrase` checks: "stats after", "end of the mission", "after each mission" and "draw on the map" found no praise for a screen that reviews the team's play after a mission.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
