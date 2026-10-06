@@ -12420,6 +12420,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 768, Alien Swarm batch 8.** Built under Rule C on first sighting. `findphrase` checks: "stats after", "end of the mission", "after each mission" and "draw on the map" found no praise for a screen that reviews the team's play after a mission.
 
+## Modes added in Alien Swarm batch 9 - round 769 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-group-size-is-right` | **+** | The reviewer defends the game's player cap - a bigger group would be less fun. **The inverse of `.group-is-too-small`**; distinct from `.more-players-makes-it-trivial`, which is about difficulty not scaling. Alien Swarm 4977915 |
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.few-player-maps-are-any-good` | **−** | Player-made maps or campaigns exist, but the reviewer says few of them are good. **Distinct from `.no-mod-support`** (none at all) and from `.mods-made-it-worse`, where the player tried them and warns others off. Alien Swarm 1874205 |
+
+🔑 **Round 769, Alien Swarm batch 9.** Built under Rule C on first sighting. `findphrase` checks: "player limit", "more than 4" and "more than four" found only complaints that the group is too small and other uses, none defending the cap; "community maps" and "quality maps" found no complaint that player maps are poor.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
