@@ -354,13 +354,13 @@ lists "Includes level editor" and no Workshop (checked above).
   demanding; **8 say it will not start** - two needed to reset Windows' WMI service (185464912,
   185464747); 4 crash repeatedly; 3 say it destabilises the system. 9 say it vanished from their Steam
   library and 2 cannot remove it (`the-free-game-cannot-be-removed-from-the-account`, built in round
-  820). No Mac or Linux (7 ask for another platform); the Steam Deck report lists failing items.
+  820). No Mac or Linux (7 ask for another platform, 4 of them Linux); the Steam Deck report lists failing items.
 - **The studio and the community.** 85 say updates stopped; 2 note known bugs never fixed; 27 want a
   sequel. The community's culture: 12 reviews teach play, 11 copied meme texts, 5 checkbox templates,
   2 copies of earlier reviews.
 - **What players asked for.** More content or campaigns (34 "want more"; 191 too little), a sequel
   (27), Workshop support (23), controller support (11 bullets mention controllers), solo play or bots without the console
-  (35 unplayable alone), a Mac or other platforms (7), more players (77 thin).
+  (35 unplayable alone), Linux, Mac, phones or the Steam Deck (7; 4 of them Linux), more players (77 thin).
 
 ---
 
