@@ -12476,6 +12476,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 774, Alien Swarm batch 14.** Built under Rule C on first sighting. `findphrase` checks: "reload" and "reloading" found requests for a part-magazine animation and for automatic reloads, none that a reload discards the rest of the magazine; "HUD" found no complaint that the display is unreadable in a fight.
 
+## Modes added in Alien Swarm batch 16 - round 776 (Rule C)
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.the-making-tools-are-easy-to-use` | **+** | The studio ships tools for making maps or mods, and the reviewer says they are easy to use, so players can build levels and play them with friends. **The inverse of `.the-making-tools-are-hard-to-use`** (round 765); distinct from `.mods-extend-the-game`, which praises what others have made. Alien Swarm 8602170 |
+
+🔑 **Round 776, Alien Swarm batch 16.** Built under Rule C on first sighting. `findphrase` checks: "dev kit" found one review naming the kit as a source of maps, and "easy to use" found mods called easy to use, none saying the making tools are.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
