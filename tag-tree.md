@@ -12462,6 +12462,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 773, Alien Swarm batch 13.** Built under Rule C on first sighting. `findphrase` checks: "stats of your" and "no stats" found one complaint about armour with no stats, none praising levels that leave stats alone; "telling you what to do" and "bossy" found nothing; "never played this" found nothing.
 
+## Modes added in Alien Swarm batch 14 - round 774 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.reloading-throws-away-the-rest-of-the-magazine` | ~ | Reloading drops whatever was left in the magazine, so the reviewer tells players to shoot it empty first, or lists it as a difference. **Deliberately neutral**: reviewers state it as a rule to learn, not a fault. Alien Swarm 4374390, 7312807 |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-hud-is-hard-to-read-in-a-fight` | **−** | The on-screen display works in calm moments but becomes a mess the player cannot read during a big fight. **Distinct from `game-design.readability.the-final-fight-cannot-be-read`** (effects in one fight hide the action) and from `.clear-and-usable`, which a reviewer can give the menus in the same breath. Alien Swarm 7312807 |
+
+🔑 **Round 774, Alien Swarm batch 14.** Built under Rule C on first sighting. `findphrase` checks: "reload" and "reloading" found requests for a part-magazine animation and for automatic reloads, none that a reload discards the rest of the magazine; "HUD" found no complaint that the display is unreadable in a fight.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

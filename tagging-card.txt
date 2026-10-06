@@ -1958,3 +1958,5 @@ marketing.discovery.its-own-publisher-hides-it | - | The reviewer says the publi
 game-design.progression.build-and-customisation.levelling-never-raises-your-stats | + | Playing and levelling unlock weapons and items but never make the character's own numbers stronger, so the rev
 community.player-conduct.strangers-give-orders-without-leading | - | In public games another player tells the reviewer what to do in a bossy way, without actually leading, and spo
 review.admits-never-playing-it | ~ | The reviewer says outright that they never played the game they are reviewing. **Distinct from `.written-befor
+game-design.game-feel.combat.reloading-throws-away-the-rest-of-the-magazine | ~ | Reloading drops whatever was left in the magazine, so the reviewer tells players to shoot it empty first, or l
+game-design.ui-ux.the-hud-is-hard-to-read-in-a-fight | - | The on-screen display works in calm moments but becomes a mess the player cannot read during a big fight. **Di
