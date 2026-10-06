@@ -12443,6 +12443,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 771, Alien Swarm batch 11.** Built under Rule C on first sighting. `findphrase` checks: "free to play tab", "free to play section" and "not listed" found nothing.
 
+## Modes added in Alien Swarm batch 13 - round 773 (Rule C)
+
+### `game-design.progression.build-and-customisation`
+| Mode | | Definition |
+|---|---|---|
+| `.levelling-never-raises-your-stats` | **+** | Playing and levelling unlock weapons and items but never make the character's own numbers stronger, so the reviewer says skill and choices decide, not hours played. **Distinct from `game-design.progression.unlock-pace.skill-can-beat-the-grind`**, which is about clearing hard content with nothing unlocked. Alien Swarm 4634456 |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.strangers-give-orders-without-leading` | **−** | In public games another player tells the reviewer what to do in a bossy way, without actually leading, and spoils the game for them. **Distinct from `.trolls-and-griefers`** (spoiling on purpose) and `.unskilled-or-careless`. Alien Swarm 3454206 |
+
+### `review`
+| Mode | | Definition |
+|---|---|---|
+| `.admits-never-playing-it` | ~ | The reviewer says outright that they never played the game they are reviewing. **Distinct from `.written-before-the-game-could-be-played`**, where it could not yet be played. Alien Swarm 5166773 |
+
+🔑 **Round 773, Alien Swarm batch 13.** Built under Rule C on first sighting. `findphrase` checks: "stats of your" and "no stats" found one complaint about armour with no stats, none praising levels that leave stats alone; "telling you what to do" and "bossy" found nothing; "never played this" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
