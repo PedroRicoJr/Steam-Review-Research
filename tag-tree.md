@@ -12517,6 +12517,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 789, Alien Swarm batch 29.** Built under Rule C on first sighting as a named feature (8817821 had praised the same slow-motion zoom as part of the look, and stays on `art.fidelity.looks-great`). `findphrase` checks: "who killed you", "death screen" and "killcam" found nothing; "slow motion" found only praise for slow motion in fights.
 
+## Modes added in Alien Swarm batch 43 - round 803 (Rule C)
+
+### `localization.language-barrier-in-multiplayer`
+| Mode | | Definition |
+|---|---|---|
+| `.players-kick-those-who-do-not-speak-their-language` | **−** | The few players left online kick anyone who does not speak their language, so a lone player is shut out of the games that exist. **Distinct from `.cannot-communicate-with-teammates`** (you play together but cannot talk) and from `community.social-features.the-host-can-remove-you-at-will` (removal for any reason). Alien Swarm 56698566 |
+
+🔑 **Round 803, Alien Swarm batch 43.** Built under Rule C on first sighting. `findphrase` check for kicking tied to speaking, language, Russian, English or foreign found only an unrelated song title.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
