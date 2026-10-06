@@ -12364,6 +12364,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 754, R.E.P.O. batch 30.** Built under Rule C on first sighting. `findphrase` checks: "too scary" found one sighting, filed as praise (fear that is part of the fun); "too scared" found one, the same. Nothing re-homed.
 
+## Modes added in Alien Swarm batch 4 - round 764 (Rule C)
+
+### `engineering.servers`
+| Mode | | Definition |
+|---|---|---|
+| `.has-dedicated-servers` | **+** | The reviewer names dedicated servers as a strength of the game. **The inverse of `.peer-to-peer-not-dedicated`.** Alien Swarm 3723356 |
+
+🔑 **Round 764, Alien Swarm batch 4.** Built under Rule C on first sighting. `findphrase "dedicated servers"` found 14 sightings, all complaints that the game lacks them (`peer-to-peer-not-dedicated`, `no-player-hosting`) or a promise to change a thumb when they come; none praising them.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

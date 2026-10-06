@@ -1944,3 +1944,4 @@ narrative.tone.tries-too-hard-to-be-funny | - | The reviewer says the game leans
 game-design.pacing.a-level-drags-on | - | A single level takes too long - gathering everything is slow - so the game feels long. **The inverse of `produ
 game-design.progression.unlock-pace.the-shop-has-little-worth-buying | - | The in-run shop between levels rarely offers anything good or useful beyond the basic character upgrades, so s
 art.atmosphere.too-scary-to-enjoy | - | The reviewer finds the game too frightening to enjoy and names that as a reason against it. **The inverse of `
+engineering.servers.has-dedicated-servers | + | The reviewer names dedicated servers as a strength of the game. **The inverse of `.peer-to-peer-not-dedicated`
