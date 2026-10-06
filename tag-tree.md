@@ -12526,6 +12526,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 803, Alien Swarm batch 43.** Built under Rule C on first sighting. `findphrase` check for kicking tied to speaking, language, Russian, English or foreign found only an unrelated song title.
 
+## Modes added in Alien Swarm batch 46 - round 806 (Rule C)
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.players-can-draw-on-the-shared-map` | **+** | Players can scribble on the map everyone in the team sees, and reviewers enjoy the drawing for its own sake - mostly as a joke - not only to point the way. **Distinct from `.good-tools-for-coordinating`** (tools praised for planning together). Alien Swarm 73680129 (*"Writing on the map was the best part"*), 31602079, 41345675 |
+
+🔑 **Round 806, Alien Swarm batch 46.** Built under Rule C on the third sighting: `findphrase` for drawing or writing on the map found 31602079 (2017) and 41345675 (2018), both crude jokes about drawing on the map that had been filed at `review.positive.unknown` - the mode should have been built on the first of them. Both are re-homed here.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

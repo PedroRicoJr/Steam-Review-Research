@@ -1966,3 +1966,4 @@ game-design.role-design.one-role-is-required-to-progress | ~ | One class must be
 storefront.the-game-dropped-out-of-my-library | - | A game the player had claimed stopped showing in their Steam library, so they forgot it or could not find it a
 game-design.co-op-design.the-death-replay-names-who-killed-you | + | When a player dies, the game replays the death - slowed down, zoomed in - and shows who or what killed them, s
 localization.language-barrier-in-multiplayer.players-kick-those-who-do-not-speak-their-language | - | The few players left online kick anyone who does not speak their language, so a lone player is shut out of the
+community.social-features.players-can-draw-on-the-shared-map | + | Players can scribble on the map everyone in the team sees, and reviewers enjoy the drawing for its own sake - 
