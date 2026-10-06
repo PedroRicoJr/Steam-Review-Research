@@ -73,6 +73,7 @@ GAMES = {
     "roboquest":             (692890,  2020, 8),   # first-person sci-fi co-op (1-2) roguelite shooter on runs; Early Access from 2020-08, 1.0 on 2023-11-07
     "elden-ring-nightreign": (2622380, 2025, 5),   # co-op action roguelike on runs (planning B2: 3-player co-op), released 2025-05-29
     "repo":                  (3241660, 2025, 2),   # online co-op (up to 6) horror: find valuables and extract them (planning A8); Early Access, released 2025-02-26
+    "alien-swarm":           (630, 2010, 7),       # free four-player top-down sci-fi co-op against alien hordes, Valve (planning C11); released 2010-07-19
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 

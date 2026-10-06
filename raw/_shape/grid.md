@@ -1,13 +1,14 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-10-05 12:51:58 UTC. Rebuild with `python build_grid.py`.
+Built 2026-10-06 00:49:07 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
 | cell | months | total reviews | biggest month |
 |---|---|---|---|
 | `alien-dawn/english` | 21 | 74 | 2021-10 (14) |
+| `alien-swarm/english` | 193 | 10,323 | 2011-12 (422) |
 | `aliens-fireteam-elite/english` | 62 | 17,551 | 2021-08 (4,450) |
 | `arc-raiders/english` | 12 | 251,588 | 2025-11 (106,277) |
 | `arcrunner/english` | 30 | 177 | 2023-05 (64) |
