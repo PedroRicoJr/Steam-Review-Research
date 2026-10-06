@@ -2604,3 +2604,104 @@ below is our reading of what players said, not something the reviews said.
 - **The non-English audience.** About 94,700 reviews in other languages; none pulled.
 
 ⚠️ **The corpus is now 31 games and 31,716 English summaries (32,478 in all languages).**
+
+## 28. ⭐ What the twenty-second large game adds - R.E.P.O., added 2026-10-06
+
+**A first-person online co-op horror game for up to six players by semiwork: small robots carry fragile,
+physics-based valuables out of haunted places to a truck, with monsters that hear the players' voices;
+$9.99; released 2025-02-26 and still in Early Access (Steam store page).** 1,512 of 176,095 English
+reviews, a 0.86% sample at ±2.52%, across 21 months (2025-02 to 2026-10), with the launch month read at
+0.31% (the game came out on the 26th; read as pulled under Rico's ruling of 2026-09-04); 96.6% up;
+2,157 bullets, 1.45 per review; 186 distinct tags, **17 used by no other game; 19 modes built in the 12
+R.E.P.O. blocks (rounds 724-754)**. Full read in `repo-english.md`, ranked lists in `repo.md`,
+plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-27** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included; every column re-run on 2026-10-06):
+
+| | Deep Rock Galactic | Crab Champions | **R.E.P.O.** | Risk of Rain 2 | Roboquest | Escape from Duckov | Helldivers 2 | ELDEN RING NIGHTREIGN | ARC Raiders |
+|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 97.5% | **96.6%** | 95.6% | 96.4% | 90.9% | 83.3% | 87.8% | 79.7% |
+| Bullets per review | 2.12 | 1.52 | **1.45** | 1.43 | 2.37 | 1.92 | 1.79 | 1.88 | 1.56 |
+| Praise per 100 | 175.9 | 123.2 | **120.3** | 104.9 | 173.6 | 134.6 | 108.0 | 105.3 | 86.8 |
+| Complaint per 100 | 23.7 | 18.7 | **18.6** | 18.0 | 40.8 | 40.4 | 55.5 | 64.0 | 56.7 |
+| Praise to complaint | 7.4 : 1 | 6.6 : 1 | **6.5 : 1** | 5.8 : 1 | 4.3 : 1 | 3.3 : 1 | 1.95 : 1 | 1.65 : 1 | 1.53 : 1 |
+
+**Third of 22 groups with 300 or more kept reviews by praise to complaint**, after Deep Rock Galactic
+and Crab Champions; second lowest complaint rate (18.6, Risk of Rain 2 18.0). Its reviews are among the
+shortest in the corpus (1.45 bullets per review), so the praise rate is middling while the complaint
+rate is very low.
+
+### 🔑 The finding: friends are the whole game, and the game's job is to make them funny
+
+Reviews carrying each mode, per 100 kept reviews, over the 22 English groups of 300 or more (a Python
+pass over `raw/*/english/summaries/*/[0-9]*.md`, round 758 note):
+
+| | **R.E.P.O.** | Next highest | Rank |
+|---|---|---|---|
+| Much better with friends | **16.6** | Aliens: Fireteam Elite 10.4, Deep Rock Galactic 10.1, Remnant 2 10.1 | **1st of 22** |
+| Playing together is slapstick comedy | **19.8** | used in no other game | — |
+| Voices heard up close, which monsters hear | **2.2** | used in no other game | — |
+| Scary or absorbing mood (`draws-you-in`) | **6.9** | Immortal: Unchained 5.7, Redfall 5.0 | **1st of 22** |
+| No way to play with strangers | **1.7** | Redfall 1.4 | **1st of 22** (all before 2025-06-26) |
+| No way to talk to the team (`cannot-communicate`) | **0.0** | Aliens: Fireteam Elite 3.4, ELDEN RING NIGHTREIGN 2.8 | — |
+
+"Much better with friends" is 60% higher than in any other game read. Where NIGHTREIGN's complaints
+gathered around the link between players (no chat 2.8 per 100), R.E.P.O. has none: its voice is
+built into the play - heard only nearby, heard by the monsters - and players turn it, the fragile loot
+and the cart into the stories that make up a quarter of the named praise (294 of 1,179). Its
+complaints are about time lost: no strangers until 2025-06-26, a whole run lost on a team wipe
+(`harsh-restart` 0.7 per 100, 3rd of 22), and in 2026 dying with no warning or answer (`too-hard` 0.9,
+3rd of 22, from none at launch to 2.4 per 100 after the monster update of 2025-10-30).
+
+### In plain words
+
+R.E.P.O. is a cheap horror game where a small team of robots carries breakable treasure out of haunted
+houses while monsters listen for them. More players than in any other game we read say it is much
+better with friends, and most of what they praise is the mess they make together: dropping the vase,
+running a friend over with the cart, getting everyone killed by talking too loud. It had almost no
+complaints. The biggest one - you could not play with strangers - went away when the studio added
+public games four months in. Later, players asked for a way not to lose everything when the whole team
+dies, and said some monsters kill too fast to answer.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line
+below is our reading of what players said, not something the reviews said.
+
+- **Fills a gap the page named: a successful co-op PvE extraction game.** The page said only ARC Raiders
+  (other players can shoot you) and Escape from Duckov (single-player) had been read. R.E.P.O. is co-op
+  against the game's own monsters with extraction at the end of each level, and 96.6% up. It
+  **confirms lesson 17 ("PvE extraction is what both extraction audiences asked for")** with a third
+  game, though its extraction is carrying objects, not shooting.
+- **Confirms lesson 1 ("Make the game best with friends, and make that easy") at its strongest** -
+  16.6 per 100, first of 22 - and adds that "easy" includes strangers: the top complaint for four months
+  was no public games (25), gone once they came.
+- **Confirms lesson 19 ("Let players make their own stories and fun") with a mechanism.** Evidence:
+  slapstick 294, the in-game voice 32, fragile loot 20, friendly fire 7. Our reading: give the players
+  tools whose failures are shared and funny - noise that draws enemies, objectives that can break.
+- **Adds: protect the group's time.** Evidence: a team wipe ends the run 10 (2.4 per 100 in the last
+  period), waiting while dead 5 + 2, silent one-hit kills 2, too hard rising to 2.4 per 100. Our
+  reading: a checkpoint or retry between levels, something for the dead to do, and a warning and an
+  answer for every threat.
+- **Confirms lesson 15 ("Price fairly for the amount of game")** - a fair price 27 at $9.99, often
+  bought by a whole group together.
+
+### Other ways it stands out in the corpus
+
+- **Not playable alone** 0.6 per 100, second only to The Anacrusis (0.7) - against fine alone 1.9
+  (5th of 22): solo splits players.
+- **Mods add to it** 1.5 per 100, 4th of 22 (The Anacrusis 4.6, Escape from Duckov 3.1, Risk of Rain 2
+  1.7).
+- **Memorable monsters** 1.9 per 100 (4th) and **lovable characters** 1.4 (4th).
+
+### What this game does NOT settle
+
+- **Shooting.** It is a carrying game first; weapons are few and named only twice.
+- **Third person.** It is first person.
+- **Four players.** It allows six; two is "ok, but tough" (3).
+- **Hosting.** Reviewers speak of one player hosting and of a server list; not checked on the store
+  page.
+- **The non-English audience.** About 251,000 reviews in other languages; none pulled.
+
+⚠️ **The corpus is now 32 games and 33,228 English summaries (33,990 in all languages).**

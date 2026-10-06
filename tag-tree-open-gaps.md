@@ -12413,3 +12413,9 @@ Checked while writing and corrected before commit: the excluded reviews split 6 
 ## Notes - round 757 (R.E.P.O. master page)
 
 Third unit of the 23:44 firing. `findings/repo.md` is written from `templates/findings-master-page.md` with the same numbers as the English page (top 25 complaints and praise from `findings_tables.py`). One figure checked and corrected before commit: the slapstick praise is a quarter (294 of 1,179) of the praise bullets that name something, not a fifth. Next: cross-game section 28, then the DOMINION-TAKEAWAYS entry, then row 15 and A8 are marked Done.
+
+## Notes - round 758 (R.E.P.O. cross-game section 28)
+
+First unit of the 00:44 firing. Section 28 appended to `findings/cross-game.md` from `templates/cross-game-section.md`. Comparison columns re-run with `findings_tables.py` on 2026-10-06 (Deep Rock Galactic, Crab Champions, Risk of Rain 2, Roboquest, Escape from Duckov, Helldivers 2, ELDEN RING NIGHTREIGN, ARC Raiders); bullets per review from a pass over each group's kept summaries. Per-100 rates for 18 modes come from a Python pass counting kept reviews that carry each mode, over the 22 English groups with 300+ kept reviews: R.E.P.O. is first for much better with friends (16.6; Aliens 10.4 next), the mood praise (6.9) and no public matchmaking (1.7), and third for too hard (0.9) and harsh restart (0.7). Praise to complaint 6.5 : 1, third of 22. Corpus now 32 games, 33,228 English summaries, 33,990 in all (counted with a glob over `raw/*/*/summaries`).
+
+The takeaways page's limits line "no successful co-op PvE extraction game" is now out of date; the entry in the next unit will note that R.E.P.O. fills it, and the line itself is updated there.
