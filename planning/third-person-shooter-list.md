@@ -37,7 +37,7 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 | C8 | Rise of the Tomb Raider | 391220 | Feb 9, 2016 | 156,313 | 94% | 41,830 | no |  |
 | C9 | STAR WARS Battlefront II (Classic, 2005) | 6060 | Jul 8, 2009 | 54,314 | 95% | 40,369 | no |  |
 | C10 | STAR WARS Battlefront (Classic, 2004) | 1058020 | May 1, 2019 | 4,730 | 96% | 3,190 | no | the 2024 Classic Collection is a separate app, 2446550, 7,790 reviews, 24% positive |
-| C11 | Alien Swarm | 630 | Jul 19, 2010 | 21,632 | 95% | 10,318 | no | free; top-down co-op. The fan continuation Reactive Drop is a separate app, 563560, 23,817 reviews |
+| C11 | Alien Swarm | 630 | Jul 19, 2010 | 21,632 | 95% | 10,318 | **WIP** (row 16 of `GAMES-TODO.md`, pulled 2026-10-06) | free; top-down co-op. The fan continuation Reactive Drop is a separate app, 563560, 23,817 reviews |
 | C12 | METAL GEAR SOLID: MASTER COLLECTION Vol.2 | 3859630 | Aug 27, 2026 | 71 | 72% | 49 | no | **Under the 500 floor.** Metal Gear Solid 4 is sold only inside this collection, with Peace Walker, so its reviews cover both games |
 | C13 | Dead Space 2 | 47780 | Jan 25, 2011 | 29,967 | 94% | 13,869 | no |  |
 | C14 | Alien Shooter | 33100 | May 27, 2009 | 4,768 | 95% | 1,074 | no | the first of a series; the others are separate apps |
