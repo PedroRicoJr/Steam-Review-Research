@@ -12508,6 +12508,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 785, Alien Swarm batch 25.** Built under Rule C (the second sighting; the first had gone to `storefront.unknown`). `findphrase` checks: "library", "disappeared" and "vanished" found no earlier report of a game dropping out of a library.
 
+## Modes added in Alien Swarm batch 29 - round 789 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-death-replay-names-who-killed-you` | **+** | When a player dies, the game replays the death - slowed down, zoomed in - and shows who or what killed them, so a teammate's friendly fire is called out for everyone to see. **Distinct from `.friendly-fire-makes-stories`** (the fun of hurting each other) and from `game-design.ui-ux.charts-your-play-after-each-mission` (figures after the mission). Alien Swarm 28107376 |
+
+🔑 **Round 789, Alien Swarm batch 29.** Built under Rule C on first sighting as a named feature (8817821 had praised the same slow-motion zoom as part of the look, and stays on `art.fidelity.looks-great`). `findphrase` checks: "who killed you", "death screen" and "killcam" found nothing; "slow motion" found only praise for slow motion in fights.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

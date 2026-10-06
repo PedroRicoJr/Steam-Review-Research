@@ -1964,3 +1964,4 @@ community.user-created-content.the-making-tools-are-easy-to-use | + | The studio
 community.user-created-content.custom-maps-are-a-hassle-to-run | - | Player-made maps exist, but getting them installed and working - or getting a group to load the same ones - is
 game-design.role-design.one-role-is-required-to-progress | ~ | One class must be in the team because only it can do a job the levels demand - hacking doors or terminals - so
 storefront.the-game-dropped-out-of-my-library | - | A game the player had claimed stopped showing in their Steam library, so they forgot it or could not find it a
+game-design.co-op-design.the-death-replay-names-who-killed-you | + | When a player dies, the game replays the death - slowed down, zoomed in - and shows who or what killed them, s
