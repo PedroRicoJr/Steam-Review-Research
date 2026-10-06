@@ -1945,3 +1945,5 @@ game-design.pacing.a-level-drags-on | - | A single level takes too long - gather
 game-design.progression.unlock-pace.the-shop-has-little-worth-buying | - | The in-run shop between levels rarely offers anything good or useful beyond the basic character upgrades, so s
 art.atmosphere.too-scary-to-enjoy | - | The reviewer finds the game too frightening to enjoy and names that as a reason against it. **The inverse of `
 engineering.servers.has-dedicated-servers | + | The reviewer names dedicated servers as a strength of the game. **The inverse of `.peer-to-peer-not-dedicated`
+game-design.game-feel.camera.can-switch-to-another-view | + | The player can switch the view the game is played in - top-down to first person, say - and the reviewer names 
+community.user-created-content.the-making-tools-are-hard-to-use | - | The studio ships tools for making maps or mods, and the reviewer says they are hard to use or do not work as i

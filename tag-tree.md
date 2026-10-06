@@ -12373,6 +12373,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 764, Alien Swarm batch 4.** Built under Rule C on first sighting. `findphrase "dedicated servers"` found 14 sightings, all complaints that the game lacks them (`peer-to-peer-not-dedicated`, `no-player-hosting`) or a promise to change a thumb when they come; none praising them.
 
+## Modes added in Alien Swarm batch 5 - round 765 (Rule C)
+
+### `game-design.game-feel.camera`
+| Mode | | Definition |
+|---|---|---|
+| `.can-switch-to-another-view` | **+** | The player can switch the view the game is played in - top-down to first person, say - and the reviewer names the option as a plus. **The inverse of `.no-choice-of-view`**; distinct from `community.user-created-content.a-mod-adds-a-mode-the-studio-never-shipped`, where the other view comes from a mod. Alien Swarm 2166792 |
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.the-making-tools-are-hard-to-use` | **−** | The studio ships tools for making maps or mods, and the reviewer says they are hard to use or do not work as instructed, so little gets made. **Distinct from `.no-mod-support`**, where there are no tools at all, and from `.mods-are-expected-to-fill-the-gaps`, which is about the studio leaning on players. Alien Swarm 3835317 |
+
+🔑 **Round 765, Alien Swarm batch 5.** Built under Rule C on first sighting. `findphrase` checks: "first person mode", "first-person mode" and "switch to first" found only complaints that a game has no other view, one mod that adds one, and one complaint about how a first-person mode plays; none praising a built-in switch. "mod tools", "modding tools", "level editor" and "SDK" found only praise for tools or complaints that none exist; none saying the tools are hard to use.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
