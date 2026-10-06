@@ -12535,6 +12535,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 806, Alien Swarm batch 46.** Built under Rule C on the third sighting: `findphrase` for drawing or writing on the map found 31602079 (2017) and 41345675 (2018), both crude jokes about drawing on the map that had been filed at `review.positive.unknown` - the mode should have been built on the first of them. Both are re-homed here.
 
+## Modes added in Alien Swarm batch 50 - round 810 (Rule C)
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.used-as-a-free-toolkit-for-other-projects` | ~ | The reviewer values the game less as a game than as a free kit of engine tools - an SDK, map tools, lighting files - for making things outside it: other Source maps, mods for other games, film work. **Distinct from `.mods-extend-the-game`** (made content that is played in this game) and from `.the-tools-taught-me-to-make-games`. Alien Swarm 82395800 (*"bypasses the need to pay for a game to get the Source SDK"*), 92074743 (*"a great tool for building cubemaps for sfm"*), 55864856 (*"great for source mappers kinda ok as a game"*) |
+
+🔑 **Round 810, Alien Swarm batch 50.** Built under Rule C. `findphrase` for SDK, mapper, modding tool, filmmaker, SFM, Hammer, level editor, authoring and Source engine in Alien Swarm: the earlier SDK and editor sightings (895674, 16933093, 28107376 and others) are about campaigns made for this game and stay on `.mods-extend-the-game`. 82395800 (round 808) and 55864856 (round 802) had been filed there and are re-homed here; the mode should have been built on 55864856. 89893971 ("good titanfall modding tool", round 809) stays on `review.positive.unknown` because it may be a joke.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
