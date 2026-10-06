@@ -1961,3 +1961,5 @@ review.admits-never-playing-it | ~ | The reviewer says outright that they never 
 game-design.game-feel.combat.reloading-throws-away-the-rest-of-the-magazine | ~ | Reloading drops whatever was left in the magazine, so the reviewer tells players to shoot it empty first, or l
 game-design.ui-ux.the-hud-is-hard-to-read-in-a-fight | - | The on-screen display works in calm moments but becomes a mess the player cannot read during a big fight. **Di
 community.user-created-content.the-making-tools-are-easy-to-use | + | The studio ships tools for making maps or mods, and the reviewer says they are easy to use, so players can bui
+community.user-created-content.custom-maps-are-a-hassle-to-run | - | Player-made maps exist, but getting them installed and working - or getting a group to load the same ones - is
+game-design.role-design.one-role-is-required-to-progress | ~ | One class must be in the team because only it can do a job the levels demand - hacking doors or terminals - so

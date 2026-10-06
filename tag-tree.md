@@ -12485,6 +12485,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 776, Alien Swarm batch 16.** Built under Rule C on first sighting. `findphrase` checks: "dev kit" found one review naming the kit as a source of maps, and "easy to use" found mods called easy to use, none saying the making tools are.
 
+## Modes added in Alien Swarm batch 18 - round 778 (Rule C)
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.custom-maps-are-a-hassle-to-run` | **−** | Player-made maps exist, but getting them installed and working - or getting a group to load the same ones - is a chore, so the reviewer rarely plays them. **Distinct from `.no-mod-support`** (no player content at all) and from `.few-player-maps-are-any-good` (the maps run but are poor). Alien Swarm 10302379, 10385053, 10682693; re-home: 3822309 (maps copied into a folder by hand) off `.no-mod-support` |
+
+### `game-design.role-design`
+| Mode | | Definition |
+|---|---|---|
+| `.one-role-is-required-to-progress` | ~ | One class must be in the team because only it can do a job the levels demand - hacking doors or terminals - so that player has to be kept alive. **Deliberately neutral**: reviewers state it as a fact of play. **Distinct from `.forces-a-fixed-team-composition`**, where only one mix of roles works at all. Alien Swarm 10373880; re-home: 3454206 off `.unknown` |
+
+🔑 **Round 778, Alien Swarm batch 18.** Built under Rule C on first sighting (three for the custom-maps mode in this batch). `findphrase` checks: "custom maps", "custom campaigns" and "get the custom" found praise for player maps, one complaint that they give no experience and one (3822309) that they must be copied in by hand, now re-homed here; earlier "tech" sightings that call the class mandatory sit on `.each-role-plays-its-own-way` and stay there, since they praise the roles rather than state the requirement.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
