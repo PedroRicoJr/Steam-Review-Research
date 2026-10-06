@@ -18,8 +18,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-10-04 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now R.E.P.O. (ELDEN RING NIGHTREIGN finished in round 722; Roboquest in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 758: R.E.P.O. cross-game section 28 |
-| Next unit | R.E.P.O. entry in `DOMINION-TAKEAWAYS.md` from `templates/dominion-takeaways-entry.md`; then row 15 and A8 Done |
+| Last unit done | Round 759: R.E.P.O. entry in DOMINION-TAKEAWAYS.md; R.E.P.O. Done (row 15, A8) |
+| Next unit | Pick the next game from `planning/` (closest to Dominion first; Alien Swarm C11 was the runner-up in round 723), record the pick and why, then pull it |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,946 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |

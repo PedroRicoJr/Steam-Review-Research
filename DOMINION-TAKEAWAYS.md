@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| R.E.P.O. | 2026-10-06 | 96.6% |
 | ELDEN RING NIGHTREIGN | 2026-10-05 | 87.8% |
 | Roboquest | 2026-10-04 | 96.4% |
 | The First Descendant | 2026-10-03 | 64.5% |
@@ -134,10 +135,13 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | Risk of Rain 2 | third-person runs, co-op | 95.6% | 104.9 | 18.0 | 5.8 : 1 | 1.43 | section 25 |
 | Gunfire Reborn | co-op runs, first person, seasons | 93.9% | 130.0 | 33.1 | 3.9 : 1 | 1.78 | section 25 |
 | Earth Defense Force 5 | third-person co-op missions, hosted by one player | 95.7% | 140.2 | 38.9 | 3.6 : 1 | 1.89 | section 25 |
+| R.E.P.O. | co-op PvE extraction, horror, first person, up to six | 96.6% | 120.3 | 18.6 | 6.5 : 1 | 1.45 | section 28 |
+| Roboquest | co-op runs, first person | 96.4% | 173.6 | 40.8 | 4.3 : 1 | 2.37 | section 26 |
 | Escape from Duckov | single-player PvE extraction | 90.9% | 134.6 | 40.4 | 3.3 : 1 | 1.92 | section 25 |
 | Warframe | free, long-running co-op | 89.9% | 127.3 | 50.9 | 2.5 : 1 | 2.01 | section 25 |
 | Helldivers 2 | co-op missions, live service | 83.3% | 108.0 | 55.5 | 1.95 : 1 | 1.79 | section 25 |
 | Space Marine 2 | licensed third-person co-op | 87.6% | 116.1 | 61.9 | 1.87 : 1 | 1.99 | section 19 |
+| ELDEN RING NIGHTREIGN | third-person co-op runs, three players | 87.8% | 105.3 | 64.0 | 1.65 : 1 | 1.88 | section 27 |
 | Remnant II | third-person co-op sequel | 83.6% | 121.6 | 77.5 | 1.57 : 1 | 2.30 | section 19 |
 | ARC Raiders | extraction where other players can shoot you | 79.7% | 86.8 | 56.7 | 1.53 : 1 | 1.56 | section 25 |
 | Aliens: Fireteam Elite | licensed co-op, players connect to each other | 81.3% | 124.6 | 141.8 | 0.88 : 1 | 2.94 | section 19 |
@@ -155,7 +159,8 @@ What the main table says in plain words:
   of the ten games in section 25's table where this is true; it also has the lowest thumbs up and the
   most points per review of those ten: "its reviewers argue at length" (section 25).
 - The two run-based third-person games, Crab Champions and Risk of Rain 2, have the two lowest
-  complaint rates: 18.7 and 18.0 per 100 (section 24). Deep Rock Galactic is next at 23.7.
+  complaint rates: 18.7 and 18.0 per 100 (section 24). R.E.P.O. sits between them at 18.6 (section 28).
+  Deep Rock Galactic is next at 23.7.
 - The highest complaint rates belong to games that did badly: Redfall 241.6, The Anacrusis 224.2,
   Immortal: Unchained 217.7, Rogue Core 193.2, Terminull Brigade 183.6 per 100.
 - Deep Rock Galactic has by far the most praise per 100 (175.9). Terminull Brigade has the least (65.4),
@@ -1068,9 +1073,10 @@ reviews said.
   Rain 2), 381,000 (Warframe), 93,000 (Duckov), 60,000 (Gunfire Reborn), 4,300 (Earth Defense Force 5),
   4,000 (Crab Champions) and 61,000 (The First Descendant), none pulled. Language can change the verdict:
   Zombie Girl's English 9% is 22 points more positive than its other 91% (section 15).
-- **Few extraction games, and no successful co-op PvE extraction game.** Only two were read: ARC Raiders
-  (other players can shoot you) and Escape from Duckov (single-player, co-op only by mods). For co-op in
-  Duckov, "the request is recorded, the experience is not" (section 21).
+- **Few extraction games.** Three were read: ARC Raiders (other players can shoot you), Escape from Duckov
+  (single-player, co-op only by mods; for co-op there, "the request is recorded, the experience is not",
+  section 21) and, since 2026-10-06, R.E.P.O. - a successful co-op extraction game against the game's own
+  monsters (96.6% up), but first person and built on carrying, not shooting (section 28).
 - **Hosting and servers.** Aliens is peer-to-peer and "nothing in this corpus has a dedicated-server
   analogue" (section 13). Listen-server counts come mostly from Earth Defense Force 5, with 1 to 7
   reviews each. Aliens cannot "separate 'the matchmaking is bad' from 'not enough people bought it'".
@@ -1112,6 +1118,252 @@ reviews said.
 ---
 
 # The games
+
+## R.E.P.O.
+
+**Read:** 1,483 of 176,095 English reviews (0.86%; 1,512 were read and 29 were left out - 6 empty, 13
+crude remarks or crude puns on the name, 10 about something else entirely), ±2.52%, written February
+2025 to October 2026. The first month was read very thinly: the game came out on 26 February, so only 5
+of its 1,627 reviews were sampled - but that month is under 1% of all reviews. **96.6% thumbs up** in
+the sample (Steam, all languages: 96%, Overwhelmingly Positive).
+**Pages:** `findings/repo-english.md`, `findings/repo.md`, `findings/cross-game.md` section 28.
+
+**What it is:** A first-person horror game for one to six players online. The players are small robots
+sent into haunted houses, a museum and other places to find valuables - vases, pianos, ceramics - and
+carry them to a truck without breaking them, while monsters hunt them. Everything moves by physics: you
+grab and drag objects, and a bump or a drop costs money. You hear other players' voices only when they
+are close, and the monsters hear them too. Money buys upgrades and weapons between levels; when the
+whole team dies, the run ends. Made and sold by semiwork, $9.99, released 26 February 2025 and still in
+Early Access in October 2026; Windows only; no controller support listed. The pages did not check how
+games are hosted (reviewers speak of one player hosting and, from June 2025, a list of public games).
+(Store facts and update dates checked against Steam's store page and the studio's Steam posts.)
+
+**How close to Dominion:** Close in its loop, not in its play. It shares a small team going into a
+level, gathering what it can and getting out, with everything lost if everyone dies - co-op against the
+game's own monsters, with no other players hunting you. It differs in being first person, up to six
+players, horror instead of sci-fi, and built on carrying and hiding instead of shooting.
+
+### The short version (plain words)
+Players love this game because it makes them laugh with their friends. "Much better with friends" was
+said 246 times - more often per review than in any of the 22 large games we have read - and 294 more
+describe the funny mess they made together: dropping the treasure, running a friend over with the cart,
+getting everyone killed by talking too loudly. It has almost no complaints: 18.6 for every 100 reviews,
+the second lowest we have counted. The top complaint, that you could not play with strangers, went away
+when the studio added public games four months after launch. Later players found it harder, and asked
+not to lose the whole run when the team dies.
+
+### What players praised, most to least
+1. **Funny moments made by the players** - 294 times. "Never laughed more than in this game"
+   (190307767); "98% Messing around 2% Taking the game serious" (192255582).
+2. **Much better with friends** - 246 times.
+3. **Scary in a good way** - 104 times, often next to the laughs: "funny with friends and scary on your
+   own" is one of the most common short reviews.
+4. **Keeps pulling them back** - 76 times; 87 reviews show 100 hours or more.
+5. **Voices you hear only up close, which the monsters also hear** - 32 times. "I looked at my friend, he
+   quietly said [a swear word], I proceeded to get shot point blank because of it" (191685053). A player
+   with 408 hours: "gameplay is boring af but its the talking with people thats cool" (209333497).
+6. **A memorable monster** - 28 times: the duck, the Huntsman (reviewers describe a blind old man with a gun
+   who shoots at noise), the giant head, the robed one.
+7. **Fine to play alone** - 28 times; the most helpful review in the sample (92 found it helpful) plays
+   alone often and is "never boring" (229284110).
+8. **A fair price** - 27 times, at $9.99.
+9. **Better than Lethal Company**, the game it is most compared with - 23 times.
+10. **Mods add to it** - 22 times: a save mod, monsters that copy players' voices, new maps.
+11. **Lovable robots** - 21 times, down to their faces and the way they turn to look at whoever is
+    talking.
+12. **Carrying breakable treasure is the game** - 20 times. "Careful how you walk, move and jump or you
+    can literally damage items" (192833892).
+13. **Fine with strangers** - 20 times, nearly all after public games arrived.
+14. **The best of its kind** - 17 times; **likes the people at the studio** - 17; **updates made it
+    better** - 13; **made with care** - 12; **many kinds of monster** - 10; **rewarding once learned**
+    - 10; **hard in a good way** - 9; **the shop and upgrades satisfy** - 8; **steady updates** - 7;
+    **friendly fire makes stories** - 7.
+
+### What players complained about, most to least
+1. **No way to play with strangers** - 25 times, all between March and June 2025, none after the studio
+   added public games on 26 June 2025. One asked for a refund over it: "seemed funny and cool but it has
+   ZERO MATCHMAKING refund requested" (190307007).
+2. **One monster is hated** - 18 times: the baby, the robed one, the gnomes, the clown, the invisible one,
+   Bella.
+3. **Thumbs down with no reason** - 17 times.
+4. **Too hard** - 13 times, none in the first four months.
+5. **Worse alone** - 10 times; **not playable alone** - 9 more.
+6. **Losing the whole run when the team dies, with no save or retry** - 10 times. "to delete a save on
+   team death" (226903612).
+7. **Repetitive** - 9; **gets boring fast** - 7.
+8. **One monster is too strong** - 8: the eye monster's spawn rate, the Huntsman, Bella, Loom.
+9. **Strangers ruin it** - 8: "Toxic kids having a laugh by ruining the game for other people" after 15
+   public lobbies in a row (198597222); hackers (2), trolls (2).
+10. **Not scary enough** - 7; **too scary to enjoy** - 1.
+11. **The store picture puts people off** - 6 (2 defend it as odd on purpose).
+12. **A rival does it better** - 6; **a copy of Lethal Company** - 4.
+13. **The dead wait with nothing to do** - 5, plus "too much waiting" 2: up to 10-15 minutes watching.
+14. **Deaths come down to luck** - 3; **no way to fight back** - 3; **monsters kill silently** - 2;
+    **dumb monster behaviour** - 2.
+15. **Two players is playable but tough** - 3; **wants more than six players** - 1.
+16. **Disconnects** - 3; **an update made it worse** - 3; **game-breaking faults after updates** - 2.
+
+Of the 51 thumbs down, the clearest is 224997718: it praises the studio ("an actual, full-on, from the
+heart game"), then says "More than probably 90% of the time, you dying is based purely on luck", with
+no way to fight back and one hit "an instant game-over".
+
+### How it changed over time
+Reviews are grouped by the studio's updates (checked on Steam):
+
+| Period | Reviews read | Thumbs up | Complaints per 100 |
+|---|---|---|---|
+| Launch (Feb-Mar 2025) | 338 | 97.9% | 19.5 |
+| Before public games (Apr-Jun 2025) | 483 | 97.7% | 15.3 |
+| After the museum update and public games (Jul-Oct 2025) | 142 | 93.7% | 20.4 |
+| After the monster update (Nov 2025-Apr 2026) | 353 | 95.8% | 16.7 |
+| After the cosmetic update (May-Oct 2026) | 167 | 94.6% | 18.6 |
+
+- **Fell:** the funny-moments praise, from 27 per 100 reviews at launch to 10; "better than Lethal
+  Company", from 3.8 to 0; "fair price", from 3.6 to 0.6; the strangers complaint, from 3.1 to 0 after
+  June 2025.
+- **Rose:** "too hard", from 0 to 2.4 per 100 after the monster update (30 October 2025); "lose
+  everything when the team dies", to 2.4 in the last period; "repetitive", to 2.4; "fine with
+  strangers", from 0.6 to 3.0; "bad strangers", from 0 to 1.2; "fine alone", from 0.9 to 4.2; praise
+  for the studio, from 0.9 to 2.4.
+- The thumbs-up dip from 97.9% to 94.6% is within the margin of error.
+
+### Co-op and online play
+- **Friends are the point** (246). Up to six players. Two players "is ok, but tough" (3); a group of
+  seven wants more than six (1).
+- **Strangers:** none possible until 26 June 2025 (25 complaints; the game's Discord was the
+  stopgap); then 20 good reports and 8 bad - children with soundboards, trolls, hackers.
+- **Voices up close that monsters hear** are part of the fun (32); soundboards are named 8 times, typed
+  chat read aloud 3. One player cannot use outside voice apps and needs in-game ways to find people.
+- **Hosting:** one says hosting needs a very strong PC (209330719); disconnects (3), failing to join
+  (1), a wish for dedicated servers with a promise to change the thumb if they come (197920022).
+- **Friendly fire** makes stories (7): throwing friends, blowing them up, a fight for a crown among the
+  dead after a wipe.
+- **The dead:** a fallen player's head can be carried to the truck to bring them back (praised 3 times),
+  but the dead can wait 10-15 minutes (5); asks for "something for spectating players to do" (191034649).
+- **Crossplay and consoles:** friends on Xbox cannot join (the game is Windows only); 2 ask for console
+  versions.
+
+### Combat, movement and feel
+- Mostly running and hiding: "most monsters have the same counterplay: hide and wait" (191034649); no
+  way to fight back (3). Two weapons are named and loved - a tranquilliser gun and a bat. One wants the
+  fighting removed.
+- Moving: slow (2) and responsive (2); stamina runs out too fast (1).
+- **No controller support** (2; the store lists none). The mouse drifting by itself, in this game only
+  (1).
+
+### Enemies, bosses and difficulty
+- Memorable monsters (28) and good variety (10) against one hated monster (18) and one too strong (8).
+- Monsters that find you while hidden (1), kill in one hit with no sound (2), or "appear almost all at
+  once" in later levels (216645725).
+- Too hard 13 against hard in a good way 9 and too easy 2. Not scary enough 7.
+- No reviewer mentions a boss; each level ends when the team extracts.
+
+### Progression, loot, randomness and grind
+- Money from extracted loot buys upgrades and weapons; the shop satisfies (8), but sometimes has
+  nothing worth buying (1) or never offers the upgrade you need (1).
+- Nothing carries over between runs (2); a team wipe ends the run (10 asks for a save, a retry, or an
+  autosave after level 10).
+- Luck decides runs (3). All the loot on a level can be destroyed, leaving it unwinnable (1).
+- Outfits since 7 May 2026 give "Finally something to work for!" (224998517; 4 in all).
+
+### Runs, content and replay value
+- Keeps them coming back (76) and varied runs (5), against repetitive (9) and boring fast (7).
+- Too few kinds of level at launch (3); a level drags because collecting takes long (1); good in short
+  sessions (2).
+
+### Money and price
+- $9.99; a fair price 27 times, too high once. Two tried it during the free weekend (to 3 November
+  2025). Friends often buy it together.
+
+### Tech: performance, crashes, bugs
+- Runs well on old or modest PCs (5), small download (2); too demanding (2).
+- Bugs rare and minor (5); a crash before the menu after an update, and no way past level 1 after
+  another (2). Works on Linux through Proton (2, the reviewer says).
+- Mods add to it (22) but sometimes break it (2).
+
+### The studio, updates and community
+- Liked as people (17); open about plans through devlogs on YouTube (4); steady updates (7); updates
+  made it better (13) against worse (3), and once said to favour expert players over casual ones.
+- Waiting for promised content (21). One disliked the robot outfit in Fortnite (October 2025, checked).
+- Two say the store cover was changed (not checked).
+
+### What players asked for
+Public games (25, met on 26 June 2025); a save or retry when the team dies (10); controller support
+(2); achievements (2); console versions (2); a beginner's guide to the monsters (2); more cosmetics (3);
+trading cards (1); more than six players (1); dedicated servers (1); a competitive mode (1); a separate
+last-player-standing mode (1); a monster that copies players' voices to lure them (1); solo aids such
+as a back-up robot as an extra life or a monster tracker (1).
+
+### Only in this game
+- Funny moments made by the players, as the main praise (294).
+- Voices heard only up close, which the monsters also hear (32).
+- Carrying breakable treasure as the core of the game (20).
+- A store picture that puts people off (6) - and two who defend it.
+- Two players "ok, but tough" (3); bringing the dead back by carrying them to the exit (3).
+
+### For Dominion - our reading
+1. **Build shared, funny mistakes into the game on purpose.**
+   Evidence: funny moments 294, voices the monsters hear 32, breakable loot 20, friendly fire 7.
+   Dominion could: give players things that can go wrong together - noise that draws enemies, objectives
+   or cargo that can break, physics a friend can mess up.
+   Strength: strong.
+2. **Ship a way to play with strangers on day one.**
+   Evidence: the top complaint for four months (25), gone the day public games came.
+   Dominion could: launch with matchmaking or a public game list beside friend invites.
+   Strength: strong.
+3. **Give hosts tools against bad strangers.**
+   Evidence: bad strangers rose from 0 to 1.2 per 100 once public games came (8): soundboards,
+   trolls, hackers.
+   Dominion could: kick, mute, friends-only and private games.
+   Strength: medium.
+4. **Do not make one team wipe cost everything.**
+   Evidence: 10 asks for a save or retry, 2.4 per 100 in the last period; a thumbs down over it.
+   Dominion could: a checkpoint or one retry between levels.
+   Strength: medium.
+5. **Give every threat a warning and an answer.**
+   Evidence: too hard from 0 to 2.4 per 100 after the monster update; luck 3, no way to fight back 3,
+   silent one-hit kills 2; "90% of the time … based purely on luck" (224997718).
+   Dominion could: sound cues before attacks, and at least one counter for every enemy.
+   Strength: medium.
+6. **Give the dead something to do and a way back.**
+   Evidence: waiting while dead 5 + 2; carrying the dead home to revive them praised 3 times.
+   Dominion could: a spectator role with small jobs, and a revive the team works for.
+   Strength: medium.
+7. **Tune for two players and for one.**
+   Evidence: fine alone 28 against worse or not playable alone 19; two players "ok, but tough" 3.
+   Dominion could: scale enemies to the group size and test every size.
+   Strength: medium.
+8. **In-game voice can be part of the play, not just a chat tool.**
+   Evidence: 32 praise voices that carry only nearby and that monsters hear; no complaint about missing
+   chat at all (against 36 in ELDEN RING NIGHTREIGN).
+   Dominion could: consider positional voice, and enemies that react to it.
+   Strength: medium.
+9. **A low price gets whole groups to buy.**
+   Evidence: a fair price 27 at $9.99; several reviews say a friend made them buy it.
+   Strength: weak for Dominion's price, which these pages do not decide.
+10. **Support mods.**
+    Evidence: 22 say mods add to it - including a save mod, which players built to fix lesson 4.
+    Strength: weak-medium.
+11. **Show the studio at work, and give players something to collect.**
+    Evidence: 17 like the people, 4 name the devlogs; outfits gave "something to work for" (4).
+    Strength: weak.
+12. **Controller support.**
+    Evidence: 2 ask; the store lists none.
+    Strength: weak.
+
+### Limits
+- ±2.52% on the whole sample; each period ±4.4% to ±8.1%. Most complaints were said under 25 times.
+- Reviews are very short: most are 15 words or fewer, and 605 of 2,157 points are a bare thumbs up.
+- 75 reviews were edited later; they are counted on the date first written.
+- Not checked: that the store cover was changed; that monsters could once be held as long as you liked;
+  "the tricycle", "the Reaper" and "the cauldron" as things in the game; hacker reports; hosting and
+  server details; prices reviewers quote.
+- Two reviews praised a made-up story game that is not this one; they count only as such.
+- English only: about 251,000 reviews in other languages were not read.
+- It is a carrying-and-hiding game, first person, for up to six: it does not test shooting, third
+  person or four-player balance.
+
+---
 
 ## ELDEN RING NIGHTREIGN
 
