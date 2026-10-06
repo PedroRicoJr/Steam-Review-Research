@@ -1947,3 +1947,7 @@ art.atmosphere.too-scary-to-enjoy | - | The reviewer finds the game too frighten
 engineering.servers.has-dedicated-servers | + | The reviewer names dedicated servers as a strength of the game. **The inverse of `.peer-to-peer-not-dedicated`
 game-design.game-feel.camera.can-switch-to-another-view | + | The player can switch the view the game is played in - top-down to first person, say - and the reviewer names 
 community.user-created-content.the-making-tools-are-hard-to-use | - | The studio ships tools for making maps or mods, and the reviewer says they are hard to use or do not work as i
+game-design.pacing.no-way-to-sit-and-camp | + | The game's rules - limited ammo, enemies that keep coming - stop the team holding one safe spot, so it has to 
+engineering.servers.too-few-servers | - | The reviewer says there are not enough servers to play on. **Distinct from `.no-local-servers`** (none near th
+community.player-conduct.teammates-run-ahead-and-leave-you | - | In a co-op game, other players race to the next goal instead of moving as a group, leave the reviewer alone to
+community.user-created-content.player-maps-earn-no-progress | - | Maps or campaigns made by players give no experience or unlocks, so a player who wants to level up is tied to 

@@ -12387,6 +12387,30 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 765, Alien Swarm batch 5.** Built under Rule C on first sighting. `findphrase` checks: "first person mode", "first-person mode" and "switch to first" found only complaints that a game has no other view, one mod that adds one, and one complaint about how a first-person mode plays; none praising a built-in switch. "mod tools", "modding tools", "level editor" and "SDK" found only praise for tools or complaints that none exist; none saying the tools are hard to use.
 
+## Modes added in Alien Swarm batch 7 - round 767 (Rule C)
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.no-way-to-sit-and-camp` | **+** | The game's rules - limited ammo, enemies that keep coming - stop the team holding one safe spot, so it has to keep moving, and the reviewer names that as a plus. **Distinct from `community.player-conduct.players-idle-and-leave-the-work-to-others`** and `.players-camp-the-exit`, which are about other players camping. Alien Swarm 5666441 |
+
+### `engineering.servers`
+| Mode | | Definition |
+|---|---|---|
+| `.too-few-servers` | **−** | The reviewer says there are not enough servers to play on. **Distinct from `.no-local-servers`** (none near the player) and from `community.population.dead-game` (too few players). Alien Swarm 5666441 |
+
+### `community.player-conduct`
+| Mode | | Definition |
+|---|---|---|
+| `.teammates-run-ahead-and-leave-you` | **−** | In a co-op game, other players race to the next goal instead of moving as a group, leave the reviewer alone to be overwhelmed, and sometimes blame them for dying. **Distinct from `.unskilled-or-careless`** (bad play in general), `.quitting-mid-match` and `game-design.co-op-design.teammates-rush-past-the-puzzles`. Alien Swarm 3454192 |
+
+### `community.user-created-content`
+| Mode | | Definition |
+|---|---|---|
+| `.player-maps-earn-no-progress` | **−** | Maps or campaigns made by players give no experience or unlocks, so a player who wants to level up is tied to the official content. **Distinct from `.no-mod-support`** (no player content at all) and from `game-design.solo-viability.no-progression-solo`. Alien Swarm 1599340 |
+
+🔑 **Round 767, Alien Swarm batch 7.** Built under Rule C on first sighting. `findphrase` checks: "camping" found only complaints about players camping and other uses, none praising a rule that stops it; "enough servers" found nothing, and "servers" no mode for too few of them; "leave you behind", "run ahead", "rush ahead", "rushing" and "rushers" found no complaint about teammates running off; "custom maps", "no experience" and "no xp" found no complaint that player maps give no experience.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
