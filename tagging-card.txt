@@ -1954,3 +1954,4 @@ community.user-created-content.player-maps-earn-no-progress | - | Maps or campai
 game-design.ui-ux.charts-your-play-after-each-mission | + | After a mission the game shows how each player did, in charts or figures, and the reviewer names the review sc
 game-design.co-op-design.the-group-size-is-right | + | The reviewer defends the game's player cap - a bigger group would be less fun. **The inverse of `.group-is-too
 community.user-created-content.few-player-maps-are-any-good | - | Player-made maps or campaigns exist, but the reviewer says few of them are good. **Distinct from `.no-mod-supp
+marketing.discovery.its-own-publisher-hides-it | - | The reviewer says the publisher does nothing to bring players to the game - not even listing it in the store s

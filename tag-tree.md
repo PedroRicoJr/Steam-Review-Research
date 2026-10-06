@@ -12434,6 +12434,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 769, Alien Swarm batch 9.** Built under Rule C on first sighting. `findphrase` checks: "player limit", "more than 4" and "more than four" found only complaints that the group is too small and other uses, none defending the cap; "community maps" and "quality maps" found no complaint that player maps are poor.
 
+## Modes added in Alien Swarm batch 11 - round 771 (Rule C)
+
+### `marketing.discovery`
+| Mode | | Definition |
+|---|---|---|
+| `.its-own-publisher-hides-it` | **−** | The reviewer says the publisher does nothing to bring players to the game - not even listing it in the store section where players would look for it - so few find it. **Distinct from `community.population.dead-game`**, the result, and from `live-ops.abandonment.updates-stopped`, which is about updates rather than promotion. Alien Swarm 3670142 |
+
+🔑 **Round 771, Alien Swarm batch 11.** Built under Rule C on first sighting. `findphrase` checks: "free to play tab", "free to play section" and "not listed" found nothing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
