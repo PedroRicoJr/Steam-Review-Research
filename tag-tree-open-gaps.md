@@ -12435,3 +12435,9 @@ Third unit of the 00:44 firing. No reviews read.
 - **Pull:** planned 3,707 at the default target, **got 3,607**, all ids distinct, in two runs (the first stopped at a 10-minute limit and the second resumed). **Actual margin +/-2.04%** (Rule 12, the same formula as `pull_sample.true_moe` on the count actually pulled per month). **The floor of 20 a month sets the size**: with 193 months, the floor alone is about 3,860, about 36% of all English reviews. That is by Rico's ruling of 2026-08-29 ("No cap"); at three units a firing it is about 73 units, roughly a day. 42 months came back short of 20 (the shortest 2010-11, 10 of 20).
 - **GAMES-TODO:** row 16 of section 4; `planning/third-person-shooter-list.md` C11 marked WIP.
 - **Next:** Alien Swarm batch 1 (50 reviews).
+
+## Notes - round 761 (Alien Swarm batch 1)
+
+First unit of the 01:44 firing. 50 reviews, 2010-10 to 2011-01, all thumbs up. 78 bullets on 50 reviews, 1.56 per review (37 short reviews, 3 long, unknown share 17%); none excluded. **No modes built.** Id list matched before the dry run.
+
+"It's free" is the commonest single line (filed at `publishing.price.fair`, as 68 earlier "it is free" bullets were, `findphrase "it is free"`). Three installed it for a Team Fortress 2 hat (`installed-it-to-claim-an-outside-reward`; one calls it "a boring game" otherwise). The map editor goes to `mods-extend-the-game`, as an earlier "full level editor" did (`findphrase "editor"`). First complaints: one campaign of about eight missions (1275541), "never updated" (723236), and the top-down view getting in the way when enemies are on rooftops (2665695), who also says two can play but four is best. Comparisons: Alien Breed and "a top-down L4D". Two bullets were kept to the reviewer's words before writing ("bugs killing", and no added note that the game is top-down). 3,557 reviews left.
