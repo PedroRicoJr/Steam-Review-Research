@@ -12544,6 +12544,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 810, Alien Swarm batch 50.** Built under Rule C. `findphrase` for SDK, mapper, modding tool, filmmaker, SFM, Hammer, level editor, authoring and Source engine in Alien Swarm: the earlier SDK and editor sightings (895674, 16933093, 28107376 and others) are about campaigns made for this game and stay on `.mods-extend-the-game`. 82395800 (round 808) and 55864856 (round 802) had been filed there and are re-homed here; the mode should have been built on 55864856. 89893971 ("good titanfall modding tool", round 809) stays on `review.positive.unknown` because it may be a joke.
 
+## Modes added in Alien Swarm batch 60 - round 820 (Rule C)
+
+### `storefront`
+| Mode | | Definition |
+|---|---|---|
+| `.the-free-game-cannot-be-removed-from-the-account` | **−** | The reviewer wants a free game gone from their Steam account for good - often one they only got for an outside reward, or do not remember adding - and finds no option to remove it. **Distinct from `.the-game-dropped-out-of-my-library`** (a game the reviewer wants that went missing). Alien Swarm 148421731 (*"I can't permanently delete the game from my Steam account because the option to do so doesn't appear"*), 137406031 |
+
+🔑 **Round 820, Alien Swarm batch 60.** Built under Rule C. `findphrase` for can't remove, get rid of, delete or permanently delete found 137406031 (round 818, filed at `review.negative.unknown`; the mode should have been built then), re-homed here; the other matches are about in-game items and screen borders.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
