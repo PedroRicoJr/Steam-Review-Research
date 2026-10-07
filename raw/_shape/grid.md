@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-10-07 00:50:57 UTC. Rebuild with `python build_grid.py`.
+Built 2026-10-07 09:05:41 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -44,6 +44,7 @@ Built 2026-10-07 00:50:57 UTC. Rebuild with `python build_grid.py`.
 | `remnant-2/english` | 39 | 38,120 | 2023-08 (9,677) |
 | `repo/english` | 21 | 176,095 | 2025-03 (39,132) |
 | `risk-of-rain-2/english` | 91 | 239,309 | 2020-11 (9,159) |
+| `risk-of-rain-2013/english` | 156 | 21,329 | 2013-12 (1,420) |
 | `risk-of-rain-returns/english` | 36 | 19,399 | 2023-11 (14,629) |
 | `roboquest/english` | 75 | 17,274 | 2023-11 (2,482) |
 | `scp-abhorrent/english` | 25 | 69 | 2022-03 (28) |

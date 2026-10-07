@@ -75,6 +75,7 @@ GAMES = {
     "repo":                  (3241660, 2025, 2),   # online co-op (up to 6) horror: find valuables and extract them (planning A8); Early Access, released 2025-02-26
     "alien-swarm":           (630, 2010, 7),       # free four-player top-down sci-fi co-op against alien hordes, Valve (planning C11); released 2010-07-19
     "risk-of-rain-returns":  (1337520, 2023, 11),  # 2D side-on sci-fi co-op (up to 4) roguelike on runs, remake of Risk of Rain (planning A19b); released 2023-11-08
+    "risk-of-rain-2013":     (248820, 2013, 11),   # 2D side-on sci-fi co-op (up to 4 online) roguelike on runs, the 2013 original of Risk of Rain Returns (planning A19a); released 2013-11-08
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 
