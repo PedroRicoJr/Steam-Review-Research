@@ -2925,3 +2925,125 @@ below is our reading of what players said, not something the reviews said.
   `scripts/steam_counts.py 1337520`); none pulled.
 
 ⚠️ **The corpus is now 34 games and 38,368 English summaries (39,130 in all languages).**
+
+## 31. ⭐ What the twenty-fifth large game adds - Risk of Rain (2013), added 2026-10-07
+
+**A 2D side-on sci-fi roguelike on runs, alone or with three friends online or on one screen: Hopoo
+Games' first game, released 2013-11-08, now published by Gearbox Publishing and 2K, $9.99 (Steam store
+data).** 3,104 of 21,329 English reviews, a 14.6% sample at ±2.53%, across 156 months (2013-11 to
+2026-10) - the longest span in the corpus; 89.1% up; 6,042 bullets, 1.95 per review; 300 distinct tags,
+**6 used by no other game; 6 modes built in the 6 Risk of Rain (2013) blocks (rounds 876-913)**. With
+section 30 and *Risk of Rain 2* (row 4) the corpus now holds three versions of one game from one studio:
+the 2013 original, its 2019-20 3D sequel and its 2023 remake. Full read in `risk-of-rain-2013-english.md`,
+ranked lists in `risk-of-rain-2013.md`, plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-30** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included; every column re-run on 2026-10-07, round 943 note):
+
+| | Risk of Rain 2 | Gunfire Reborn | Risk of Rain Returns | EARTH DEFENSE FORCE 5 | Alien Swarm | **Risk of Rain (2013)** | Warframe | HELLDIVERS 2 |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 95.6% | 93.9% | 93.9% | 95.7% | 93.6% | **89.1%** | 89.9% | 83.3% |
+| Bullets per review | 1.43 | 1.78 | 1.67 | 1.89 | 1.60 | **1.95** | 2.01 | 1.79 |
+| Praise per 100 | 104.9 | 130.0 | 122.6 | 140.2 | 102.4 | **131.5** | 127.3 | 108.0 |
+| Complaint per 100 | 18.0 | 33.1 | 32.8 | 38.9 | 31.1 | **47.4** | 50.9 | 55.5 |
+| Praise to complaint | 5.8 : 1 | 3.9 : 1 | 3.7 : 1 | 3.6 : 1 | 3.3 : 1 | **2.8 : 1** | 2.5 : 1 | 1.9 : 1 |
+
+**Eleventh of 25 groups with 300 or more kept reviews by praise to complaint**, behind Alien Swarm
+(3.3 : 1) and ahead of Warframe (2.5 : 1). Of the three versions it has the most praise per 100 and
+the most complaints: 2.8 : 1, against the remake's 3.7 and the sequel's 5.8.
+
+### 🔑 The finding: the run players love was already here in 2013 - what changed across three versions was joining a friend and the tech under it
+
+Reviews carrying each mode, per 100 kept reviews (a Python pass over
+`raw/{risk-of-rain-2013,risk-of-rain-returns,risk-of-rain-2}/english/summaries/*/[0-9]*.md`, round 943
+note; review counts in brackets; rank of the 2013 game among the 25 large groups):
+
+| | **Risk of Rain (2013)** | Risk of Rain Returns (2023) | Risk of Rain 2 (3D) | 2013 rank of 25 |
+|---|---|---|---|---|
+| Hard, and that is the fun | **10.7** (333) | 7.2 (110) | 2.3 (44) | 1st |
+| The music | **9.1** (284) | 5.3 (81) | 3.8 (71) | 2nd (Roboquest 11.2) |
+| Keeps pulling you back | **7.6** (236) | 3.3 (50) | 9.1 (171) | 3rd |
+| Much better with friends | **5.7** (177) | 2.2 (34) | 4.6 (87) | 11th |
+| Each character plays its own way | **5.3** (165) | 2.7 (41) | 2.0 (37) | 1st |
+| The difficulty clock is the thrill | **3.7** (116) | 0.1 (1) | 0.3 (5) | 1st |
+| Feels superhumanly strong | **2.7** (83) | 0.6 (9) | 3.8 (72) | 3rd |
+| The artifacts that change the rules | **2.3** (72) | 0.3 (4) | 0.5 (9) | 1st |
+| Joining needs the host's IP address | **3.7** (115) | 0.0 | 0.0 | only game |
+| Getting friends in works | **0.0** (1) | 1.8 (28) | 0.0 | 6th |
+| Could not connect | **0.9** (29) | 0.0 | 0.0 | 3rd |
+| A crash loses the run | **0.9** (28) | 0.1 (2) | 0.2 (4) | 1st |
+| Slows down the longer you play | **0.9** (29) | 0.1 (2) | 0.0 | 1st |
+| A slow start | **1.4** (42) | 0.1 (2) | 0.1 (1) | 1st |
+| Worse than the sequel | **2.6** (80) | 2.0 (31) | — | 1st |
+| Still holds up years later | **1.9** (58) | 0.1 (2) | 0.0 | 1st |
+
+**Caution on two rows.** *The clock is the thrill* was built during the *Risk of Rain 2* read (its batch
+18), and *joining needs the host's IP* during this one (round 876); a game read before a mode existed may
+carry the same remarks on another mode, so those two rows can undercount the other versions.
+
+The original out-scores both later versions on the run itself - hard and fun, the clock, the characters,
+the artifacts, the music - and is first of 25 on five of them. Its complaints are not about the run: it
+is the only game in the corpus where joining a friend needs the host's IP address (115 reviews, worst in
+2016-18 at about one review in ten), and it is first of 25 for crashes that lose a run, for slowing down
+as items stack, and for a slow start. The remake answered the joining problem (*getting friends in
+works* 1.8 per 100, 1st of 25) and the sequel is the one players are pulled back to most (9.1); neither later version's reviews
+praise the clock at anything like this rate (with the caution above).
+
+### In plain words
+
+Risk of Rain (2013) is the first game of a series whose 3D sequel and 2D remake we also read. Its
+players praise the run itself more than the later games' players do: it is hard in a way they love,
+the clock that makes every minute harder is the thrill, each character plays differently, and the
+music is the second most praised in the corpus. What held it back for thirteen years was outside the
+run: to play online you had to give friends your IP address and open ports, and the game crashed,
+slowed and lost saves on newer machines. The later games fixed the joining, and reviewers now send
+buyers to the remake.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line
+below is our reading of what players said, not something the reviews said.
+
+- **Confirms lesson 1 ("Make the game best with friends, and make that easy") from the other side:**
+  177 say it is much better with friends, and 187 reviews raise an online-play problem; the IP-and-ports
+  setup is the single largest complaint, and only the remake, whose launch post lists "Revamped Multiplayer",
+  turned it into praise (1.8 per 100). Dominion is a listen server, as this game is: the hosting player must never open a port.
+- **Weakens lesson 23 ("If Dominion has a run clock, expect it to be the most-argued feature"):** here
+  the clock is praised 116 times against 9 complaints, 1st of 25. The argument in other games may be
+  about how a clock is tuned and explained (one reviewer says the game never tells you to hurry,
+  217661377), not about having one.
+- **Confirms lesson 7 ("Let players grow powerful"):** 83 feel superhumanly strong, 3rd of 25, and the
+  stacking that gets them there is also what crashes and slows the game (29 and 28 reviews, both 1st of
+  25) - plan the engine for the power the design invites.
+- **Confirms lesson 31 ("Let players put it down and come back"):** 28 lost a run to a crash with
+  nothing saved, 1st of 25; 7 say a run cannot be saved.
+- **Confirms lesson 21 ("Owners, user agreements ... can sink a good game"):** the same 2025 agreement
+  protest as the remake, 30 of 39 thumbs down in 2025-04 to 2025-08.
+- **Confirms lesson 33 ("Read reviews over the years, not once at launch"):** thirteen years of reviews
+  turn from praise of the game to comparison with its successors; *still holds up* rises from 0.5 to 3.9
+  per 100 while the thumb falls from 91% to 81% once the remake is out.
+- **Adds: give the first character and first hour enough to keep a new player.** Evidence: *a slow
+  start* 1.4 per 100, 1st of 25; the 339 thumbs down show a median of 3 hours played against 20 for
+  thumbs up.
+
+### Other ways it stands out in the corpus
+
+- **The longest span read:** 156 months, with a sequel and a remake inside it.
+- **Hard, and that is the fun** 10.7 per 100, 1st of 25 (Immortal: Unchained 9.0).
+- **Each character plays its own way** 5.3, 1st (EARTH DEFENSE FORCE 5 4.0).
+- **The last enemy must be hunted down** 0.5, 1st (EARTH DEFENSE FORCE 5 0.1).
+- **Worse than the sequel that followed** 2.6, 1st (Risk of Rain Returns 2.0).
+- **Still holds up years later** 1.9, 1st (Alien Swarm 1.3).
+
+### What this game does NOT settle
+
+- **Third person and aiming.** It is 2D, side-on; shooting only left or right is complained of (12) but
+  far less than in the remake (35).
+- **Extraction.** Runs end in an escape from the planet.
+- **Monetisation.** Bought once; the soundtrack is the only add-on.
+- **A modern host.** Every online complaint here is about a 2013 setup; how invite-based hosting fails
+  is in sections 22-30.
+- **The non-English audience.** 8,511 reviews in other languages (29,841 in all, 21,330 English,
+  `scripts/steam_counts.py 248820`); none pulled.
+
+⚠️ **The corpus is now 35 games and 41,472 English summaries (42,234 in all languages).**
