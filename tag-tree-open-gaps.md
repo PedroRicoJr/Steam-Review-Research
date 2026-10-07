@@ -14226,3 +14226,9 @@ Third unit of the 21:44 firing (twenty a firing). `count.py --group mass-effect-
 Fourth unit of the 21:44 firing (twenty a firing). `findings/mass-effect-3-english.md` written from `templates/findings-english-page.md`. Checked: the store facts for 1238020 and that the Legendary Edition's store page (1328670) lists Single-player only, release 2021-05-14. Counts outside `findings_tables.py`: of 259 thumbs down, the most common named reasons are will not start (66), locked out (40) and the launcher (31), and only 14 blame the ending; 268 reviews mention multiplayer or co-op, 177 Origin (92 thumbs down), 49 a product key or licence (37 thumbs down), 149 the ending; 450 of 1,057 are 15 words or fewer. Every quote with an id was matched to the review text and every helpful count to `votes_up`; three quotes were first written loosely and were replaced with the reviewers' exact words before commit.
 
 **Next:** the master page, from `templates/findings-master-page.md`.
+
+## Notes - round 1026 (Mass Effect 3 (2012) master page)
+
+Fifth unit of the 21:44 firing (twenty a firing). `findings/mass-effect-3.md` written from `templates/findings-master-page.md`, from the same `findings_tables.py` run as round 1025; the plain-words column was checked against the bullets behind the lower-ranked modes (e.g. `requires-internet` is the EA app needing a connection, `earlier-choices-do-not-carry-over` includes the missing second-game DLC on Steam).
+
+**Next:** cross-game section 34, from `templates/cross-game-section.md`.
