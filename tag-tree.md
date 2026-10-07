@@ -12784,6 +12784,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1035, Mass Effect: Andromeda batch 6.** Built under Rule C on the first sighting, 95276834 ("\"Communicating with server\" on every action like equipping a weapon mod instead of doing it clientside and syncing with peers/server in the background like ME3 did"). `findphrase` for "communicating with" and "server round" found no earlier sighting.
 
+## Modes added in Mass Effect: Andromeda batch 9 - round 1038 (Rule C)
+
+### `game-design.level-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-puzzles-wear-thin` | **−** | The reviewer says the game's puzzles - the same kind of grid or symbol puzzle set again and again on the way through - stop being fun and become an obstacle between them and the parts they enjoy. **Distinct from `.the-puzzle-answers-differ-in-every-game`** (randomised answers, a neutral fact) and from `production.content-variety.repetitive` (the whole game repeats; here the puzzles are the named fault). |
+
+🔑 **Round 1038, Mass Effect: Andromeda batch 9.** Built under Rule C, on 105427241 ("those remnants sure love sudoku, huh") and 107537195 ("Super fun until you get to the puzzles"); 97082291 (round 1036, "3 sudoku-type puzzles at 3 very similar-looking alien buildings") was filed under `production.content-variety.repetitive` before the mode existed.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

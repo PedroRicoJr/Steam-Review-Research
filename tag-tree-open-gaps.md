@@ -14327,3 +14327,13 @@ Sixteenth unit of the 21:44 firing (twenty a firing; test set of the third pace 
 **No modes built.** Three say the game was shelved before it was finished (`updates-stopped`; 100694093: "This game didn't deserve to be shelved"). The multiplayer is called "not good enough to keep me playing" (99808523) and "a tagged-on Multiplayer that no one plays" (101075933, 3/10, about 20 mods installed). 101064581 lost the cloud save ("Keep an extra back up of your own save file") and says nearly every asari shares one model. 99406519 gets motion sickness from the star map's zooms (`causes-motion-sickness`). 101064581 is filed under `the-cover-system-works-well` for being able to "use random things as cover". 101516128's crude jab at EA is recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 9 (50 reviews).
+
+## Notes - round 1038 (Mass Effect: Andromeda batch 9)
+
+Seventeenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2021-11-21 to 2022-02-07; 9 thumbs down; 126 bullets; none excluded; 0 Early Access.
+
+**One mode built (Rule C):** `game-design.level-design.the-puzzles-wear-thin` (−), on 105427241 ("those remnants sure love sudoku, huh") and 107537195 ("Super fun until you get to the puzzles"). Round 1036's 97082291 ("3 sudoku-type puzzles") stays under `repetitive`, where it was filed before the mode existed. `findphrase` for "puzzles" also shows 5 earlier notes under `game-design.level-design.unknown`, not checked or moved here. Tree 2,006 -> 2,007.
+
+**What the batch says:** 103242690 (34 found it helpful) gives the fullest case for `your-choices-change-nothing`: the tone options "change nothing, unlocks nothing, and influences nothing", and the chosen background is never mentioned. 104847426 (56 found it helpful) calls it "almost criminally underrated". 105821960 spent most of 168 hours in the multiplayer, "a little above average". 106352557 compares EA and BioWare giving up with another studio that fixed its game and shipped all its DLC (reviewer's account). 105837067 says maxed abilities weakened past level 35. 106984650 was "flashbanged every time i opened up the menu" (`too-bright-to-look-at`).
+
+**Next:** Mass Effect: Andromeda batch 10 (50 reviews).

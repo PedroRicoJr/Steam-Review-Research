@@ -2004,3 +2004,4 @@ narrative.story.your-choices-change-nothing | - | The reviewer says the decision
 game-design.game-feel.combat.the-cover-system-lets-you-down | - | In a shooter built around taking cover, the reviewer says the cover itself fails them - it does not take hold 
 game-design.game-feel.combat.the-cover-system-works-well | + | In a shooter built around taking cover, the reviewer praises the cover itself - it takes hold smoothly and whe
 engineering.servers.every-menu-action-waits-on-the-server | - | Simple actions outside play - equipping a weapon mod, changing gear in a menu - each wait on a round trip to t
+game-design.level-design.the-puzzles-wear-thin | - | The reviewer says the game's puzzles - the same kind of grid or symbol puzzle set again and again on the way t
