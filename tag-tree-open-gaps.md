@@ -13598,3 +13598,11 @@ Ninth unit of the 14:44 firing. No reviews read.
 - **Pull:** `pull_sample.py --only lort/english`, planned 1,057, **got 774**, all ids distinct. **Actual margin +/-3.49%** (Rule 12, the `pull_sample.true_moe` formula on the count actually pulled per month). 2026-01 came back with 175 of 439 wanted: the game came out on 2026-01-21, so windows w1-w3 hold no reviews (w4 88, w5 87); that month is read at weight x7.9. 2026-08 returned 53 of 57; 2026-10 returned 5 of 20, the month being 7 days old. Read as pulled under Rico's ruling of 2026-09-04.
 - **GAMES-TODO:** row 19 of section 4; `planning/action-roguelike-list.md` B20 marked WIP.
 - **Next:** LORT batch 1 (50 reviews).
+
+## Notes - round 946 (LORT batch 1)
+
+Tenth unit of the 14:44 firing. The first 50 reviews, all written 2026-01-24, all in Early Access; 9 thumbs down; 103 bullets, 2.06 per review; unknown share 23%; none excluded. Id list matched before the dry run (`write_batch.py`).
+
+**No modes built** - every point fit an existing mode. Early themes: the difficulty curve over the in-game days (216722544, 216722276: too little time and money on level 1 to be ready for level 2; slow healing and slow characters), solo balance (216727340, 216722350: the first boss is too hard alone, Astrid outclasses the other characters) against reviewers who answer that solo is "not that hard" (216724358, 216721615, 216721249), and a disconnect with no rejoin that restarts a 3-hour game for the whole group (216722500). **216724358** compares the release with the demos: enemies are no longer damage sponges and movement is faster, but grey health never comes back, and dying 2-3 times leaves later areas one-shotting you. **216718629** says 25 runes buy a 1-2% damage upgrade between runs. **216727055** turned on the colour-blind mode because the green grass is eye-searing. **216713749** calls it GPT-made; filed on the generative-AI mode as the reviewer's claim. **216714762** calls it a top-down game; the store text does not name the camera, so that is the reviewer's word, not checked. 216716506's jab at the developers is recorded only as "a crude jab". Batch size for the scripts: `--sizes 50`.
+
+**Next:** LORT batch 2 (50 reviews).
