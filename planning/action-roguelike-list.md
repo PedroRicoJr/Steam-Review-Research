@@ -52,7 +52,7 @@ since" is Steam's own date, which for older or re-listed games is later than the
 | A16 | Megabonk | 3405340 | Sep 18, 2025 | 106,254 | 94% | 61,368 | no | not the spin-off Megabonk Apocalypse (4331030) |
 | A17 | Risk of Rain 2 | 632360 | Aug 11, 2020 | 353,060 | 94% | 239,542 | **Done** (1,885 pulled) | no new pull |
 | A18 | Gunfire Reborn | 1217060 | Nov 17, 2021 | 103,730 | 93% | 43,865 | **Done** (1,884 read) |  |
-| A19a | Risk of Rain (2013) | 248820 | Nov 8, 2013 | 29,829 | 93% | 21,319 | no | the original. Rico wants both versions |
+| A19a | Risk of Rain (2013) | 248820 | Nov 8, 2013 | 29,829 | 93% | 21,319 | **WIP** (row 18 of `GAMES-TODO.md`, pulled 2026-10-07) | the original. Rico wants both versions |
 | A19b | Risk of Rain Returns | 1337520 | Nov 8, 2023 | 28,726 | 90% | 19,391 | **Done** (row 17 of `GAMES-TODO.md`; findings 2026-10-07, cross-game section 30, takeaways entry in) | the remake of the original |
 | A20 | Bad North: Jotunn Edition | 688420 | Nov 16, 2018 | 14,338 | 93% | 6,640 | no | one game; "Jotunn Edition" is part of the name |
 | A21 | Spelunky 2 | 418530 | Sep 29, 2020 | 21,985 | 93% | 15,884 | no |  |
