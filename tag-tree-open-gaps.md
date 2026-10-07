@@ -14311,3 +14311,11 @@ Fourteenth unit of the 21:44 firing (twenty a firing; test set of the third pace
 **The multiplayer, from the people who played it:** 3 single it out (92479779, a Warframe fan who likes it "much more"; 92953501, "really fun and still active enough to squad matches"; 94746580, who first bought the game only for it) and 3 say it still has players in 2021 (92953501, 93781834, 94745289). Against that, 92479779 says it is "almost dead" for want of maps, enemies and objectives, and 95276834 - who bought it only for the multiplayer - lists peer-to-peer hosting that lags friends far apart, worse netcode than Mass Effect 3 ("enemies that are supposed to be dead constantly stick around at zero health"; players "teleported back"), no hard cover to reset position on the host, and the menu waiting on the server. All reviewers' accounts. 92946656 could not reach the online features at all and found EA support no help. 93781834 says the team was moved to another game and the game got no patch or DLC in four years (reviewer's claim). 93356418 lost all progress when Origin's cloud save overwrote the save.
 
 **Next:** Mass Effect: Andromeda batch 7 (50 reviews).
+
+## Notes - round 1036 (Mass Effect: Andromeda batch 7)
+
+Fifteenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2021-07-07 to 2021-09-07; 18 thumbs down, the most of any batch so far; 156 bullets; none excluded; 0 Early Access.
+
+**No modes built.** The quest structure is the main fault: errands, padding and back-and-forth travel take 11 notes between them (95798252: basic tasks keep turning into "use 3 terminals"; 97082291: "3 sudoku-type puzzles at 3 very similar-looking alien buildings"). Three say the game is best played with mods that fill its gaps (`mods-are-expected-to-fill-the-gaps`; 96710219 installed "12 mods just to patch biggest potential annoyances"). Two lost saves to corruption (95771693, 96225163), and 96714957 says EA's launcher counts as play time - 197 hours shown, "Maybe 60" played (reviewer's account). The cover system and the missing squad orders come back (96702921). One crude remark about the makers' politics is recorded only as such; the people it names are left out.
+
+**Next:** Mass Effect: Andromeda batch 8 (50 reviews).
