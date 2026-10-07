@@ -13009,3 +13009,11 @@ Second unit of the 04:44 firing. 50 reviews, all dated 2023-11-21. **No thumbs d
 **No modes built**; every point had an existing mode. Being one-shot by an enemy you cannot see in a crowd (150755334) went to `game-design.readability.threats-unclear`; a wish for mod support (150755129) to `community.user-created-content.no-mod-support`; "a little more fair" (150754347) to `game-design.fairness.losses-feel-earned`; few bugs (150752359) to `engineering.bugs.rare-and-minor`. A crude jab at a named person in 150753565 is left out.
 
 Easy co-op keeps coming up as the remake's clearest gain (150752359: the original's Hamachi was "the hellspawn"; 150751960: the old way kept them from showing friends the game). After 550 reviews: 109 bullets say the remake improves on the original; 23 that you can only shoot straight ahead. 983 reviews left.
+
+## Notes - round 849 (Risk of Rain Returns batch 12)
+
+Third unit of the 04:44 firing. 50 reviews, 2023-11-21 to 2023-11-24. **No thumbs down.** 72 bullets on 50 reviews, 1.44 per review (36 short reviews, 4 long, unknown share 35% - one-word verdicts, jokes and character shout-outs); none excluded. Id list matched before the dry run.
+
+**No modes built**; every point had an existing mode. 151705433's guess that it would suit a Steam Deck or a Switch went to `engineering.platform-support.unknown`, since it does not say how it runs on either.
+
+A quiet batch of short praise, mostly from fans of the original. Two more say Risk of Rain 2 players may struggle with a 2D platformer (150747689, 151708939). After 600 reviews: 116 bullets say the remake improves on the original; 23 that you can only shoot straight ahead; 20 call an unlock challenge (mostly the Providence Trials) a chore. 933 reviews left.
