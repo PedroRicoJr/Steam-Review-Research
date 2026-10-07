@@ -13784,3 +13784,11 @@ Ninth unit of the 16:44 firing. 50 reviews, 2024-01-24 to 2024-01-31, all in Ear
 **No modes built.** **156738651** is the batch's fullest review: slow movement and mounts that barely help, materials that eat half the weight limit, Pals that get stuck, walk into fire and starve at the base, rigid building inside a small Palbox range, empty exploration and dungeons that are only "kill everything in a room", and crashes and heat on the Steam Deck. **156738630** (thumbs down) says the parts feel tacked on: basic building (Valheim does it better), no screen to manage the Pals' tasks, janky gunplay and weak enemy AI, Pals that feel soulless. **156738769**, edited 2024-12-09, crashes on a PC that meets the minimum specs but recommends the Steam Deck and Xbox versions. **156738721** (35 found it helpful) praises pet taming, survival and shooting in one package with decent performance. 156738837's slurs and crude jabs are not recorded; its point that a local save moved to a dedicated server loses the host's character is kept. 156738586's personal story is left out. Batch sizes for the scripts: `--sizes 50x2`.
 
 **Next:** Palworld batch 3 (50 reviews).
+
+## Notes - round 970 (Palworld batch 3)
+
+Tenth unit of the 16:44 firing. 50 reviews, all written 2024-01-31 in Early Access; 3 thumbs down; 62 bullets, 1.24 per review; unknown share 37%, the highest so far - 29 of 50 are 15 words or fewer and many are one-line jokes; none excluded. Id list matched before the dry run. One note on "two crashes in 90 hours" (157291479) was moved from `bugs.rare-and-minor` to `stability.rock-solid` before commit.
+
+**No modes built.** **157291770** (thumbs down, 6 found it helpful) says the game is a janky bug-fest from inexperienced developers whose mid game is grinding materials and waiting on timers - "still better than anything gamefreak made in the past decade". **157291727** lost its save to a bug after 8 hours. Most of the batch is short praise and comparisons to Pokémon, which 6 notes say it beats. 157291479 asks for more than the 3-base limit. The empty review 157292383 is a bare thumbs down. Jokes about the Pals' forced labour and one crude joke (157292094) are recorded without their wording. Batch sizes for the scripts: `--sizes 50x3`.
+
+**Next:** Palworld batch 4 (50 reviews).
