@@ -13888,3 +13888,11 @@ Tenth unit of the 17:44 firing. 50 reviews, 2024-12-23 to 2025-02-21, all in Ear
 **No modes built.** **A removed feature:** **183523189** (thumbs down, 4 found it helpful) says an update removed throwing a Pal into a fight - it now just appears near you - so the Pal can't tank, be pulled out and thrown back, or attack from cover, and may spawn inside a tree or rock (`removed-a-feature`; reviewer's account, not checked). **185678637** (thumbs down, 185 hours) says the Pals don't matter - "You just need a big gun". **Solo play:** 186254640 says the game is built around multiplayer - no pause solo, and some bosses seem beatable only by a group. Crashes at character creation recur (186255723: a common issue still unfixed, by its account). Grind complaints: 184375693, 185059902. Protest notes against Nintendo continue (184377116, 186254640). 185678351 and 185677236 are in Portuguese; 185677278's ethnic joke is recorded only as "a crude ethnic joke". Batch sizes for the scripts: `--sizes 50x15`.
 
 **Next:** Palworld batch 16 (50 reviews).
+
+## Notes - round 983 (Palworld batch 16)
+
+Eleventh unit of the 17:44 firing. 50 reviews, 2025-02-21 to 2025-05-07, all in Early Access; 5 thumbs down; 64 bullets, 1.28 per review; unknown share 27%; none excluded. Id list matched before the dry run.
+
+**No modes built.** **Two unchecked accusations** come with thumbs down: 191683873 says the developer advertises sexual content to children (3 found it helpful) and 192249174 cites an "invasion of privacy" (9 found it helpful, on `suspected-of-spying`) - both recorded as the reviewers' claims, neither checked; 192249174's jab at a fandom is not recorded. **189001625** (287 hours, edited 2026-08-15) names heavy graphics requirements, an obnoxious crafting loop, and Pals and factories made obsolete within a few levels; a personal remark in it is left out. **192823916** lists an empty world, repeating dungeons, no meaningful loot or visual customisation, and missing Pal sorting, inventory search and trading. **189636548** says the Pals' automated gathering is why it kept playing where it would have quit Ark. Raise the XP rate after level 45 (191033890), as two reviewers said in round 974. Crashes: 191682887, 193937300, 194435462. Batch sizes for the scripts: `--sizes 50x16`.
+
+**Next:** Palworld batch 17 (50 reviews).
