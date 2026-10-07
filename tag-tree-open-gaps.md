@@ -14220,3 +14220,9 @@ Second unit of the 21:44 firing (twenty a firing; outside both pace-test sets). 
 Third unit of the 21:44 firing (twenty a firing). `count.py --group mass-effect-3/english` wrote the 77 monthly stats files and the group file: 1,757 reviews counted, 1,057 read, 1,598 observations (1.5 per review; the count of bullet lines in the 1,057 summaries is also 1,598). All 77 months are partly read; the heaviest weight is 2020-06 at about x4. Top weighted tags: thumbs up with no reason 10.9%, the ending lets it down 5.6%, a mode stands out (the co-op multiplayer) 5.5%, will not start at all 4.7%, unwanted third-party software (the Origin and EA launchers) 3.9%. No tree change.
 
 **Next:** the English findings page, from `templates/findings-english-page.md`.
+
+## Notes - round 1025 (Mass Effect 3 (2012) English findings page)
+
+Fourth unit of the 21:44 firing (twenty a firing). `findings/mass-effect-3-english.md` written from `templates/findings-english-page.md`. Checked: the store facts for 1238020 and that the Legendary Edition's store page (1328670) lists Single-player only, release 2021-05-14. Counts outside `findings_tables.py`: of 259 thumbs down, the most common named reasons are will not start (66), locked out (40) and the launcher (31), and only 14 blame the ending; 268 reviews mention multiplayer or co-op, 177 Origin (92 thumbs down), 49 a product key or licence (37 thumbs down), 149 the ending; 450 of 1,057 are 15 words or fewer. Every quote with an id was matched to the review text and every helpful count to `votes_up`; three quotes were first written loosely and were replaced with the reviewers' exact words before commit.
+
+**Next:** the master page, from `templates/findings-master-page.md`.
