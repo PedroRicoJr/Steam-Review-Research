@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Palworld | 2026-10-07 | 93.6% |
 | LORT | 2026-10-07 | 80.7% |
 | Risk of Rain (2013) | 2026-10-07 | 89.1% |
 | Risk of Rain Returns | 2026-10-07 | 93.9% |
@@ -144,6 +145,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | Roboquest | co-op runs, first person | 96.4% | 173.6 | 40.8 | 4.3 : 1 | 2.37 | section 26 |
 | Escape from Duckov | single-player PvE extraction | 90.9% | 134.6 | 40.4 | 3.3 : 1 | 1.92 | section 25 |
 | Alien Swarm | free four-player co-op, top-down, 2010, one campaign | 93.6% | 102.4 | 31.1 | 3.3 : 1 | 1.60 | section 29 |
+| Palworld | open-world survival with creatures, third person, up to four (32 on a server) | 93.6% | 88.2 | 28.2 | 3.1 : 1 | 1.33 | section 33 |
 | Risk of Rain (2013) | 2D co-op runs, up to four, hosted by one player, 2013 | 89.1% | 131.5 | 47.4 | 2.8 : 1 | 1.95 | section 31 |
 | Warframe | free, long-running co-op | 89.9% | 127.3 | 50.9 | 2.5 : 1 | 2.01 | section 25 |
 | Helldivers 2 | co-op missions, live service | 83.3% | 108.0 | 55.5 | 1.95 : 1 | 1.79 | section 25 |
@@ -1126,6 +1128,199 @@ reviews said.
 ---
 
 # The games
+
+## Palworld
+
+**Read:** 1,325 of 208,809 English reviews (0.63%; none left out), ±3.13%, written January 2024 to
+October 2026 - the whole of Early Access and the first three months of 1.0. **93.6% thumbs up** in the
+sample (Steam, all languages: 95%, *Very Positive*). **Pages:** `findings/palworld-english.md`,
+`findings/palworld.md`, `findings/cross-game.md` section 33.
+
+**What it is:** an open-world survival and crafting game. You catch creatures called Pals; they fight
+beside you, work at your base (farming, mining, building, factories), and carry you over land, sea and
+sky. Third person, with guns. Up to 4 players in online co-op, or up to 32 on a dedicated server; players
+can host their own server (Steam store). Bought once, $29.99 ($20.99 on sale the day it was checked). Made
+and published by Pocketpair. Early Access from 2024-01-19; version 1.0 on 2026-07-09 (Steam store and
+news). The store does not name the engine; one reviewer blames "UE5" (236577733).
+
+**How close to Dominion:** close in camera, guns, online co-op of up to four, and players hosting their
+own games. Not close in shape: an open world with a base you build over weeks, not runs; no extraction;
+creatures, not a sci-fi squad.
+
+### The short version (plain words)
+Players judge it against Pokémon and say it wins: 230 reviews say the word, and 62 of the 77 who say it
+beats its rivals mean Pokémon. It is hard to put down - 75 reviews say they can't stop, and the median
+review shows 41 hours played. Only 85 of 1,325 are thumbs down, and the most common named reason is a lost
+save, world or base (9). After Nintendo sued the studio, 42 thumbs up were cast as a vote against
+Nintendo. The 1.0 release lifted the thumb to 96.0%.
+
+### What players praised, most to least
+1. **Better than the big rival** - 77 reviews, 62 of them naming Pokémon, Nintendo or Game Freak.
+   "This game is everything I wished Pokemon was" (234199756).
+2. **Can't stop playing** - 75. "oh I'll just play an hour then hop off" ... "8 hours have passed"
+   (231158193).
+3. **Much better with friends** - 52.
+4. **Catching, breeding, building and fighting fit together** - 34.
+5. **Funny** - 30; the store makes the same jokes ("there are no labor laws for Pals").
+6. **Building a base is a joy** - 23; **looks great** - 23. "Graphics are beautiful, especially the night
+   sky" (227446717, 156 found it helpful, the most in the sample).
+7. **Wants more because it is good** - 21; **plenty to do** - 20.
+8. **A fair price** - 18 ("An absolute steal for the price", 227446717); **a world worth exploring** - 18.
+9. **The world settings let you tune the game** - 15, the highest rate of 27 large games.
+10. **Steady updates** - 14; **lots of potential** - 13.
+11. **Relaxing** - 12; **you pick your own goals** - 12; **just as good alone** - 11; **runs well** - 10.
+12. **Grew into its promise** - 9, eight of them after 1.0. "As of 1.0, Palworld is a complete game"
+    (233549914).
+
+### What players complained about, most to least
+1. **The late game is a grind** - 19 (8 of them thumbs down). "This game does not respect your time"
+   (196660292, 30 found it helpful, the most-helpful thumbs down): breeding hundreds of one Pal into one
+   strong Pal, the best weapons behind random blueprints.
+2. **Buggy** - 17.
+3. **A save, world or base lost** - 14 (9 thumbs down - the top named reason for leaving). A friend's
+   power cut corrupted their shared world: "we've tried every recovery option" (169961983).
+4. **Crashes** - 13; **nothing left to chase** after the main goals - 13.
+5. **A missing convenience** - 12: a screen to give Pals jobs (3), a mini-map, item sorting and search.
+6. **The world feels empty** - 11. "Even with the 1.0 release the game feels empty" (230570038, 8 found
+   it helpful).
+7. **Pals get stuck, starve or wander at the base** - 11. "every time i log in my pals are dog piled on
+   the pal box starving to death" (157814412, quit after 145 hours).
+8. **Building is rigid and the base area small** - 8; **feeding and food spoilage are chores** - 7.
+9. **Could not connect** - 6, mostly at launch; **repetitive** - 6; **lag** - 6.
+10. **Weak enemy and Pal AI** - 5; **a copy of older games** - 5; **doesn't explain itself** - 5.
+11. **Attacks and bosses you cannot answer** - 4: homing attacks through walls (234196689), "police" that
+    teleport in front of you until you die (227451451, 10 found it helpful).
+
+Thumbs down show a median of 30 hours played, thumbs up 42.
+
+### How it changed over time
+- **Launch (January 2024):** 92.4% up. The studio posted that "Sales have far exceeded the development
+  team's expectations" and that it had "many problems due to excessive access congestion" (2024-01-24),
+  then that players were "cheating on the official server" (2024-01-25) and that some "are unable to
+  connect to official servers due to cheating" (2024-02-16) (Steam news). Lost saves were highest here
+  (2.5 per 100 reviews).
+- **First half of 2024:** 94.1% up; complaints at 21.4 per 100.
+- **Second half of 2024:** 93.2% up. Nintendo and The Pokémon Company sued on 2024-09-18 (Nintendo's own
+  release). Protest votes begin: none before, 6.8 per 100 here.
+- **2025:** 92.2% up; grind complaints at their highest (2.5 per 100).
+- **2026 before 1.0:** 92.5% up.
+- **After 1.0 (July-October 2026):** 96.0% up; praise from 42-47 to 60.5 per 100 (bare thumbs left out).
+
+### Co-op and online play
+- **Friends help, but less than in most co-op games.** 52 say much better with friends - 17th of 27 large
+  games; 11 say it is just as good alone; 3 that some late bosses need a group.
+- **Hosting.** Up to 4 in online co-op, 32 on a dedicated server (store). "dedicated servers are a dream
+  come true for teaming up with friends" (158336775); you "can host the game server yourself" and change
+  settings (201670417). But "who ever creates the server, has to be logged in for others to play"
+  (231778624).
+- **Official servers at launch:** cannot connect (6), lag (6), wrong region and ping (156739228), and
+  cheaters who "dupe 1 billion rocket launchers out of nowhere to lag and crash everyone" and "delete
+  your structures/pals" (158929300). Players told each other to play solo, co-op or on a private server.
+- **Moving a save** from your own world to a dedicated server lost the host's own character (156738837).
+- **Group size.** One reviewer says the cap of 4 on a private world is too small now that crossplay
+  brings more friends (220129810, reviewer's account).
+- **Wanted:** big shared servers or an online arena (2); one praises the online PvP's base raids and sky
+  dogfights (229890729).
+
+### Combat, movement and feel
+- Few notes: the guns are not what players judge. "The combat and gunplay feels very janky" (156738630);
+  combat "doesn't even pretend to function like 45% of the time" (234197065).
+- Your Pals are far stronger than you and do nothing once you die (223878139).
+- The removed Pal throw (see the studio below) took away tanking, pulling a Pal out and throwing it back,
+  and attacking from cover (183523189, 4 found it helpful).
+- Two want a first-person view; the Pal over your shoulder blocks the screen, and your shots hit terrain
+  and your own Pal (231158504).
+- Movement: 3 slow, 2 responsive; flying mounts carry you past what level design there is (234199787).
+
+### Enemies, bosses and difficulty
+- Weak enemy AI (5); attacks you cannot answer (4); too easy (3), with hard fights cheesed by recalling
+  your Pals (234199787); player too fragile (2); well graded (4).
+- After the final boss only hard-mode towers are left, and the first is far harder than the final boss
+  (234199854).
+- Difficulty and rules are set in the world settings, praised by 15.
+
+### Progression, loot, randomness and grind
+- 34 praise how the systems fit; 19 call the late game a grind; 13 run out of things to chase; 12 like
+  choosing their own goals.
+- You level too fast to use the gear you unlock (233555472, 233549914); catching fails too often even
+  with the right ball, and balls get expensive (233549914).
+- Crafting tiers only change the numbers; real-time crafting waits cannot be turned off (234199787).
+
+### Runs, content and replay value
+- Not built on runs. 75 can't stop playing; 315 of 1,325 reviews show 100 or more hours, 11 show 1,000 or
+  more.
+- 20 say plenty to do; 21 want more; 11 find the world empty; 6 repetitive; dungeons the same few rooms
+  (234199787).
+
+### Money and price
+- Bought once. 18 call the price fair, 3 buy on sale, 3 praise no microtransactions, 1 calls it a cash
+  grab. The studio said in 2024 it "will remain buy-to-play and not f2p or GaaS" (Steam news, 2024-09-14).
+
+### Tech: performance, crashes, bugs
+- Buggy (17), lost saves (14), crashes (13), unstable frame rate (4); well optimised (10). After 1.0, one
+  says it crashes every 5-20 minutes with "Could not save" (231159983). Building fails at random spots
+  for "overlap" (233553296, 4 found it helpful).
+
+### The studio, updates and community
+- 14 like the steady updates; 7 say patches fixed what mattered; 3 say the studio went silent after the
+  bad launch; 3 that it worked on the wrong thing first (a Valentine's event, crossovers).
+- **The lawsuit.** The studio says patch v0.3.11 (2024-11-30) "removed the ability to summon Pals by
+  throwing Pal Spheres" and v0.5.5 made gliding need a glider, both "a result of the ongoing litigation",
+  and that it continues "to dispute these claims" (Pocketpair, 2025-05-08). How the case ended was not
+  found; two reviewers say the studio won (their claim).
+- **Protest votes:** 42 thumbs up are a vote against Nintendo. "their game needs all the attention and
+  money they can get" (175578922, 65 found it helpful, 0 hours played).
+- One says the developers locked forum threads (222774158, 10 found it helpful, reviewer's account).
+
+### What players asked for
+A screen to give Pals jobs (3); better Pal pathing (11 complaints); more endgame (13); first person (2);
+cosmetic armour or a hidden helmet (2); inventory search, sorting and trading (2); big shared servers or
+an online arena (2); a mini-map (1); more story (1; another has 500+ hours "and no idea what the plot is",
+227446717); diagonal fences (1); a longer night (1).
+
+### Only in this game
+No point was raised in this game alone. Where it leads 27 large games:
+- **Lost saves** - 1.1 per 100 reviews, more than three times the next game (ELDEN RING NIGHTREIGN 0.3).
+- **Protest votes** - 3.2 per 100 (Helldivers 2 next at 1.3).
+- **Choosing your own goals** and **praise for the settings** - first of 27.
+- **The shortest reviews** - 1.33 points per review, the fewest of 27.
+
+### For Dominion - our reading
+1. **Never lose a player's progress.** Lost saves lead the corpus here and are the top named reason for a
+   thumbs down (9 of 85). Back up saves, and make a host's crash end the session cleanly without harming
+   anyone's save. *Strong.*
+2. **Decide what happens when the host leaves.** Here friends cannot play when the world's creator is
+   offline (231778624). Dominion runs on the host's machine; plan for the host quitting mid-run.
+   *Strong.*
+3. **Public lobbies draw cheaters on day one.** The studio confirmed cheating on its own servers six days
+   after launch. If Dominion has public lobbies, give hosts a player list and a kick, and keep each
+   player's progress out of other players' reach. *Medium.*
+4. **Let the host tune the game.** The settings are praised more here than in any other game (15). A
+   host-side settings screen for difficulty and loot is cheap goodwill. *Medium.*
+5. **AI helpers must path well everywhere.** Pals that get stuck or starve are the top complaint about the
+   Pals (11), and one player quit over it after 145 hours. Test any drone or companion on every
+   map. *Medium.*
+6. **Keep the late game from becoming a spreadsheet.** 19 call it a grind, led by the most-helpful thumbs
+   down. *Medium.*
+7. **Upkeep between runs should be one click.** Feeding and spoilage are chores for 7. *Medium.*
+8. **Check designs against patents before launch.** A loved move was removed under a lawsuit, and a
+   thumbs down followed. *Weak* for design, *strong* for risk.
+9. **A big finishing update can lift a game players already like.** After 1.0 praise rose from 42-47 to
+   60.5 per 100. *Medium.*
+10. **A rival players feel let down by is an opening.** 77 say it beats its rivals, mostly by giving
+    Pokémon players guns, a base and an open world. *Weak* for design, *medium* for how Dominion presents
+    itself.
+
+### Limits
+- 0.63% of English reviews, ±3.13%; any single period is ±5.1% to ±8.9%. January 2024 is read at ×369.
+- Only 85 thumbs down: every thumbs-down count is under 10. 846 of 1,325 reviews are 15 words or fewer.
+- 60 reviews (4.5%) were edited later and are counted on the day first written.
+- Checked: the dates, price and player caps (Steam store and news), the studio's posts on launch and
+  cheaters, the lawsuit filing (Nintendo) and the removed moves (Pocketpair). Not checked: the lawsuit's
+  outcome, most patches and their effects, the locked forum threads, one reviewer's "40 million copies".
+- Personal and family details are left out; jabs are recorded only as "a crude jab" or "a crude remark".
+
+---
 
 ## LORT
 
