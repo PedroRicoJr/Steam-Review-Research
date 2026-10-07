@@ -13986,3 +13986,9 @@ Tenth unit of the 18:44 firing. The last 25 reviews, 2026-09-15 to 2026-10-07; 0
 **No modes built.** 235363739: the world is so open you can miss story and item-unlock steps. 235363572 wants more story. 235865112 (1,006 hours) wants cosmetic armour or a way to hide the helmet. 235869035 wants online arena battles or open servers. 236577733 calls it badly optimised. 237142337 came back at 1.0 and runs their own server for friends. 237142866 is written in Chinese in Latin letters and is filed as a review in another language.
 
 **Next:** Palworld weighted counts (`count.py --group palworld/english`), then the findings pages.
+
+## Notes - round 995 (Palworld weighted stats)
+
+Eleventh unit of the 18:44 firing. `count.py --group palworld/english` wrote the 34 monthly stats files and the group file: 208,809 reviews counted, 1,325 read, 1,757 observations (1.3 per review; the count of bullet lines in the 1,325 summaries is also 1,757). All 34 months are partly read; the heaviest weight is 2024-01 at about x369. Top weighted tags: thumbs up with no reason 30.9%, explained by naming other games 8.7%, keeps pulling you back 5.0%, beats its rivals 4.1%, much better with friends 2.3%. No tree change.
+
+**Next:** the English findings page, from `templates/findings-english-page.md`.
