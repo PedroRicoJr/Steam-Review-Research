@@ -78,6 +78,7 @@ GAMES = {
     "risk-of-rain-2013":     (248820, 2013, 11),   # 2D side-on sci-fi co-op (up to 4 online) roguelike on runs, the 2013 original of Risk of Rain Returns (planning A19a); released 2013-11-08
     "lort":                  (2956680, 2026, 1),   # 1-8 player online co-op action roguelite on runs in a fantasy world, fight toward escape (planning B20); Early Access, released 2026-01-21
     "palworld":              (1623730, 2024, 1),   # open-world survival crafting with third-person gunplay and creatures, online co-op (planning C6); Early Access start not checked, store release date 2026-07-09
+    "mass-effect-3":          (1238020, 2020, 6),   # third-person sci-fi cover shooter with online co-op against waves (planning C16d); the 2012 game, on Steam since 2020-06-11
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 
