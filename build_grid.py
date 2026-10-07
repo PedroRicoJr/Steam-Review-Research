@@ -74,6 +74,7 @@ GAMES = {
     "elden-ring-nightreign": (2622380, 2025, 5),   # co-op action roguelike on runs (planning B2: 3-player co-op), released 2025-05-29
     "repo":                  (3241660, 2025, 2),   # online co-op (up to 6) horror: find valuables and extract them (planning A8); Early Access, released 2025-02-26
     "alien-swarm":           (630, 2010, 7),       # free four-player top-down sci-fi co-op against alien hordes, Valve (planning C11); released 2010-07-19
+    "risk-of-rain-returns":  (1337520, 2023, 11),  # 2D side-on sci-fi co-op (up to 4) roguelike on runs, remake of Risk of Rain (planning A19b); released 2023-11-08
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 
