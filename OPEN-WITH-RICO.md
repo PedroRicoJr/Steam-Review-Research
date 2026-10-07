@@ -25,8 +25,3 @@ remove it when Rico rules.
   as it is and state the margin; the test files were deleted and the standard pull restored. Your word
   would switch it, at about 221 more reviews (4-5 batches).
 
-- **Raise the pace above twelve units a firing?** Asked in chat on 2026-10-07. By the server's clock the
-  18:44 firing did twelve units in about 19 minutes, so time allows about 30; the limits are quality
-  (proven only up to twelve, round 924) and the session's memory filling up on long runs. Suggested: 20 a
-  firing for four firings, then a third pace test (`scripts/pace_qc.py` plus the blind audit). Default
-  taken: stay at twelve until you say so.
