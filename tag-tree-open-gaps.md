@@ -13978,3 +13978,11 @@ Ninth unit of the 18:44 firing. 50 reviews, 2026-08-15 to 2026-09-07; 5 thumbs d
 **No modes built.** This batch has the longest thumbs-down reviews of the 1.0 period. **234199787** (4 found it helpful, 13 bullets) waited 90 hours for it to get fun: an ugly, copy-pasted world, no music outside combat, every dungeon the same rooms, flying mounts that undo the level design, too easy, a small base area, long real-time crafting waits, and crafting tiers that only change numbers. **234196689** says homing attacks hit through floors and walls, fights need you 40 levels higher, and half the Pals are reskins. **234199854** (389 hours): after the final boss only hard-mode towers are left, the first far harder than the final boss. **233553296** (4 found it helpful): building fails at random spots for "overlap". **234198159**: plays like jank. On the thumbs-up side, 233549914 and 233555472 say you level too fast to use the content; 234199231 wants more automation and finds the last 20% of the tech tree grindy; 233549914 and 234195579 praise the custom world settings. 233554549 says the studio "beat the case" against Nintendo - the reviewer's claim, not checked. Batch sizes for the scripts: `--sizes 50x26`.
 
 **Next:** Palworld batch 27 (the last 25 reviews).
+
+## Notes - round 994 (Palworld batch 27, the last)
+
+Tenth unit of the 18:44 firing. The last 25 reviews, 2026-09-15 to 2026-10-07; 0 thumbs down; 38 bullets, 1.52 per review; unknown share 11%; none excluded. None carries the Early Access flag. **All 1,325 sampled Palworld English reviews are now summarised.** Batch sizes for the scripts: `--sizes 50x26,25`.
+
+**No modes built.** 235363739: the world is so open you can miss story and item-unlock steps. 235363572 wants more story. 235865112 (1,006 hours) wants cosmetic armour or a way to hide the helmet. 235869035 wants online arena battles or open servers. 236577733 calls it badly optimised. 237142337 came back at 1.0 and runs their own server for friends. 237142866 is written in Chinese in Latin letters and is filed as a review in another language.
+
+**Next:** Palworld weighted counts (`count.py --group palworld/english`), then the findings pages.
