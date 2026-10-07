@@ -13043,3 +13043,9 @@ The two long reviews are full walk-throughs: **152302246** (136 hours: unlock co
 Fourth unit of the 05:44 firing (six a firing, pace test set). 50 reviews, 2023-11-27 to 2023-12-15 - the first reviews dated after patch 1.0.4 (2023-12-12, horizontal mouse aim; round 846) appear here (153673893, 153672585, 153671786, 153675140); none of them mentions aiming. **1 thumbs down** (153037987: miserable unlocks and a jab at Gearbox's balance; a self-harm phrase in it is recorded only as crude terms). 88 bullets on 50 reviews, 1.76 per review (31 short reviews, 6 long, unknown share 24%); none excluded. Id list matched before the dry run.
 
 **No modes built.** 152287423 says the visuals are better but the play feels "a bit worse" than the original - the third bullet at `marketing.positioning.the-original-was-better-than-the-remake`. 152288491 credits the second unlock route as a help to players who avoid the trials (`game-design.progression.unlock-pace.there-is-more-than-one-way-to-unlock`). 733 reviews left.
+
+## Notes - round 854 (Risk of Rain Returns batch 17)
+
+Fifth unit of the 05:44 firing (six a firing, pace test set). 50 reviews, 2023-12-15 to 2023-12-31. **No thumbs down.** 76 bullets on 50 reviews, 1.52 per review (30 short reviews, 3 long, unknown share 37% - one-word verdicts, jokes, a text-art review and title puns); none excluded. Id list matched before the dry run.
+
+**No modes built.** 153628335 asks for a sequel in this 2D style rather than 3D (`marketing.reputation.i-want-a-sequel-to-this-one`). 154192148 (80 hours) calls the Providence Trials "the least amount of fun I have ever had playing a video game" and suggests downloading a finished save instead. No review in these two weeks after patch 1.0.4 asks for aiming; one, 154247472, edited 2025-05-22, says flying enemies spoil it. 683 reviews left.
