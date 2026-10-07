@@ -13133,3 +13133,9 @@ Fifth unit of the 07:44 firing (pace test firing 3 of 4). 50 reviews, 2026-03-19
 Sixth unit of the 07:44 firing - pace test firing 3 of 4 complete (batches 25-30). 50 reviews, 2026-06-05 to 2026-08-23. **4 thumbs down** (228568458: clunky controls; 228318711: "nothing interesting", in Polish; 229626627: hard to tell when you are hit, little loot; 231046871: freezes and no save). 77 bullets on 50 reviews, 1.54 per review; none excluded. Id list matched before the dry run.
 
 **No modes built.** 232907488 is the thirteenth review describing the option to switch mechanics on or off. 232762877 says the game never got above 60 frames a second despite a promise to work on it (reviewer's claim, not checked). Left out by the personal-details rule: a self-described condition in 232873727 and 232825074 (kept only as playing obsessively); an offensive troll line in 232272032 is recorded only as crude. 33 reviews left - batch 31 (33 reviews) finishes the game.
+
+## Notes - round 868 (Risk of Rain Returns batch 31, the last 33)
+
+First unit of the 08:44 firing (pace test firing 4 of 4). The last 33 reviews, 2026-08-23 to 2026-10-06, so **all 1,533 Risk of Rain Returns reviews are summarised**. **2 thumbs down** (234489720: an artifact achievement never unlocked; 235846171: a crash in a good run, poor controller menus, no deadzone setting). 50 bullets on 33 reviews, 1.52 per review; none excluded. Id list matched before the dry run.
+
+**No modes built.** 236467755 is the second review angry that the fifth-stage teleporter needs a different button to reach the final boss (with 209864818). 236387779 says two-player local co-op worked perfectly with controllers. A one-word remark in 235260320 is recorded only as having nothing about the game. Next: the pace test (loop file, **Pace test**), then the findings.
