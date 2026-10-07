@@ -13017,3 +13017,9 @@ Third unit of the 04:44 firing. 50 reviews, 2023-11-21 to 2023-11-24. **No thumb
 **No modes built**; every point had an existing mode. 151705433's guess that it would suit a Steam Deck or a Switch went to `engineering.platform-support.unknown`, since it does not say how it runs on either.
 
 A quiet batch of short praise, mostly from fans of the original. Two more say Risk of Rain 2 players may struggle with a 2D platformer (150747689, 151708939). After 600 reviews: 116 bullets say the remake improves on the original; 23 that you can only shoot straight ahead; 20 call an unlock challenge (mostly the Providence Trials) a chore. 933 reviews left.
+
+## Notes - round 850 (Risk of Rain Returns batch 13)
+
+First unit of the 05:44 firing - the first firing at **six units** (Rico, 2026-10-07), and batch 13 opens the pace test's test set (loop file, **Pace test**). The method is held the same as in batches 1-12 for the test to be fair: short character shout-outs stay plain praise, as before. 50 reviews, 2023-11-24. **1 thumbs down.** 83 bullets on 50 reviews, 1.66 per review (34 short reviews, 4 long, unknown share 29%); none excluded. Id list matched before the dry run.
+
+**No modes built.** The thumbs down, **151702556** (edited 2025-06-11), struck through its first verdict ("an objective upgrade") and now objects to a new Gearbox end-user licence that, it says, by poor wording forbids playing through Steam; that goes to `publishing.data-and-privacy.the-agreement-strips-buyer-rights`, where an earlier EULA complaint sits (`findphrase` EULA), with the claim marked unchecked. 151694019 is the third review to say the new content can be toggled off (with 149836905 and 150390125); still not on the store page. A named person in 151703607 is left out. 883 reviews left.
