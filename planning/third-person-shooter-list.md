@@ -32,7 +32,7 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 | C3 | PRAGMATA | 3357650 | Apr 16, 2026 | 53,446 | 97% | 22,979 | no | Capcom sci-fi action-adventure |
 | C4 | Resident Evil Requiem | 3764200 | Feb 26, 2026 | 185,059 | 96% | 80,933 | no |  |
 | C5 | Saints Row: The Third | 55230 | Nov 14, 2011 | 69,728 | 96% | 28,675 | no | the Remastered edition is a separate app, 978300, 4,809 reviews |
-| C6 | Palworld | 1623730 | Jul 9, 2026 | 489,547 | 95% | 208,158 | no | multiplayer open-world survival and crafting |
+| C6 | Palworld | 1623730 | Jul 9, 2026 | 489,547 | 95% | 208,158 | **WIP** (row 20 of `GAMES-TODO.md`, pulled 2026-10-07) | multiplayer open-world survival and crafting |
 | C7 | DEATH STRANDING 2: ON THE BEACH | 3280350 | Mar 19, 2026 | 27,598 | 95% | 8,508 | no |  |
 | C8 | Rise of the Tomb Raider | 391220 | Feb 9, 2016 | 156,313 | 94% | 41,830 | no |  |
 | C9 | STAR WARS Battlefront II (Classic, 2005) | 6060 | Jul 8, 2009 | 54,314 | 95% | 40,369 | no |  |
