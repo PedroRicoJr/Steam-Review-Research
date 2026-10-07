@@ -255,7 +255,7 @@ Against that: **177** say it is much better with friends, **27** praise local co
 What players describe, in their words:
 - **Typing the host's IP and opening ports.** **149234005** (thumbs down): "Needs forwarded ports and
   open NAT, you can't join through Steam and must use direct connect with IP addresses." 32 reviews
-  name Hamachi, a program that fakes a local network; **45007443** warns it "allows other people access
+  name Hamachi, a program that fakes a local network; **45007443** warns it "allows other people acess
   to your router, so only play with people you trust".
 - **Trying and failing.** **51177956** (thumbs down): "We have tried everything (hamachi; open ports)
   and the game just doesnt give a ♥♥♥♥. It keeps telling me that the Ports i just opened are still
@@ -305,7 +305,7 @@ review that raises it says it did not.
   (reviewer's account). What keeps this one: the mods (162298396, 191630973), the lower price (233727022,
   236730777), and nostalgia.
 - **Sold twice.** 165912172 (thumbs down) says owners "should have gotten the ROR:R for free";
-  140513766 calls the remake something that "should have been a free update"; 55235122 (thumbs down)
+  140513766 says the remake "probably should have just been a free update"; 55235122 (thumbs down)
   says the remake fixes the Linux freeze "However, you have to buy the game again"
   (`live-ops.abandonment.the-fix-is-sold-as-a-new-game`, built for it).
 
@@ -324,7 +324,7 @@ review that raises it says it did not.
 | `review.thumb-is-a-protest-vote` | 6 (6) |
 
 Three of the eight most-helpful reviews in the sample are protest reviews (the top one, 14583278 with
-684, is a joke recipe of "10% luck, 20% skill, 50% pain"): **198223319** (122 found it helpful:
+684, is a joke recipe: "10% luck / 20% skill / 15% concentrated power of will / 5% pleasure / 50% pain"): **198223319** (122 found it helpful:
 the updated terms make modding bannable; "This game WAS produced with love and care"), **193855139**
 (109: "LOCK ME OUT OF A 12 YEAR OLD GAME BY UPDATED THE EULA"), **201931323** (108: the terms turn the
 game "into literal spyware") and **195794505** (70: forced arbitration to play online). **197510235**

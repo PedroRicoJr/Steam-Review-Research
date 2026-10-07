@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Risk of Rain (2013) | 2026-10-07 | 89.1% |
 | Risk of Rain Returns | 2026-10-07 | 93.9% |
 | Alien Swarm | 2026-10-07 | 93.6% |
 | R.E.P.O. | 2026-10-06 | 96.6% |
@@ -142,6 +143,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | Roboquest | co-op runs, first person | 96.4% | 173.6 | 40.8 | 4.3 : 1 | 2.37 | section 26 |
 | Escape from Duckov | single-player PvE extraction | 90.9% | 134.6 | 40.4 | 3.3 : 1 | 1.92 | section 25 |
 | Alien Swarm | free four-player co-op, top-down, 2010, one campaign | 93.6% | 102.4 | 31.1 | 3.3 : 1 | 1.60 | section 29 |
+| Risk of Rain (2013) | 2D co-op runs, up to four, hosted by one player, 2013 | 89.1% | 131.5 | 47.4 | 2.8 : 1 | 1.95 | section 31 |
 | Warframe | free, long-running co-op | 89.9% | 127.3 | 50.9 | 2.5 : 1 | 2.01 | section 25 |
 | Helldivers 2 | co-op missions, live service | 83.3% | 108.0 | 55.5 | 1.95 : 1 | 1.79 | section 25 |
 | Space Marine 2 | licensed third-person co-op | 87.6% | 116.1 | 61.9 | 1.87 : 1 | 1.99 | section 19 |
@@ -1122,6 +1124,224 @@ reviews said.
 ---
 
 # The games
+
+## Risk of Rain (2013)
+
+**Read:** 3,104 of 21,329 English reviews (14.6%; none left out), ±2.53%, written November 2013 to
+October 2026 - thirteen years, the longest span in the corpus. **89.1% thumbs up** in the sample (Steam,
+all languages: 93%, *Very Positive*). **Pages:** `findings/risk-of-rain-2013-english.md`,
+`findings/risk-of-rain-2013.md`, `findings/cross-game.md` section 31.
+
+**What it is:** a 2D, side-on sci-fi roguelike. You land on a hostile planet, find the exit (a
+teleporter), survive a boss and move on, while a clock makes the enemies stronger every minute. Up to
+four players: online, where one player hosts on their own machine and the others join by typing the
+host's IP address, or on one screen. Runs end when you die or escape. Bought once, $9.99 (often $1.99 on
+sale). Made by Hopoo Games, released 2013-11-08; now published by Gearbox Publishing and 2K (Steam
+store). Its 3D sequel, *Risk of Rain 2*, and its 2023 remake, *Risk of Rain Returns*, are also read.
+
+**How close to Dominion:** close in the loop - four-player co-op against the game's own monsters, runs
+that end, items that stack, a host's machine running the game. Not close in camera (2D side-on, not third
+person) or in extraction (you escape, you do not carry loot out). The hosting is the same idea as
+Dominion's listen server, done the 2013 way.
+
+### The short version (plain words)
+Players love this game for being hard and for the clock that makes every minute more dangerous: "hard,
+and that is the fun" is the top specific praise (333 times), the music is next (284), then the pull of
+one more run (236). The biggest complaint, for thirteen years, was getting a friend into the game: you
+had to give out your IP address and open ports, or use a program like Hamachi (115 reviews; 187 raise
+some online-play problem). From 2019 the game was judged against its own 3D sequel, and from November
+2023 against its remake, which most later reviewers tell you to buy instead. The thumb fell only when
+the remake came out (81%) and during a 2025 protest over the publisher's new user agreement (60%).
+
+### What players praised, most to least
+1. **Hard, and that is the fun** - 333 reviews. "The best possible balance between 'how did I survive
+   that?' and 'how did that kill me?'" (50072605, 56 found it helpful).
+2. **The music** - 284 reviews; the second most praised music in the corpus.
+3. **One more run** - 236 reviews.
+4. **Much better with friends** - 177 reviews.
+5. **Each character plays its own way** - 165 reviews, the most of any game read. "Sniper turns this
+   rogue-like into a rhythm game" (105724581).
+6. **It looks great** - 131 reviews, for pixel art; the tiny character in a huge world gives "a feeling
+   of insignificance" (146247633).
+7. **A fair price** - 117 reviews.
+8. **The clock that raises the difficulty is the thrill** - 116 reviews, against 9 who dislike being
+   rushed. "you've found the exit, but know there's a big unexplored section that may house many chests
+   full of new powers.... do I go for it?" (50494656).
+9. **Deep, varied builds** - 103; **rewarding once learned** - 95; **unlocking things feels good** - 92.
+10. **You end a run feeling godlike** - 83. "I love becoming so powerful I crash the game by existing."
+    (176646306)
+11. **The artifacts that change the rules** - 72: Command lets you choose your items, Glass trades health
+    for damage, Sacrifice changes how items drop.
+12. **The best of its kind** - 68; **still holds up years later** - 58, rising over time.
+13. **The world and its lore** told through item and monster logs - 42.
+14. **Good in short sittings** - 37; **works solo** - 48; **local co-op on one screen** - 27.
+15. **The mods** - 29 (Starstorm, through the Rainfusion mod loader).
+
+### What players complained about, most to least
+1. **Online play needs the host's IP address, opened ports or Hamachi** - 115 reviews (17 thumbs down);
+   29 more could not connect at all (16 thumbs down). "Needs forwarded ports and open NAT, you can't join
+   through Steam and must use direct connect with IP addresses." (149234005)
+2. **The sequel is better** - 80 reviews, 33 of them thumbs down: the most common named reason for a
+   thumbs down.
+3. **Luck decides the run** - 49.
+4. **Buggy** - 43; **a crash loses the run** - 28; **slows down the longer a run goes** - 29.
+5. **A slow start: one character, little unlocked** - 42 (mostly people who stayed). "It's only once
+   you've died 20-30 times that you're in a position to start getting unlocks" (158584785).
+6. **Only worth it on sale** - 28.
+7. **Too zoomed out to see your character** - 27.
+8. **The 2025 user agreement** - 27, 26 of them thumbs down (the reviewers' account; not checked).
+9. **Too hard** - 26 (mostly people who left); **enemies take too long to kill** - 26 (19 of them
+   thumbs down).
+10. **The game never explains itself** - 24. One says the race against the clock is "not spelled out" (217661377).
+11. **Repetitive** - 23; **rough and unpolished** - 21; **dated** - 20.
+12. **Shooting only left or right** - 12, 11 of them thumbs down.
+13. **Having to hunt down the last enemy before you can leave** - 15. "bruh 14 enemies left on a tiny
+    platform near NOTHING ELSE" (185953137).
+14. **A hated enemy** - 19: the Magma Worm and the flying jellyfish most.
+15. **A character is too weak** - 18 (HAN-D, Commando, Sniper and Bandit named most); **one item or
+    character outclasses the rest** - 18 (Barbed Wire stacked a hundred times, 202133832).
+
+The 339 thumbs down show a median of 3 hours played; the 2,765 thumbs up show 20.
+
+### How it changed over time
+- **Before the sequel (2014 to March 2019):** 91.6% up, 128.7 praise and 49.6 complaints per 100. The
+  online-play complaint peaked: about one review in ten in 2016-2018.
+- **The sequel out (April 2019 to October 2023):** 91.1% up, but praise per 100 fell to 75.9; "the
+  sequel is better" rose from 0.2 to 4.7 per 100.
+- **The remake out (November 2023 to March 2025):** 81.1% up; "buy the remake instead" 9.0 per 100.
+  "theres literally no reason to play this instead of Returns" (150184126).
+- **The agreement protest (April to August 2025):** 60.2% up; 30 of the 39 thumbs down are about the
+  user agreement or the owners. Three of the eight most-helpful reviews in the sample are protest reviews
+  (122, 109 and 108 found them helpful).
+- **After (September 2025 to October 2026):** back to 84.0% up. "Still holds up" reached 3.9 per 100.
+
+### Co-op and online play
+- **Joining a friend was the problem.** 187 reviews raise an online-play problem (43 thumbs down). You
+  typed the host's IP address and opened ports, or used Hamachi, a program that fakes a local network (32
+  reviews name it): it "allows other people acess to your router, so only play with people you trust"
+  (45007443). "It keeps telling me that the Ports i just opened are still closed." (51177956)
+- **Sold as multiplayer.** 6 thumbs down call the four-pack or the store's "online co-op" a deceptive
+  promise; "can't reccomend a deceptive sales pitch like that" (47549942, 106 found it helpful).
+- **Dropping out.** 4 say online games drop, 2 that you cannot get back in; "There is no way to save a
+  run" after a disconnect (143498280).
+- **Local play:** praised by 27, but some setups take only one controller beside the keyboard (3) or
+  send both inputs to the first player (1), and the shared camera follows only one player (1).
+- **Dead players** wait for the next stage to come back (13884611, 28568663, 41578468).
+- **Items are shared** among players (3 note it; one says it "hurts a little", 48344141).
+- **What players used instead:** Steam Remote Play, mods (Rainfusion), and console versions, which 5
+  reviews say are better (reviewers' account).
+- 11 say it is punishing alone, 2 unplayable alone; 48 say it works solo.
+
+### Combat, movement and feel
+- You shoot only the way you face, left or right (12 complaints, 11 thumbs down); flying jellyfish come
+  from above and below where you cannot hit them (94760523, 13 found it helpful).
+- The fighting is often "run away, turn, fire when an ability is ready" (14 call kiting the only way to
+  play; 233093504, 231300323, 138124757).
+- 13 say movement is sluggish; there is no sprint (138124757); 6 say the default keyboard layout is
+  awkward ("X to move left", 159484498); 12 miss mouse binds or a drop-through key; 27 say a controller
+  is better, and 15 that a controller does not work at all.
+- The view: 27 say it is too zoomed out to see the character; the zoom steps jump too far (231657264);
+  a busy screen is hard to read (12 more on hard-to-see threats and clutter across the read).
+- The death message mocks you ("sucks to suck"), and the 4 who mention it dislike it.
+
+### Enemies, bosses and difficulty
+- 333 love the difficulty; 26 call it too hard; 26 say enemies soak too much damage.
+- 10 say enemies spawn on top of you; 9 that the numbers overwhelm; 19 hate one enemy (Magma Worm,
+  jellyfish, Whorls, spitters); the Magma Worm's warning "is lost in the chaos" (94760523).
+- The final boss is praised (153133821: the end music nearly made them cry).
+- Difficulty settings: easy is too easy and does not keep unlocks, normal a little too hard - wants
+  something between (231657264); 3 say unlocks are blocked on the easiest setting.
+- Late in a run you may outgrow everything (20) - or the run stalls when the clock wins.
+
+### Progression, loot, randomness and grind
+- Unlocks carry over between runs: characters, items and artifacts, earned by achievements (92 say
+  unlocking feels good). 42 say the start is too slow, 11 too grindy.
+- Luck decides the run for 49; the Command artifact, which lets you pick items, is the common fix (72
+  welcome the artifacts) - but 2 say it makes the game boring if overused.
+- Monster logs drop at random and some never come: "I don't see why the monster logs couldn't drop on
+  first kill" (223209265).
+- 6 say some unlocks are tied to a mode (the easiest difficulty, single player or multiplayer).
+
+### Runs, content and replay value
+- A run lasts 30 minutes to several hours; 16 love looping the stages endlessly; 37 like short
+  sittings, but a crash can lose 2-5 hours (49371144).
+- 23 call it repetitive; 19 say each stage has only 2-3 layouts.
+- 236 say it keeps pulling them back; "Lost for 250 hours" (50950779, 17 found it helpful).
+- One reviewer says the challenge wears thin after 5-6 hours and it becomes about how far you can loop
+  (229758990).
+
+### Money and price
+- 117 call the price fair; 28 say buy only on sale; 11 call it too dear. Often $1.99 on sale (store).
+- 3 object that owners had to buy the remake to get its fixes ("However, you have to buy the game
+  again." 55235122).
+
+### Tech: performance, crashes, bugs
+- 166 reviews name a technical fault (65 thumbs down): crashes that lose a run (28), slowing as items
+  stack (29), lost saves and settings (21), controllers that do not work (15), Linux faults (21 mention
+  Linux; 9 name a freeze when the Spike Strip item triggers, from 2017 to 2024).
+- A fix players pass on: install Microsoft's Visual C++ 2010 Redistributables, or "the screen size
+  always small, it not remember your settings or achievements, and/or it's not spawning enemies or
+  bosses" (154767974, 24 found it helpful; the reviewers' fix, not checked).
+- 15 say the bugs were never fixed; 8 blame the studio's move to the sequel.
+
+### The studio, updates and community
+- The studio is trusted and loved by name in reviews; the composer is credited by name in many.
+- The owners are not: 18 say Gearbox, 2K or Take-Two put them off; 6 call the new terms spyware (the
+  reviewers' account). "This game WAS produced with love and care" (198223319, 122 found it helpful).
+- The community keeps it alive with mods (29) and with fixes passed between players.
+- 2 say they were told to "git gud" for not enjoying it.
+
+### What players asked for
+Easier online play (most of the 187 online complaints); a way back into a dropped game; checkpoints or
+saving a run (1 asks; 7 notes say there is none); monster logs that drop on first kill (1); a zoom
+slider (1); a text-size setting (1 - the store now lists "Adjustable Text Size"); a difficulty between
+easy and normal (1); aiming up and down (2); mouse binds (12); fewer stray enemies to hunt at the end of a
+stage (15 complain).
+
+### Only in this game
+- **Joining needs the host's IP address** - 115 reviews, the only game in the corpus with it.
+- **The difficulty clock as the main thrill** - 3.7 per 100 reviews, first of 25 large games.
+- **A console version got what the PC one lacks** (5), **local co-op takes only one controller** (3),
+  **the shared camera follows only one player** (1), **the fix is sold as a new game** (1), **text too
+  small with no size setting** (1).
+
+### For Dominion - our reading
+1. **Joining a friend must be one click.** 187 reviews raise online-play problems; the IP-and-ports setup
+   is the top complaint for thirteen years. Dominion hosts on a player's machine like this game: use the
+   platform's invites and relay so nobody opens a port. *Strong.*
+2. **Let a dropped player back into the same run.** 4 say games drop, 2 that they could not get back in; a drop
+   ends the whole session (143498280). *Medium.*
+3. **Promise only the co-op the game delivers.** 6 thumbs down over a "deceptive" multiplayer pitch, one
+   with 106 found it helpful. *Medium.*
+4. **A run clock can be the best-loved feature - if players are told about it.** 116 praise it, 9
+   complain; one says the game never says to hurry (217661377), another that the unspoken need to "rush to find the
+   teleporter" filters out new players (77583153). *Strong.*
+5. **Do not make players hunt the last enemy.** 15 complain; one more found the exit out of reach with
+   nothing left to buy, which locked the run (237007468). *Medium.*
+6. **Give the first character and first hour enough.** 42 call the start slow; 20-30 deaths before the
+   first unlock (158584785); the thumbs down median 3 hours. *Strong.*
+7. **Every class must be able to hit what is attacking it.** Shooting only left or right: 11 of 12
+   complaints are thumbs down. *Medium.*
+8. **Plan the engine for the power the design invites.** 83 feel godlike, and the same stacking slows
+   (29) and crashes (28) the game. *Strong.*
+9. **Save the run.** 28 lost a run to a crash; 7 notes say there is no way to save and come back.
+   *Medium.*
+10. **Make controllers and readability work from day one.** 15 say the controller fails; 27 say the view
+    is too small. *Medium.*
+11. **Do not change the terms after people have bought.** 30 of 39 thumbs down in five months of 2025,
+    and three of the eight most-helpful reviews. *Strong.*
+
+### Limits
+- 14.6% of English reviews, ±2.53%; any single period is ±2.7% to ±11.2%.
+- 244 reviews (7.9%) were edited later and are counted on the day first written.
+- Not checked: the 2025 user agreement and its terms; every patch or fix; the Visual C++ fix; the console
+  versions' online play; the game's origin story (two students, a Kickstarter); the studio's closure and
+  its founders' moves; mod-support changes. All are the reviewers' account.
+- *Risk of Rain 2*'s early-access start was not checked; the April 2019 period start is where reviews
+  first call it playable.
+- Personal, family and health details are left out; jabs are recorded only as "a crude jab".
+
+---
 
 ## Risk of Rain Returns
 
