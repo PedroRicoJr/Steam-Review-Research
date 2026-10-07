@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-10-07 19:50:24 UTC. Rebuild with `python build_grid.py`.
+Built 2026-10-07 21:52:31 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -42,6 +42,7 @@ Built 2026-10-07 19:50:24 UTC. Rebuild with `python build_grid.py`.
 | `immortal-unchained/english` | 77 | 435 | 2018-09 (95) |
 | `lort/english` | 10 | 3,287 | 2026-01 (1,382) |
 | `mass-effect-3/english` | 77 | 1,757 | 2020-06 (177) |
+| `mass-effect-andromeda/english` | 77 | 11,214 | 2021-05 (348) |
 | `palworld/english` | 34 | 208,809 | 2024-01 (73,111) |
 | `redfall/english` | 40 | 3,071 | 2023-05 (1,986) |
 | `remnant-2/english` | 39 | 38,120 | 2023-08 (9,677) |

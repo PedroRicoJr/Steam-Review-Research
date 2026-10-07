@@ -79,6 +79,7 @@ GAMES = {
     "lort":                  (2956680, 2026, 1),   # 1-8 player online co-op action roguelite on runs in a fantasy world, fight toward escape (planning B20); Early Access, released 2026-01-21
     "palworld":              (1623730, 2024, 1),   # open-world survival crafting with third-person gunplay and creatures, online co-op (planning C6); Early Access start not checked, store release date 2026-07-09
     "mass-effect-3":          (1238020, 2020, 6),   # third-person sci-fi cover shooter with online co-op against waves (planning C16d); the 2012 game, on Steam since 2020-06-11
+    "mass-effect-andromeda":  (1238000, 2020, 6),   # third-person sci-fi shooter RPG with online co-op (planning C16e); the 2017 game, on Steam since 2020-06-11
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 
