@@ -13720,3 +13720,11 @@ Twelfth unit of the 15:45 firing. 50 reviews, 2026-08-01 to 2026-09-07, all in E
 **No modes built.** **231814985** (80 found it helpful) is a comic account of two players on the floor while the third's overpowered build carried the run. **The latest update** (mid-August 2026, not checked) is praised by 232871481 (the Paladin, a teased new character) but 232895957 says it made the game too easy - armour reaches 80% damage reduction. **Few players to join:** 231914234 logged in weekly for months and never found a public lobby. **The final boss** is called a copy of Risk of Rain 2's Mithrix, taking your weapons as Mithrix takes items (233920832, 231877422); 231877422 (7 found it helpful) also says the beta was more fun. **233996727** dislikes the invulnerable Death that appears when time runs out. 234054464 hit the ending after 2 hours. 233906220 is in Spanish. 233443267 and 233304227 have family details left out. Batch sizes for the scripts: `--sizes 50x15`.
 
 **Next:** LORT batch 16 (24 reviews, the last).
+
+## Notes - round 961 (LORT batch 16, the last)
+
+First unit of the 16:44 firing. The last 24 reviews, 2026-09-06 to 2026-10-07, all in Early Access; 5 thumbs down; 40 bullets, 1.67 per review; unknown share 18%; none excluded. Id list matched before the dry run. **The sample is fully read: 774 of 774** (`summarise.py status`: 100%). Batch sizes for the scripts: `--sizes 50x15,24`.
+
+**No modes built.** **236369657** (7 found it helpful) says an update cut the stats so every colour now gives only health and damage, leaving three players of one class as mirror images (reviewer's account, not checked; it matches 223729899 in round 957). **235737626** says the latest update made the game incredibly easy, as 232895957 said in round 960. 235252556 finds the combat sluggish with weightless attack animations and the timer too tight to farm gold for a build. 235132133 calls 8-player lobbies unheard of in the genre. 235786100 and 235102993 have family details left out. 0 reviews left; 774 of 774 read.
+
+**Next:** the weighted stats, then the English findings page, the master page, the cross-game section and the takeaways entry.
