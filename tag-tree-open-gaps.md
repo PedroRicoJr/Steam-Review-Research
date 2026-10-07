@@ -13952,3 +13952,11 @@ Sixth unit of the 18:44 firing. 50 reviews, 2026-07-07 to 2026-07-23; 1 thumbs d
 **No modes built.** **The 1.0 release** is praised: it "added allot and improved every aspect" (230570133; also 230569877). The one thumbs down, **230570038** (8 found it helpful), says that even at 1.0 the huge world feels empty with little to do once the gimmick wears off. 229859064 calls it highly balanced and says the Pals' sanity and hunger become manageable. 230569575 is a very long review after 4 hours, summarised in five bullets. Requests: diagonal fences (230570083), easier Ancient Core farming (230569308). 230568980 finds starting alone overwhelming. Protest notes against Nintendo continue. Batch sizes for the scripts: `--sizes 50x23`.
 
 **Next:** Palworld batch 24 (50 reviews).
+
+## Notes - round 991 (Palworld batch 24)
+
+Seventh unit of the 18:44 firing. 50 reviews, 2026-07-23 to 2026-07-31; 1 thumbs down; 61 bullets, 1.22 per review; unknown share 28%; none excluded. None of the 50 carries the Early Access flag.
+
+**No modes built.** The one thumbs down, **231159983**, says it crashes every 5-20 minutes with "Could not save". **1.0 praise** continues (231159760, 231159002, 231158948, 231778143). 231158504 wants a first-person view and says your own shots are blocked by terrain and your own Pal, while Pal abilities pass through everything. 231778624: whoever created the server must be logged in for others to play. 231778143 wants more reliable control of Pals - one uses its strongest move just before a catch. 231160155 cannot get past character creation without crashes yet recommends it from streams. 231777615 links a video review. Protest notes against Nintendo continue. Batch sizes for the scripts: `--sizes 50x24`.
+
+**Next:** Palworld batch 25 (50 reviews).
