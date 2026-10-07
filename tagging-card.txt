@@ -1980,3 +1980,6 @@ game-design.ui-ux.the-descriptions-do-not-match-the-numbers | - | The written de
 community.social-features.no-way-to-ping-things | - | There is no ping at all - no way to mark an item, enemy or place for teammates. **Distinct from `.the-pings-ma
 game-design.replayability.looping-is-not-worth-it | - | The run can loop past the final stage, but the reviewer says looping is so punishing it is rarely worth doing.
 game-design.difficulty-tuning.optional-risks-do-not-pay-off | - | The game offers optional risks for a bigger reward - shrines, harder modifiers - but the reviewer says the ext
+game-design.game-feel.controls.you-can-only-shoot-straight-ahead | - | The player cannot aim: shots go only the way the character faces, so enemies above or below - often flying one
+game-design.enemy-design.the-enemies-keep-pace-with-you | - | Most enemies move as fast as the player or faster, so a group cannot be outrun and every fight becomes run, tu
+game-design.modes.a-player-off-the-shared-screen-is-pulled-back | - | In local co-op on one screen, a player who stays off screen for a few seconds is moved back to the middle, and

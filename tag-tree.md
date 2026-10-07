@@ -12604,6 +12604,25 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 838, Risk of Rain Returns batch 1.** Built under Rule C for a new game's first batch. `findphrase` for remaster, remake, port forward, no ping, zoom, description, loop, full clear and trials found no earlier sighting of any of these modes: the remake matches are Alien Swarm's pointers to Reactive Drop (a different game, filed as a named rival); the ping matches are connection speed; Steam invites and port forwarding already have `community.social-features.getting-your-friends-in-works` and `engineering.servers.my-router-blocks-play`.
 
+## Modes added in Risk of Rain Returns batch 2 - round 839 (Rule C)
+
+### `game-design.game-feel.controls`
+| Mode | | Definition |
+|---|---|---|
+| `.you-can-only-shoot-straight-ahead` | **−** | The player cannot aim: shots go only the way the character faces, so enemies above or below - often flying ones - are out of reach unless an item or skill helps. **Distinct from `.aim-sensitivity-cannot-be-tuned`** (aim exists but feels wrong). Risk of Rain Returns 152548522 (*"You cant aim at all"*), 152530311, 152545414 (*"plz add independent aiming"*). |
+
+### `game-design.enemy-design`
+| Mode | | Definition |
+|---|---|---|
+| `.the-enemies-keep-pace-with-you` | **−** | Most enemies move as fast as the player or faster, so a group cannot be outrun and every fight becomes run, turn, shoot, run. **The inverse of `game-design.power-balance.speed-and-flight-outrun-the-enemies`.** Risk of Rain Returns 152548522. |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.a-player-off-the-shared-screen-is-pulled-back` | **−** | In local co-op on one screen, a player who stays off screen for a few seconds is moved back to the middle, and the reviewer finds it gets in the way. Risk of Rain Returns 152535252 (*"If a player is off screen for more than 10 or 15 seconds they get teleported to center screen"*). |
+
+🔑 **Round 839, Risk of Rain Returns batch 2.** Built under Rule C. `findphrase` for can't aim, cannot aim, free aim, independent aim, off screen, off-screen, as fast as you and faster than you found no earlier sighting: the aim matches are about aim that exists but feels wrong; the off-screen matches are enemies attacking from outside the view; one "faster than you" (a slow character first of all) stays at `game-design.game-feel.movement.sluggish`.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
