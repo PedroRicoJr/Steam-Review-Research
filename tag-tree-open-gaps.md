@@ -13808,3 +13808,11 @@ Twelfth unit of the 16:44 firing. 50 reviews, all written 2024-02-07 in Early Ac
 **No modes built.** **157814412** (thumbs down after 145 hours) quits because every login the Pals are piled on the Palbox, starving and hurt. **157814394** (thumbs down) says a group's buildings twice broke on their own and stored items vanished (reviewer's account). 157813614 wants to assign Pals to set tasks and says big Pals get stuck on top of things. 157813953 likes self-sufficient bases and building straight from stored materials. 157813601 says bugs are being fixed with more care than the studio's earlier Craftopia. Comparisons to Pokémon dominate the short praise; 3 notes say it beats Pokémon (first written as 4; corrected in a follow-up commit). Personal details (157813601) are left out; jokes about the Pals' labour are recorded without their wording. Batch sizes for the scripts: `--sizes 50x5`.
 
 **Next:** Palworld batch 6 (50 reviews).
+
+## Notes - round 973 (Palworld batch 6)
+
+First unit of the 17:44 firing. 50 reviews, 2024-02-07 to 2024-02-14, all in Early Access; 5 thumbs down; 70 bullets, 1.40 per review; unknown share 29%; none excluded. Id list matched before the dry run.
+
+**No modes built.** **Cheaters on public servers** appear for the first time: 157813439 (thumbs down) says multiplayer is full of them and asks for servers split by country - its jab at players of one country is recorded only as "a crude jab"; 158337577 (267 hours) says cheaters duplicate items, power-level and crash servers so they roll back (`a-cheater-can-damage-your-save`). **Lost progress** again: 158338491 and 158337166 (bases destroyed, items lost, no reply from the developers); 158338491 also objects to a Valentine's Day event released while the bugs remained (reviewer's account, not checked). On the other side, 158338480 (157 hours, edited 2024-02-25) calls it smooth and optimised with consistent fix updates, and 158337136 reports 90 hours with no crashes. 158338142 finds the bamboo area too laggy to play. 157813477 and 157813259 single out a flying Pal with a missile launcher. 158338681's personal details are left out. Batch sizes for the scripts: `--sizes 50x6`.
+
+**Next:** Palworld batch 7 (50 reviews).
