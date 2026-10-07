@@ -12702,6 +12702,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 | `.local-co-op-takes-only-one-controller` | **−** | On one screen, the game accepts only one controller beside the keyboard, so a second or third player with a pad cannot join. **Distinct from `game-design.game-feel.controls.the-controller-does-not-work`** (no controller works at all) **and from `.split-screen-is-offered`** (the plus that local play exists). Risk of Rain (2013) 29101352 (*"Can't use 2 controllers to play locally, just 1 keyboard and 1 controller"*). |
 🔑 **Round 893, Risk of Rain (2013) batch 18.** Built under Rule C. `findphrase` for two controllers, second controller, one controller and 1 controller found only praise for a single controller and a controller that does not work at all. The limit is the reviewer's account, not checked.
 
+## Modes added in Risk of Rain (2013) batch 30 - round 905 (Rule C)
+
+### `live-ops.abandonment`
+| Mode | | Definition |
+|---|---|---|
+| `.the-fix-is-sold-as-a-new-game` | **−** | A known fault in the game the player owns was never patched there, and is fixed only in a remake or new edition sold separately, so getting the fix means buying the game again. **Distinct from `.known-bugs-never-fixed`** (the fault is simply left; here a fixed version exists and costs money) **and from `marketing.positioning.the-remake-improves-on-the-original`** (praise for the remake, not a charge against the studio). Risk of Rain (2013) 55235122 (*"I'm aware Risk of Rain Returns fixes this and other issues. However, you have to buy the game again."*). |
+
+🔑 **Round 905, Risk of Rain (2013) batch 30.** Built under Rule C on the first sighting. `findphrase` for "buy the game again", "buy it again", "buy again", "pay again", "Returns", "remake" and "remaster" found no earlier review that charges the remake's price against the studio. That Returns fixes the Linux Spike Strip freeze is the reviewer's claim, not checked.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
