@@ -12720,6 +12720,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 911, Risk of Rain (2013) batch 36.** Built under Rule C on the first sighting; the parent's own definition names text size, and it had no mode for it. `findphrase` for "text too small", "small text", "tiny text", "text size", "font", "text is" and "text way" found one earlier tiny-text line (an interface judged ugly and too serious, on `game-design.ui-ux.style-clashes-with-the-game`), which is about style, not size, and stays where it is.
 
+## Modes added in Risk of Rain (2013) batch 38 - round 913 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-shared-camera-follows-only-one-player` | **−** | In local co-op on one screen, the camera tracks one player and the others must keep up or work blind at the edge. **Distinct from `.a-player-off-the-shared-screen-is-pulled-back`** (the game moves the straying player; here it simply never looks at them) **and from `game-design.game-feel.camera.zoomed-out-is-too-small-to-read`** (how far out the view sits, not whom it follows). Risk of Rain (2013) 90275234 (*"the camera only follows one player..."*). |
+
+🔑 **Round 913, Risk of Rain (2013) batch 38.** Built under Rule C on the first sighting; `findphrase` for "camera only", "camera follows", "follows one", "follows the host" and "follows player" found nothing. Which player the camera follows is the reviewer's account, not checked.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
