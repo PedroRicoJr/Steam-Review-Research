@@ -13970,3 +13970,11 @@ Eighth unit of the 18:44 firing. 50 reviews, 2026-07-31 to 2026-08-15; 2 thumbs 
 **Fix to round 991:** 231158948 says "much better than at launch" and does not name 1.0; it is praise of growth, not of 1.0 by name.
 
 **Next:** Palworld batch 26 (50 reviews).
+
+## Notes - round 993 (Palworld batch 26)
+
+Ninth unit of the 18:44 firing. 50 reviews, 2026-08-15 to 2026-09-07; 5 thumbs down; 98 bullets, 1.96 per review; unknown share 19%; none excluded. None carries the Early Access flag.
+
+**No modes built.** This batch has the longest thumbs-down reviews of the 1.0 period. **234199787** (4 found it helpful, 13 bullets) waited 90 hours for it to get fun: an ugly, copy-pasted world, no music outside combat, every dungeon the same rooms, flying mounts that undo the level design, too easy, a small base area, long real-time crafting waits, and crafting tiers that only change numbers. **234196689** says homing attacks hit through floors and walls, fights need you 40 levels higher, and half the Pals are reskins. **234199854** (389 hours): after the final boss only hard-mode towers are left, the first far harder than the final boss. **233553296** (4 found it helpful): building fails at random spots for "overlap". **234198159**: plays like jank. On the thumbs-up side, 233549914 and 233555472 say you level too fast to use the content; 234199231 wants more automation and finds the last 20% of the tech tree grindy; 233549914 and 234195579 praise the custom world settings. 233554549 says the studio "beat the case" against Nintendo - the reviewer's claim, not checked. Batch sizes for the scripts: `--sizes 50x26`.
+
+**Next:** Palworld batch 27 (the last 25 reviews).
