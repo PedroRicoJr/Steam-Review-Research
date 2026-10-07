@@ -14347,3 +14347,11 @@ Eighteenth unit of the 21:44 firing (twenty a firing; test set of the third pace
 **What the batch says:** the forced travel scenes are the most common single fault (5 `cannot-skip-what-the-game-plays-at-you`), and the new puzzle mode had 3 more notes (111257292, 112242363 "alien sudoku", 113907115: one vault "took me like 2 hours"). 111709783 (68 found it helpful): "I lost 20 hours because origin kept trying to use cloud saves despite me selecting the option for local saves". 113891821 says rover banter is cut off when companions point out enemies (`told-during-the-fighting-so-it-is-lost`). 112242363 ran it on Linux, solid with a custom Proton build, and on a 21:9 screen. One crude objection to the same-sex romance options and one one-line accusation against the developer are recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 11 (50 reviews).
+
+## Notes - round 1040 (Mass Effect: Andromeda batch 11)
+
+Nineteenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2022-04-22 to 2022-07-07; 15 thumbs down; 118 bullets; none excluded; 0 Early Access.
+
+**No modes built.** The batch's most-helpful review, 116267946 (170 found it helpful), is a thumbs down after playing the series in order: lifeless worlds with recycled wildlife, fetch quests across several planets with unskippable flights ("Literally they could have solved this by just being able to call and talk to quest givers from the main ship"), and half the races missing. 116566455 counts six unskippable scenes of about 13 seconds for a one-planet fetch quest (reviewer's timing). 116262963 (48 found it helpful): dialogue choices are "Yes", "Yes but in blue", "Yes but in red". The multiplayer: 114702075 "Multiplayer is great. I've never played the story."; 117425231 says it is "still active at least on PC"; 115074560 says it has little replay value. 115449778 could not launch the game because Origin was down.
+
+**Next:** Mass Effect: Andromeda batch 12 (50 reviews).
