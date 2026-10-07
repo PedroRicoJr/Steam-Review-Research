@@ -13944,3 +13944,11 @@ Fifth unit of the 18:44 firing. 50 reviews, 2026-05-23 to 2026-07-07, all in Ear
 **No modes built.** **227446717** (156 found it helpful, the most in this sample so far) gives 9/10: great on the Steam Deck, beautiful night sky, easy to start, something for everyone - against no idea of the plot after 500 hours, frame drops when many Pals work in one place, spots where you glitch into the ground, and an end game unbalanced for solo players. **229890729** (nearly 2,000 hours) praises online PvP - raiding bases, sky dogfights, "Real Triumph/Real Despair" (`the-pvp-is-good`) - but finds all movement lethargic. **228061906** says Pal automation and expeditions replace the boring parts of survival crafting, and that much hard content can't be soloed on default settings. 227451451 (thumbs down, 10 found it helpful) can't escape a police force that teleports in front of you. 229871988 says the studio won its court case and gives a 1.0 date of July 10 (reviewer's account, not checked; the store lists 2026-07-09). 229893419's personal details are left out. Batch sizes for the scripts: `--sizes 50x22`.
 
 **Next:** Palworld batch 23 (50 reviews).
+
+## Notes - round 990 (Palworld batch 23)
+
+Sixth unit of the 18:44 firing. 50 reviews, 2026-07-07 to 2026-07-23; 1 thumbs down; 64 bullets, 1.28 per review; unknown share 27%; none excluded. Id list matched before the dry run. **Only 13 of the 50 carry the Early Access flag** - every review from 2026-07-15 on is without it, which fits the store's release date of 2026-07-09 (the version 1.0 launch); the flag is Steam's, the date is the store's.
+
+**No modes built.** **The 1.0 release** is praised: it "added allot and improved every aspect" (230570133; also 230569877). The one thumbs down, **230570038** (8 found it helpful), says that even at 1.0 the huge world feels empty with little to do once the gimmick wears off. 229859064 calls it highly balanced and says the Pals' sanity and hunger become manageable. 230569575 is a very long review after 4 hours, summarised in five bullets. Requests: diagonal fences (230570083), easier Ancient Core farming (230569308). 230568980 finds starting alone overwhelming. Protest notes against Nintendo continue. Batch sizes for the scripts: `--sizes 50x23`.
+
+**Next:** Palworld batch 24 (50 reviews).
