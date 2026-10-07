@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| LORT | 2026-10-07 | 80.7% |
 | Risk of Rain (2013) | 2026-10-07 | 89.1% |
 | Risk of Rain Returns | 2026-10-07 | 93.9% |
 | Alien Swarm | 2026-10-07 | 93.6% |
@@ -150,6 +151,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | ELDEN RING NIGHTREIGN | third-person co-op runs, three players | 87.8% | 105.3 | 64.0 | 1.65 : 1 | 1.88 | section 27 |
 | Remnant II | third-person co-op sequel | 83.6% | 121.6 | 77.5 | 1.57 : 1 | 2.30 | section 19 |
 | ARC Raiders | extraction where other players can shoot you | 79.7% | 86.8 | 56.7 | 1.53 : 1 | 1.56 | section 25 |
+| LORT | fantasy co-op runs, up to eight, Early Access | 80.7% | 102.5 | 81.7 | 1.25 : 1 | 2.05 | section 32 |
 | Aliens: Fireteam Elite | licensed co-op, players connect to each other | 81.3% | 124.6 | 141.8 | 0.88 : 1 | 2.94 | section 19 |
 | Back 4 Blood | four-player co-op, paid | 69.2% | 118.0 | 137.2 | 0.86 : 1 | 2.63 | section 19 |
 | The First Descendant | free third-person sci-fi looter, Unreal Engine 5 | 64.5% | 83.6 | 122.2 | 0.68 : 1 | 2.37 | section 25 |
@@ -1124,6 +1126,196 @@ reviews said.
 ---
 
 # The games
+
+## LORT
+
+**Read:** 774 of 3,287 English reviews (23.5%; none left out), ±3.49%, written January to October 2026 -
+the game's first ten months, all in Early Access. **80.7% thumbs up** in the sample (Steam, all
+languages: 78%, *Mostly Positive*). **Pages:** `findings/lort-english.md`, `findings/lort.md`,
+`findings/cross-game.md` section 32.
+
+**What it is:** a fantasy co-op action roguelite. Up to eight players online (or one alone) land in a
+cursed fantasy world, clear camps of goblins and worse for power-ups, gold and weapons, and fight toward
+an escape; a stage lasts three in-game days and ends with a boss, five stages to a run (reviewers'
+account). Swords, wands, bows "or the age-old gun", more than 100 power-ups, a revive for downed
+friends. Bought once, $14.99 ($10.49 on sale the day it was checked). Made and published by Big
+Distraction; in Early Access since 2026-01-21 (Steam store). The store does not name the camera;
+reviewers call it third person and top-down.
+
+**How close to Dominion:** close in the loop - co-op runs against the game's own monsters that end in an
+escape, power that stacks, revives, a group that is the point of the game. Not close in setting
+(fantasy, not sci-fi), in group size (up to eight, not four) or in extraction (you escape, you carry
+nothing out). How it hosts its games is not stated on the store; reviewers describe a host whose crash
+or departure ends the run, as on a listen server.
+
+### The short version (plain words)
+Players love it as a night with friends: "much better with friends" is the top praise (103 times), and
+20 praise the eight-player lobby. The thumbs down are about the numbers - another game does it better,
+the difficulty jumps badly, gold and good drops are too scarce, enemies take too long to kill. Playing
+alone is the second big fight: 27 reviews say solo is punishing or impossible. Players reach the end in
+hours and ask for more rather than leaving angry. The thumb dipped to 74% in March-April and came back
+to about 80%.
+
+### What players praised, most to least
+1. **Much better with friends** - 103 reviews. "Lobby sizes of 8 on games like this is unheard of"
+   (235132133).
+2. **Wants more because it is good** - 48, the highest rate of 26 large games.
+3. **One more run** - 35.
+4. **The potential is there** - 31.
+5. **Funny characters and writing** - 29. "good mix of goofy but serious" (218256852).
+6. **A fair price** - 28; **hard, and that is the fun** - 28.
+7. **Rewarding once you learn it** - 20; **the eight-player lobby** - 20, first of 26 games.
+8. **Deep builds** - 17. "Each build feels distinct" (219375727).
+9. **Fast, fun movement** - 13: bounce pads, launch flowers, air dodges.
+10. **Works solo** - 10; **beats its rivals** - 9; **looks great** - 9.
+
+### What players complained about, most to least
+1. **Too little content** - 31 reviews. "Beat the whole game in 3 ish hours with friends" (220784910).
+2. **Badly scaled difficulty** - 23 notes in 22 reviews (19 thumbs down): between areas, then between
+   easy and normal.
+3. **Another game does it better** - 23 (19 thumbs down), *Risk of Rain 2* most. "As someone who has
+   nearly 200 hours in ROR2, just play that if you want a game like this" (220590118, 217 found it
+   helpful, the most in the sample).
+4. **Too hard alone** - 22; **impossible alone** - 5.
+5. **Gold, keys and good drops too scarce** - 19 (13 thumbs down). "You can open 15+ chests in the
+   first area, then suddenly you're struggling to afford five" (217296763).
+6. **A character is too weak** - 18, melee most; **one choice outclasses the rest** - 18, the mage most.
+7. **Damage-sponge enemies and bosses** - 15. The items are "mainly stat upgrades" (220590118).
+8. **A hated enemy** - 12, snipers most, then goblin thieves.
+9. **Slow movement** - 12 (13 say the opposite).
+10. **Wait before buying** - 12; **runs out fast** - 12; **nothing left to chase** - 11; **derivative**
+    - 11.
+11. **No endless or looping mode** - 10. "An infinite mode would take this game to the next level"
+    (219884072).
+12. **Each death costs max health for the rest of the run** - 8. It "ruins the fun for the entire group
+    when 1 person keeps dying" (218888736).
+
+The 149 thumbs down show a median of 3.1 hours played; the 625 thumbs up show 10.2.
+
+### How it changed over time
+- **Launch (January 2026):** 82.3% up; solo complaints at their highest (6.9 per 100) and scarce
+  resources 5.7 per 100.
+- **First month (February):** 85.3% up. Public matchmaking arrives by 2026-02-20 ("I enjoy that they
+  finally put public matchmaking into the game", 218744090).
+- **Difficulty settings (March-April):** 74.1% up, the lowest. Reviewers say easy, normal and hard
+  settings arrived in March; then the gap between easy and normal becomes the complaint.
+- **Summer (May-July):** 77.0% up; "too little content" peaks at 9.5 per 100.
+- **After the August update (August-October):** 79.5% up; complaints fall to 56.4 per 100 from 85-92.
+  Reviewers say it widened builds and weapons; two say it made the game too easy.
+
+None of the updates or their dates was checked against the patch notes.
+
+### Co-op and online play
+- **The group is the point.** 103 say much better with friends; 20 praise eight-player lobbies.
+- **But the numbers are set for a big group.** 27 reviews say solo is punishing or unplayable; 7 that a
+  small group faces a full group's numbers ("even with 2-3 players, difficulty is seeing 8",
+  217231436); the boss's health is reported the same for 1 or 8 players (222135067, reviewer's account).
+- **Co-op can make you weaker.** Each character grows from one of three stats, raised at camps of that
+  colour; a mixed group shares the same camps, so each finds less of what they need ("we're practically
+  playing solo", 218819580). 3 reviews; no other game has this.
+- **The host takes the group down.** A host crash loading the next map ends the run with no reconnect
+  (223654623); a public host kicked everyone in the final boss's last phase, twice (218744090); the
+  final boss's area attacks showed only on the host's screen (223218666, 18 found it helpful).
+- **Revives:** too slow to survive a boss fight (218819580); lingering attacks on downed players block
+  revives (223218666); a boss will not start until every player is alive at the item (219753592).
+- **Little to do together.** "There is very minimal interaction between players" (222139684, 21 found
+  it helpful); the loved exception is pooling money so one teammate can buy the upgrade they need
+  (222154921).
+- **Finding players:** no public matchmaking at first (7); the Discord is where groups form (6); one
+  logged in weekly for months and never found a public lobby (231914234).
+
+### Combat, movement and feel
+- Speed is the key skill: bounce pads, launch flowers, crossbow jumps and air dodges (217719665).
+- 12 find movement slow, 13 responsive; sprint is toggle-only (222720273); you slow down while attacking
+  (223284827); the dodge cooldown is too long against bosses that "hit 6 times in 2 seconds" (217296763).
+- Healing from a flask is slow and roots you in place (5).
+- Melee is the weak choice for 18; the mage the strong one; "Movement Speed is KING" (219137686).
+- Camera effects cannot be turned off (223284827); the archer's centred crosshair hides close enemies
+  behind your own character (220419030).
+
+### Enemies, bosses and difficulty
+- Badly scaled (23), damage sponges (15), dull boss fights (9), no answer to stuns, roots and shields (8).
+- Snipers are the most hated enemy: they hit "about two seconds after the red light appears" and come in
+  fours and fives at night on the final map (224843487).
+- Difficulty settings came in March (reviewers' account); hard mode "only changes the numbers" (3); 8
+  say it became too easy, most after August.
+
+### Progression, loot, randomness and grind
+- Power comes from your stat colour at camps; one reviewer's long guide (217799915) says the game never
+  explains it.
+- Upgrades between runs (rune juice) feel tiny to 10: "a 1% damage upgrade" for a full run (217296763).
+- Luck decides the run (10); 5 want to remove or sell unwanted items; 7 want to choose the starting
+  weapon.
+- One reviewer says an update made every stat colour give only health and damage (236369657, 7 found it
+  helpful, not checked).
+
+### Runs, content and replay value
+- Three in-game days per stage, "like 20 mins" (223811425), five stages to a run.
+- Too little content (31), runs out fast (12), nothing left to chase (11), two quest types (reviewers'
+  count); 10 ask for an endless mode.
+- 35 keep coming back; the median review shows 8.4 hours played.
+
+### Money and price
+- 28 call the price fair, 7 too high, 6 say buy on sale; 4 refunded. Reviewers quote $10, $15, £12.79
+  and €15; the store's full price is $14.99.
+
+### Tech: performance, crashes, bugs
+- 44 reviews raise a technical point (15 thumbs down): crashes loading the next zone (223654218,
+  223654623), a 30% frame drop late in a level (218853787), camps that stick and pay no loot (2), 4 say
+  poorly optimised and 5 that it runs well.
+
+### The studio, updates and community
+- 6 say the devs listen and act; reviewers describe frequent updates and a roadmap (one says its last
+  step is a question mark, 217228093).
+- One says the devs pasted the same reply on every review about difficulty (220419030, reviewer's
+  account).
+- Humour divides: 29 like it, 7 say it tries too hard. One calls it GPT-made (216713749); 3 say it looks
+  built from asset packs.
+
+### What players asked for
+More content (48 want more, 31 say too little); an endless or looping mode (10); public matchmaking (7);
+difficulty settings (5); to choose the starting weapon (7); to remove or sell items (5); quality of life
+- a map and mini-map, crosshair options, chest prices on ping (7); a healer or support class (2);
+reconnecting to a dropped game (3); to drop items for teammates (1); hold-to-sprint (1).
+
+### Only in this game
+- **Teammates with different builds split the rewards** - 3 reviews, the only game.
+- **Reviving takes too long to survive** - 1 review, the only game.
+- **The eight-player lobby praised in its own right** - 2.6 per 100 reviews, first of 26 large games.
+- **Each death costs max health for the run** - 1.0 per 100, first of 26.
+
+### For Dominion - our reading
+1. **Tune every number for 1, 2, 3 and 4 players.** 27 reviews say solo is punishing; 7 that a small
+   group faces a full group's numbers. Scale health, enemy count and money per player and test each
+   count. *Strong.*
+2. **Never let co-op split what each player needs.** If classes need different resources, each player's
+   drop is their own. *Medium.*
+3. **Ship a reason to run again after the first win.** Too little content is the top complaint (31);
+   11 say nothing is left after a win; 10 ask for an endless mode. *Strong.*
+4. **Make power come from choices, not stat bumps.** Items "mainly stat upgrades" (220590118, 217 found
+   it helpful); 10 say upgrades change nothing. *Medium.*
+5. **The host's crash must not end everyone's run.** On a listen server, plan rejoin or host migration,
+   lock kicking in the final fight, and send every effect to every player. *Strong.*
+6. **Do not let one player's deaths sink the group.** A stacking max-health penalty "ruins the fun for
+   the entire group" (218888736). *Medium.*
+7. **Give players a reason to stand together.** "very minimal interaction between players" (222139684);
+   the loved moment is pooling money for a teammate. *Medium.*
+8. **Public matchmaking at launch.** It came a month late and players still could not find groups.
+   *Medium.*
+9. **Ranged enemies must be readable and dodgeable.** Snipers are the most hated enemy. *Medium.*
+10. **Difficulty settings early, with a sensible middle step.** *Medium.*
+11. **Expect to be judged against the best of the genre.** 23 say a named rival does it better. *Weak*
+    for design, *strong* for how Dominion presents itself.
+
+### Limits
+- 23.5% of English reviews, ±3.49%; any single period is ±4.9% to ±9.5%. January 2026 is read at ×8.
+- Every review is from Early Access; the finished game may differ.
+- 40 reviews (5.2%) were edited later and are counted on the day first written.
+- Not checked: every update and its date, the death penalty's numbers, boss health per group size, the
+  daily player count, the devs' replies, the roadmap, the camera.
+- Personal and family details are left out; jabs are recorded only as "a crude jab" or "a crude remark".
+
+---
 
 ## Risk of Rain (2013)
 
