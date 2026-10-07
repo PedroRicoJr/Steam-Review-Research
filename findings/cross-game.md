@@ -3150,3 +3150,118 @@ rather than leaving angry. Most of them judge it against *Risk of Rain 2*.
   `scripts/steam_counts.py 2956680`); none pulled.
 
 ⚠️ **The corpus is now 36 games and 42,246 English summaries (43,008 in all languages).**
+
+## 33. ⭐ What the twenty-seventh large game adds - Palworld, added 2026-10-07
+
+**An open-world survival and crafting game with creatures (Pals) that fight, work and carry you, with
+guns, in third person: Pocketpair; Early Access from 2024-01-19, 1.0 on 2026-07-09; $29.99; up to 4
+players in online co-op and 32 on a dedicated server (Steam store and news).** 1,325 of 208,809 English
+reviews, a 0.63% sample at ±3.13%, across 34 months (2024-01 to 2026-10), 1,111 of them written in Early
+Access; 93.6% up; 1,757 bullets, 1.33 per review; 207 distinct tags, **none used by no other game, and no
+modes built** (rounds 967-994). Full read in `palworld-english.md`, ranked lists in `palworld.md`,
+plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-32** (every bullet whose mode is + or -, `review.*` included; one
+Python pass over `raw/*/english/summaries/*/[0-9]*.md` on 2026-10-07, skipping excluded reviews; it
+gives the same figures as `scripts/findings_tables.py` for Palworld (88.2 and 28.2) and LORT (102.5 and
+81.7); round 998 note):
+
+| | Escape from Duckov | Alien Swarm | **Palworld** | Risk of Rain (2013) | Warframe | Helldivers 2 | ARC Raiders | LORT |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 90.9% | 93.6% | **93.6%** | 89.1% | 89.9% | 83.3% | 79.7% | 80.7% |
+| Bullets per review | 1.92 | 1.60 | **1.33** | 1.95 | 2.01 | 1.79 | 1.56 | 2.05 |
+| Praise per 100 | 134.6 | 102.4 | **88.2** | 131.5 | 127.3 | 108.0 | 86.8 | 102.5 |
+| Complaint per 100 | 40.4 | 31.1 | **28.2** | 47.4 | 50.9 | 55.5 | 56.7 | 81.7 |
+| Praise to complaint | 3.33 : 1 | 3.29 : 1 | **3.12 : 1** | 2.78 : 1 | 2.50 : 1 | 1.95 : 1 | 1.53 : 1 | 1.25 : 1 |
+
+**Eleventh of 27 groups with 300 or more kept reviews by praise to complaint**, between Alien Swarm
+(3.29 : 1) and Risk of Rain (2013) (2.78 : 1). **Its reviews are the shortest of the 27: 1.33 bullets per
+review, the lowest** (Risk of Rain 2 next at 1.43); 846 of 1,325 are 15 words or fewer.
+
+### 🔑 The finding: the most loved base is also the one players most fear losing
+
+Reviews carrying each mode, per 100 kept reviews, and Palworld's rank among the 27 large groups (the same
+Python pass, round 998 note):
+
+| | **Palworld** | Rank of 27 | Highest elsewhere |
+|---|---|---|---|
+| The save was lost | **1.1** (14) | 1st | ELDEN RING NIGHTREIGN 0.3 |
+| The thumb is a protest vote | **3.2** (42) | 1st | Helldivers 2 1.3 |
+| Base building is a pleasure | **1.7** (23) | 1st | Escape from Duckov 0.1 |
+| Base building is shallow | **0.6** (8) | 1st | Escape from Duckov 0.3 |
+| The world ignores you (feels empty) | **0.8** (11) | 1st | Redfall 0.8 |
+| You set your own goals | **0.9** (12) | 1st | Warframe 0.2 |
+| The settings cover what you need | **1.1** (15) | 1st | Risk of Rain Returns 0.9 |
+| Beats its rivals | **5.8** (77) | 2nd | Escape from Duckov 5.9 |
+| Funny or memorable | **2.3** (30) | 2nd | LORT 3.7 |
+| AI companions get stuck | **0.8** (11) | 2nd | The Anacrusis 1.1 |
+| Chores instead of play | **0.5** (7) | 2nd | DRG: Rogue Core 2.1 |
+| Much better with friends | **3.9** (52) | 17th | R.E.P.O. 16.6 |
+| Works solo | **0.8** (11) | 19th | Deep Rock Galactic 3.7 |
+
+**Caution:** most of the 27 games have no base to build, and the base-building modes were built for the
+games that do; first place on those rows says that Palworld has a base, not that it beats a field.
+
+In Palworld the thing players build over hundreds of hours - a base, a world, a team of Pals - is the
+centre of the game, and it leads the corpus both on loving that
+(base building a pleasure, setting your own goals) and on losing it (lost saves 1.1 per 100, more than
+three times the next game). It is also first on protest votes: 42 thumbs up cast against Nintendo after the
+patent suit of 2024-09-18 (Nintendo's own release; section 3b of `palworld-english.md`). Friends matter
+less here than in most co-op games read: "much better with friends" is 17th of 27.
+
+### In plain words
+
+Palworld players love it as the creature game they always wanted, and play it for weeks. What they build
+- bases, worlds, teams of creatures - is the heart of it, so losing a save is the worst thing that can
+happen, and it happens more here than in any other game read. Many players were happy alone; friends
+help, but less than in most co-op games. A lawsuit from a bigger company turned some reviews into a show
+of support.
+
+### For Dominion — what changes
+
+- **Adds: protect saved progress above everything.** Lost saves 1.1 per 100, 1st of 27, three times ELDEN
+  RING NIGHTREIGN; the top named reason for a thumbs down (9 of 85). The cases: launch servers, a host's
+  power cut that corrupted a shared world (169961983), moving a local save to a dedicated server
+  (156738837). Dominion's hub, unlocks and any carried gear need backups and a clean end to a session when
+  the host drops.
+- **Softens lesson 24 ("The launch decides the review page"):** congestion, endless loading screens and
+  cheaters on official servers in the first weeks, all confirmed by the studio's own posts (2024-01-24,
+  2024-01-25, 2024-02-16), and lost saves 2.5 per 100 at launch (none in 2025) - yet the launch month
+  was 92.4% up. A game players wanted badly enough came through a rough launch; Dominion should not
+  count on that.
+- **Confirms lesson 16 ("Expect to be compared ... a comparison can be won"):** 77 say it beats its
+  rivals (2nd of 27), 62 of them Pokémon. Palworld won the comparison by giving players what the bigger
+  rival would not - guns, a base, an open world.
+- **Confirms lesson 21 ("Owners, user agreements and fan-service choices can sink a good game"), from the
+  other side:** a legal fight cost Palworld two loved moves (throwing a Pal into a fight, gliding on a
+  Pal - Pocketpair's statement of 2025-05-08) and earned it 42 protest votes. Check designs against
+  patents before launch.
+- **Confirms lesson 35 ("Let players set the difficulty in detail"):** the world settings are praised
+  more here than anywhere (1.1 per 100, 1st of 27).
+- **Weakens lesson 1 for this kind of game:** much better with friends is 17th of 27 (works solo is 19th,
+  so solo is not praised more either); in a sandbox where you set your own goals, fewer reviews make
+  friends the point. Dominion, built on four-player runs, sits nearer the co-op games where they are.
+- **Adds: AI helpers are judged at home, not only in the fight.** Pals that get stuck, starve or path
+  badly at the base (0.8 per 100, 2nd of 27) and upkeep chores (0.5, 2nd) are the two creature complaints.
+
+### Other ways it stands out in the corpus
+
+- **The shortest reviews:** 1.33 bullets per review, lowest of 27.
+- **Lost saves** 1.1 per 100, 1st (ELDEN RING NIGHTREIGN 0.3).
+- **Protest votes** 3.2, 1st (Helldivers 2 1.3).
+- **You set your own goals** 0.9, 1st (Warframe 0.2).
+- **Beats its rivals** 5.8, 2nd (Escape from Duckov 5.9).
+
+### What this game does NOT settle
+
+- **Runs and extraction.** Palworld is an open world with no runs and nothing to extract.
+- **Listen-server hosting.** Players host worlds and dedicated servers; one reviewer says the world's
+  creator must be online for friends to play (231778624). How a run should survive a host leaving is not
+  answered here.
+- **Shooting.** Combat gets few notes; the guns are not what is judged.
+- **Monetisation.** Bought once; the studio said in 2024 it will stay buy-to-play (Steam news,
+  2024-09-14).
+- **The non-English audience.** 282,586 reviews in other languages (491,673 in all, 209,087 English,
+  `scripts/steam_counts.py 1623730`); none pulled.
+
+⚠️ **The corpus is now 37 games and 43,571 English summaries (44,333 in all languages).**
