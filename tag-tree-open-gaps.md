@@ -13176,3 +13176,11 @@ Eighth unit of the 08:44 firing. No reviews read.
 - **GAMES-TODO:** row 18 of section 4; `planning/action-roguelike-list.md` A19a marked WIP.
 - **Pace:** the second pace test's test batches are this game's first batches read at twelve a firing (loop file).
 - **Next:** Risk of Rain (2013) batch 1 (50 reviews).
+
+## Notes - round 876 (Risk of Rain (2013) batch 1)
+
+First unit of the 09:44 firing - the first firing at twelve units, so this batch is in the second pace test's test set. 50 reviews, 2013-11-15 to 2013-12-15, all thumbs up; 164 bullets, 3.28 per review (17 short, 14 long), unknown share 9%. Id list matched before the dry run.
+
+**1 mode built (Rule C):** `community.social-features.joining-needs-the-hosts-ip-address` (-) - no invite or game list, so friends type the host's IP and set up the connection like a server: 7716050 ("relies on that you know the server IP and there's no any kind of server browser"), 7853378 ("like setting up a server, static ip etc."), 8055070 ("isn't a simple setup"). `findphrase` for port forward, IP address, server IP, static ip and hamachi found only the remake's reviewers praising that this was gone (Risk of Rain Returns 149838009 and four more at `getting-your-friends-in-works`). This is the first direct evidence for the remake's "joining friends online now works" praise.
+
+The original's own reviewers, at launch, already praise what the remake's reviewers praised: the clock that raises the difficulty (12 bullets at `game-design.pacing.the-clock-is-the-thrill`), the music, the distinct characters, and being hard but fair. **7953822** (65 found it helpful) sets out the speed-against-thoroughness choice. **7662036** says it is not a roguelike, that Huntress outclasses the rest because she moves while attacking, and that unlocks gate the game's best (downloaded a complete save - `review.used-a-cheat-to-get-through-it`). **7662914**'s 2015 edit says the developers gave up, the latest version is buggier than the first and multiplayer is a mess (all the reviewer's words, not checked). 7853045 is a thumbs up with only complaints (`review.thumb-contradicts-text`). The composer's name in 7662914 is kept in the reviewer's spelling. A slur in 7719276 and a politician joke in 8059405 are recorded only as crude or as a joke. 3,054 reviews left.

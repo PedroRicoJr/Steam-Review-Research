@@ -12687,6 +12687,11 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 858, Risk of Rain Returns batch 21.** Built under Rule C. `findphrase` for stat cap, attack speed cap, capped and hard cap found the damage-cap mode and frame-rate and trait-point caps, none of them a cap on item stacking.
 
+## Modes added in Risk of Rain (2013) batch 1 - round 876 (Rule C)
+### `community.social-features`
+| `.joining-needs-the-hosts-ip-address` | **−** | There is no invite or game list: to play together, one player hosts like a server and the others type the host's IP address, often after opening ports on the router - and the reviewer finds it hard to set up. **The negative twin of `.getting-your-friends-in-works`; distinct from `.no-join-through-the-platform-friends-list`** (a room or code instead of the friends list, but no network setup) **and from `engineering.servers.my-router-blocks-play`** (the player's own router is the named blocker). Risk of Rain (2013) 7716050 (*"Multiplayer relies on that you know the server IP and there's no any kind of server browser"*), 7853378 (*"it is essentially like setting up a server, static ip etc."*). |
+🔑 **Round 876, Risk of Rain (2013) batch 1.** Built under Rule C. `findphrase` for port forward, IP address, server IP, static ip and hamachi found only the remake's reviewers praising the end of this (Risk of Rain Returns 149838009, *"No longer having to type an IP address to play"*, and four more at `getting-your-friends-in-works`), so this is its first sighting as a complaint.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
