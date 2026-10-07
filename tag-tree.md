@@ -12655,6 +12655,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 843, Risk of Rain Returns batch 6.** Built under Rule C. `findphrase` for item pool, blacklist, ban items and banning items found no earlier sighting: the matches are about mods that blacklist players and a wish for fewer new items.
 
+## Modes added in Risk of Rain Returns batch 7 - round 844 (Rule C)
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-original-was-better-than-the-remake` | **−** | The reviewer says the earlier game - as it was, or with a fan mod - is the better way to play than its remake. **The negative twin of `.the-remake-improves-on-the-original`; distinct from `.the-remake-changes-too-little`** (the remake is the same game, not a worse one). Risk of Rain Returns 150189256 (*"Decent but original was way better"*), 152611852 (the original with the Starstorm fan mod). |
+
+🔑 **Round 844, Risk of Rain Returns batch 7.** Built under Rule C. `findphrase` for original was better, original is better, worse than the original and stick with the original found no earlier sighting. **Re-homed 1:** 152611852 (round 838), which sends players to the original with the Starstorm fan mod, from `marketing.reputation.a-named-rival-does-it-better` - the original is not a rival but the game this one remakes.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
