@@ -12928,8 +12928,18 @@ Left as the reviewers' words, not checked: 152611852's claim that the studio was
 
 ## Notes - round 839 (Risk of Rain Returns batch 2)
 
-Second unit of the 01:44 firing. 50 reviews, 2023-11-09 to 2023-11-30. **4 thumbs down.** 74 bullets on 50 reviews, 1.48 per review (26 short reviews, 3 long, unknown share 32%); none excluded. Id list matched before the dry run. The unknown share is the jokes and puns on the title, a few unrelated remarks (one naming a news event, left out) and three empty or one-word reviews; no missed point was found on a re-read.
+Second unit of the 01:44 firing. 50 reviews, 2023-11-09 to 2023-11-30. **4 thumbs down.** 74 bullets on 50 reviews, 1.48 per review (26 short reviews, 3 long, unknown share 32%); none excluded. Id list matched before the dry run. The unknown share is the jokes and puns on the title, a few unrelated remarks (one naming a news event, left out) and three empty or one-word reviews; each was read in full while writing and none carried a point left out.
 
 **3 modes built** (tree 1,982 -> 1,985): `game-design.game-feel.controls.you-can-only-shoot-straight-ahead` (3 bullets: 152548522, 152530311 on flying enemies out of reach, 152545414 asking for independent aiming), `game-design.enemy-design.the-enemies-keep-pace-with-you` (152548522) and `game-design.modes.a-player-off-the-shared-screen-is-pulled-back` (152535252, local co-op). `findphrase` found no earlier sighting.
 
 The remake modes are already the game's main story: 18 bullets say the remake improves on the original, 5 that it stays true to it, 2 that it changes too little. The four thumbs down: **152548522** (items that do not combine as in Risk of Rain 2, fast enemies, huge barren stages, useless equipment, no aiming); **152537599** (edited 2025-08-31: an update made the Magma Worm boss come up far too often and it has stayed unfixed for over a year - reviewer's claim, not checked); **152535143** (only a small update to the original); **152533019** (crashes and disconnects with more than one friend; wants a way to reconnect). 1,433 reviews left.
+
+## Notes - round 840 (Risk of Rain Returns batch 3)
+
+Third unit of the 01:44 firing. 50 reviews, all dated 2023-11-09, the day after release. **3 thumbs down.** 91 bullets on 50 reviews, 1.82 per review (28 short reviews, 8 long, 4.9 bullets per long review, unknown share 30% - title puns, one-word reviews and jokes); none excluded. Id list matched before the dry run.
+
+**1 mode built** (tree 1,985 -> 1,986): `game-design.game-feel.combat.shooting-slows-you-down` (149839442: "your speed is halved when attack on most survivors so you can't run and gun"). `findphrase` found no earlier sighting. `you-can-only-shoot-straight-ahead` took three more (aim tied to the last direction moved, 149840148; trouble shooting the way they want, 149839060; "janky and restricting gunplay", 149838869) - 6 in all.
+
+After 150 reviews: 31 bullets say the remake improves on the original, 6 that it stays true, 5 that it changes too little. The three thumbs down: **149839599** (9 found it helpful: new art and music, but the play, navigation and difficulty are unchanged, and nothing they try matters); **149839324** ("no good"); **149838848** (platforming "like Getting Over It with dudes shooting at you").
+
+Checked: 149839016 calls "the addition of Claptrap" unnecessary. Claptrap is not named on the game's Steam store page or in any of its Steam news items (`store.steampowered.com/api/appdetails?appids=1337520` and `api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=1337520`, 2026-10-07), so it stays the reviewer's words. Left as the reviewer's words: 149838614's "RIP Hopoo" (edited 2024-09-03) and 149839054's 1,600 hours in the sequel. 1,383 reviews left.

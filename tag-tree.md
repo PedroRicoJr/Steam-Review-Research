@@ -12623,6 +12623,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 839, Risk of Rain Returns batch 2.** Built under Rule C. `findphrase` for can't aim, cannot aim, free aim, independent aim, off screen, off-screen, as fast as you and faster than you found no earlier sighting: the aim matches are about aim that exists but feels wrong; the off-screen matches are enemies attacking from outside the view; one "faster than you" (a slow character first of all) stays at `game-design.game-feel.movement.sluggish`.
 
+## Modes added in Risk of Rain Returns batch 3 - round 840 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.shooting-slows-you-down` | **−** | Firing cuts the character's speed, so the player cannot run and shoot at full pace and must choose between moving and dealing damage. **Distinct from `.cannot-shoot-while-sprinting`** (no firing at all during a sprint). Risk of Rain Returns 149839442 (*"your speed is halved when attack on most survivors so you can't run and gun"*). |
+
+🔑 **Round 840, Risk of Rain Returns batch 3.** Built under Rule C. `findphrase` for while shooting, while firing, when firing, run and gun and slows you down found no earlier sighting: the matches praise moving while shooting or call a game "run and gun".
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
