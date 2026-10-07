@@ -41,6 +41,7 @@ The batch helpers live in `scripts/`. Each one states its size bound at the top.
 | `scripts/steam_counts.py` | Steam's own name, type, date and review counts for appids (or every appid in `planning/`). |
 | `scripts/findings_tables.py` | `python scripts/findings_tables.py <group> --periods <a:b=name,...> --only-in-this-game` - the unweighted tables for a findings page: header counts, divisions, top 20, complaints and praise per 100 by period, and the modes used in no other game. |
 | `scripts/quality_by_length.py` | `python scripts/quality_by_length.py <game> ...` - notes per review and unknown share by review length; the batch-rate quality check (round 748). |
+| `scripts/pace_qc.py` | `python scripts/pace_qc.py <group> --sizes 50x30,33 --base 1:12 --test 13:31` - the pace test (Rico, 2026-10-07): length-adjusted notes per review and plain-only share between two sets of batches, with p-values; `--audit 40 --out DIR` draws a blind audit sample, `--score DIR` scores it. |
 
 A data script outside the repo imports them with:
 
