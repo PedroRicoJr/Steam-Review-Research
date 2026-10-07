@@ -12775,6 +12775,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1033, Mass Effect: Andromeda batch 4.** Built under Rule C on the first sighting, 86649798 ("The cover mechanic is fluid and feels waay better than the previous games"). The pair to round 1031's mode, so both readings of the same mechanic can be counted.
 
+## Modes added in Mass Effect: Andromeda batch 6 - round 1035 (Rule C)
+
+### `engineering.servers`
+| Mode | | Definition |
+|---|---|---|
+| `.every-menu-action-waits-on-the-server` | **−** | Simple actions outside play - equipping a weapon mod, changing gear in a menu - each wait on a round trip to the server, so the menus stall where the reviewer expects them to act at once and sync in the background. **Distinct from `engineering.performance.the-menus-lag`** (the menus are slow on the player's own machine; here they wait on the network) and from `.high-latency` (lag in play, not in the menus). |
+
+🔑 **Round 1035, Mass Effect: Andromeda batch 6.** Built under Rule C on the first sighting, 95276834 ("\"Communicating with server\" on every action like equipping a weapon mod instead of doing it clientside and syncing with peers/server in the background like ME3 did"). `findphrase` for "communicating with" and "server round" found no earlier sighting.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

@@ -14301,3 +14301,13 @@ Thirteenth unit of the 21:44 firing (twenty a firing; test set of the third pace
 **No modes built.** The multiplayer gets its first real notes: 2 say it is fun or decent (88506756; 88495418, "Multiplayer APEX missions are decent enough"), 1 calls it weak (90321853), and 88495418 says its microtransactions give new players a poor "reward vs. time spent playing ratio". Five notes say the game was fixed by patches (`fixed-what-mattered`), against 10 `falls-short-of-the-studios-earlier-games`. 88960362 is the batch's longest review (71 hours): no Paragon or Renegade and black-and-white arguments, a crew of copies of trilogy characters, only about four outfits, and the game would not start if Origin was already open (reviewer's account). 91166401 says it refused to load and Origin reported it as not installed, for "quite a few others" too. 91530617 came through EA's subscription.
 
 **Next:** Mass Effect: Andromeda batch 6 (50 reviews).
+
+## Notes - round 1035 (Mass Effect: Andromeda batch 6)
+
+Fourteenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2021-05-15 to 2021-07-07 (the Legendary Edition month); 12 thumbs down; 161 bullets; none excluded; 0 Early Access; one review in Polish with the reviewer's own English version (94745289).
+
+**One mode built (Rule C):** `engineering.servers.every-menu-action-waits-on-the-server` (−), on 95276834 ("\"Communicating with server\" on every action like equipping a weapon mod instead of doing it clientside and syncing with peers/server in the background like ME3 did"). `findphrase` for "communicating with" and "server round" found no earlier sighting. Tree 2,005 -> 2,006.
+
+**The multiplayer, from the people who played it:** 3 single it out (92479779, a Warframe fan who likes it "much more"; 92953501, "really fun and still active enough to squad matches"; 94746580, who first bought the game only for it) and 3 say it still has players in 2021 (92953501, 93781834, 94745289). Against that, 92479779 says it is "almost dead" for want of maps, enemies and objectives, and 95276834 - who bought it only for the multiplayer - lists peer-to-peer hosting that lags friends far apart, worse netcode than Mass Effect 3 ("enemies that are supposed to be dead constantly stick around at zero health"; players "teleported back"), no hard cover to reset position on the host, and the menu waiting on the server. All reviewers' accounts. 92946656 could not reach the online features at all and found EA support no help. 93781834 says the team was moved to another game and the game got no patch or DLC in four years (reviewer's claim). 93356418 lost all progress when Origin's cloud save overwrote the save.
+
+**Next:** Mass Effect: Andromeda batch 7 (50 reviews).
