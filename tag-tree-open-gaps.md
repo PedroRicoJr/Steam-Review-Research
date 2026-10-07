@@ -14275,3 +14275,11 @@ Tenth unit of the 21:44 firing (twenty a firing; test set of the third pace test
 **What the batch says:** the comparison with the trilogy runs through it (11 `falls-short-of-the-studios-earlier-games`, 5 `lives-up-to-the-studios-earlier-games`), and 5 want a sequel. Two say the world does not react to what the player did (75619523, 78490554, `what-you-do-never-changes-the-world`). Three say the launch bugs were patched (`fixed-what-mattered`). 75607607 shares a fix for silent cutscenes (switch the language in Origin to pull a 1.1 GB patch, then switch back - reviewer's account). 77155987 says an overclocked CPU crashes it and owns it on Origin with about 1,000 multiplayer hours (reviewer's figure). One crude remark on the cast's politics and one on the studio's are recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 3 (50 reviews).
+
+## Notes - round 1032 (Mass Effect: Andromeda batch 3)
+
+Eleventh unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2020-11-06 to 2020-12-31; 12 thumbs down; 154 bullets; none excluded; 0 Early Access; one review in Russian (78870828) and one in German (82461249), each summarised in English and marked.
+
+**No modes built.** The new `your-choices-change-nothing` (round 1030) had 3 more notes: 78870828 (in Russian: few real choices, mostly a tone), 82402295 ("Loyalty missions do not impact the overall ending of the game"; "no renegade or paragon"); against 3 notes that choices matter (`your-choices-change-the-story`: 79685318, 81263507, 82417594). Two reviews say the ship's AI talks over the story and cannot be turned off (82417594, 82999734, `grating-or-repetitive`). 82999734 says the game rebooted the PC 4 times and that moving physics off the GPU helped (reviewer's account). 81753546 says the project got the studio shut down - reviewer's claim, not checked. Three crude remarks on politics are recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 4 (50 reviews).
