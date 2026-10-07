@@ -1986,3 +1986,4 @@ game-design.modes.a-player-off-the-shared-screen-is-pulled-back | - | In local c
 game-design.game-feel.combat.shooting-slows-you-down | - | Firing cuts the character's speed, so the player cannot run and shoot at full pace and must choose between mov
 game-design.co-op-design.a-dead-player-keeps-playing | + | A player who dies in co-op is not left watching: they come back in a smaller role (a drone, a ghost, a helper)
 game-design.modes.the-original-rules-are-an-option | + | A remake or reworked game keeps the older rules as a setting, so players can choose the original way to play o
+game-design.randomness.cannot-take-unwanted-items-out-of-the-pool | - | The player wants a way to remove items they never want from the random drop pool - a ban list, a limited numbe

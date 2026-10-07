@@ -12646,6 +12646,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 841, Risk of Rain Returns batch 4.** Built under Rule C. `findphrase` for after you die, while dead, when you die, classic mode, classic style, old version and original version found no earlier sighting: the death matches are about restarts, replays and lost currency.
 
+## Modes added in Risk of Rain Returns batch 6 - round 843 (Rule C)
+
+### `game-design.randomness`
+| Mode | | Definition |
+|---|---|---|
+| `.cannot-take-unwanted-items-out-of-the-pool` | **−** | The player wants a way to remove items they never want from the random drop pool - a ban list, a limited number of exclusions - because a useless item keeps crowding out the ones that matter. **Distinct from `.the-thing-you-need-may-never-roll`** (the wanted item is missing) - here the unwanted one keeps coming. Risk of Rain Returns 150031848 (*"Please let us ban some items from dropping"*). |
+
+🔑 **Round 843, Risk of Rain Returns batch 6.** Built under Rule C. `findphrase` for item pool, blacklist, ban items and banning items found no earlier sighting: the matches are about mods that blacklist players and a wish for fewer new items.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
