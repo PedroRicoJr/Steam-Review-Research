@@ -3265,3 +3265,101 @@ of support.
   `scripts/steam_counts.py 1623730`); none pulled.
 
 ⚠️ **The corpus is now 37 games and 43,571 English summaries (44,333 in all languages).**
+
+## 34. ⭐ What the twenty-eighth large game adds - Mass Effect 3 (2012), added 2026-10-07
+
+**A third-person sci-fi shooter RPG with a separate online co-op wave mode for up to four: BioWare,
+published by Electronic Arts; the 2012 game, on Steam since 2020-06-11; $29.99; needs EA's launcher (Steam
+store; reviewers).** 1,057 of 1,757 English reviews, a 60.2% sample at ±2.65%, across 77 months (2020-06
+to 2026-10); 75.5% up; 1,598 bullets, 1.51 per review; 180 distinct tags, **1 used by no other game, built
+in round 1001** (`owned-elsewhere-must-be-bought-again`). Full read in `mass-effect-3-english.md`, ranked
+lists in `mass-effect-3.md`, plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-33** (every bullet whose mode is + or -, `review.*` included; one
+Python pass over `raw/*/english/summaries/*/[0-9]*.md` on 2026-10-07, skipping excluded reviews; it gives
+the same figures as `scripts/findings_tables.py` for Mass Effect 3 (82.2 and 62.3); round 1027 note):
+
+| | Helldivers 2 | Space Marine 2 | ELDEN RING NIGHTREIGN | Remnant II | ARC Raiders | **Mass Effect 3 (2012)** | LORT | Aliens: Fireteam Elite |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 83.3% | 87.6% | 87.8% | 83.6% | 79.7% | **75.5%** | 80.7% | 81.3% |
+| Bullets per review | 1.79 | 1.99 | 1.88 | 2.30 | 1.56 | **1.51** | 2.05 | 2.94 |
+| Praise per 100 | 108.0 | 116.1 | 105.3 | 121.6 | 86.8 | **82.2** | 102.5 | 124.6 |
+| Complaint per 100 | 55.5 | 61.9 | 64.0 | 77.5 | 56.7 | **62.3** | 81.7 | 141.8 |
+| Praise to complaint | 1.95 : 1 | 1.87 : 1 | 1.65 : 1 | 1.57 : 1 | 1.53 : 1 | **1.32 : 1** | 1.25 : 1 | 0.88 : 1 |
+
+**Nineteenth of 28 groups with 300 or more kept reviews by praise to complaint**, between ARC Raiders
+(1.53 : 1) and LORT (1.25 : 1).
+
+### 🔑 The finding: the co-op mode is loved more than any in the corpus, and the launcher is hated more than any
+
+Reviews carrying each mode, per 100 kept reviews, and Mass Effect 3's rank among the 28 large groups (the
+same Python pass, round 1027 note):
+
+| | **Mass Effect 3** | Rank of 28 | Highest elsewhere |
+|---|---|---|---|
+| A mode stands out (the co-op multiplayer) | **12.0** (127) | 1st | ELDEN RING NIGHTREIGN 0.2 |
+| The population is healthy | **6.6** (70) | 1st | LORT 0.8 |
+| Will not start at all | **6.8** (72) | 1st | The First Descendant 0.8 |
+| Locked out of my own account | **4.0** (42) | 1st | Warframe 0.3 |
+| Unwanted third-party software (the launcher) | **4.5** (48) | 1st | Terminull Brigade 1.1 |
+| Support is unhelpful | **1.2** (13) | 1st | Terminull Brigade 0.1 |
+| Players teach each other the fix | **3.0** (32) | 1st | Redfall 0.8 |
+| The controller does not work | **2.1** (22) | 1st | Risk of Rain (2013) 0.5 |
+| One button does too many things | **1.4** (15) | 1st | Escape from Duckov 0.1 |
+| The ending lets it down | **7.4** (78) | 1st | Remnant II 1.0 |
+| The ending lands | **4.2** (44) | 1st | Earth Defense Force 5 0.2 |
+| Your choices change the story | **3.6** (38) | 1st | Remnant II 0.6 |
+| What you buy is a random draw | **1.1** (12) | 2nd | Terminull Brigade 3.9 |
+
+**Caution:** Mass Effect 3 is a story-led game with a separate co-op mode, so its lead on the story
+modes and on `a-mode-stands-out` says as much about the kind of game as about how loved the mode is
+(Space Marine 2 also pairs a campaign with co-op missions, at 0.1 or less on `a-mode-stands-out`). The launcher and licence rows do not
+have that excuse: other games needed accounts and launchers too.
+
+Mass Effect 3 shows two things at once. Its co-op wave mode - four players, distinct alien classes, ten
+waves and an extraction, by reviewers' account - grew in reviews every year until it became the main
+reason to buy, and in 2026 reviewers report full lobbies in seconds. And its access is the worst in the
+corpus: first of 28 on will not start, on locked out of the owner's account, on the launcher, on
+unhelpful support, and on players having to teach each other fixes. Of 259 thumbs down, 66 say it will
+not start and only 14 blame the famous ending.
+
+### In plain words
+
+A small co-op mode attached to a story game kept a community for fourteen years because its characters
+feel truly different and a match is quick to start. The game around it lost players not over its story
+but over EA's launcher and licence checks, which reviewers say stopped owners from playing what they had
+bought.
+
+### For Dominion — what changes
+
+- **Confirms lesson 1 ("Make the game best with friends, and make that easy") - with a model:** a
+  four-player PvE wave mode with distinct characters, quick matchmaking and an extraction at the end (the
+  reviewers' description) outlived its game. Dominion's co-op is the same shape.
+- **Confirms lesson 5 ("Never lock the game behind an online check the studio might not be around to
+  answer"):** the strongest case yet - first of 28 on will not start (6.8 per 100) and on locked out
+  (4.0), with a 2023 launcher change that sank the thumb to 46% for that half-year.
+- **Adds: bank rewards as they are earned.** Credits earned in a match can vanish if a teammate leaves
+  or you back out too fast; crashes right before extraction lose the match (221030047, 211308820).
+- **Adds: a listen server's quality depends on the host's distance.** Lag and rubber-banding "vary
+  depending on your distance from the host" (221030047); one reviewer says the mode is peer to peer.
+- **Adds: one job per key, and controller support on PC.** First of 28 on one button doing too many
+  things (1.4) and on controllers not working (2.1).
+- **Touches lesson 8 ("Do not stack chance on chance with money as the way out")** on a small count:
+  unlocks come only from loot boxes (12 notes); real money is no longer accepted, by reviewers' account,
+  and players still cheat past a "~500 hours" grind.
+
+### Other ways it stands out in the corpus
+
+- **The co-op mode singled out** 12.0 per 100, 1st (next 0.2).
+- **Will not start** 6.8, 1st; **locked out** 4.0, 1st.
+- **The ending, both ways:** lets it down 7.4 and lands 4.2, both 1st.
+
+### What this game does NOT settle
+
+- **Runs and roguelite progression.** The co-op mode is wave survival with unlocks; no runs that change.
+- **Third-person shooting in a co-op-first game.** The shooting is judged mostly in the campaign.
+- **The mode's own numbers.** Waves, credits, hours and hosting are the reviewers' account.
+- **The non-English audience.** 1,050 reviews in other languages (2,807 in all, 1,757 English,
+  `scripts/steam_counts.py 1238020`); none pulled.
+
+⚠️ **The corpus is now 38 games and 44,628 English summaries (45,390 in all languages).**

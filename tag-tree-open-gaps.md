@@ -14232,3 +14232,9 @@ Fourth unit of the 21:44 firing (twenty a firing). `findings/mass-effect-3-engli
 Fifth unit of the 21:44 firing (twenty a firing). `findings/mass-effect-3.md` written from `templates/findings-master-page.md`, from the same `findings_tables.py` run as round 1025; the plain-words column was checked against the bullets behind the lower-ranked modes (e.g. `requires-internet` is the EA app needing a connection, `earlier-choices-do-not-carry-over` includes the missing second-game DLC on Steam).
 
 **Next:** cross-game section 34, from `templates/cross-game-section.md`.
+
+## Notes - round 1027 (cross-game section 34: Mass Effect 3 (2012))
+
+Sixth unit of the 21:44 firing (twenty a firing). Section 34 appended to `findings/cross-game.md` from `templates/cross-game-section.md`. The comparison table, the rank (19th of 28 by praise to complaint) and the mode table come from the same Python pass as round 998, over 28 groups with 300+ kept reviews; it reproduces `findings_tables.py` for Mass Effect 3 (82.2 and 62.3 per 100). Mass Effect 3 is 1st of 28 on the co-op mode singled out (12.0 per 100; next 0.2), a healthy population, will not start, locked out of the owner's account, the launcher, unhelpful support, players teaching fixes, no controller, one button for too much, both ending modes and choices changing the story; 2nd on loot boxes. Corpus: 38 games, 44,628 English summary files, 45,390 in all languages; non-English Mass Effect 3 reviews 2,807 - 1,757 = 1,050. **Reworded before commit:** "the first story-led game in the corpus with a separate co-op mode" (Space Marine 2 also pairs a campaign with co-op missions; it scores 0.0 on the co-op-mode row, checked) and "confirms lesson 8" (that lesson is about money as the way out of chance; real money is gone here by reviewers' account, so it only touches it).
+
+**Next:** the Mass Effect 3 (2012) entry in `DOMINION-TAKEAWAYS.md`.
