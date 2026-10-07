@@ -12678,6 +12678,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 845, Risk of Rain Returns batch 8.** Built under Rule C. `findphrase` for printer, scrapper, insult, taunt, when you lose and every time you die found no earlier sighting of either: the matches are an item someone liked, insults between players, and enemy taunts. Clearly telegraphed attacks already go to `game-design.readability.reads-at-a-glance` and were filed there.
 
+## Modes added in Risk of Rain Returns batch 21 - round 858 (Rule C)
+
+### `game-design.power-balance`
+| Mode | | Definition |
+|---|---|---|
+| `.stat-caps-stop-the-build-growing` | **−** | Stacking items stops paying off past a cap on a stat - attack speed, health, critical chance - so the run cannot grow into the overpowered build the player expects from the genre. **Distinct from `.a-damage-cap-stops-you-killing-first`** (a cap on damage dealt, so enemies are never killed before they hit). Risk of Rain Returns 173110423 (*"there's stat caps that prevent you from attacking faster, having higher health"*). |
+
+🔑 **Round 858, Risk of Rain Returns batch 21.** Built under Rule C. `findphrase` for stat cap, attack speed cap, capped and hard cap found the damage-cap mode and frame-rate and trait-point caps, none of them a cap on item stacking.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

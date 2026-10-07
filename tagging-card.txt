@@ -1990,3 +1990,4 @@ game-design.randomness.cannot-take-unwanted-items-out-of-the-pool | - | The play
 marketing.positioning.the-original-was-better-than-the-remake | - | The reviewer says the earlier game - as it was, or with a fan mod - is the better way to play than its remake.
 marketing.positioning.leaves-out-what-the-sequel-added | - | A remake or earlier-set game lacks systems players know from the series' later game, and the reviewer misses t
 narrative.tone.the-game-mocks-you-when-you-lose | - | The game greets each loss with a put-down line, and the reviewer takes it as the developers insulting their ow
+game-design.power-balance.stat-caps-stop-the-build-growing | - | Stacking items stops paying off past a cap on a stat - attack speed, health, critical chance - so the run cann
