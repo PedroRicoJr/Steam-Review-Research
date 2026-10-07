@@ -2002,3 +2002,4 @@ game-design.co-op-design.reviving-takes-too-long-to-survive | - | Reviving a dow
 publishing.dlc-and-editions.owned-elsewhere-must-be-bought-again | - | The player already owns the game or its add-ons on another store or launcher, and buying it here gives no cred
 narrative.story.your-choices-change-nothing | - | The reviewer says the decisions the game offers - dialogue answers, sides taken, how a quest is settled - make
 game-design.game-feel.combat.the-cover-system-lets-you-down | - | In a shooter built around taking cover, the reviewer says the cover itself fails them - it does not take hold 
+game-design.game-feel.combat.the-cover-system-works-well | + | In a shooter built around taking cover, the reviewer praises the cover itself - it takes hold smoothly and whe

@@ -14283,3 +14283,13 @@ Eleventh unit of the 21:44 firing (twenty a firing; test set of the third pace t
 **No modes built.** The new `your-choices-change-nothing` (round 1030) had 3 more notes: 78870828 (in Russian: few real choices, mostly a tone), 82402295 ("Loyalty missions do not impact the overall ending of the game"; "no renegade or paragon"); against 3 notes that choices matter (`your-choices-change-the-story`: 79685318, 81263507, 82417594). Two reviews say the ship's AI talks over the story and cannot be turned off (82417594, 82999734, `grating-or-repetitive`). 82999734 says the game rebooted the PC 4 times and that moving physics off the GPU helped (reviewer's account). 81753546 says the project got the studio shut down - reviewer's claim, not checked. Three crude remarks on politics are recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 4 (50 reviews).
+
+## Notes - round 1033 (Mass Effect: Andromeda batch 4)
+
+Twelfth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2021-01-07 to 2021-02-28; 11 thumbs down; 120 bullets; none excluded; 0 Early Access. The first dry run was refused: 86156915 had been skipped (LOST); it was summarised and the batch rerun clean.
+
+**One mode built (Rule C):** `game-design.game-feel.combat.the-cover-system-works-well` (+), the pair to round 1031's `.the-cover-system-lets-you-down`, on 86649798 ("The cover mechanic is fluid and feels waay better than the previous games"). Tree 2,004 -> 2,005.
+
+**What the batch says:** "judged unfairly" is again the most common thumbs-up note (9), and faces again the most common fault (8). Two say Origin itself crashes the game or makes it hard to open (85723442, 86162008); 86149632 got "Missing Online Access" and could not play. 84753581 says squadmates can no longer be ordered to use abilities as in the older games (`cannot-command-your-bots`). 84225661: "there's only one ending" (filed with `your-choices-change-nothing`). 85197121 came through EA's subscription. 87173397 refunded it even at £8.24.
+
+**Next:** Mass Effect: Andromeda batch 5 (50 reviews).

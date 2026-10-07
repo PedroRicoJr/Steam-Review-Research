@@ -12766,6 +12766,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1031, Mass Effect: Andromeda batch 2.** Built under Rule C on the first sighting, 76798402 ("the cover system in a cover based shooter has been gutted and you can't read the developer's minds"; "you have to learn how to work around the awkward cover system"). `findphrase` for "cover system" found five earlier notes, none about the mechanic failing.
 
+## Modes added in Mass Effect: Andromeda batch 4 - round 1033 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.the-cover-system-works-well` | **+** | In a shooter built around taking cover, the reviewer praises the cover itself - it takes hold smoothly and where they expect, and keeps the fight moving. **Opposite of `.the-cover-system-lets-you-down`** (round 1031). Distinct from `.impactful` (how hits feel, not how cover works). |
+
+🔑 **Round 1033, Mass Effect: Andromeda batch 4.** Built under Rule C on the first sighting, 86649798 ("The cover mechanic is fluid and feels waay better than the previous games"). The pair to round 1031's mode, so both readings of the same mechanic can be counted.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
