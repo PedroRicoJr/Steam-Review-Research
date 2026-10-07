@@ -2705,3 +2705,107 @@ below is our reading of what players said, not something the reviews said.
 - **The non-English audience.** About 251,000 reviews in other languages; none pulled.
 
 ⚠️ **The corpus is now 32 games and 33,228 English summaries (33,990 in all languages).**
+
+## 29. ⭐ What the twenty-third large game adds - Alien Swarm, added 2026-10-07
+
+**A free four-player co-op top-down sci-fi shooter by Valve: a squad of marines in four classes clears
+alien-infested colony levels in one seven-mission campaign; released 2010-07-19; "complete code base
+available for free" (Steam store data).** 3,607 of 10,323 English reviews, a 34.9% sample at ±2.04%,
+across 193 months (2010-10 to 2026-10) - the longest span in the corpus, read at a floor of 20 a
+month; 93.6% up; 5,779 bullets, 1.60 per review; 300 distinct tags, **25 used by no other game; 25
+modes built in the 16 Alien Swarm blocks (rounds 764-820)**. Full read in `alien-swarm-english.md`,
+ranked lists in `alien-swarm.md`, plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-28** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included; every column re-run on 2026-10-07):
+
+| | Deep Rock Galactic | R.E.P.O. | EARTH DEFENSE FORCE 5 | **Alien Swarm** | Helldivers 2 | Aliens: Fireteam Elite | Back 4 Blood | The Anacrusis |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 96.6% | 95.7% | **93.6%** | 83.3% | 81.3% | 69.2% | 57.4% |
+| Bullets per review | 2.12 | 1.45 | 1.89 | **1.60** | 1.79 | 2.94 | 2.63 | 3.97 |
+| Praise per 100 | 175.9 | 120.3 | 140.2 | **102.4** | 108.0 | 124.6 | 118.0 | 129.3 |
+| Complaint per 100 | 23.7 | 18.6 | 38.9 | **31.1** | 55.5 | 141.8 | 137.2 | 224.2 |
+| Praise to complaint | 7.4 : 1 | 6.5 : 1 | 3.6 : 1 | **3.3 : 1** | 1.95 : 1 | 0.88 : 1 | 0.86 : 1 | 0.58 : 1 |
+
+**Ninth of 23 groups with 300 or more kept reviews by praise to complaint**, just behind Escape from
+Duckov (3.3 : 1) and ahead of Warframe (2.5 : 1); fifth lowest complaint rate (31.1) but fourth lowest
+praise rate (102.4) - short reviews, many written for a reward in another game, say little either way.
+
+### 🔑 The finding: a squad game that stopped growing - the content complaint turns into an empty-server complaint
+
+Reviews carrying each mode, per 100 kept reviews, over the 23 English groups of 300 or more (a Python
+pass over `raw/*/english/summaries/*/[0-9]*.md`, round 835 note):
+
+| | **Alien Swarm** | Highest elsewhere | Rank |
+|---|---|---|---|
+| Rewards teamwork | **3.8** | Aliens: Fireteam Elite 1.9 | **1st of 23** |
+| A fair or free price | **11.6** | Warframe 6.1 | **1st of 23** |
+| Small groups have it hard | **0.6** | R.E.P.O. 0.2 | **1st of 23** |
+| Cannot be played alone | **1.0** | The Anacrusis 0.7 | **1st of 23** |
+| Childhood nostalgia | **1.4** | EARTH DEFENSE FORCE 5 0.1 | **1st of 23** |
+| Still holds up years later | **1.3** | Aliens: Fireteam Elite 0.1 | **1st of 23** |
+| A named rival does it better | **2.7** | The First Descendant 7.0 | 2nd of 23 |
+| Updates stopped | **2.4** | Back 4 Blood 4.7 | 2nd of 23 |
+| Installed for a reward in another game | **8.4** | Terminull Brigade 12.1 | 2nd of 23 |
+| Dead game | **3.8** | The Anacrusis 7.4, Aliens: Fireteam Elite 4.9 | 3rd of 23 |
+| Too little content | **5.3** | Aliens: Fireteam Elite 12.4 | 4th of 23 |
+| Works alone | **0.8** | Deep Rock Galactic 3.7 | 16th of 23 |
+
+It is the team game players praise most for teamwork - and the one they most often say cannot be
+played alone or with a small group. Read over sixteen years (`findings_tables.py --periods`, the five
+periods in `alien-swarm-english.md`), its complaints move: "too little content" falls from 9.2 per 100
+reviews (2012-17) to 2.1 (after February 2024) while "dead game" rises from 1.8 (2010-11) to 5.7, and a
+named rival - almost always the free fan continuation, Reactive Drop (released 2017-04-20) - goes from
+0.0 to 4.9 per 100 once it exists. Steam's news feed shows two small updates in sixteen years
+(2012-07-12, 2020-08-18).
+
+### In plain words
+
+Alien Swarm is a free game from 2010 where four friends play space marines fighting swarms of aliens
+from above. Players praise its teamwork more than in any other game we read, and many remember it
+from childhood. But it shipped one short campaign and was barely updated, so over the years "there is
+too little to play" turned into "there is nobody left to play with". With no proper way to play alone or
+in twos, an empty server ends the game - and fans moved to a free fan-made version that kept growing.
+Many players also came only to unlock a hat in another game and left.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line
+below is our reading of what players said, not something the reviews said.
+
+- **Confirms lesson 4 ("Plan for the day the player count falls") with the longest record in the
+  corpus.** Evidence: dead game 3.8 per 100 (3rd of 23), rising every period to 5.7; small groups
+  struggle 0.6 (1st); cannot be played alone 1.0 (1st); works alone 0.8 (16th). Our reading: bots and
+  scaling for one to three players are what keep a four-player game playable when the crowd thins.
+- **Confirms lesson 10 ("Expect 'not enough content' to be the fans' main complaint") and adds what
+  follows it:** with no new content, the complaint does not stay - it becomes "nobody plays".
+- **Confirms lesson 16 ("Expect to be compared") from the other side:** the rival that beat it was its
+  own fan continuation, which reviewers say added campaigns, Workshop support and solo bots (reviewers'
+  account, not checked).
+- **Confirms lesson 19 ("Let players make their own stories")** - friendly fire makes stories 1.0 per 100
+  (3rd of 23) - and **lesson 33 ("Read reviews over the years")**: its praise per review fell by two
+  thirds (111.3 to 39.5 per 100) while the thumb stayed above 90%.
+- **Adds: a reward in another game fills the store page with players who leave.** Evidence: 8.4 per 100
+  installed for a Team Fortress 2 item (2nd of 23); thumbs-down reviews show a median of 1 hour played.
+- **Adds: player-made content needs an easy way to share.** Evidence: mods extend it 2.1 per 100 (3rd of
+  23) but no Workshop support 0.6 (2nd), and installing community maps is "a hassle" (8, a mode used in
+  no other game).
+
+### Other ways it stands out in the corpus
+
+- **Teamwork** 3.8 per 100, twice the next game; **a fair or free price** 11.6, almost twice the next.
+- **Childhood nostalgia** 1.4 and **still holds up** 1.3 - both more than ten times any other game.
+- **One class required to progress** (9 bullets, the tech who opens doors) and **reloading that wastes
+  the rest of the magazine** (5) - modes used in no other game.
+- **Friendly fire as only a cost** 0.4 per 100, 2nd of 23 after Deep Rock Galactic: Rogue Core (0.6).
+
+### What this game does NOT settle
+
+- **Third person.** It is top-down; 7 want another view and 8 say a first-person view can be reached.
+- **Runs and extraction.** It has one fixed campaign, no runs and no extraction.
+- **Monetisation.** It is free with nothing to sell; 14 note there is no shop.
+- **Hosting.** Reviewers speak of player-hosted lag and of dedicated servers (5 each); not checked.
+- **The non-English audience.** About 11,300 reviews in other languages (21,639 in all, 10,324
+  English, `scripts/steam_counts.py 630`); none pulled.
+
+⚠️ **The corpus is now 33 games and 36,835 English summaries (37,597 in all languages).**
