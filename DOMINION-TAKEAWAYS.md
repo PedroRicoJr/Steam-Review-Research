@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Risk of Rain Returns | 2026-10-07 | 93.9% |
 | Alien Swarm | 2026-10-07 | 93.6% |
 | R.E.P.O. | 2026-10-06 | 96.6% |
 | ELDEN RING NIGHTREIGN | 2026-10-05 | 87.8% |
@@ -135,6 +136,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | Crab Champions | third-person runs, solo or co-op | 97.5% | 123.2 | 18.7 | 6.6 : 1 | 1.52 | section 25 |
 | Risk of Rain 2 | third-person runs, co-op | 95.6% | 104.9 | 18.0 | 5.8 : 1 | 1.43 | section 25 |
 | Gunfire Reborn | co-op runs, first person, seasons | 93.9% | 130.0 | 33.1 | 3.9 : 1 | 1.78 | section 25 |
+| Risk of Rain Returns | 2D remake, co-op runs, up to four | 93.9% | 122.6 | 32.8 | 3.7 : 1 | 1.67 | section 30 |
 | Earth Defense Force 5 | third-person co-op missions, hosted by one player | 95.7% | 140.2 | 38.9 | 3.6 : 1 | 1.89 | section 25 |
 | R.E.P.O. | co-op PvE extraction, horror, first person, up to six | 96.6% | 120.3 | 18.6 | 6.5 : 1 | 1.45 | section 28 |
 | Roboquest | co-op runs, first person | 96.4% | 173.6 | 40.8 | 4.3 : 1 | 2.37 | section 26 |
@@ -1120,6 +1122,273 @@ reviews said.
 ---
 
 # The games
+
+## Risk of Rain Returns
+
+**Read:** 1,533 of 19,399 English reviews (7.9%; none left out), ±2.77%, written November 2023 to
+October 2026. The launch month alone holds three quarters of all English reviews (14,629) and was read
+at 1 in 19; later months were read at about 20 each. **93.9% thumbs up** in the sample (Steam, all
+languages: 90%, Very Positive).
+**Pages:** `findings/risk-of-rain-returns-english.md`, `findings/risk-of-rain-returns.md`,
+`findings/cross-game.md` section 30.
+
+**What it is:** A 2D side-on sci-fi roguelike for one to four players, online or on one shared screen.
+You land on an alien planet, pick up items that stack into stronger and stronger builds, find each
+stage's teleporter to move on while the enemies get harder over time, and try to escape; then you die
+and start again. 15 characters ("Survivors"), unlocks earned through a challenge mode called the
+Providence Trials or through normal play, and optional rule changers ("Artifacts"). It is Hopoo Games'
+own remake of its first game, *Risk of Rain* (2013), made after the 3D sequel *Risk of Rain 2*; published
+by Gearbox Publishing and 2K; released 8 November 2023; $14.99, bought once, with only a soundtrack sold
+on the side. Gearbox bought the series from Hopoo in late 2022; Hopoo stayed the developer of this game.
+Patches came on 10 and 17 November and 12 December 2023 and 11 January 2024, then nothing for 19 months
+until patch 1.1.0 on 29 August 2025. Who hosts online games was not checked; one reviewer relays that the
+run ends when the host leaves. (Store facts, the sale of the series and the patch dates and contents
+checked against Steam.)
+
+**How close to Dominion:** Close in its loop, not in its camera. It shares four-player sci-fi co-op
+against the game's own monsters, runs that build power and end, characters that each play differently,
+and a finish that is an escape from the planet. It differs in being 2D and side-on (you cannot aim
+freely), in having no extraction with loot kept, and in being a remake judged against an older game.
+It is also the only game we have read beside its own sequel, which makes it a clean test of what the
+sequel's 3D movement and power fantasy are worth.
+
+### The short version (plain words)
+Players judge it as a remake, and nearly all of them like it: 265 times reviewers say it is the better
+way to play the 2013 game, and only 26 times that it changed too little or is worse. Next they love it
+for being hard (110 times), for its looks (92) and its music (81). The top complaints are the unlock
+challenges (42 call them a chore, though 36 call them fun) and aiming (35 say you can only shoot left or
+right). Its rating fell only once - to 74% thumbs up in April to August 2025 - and that was over a
+change to the owners' user agreement, not the game. Beside its own 3D sequel, players are pulled back
+to it about a third as often and say it makes them feel powerful a sixth as often.
+
+### What players praised, most to least
+1. **The better way to play the old game** - 265 times: "this is the gold standard what a
+   remaster/rework should do ... its the old game polished, optimized and enhanced" (172134848, 154
+   found it helpful).
+2. **Hard, and that is the fun** - 110 times: "Harder than Risk of Rain 2, hate it. Makes the good runs
+   that much more fun though" (150029179). Per review this is the second most of the 24 large games we read.
+3. **Looks great** - 92 times, the most per review of the 24 large games we read - for pixel art.
+4. **The music** - 81 times; it "still carries the whole game, and in higher quality too!" (152611852).
+5. **Keeps pulling them back** - 50 times.
+6. **Stays true to the original** - 46 times.
+7. **Better than Risk of Rain 2** - 43 times; a 42-vote review prefers it because in the sequel a friend
+   takes every chest (225615450).
+8. **Each character plays in its own way** - 41 times.
+9. **The Providence Trials are fun** - 36 times: "I was skeptical about the Providence trials but they
+   were actually pretty nice-- they cared" (166385728).
+10. **Much better with friends** - 34; **joining friends online now works** - 28 (the 2013 game needed an
+    outside program like Hamachi, 150033540); **brings back memories** - 26; **fair price** - 24;
+    **deep, varied builds** - 21; **unlocking things feels good** - 19; **responsive controls** - 16;
+    **plenty of settings** - 14; **the old rules can be switched back on** - 13; **secrets reward
+    exploring**, **the world and its lore**, **rewarding once learned**, **relaxing to play**,
+    **difficulty levels well spaced** - 10 each; **trusts the studio** - 9 (all but one at launch);
+    **feels overpoweringly strong by the end of a run** - 9; **works alone** - 9; **the bosses are a
+    highlight** - 8.
+
+### What players complained about, most to least
+1. **The unlock challenges are a chore** - 42 times: too hard, luck-based, or locked to the top
+   difficulty. "The least amount of fun I have ever had playing a video game" (154192148).
+2. **You can only shoot straight ahead, left or right** - 35 times: "don't put flying enemies in a game
+   where you can't aim up or down" (150032341).
+3. **Risk of Rain 2 is better** - 31 times.
+4. **One enemy is hated** - 23 times: flying enemies (9), the Magma Worm, electric elites.
+5. **A character is too weak** - 20 times, Artificer in 12.
+6. **The new user agreement takes away buyers' rights** - 18 times (17 of them thumbs down).
+7. **The same game with new paint** - 14; **the exit (the teleporter) is hard to find** - 14 ("Find the
+   teleporter", three times over, 166841388).
+8. **Luck decides the run** - 10; **a thumbs down with no reason** - 9; **too hard** - 9; **one or two
+   characters outclass the rest** - 9; **movement is slow** - 9 ("slower than molasses in January",
+   150182600).
+9. **The stages are too big** - 8; **the owners put them off** - 8; **misses the sequel's printers and
+   scrappers** - 8; **runs feel the same** - 8; **some items or skills are useless** - 7.
+10. **Online games drop** - 6; **no way back in after a drop** - 5; **no saving mid-run** - 6; **zoomed
+    out to find the way, everything is too small** - 6; **the studio stopped updating it** - 6; **too
+    little content** - 6; **only a few builds work** - 6.
+
+Complaints come half from people who stayed: 260 of the 503 complaint points (51.7%) are in reviews that
+still recommend the game. Thumbs-down reviews show a median of 11.8 hours played, against 14.9 for
+thumbs up.
+
+### How it changed over time
+Five periods, by events checked on Steam:
+- **Launch month, November 2023** (777 reviews read): 95.9% up; complaints 30 per 100 reviews (not
+  counting bare thumbs). Aiming is the top complaint (3.2 per 100).
+- **The aim patches, December 2023 to January 2024** (110): 98.2% up, the best period; complaints 17.
+  The aiming complaint falls to zero after left-right mouse aim arrives on 12 December.
+- **The update gap, February 2024 to March 2025** (280): 93.9% up; complaints 32. "Risk of Rain 2 is
+  better" climbs to 3.2 per 100; reviewers start calling the game abandoned.
+- **The agreement protest, April to August 2025** (100): 74.0% up, the only real drop; complaints 68.
+  The agreement alone is 16 per 100 reviews; 17 of the 26 thumbs down are about it or the owners.
+  Without those, the period is at 89%.
+- **After patch 1.1.0, September 2025 on** (266): 93.6% up; complaints 31. "Better than Risk of Rain 2"
+  reaches its highest, 6.0 per 100 (1.9 at launch); "each character plays its own way" 4.9 (1.5).
+  "The better way to play the old game" falls from 20.5 to 13.2 per 100.
+
+### Co-op and online play
+- **Friends:** 34 much better with friends; 28 joining friends online now works; 2 praise couch co-op;
+  1 enjoys strangers' lobbies.
+- **Drops:** 6 say online games drop, 5 that there is no way back in ("Begs for a way to rejoin",
+  149838431, our words), 1 desync, 1 relays that the run ends when the host leaves (186710992, not
+  checked). Patch 1.1.0, 21 months after launch, says it "Adjusted client disconnection code to be much
+  more lenient". No drop complaint appears in the reviews read after it.
+- **Lobbies:** 2 found the online lobby list empty, 2 more call it thin. Patch 1.1.0 added a host option
+  for up to 32 players, with a warning that more than 4 "is not properly supported".
+- **Pings:** 1 at launch - "You also can't ping stuff, why?" (152611852). Patch 1.1.0 added "A ping and
+  emote system". No later review mentions it.
+- **Loot:** 3 say teammates take your items - "why doesnt it make a separate instanced chests for each
+  player?" (150031848); 1 asks for a way not to pick items up so a friend can have one (149839014).
+- **Dying:** 2 praise coming back as a drone that can still shoot and pick up items - "a stroke of
+  genius on their part" (149838153), who explains that in the sequel's long runs dead players spend
+  "more and more time just watching other people play"; "a massive improvement to the multiplayer"
+  (152300415). Seen in no other game.
+- **Shared screen:** 2 dislike being pulled back to the middle when off screen ("If a player is off
+  screen for more than 10 or 15 seconds they get teleported to center screen", 152535252).
+- **Host rights:** 1 says some achievements unlock only for the lobby leader (150031848).
+- **Bots, friendly fire, matchmaking with strangers, crossplay:** nothing said.
+
+### Combat, movement and feel
+- **Aiming** (35): at launch characters fired only the way they faced. Patch 1.0.2 (two days after
+  launch) promised left-right aim, "not full 360"; patch 1.0.4 delivered "horizontal mouse aiming". The
+  complaint stopped for two months ("Edit: They did it", 150380205), then returned: "Just please let us
+  shoot up" (158337597); "the survivors can't raise their arms to shoot upwards" (220568186). 10 aiming
+  complaints come after the patch.
+- **Firing slows you down** - 1: "you can't run and gun" (149839442).
+- **Movement:** 9 slow ("the Ror IP but walking simulator", 150377261); 5 say the maps are too big for the speed or
+  you cannot drop through platforms; 3 say the jumping sections do not belong in a shooter. Patch 1.0.4
+  made "All slower survivors now move faster"; the complaint went on (202716094, 2025).
+- **Controls:** 16 responsive; 2 praise full rebinding; 3 controller problems (one claim of no
+  controller support is wrong - the store lists full support).
+- **Camera:** 6 say zooming out to find the way makes everything too small; the default zoom "shows too
+  little, but 1x makes everything tiny" (166385728, our words).
+- **Feeling strong:** 9 say a run ends with them overpoweringly strong; 1 that "Even a god run never
+  feels powerful" (205446707, our words); 1 that stat caps stop builds growing (173110423).
+
+### Enemies, bosses and difficulty
+- 110 hard and fun; 10 well spaced difficulty levels; 9 too hard; 4 too fragile.
+- 23 hate one enemy - flying enemies most (9), then the Magma Worm and electric ("overloading") elites;
+  patch 1.0.3 says it made those elites "less punishing". 5 bullet sponges; 3 no way to counter; 8 the
+  bosses are a highlight.
+- 1 says the game insults you each time you lose: "the entirely unnecessary put-down lines thrown at you
+  every time you lose" (150182600).
+
+### Progression, loot, randomness and grind
+- **The Providence Trials split players:** 42 a chore against 36 fun. 6 like that every unlock can also
+  be earned more slowly in normal play; 5 say some unlocks need a different mode.
+- **Characters:** 41 each plays its own way; 20 one is too weak (Artificer 12 - patch 1.0.3 says it
+  made her stronger, yet 7 of the 12 were written later); 9 one or two are too strong (Loader, Drifter,
+  Engineer, Pilot, Chef). 2 say drones stop being useful as the run goes on.
+- **Items:** 21 deep, varied builds; 6 only a few work; 7 some are useless; 10 luck decides the run; 1
+  wants a ban list for unwanted items ("Please let us ban some items from dropping", 150031848).
+- **Looping** past the last stage: 3 say it is not worth it.
+
+### Runs, content and replay value
+50 keep coming back; 9 plenty of content; 6 too little; 8 repetitive. 5 are glad you can leave a stage
+without killing every enemy first (the 2013 game made you clear it). 6 cannot save mid-run: "Everyone
+old enough to play the original is old enough to have a job now" (167445190). 14 cannot find the exit;
+patch 1.0.3 "Increased Teleporter particle visibility range", but the complaint went on into 2025.
+
+### Money and price
+Bought once at $14.99. 24 call the price fair ("Worth full price, and it goes on sale", 216531798, our
+words); 3 too high; 3 buy on sale only; 1 calls it a cash grab. Nothing is sold inside the game.
+
+### Tech: performance, crashes, bugs
+8 run well on their machine, 6 well optimised, 4 on modest hardware; 2 lost a run to a crash; 3 say it
+is locked at 60 frames a second ("60 FPS lock for a 2D game. What a joke", 220568186; not checked). 55
+of the 1,533 reviews were written mainly on a Steam Deck; patch 1.1.0 calls itself "primarily a Steam
+Deck based patch".
+
+### The studio, updates and community
+- **Trust, then silence.** At launch 8 reviewers trusted the studio to fix things, and several read the
+  game as Hopoo's farewell to the series. After the fourth patch (January 2024) there was nothing for 19
+  months: "Devs just gave up on this game" (166384740); a Commando bug left "after 6 months of devs being
+  aware" (165404589, 44 found it helpful). 6 say updates stopped, 4 that they are too slow.
+- **The owners.** 8 are put off by Gearbox or Take-Two ("Gearbox kills Games", 173928825); 7 of the 8 were
+  written from August 2024 on.
+- **The agreement protest.** 18 object to a new end-user agreement they say was forced on them after
+  purchase. The most-helpful review in the sample is one: "I cant believe I have to call this game
+  Abandon-ware AND NOW Spyware" (201947635, 224 found it helpful). Most praise the game in the same
+  review. The agreement itself was not checked.
+- **The return.** Patch 1.1.0 opened: "Rumors of Risk of Rain Returns' death have been greatly
+  exaggerated", and kept the old version as an optional beta branch. Three later reviews still ask for
+  more updates.
+- **Mods:** 4 say mods extend it (the *Starstorm* fan mod is named); 2 want mod support.
+
+### What players asked for
+Aim up and down or at the cursor (35 complain, 9 ask outright); save mid-run (6); a way back in after
+a drop (5); the sequel's printers and scrappers (8); a stronger Artificer (2 ask, 12 complain); a minimap
+(2); separate loot for each player (2); more updates (3, after the 2025 patch); new stages or more
+variety (2); mod support (2); a ban list for items (1); a reset-run button and better interface scaling
+(1); a different key for the final-stage teleporter, so it is not pressed by mistake (2); a 2D sequel (1).
+
+### Only in this game
+- **The remake verdicts** - better than the original 265, true to it 46, changed too little 14, the old
+  rules an option 13, misses what the sequel added 8, the original was better 4.
+- **You can only shoot straight ahead** - 35.
+- **The challenge mode is fun** - 36; **every unlock has a second road** - 6.
+- **Zoomed out, everything is too small to read** - 6.
+- **You can leave a stage without clearing every enemy** - 5.
+- **A dead player keeps playing** (as a drone) - 2.
+- **Off the shared screen, you are pulled back** - 2.
+- **No way to ping** - 1; **the game mocks you when you lose** - 1; **firing slows you down** - 1;
+  **the enemies keep pace with you** - 1; **optional risks do not pay** - 1; **cannot take unwanted items
+  out of the pool** - 1; **stat caps stop the build growing** - 1.
+
+### For Dominion - our reading
+1. **Never limit where players can aim, and give every class an answer to enemies above or out of
+   reach.** Evidence: 35 aiming complaints, the second biggest; flying enemies 9 of 23 hated-enemy
+   complaints; the left-right half stopped being a complaint at once when fixed, the up-down half never
+   did. **Strong.**
+2. **Movement and a sense of power are what make a run game hard to put down.** Evidence: beside its own
+   3D sequel, with the same items, "keeps pulling me back" is 3.3 per 100 reviews against 9.1, and
+   "makes me feel overpoweringly strong" 0.6 against 3.8; slow movement 9 here against 1 there. Dominion
+   could make base movement feel good with no items, and let builds grow without hard caps. **Strong.**
+3. **Put the way out on screen.** Evidence: 14 cannot find the exit (1st of 24 games per review, three
+   times the sequel); 6 zoom out to find it and lose the fight; a patch widening its signal did not end
+   it. Dominion's extraction point and arena goals could be visible from the start. **Strong.**
+4. **Ship pings, rejoining and forgiving disconnects at launch.** Evidence: 1 no ping, 6 drops, 5 no
+   way back in, 1 host-leaves-ends-run; the studio added pings and gentler disconnects only 21 months
+   later. On a listen server, a way back in - and if possible a new host - matters most. **Strong.**
+5. **Never change the terms after people have bought the game.** Evidence: the only drop in the thumb
+   (to 74%) came from an agreement change; 17 of that period's 26 thumbs down; the most-helpful review
+   in the sample. Settle accounts, data use and terms before launch. **Strong.**
+6. **Hard is a selling point when every threat can be answered.** Evidence: 110 hard and fun against 9
+   too hard; the hated enemies are the ones players cannot hit. **Strong.**
+7. **Unlock challenges need a second, slower road, and a test by hand.** Evidence: 42 chore against 36
+   fun; complaints name luck, tight times and a forced top difficulty; 6 praise the normal-play route.
+   **Strong.**
+8. **A dead player should keep playing.** Evidence: 2 praise the drone that keeps shooting, in strong
+   words; the reason given is the sequel's dead players "just watching". Dominion could give downed or
+   dead players a small job until revive or extraction. **Medium.**
+9. **Give each player their own loot, or a way to pass it on.** Evidence: 3 complaints here and a
+   42-vote review choosing this game over the sequel because a friend takes every chest there.
+   **Medium.**
+10. **Keep every class worth playing, and keep fixing the weakest.** Evidence: 20 too weak (Artificer
+    12, 7 after her buff), 9 too strong, 41 each plays its own way. **Medium.**
+11. **Silence after launch reads as abandonment.** Evidence: 19 months with no patch; "gave up",
+    "abandoned", "in limbo"; the return post itself jokes about the game's "death". Small, steady
+    updates could prevent it. **Medium.**
+12. **Expect to be measured against the genre's best, feature by feature.** Evidence: 31 "the sequel is
+    better", 8 miss named features (printers, scrappers). **Medium.**
+13. **When rules change in a big way, keep the old rules as an option.** Evidence: 13 praise the classic
+    setting; the studio kept the old version as a beta branch. **Weak.**
+14. **Let a run be saved and resumed.** Evidence: 6, one because it rules out the Steam Deck on the go.
+    **Weak** (Dominion's runs may be short enough not to need it).
+15. **Do not mock the player for losing.** Evidence: 1, but it tipped that review to thumbs down.
+    **Weak.**
+
+### Limits
+- 7.9% of reviews read, ±2.77% on whole-sample shares; per period ±3.5% (launch) to ±9.8% (the protest
+  months). Any one later month holds 20 reviews.
+- The launch month is three quarters of the group and is read at 1 in 19.
+- 107 reviews (7.0%) were edited later; they are counted on the day they were first written.
+- 682 of 1,533 reviews say nothing but a thumbs up.
+- **Not checked:** the user agreement (date, terms, "spyware"); the classic-rules setting and the drone
+  feature's name (reviewers' words; not on the store page); the 60-frame lock; that the run ends when
+  the host leaves; empty lobbies; a claim that Gearbox was making a mobile game.
+- Crude remarks and slurs are recorded only as crude; a review about a partner who died, friends' names
+  and family details are left out.
+
+---
 
 ## Alien Swarm
 
