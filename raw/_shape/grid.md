@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-10-07 09:05:41 UTC. Rebuild with `python build_grid.py`.
+Built 2026-10-07 15:03:28 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -40,6 +40,7 @@ Built 2026-10-07 09:05:41 UTC. Rebuild with `python build_grid.py`.
 | `helldivers-2/schinese` | 31 | 116,313 | 2024-05 (44,503) |
 | `helldivers-2/spanish` | 31 | 29,201 | 2024-05 (7,744) |
 | `immortal-unchained/english` | 77 | 435 | 2018-09 (95) |
+| `lort/english` | 10 | 3,287 | 2026-01 (1,382) |
 | `redfall/english` | 40 | 3,071 | 2023-05 (1,986) |
 | `remnant-2/english` | 39 | 38,120 | 2023-08 (9,677) |
 | `repo/english` | 21 | 176,095 | 2025-03 (39,132) |

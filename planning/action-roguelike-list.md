@@ -90,7 +90,7 @@ In the order Rico gave them.
 | B17 | Inscryption | 1092790 | Oct 19, 2021 | 148,728 | 97% | 84,448 | no |  |
 | B18 | Don't Starve | 219740 | Apr 23, 2013 | 113,499 | 97% | 40,483 | no |  |
 | B19 | Into the Breach | 590380 | Feb 27, 2018 | 22,414 | 94% | 14,973 | no |  |
-| B20 | LORT | 2956680 | Jan 21, 2026 | 4,557 | 78% | 3,251 | no | 1-8 player co-op action roguelite; Early Access |
+| B20 | LORT | 2956680 | Jan 21, 2026 | 4,557 | 78% | 3,251 | **WIP** (row 19 of `GAMES-TODO.md`, pulled 2026-10-07) | 1-8 player co-op action roguelite; Early Access |
 
 ## Open
 
