@@ -13827,8 +13827,16 @@ Second unit of the 17:44 firing. 50 reviews, 2024-02-14 to 2024-02-21, all in Ea
 
 ## Notes - round 975 (Palworld batch 8)
 
-Third unit of the 17:44 firing. 50 reviews, 2024-02-21 to 2024-02-29, all in Early Access; 2 thumbs down; 59 bullets, 1.18 per review; unknown share 49%, the highest so far - 38 of 50 are 15 words or fewer, and 9 are dark jokes about the Pals' labour that say nothing else; none excluded. Id list matched before the dry run. Round 974's note on two groups raising the XP rate was reworded (both reviews name level 43 and may be one group); corrected in this commit.
+Third unit of the 17:44 firing. 50 reviews, 2024-02-21 to 2024-02-29, all in Early Access; 2 thumbs down; 59 bullets, 1.18 per review; unknown share 49%, the highest so far - 38 of 50 are 15 words or fewer, and 6 are dark jokes about the Pals' labour that say nothing else (first written as 9; corrected in round 976); none excluded. Id list matched before the dry run. Round 974's note on two groups raising the XP rate was reworded (both reviews name level 43 and may be one group); corrected in this commit.
 
 **No modes built.** The batch is short praise. Points of substance: official servers "not that great" - set up a dedicated one (158926279), which also calls it less buggy than most new survival releases; a save corrupted twice (158925096, thumbs down); crafting tables that misbehave when placed close together (158926460); weak pathing and battle AI and stutter near water (158921097); more content and quality-of-life than most survival games (158926038). Batch sizes for the scripts: `--sizes 50x8`.
 
 **Next:** Palworld batch 9 (50 reviews).
+
+## Notes - round 976 (Palworld batch 9)
+
+Fourth unit of the 17:44 firing. 50 reviews, all written 2024-02-29 in Early Access; 1 thumbs down (a full stop); 60 bullets, 1.20 per review; unknown share 48%; 39 of 50 are 15 words or fewer; none excluded. Id list matched before the dry run. Round 975's note said 9 reviews are only dark jokes; the batch file holds 6, corrected in this commit.
+
+**No modes built.** The two fullest reviews: **159567280** lists many ways to play (work the Pals, explore, towers and boss lairs) against copy-paste terrain, Pals stuck on roofs, world settings not explained plainly, and slow, clunky mounts; **159568884** reached 100% of Pals, bosses, towers and journals in 112 hours. **The grind and the settings:** 159570920 says the world settings let you lighten the grind; 159570369 (348 hours) finds it repetitive with a long grind to max level. 159572500 looks forward to PvP and arenas (reviewer's account of the plans, not checked). 159572816's personal details are left out. Batch sizes for the scripts: `--sizes 50x9`.
+
+**Next:** Palworld batch 10 (50 reviews).
