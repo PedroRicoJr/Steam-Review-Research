@@ -1969,3 +1969,14 @@ localization.language-barrier-in-multiplayer.players-kick-those-who-do-not-speak
 community.social-features.players-can-draw-on-the-shared-map | + | Players can scribble on the map everyone in the team sees, and reviewers enjoy the drawing for its own sake - 
 community.user-created-content.used-as-a-free-toolkit-for-other-projects | ~ | The reviewer values the game less as a game than as a free kit of engine tools - an SDK, map tools, lighting f
 storefront.the-free-game-cannot-be-removed-from-the-account | - | The reviewer wants a free game gone from their Steam account for good - often one they only got for an outside
+marketing.positioning.the-remake-improves-on-the-original | + | The game is a remake or remaster of an earlier game, and the reviewer says it is the better way to play it - b
+marketing.positioning.the-remake-stays-true-to-the-original | + | The reviewer praises a remake for keeping the earlier game's feel rather than changing it. **Distinct from `.t
+marketing.positioning.the-remake-changes-too-little | - | The reviewer wanted more from a remake than new art and a few additions: it is the same game again. **The rema
+game-design.pacing.you-can-move-on-without-clearing-every-enemy | + | The player can leave a stage once the objective is done, without hunting down every last enemy first, and the 
+game-design.game-feel.camera.zoomed-out-is-too-small-to-read | - | The camera can zoom out to show more of the level, but zoomed out the items, enemies or effects are too small 
+game-design.modes.the-challenge-mode-is-fun | + | A separate mode of set challenges (fixed scenarios, trials) is fun in itself, not only a way to unlock things.
+game-design.progression.unlock-pace.there-is-more-than-one-way-to-unlock | + | Each unlock can be earned two ways - a set challenge, or a slower count of things done in normal play - so a p
+game-design.ui-ux.the-descriptions-do-not-match-the-numbers | - | The written description of a skill or item gives numbers that differ from what it does in play. **Distinct fro
+community.social-features.no-way-to-ping-things | - | There is no ping at all - no way to mark an item, enemy or place for teammates. **Distinct from `.the-pings-ma
+game-design.replayability.looping-is-not-worth-it | - | The run can loop past the final stage, but the reviewer says looping is so punishing it is rarely worth doing.
+game-design.difficulty-tuning.optional-risks-do-not-pay-off | - | The game offers optional risks for a bigger reward - shrines, harder modifiers - but the reviewer says the ext

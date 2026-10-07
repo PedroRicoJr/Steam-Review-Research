@@ -12553,6 +12553,57 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 820, Alien Swarm batch 60.** Built under Rule C. `findphrase` for can't remove, get rid of, delete or permanently delete found 137406031 (round 818, filed at `review.negative.unknown`; the mode should have been built then), re-homed here; the other matches are about in-game items and screen borders.
 
+## Modes added in Risk of Rain Returns batch 1 - round 838 (Rule C)
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-remake-improves-on-the-original` | **+** | The game is a remake or remaster of an earlier game, and the reviewer says it is the better way to play it - better art, fixes, more content, easier online play. **Distinct from `.successor-framing-accepted`**, which is about a sequel. Risk of Rain Returns 152609705 (*"the definitive version to play"*). |
+| `.the-remake-stays-true-to-the-original` | **+** | The reviewer praises a remake for keeping the earlier game's feel rather than changing it. **Distinct from `.the-remake-improves-on-the-original`** (better) - this is faithful; one review can say both. Risk of Rain Returns 152561807 (*"Faithful to the original"*). |
+| `.the-remake-changes-too-little` | **−** | The reviewer wanted more from a remake than new art and a few additions: it is the same game again. **The remake twin of `.the-sequel-changes-too-little`.** Risk of Rain Returns 152611852 (*"pretty much just a visual update"*). |
+
+### `game-design.pacing`
+| Mode | | Definition |
+|---|---|---|
+| `.you-can-move-on-without-clearing-every-enemy` | **+** | The player can leave a stage once the objective is done, without hunting down every last enemy first, and the reviewer is glad of it. Risk of Rain Returns 152592374 (*"I don't have to kill all the enemies to leave the level"*). |
+
+### `game-design.game-feel.camera`
+| Mode | | Definition |
+|---|---|---|
+| `.zoomed-out-is-too-small-to-read` | **−** | The camera can zoom out to show more of the level, but zoomed out the items, enemies or effects are too small to read - so the player trades seeing the way for seeing the fight. **Distinct from `.narrow-view-is-a-handicap`** (too close, with no way out). Risk of Rain Returns 152611852, 152569563. |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-challenge-mode-is-fun` | **+** | A separate mode of set challenges (fixed scenarios, trials) is fun in itself, not only a way to unlock things. **The positive twin of `game-design.progression.unlock-pace.an-unlock-challenge-is-a-chore`.** Risk of Rain Returns 152564647 (*"The Providence trials are extremely fun and varied"*). |
+
+### `game-design.progression.unlock-pace`
+| Mode | | Definition |
+|---|---|---|
+| `.there-is-more-than-one-way-to-unlock` | **+** | Each unlock can be earned two ways - a set challenge, or a slower count of things done in normal play - so a player who dislikes one route can take the other. Risk of Rain Returns 152562730 (*"every ability in the game can also be unlocked by an alternate grind"*). |
+
+### `game-design.ui-ux`
+| Mode | | Definition |
+|---|---|---|
+| `.the-descriptions-do-not-match-the-numbers` | **−** | The written description of a skill or item gives numbers that differ from what it does in play. **Distinct from `game-design.new-player-experience.poorly-explained`** (too little said) - here what is said is wrong. Risk of Rain Returns 152611852. |
+
+### `community.social-features`
+| Mode | | Definition |
+|---|---|---|
+| `.no-way-to-ping-things` | **−** | There is no ping at all - no way to mark an item, enemy or place for teammates. **Distinct from `.the-pings-mark-too-few-things`** (a ping that exists but marks too little) and from `engineering.matchmaking.no-ping-shown-before-you-join` (connection speed). Risk of Rain Returns 152611852 (*"You also can't ping stuff, why?"*). |
+
+### `game-design.replayability`
+| Mode | | Definition |
+|---|---|---|
+| `.looping-is-not-worth-it` | **−** | The run can loop past the final stage, but the reviewer says looping is so punishing it is rarely worth doing. **The negative twin of `.the-run-can-loop-endlessly`.** Risk of Rain Returns 152611852 (*"Looping is much harder to the point it's not worth doing 99% of the time"*). |
+
+### `game-design.difficulty-tuning`
+| Mode | | Definition |
+|---|---|---|
+| `.optional-risks-do-not-pay-off` | **−** | The game offers optional risks for a bigger reward - shrines, harder modifiers - but the reviewer says the extra danger outweighs the reward, so they are best ignored. Risk of Rain Returns 152611852 (Mountain Shrines; the Artifact of Prestige). |
+
+🔑 **Round 838, Risk of Rain Returns batch 1.** Built under Rule C for a new game's first batch. `findphrase` for remaster, remake, port forward, no ping, zoom, description, loop, full clear and trials found no earlier sighting of any of these modes: the remake matches are Alien Swarm's pointers to Reactive Drop (a different game, filed as a named rival); the ping matches are connection speed; Steam invites and port forwarding already have `community.social-features.getting-your-friends-in-works` and `engineering.servers.my-router-blocks-play`.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
