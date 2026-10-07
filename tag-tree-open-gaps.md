@@ -13848,3 +13848,11 @@ Fifth unit of the 17:44 firing. 50 reviews, 2024-02-29 to 2024-03-31, all in Ear
 **No modes built.** **159565836** (thumbs down) finds the world empty and dull, the Pals' design clashing with it, recycled assets and no goal. **160069861** says "Pokémon with guns" does it a disservice: an open world you build as you like, where climbing almost anything is the best part. Crashes at character creation recur (160067570, as 157813355 in round 973). **160622654**, edited 2024-09-20, backs the developers in a lawsuit with Nintendo (reviewer's account, not checked). **161298414** is the copied "single father" meme text already seen in other games (`repeats-a-copied-meme-text`). 160069579 says get it on sale - not much content yet. Batch sizes for the scripts: `--sizes 50x10`.
 
 **Next:** Palworld batch 11 (50 reviews).
+
+## Notes - round 978 (Palworld batch 11)
+
+Sixth unit of the 17:44 firing. 50 reviews, 2024-03-31 to 2024-06-07, all in Early Access; 4 thumbs down; 76 bullets, 1.52 per review; unknown share 28%; none excluded. Id list matched before the dry run. 166425219 ("no DRM") was tried on `engineering.access.drm` and moved back to `plays-offline`: the tree defines `.drm` as copy protection that harms play.
+
+**No modes built.** **Updates that delete worlds:** 165437578 (edited 2024-05-20) lost a dedicated server after 80+ hours, then another, and wants the bug fixed before new Pals; 164879528 (thumbs down) lost the world two friends built - both the reviewers' account. **164879250** (175 hours) is the fullest review: stunning graphics; it recommends 32 GB of RAM for Unreal Engine 5; only three bases allowed; base Pals lose their tasks and refuse stairs and ramps, a little better after patch 2.0.6 (reviewer's account); it wants task assignment from the Palbox. **166897744** (thumbs down, edited 2026-02-28) says mounts and movement are still clunky, single-player worlds lag, and once you build a base there is nothing left - no story, quests or missions. **The world feels empty** for 161914507, 162449524, 163410763 and 164879250. 165434949 is a copied meme text about a parent and child. 162956393's personal details are left out. Batch sizes for the scripts: `--sizes 50x11`.
+
+**Next:** Palworld batch 12 (50 reviews).
