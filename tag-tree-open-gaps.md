@@ -13127,3 +13127,9 @@ Fourth unit of the 07:44 firing (pace test firing 3 of 4). 50 reviews, 2026-01-0
 Fifth unit of the 07:44 firing (pace test firing 3 of 4). 50 reviews, 2026-03-19 to 2026-06-07. **No thumbs down.** 75 bullets on 50 reviews, 1.50 per review (33 short reviews, 3 long, unknown share 35% - one-word praise, puns and character shout-outs); none excluded. Id list matched before the dry run.
 
 **No modes built.** **226197585** is written in Spanish (6.1/10): the mouse fires but does not aim, a first run finished in an hour, trials pointless once the game is beaten, the same music as the first game; its points are filed as well as the language bullet. 223074381 and 226819786 say online play is thinning out (`community.population.thinner-than-hoped-but-playable`). 226859370 asks Gearbox for more updates (2026-05-31). Left out: a named friend in 225615450 (42 found it helpful; kept as "a friend grabs every chest" in Risk of Rain 2) and a wrist injury in 226859370. 83 reviews left.
+
+## Notes - round 867 (Risk of Rain Returns batch 30)
+
+Sixth unit of the 07:44 firing - pace test firing 3 of 4 complete (batches 25-30). 50 reviews, 2026-06-05 to 2026-08-23. **4 thumbs down** (228568458: clunky controls; 228318711: "nothing interesting", in Polish; 229626627: hard to tell when you are hit, little loot; 231046871: freezes and no save). 77 bullets on 50 reviews, 1.54 per review; none excluded. Id list matched before the dry run.
+
+**No modes built.** 232907488 is the thirteenth review describing the option to switch mechanics on or off. 232762877 says the game never got above 60 frames a second despite a promise to work on it (reviewer's claim, not checked). Left out by the personal-details rule: a self-described condition in 232873727 and 232825074 (kept only as playing obsessively); an offensive troll line in 232272032 is recorded only as crude. 33 reviews left - batch 31 (33 reviews) finishes the game.

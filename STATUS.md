@@ -18,8 +18,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-10-04 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Risk of Rain Returns (Alien Swarm finished in round 836; R.E.P.O. in round 759; ELDEN RING NIGHTREIGN finished in round 722; Roboquest in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 866: Risk of Rain Returns batch 29 (1,450 of 1,533 read; no modes built) |
-| Next unit | Risk of Rain Returns batch 30 (50 reviews) - now up to six units a firing on Rico's pace test of 2026-10-07 (loop file, **Pace test**). **Test firings done: 2 of 4** (05:44, batches 13-18; 06:44, batches 19-24) |
+| Last unit done | Round 867: Risk of Rain Returns batch 30 (1,500 of 1,533 read; no modes built) |
+| Next unit | Risk of Rain Returns batch 31 (50 reviews) - now up to six units a firing on Rico's pace test of 2026-10-07 (loop file, **Pace test**). **Test firings done: 3 of 4** (05:44, batches 13-18; 06:44, 19-24; 07:44, 25-30) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 1,993 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |
