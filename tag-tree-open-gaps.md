@@ -13001,3 +13001,11 @@ First unit of the 04:44 firing. 50 reviews, 2023-11-18 to 2023-11-21. **4 thumbs
 **No modes built.** "Nostalgia bait" (150377890) follows the earlier sightings of a cash grab at `publishing.monetisation-practice.feels-like-a-cash-grab` (`findphrase` for nostalgia bait, cash grab, cashgrab); large bodies hiding small objects and misleading background walls (150368878) went to `game-design.readability.cannot-spot-what-you-need` and `.geometry-unclear`; eyes hurting from play (150375648) to `accessibility.vision.unknown`.
 
 The thumbs down: **150377261** ("walking simulator" - the slowest roguelike they have played, after 500 hours of Risk of Rain 2); **150368878** (no turning while firing, trials, traversal for slow characters, bosses that counter some characters, objects hidden behind large bodies); **150377890** ("Nostalgia bait"); and **150373117**, a crude sexual troll review recorded only as that, with its personal content left out. 150368570's crash that cost runs was fixed by its 2024-04-02 edit. After 500 reviews: 99 bullets say the remake improves on the original; 22 that you can only shoot straight ahead. 1,033 reviews left.
+
+## Notes - round 848 (Risk of Rain Returns batch 11)
+
+Second unit of the 04:44 firing. 50 reviews, all dated 2023-11-21. **No thumbs down.** 78 bullets on 50 reviews, 1.56 per review (38 short reviews, 6 long, unknown share 32% - jokes, puns, one-word verdicts, an empty review and a garbled one); none excluded. Id list matched before the dry run.
+
+**No modes built**; every point had an existing mode. Being one-shot by an enemy you cannot see in a crowd (150755334) went to `game-design.readability.threats-unclear`; a wish for mod support (150755129) to `community.user-created-content.no-mod-support`; "a little more fair" (150754347) to `game-design.fairness.losses-feel-earned`; few bugs (150752359) to `engineering.bugs.rare-and-minor`. A crude jab at a named person in 150753565 is left out.
+
+Easy co-op keeps coming up as the remake's clearest gain (150752359: the original's Hamachi was "the hellspawn"; 150751960: the old way kept them from showing friends the game). After 550 reviews: 109 bullets say the remake improves on the original; 23 that you can only shoot straight ahead. 983 reviews left.
