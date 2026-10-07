@@ -14206,3 +14206,11 @@ First unit of the 21:44 firing, the first at twenty a firing (Rico, 2026-10-07; 
 **No modes built.** **The multiplayer in 2026:** 227620932 found "3 am on a week day full squads, and most of them were friendly and helpful even (possibly because it's a co-op pve environment with little at stake)" (filed on `welcoming-community`) and thinks current developers should study the mode; 225721469: "pretty much have had a full match in every game", with new characters and map variants, and mods to skip "300 hrs grinding credits"; 228919733: unlocking upgrades is "repeated dopamine hits. just gotta hope someone else is on"; 230815330 keeps returning for the range of builds. Problems joining: 230252416's friend, launching from the EA app, could not play with them from Steam (filed on `friends-must-match-on-every-launcher`); 224690931 (13 found it helpful) says matchmaking "utilises no steam functionality to unite you with your friends". **224697672** (88 found it helpful) says EA's servers give this edition the base game without the DLC or online pass, so no multiplayer, and six rounds of EA support could not fix it; Steam refunded them. 229652971 dates a product-key outage to 4 July 2026. 14 notes that it is why to buy or is great, 6 that it is still alive. 225942897 is in French, 229735268 in Spanish. Batch sizes for the scripts: `--sizes 50x21`.
 
 **Next:** Mass Effect 3 (2012) batch 22 (the last 7 reviews).
+
+## Notes - round 1023 (Mass Effect 3 (2012) batch 22, the last)
+
+Second unit of the 21:44 firing (twenty a firing; outside both pace-test sets). The last 7 reviews, 2026-09-03 to 2026-10-06; 0 thumbs down; 9 bullets; none excluded. **All 1,057 sampled Mass Effect 3 (2012) English reviews are now summarised.** Batch sizes for the scripts: `--sizes 50x21,7`.
+
+**No modes built.** All about the multiplayer: 237085666 says that "As of Oct 2026 people still play the MP, best times to play are after school/work hours as more people are on"; 234351890 praises "NO MICRO TRANSACTIONS" - "You have to grind for everything u want and it just keeps u wanting to play"; 235544049 calls its absence from the Legendary Edition "a travesty"; 235663157 and 234351890 ask for a new game with it.
+
+**Next:** Mass Effect 3 (2012) weighted counts (`count.py --group mass-effect-3/english`), then the findings pages.
