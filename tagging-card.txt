@@ -1995,3 +1995,4 @@ community.social-features.joining-needs-the-hosts-ip-address | - | There is no i
 engineering.platform-support.another-platform-got-what-this-one-lacks | - | A version of the game on another platform got a feature - matchmaking, joining through the platform's own serv
 game-design.modes.local-co-op-takes-only-one-controller | - | On one screen, the game accepts only one controller beside the keyboard, so a second or third player with a pa
 live-ops.abandonment.the-fix-is-sold-as-a-new-game | - | A known fault in the game the player owns was never patched there, and is fixed only in a remake or new editio
+accessibility.vision.text-too-small-with-no-size-option | - | The game's text is too small to read comfortably on an ordinary screen, and there is no setting to make it big

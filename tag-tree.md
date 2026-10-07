@@ -12711,6 +12711,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 905, Risk of Rain (2013) batch 30.** Built under Rule C on the first sighting. `findphrase` for "buy the game again", "buy it again", "buy again", "pay again", "Returns", "remake" and "remaster" found no earlier review that charges the remake's price against the studio. That Returns fixes the Linux Spike Strip freeze is the reviewer's claim, not checked.
 
+## Modes added in Risk of Rain (2013) batch 36 - round 911 (Rule C)
+
+### `accessibility.vision`
+| Mode | | Definition |
+|---|---|---|
+| `.text-too-small-with-no-size-option` | **−** | The game's text is too small to read comfortably on an ordinary screen, and there is no setting to make it bigger; the reviewer asks for one. **Distinct from `game-design.ui-ux.text-too-small-on-a-handheld`** (only on a handheld's small screen) **and from `.text-hard-to-read-on-the-background`** (contrast, not size). **Not `game-design.game-feel.camera.zoomed-out-is-too-small-to-read`**, which is the characters and the action, not the words. Risk of Rain (2013) 78427966 (*"text way too small though, adjusting size of text would be really helpful"*). |
+
+🔑 **Round 911, Risk of Rain (2013) batch 36.** Built under Rule C on the first sighting; the parent's own definition names text size, and it had no mode for it. `findphrase` for "text too small", "small text", "tiny text", "text size", "font", "text is" and "text way" found one earlier tiny-text line (an interface judged ugly and too serious, on `game-design.ui-ux.style-clashes-with-the-game`), which is about style, not size, and stays where it is.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
