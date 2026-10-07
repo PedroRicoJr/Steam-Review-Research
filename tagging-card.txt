@@ -1993,3 +1993,4 @@ narrative.tone.the-game-mocks-you-when-you-lose | - | The game greets each loss 
 game-design.power-balance.stat-caps-stop-the-build-growing | - | Stacking items stops paying off past a cap on a stat - attack speed, health, critical chance - so the run cann
 community.social-features.joining-needs-the-hosts-ip-address | - | There is no invite or game list: to play together, one player hosts like a server and the others type the host
 engineering.platform-support.another-platform-got-what-this-one-lacks | - | A version of the game on another platform got a feature - matchmaking, joining through the platform's own serv
+game-design.modes.local-co-op-takes-only-one-controller | - | On one screen, the game accepts only one controller beside the keyboard, so a second or third player with a pa

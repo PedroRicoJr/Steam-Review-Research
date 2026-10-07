@@ -12697,6 +12697,11 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 | `.another-platform-got-what-this-one-lacks` | **−** | A version of the game on another platform got a feature - matchmaking, joining through the platform's own service - that the reviewer's version still lacks, and the reviewer feels the studio cares less about their players. **Distinct from `.better-elsewhere`** (the same game runs better elsewhere) **and from `live-ops.update-cadence.consoles-get-updates-later`** (the reverse: the other platform waits). Risk of Rain (2013) 24488322 (*"They put a bunch of effort into online play for PS4/Vita owners, put PC players have had to mess with post forwarding"*), 23945593 (*"PC players don't get automatic matchmaking, while PS Vite & PS4 players do"*). |
 🔑 **Round 890, Risk of Rain (2013) batch 15.** Built under Rule C. `findphrase` for console players and PS4 found the reverse mode (`consoles-get-updates-later`), other-platform players as a nuisance, and cross-save gaps, but no complaint that a console port received a feature the PC version lacks. The console versions' features are the reviewers' account, not checked.
 
+## Modes added in Risk of Rain (2013) batch 18 - round 893 (Rule C)
+### `game-design.modes`
+| `.local-co-op-takes-only-one-controller` | **−** | On one screen, the game accepts only one controller beside the keyboard, so a second or third player with a pad cannot join. **Distinct from `game-design.game-feel.controls.the-controller-does-not-work`** (no controller works at all) **and from `.split-screen-is-offered`** (the plus that local play exists). Risk of Rain (2013) 29101352 (*"Can't use 2 controllers to play locally, just 1 keyboard and 1 controller"*). |
+🔑 **Round 893, Risk of Rain (2013) batch 18.** Built under Rule C. `findphrase` for two controllers, second controller, one controller and 1 controller found only praise for a single controller and a controller that does not work at all. The limit is the reviewer's account, not checked.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
