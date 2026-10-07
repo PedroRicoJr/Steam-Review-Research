@@ -13880,3 +13880,11 @@ Ninth unit of the 17:44 firing. 50 reviews, 2024-11-07 to 2024-12-23, all in Ear
 **No modes built.** **The protest against Nintendo grows:** 6 reviews in this batch are filed on `thumb-is-a-protest-vote` (179094748, 181188795, 182198446, 182194108, 182855496, 182854211 - the last 6 found it helpful), most of them a line or a crude jab; the lawsuit and patents they name are the reviewers' account. **Updates:** 179592064 (edited 2025-12-24) says new Pals, areas and collaborations added a lot and it was still in early access in December 2025; 178578228 (edited 2025-11-04) says crossplay with PlayStation now works; 182856699 looks forward to the Feybreak update (reviewer's naming) - none checked. **181190496** says bugs unfixed since release remain (food timers reset on sorting; items transfer only after relogging). 178581872 praises the Pals' personality at work and in the wild. 181188953's personal details are left out. Batch sizes for the scripts: `--sizes 50x14`.
 
 **Next:** Palworld batch 15 (50 reviews).
+
+## Notes - round 982 (Palworld batch 15)
+
+Tenth unit of the 17:44 firing. 50 reviews, 2024-12-23 to 2025-02-21, all in Early Access; 6 thumbs down; 62 bullets, 1.24 per review; unknown share 40%; none excluded. Id list matched before the dry run.
+
+**No modes built.** **A removed feature:** **183523189** (thumbs down, 4 found it helpful) says an update removed throwing a Pal into a fight - it now just appears near you - so the Pal can't tank, be pulled out and thrown back, or attack from cover, and may spawn inside a tree or rock (`removed-a-feature`; reviewer's account, not checked). **185678637** (thumbs down, 185 hours) says the Pals don't matter - "You just need a big gun". **Solo play:** 186254640 says the game is built around multiplayer - no pause solo, and some bosses seem beatable only by a group. Crashes at character creation recur (186255723: a common issue still unfixed, by its account). Grind complaints: 184375693, 185059902. Protest notes against Nintendo continue (184377116, 186254640). 185678351 and 185677236 are in Portuguese; 185677278's ethnic joke is recorded only as "a crude ethnic joke". Batch sizes for the scripts: `--sizes 50x15`.
+
+**Next:** Palworld batch 16 (50 reviews).
