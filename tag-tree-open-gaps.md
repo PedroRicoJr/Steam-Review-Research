@@ -13859,8 +13859,16 @@ Sixth unit of the 17:44 firing. 50 reviews, 2024-03-31 to 2024-06-07, all in Ear
 
 ## Notes - round 979 (Palworld batch 12)
 
-Seventh unit of the 17:44 firing. 50 reviews, 2024-06-07 to 2024-08-23, all in Early Access; 3 thumbs down; 62 bullets, 1.24 per review; unknown share 40%; none excluded. Id list matched before the dry run. From here each month is read at about 20 reviews (the monthly floor), so the batch spans eleven weeks.
+Seventh unit of the 17:44 firing. 50 reviews, 2024-06-07 to 2024-08-23, all in Early Access; 3 thumbs down; 62 bullets, 1.24 per review; unknown share 40%; none excluded. Id list matched before the dry run. The months in this batch are each read at about 20 reviews (the monthly floor), so it spans eleven weeks (sentence narrowed in round 980: 2024-11, 2024-12 and 2026-07 to 2026-09 are read at more).
 
 **No modes built.** **Lost worlds continue:** 169961983 (thumbs down, 3 found it helpful) lost an 11-hour world when a friend's power cut corrupted it, with no recovery working; 167453284 (edited 2024-12-31) lost progress to a bug. **171192972** (thumbs down, 369 hours) says fixes break other things - Pals walk backwards and rubber-band - and the game is worse than at launch (`made-it-worse`). 171192874 says it heats the PC even with nothing on screen. Praise for the world settings that set the difficulty (169962024, 169960575); 169962024 also says nothing teaches the controls. 172201982 and 172208252 want more building materials, Pals, bosses and story. 169962166 (edited 2024-09-28) mentions a lawsuit (reviewer's account). Batch sizes for the scripts: `--sizes 50x12`.
 
 **Next:** Palworld batch 13 (50 reviews).
+
+## Notes - round 980 (Palworld batch 13)
+
+Eighth unit of the 17:44 firing. 50 reviews, 2024-08-23 to 2024-11-07; 49 in Early Access (175576911, edited 2026-07-15, carries no Early Access flag); 2 thumbs down; 60 bullets, 1.20 per review; unknown share 40%; none excluded. Id list matched before the dry run. One bullet of 177613868 (a 5/10 review) was reworded and moved from a bare thumbs up to `calls-it-average-rather-than-good-or-bad` before commit. Round 979's note claimed every later month is read at about 20; narrowed in this commit.
+
+**No modes built.** **Protest reviews against Nintendo** appear from September 2024: **175578922** (65 found it helpful, written with 0 hours played) says if Nintendo is suing Pocketpair the game deserves attention and money; 177118630 calls it "not a great game" but gives a positive review to spite Nintendo; 176118745 likewise - all on `thumb-is-a-protest-vote`. The lawsuit is the reviewers' account, not checked. **177613868** (5/10) finds weapon variety lacking past the early guns and melee with no crits or special moves. **178124704** (472 hours, edited 2024-12-01) builds bases on cliffs, a desert mine and a volcanic oil well and breeds Pals for stats with friends, and finds two summoned final Pals unnecessarily tough. 175578273 (thumbs down, 4 found it helpful) says it is nothing like Pokémon, just survival crafting. 177126905's personal details are left out. Batch sizes for the scripts: `--sizes 50x13`.
+
+**Next:** Palworld batch 14 (50 reviews).
