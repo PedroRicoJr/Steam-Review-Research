@@ -14355,3 +14355,13 @@ Nineteenth unit of the 21:44 firing (twenty a firing; test set of the third pace
 **No modes built.** The batch's most-helpful review, 116267946 (170 found it helpful), is a thumbs down after playing the series in order: lifeless worlds with recycled wildlife, fetch quests across several planets with unskippable flights ("Literally they could have solved this by just being able to call and talk to quest givers from the main ship"), and half the races missing. 116566455 counts six unskippable scenes of about 13 seconds for a one-planet fetch quest (reviewer's timing). 116262963 (48 found it helpful): dialogue choices are "Yes", "Yes but in blue", "Yes but in red". The multiplayer: 114702075 "Multiplayer is great. I've never played the story."; 117425231 says it is "still active at least on PC"; 115074560 says it has little replay value. 115449778 could not launch the game because Origin was down.
 
 **Next:** Mass Effect: Andromeda batch 12 (50 reviews).
+
+## Notes - round 1041 (Mass Effect: Andromeda batch 12)
+
+Twentieth unit of the 21:44 firing - the firing did all twenty (twenty a firing; test set of the third pace test). 50 reviews, 2022-07-07 to 2022-09-22; 13 thumbs down; 121 bullets; none excluded; 0 Early Access.
+
+**No modes built.** Combat is the clear strength (7 `impactful`; 120682632, a thumbs down: "it easily has the best feeling combat of the ME games"), against 11 `falls-short-of-the-studios-earlier-games` and 9 flat-character notes, many from players coming straight from the trilogy remaster. 121544890 (43 found it helpful) says manual saves are not allowed during missions and autosaves are rare, so "Hours of gameplay can be lost"; its crude jab at the developers is recorded only as such. 122654505: the "multiplayer will take a LOT of grinding". 118824079 quit for a year because their controller could not use the powers.
+
+**This firing (21:44):** twenty units, rounds 1022-1041 - the end of Mass Effect 3 (2012) and its pages (1022-1028), the Andromeda pick (1029) and Andromeda batches 1-12 (1030-1041). It is the first of the four firings at twenty that the third pace test counts.
+
+**Next:** Mass Effect: Andromeda batch 13 (50 reviews).
