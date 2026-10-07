@@ -45,7 +45,7 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 | C16a | Mass Effect Legendary Edition | 1328670 | May 14, 2021 | 67,446 | 91% | 44,771 | no | Rico: "all of them" |
 | C16b | Mass Effect (2007) | 17460 | Dec 19, 2008 | 16,575 | 94% | 10,553 | no |  |
 | C16c | Mass Effect 2 (2010 Edition) | 24980 | (no date shown) | 15,544 | 94% | 9,927 | no | no store date shown; a newer re-listed page, 2362420, has only 386 reviews |
-| C16d | Mass Effect 3 N7 Digital Deluxe Edition (2012) | 1238020 | Jun 11, 2020 | 2,805 | 77% | 1,755 | **WIP** (row 21 of `GAMES-TODO.md`, pulled 2026-10-07) |  |
+| C16d | Mass Effect 3 N7 Digital Deluxe Edition (2012) | 1238020 | Jun 11, 2020 | 2,805 | 77% | 1,755 | **Done** (row 21 of `GAMES-TODO.md`; findings 2026-10-07, cross-game section 34, takeaways entry in) |  |
 | C16e | Mass Effect: Andromeda Deluxe Edition | 1238000 | Jun 11, 2020 | 18,837 | 74% | 11,181 | no |  |
 | C17 | EARTH DEFENSE FORCE 5 | 1007040 | Jul 11, 2019 | 11,543 | 94% | 7,203 | **Done** (row 10 of `GAMES-TODO.md`; findings 2026-09-30, cross-game section 23) | online co-op and split-screen co-op |
 | C18 | Black Gunner Wukong | 2270750 | Feb 4, 2024 | 485 | 98% | 45 | no | **Under the 500 floor.** Rico's pick. Not Black Myth: Wukong (2358720), which is a different game |

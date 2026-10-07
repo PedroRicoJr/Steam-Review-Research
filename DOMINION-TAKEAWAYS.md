@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Mass Effect 3 (2012) | 2026-10-07 | 75.5% |
 | Palworld | 2026-10-07 | 93.6% |
 | LORT | 2026-10-07 | 80.7% |
 | Risk of Rain (2013) | 2026-10-07 | 89.1% |
@@ -153,6 +154,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | ELDEN RING NIGHTREIGN | third-person co-op runs, three players | 87.8% | 105.3 | 64.0 | 1.65 : 1 | 1.88 | section 27 |
 | Remnant II | third-person co-op sequel | 83.6% | 121.6 | 77.5 | 1.57 : 1 | 2.30 | section 19 |
 | ARC Raiders | extraction where other players can shoot you | 79.7% | 86.8 | 56.7 | 1.53 : 1 | 1.56 | section 25 |
+| Mass Effect 3 (2012) | third-person sci-fi story game with a four-player co-op wave mode, needs EA's launcher | 75.5% | 82.2 | 62.3 | 1.3 : 1 | 1.51 | section 34 |
 | LORT | fantasy co-op runs, up to eight, Early Access | 80.7% | 102.5 | 81.7 | 1.25 : 1 | 2.05 | section 32 |
 | Aliens: Fireteam Elite | licensed co-op, players connect to each other | 81.3% | 124.6 | 141.8 | 0.88 : 1 | 2.94 | section 19 |
 | Back 4 Blood | four-player co-op, paid | 69.2% | 118.0 | 137.2 | 0.86 : 1 | 2.63 | section 19 |
@@ -1128,6 +1130,156 @@ reviews said.
 ---
 
 # The games
+
+## Mass Effect 3 (2012)
+
+**Read:** 1,057 of 1,757 English reviews (60.2%; none left out), ±2.65%, written June 2020 to October
+2026 - from its Steam release to now. **75.5% thumbs up** in the sample (Steam, all languages: 77%,
+*Mostly Positive*). **Pages:** `findings/mass-effect-3-english.md`, `findings/mass-effect-3.md`,
+`findings/cross-game.md` section 34.
+
+**What it is:** a third-person sci-fi shooter with role-playing, the end of a trilogy: Commander Shepard
+leads a squad of three to unite the galaxy against the Reapers, carrying choices over from the first two
+games. It also has a separate online co-op mode: "team up with friends online to liberate key conflict
+zones from increasingly tough opponents" (Steam store). Made by BioWare, published by Electronic Arts;
+first out in 2012, on Steam since 2020-06-11; $29.99, and it needs EA's own launcher to run. Its remaster,
+the Legendary Edition (2021), is single player only on its store page.
+
+**How close to Dominion:** the co-op mode is close - four players, third person, sci-fi, against waves of
+the game's own enemies, ending in an extraction (reviewers' account). The rest is a story campaign, not
+runs.
+
+### The short version (plain words)
+Players who left mostly could not get the game to run: of 259 thumbs down, 66 say it will not start, 40
+that EA says they don't own it, and 31 that it needs EA's launcher - only 14 blame the famous ending. The
+co-op mode became the reason people buy this version: 127 notes single it out and 70 say it is still alive
+in 2026. The story and characters carry the single player, but the ending still divides (78 against, 44
+for).
+
+### What players praised, most to least
+1. **The co-op multiplayer is the best part** - 127. "Best co-op multiplayer game I've ever played."
+   (120530113, 38 found it helpful).
+2. **The multiplayer is still alive** - 70. "I get a game every few seconds" (185989968).
+3. **A great story** - 49; **loved characters** - 43; **choices from all three games change it** - 38.
+4. **The ending works** - 44, more of them in later years.
+5. **As good as or better than the first two games** - 35.
+6. **Players share fixes with each other** - 32.
+7. **The DLC is worth it** - 29, Citadel most.
+8. **The best of its kind** - 26; **mods make it better** - 18; **keeps pulling you back** - 15; **many
+   builds** - 15; **best with friends** - 12.
+
+### What players complained about, most to least
+1. **The ending lets the trilogy down** - 78 (14 of them thumbs down). "Its been 8 years and i'm still
+   mad." (70838652, 92 found it helpful).
+2. **It won't start** - 72 (66 of the thumbs-down reviews).
+3. **It needs Origin or the EA app** - 48.
+4. **EA says they don't own it or asks for a key** - 42 (40 thumbs down).
+5. **Worse than the first two games** - 32.
+6. **No controller support on PC** - 22; **one key for sprint, cover, vault and use** - 15.
+7. **Buggy** - 19; **frame drops** at the 2020 launch - 18; **crashes** - 10.
+8. **Makes no sense without the first two games** - 18.
+9. **Had to find a fix themselves** - 18; **support sends you in circles** - 13.
+10. **Multiplayer unlocks come only from loot boxes** - 12; **the best ending needs the multiplayer** -
+    11; **a "deluxe" edition without the DLC** - 11.
+
+Thumbs down show a median of 4 hours played; thumbs up 24.5.
+
+### How it changed over time
+- **Steam launch (June-August 2020):** 68.8% up. EA's Origin overlay, which reviewers say could not be
+  turned off, dropped the frame rate (14.6 per 100 reviews); the ending complaint was at its peak (13.5).
+- **Before the remaster (September 2020-April 2021):** 73.8% up; launch failures 10.4 per 100.
+- **After the Legendary Edition (May 2021-May 2023):** 76.3% up; reviewers start buying this version for
+  the multiplayer.
+- **The licence break (June-December 2023):** 46.0% up. Reviewers say the move from Origin to the EA app
+  made the game ask owners for a product key: locked out 24.0 per 100, will not start 17.0.
+- **2024 to mid-2025:** 82.6% up; the multiplayer singled out 20.7 per 100.
+- **Late 2025-2026:** 87.8% up; the multiplayer 23.9 and still alive 16.1 per 100.
+
+None of the launcher events was checked against EA's own posts.
+
+### Co-op and online play
+- **The shape (reviewers' account):** "you and up to 3 other players attempt to survive against 10 waves
+  of increasingly challenging enemies"; some waves have objectives; a match ends with an extraction
+  (213883289). Four difficulties; "Just do not try Platinum at least for a while" (184204067).
+- **Characters are the draw:** classes and alien races with their own powers - "being a Geth Juggernaut
+  and face tanking some of the scariest enemies in the game for your team" (194996731).
+- **Finding a game:** "about 30 seconds to queue into any game at any time on any difficulty" (190580286);
+  full squads "at 3 am on a week day", "friendly and helpful even (possibly because it's a co-op pve
+  environment with little at stake)" (227620932); but sometimes hard to find players (223555318).
+- **Hosting:** one reviewer says it is peer to peer (167109924); "This will vary depending on your distance
+  from the host" (221030047), about lag and rubber-banding.
+- **Losing rewards:** credits earned can vanish if someone leaves or you back out too fast (221030047);
+  two crashes "right before extraction" (211308820).
+- **Joining friends:** friends on different launchers could not play together (230252416); invites stopped
+  showing (217457791); matchmaking "utilises no steam functionality to unite you with your friends"
+  (224690931).
+- **Owning the right version:** without the multiplayer DLC "you may find yourself waiting endlessly in
+  matchmaking" (108704167); others say the DLC can be claimed free through EA.
+
+### Combat, movement and feel
+- The best combat of the trilogy for many: power combos, any weapon on any class, weight against power
+  recharge (77528779, 169944713).
+- One key does sprint, cover, vault and use (15): "You will constantly find yourself sticking to random
+  objects you never wanted to take cover behind" (76353745).
+- No controller support on PC (22); a fan mod adds it. The close camera can block the view in crowded
+  fights (214559320).
+
+### Enemies, bosses and difficulty
+- Varied enemies: units that pin you down, flush you from cover, or support others (77528779).
+- The top multiplayer difficulty is beyond the average group; the end of the campaign spikes.
+
+### Progression, loot, randomness and grind
+- Campaign: choices and imports carry over from the first two games (38).
+- Multiplayer: unlocks come only from loot boxes bought with earned credits; about 150 million credits and
+  "~500 hours" for everything (213883289, reviewer's figures); players praise that real money is gone and
+  many cheat past the grind.
+
+### Runs, content and replay value
+- Not built on runs. 15 keep coming back; the repeat play is in the multiplayer.
+
+### Money and price
+- $29.99 is called too much for its age (8 say buy on sale); a "deluxe" edition without most DLC (11).
+
+### Tech: performance, crashes, bugs
+- Will not start (72), the launcher (48), locked out (42), frame drops at launch (18), bugs (19), crashes
+  (10). The interface does not scale at high resolutions.
+
+### The studio, updates and community
+- Players run the fixes (32). Support is unhelpful (13): one reviewer describes six rounds of EA support
+  that removed their access and gave up (224697672, 88 found it helpful). A fan Discord helps find games.
+  Reviewers say the studio abandoned the mode and left it out of the remaster.
+
+### What players asked for
+The multiplayer in the Legendary Edition or as its own game (many); controller support (22); a better
+ending (many); no EA launcher; the DLC included.
+
+### Only in this game
+- **Add-ons owned on another store must be bought again** - 1 review, the only game (70837735).
+- First of 28 large games on the co-op mode singled out (12.0 per 100), on will not start (6.8) and on
+  being locked out of one's own copy (4.0).
+
+### For Dominion - our reading
+1. **A four-player PvE wave mode with characters that feel truly different can last for years.** 127 single
+   out the mode; 70 say it is alive in 2026; the character range is what they name. *Strong.*
+2. **Never let a launcher or a licence check stand between an owner and the game.** Won't start, locked
+   out and the launcher are the top thumbs-down reasons (66, 40, 31 of 259). Use Steam's own login. *Strong.*
+3. **Bank rewards as they are earned.** Credits vanish when a teammate leaves; crashes before extraction
+   lose the match. *Strong.*
+4. **On a listen server, pick hosts close to the players.** Lag depends on distance from the host. *Medium.*
+5. **Let friends join through the store they bought on.** Invites failed across launchers. *Medium.*
+6. **One job per key, and controller support on PC.** 15 and 22 complaints. *Medium.*
+7. **Chosen unlocks over loot boxes.** 12 complaints and a grind players cheat past. *Medium.*
+8. **Don't tie one mode's reward to another the player may not want.** The best ending needed the
+   multiplayer (11). *Medium.*
+
+### Limits
+- 60.2% of English reviews, ±2.65%; periods ±6.0% to ±10.0%.
+- 102 reviews (9.6%) were edited later and are counted on the day first written.
+- Checked: the store facts and that the Legendary Edition is single player only on its store page. Not
+  checked: the multiplayer's numbers and hosting, the 2023 licence break, EA's fixes, the support stories.
+- One attack on a named writer is left out; jabs are recorded only as "a crude remark".
+
+---
 
 ## Palworld
 
