@@ -13049,3 +13049,9 @@ Fourth unit of the 05:44 firing (six a firing, pace test set). 50 reviews, 2023-
 Fifth unit of the 05:44 firing (six a firing, pace test set). 50 reviews, 2023-12-15 to 2023-12-31. **No thumbs down.** 76 bullets on 50 reviews, 1.52 per review (30 short reviews, 3 long, unknown share 37% - one-word verdicts, jokes, a text-art review and title puns); none excluded. Id list matched before the dry run.
 
 **No modes built.** 153628335 asks for a sequel in this 2D style rather than 3D (`marketing.reputation.i-want-a-sequel-to-this-one`). 154192148 (80 hours) calls the Providence Trials "the least amount of fun I have ever had playing a video game" and suggests downloading a finished save instead. No review in these two weeks after patch 1.0.4 asks for aiming; one, 154247472, edited 2025-05-22, says flying enemies spoil it. 683 reviews left.
+
+## Notes - round 855 (Risk of Rain Returns batch 18)
+
+Sixth unit of the 05:44 firing - the first firing at six is complete (batches 13-18). 50 reviews, 2023-12-31 to 2024-02-21. **2 thumbs down** (156051398: crashes; 158916867: a crude sexual joke, recorded only as that). 74 bullets on 50 reviews, 1.48 per review; none excluded. Id list matched before the dry run.
+
+**No modes built.** **158337597** (edited 2024-02-16) is the first review after patch 1.0.4 to ask about aiming: "Gameplay is still very clunky, despite the new control schemes. Just please let us shoot up" - consistent with the patch notes, which added left-right mouse aim but not 360-degree aim (round 846). Its edit takes the complaints back ("nvm it was just a skill issue"). 156064683 looks forward to Workshop support (reviewer's words, at `live-ops.update-cadence.awaiting-promised-content`; not checked). A family joke in 155485379 is left out. 633 reviews left.
