@@ -13656,3 +13656,11 @@ Fourth unit of the 15:45 firing. 50 reviews, 2026-02-11 to 2026-02-21, all in Ea
 Also: **the end-of-stage ghosts** - 218821741 says after the 1-minute timer they slow you until at 3-4 stacks you cannot move, and 218888736 says reapers attack players waiting in the circle on the final night; filed on `a-clock-decides-when-you-leave`. 218888736 also finds map 4 about 3x harder than map 3 and wants the death penalty removed or curable. **218843206** wants a first-person view for ranged characters. **218853787** sees about a 30% frame drop by each level's end. **218848895** says players who rush as in Risk of Rain 2 struggle - here you must loot each area fully. Refunds: 218067169, 218058148. Batch sizes for the scripts: `--sizes 50x7`.
 
 **Next:** LORT batch 8 (50 reviews).
+
+## Notes - round 953 (LORT batch 8)
+
+Fifth unit of the 15:45 firing. 50 reviews, 2026-02-19 to 2026-02-28, all in Early Access; 6 thumbs down; 105 bullets, 2.10 per review; unknown share 18%; none excluded. Id list matched before the dry run.
+
+**No modes built.** **Public matchmaking has arrived** by 2026-02-20 (218744090), with a new problem: twice a public host kicked everyone in the last phase of the final boss after 90 minutes; it wants kicking locked in that fight. **219476122** cannot properly reconnect mid-game, and **219399361** (7 found it helpful) says the game is not balanced for players joining mid-run. **218734819** lists what Risk of Rain 2 has and LORT lacks: no re-rolling, selling or recycling items; gold short and not carried between rounds; at night past level 2 you can only run. **218703842** says the demo was better balanced than the release (reviewer's account). **219334207** (7 found it helpful) says every character feels the same because all want the same stats and items, and the meta progression is the same flat buffs for everyone. **218728271**, edited 2026-08-11, says the latest update greatly improved build choice and weapon variety (not checked). The 8-player cap is praised again by 5 reviews. 219310919 explains the title's meaning in Scandinavian languages (not checked, left as the reviewer's note). 218710151's praise is recorded without its crude wording. Batch sizes for the scripts: `--sizes 50x8`.
+
+**Next:** LORT batch 9 (50 reviews).
