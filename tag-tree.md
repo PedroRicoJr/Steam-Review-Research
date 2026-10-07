@@ -12632,6 +12632,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 840, Risk of Rain Returns batch 3.** Built under Rule C. `findphrase` for while shooting, while firing, when firing, run and gun and slows you down found no earlier sighting: the matches praise moving while shooting or call a game "run and gun".
 
+## Modes added in Risk of Rain Returns batch 4 - round 841 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.a-dead-player-keeps-playing` | **+** | A player who dies in co-op is not left watching: they come back in a smaller role (a drone, a ghost, a helper) and keep taking part until the run ends or they are revived. **The positive twin of `.a-dead-player-spectates-until-the-next-checkpoint`.** Risk of Rain Returns 149838153 (*"a 'Drone Life' feature that is new that allows you to remain invested and involved in the game even after you die"*). |
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-original-rules-are-an-option` | **+** | A remake or reworked game keeps the older rules as a setting, so players can choose the original way to play or the new one. Risk of Rain Returns 149836905 (*"u can always play RoR 1 classic style in the settings"*). |
+
+🔑 **Round 841, Risk of Rain Returns batch 4.** Built under Rule C. `findphrase` for after you die, while dead, when you die, classic mode, classic style, old version and original version found no earlier sighting: the death matches are about restarts, replays and lost currency.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

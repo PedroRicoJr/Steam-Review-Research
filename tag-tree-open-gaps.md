@@ -12943,3 +12943,13 @@ Third unit of the 01:44 firing. 50 reviews, all dated 2023-11-09, the day after 
 After 150 reviews: 31 bullets say the remake improves on the original, 6 that it stays true, 5 that it changes too little. The three thumbs down: **149839599** (9 found it helpful: new art and music, but the play, navigation and difficulty are unchanged, and nothing they try matters); **149839324** ("no good"); **149838848** (platforming "like Getting Over It with dudes shooting at you").
 
 Checked: 149839016 calls "the addition of Claptrap" unnecessary. Claptrap is not named on the game's Steam store page or in any of its Steam news items (`store.steampowered.com/api/appdetails?appids=1337520` and `api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=1337520`, 2026-10-07), so it stays the reviewer's words. Left as the reviewer's words: 149838614's "RIP Hopoo" (edited 2024-09-03) and 149839054's 1,600 hours in the sequel. 1,383 reviews left.
+
+## Notes - round 841 (Risk of Rain Returns batch 4)
+
+First unit of the 02:44 firing. 50 reviews, 2023-11-09 to 2023-11-12. **2 thumbs down.** 88 bullets on 50 reviews, 1.76 per review (25 short reviews, 9 long, unknown share 26% - title puns, one-word reviews and jokes); none excluded. Id list matched before the dry run.
+
+**2 modes built** (tree 1,986 -> 1,988): `game-design.co-op-design.a-dead-player-keeps-playing` (149838153, a dead player kept involved instead of watching - the positive twin of `.a-dead-player-spectates-until-the-next-checkpoint`) and `game-design.modes.the-original-rules-are-an-option` (149836905, the first game's style as a setting). `findphrase` found no earlier sighting.
+
+Checked and not confirmed: the "Drone Life" feature (149838153) and the "RoR 1 classic style" setting (149836905) are not named on the game's Steam store page or in its 26 Steam news items (`store.steampowered.com/api/appdetails?appids=1337520`, `api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=1337520`, 2026-10-07), so both bullets are marked as the reviewers' words. 149837163's "Hopoo leaves this franchise on a very high note" is the third review to suggest the studio is gone (with 152611852 and 149838614); none is checked.
+
+After 200 reviews: 47 bullets say the remake improves on the original, 7 that it stays true, 7 that it changes too little. Connection trouble recurs: 149837795 (25 found it helpful) holds a thumbs down until reconnecting is added, and 149838431 begs for the same. The other thumbs down, **149837025**, is a mock studio meeting: the same game with twice the pixels, slippery abilities, pixel-precise hitboxes and platforming challenges for unlocks. 1,333 reviews left.

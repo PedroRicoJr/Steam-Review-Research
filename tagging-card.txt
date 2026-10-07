@@ -1984,3 +1984,5 @@ game-design.game-feel.controls.you-can-only-shoot-straight-ahead | - | The playe
 game-design.enemy-design.the-enemies-keep-pace-with-you | - | Most enemies move as fast as the player or faster, so a group cannot be outrun and every fight becomes run, tu
 game-design.modes.a-player-off-the-shared-screen-is-pulled-back | - | In local co-op on one screen, a player who stays off screen for a few seconds is moved back to the middle, and
 game-design.game-feel.combat.shooting-slows-you-down | - | Firing cuts the character's speed, so the player cannot run and shoot at full pace and must choose between mov
+game-design.co-op-design.a-dead-player-keeps-playing | + | A player who dies in co-op is not left watching: they come back in a smaller role (a drone, a ghost, a helper)
+game-design.modes.the-original-rules-are-an-option | + | A remake or reworked game keeps the older rules as a setting, so players can choose the original way to play o
