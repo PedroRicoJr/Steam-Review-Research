@@ -1,0 +1,762 @@
+[
+ {
+  "code": "R001",
+  "review_text": "very epic game, not good multiplayer unless you are a big hacker, ror returns on top",
+  "notes": [
+   "- Multiplayer isn't good unless you're 'a big hacker'.",
+   "    → community.social-features.joining-needs-the-hosts-ip-address (bad)"
+  ]
+ },
+ {
+  "code": "R002",
+  "review_text": "if only the risk of rain 2 engi Returns™",
+  "notes": [
+   "- A joke wishing for Risk of Rain 2's Engineer.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R003",
+  "review_text": "Waves of monster that are asking you to destroy them. Stack different types of buffs and see if your idea works. Many characters to choose from and lots of weapons/powers to find. Theres no limit to how many you want to stack, high risk for high rewards.",
+  "notes": [
+   "- Stack different buffs with no limit to test your ideas - high risk, high reward.",
+   "    → game-design.progression.build-and-customisation.deep-and-varied (good)",
+   "- Many characters to choose from.",
+   "    → game-design.role-design.each-role-plays-its-own-way    (good)"
+  ]
+ },
+ {
+  "code": "R004",
+  "review_text": "9.65/10",
+  "notes": [
+   "- '9.65/10.'",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R005",
+  "review_text": "The Upgrade",
+  "notes": [
+   "- 'The Upgrade' (120 hours).",
+   "    → marketing.positioning.the-remake-improves-on-the-original (good)"
+  ]
+ },
+ {
+  "code": "R006",
+  "review_text": "This game made me realize its only 4mm big",
+  "notes": [
+   "- Joke: the character is only 4 mm tall (11 found it helpful).",
+   "    → game-design.game-feel.camera.zoomed-out-is-too-small-to-read (bad)"
+  ]
+ },
+ {
+  "code": "R007",
+  "review_text": "There is a risk of rain",
+  "notes": [
+   "- A pun on the title.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R008",
+  "review_text": "risk of thes nuts",
+  "notes": [
+   "- A crude joke (66 found it helpful).",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R009",
+  "review_text": "yes",
+  "notes": [
+   "- 'yes'.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R010",
+  "review_text": "1. i start game first time\n2. i play game for 1 hour\n3. i complete game\n10/10 :)",
+  "notes": [
+   "- A joke: completed the game within an hour of starting.",
+   "    → game-design.difficulty-tuning.unknown                  (~)"
+  ]
+ },
+ {
+  "code": "R011",
+  "review_text": "its fun but not as good as ror2",
+  "notes": [
+   "- Fun, but not as good as Risk of Rain 2.",
+   "    → marketing.reputation.worse-than-the-sequel-that-followed (bad)"
+  ]
+ },
+ {
+  "code": "R012",
+  "review_text": "Who thought that starting off boring and empty before a suddenly exponential difficulty curve was a good idea? The music is well-made, though the leitmotif is perhaps too forward in most tracks, and the pixel art is gorgeous, but in terms of actual gameplay there's just too much of a focus on huge spaces and tiny things occupying them, from your character to all of the incoming threats, and the soon-cluttered UI is no great help. Even better is the way that settings in the options menu are not saved between sessions. This game seems entirely overrated. It's not terrible, but there are far better options out there.",
+  "notes": [
+   "- Thumbs down: a boring, empty start, then a sudden exponential difficulty curve.",
+   "    → game-design.pacing.spikes-out-of-nowhere               (bad)",
+   "- Well-made music, though the main theme is too forward.",
+   "    → audio.music.unknown                                    (~)",
+   "- Gorgeous pixel art.",
+   "    → art.fidelity.looks-great                               (good)",
+   "- Huge spaces with tiny characters and threats in them.",
+   "    → game-design.level-design.the-spaces-are-scaled-too-big (bad)",
+   "- The interface clutters up fast.",
+   "    → game-design.ui-ux.cluttered-screen                     (bad)",
+   "- Option settings are not saved between sessions.",
+   "    → engineering.bugs.buggy                                 (bad)",
+   "- Overrated; far better options exist.",
+   "    → review.calls-it-average-rather-than-good-or-bad        (~)"
+  ]
+ },
+ {
+  "code": "R013",
+  "review_text": "I am a fan of the series; I have played a ton of Risk of Rain 2. I love this entry! The game play loop is amazing, love the art style, the enemies are challenging and interesting, the characters feel very different from one another, and the different game modes are fun!",
+  "notes": [
+   "- An amazing gameplay loop.",
+   "    → game-design.replayability.keeps-pulling-you-back       (good)",
+   "- Loves the art style.",
+   "    → art.fidelity.looks-great                               (good)",
+   "- Challenging, interesting enemies, and characters that feel very different.",
+   "    → game-design.role-design.each-role-plays-its-own-way    (good)",
+   "- The different modes are fun.",
+   "    → game-design.modes.the-challenge-mode-is-fun            (good)"
+  ]
+ },
+ {
+  "code": "R014",
+  "review_text": "I need to play this more. probably a hot take, but I like this better than RoR2.",
+  "notes": [
+   "- Likes it better than Risk of Rain 2.",
+   "    → marketing.reputation.better-than-the-sequel-that-followed (good)"
+  ]
+ },
+ {
+  "code": "R015",
+  "review_text": "fun game but the achievement grind is crazy",
+  "notes": [
+   "- Fun, but the achievement grind is crazy (159 hours).",
+   "    → game-design.progression.unlock-pace.grindy             (bad)"
+  ]
+ },
+ {
+  "code": "R016",
+  "review_text": "played while waiting for RoR2 anniversary update a year or so ago, worth the musical call backs",
+  "notes": [
+   "- Played it while waiting for a Risk of Rain 2 update - worth it for the musical callbacks.",
+   "    → audio.music.fits-the-game                              (good)"
+  ]
+ },
+ {
+  "code": "R017",
+  "review_text": "best platformer being a ror enjoyer.",
+  "notes": [
+   "- The best platformer for a Risk of Rain fan.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R018",
+  "review_text": "Might be better than CSGO to be honest with ya",
+  "notes": [
+   "- A joke comparing it to a competitive shooter.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R019",
+  "review_text": "The return definitely holds up.",
+  "notes": [
+   "- The return holds up.",
+   "    → marketing.reputation.still-holds-up-years-later        (good)"
+  ]
+ },
+ {
+  "code": "R020",
+  "review_text": "Fun.",
+  "notes": [
+   "- 'Fun.'",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R021",
+  "review_text": "um",
+  "notes": [
+   "- Thumbs down: 'um'.",
+   "    → review.negative.unknown                                (bad)"
+  ]
+ },
+ {
+  "code": "R022",
+  "review_text": "It is OK",
+  "notes": [
+   "- Thumbs down: 'It is OK'.",
+   "    → review.calls-it-average-rather-than-good-or-bad        (~)"
+  ]
+ },
+ {
+  "code": "R023",
+  "review_text": "Beat the game on easy. Didnt want to replay it afterwards. Lots of content, but the gameplay doesnt feel very smooth and the characters are too small. Not my favorite. 5.5/10",
+  "notes": [
+   "- Thumbs down: beat it on easy and did not want to play again.",
+   "    → game-design.replayability.runs-out-fast                (bad)",
+   "- Lots of content.",
+   "    → production.content-amount.plenty                       (good)",
+   "- The play does not feel very smooth.",
+   "    → game-design.game-feel.movement.movement-feels-choppy   (bad)",
+   "- The characters are too small.",
+   "    → game-design.game-feel.camera.zoomed-out-is-too-small-to-read (bad)"
+  ]
+ },
+ {
+  "code": "R024",
+  "review_text": "great",
+  "notes": [
+   "- 'great'.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R025",
+  "review_text": "at braxton, Thank you for playing this game with me, I played it with you. I did not beat the game once, I will one day I think. at john I don't know who you are but thanks",
+  "notes": [
+   "- Thanks friends for playing it with them; has not beaten it yet.",
+   "    → community.playing-with-friends.much-better-with-friends (good)"
+  ]
+ },
+ {
+  "code": "R026",
+  "review_text": "heavy chance of the water cycle again",
+  "notes": [
+   "- A pun on the title.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R027",
+  "review_text": "I played a ton of Risk 1, and Returns is a very faithful remake, keeping everything I loved while adding a ton of new content to enjoy. If you've played Risk 1, you'll love Returns. And if you haven't? Give Returns a shot and see if it's for you.",
+  "notes": [
+   "- Played a ton of the first game: a very faithful remake that keeps everything they loved and adds lots of content.",
+   "    → marketing.positioning.the-remake-stays-true-to-the-original (good)"
+  ]
+ },
+ {
+  "code": "R028",
+  "review_text": "Very enjoyable if you like steep learning curves and yelling at inanimate objects",
+  "notes": [
+   "- For fans of steep learning curves.",
+   "    → game-design.progression.complexity.rewarding-once-learned (good)"
+  ]
+ },
+ {
+  "code": "R029",
+  "review_text": "10/10",
+  "notes": [
+   "- '10/10'.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R030",
+  "review_text": "Loader can crush my supple face between her hydraulic thighs, no cap. 10/10",
+  "notes": [
+   "- A crude joke about the Loader.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R031",
+  "review_text": "risk of rain returns modding startstorm mod risk of rain startstorm mod starstorm returns risk of rain returns starstorm mod returns to modding risk of rain modding returns modding risk modding of raimoddingn modding mmmm whistling basin remnants best song (picture of me ♥♥♥♥♥♥♥ (dont post that)) oh yeah also gearbox doesnt develop this one so its better i had to edit my review uhgrhugr",
+  "notes": [
+   "- Plays it with the Starstorm fan mod; names a favourite track (edited).",
+   "    → community.user-created-content.mods-extend-the-game    (good)"
+  ]
+ },
+ {
+  "code": "R032",
+  "review_text": "If you do not own this game, you are wrong.",
+  "notes": [
+   "- 'If you do not own this game, you are wrong.'",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R033",
+  "review_text": "Amazing. Really brings the old game to life. As a big Risk of Rain fan (~99.1% on my Xbox) it is so cool to see the same game with the same artstyle but with new content, challenges and far better graphics.",
+  "notes": [
+   "- Brings the old game to life with new content, challenges and far better graphics, from a big fan of the original.",
+   "    → marketing.positioning.the-remake-improves-on-the-original (good)"
+  ]
+ },
+ {
+  "code": "R034",
+  "review_text": "only gripe i have is you cant rebind any controls to the mouse. other than that great game, great soundtrack. love it.",
+  "notes": [
+   "- You cannot bind controls to the mouse.",
+   "    → game-design.game-feel.controls.missing-expected-bindings (bad)",
+   "- A great soundtrack.",
+   "    → audio.music.fits-the-game                              (good)"
+  ]
+ },
+ {
+  "code": "R035",
+  "review_text": "Continuing my og RoR runs of Huntress Glass Canon build in RoR Returns, life truly is beautiful",
+  "notes": [
+   "- Carrying on their old Huntress glass-cannon runs from the original.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R036",
+  "review_text": "Just as fun as the first game with the added characters from RoR2. Its a great challenge for those who love both the Risk of Rain games.",
+  "notes": [
+   "- Just as fun as the first game, with characters added from Risk of Rain 2.",
+   "    → marketing.positioning.the-remake-improves-on-the-original (good)",
+   "- A great challenge.",
+   "    → game-design.difficulty-tuning.satisfyingly-hard        (good)"
+  ]
+ },
+ {
+  "code": "R037",
+  "review_text": "game's called risk of rain *looks inside* the mass murder of innocent animals and killing an omnipotent god of life",
+  "notes": [
+   "- A joke about what the game is really about.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R038",
+  "review_text": "More like RISK OF A ♥♥♥♥♥♥♥ BLOODSTORM OUT OF SATANS ASS!\nTo survive here, u need either godlike skills, or all the Luck of the universe, but that will only help with 1 Run.\nBut DAMN!       I  J U S T    N E E D E D   T O   F I N I S H  I T !  \n\nITS ADDICTING!\n\nOnly other games that are that satisfing to complete are binding of issac and Dark Souls maybe...\nAnd just like in those u get an archivment for dying to much. SPOILER AHEAD! [spoiler](At least u get an item that grants u 1 revive per run if found) [/spoiler]",
+  "notes": [
+   "- In crude terms: you need godlike skill or all the luck in the universe, and only for one run.",
+   "    → game-design.randomness.luck-decides-the-outcome        (bad)",
+   "- Addictive - they just had to finish it.",
+   "    → game-design.replayability.keeps-pulling-you-back       (good)",
+   "- As satisfying to finish as The Binding of Isaac or Dark Souls.",
+   "    → marketing.reputation.explained-by-naming-other-games   (~)",
+   "- Dying a lot earns an item that grants a revive per run.",
+   "    → game-design.progression.unlock-pace.satisfying-progression (good)"
+  ]
+ },
+ {
+  "code": "R039",
+  "review_text": "Great game!",
+  "notes": [
+   "- 'Great game!'",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R040",
+  "review_text": "Immensely fun game, this is the first Roguelike I've ever played and I've had a blast doing so.\nSome of the trials can be a tad frustrating but it's fine for the most part. (and the devs are doing stuff to make some of them better iirc)\nThe game also has an absolutely great soundtrack that holds up today, even though a majority of the tracks are mostly unchanged (aside from being remastered) from the original release.\n \nOverall I've enjoyed it a lot so far, and I'd definitely recommend it.",
+  "notes": [
+   "- Their first roguelike, and a blast.",
+   "    → review.positive.unknown                                (good)",
+   "- Some trials are a bit frustrating, though the developers are improving some.",
+   "    → game-design.progression.unlock-pace.an-unlock-challenge-is-a-chore (bad)",
+   "- A great soundtrack, mostly remastered rather than changed.",
+   "    → audio.music.fits-the-game                              (good)"
+  ]
+ },
+ {
+  "code": "R041",
+  "review_text": "its actually so peak you have no clue",
+  "notes": [
+   "- Praise in slang.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R042",
+  "review_text": "I've played the game much more than my public record would show.\n\nA truly great action roguelike with multiplayer. Buy this!",
+  "notes": [
+   "- A great action roguelike with multiplayer.",
+   "    → community.playing-with-friends.much-better-with-friends (good)"
+  ]
+ },
+ {
+  "code": "R043",
+  "review_text": "First off, this is not a roguelike, nor can it be said to have \"roguelike elements\" either. So stop calling it one.\n\nIt is a pure action game with randomly distributed items and premade levels that have semi-randomized structures. It is close to arcade design philosophy, but not quite. Luck plays too much of a factor in item generation, which can and will make or break runs (unless you play Huntress, because, regardless of what anyone may think or say on the matter, the ability to move while attacking puts her above everyone else in the cast) Yes, it is very possible to extend past the upper limit of the difficulty timer and become an absurd missile-spewing, marathon-running, never-dying asshat. But at that point you're more or less ruining whatever is left of the experience for yourself.\n\nWhat puts me off most of all is the idea of unlockables, or first and foremost, the idea that you cannot experience the game at its best until you fulfill all sorts of weird \"achievements\". It puts me off partly because I know some of you are going to BAWW at me for downloading a complete save, when the fact is I just cannot be bothered to deal with this ♥♥♥♥. It's a lame excuse to wring more playtime out of the player, and the less we see of it the better. I'd rather everything be unlocked from the start and the upper difficulty limit to mean certain death, even for stupidly powerful characters, but what can I do? People are just too satisfied.\n\nI only grudgingly recommend. Play it with others.",
+  "notes": [
+   "- Says it is not a roguelike and should stop being called one - a pure action game with random items and premade levels.",
+   "    → marketing.positioning.sold-as-a-different-kind-of-game (bad)",
+   "- Luck in the items makes or breaks runs.",
+   "    → game-design.randomness.luck-decides-the-outcome        (bad)",
+   "- Huntress, who can move while attacking, is above the rest of the cast.",
+   "    → game-design.power-balance.one-option-dominates         (bad)",
+   "- Past the top of the difficulty timer you become an unstoppable powerhouse, which ruins what is left of the challenge.",
+   "    → game-design.power-balance.progression-outgrows-the-challenge (bad)",
+   "- The game is at its best only after weird achievement unlocks - a lame way to wring out playtime.",
+   "    → game-design.progression.unlock-pace.the-strongest-options-are-locked-behind-challenges (bad)",
+   "- Downloaded a complete save file to skip the unlocks.",
+   "    → review.used-a-cheat-to-get-through-it                  (~)",
+   "- Only grudgingly recommends it; play it with others.",
+   "    → community.playing-with-friends.much-better-with-friends (good)"
+  ]
+ },
+ {
+  "code": "R044",
+  "review_text": "BUY THIS ONE PLEASE IT HAS EVERYTHING YOU WANT FROM THE ORIGINAL RISK OF RAIN AND MORE SOMEHOW !!",
+  "notes": [
+   "- Has everything you want from the original and more.",
+   "    → marketing.positioning.the-remake-improves-on-the-original (good)"
+  ]
+ },
+ {
+  "code": "R045",
+  "review_text": "Amazing game! I've played it for a while now, and its super fun!",
+  "notes": [
+   "- Super fun.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R046",
+  "review_text": "If you are confused by my playtime I mostly played the original however this is a fantastic remake keeping the bones intact while updating the visuals and throwing in some other goodies probably my favorite roguelike of all time.",
+  "notes": [
+   "- A fantastic remake that keeps the bones intact while updating the visuals and adding goodies.",
+   "    → marketing.positioning.the-remake-stays-true-to-the-original (good)"
+  ]
+ },
+ {
+  "code": "R047",
+  "review_text": "the game doesnt work properly with a controller, can't bind anything to mouse, sound completely breaks and stops working occasionally forcing a relaunch, idk how the game is in this state for me when risk of rain 2 is so incredible",
+  "notes": [
+   "- Thumbs down: doesn't work properly with a controller.",
+   "    → game-design.game-feel.controls.the-controller-does-not-work (bad)",
+   "- Nothing can be bound to the mouse.",
+   "    → game-design.game-feel.controls.missing-expected-bindings (bad)",
+   "- The sound sometimes breaks completely, forcing a relaunch.",
+   "    → engineering.bugs.the-audio-breaks-and-stays-broken     (bad)",
+   "- Can't see why it's in this state when Risk of Rain 2 is so good.",
+   "    → marketing.reputation.worse-than-the-sequel-that-followed (bad)"
+  ]
+ },
+ {
+  "code": "R048",
+  "review_text": "Its alright",
+  "notes": [
+   "- 'Its alright' (edited 2020-06-29).",
+   "    → review.calls-it-average-rather-than-good-or-bad        (~)"
+  ]
+ },
+ {
+  "code": "R049",
+  "review_text": "Lots of fun, but very hard. Beating the game is achievable if you work at it. Lots of replayability with 12 different characters to unlock. Master each characters play style to slay the bosses and beat the game! It feels good to triumph against stacked odds.",
+  "notes": [
+   "- Very hard, but beatable if you work at it.",
+   "    → game-design.difficulty-tuning.satisfyingly-hard        (good)",
+   "- 12 characters to unlock and master.",
+   "    → game-design.role-design.each-role-plays-its-own-way    (good)",
+   "- Triumphing against stacked odds feels good.",
+   "    → game-design.game-feel.reward-moment.the-payout-lands-well (good)"
+  ]
+ },
+ {
+  "code": "R050",
+  "review_text": "died on first level 10/10",
+  "notes": [
+   "- A joke: died on the first level, 10/10.",
+   "    → game-design.difficulty-tuning.satisfyingly-hard        (good)"
+  ]
+ },
+ {
+  "code": "R051",
+  "review_text": "she HAN-D in my Damp Caverns till I return",
+  "notes": [
+   "- A crude pun (edited 2025-05-05).",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R052",
+  "review_text": "This game is the reason I hate my mexican friend\n(Im not racist)",
+  "notes": [
+   "- A crude joke about a friend (edited 2025-04-08).",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R053",
+  "review_text": "yes",
+  "notes": [
+   "- 'Yes.'",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R054",
+  "review_text": "L+Ratio+ Coalescence Returns",
+  "notes": [
+   "- A joke about an item.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R055",
+  "review_text": "Nice",
+  "notes": [
+   "- 'Nice' (116 hours).",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R056",
+  "review_text": "+",
+  "notes": [
+   "- A single plus sign.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R057",
+  "review_text": "Perfect remake of an amazing game",
+  "notes": [
+   "- A perfect remake of an amazing game (101 hours).",
+   "    → marketing.positioning.the-remake-improves-on-the-original (good)"
+  ]
+ },
+ {
+  "code": "R058",
+  "review_text": "hard",
+  "notes": [
+   "- 'hard'.",
+   "    → game-design.difficulty-tuning.satisfyingly-hard        (good)"
+  ]
+ },
+ {
+  "code": "R059",
+  "review_text": "really fun 100% it on my ps4 then did the same on pc nice level design and sound track",
+  "notes": [
+   "- Completed it 100% on PS4, then again on PC.",
+   "    → game-design.progression.achievements.plenty-to-hunt    (good)",
+   "- Nice level design.",
+   "    → game-design.level-design.well-built                    (good)",
+   "- A nice soundtrack.",
+   "    → audio.music.fits-the-game                              (good)"
+  ]
+ },
+ {
+  "code": "R060",
+  "review_text": "Bought this game because of its local co-op support and was left a bit underwhelmed. We start with two characters which didn't offer enough immediate variance between runs for three people. It felt like progression was quite slow since we only unlocked the enforcer and bandit after a couple of hours of playing.\n\nThere were some scale issues when playing on a TV since we needed enough room that we could occasionally spread out without the camera getting wonky which meant that everything was very small. In this game if you jump off a bridge, all of your friends follow you instead of the other way around.  The screen limitations completely negated at least one active item (Marble Gate), though to be honest that was kind of hilarious. It was easy to get punished by bad seeds since in local co-op the entire team needs to move as one and you can't split up to discover the gate so its possible a lot of time is wasted if you start searching the wrong direction. \n\nIf you've already played this game single player or with online co-op and you have unlocked characters/artifacts then you're probably in for a good time. But don't expect to really unlock anything over the course of natural play when playing strictly local co-op.",
+  "notes": [
+   "- Thumbs down: bought for local co-op, but two starting characters are too few for three players, and unlocks come slowly.",
+   "    → game-design.progression.unlock-pace.slow-start         (bad)",
+   "- On a shared TV screen the camera keeps everyone together, so everything is tiny and when one player drops off a ledge the others are dragged along.",
+   "    → game-design.modes.a-player-off-the-shared-screen-is-pulled-back (bad)",
+   "- The whole team must move as one, so a bad start searching the wrong way for the gate wastes much time.",
+   "    → game-design.level-design.the-way-onward-is-hard-to-find (bad)"
+  ]
+ },
+ {
+  "code": "R061",
+  "review_text": "Yoinked ROR1 when it came out, played it constantly back when I still had a Windows XP PC.\r\n\r\nProperly bought ROR2 a couple of years back, turned into a completionist with 100 something hours and still trying to 100% the game alongside Eclipses.\r\n\r\nBit the bullet and bought RORR a few weeks back, trying to find the old feeling of ROR1 while insisting that it would be a \"chilled ROR2\" since I would use a controller. Nope, it's just as chaotic, and hurts my wrist immensely because of how bad I held the controller but it's too good. I felt the feeling of the original ROR again.\r\n\r\nLove it. Still my first ever Rougelike series, the first series that managed to convince that I'm not just an FPS player, and one that I still play to this day. It better receives more update, Gearbox. <3",
+  "notes": [
+   "- Felt the first game's feeling again - just as chaotic.",
+   "    → game-design.game-feel.reward-moment.gives-a-nostalgia-hit (good)",
+   "- Asks Gearbox for more updates.",
+   "    → live-ops.update-cadence.too-slow                       (bad)"
+  ]
+ },
+ {
+  "code": "R062",
+  "review_text": "Pretty amazing game. Fun and addicting although its age shows.",
+  "notes": [
+   "- Fun and addictive, though its age shows.",
+   "    → game-design.replayability.keeps-pulling-you-back       (good)"
+  ]
+ },
+ {
+  "code": "R063",
+  "review_text": "just play the second one\n\n5/5 best game ever made",
+  "notes": [
+   "- 'Just play the second one' - then '5/5 best game ever made'.",
+   "    → marketing.reputation.worse-than-the-sequel-that-followed (bad)"
+  ]
+ },
+ {
+  "code": "R064",
+  "review_text": "I have yet to get past the second level, but difficulty aside this game is well worth it. Though it may not appear to be much at first glance, there are many different characters to play as (though unlocking them may prove as difficult as the game itself!), procedurally generated levels and TONS of powerups. The learning curve is fairly low, the keyboard controls are simple and can be customized, the graphics are simple yet aesthetically pleasing and the replay value is high. Definitely worth paying full price for, but if you see it on sale and enjoy side-scrolling shoot-em-ups then do not pass it up!",
+  "notes": [
+   "- Many characters, though unlocking them can be as hard as the game.",
+   "    → game-design.progression.unlock-pace.an-unlock-challenge-is-a-chore (bad)",
+   "- Procedurally generated levels.",
+   "    → game-design.randomness.randomness-keeps-it-fresh       (good)",
+   "- Tons of power-ups.",
+   "    → game-design.progression.build-and-customisation.deep-and-varied (good)",
+   "- A fairly low learning curve.",
+   "    → game-design.progression.complexity.easy-to-grasp       (good)",
+   "- Simple keyboard controls you can customise.",
+   "    → game-design.game-feel.controls.rebind-anything         (good)",
+   "- Simple but pleasing graphics.",
+   "    → art.fidelity.looks-great                               (good)",
+   "- Worth full price.",
+   "    → publishing.price.fair                                  (good)"
+  ]
+ },
+ {
+  "code": "R065",
+  "review_text": "it feels like this game is much too overshadowed by risk of rain 2, but as it's own game it's quite incredible. It has a good bit of customization and unlike ror2 whereyou can easily manipulate the geometry to avoid attacks, you're much more forced to combat the enemies in this game. There's no real huge flaws in the design, if you liked ror2 and wanted more of it but didn't wanna play after seekers of the storm released, this is totally perfect. It also helps introduce the original story to fans of ror2 who would have missed out, since the final boss of ror2 isn't even mentioned here (I think)",
+  "notes": [
+   "- Overshadowed by Risk of Rain 2, but incredible in its own right, with good customisation (8 found it helpful).",
+   "    → marketing.reputation.explained-by-naming-other-games   (~)",
+   "- Unlike Risk of Rain 2, you cannot use the terrain to dodge, so you must fight the enemies.",
+   "    → game-design.game-feel.combat.unknown                   (~)",
+   "- Perfect for Risk of Rain 2 players who stopped after 'Seekers of the Storm'.",
+   "    → marketing.reputation.explained-by-naming-other-games   (~)",
+   "- Introduces the original story to newer fans.",
+   "    → narrative.world-and-setting.world-worth-exploring      (good)"
+  ]
+ },
+ {
+  "code": "R066",
+  "review_text": "Shoulda been risk of snow lmao",
+  "notes": [
+   "- A joke about snow.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R067",
+  "review_text": "Brought back Gup.",
+  "notes": [
+   "- Brought back an enemy they like.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R068",
+  "review_text": "MAGMA WORMS",
+  "notes": [
+   "- 'MAGMA WORMS'.",
+   "    → game-design.enemy-design.one-enemy-type-is-hated       (bad)"
+  ]
+ },
+ {
+  "code": "R069",
+  "review_text": "This game is absolutely everything it promises. A roguelike game that runs on your computer.",
+  "notes": [
+   "- Thumbs down, but says it is everything it promises - a roguelike that runs on your computer.",
+   "    → review.thumb-contradicts-text                          (~)"
+  ]
+ },
+ {
+  "code": "R070",
+  "review_text": "This is all we wanted Risk of Rain one to be! It's still degrading on death, but it's a fun 2D Platformer that's hard as friccin hell but by now a LOT more compatible with feelgood chemicals!\n- Drizzle now lets you unlock things,\n- Enemies look AMAZING,\n- There's a FRICKLOAD of new content!\n\nAll in all this is the Update I personally wished RoR had gotten before RoR2 launched.,\n\nAll the goodness from RoR2 has traveled back in time and made Risk of Rain a lot better!",
+  "notes": [
+   "- All they wanted the first game to be, with loads of new content from Risk of Rain 2.",
+   "    → marketing.positioning.the-remake-improves-on-the-original (good)",
+   "- Very hard.",
+   "    → game-design.difficulty-tuning.satisfyingly-hard        (good)",
+   "- Drizzle now lets you unlock things.",
+   "    → game-design.difficulty-tuning.well-graded              (good)",
+   "- Enemies look amazing.",
+   "    → art.fidelity.looks-great                               (good)"
+  ]
+ },
+ {
+  "code": "R071",
+  "review_text": "pretty okay, but not nearly as fun as the the second game, the soundtrack is just as amazing though",
+  "notes": [
+   "- Pretty okay, but not nearly as fun as the second game.",
+   "    → marketing.reputation.worse-than-the-sequel-that-followed (bad)",
+   "- The soundtrack is just as amazing.",
+   "    → audio.music.fits-the-game                              (good)"
+  ]
+ },
+ {
+  "code": "R072",
+  "review_text": "While getting multiplayer to work correctly is annoying, this is definitely one of my favourite rouguelikes. Its worth getting into with a friend, cause ♥♥♥♥♥♥♥, this game is good",
+  "notes": [
+   "- Getting multiplayer working is annoying.",
+   "    → community.social-features.joining-needs-the-hosts-ip-address (bad)",
+   "- Worth getting into with a friend.",
+   "    → community.playing-with-friends.much-better-with-friends (good)"
+  ]
+ },
+ {
+  "code": "R073",
+  "review_text": "great game but the map design is piss poor, if your looking to pick this up bc you like risk of rain 2 dont. its pretty much the same game just 2d and a much worse gameplay cycle thanks to poor map design and character slow movement. also you have to watch the credits every time you finish the game which is very annoying.",
+  "notes": [
+   "- The map design is very poor and movement slow, which makes a much worse loop.",
+   "    → game-design.level-design.the-levels-do-not-suit-the-movement (bad)",
+   "- If you like Risk of Rain 2, don't pick this up - the same game in 2D, but worse.",
+   "    → marketing.reputation.worse-than-the-sequel-that-followed (bad)",
+   "- You have to watch the credits every time you finish, which is very annoying.",
+   "    → game-design.ui-ux.cannot-skip-what-the-game-plays-at-you (bad)"
+  ]
+ },
+ {
+  "code": "R074",
+  "review_text": "This is kinda like risk of rain 2 if it was 2D. Kinda weird that they'd choose to go in this direction.",
+  "notes": [
+   "- Like Risk of Rain 2 in 2D - a joke about the 'odd' direction.",
+   "    → marketing.reputation.explained-by-naming-other-games   (~)"
+  ]
+ },
+ {
+  "code": "R075",
+  "review_text": "Risk of Rain brings enough Playtime to make it into a challenging game. The Coop mode (either local or not) is very stable, and is capable of withstanding the demand.\n\nHowever, I think it is time for a DLC or a sequel, since this game has been around for more than a year without huge implementations.\n\nI strongly believe this game can, and will make you spend several hours trying to master all classes and their skills.",
+  "notes": [
+   "- Co-op, local or online, is very stable (182 hours).",
+   "    → engineering.servers.stable                             (good)",
+   "- Time for a DLC or a sequel - more than a year with no big additions.",
+   "    → live-ops.update-cadence.too-slow                       (bad)",
+   "- You will spend hours mastering every class.",
+   "    → game-design.progression.complexity.rewarding-once-learned (good)"
+  ]
+ },
+ {
+  "code": "R076",
+  "review_text": "whoever decided that the stage 5 teleporter should have a DIFFERENT button to go to providence i'm going to murder you.\r\n...great game tho really difficult",
+  "notes": [
+   "- The fifth-stage teleporter needs a different button to go to the final boss - a mistake they rage at.",
+   "    → game-design.world-interaction.the-interact-key-picks-the-wrong-thing (bad)",
+   "- A great but really difficult game.",
+   "    → game-design.difficulty-tuning.satisfyingly-hard        (good)"
+  ]
+ },
+ {
+  "code": "R077",
+  "review_text": "I'm one of those scrubs who played [i]Risk of Rain 2[/i] before playing the original, aka the 99%.\n\nExcept I still haven't played the 'original' [i]RoR,[/i] instead opting for [i]Risk of Rain Returns,[/i] which has been described (perhaps accurately; I wouldn't know) as an all-around upgrade over the original [i]RoR.[/i]\n\nWell, upgrade or not, I can confidently state this game is great.\n\nIt's like [i]RoR 2[/i] with better graphics, worse gameplay, but significantly more dopamine-inducing moments. Arguably the best 2D shooter I've ever played.\n\nSome of the items would be absolutely bonkers to see in its sequel. Others, I'm glad were introduced into the first title after they had proven themselves in [i]Risk of Rain 2[/i]. It's really the best of both worlds.\n\nWill I ever play the original? Honestly... Probably not, because I have a feeling this is the ideal way to experience the risk associated with rain.\n\n9 / 10 — would get rained on again (except by the Magma worm; ♥♥♥♥ you, Magma Worm)",
+  "notes": [
+   "- Like Risk of Rain 2 with better graphics and worse gameplay, but more rush-inducing moments - perhaps the best 2D shooter they have played.",
+   "    → game-design.game-feel.reward-moment.gives-a-dopamine-hit (good)",
+   "- Items from both games together - the best of both worlds.",
+   "    → game-design.progression.build-and-customisation.deep-and-varied (good)",
+   "- Except the Magma Worm.",
+   "    → game-design.enemy-design.one-enemy-type-is-hated       (bad)"
+  ]
+ },
+ {
+  "code": "R078",
+  "review_text": "I like this but just a warning that you basically cannot play it by yourself. The different characters are all unique enough to be fun but I wish there was like a guide for items or something. It feels half-finished but is still worth getting on sale if you like a platformer.",
+  "notes": [
+   "- Warns you basically cannot play it alone.",
+   "    → game-design.solo-viability.unplayable-alone            (bad)",
+   "- Unique, fun characters.",
+   "    → game-design.role-design.each-role-plays-its-own-way    (good)",
+   "- Wishes there were a guide to the items.",
+   "    → game-design.new-player-experience.poorly-explained     (bad)",
+   "- Feels half-finished; worth it on sale.",
+   "    → production.craftsmanship.needs-more-work               (bad)"
+  ]
+ },
+ {
+  "code": "R079",
+  "review_text": "RAINING RISK ‼️",
+  "notes": [
+   "- A pun on the title (edited 2023-11-27).",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R080",
+  "review_text": "This game contains no bacon",
+  "notes": [
+   "- A joke: it contains no bacon.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ }
+]

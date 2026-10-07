@@ -1,0 +1,12 @@
+base 933 reviews, test 2400 reviews
+
+length band   base n  notes/rev  plain-only   test n  notes/rev  plain-only
+1-5              332       1.00         79%      647       1.00         80%
+6-15             258       1.08         43%      557       1.13         34%
+16-40            180       1.52         15%      554       1.71         10%
+41-100           109       2.56          2%      403       3.08          3%
+101-+             54       6.76          0%      239       5.80          1%
+
+A. notes per review, length-adjusted: test minus base = +0.059   p = 0.1224
+B. reviews with only plain notes: base 43.2%, test 32.2% (raw); CMH chi2 = 4.53   p = 0.0333
+wrote 80 blind reviews to qc/pace-test-2-2026-10-07/blind.json (key in key.json - do not show the auditor)
