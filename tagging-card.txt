@@ -1997,3 +1997,5 @@ game-design.modes.local-co-op-takes-only-one-controller | - | On one screen, the
 live-ops.abandonment.the-fix-is-sold-as-a-new-game | - | A known fault in the game the player owns was never patched there, and is fixed only in a remake or new editio
 accessibility.vision.text-too-small-with-no-size-option | - | The game's text is too small to read comfortably on an ordinary screen, and there is no setting to make it big
 game-design.modes.the-shared-camera-follows-only-one-player | - | In local co-op on one screen, the camera tracks one player and the others must keep up or work blind at the ed
+game-design.co-op-design.teammates-with-different-builds-split-the-rewards | - | The power a stage hands out is spread over every player's build, so in a group each player finds less of what 
+game-design.co-op-design.reviving-takes-too-long-to-survive | - | Reviving a downed teammate means standing still longer than the fight allows, so trying to revive usually gets

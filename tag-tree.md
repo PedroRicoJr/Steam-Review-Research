@@ -12729,6 +12729,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 913, Risk of Rain (2013) batch 38.** Built under Rule C on the first sighting; `findphrase` for "camera only", "camera follows", "follows one", "follows the host" and "follows player" found nothing. Which player the camera follows is the reviewer's account, not checked.
 
+## Modes added in LORT batch 7 - round 952 (Rule C)
+
+### `game-design.co-op-design`
+| Mode | | Definition |
+|---|---|---|
+| `.teammates-with-different-builds-split-the-rewards` | **−** | The power a stage hands out is spread over every player's build, so in a group each player finds less of what their own character needs than they would alone, and playing together makes everyone weaker. **Distinct from `.teammates-can-take-your-things`** (a teammate grabs a pickup first; here nothing is taken - the stage simply offers each player less) **and from `.the-scaling-outpaces-a-full-group`** (the enemies grow too fast for the group; here the group's own growth is cut). LORT 218819580 (*"if I focus my main stat and my friend focuses their main stat then we're practically playing solo"*), 218081113 (a pair finds the map full of the camps neither of them needs). |
+| `.reviving-takes-too-long-to-survive` | **−** | Reviving a downed teammate means standing still longer than the fight allows, so trying to revive usually gets the reviver killed too. **Distinct from `.a-teammates-revive-costs-your-health`** (the revive spends the reviver's health; here it is the time spent standing still) **and from `.each-revive-gets-harder`** (later revives take longer; here even the first is too slow). LORT 218819580 (*"standing still for longer than 2 seconds pretty much means death, let alone the horrendously long time it takes to revive a teammate"*). |
+
+🔑 **Round 952, LORT batch 7.** Both built under Rule C on the first sighting; `findphrase` for "different main stat", "stat camps", "attribute camps", "revive takes", "slow to revive" and "reviving takes" found nothing, and "camps of your colour" found one Risk of Rain-style luck note in this game (216702688), which is about one player's luck, not the group's split. How the game hands out camps by party make-up is the reviewers' account, not checked.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
