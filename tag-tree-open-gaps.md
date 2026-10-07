@@ -13029,3 +13029,11 @@ First unit of the 05:44 firing - the first firing at **six units** (Rico, 2026-1
 Second unit of the 05:44 firing (six a firing, pace test set). 50 reviews, 2023-11-24 to 2023-11-27. **2 thumbs down** (151683078: "Risk of rain 2 is much better, just buy that instead"; 152315365: six hours waiting for an unlock to make it fun, filed at `game-design.progression.unlock-pace.slow-start`). 73 bullets on 50 reviews, 1.46 per review (32 short reviews, 1 long, unknown share 27%); none excluded. Id list matched before the dry run.
 
 **No modes built.** 152310812's claim that the publisher bought the series from the developers went to `publishing.ownership.unknown`, marked as the reviewer's claim (the store lists Gearbox Publishing and 2K as publishers, round 845; ownership of the series is not checked). A partner named in 152314410 is written as "their co-op partner". 833 reviews left.
+
+## Notes - round 852 (Risk of Rain Returns batch 15)
+
+Third unit of the 05:44 firing (six a firing, pace test set). 50 reviews, all dated 2023-11-27. **No thumbs down.** 97 bullets on 50 reviews, 1.94 per review; none excluded. Id list matched before the dry run.
+
+**No modes built.** Two features first reported in rounds 841 and 845 are now described by more reviewers, still not on the store page or in Steam news: **playing on as a drone after death** (152300415, "you can still participate by shooting and picking up items after you die"; with 149838153, 2 bullets at `game-design.co-op-design.a-dead-player-keeps-playing`), and **settings that restore the 2013 game's rules** (152302102: the full-clear rule "can be changed to function like the 2013 game"; 152301191; 152299574: the quality-of-life changes "are optional"; 6 bullets in all at `game-design.modes.the-original-rules-are-an-option`). Six independent reviewers make the setting near-certain; it stays marked as the reviewers' words until a primary source names it.
+
+The two long reviews are full walk-throughs: **152302246** (136 hours: unlock counts, the stage-5 loop, the final boss's tells - reviewer's counts marked) and **152302102** (pixel art redone at higher resolution, a sturdier engine, more stage layouts, and "a fitting, full circle send off for Hopoo Games' last outing" - the fifth review to suggest the studio has left the series, unchecked). 783 reviews left.
