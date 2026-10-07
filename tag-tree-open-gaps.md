@@ -14028,3 +14028,13 @@ Fourth unit of the 19:44 firing. No reviews read.
 - **Pull:** `pull_sample.py --only mass-effect-3/english`, planned 1,088, **got 1,057**, all ids distinct. **Actual margin +/-2.65%** (Rule 12, the `pull_sample.true_moe` formula on the count actually pulled per month). 2020-06 came back with 41 of 55 wanted and is read at weight x4.3, the heaviest; 2021-07, 2021-08 and 2023-05 returned 16, 18 and 11 of 20. Read as pulled under Rico's ruling of 2026-09-04. The sample is 60% of all English reviews.
 
 **Next:** Mass Effect 3 (2012) batch 1 (50 reviews).
+
+## Notes - round 1001 (Mass Effect 3 (2012) batch 1)
+
+Fifth unit of the 19:44 firing. 50 reviews, 2020-06-15 to 2020-07-07 - the first three weeks on Steam; **23 thumbs down**; 131 bullets, 2.62 per review; unknown share 9%; none excluded; no Early Access flags. Long reviews: 28 of 50 are over 60 words.
+
+**One mode built (Rule C):** `publishing.dlc-and-editions.owned-elsewhere-must-be-bought-again` (−), on 70837735 (70 found it helpful): the Steam copy must be linked to the player's Origin account, yet DLC already bought on Origin has to be bought again. `findphrase` for "repurchase" and "buy it again" found no earlier sighting. Tree 2,001 -> 2,002.
+
+**The Steam launch was dominated by Origin.** The forced Origin overlay, which reviewers say cannot be turned off, drops the frame rate (12 notes); 9 more object to needing the Origin launcher and an EA account at all (71738421, 242 found it helpful, the most in the batch); 5 say it will not start; 2 say EA and Steam support each send them to the other, and one says EA finally suggested buying the game again (71761978, 60 found it helpful). 6 notes link a community fix (71546663, 112 found it helpful). **The ending** draws 9 notes; 70838652 (92 found it helpful) is one line: "Its been 8 years and i'm still mad." Praise: choices that change the story (6), gameplay the best of the trilogy (5), voice acting, soundtrack, worldbuilding. The co-op multiplayer appears: a horde mode with its own classes, fun with strangers and best with friends (71556360), still active eight years on (71602106); it runs on loot boxes; its once-free DLC is now inside the paid bundle; and single player's war readiness needs it for the best ending (3 notes). 4 say play the first two games first. 70859131's attack on a lead writer by name is left out. None of the launch problems was checked against EA or Steam news. Batch sizes for the scripts: `--sizes 50x1`.
+
+**Next:** Mass Effect 3 (2012) batch 2 (50 reviews).

@@ -1999,3 +1999,4 @@ accessibility.vision.text-too-small-with-no-size-option | - | The game's text is
 game-design.modes.the-shared-camera-follows-only-one-player | - | In local co-op on one screen, the camera tracks one player and the others must keep up or work blind at the ed
 game-design.co-op-design.teammates-with-different-builds-split-the-rewards | - | The power a stage hands out is spread over every player's build, so in a group each player finds less of what 
 game-design.co-op-design.reviving-takes-too-long-to-survive | - | Reviving a downed teammate means standing still longer than the fight allows, so trying to revive usually gets
+publishing.dlc-and-editions.owned-elsewhere-must-be-bought-again | - | The player already owns the game or its add-ons on another store or launcher, and buying it here gives no cred

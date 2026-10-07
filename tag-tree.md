@@ -12739,6 +12739,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 952, LORT batch 7.** Both built under Rule C on the first sighting; `findphrase` for "different main stat", "stat camps", "attribute camps", "revive takes", "slow to revive" and "reviving takes" found nothing, and "camps of your colour" found one Risk of Rain-style luck note in this game (216702688), which is about one player's luck, not the group's split. How the game hands out camps by party make-up is the reviewers' account, not checked.
 
+## Modes added in Mass Effect 3 (2012) batch 1 - round 1001 (Rule C)
+
+### `publishing.dlc-and-editions`
+| Mode | | Definition |
+|---|---|---|
+| `.owned-elsewhere-must-be-bought-again` | **−** | The player already owns the game or its add-ons on another store or launcher, and buying it here gives no credit for that copy - the add-ons are paid for a second time, even when the game makes the player link the two accounts. **Distinct from `.no-upgrade-path-between-editions`** (content that cannot be reached at any price) and from `engineering.platform-support.no-cross-save` (progress, not purchases, that does not follow the player). |
+
+🔑 **Round 1001, Mass Effect 3 (2012) batch 1.** Built under Rule C on the first sighting, 70837735: the Steam release must be linked to the player's Origin account, yet DLC already bought there has to be bought again. `findphrase` for "repurchase" and "buy it again" found no earlier sighting of this kind.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
