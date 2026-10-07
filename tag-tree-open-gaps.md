@@ -14255,3 +14255,13 @@ Eighth unit of the 21:44 firing (twenty a firing). No reviews read.
 - **Third pace test:** this is the first game started at twenty a firing, so its batches read in the first four firings at twenty are the test set (loop file, **Third test**).
 
 **Next:** Mass Effect: Andromeda batch 1 (50 reviews).
+
+## Notes - round 1030 (Mass Effect: Andromeda batch 1)
+
+Ninth unit of the 21:44 firing (twenty a firing; the first batch of the third pace test's test set). 50 reviews, 2020-06-15 to 2020-08-23; 9 thumbs down; 177 bullets; none excluded; 0 Early Access.
+
+**One mode built (Rule C):** `narrative.story.your-choices-change-nothing` (−), the opposite of `.your-choices-change-the-story`, on 73578085 ("Some choices dose not even impact the world, story or even characters around you") and 73577222 (the dialogue "rendered meaningless", with no Paragon or Renegade). `findphrase` for "choices" and "choices don't matter" found no earlier note filed this way. Tree 2,002 -> 2,003.
+
+**What the first batch says:** the players who stay defend it - 9 notes say it was judged unfairly or should be taken as its own game - but faces (8 notes on `the-faces-do-not-move`), back-and-forth errands with loading screens (3 `quests-send-you-back-and-forth`, 3 `side-content-is-empty-errands`, 2 `long-load-times`, 3 `cannot-skip-what-the-game-plays-at-you`) and missing trilogy races (6 `a-favourite-from-the-last-game-is-missing`) are the common faults. Exploration is the main praise (8 `world-worth-exploring`). EA's launcher shows up early: 3 will-not-start notes in 2 reviews (70842460 gives error codes 16:-1 and 9:0; 72739189 an endless loading loop), 4 launcher, 1 forced sign-in (73924990). Only one note on the multiplayer so far (71179387: "The multiplayer is actually enjoyable and the strike teams aspect is also fun"). 73577222 says it was rushed out after an earlier version was thrown away - reviewer's account, not checked.
+
+**Next:** Mass Effect: Andromeda batch 2 (50 reviews).

@@ -12748,6 +12748,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1001, Mass Effect 3 (2012) batch 1.** Built under Rule C on the first sighting, 70837735: the Steam release must be linked to the player's Origin account, yet DLC already bought there has to be bought again. `findphrase` for "repurchase" and "buy it again" found no earlier sighting of this kind.
 
+## Modes added in Mass Effect: Andromeda batch 1 - round 1030 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.your-choices-change-nothing` | **−** | The reviewer says the decisions the game offers - dialogue answers, sides taken, how a quest is settled - make no difference to the world, the story or the characters, and counts that as a loss. **Distinct from `.earlier-choices-do-not-carry-over`** (choices from an earlier game are dropped; here this game's own choices do nothing) and from `.thin-or-forgettable` (the plot is weak, with no claim about the player's choices). Opposite of `.your-choices-change-the-story`. |
+
+🔑 **Round 1030, Mass Effect: Andromeda batch 1.** Built under Rule C on the first sighting, 73578085 ("Some choices dose not even impact the world, story or even characters around you") and 73577222 (dialogue "rendered meaningless"). `findphrase` for "choices" and "choices don't matter" found no earlier note filed this way.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
