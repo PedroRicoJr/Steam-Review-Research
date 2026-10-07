@@ -14000,3 +14000,9 @@ Twelfth and last unit of the 18:44 firing. `findings/palworld-english.md` writte
 **Batch 19 check (asked about by Rico):** round 986's finishing script stopped on its last stats line because the batch file still held an empty placeholder for a mistyped id (212814352; the real review is 212814354), removed before the write. The write itself was whole: 50 of 50 summaries, no gaps, direction check 0, and 2 thumbs down and 50 Early Access flags, as round 986's note says.
 
 **Next:** the Palworld master page, from `templates/findings-master-page.md`.
+
+## Notes - round 997 (Palworld master page)
+
+First unit of the 19:44 firing (twelve a firing). `findings/palworld.md` written from `templates/findings-master-page.md`, from the same `findings_tables.py` run as round 996. The plain-words column was checked against the bullets behind each mode; two labels were narrowed to what the bullets say (reused Pal models and copy-pasted terrain; games of their childhood, not only Pokémon). Rico asked in chat whether to raise the pace above twelve; the answer given was a trial of 20 a firing with a third pace test after four firings, and nothing changes until he says so.
+
+**Next:** cross-game section 33, from `templates/cross-game-section.md`.
