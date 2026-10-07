@@ -13928,3 +13928,11 @@ Third unit of the 18:44 firing. 50 reviews, 2025-12-23 to 2026-03-07, all in Ear
 **No modes built.** **Co-op connections:** all 3 thumbs down are about loading - 215439707 always times out joining a friend's world, 217296290 sometimes never loads in multiplayer, 216048213 can't launch its world. **217819208** asks why the revealing female Pals and NPCs have no male equivalents. **217818210** is a parody essay in Lovecraft's style on the Pals' treatment (7/10). 219486205 wishes it were first person. 216045048 and 217296379 wait for 1.0. 219482230 is in Turkish. Family details in 217297504 and 218906854 are left out. Batch sizes for the scripts: `--sizes 50x20`.
 
 **Next:** Palworld batch 21 (50 reviews).
+
+## Notes - round 988 (Palworld batch 21)
+
+Fourth unit of the 18:44 firing. 50 reviews, 2026-03-07 to 2026-05-23; 49 in Early Access (226249960, edited 2026-08-03, carries no Early Access flag); 5 thumbs down; 65 bullets, 1.30 per review; unknown share 35%; none excluded. Id list matched before the dry run.
+
+**No modes built.** **222774158** (thumbs down, 10 found it helpful) says the developers locked forum threads asking why players are "type 1 / type 2" while Pals are male and female (`punishes-criticism`; reviewer's account, not checked); 223337458 approves of the body-type options. **Losing progress:** 224458681 (thumbs down) is sent across the ocean by the questline to be one-shot, then can't recover gear and Pals without losing hours; 225600850 (thumbs down) says not logging in for a week wiped every base item (reviewer's account). **223878139** finds it plays more like GTA than a monster tamer: cheap bosses, one dominant Pal, grenades that wreck everything, too many systems for powering up Pals. **222203781** (thumbs down) blames food spoilage for twelve hours of making food. 220129810 says private worlds cap at 4 players, which hurts now that crossplay brings more friends (reviewer's account). 222774685 (thumbs down, edited 2026-09-17) calls the online community unfriendly ("skill issue"). 224465836's personal details are left out. Batch sizes for the scripts: `--sizes 50x21`.
+
+**Next:** Palworld batch 22 (50 reviews).
