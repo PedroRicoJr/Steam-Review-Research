@@ -13856,3 +13856,11 @@ Sixth unit of the 17:44 firing. 50 reviews, 2024-03-31 to 2024-06-07, all in Ear
 **No modes built.** **Updates that delete worlds:** 165437578 (edited 2024-05-20) lost a dedicated server after 80+ hours, then another, and wants the bug fixed before new Pals; 164879528 (thumbs down) lost the world two friends built - both the reviewers' account. **164879250** (175 hours) is the fullest review: stunning graphics; it recommends 32 GB of RAM for Unreal Engine 5; only three bases allowed; base Pals lose their tasks and refuse stairs and ramps, a little better after patch 2.0.6 (reviewer's account); it wants task assignment from the Palbox. **166897744** (thumbs down, edited 2026-02-28) says mounts and movement are still clunky, single-player worlds lag, and once you build a base there is nothing left - no story, quests or missions. **The world feels empty** for 161914507, 162449524, 163410763 and 164879250. 165434949 is a copied meme text about a parent and child. 162956393's personal details are left out. Batch sizes for the scripts: `--sizes 50x11`.
 
 **Next:** Palworld batch 12 (50 reviews).
+
+## Notes - round 979 (Palworld batch 12)
+
+Seventh unit of the 17:44 firing. 50 reviews, 2024-06-07 to 2024-08-23, all in Early Access; 3 thumbs down; 62 bullets, 1.24 per review; unknown share 40%; none excluded. Id list matched before the dry run. From here each month is read at about 20 reviews (the monthly floor), so the batch spans eleven weeks.
+
+**No modes built.** **Lost worlds continue:** 169961983 (thumbs down, 3 found it helpful) lost an 11-hour world when a friend's power cut corrupted it, with no recovery working; 167453284 (edited 2024-12-31) lost progress to a bug. **171192972** (thumbs down, 369 hours) says fixes break other things - Pals walk backwards and rubber-band - and the game is worse than at launch (`made-it-worse`). 171192874 says it heats the PC even with nothing on screen. Praise for the world settings that set the difficulty (169962024, 169960575); 169962024 also says nothing teaches the controls. 172201982 and 172208252 want more building materials, Pals, bosses and story. 169962166 (edited 2024-09-28) mentions a lawsuit (reviewer's account). Batch sizes for the scripts: `--sizes 50x12`.
+
+**Next:** Palworld batch 13 (50 reviews).
