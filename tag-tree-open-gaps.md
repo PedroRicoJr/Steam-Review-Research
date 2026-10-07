@@ -14265,3 +14265,13 @@ Ninth unit of the 21:44 firing (twenty a firing; the first batch of the third pa
 **What the first batch says:** the players who stay defend it - 9 notes say it was judged unfairly or should be taken as its own game - but faces (8 notes on `the-faces-do-not-move`), back-and-forth errands with loading screens (3 `quests-send-you-back-and-forth`, 3 `side-content-is-empty-errands`, 2 `long-load-times`, 3 `cannot-skip-what-the-game-plays-at-you`) and missing trilogy races (6 `a-favourite-from-the-last-game-is-missing`) are the common faults. Exploration is the main praise (8 `world-worth-exploring`). EA's launcher shows up early: 3 will-not-start notes in 2 reviews (70842460 gives error codes 16:-1 and 9:0; 72739189 an endless loading loop), 4 launcher, 1 forced sign-in (73924990). Only one note on the multiplayer so far (71179387: "The multiplayer is actually enjoyable and the strike teams aspect is also fun"). 73577222 says it was rushed out after an earlier version was thrown away - reviewer's account, not checked.
 
 **Next:** Mass Effect: Andromeda batch 2 (50 reviews).
+
+## Notes - round 1031 (Mass Effect: Andromeda batch 2)
+
+Tenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2020-08-21 to 2020-11-07; 13 thumbs down; 146 bullets; none excluded; 0 Early Access.
+
+**One mode built (Rule C):** `game-design.game-feel.combat.the-cover-system-lets-you-down` (−), on 76798402 ("the cover system in a cover based shooter has been gutted and you can't read the developer's minds"). `findphrase` for "cover system" found five earlier notes, none about the mechanic failing. Tree 2,003 -> 2,004.
+
+**What the batch says:** the comparison with the trilogy runs through it (11 `falls-short-of-the-studios-earlier-games`, 5 `lives-up-to-the-studios-earlier-games`), and 5 want a sequel. Two say the world does not react to what the player did (75619523, 78490554, `what-you-do-never-changes-the-world`). Three say the launch bugs were patched (`fixed-what-mattered`). 75607607 shares a fix for silent cutscenes (switch the language in Origin to pull a 1.1 GB patch, then switch back - reviewer's account). 77155987 says an overclocked CPU crashes it and owns it on Origin with about 1,000 multiplayer hours (reviewer's figure). One crude remark on the cast's politics and one on the studio's are recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 3 (50 reviews).

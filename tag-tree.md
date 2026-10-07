@@ -12757,6 +12757,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1030, Mass Effect: Andromeda batch 1.** Built under Rule C on the first sighting, 73578085 ("Some choices dose not even impact the world, story or even characters around you") and 73577222 (dialogue "rendered meaningless"). `findphrase` for "choices" and "choices don't matter" found no earlier note filed this way.
 
+## Modes added in Mass Effect: Andromeda batch 2 - round 1031 (Rule C)
+
+### `game-design.game-feel.combat`
+| Mode | | Definition |
+|---|---|---|
+| `.the-cover-system-lets-you-down` | **−** | In a shooter built around taking cover, the reviewer says the cover itself fails them - it does not take hold where they expect, or leaves them exposed - so they die for reasons they cannot read. **Distinct from `game-design.level-design.too-little-cover-for-the-enemy-count`** (the maps lack cover; here the cover mechanic fails) and from `game-design.game-feel.controls.one-button-does-too-many-things` (one key bound to cover and other actions; here the mechanic, not the binding, is the fault). |
+
+🔑 **Round 1031, Mass Effect: Andromeda batch 2.** Built under Rule C on the first sighting, 76798402 ("the cover system in a cover based shooter has been gutted and you can't read the developer's minds"; "you have to learn how to work around the awkward cover system"). `findphrase` for "cover system" found five earlier notes, none about the mechanic failing.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
