@@ -2809,3 +2809,119 @@ below is our reading of what players said, not something the reviews said.
   English, `scripts/steam_counts.py 630`); none pulled.
 
 ⚠️ **The corpus is now 33 games and 36,835 English summaries (37,597 in all languages).**
+
+## 30. ⭐ What the twenty-fourth large game adds - Risk of Rain Returns, added 2026-10-07
+
+**A 2D side-on sci-fi roguelike on runs for up to four players online or on one screen: Hopoo Games'
+remake of its own *Risk of Rain* (2013), published by Gearbox Publishing and 2K, released 2023-11-08,
+$14.99 (Steam store data).** 1,533 of 19,399 English reviews, a 7.9% sample at ±2.77%, across 36 months
+(2023-11 to 2026-10), with the launch month 75.4% of the group and read at ×19; 93.9% up; 2,554 bullets,
+1.67 per review; 229 distinct tags, **22 used by no other game; 22 modes built in the 8 Risk of Rain
+Returns blocks (rounds 838-858)**. The first remake in the corpus, and the first game read beside its
+own sequel (*Risk of Rain 2*, row 4 of the large-games queue). Full read in
+`risk-of-rain-returns-english.md`, ranked lists in `risk-of-rain-returns.md`, plain-words lessons in
+`DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-29** (`scripts/findings_tables.py`, every bullet whose mode is + or -,
+`review.*` included; every column re-run on 2026-10-07):
+
+| | Deep Rock Galactic | Crab Champions | Risk of Rain 2 | Roboquest | Gunfire Reborn | **Risk of Rain Returns** | EARTH DEFENSE FORCE 5 | Alien Swarm | ELDEN RING NIGHTREIGN |
+|---|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 97.1% | 97.5% | 95.6% | 96.4% | 93.9% | **93.9%** | 95.7% | 93.6% | 87.8% |
+| Bullets per review | 2.12 | 1.52 | 1.43 | 2.37 | 1.78 | **1.67** | 1.89 | 1.60 | 1.88 |
+| Praise per 100 | 175.9 | 123.2 | 104.9 | 173.6 | 130.0 | **122.6** | 140.2 | 102.4 | 105.3 |
+| Complaint per 100 | 23.7 | 18.7 | 18.0 | 40.8 | 33.1 | **32.8** | 38.9 | 31.1 | 64.0 |
+| Praise to complaint | 7.4 : 1 | 6.6 : 1 | 5.8 : 1 | 4.3 : 1 | 3.9 : 1 | **3.7 : 1** | 3.6 : 1 | 3.3 : 1 | 1.65 : 1 |
+
+**Seventh of 24 groups with 300 or more kept reviews by praise to complaint**, just behind Gunfire
+Reborn (3.9 : 1) and ahead of EARTH DEFENSE FORCE 5 (3.6 : 1). Its complaint rate is 1.8 times its
+sequel's (32.8 against 18.0) at almost the same thumb.
+
+### 🔑 The finding: same studio, same item loop - the version where you move freely and feel strong is the one players cannot put down
+
+Reviews carrying each mode, per 100 kept reviews (a Python pass over
+`raw/{risk-of-rain-returns,risk-of-rain-2}/english/summaries/*/[0-9]*.md`, round 873 note; review
+counts in brackets):
+
+| | **Risk of Rain Returns** (2D remake) | Risk of Rain 2 (3D sequel) |
+|---|---|---|
+| Keeps pulling you back | **3.3** (50) | 9.1 (171) |
+| Much better with friends | **2.2** (34) | 4.6 (87) |
+| Makes you feel overpoweringly strong | **0.6** (9) | 3.8 (72) |
+| Hard, and that is the fun | **7.2** (110) | 2.3 (44) |
+| Looks great | **6.0** (92) | 0.9 (16) |
+| The music | **5.3** (81) | 3.8 (71) |
+| Each character plays its own way | **2.7** (41) | 2.0 (37) |
+| The exit is hard to find | **0.9** (14) | 0.3 (6) |
+| Movement is slow | **0.6** (9) | 0.1 (1) |
+| Too hard | **0.6** (9) | 0.1 (1) |
+
+The two games share a studio, characters, items and the run structure; the remake's reviewers set it
+against the sequel in 74 bullets (43 better, 31 worse). The sequel wins on the pull of one more run (nearly three
+times), on friends and on feeling strong (six times); the remake wins on looks, on being hard, and on
+music. The remake's own complaints sit where the sequel is strong: aiming only left or right (35, used in no
+other game), slow movement and an exit you cannot see from afar - the last two each named by
+reviewers as something *Risk of Rain 2* does better (`205446707`, `151695814`, `150030740`). Across the corpus the remake is **1st of 24** for
+*looks great* (6.0), *getting friends in works* (1.8), *brings back memories* (1.7), *an unlock
+challenge is a chore* (2.7), *the exit is hard to find* (0.9) and *the agreement strips buyer rights*
+(1.2); **2nd of 24** for *hard and that is the fun* (7.2, after Immortal: Unchained 9.0) and *the
+music* (5.3, after Roboquest 11.3).
+
+### In plain words
+
+Risk of Rain Returns is a 2D remake of a 2013 game, made by the same studio that later made the 3D
+*Risk of Rain 2*. Players love the remake as a remake: better looks, music, online play that finally
+works, and it is hard in a way they enjoy. But next to its own 3D sequel it pulls players back far
+less, and they feel strong far less often - and the complaints are about the very things the sequel
+does well: you can aim only left or right, you move slowly, and the exit is hard to find. The only big
+drop in its rating came from a change to the owners' user agreement, not from the game.
+
+### For Dominion — what changes
+
+Lessons are named as in `DOMINION-TAKEAWAYS.md`, *For Dominion - our reading, across games*. Every line
+below is our reading of what players said, not something the reviews said.
+
+- **Confirms lesson 6 ("Make movement feel quick") and lesson 7 ("Let players grow powerful") with
+  the cleanest test in the corpus:** two games from one studio with the same items, where the one with
+  free movement and a power fantasy is pulled back to almost three times as often (9.1 against 3.3)
+  and *feels strong* six times as often (3.8 against 0.6).
+- **Confirms lesson 21 ("Owners, user agreements ... can sink a good game"):** the remake's only drop
+  in the thumb (74.0% in 2025-04 to 2025-08) came from an agreement change; 17 of that period's 26
+  thumbs down are about it or the owners, and the most-helpful review in the sample (224 found it
+  helpful) is one of them. The agreement rate, 1.2 per 100, is 1st of 24 (next: 0.1).
+- **Confirms lesson 12 ("Patch fast and say so; a late rescue does not bring players back")** in
+  part: a patch five weeks after launch ended the left-right aiming complaint at once; the gentler
+  disconnects and pings came 21 months later, and no review read since mentions them - but the thumb
+  and *better than the sequel* (6.0 per 100, its highest) both rose after that late patch.
+- **Confirms lesson 16 ("Expect to be compared")** - here against the studio's own later game, in 74
+  bullets.
+- **Adds: put the way out on screen.** Evidence: *the exit is hard to find* 0.9 per 100, 1st of 24,
+  three times the sequel's; a patch widening the exit's signal did not end it.
+- **Adds: unlock challenges need a second road.** Evidence: *an unlock challenge is a chore* 2.7 per
+  100, 1st of 24 (next 0.1), set against 36 who call the same challenges fun; 6 praise the slower
+  normal-play route to the same unlocks.
+- **Adds: a dead player who keeps playing is praised.** Evidence: 2 bullets, the only ones in the
+  corpus, for a mode where the dead come back as a drone that can still shoot; the reviewer explaining
+  it says long co-op runs otherwise leave dead players watching.
+
+### Other ways it stands out in the corpus
+
+- **Getting friends into a game works** 1.8 per 100 - nine times the next game (ELDEN RING
+  NIGHTREIGN 0.2); the 2013 game needed outside programs to play online (reviewers' account).
+- **Looks great** 6.0 per 100, 1st of 24 (Space Marine 2 4.5) - for pixel art.
+- **Better or worse than the sequel that followed** 2.8 and 2.0 per 100; the only other game with
+  either is EARTH DEFENSE FORCE 5 (0.4 and 0.1).
+- **The remake verdict** - seven modes built for it (improves 265 bullets, stays true 46, changes too
+  little 14, original rules an option 13, leaves out the sequel's additions 8, the original was better
+  4), all used in no other game.
+
+### What this game does NOT settle
+
+- **Third person.** It is 2D, side-on; the aiming lessons transfer only as "never limit the aim".
+- **Extraction.** Runs end in an escape from the planet, not an extraction with loot kept.
+- **Monetisation.** Bought once; the only paid add-on is a soundtrack.
+- **Hosting.** One reviewer relays that the run ends when the host leaves; not checked.
+- **The non-English audience.** 9,340 reviews in other languages (28,739 in all, 19,399 English,
+  `scripts/steam_counts.py 1337520`); none pulled.
+
+⚠️ **The corpus is now 34 games and 38,368 English summaries (39,130 in all languages).**
