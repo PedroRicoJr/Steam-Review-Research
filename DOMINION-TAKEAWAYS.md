@@ -1,4 +1,4 @@
-<!-- reviewed: 2026-10-04 | status: active | one entry per finished game, written from templates/dominion-takeaways-entry.md -->
+<!-- reviewed: 2026-10-07 | status: active | one entry per finished game, written from templates/dominion-takeaways-entry.md -->
 
 # Dominion takeaways — what every game we read teaches
 
@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Alien Swarm | 2026-10-07 | 93.6% |
 | R.E.P.O. | 2026-10-06 | 96.6% |
 | ELDEN RING NIGHTREIGN | 2026-10-05 | 87.8% |
 | Roboquest | 2026-10-04 | 96.4% |
@@ -138,6 +139,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | R.E.P.O. | co-op PvE extraction, horror, first person, up to six | 96.6% | 120.3 | 18.6 | 6.5 : 1 | 1.45 | section 28 |
 | Roboquest | co-op runs, first person | 96.4% | 173.6 | 40.8 | 4.3 : 1 | 2.37 | section 26 |
 | Escape from Duckov | single-player PvE extraction | 90.9% | 134.6 | 40.4 | 3.3 : 1 | 1.92 | section 25 |
+| Alien Swarm | free four-player co-op, top-down, 2010, one campaign | 93.6% | 102.4 | 31.1 | 3.3 : 1 | 1.60 | section 29 |
 | Warframe | free, long-running co-op | 89.9% | 127.3 | 50.9 | 2.5 : 1 | 2.01 | section 25 |
 | Helldivers 2 | co-op missions, live service | 83.3% | 108.0 | 55.5 | 1.95 : 1 | 1.79 | section 25 |
 | Space Marine 2 | licensed third-person co-op | 87.6% | 116.1 | 61.9 | 1.87 : 1 | 1.99 | section 19 |
@@ -1118,6 +1120,245 @@ reviews said.
 ---
 
 # The games
+
+## Alien Swarm
+
+**Read:** 3,607 of 10,323 English reviews (34.9%; none left out - empty, joke and copied reviews were
+kept and filed as such), ±2.04%, written October 2010 to October 2026 - sixteen years, the longest span
+we have read. Almost every month was read at the floor of 20 reviews; the busiest month, December 2011,
+holds 422 reviews and was read at 20. **93.6% thumbs up** in the sample (Steam, all languages: 95%, Very
+Positive).
+**Pages:** `findings/alien-swarm-english.md`, `findings/alien-swarm.md`, `findings/cross-game.md`
+section 29.
+
+**What it is:** A free shooter for one to four players, seen from above. The players are space marines
+sent into an alien-infested colony - an icy landing zone, labs, mines - to reach the exit, hold out
+against waves, open sealed doors and destroy alien nests. There are four classes (officer, special
+weapons, medic, tech) with two marines each; the tech is the one who hacks doors and computers through
+small puzzle games. Friendly fire is on. Levelling up unlocks more weapons and gear. There is **one
+campaign of seven missions**, and that is all the official content. Made and published by Valve,
+released 19 July 2010, free; the Steam store calls it a "Co-operative multiplayer game and complete code
+base available for free" and lists a level editor but no Steam Workshop; Windows only; no controller
+support listed; Steam's Steam Deck check lists failing items (the controls, text that is hard to read).
+Valve's only updates in Steam's news feed came in July 2012 and August 2020. A free fan-made follow-up,
+*Alien Swarm: Reactive Drop*, came out in April 2017 as a separate game. How games are hosted was not
+checked; reviewers speak of one player hosting (with lag) and of dedicated servers. (Store facts and
+update dates checked against Steam.)
+
+**How close to Dominion:** Close in its squad, not in its shape. It shares a four-marine sci-fi squad
+with classes, swarms of aliens, friendly fire, objectives to hold and reach, and a game built for four
+friends. It differs in its camera (top-down, not third person), in having one fixed campaign instead of
+runs, in having no extraction, and in barely changing after release.
+
+### The short version (plain words)
+Players love it as a free game to play with three friends: 420 reviews praise the free price, 332 say
+it is much better with friends, and 136 say it rewards teamwork - more often per review than in any of
+the 23 large games we have read. The big complaint is how little there is - 191 reviews say one
+campaign is too little - and over sixteen years that complaint turned into "nobody plays any more",
+which rose from about 2 to almost 6 of every 100 reviews. 304 reviews say they installed it only to
+unlock a hat in another Valve game, Team Fortress 2. And 98 say another game does it better - 88 of
+them point to the free fan-made follow-up.
+
+### What players praised, most to least
+1. **Free, or a fair price** - 420 times; it was the main praise at launch (39 of every 100 reviews in
+   2010-11) and almost gone by 2024 (under 2).
+2. **Much better with friends** - 332 times.
+3. **Rewards teamwork** - 136 times; the classes need each other: "Every member of the team will have
+   his own role, so no one would feel useless" (55014992).
+4. **The best of its kind** - 97 times.
+5. **Hard in a good way** - 89 times.
+6. **A tense mood, like the *Aliens* films** - 88 times; "these 10-20 seconds will be the most longest
+   seconds in your entire life" while a teammate opens a sealed door (119205695).
+7. **Underrated, a hidden gem** - 83 times.
+8. **Keeps pulling them back** - 80 times.
+9. **Player-made maps and mods add to it** - 78 times, mostly before 2017.
+10. **Each class plays its own way** - 76 times.
+11. **Looks great** - 70 times.
+12. **Many weapons and pieces of gear** - 61 times; "the tesla gun... makes any swarm stop in their
+    track" (223760264).
+13. **Reminds them of their childhood** - 52 times; **still holds up** - 48 times. Both are more than
+    ten times as common here as in any other game we read.
+14. **Unlocks feel good as you level** - 42; **friendly fire makes funny stories** - 37 ("Has
+    friendlyfire. 11/10", 70240754); **more, please** - 34; **easy to pick up** - 31; **works alone** -
+    30; **polished** - 29; **difficulty settings well spaced** - 29; **wants a sequel** - 27; **runs on
+    modest PCs** - 24; **plenty of achievements** - 21.
+
+### What players complained about, most to least
+1. **Too little content: one campaign** - 191 times. Reviewers count "only 7 missions" (133186307), "less
+   than 2 hours of content" (223760264) or "2 hours long at best" (116902512).
+2. **Nobody plays any more** - 138 times; "It's really sad nobody plays this game anymore" (62891056).
+3. **Another game does it better** - 98 times, 88 of them the fan-made follow-up Reactive Drop.
+4. **Valve stopped updating it** - 85 times.
+5. **Ran out of things to do fast** - 40 times.
+6. **Cannot be played alone** - 35 times (the most of any game we read, per review); **very hard
+   alone** - 27.
+7. **Wants Steam Workshop for player-made maps** - 23 times.
+8. **Two or three players struggle** - 22 times ("doesn't scale well for less than 4 players",
+   121752237) - the most of any game we read.
+9. **Repetitive** - 18; **friendly fire is only a cost** - 15 ("Trash with friendly fire", 195265204);
+   **you need a group to play at all** - 12; **finding a game takes long** - 11; **too hard** - 10.
+10. **Bugs** - 9; **the game vanished from their Steam library** - 9; **one alien is hated** - 9 (the
+    parasite, or "facehugger": "parasites are OP", 168650517).
+11. **Community maps are a chore to install and join** - 8; **will not start** - 8 (two had to repair a
+    Windows service first, 185464912, 185464747).
+12. **Wants Linux, Mac, phones or the Steam Deck** - 7; **wants a view other than top-down** - 7; **thin
+    story** - 7; **too few kinds of alien** - 6; **the bots are no help** - 6.
+
+The people who complain are mostly people who left quickly: thumbs-down reviews show a median of **1
+hour** played, against 5 for thumbs up.
+
+### How it changed over time
+Five periods, by events checked on Steam:
+- **Launch to 2011** (282 reviews read): 98.2% up; praise 111 per 100 reviews, complaints 26. Free price
+  and "too short" lead.
+- **2012 to March 2017** (1,251): 95.7% up; praise 92, complaints 33. "Too little content" peaks at 9.2
+  per 100; mods and community maps are praised most here.
+- **From Reactive Drop's release, April 2017, to July 2020** (741): 91.1% up; praise 51, complaints 30.
+  "Another game does it better" jumps from almost none to 4.9 per 100. Hat reviews triple.
+- **From Valve's 2020 update to January 2024** (768): 92.8% up; praise 45, complaints 21.
+- **From Helldivers 2's release, February 2024** (565): 91.0% up; praise 40, complaints 29. "Nobody plays"
+  is at its highest (5.7 per 100), and 17 reviews describe it by naming Helldivers ("Helldivers before
+  it was cool", 161102970, 136 found it helpful).
+
+Over the whole span: "too little" fell from 9.2 to 2.1 per 100 while "nobody plays" rose from 1.8 to
+5.7; childhood memories and "still holds up" rose from none to 2-3 per 100; friendly fire as a pure
+cost rose from none to 1.2 per 100 after 2024; "will not start" appears only after 2017.
+
+### Co-op and online play
+- **Built for four.** 332 better with friends; 136 rewards teamwork; 22 say two or three players
+  struggle; 12 need a group at all.
+- **Alone.** 35 say it cannot be played alone, 27 that alone is very hard, 30 that it works. Reviewers
+  describe an offline practice mode of the first levels, say online play needs at least two players
+  (53946107, 69962109), and say bots come only by typing console commands; one gives the command that
+  lifts the two-player rule (206169848). These are the reviewers' accounts, not checked. 3 say offline
+  play earns "no achievements, no level ups, no rewards" (212920097). The bots: 6 call them useless
+  ("they arent a bright bunch", 223760264), 5 say there are none.
+- **Friendly fire** - 57 times in all: 37 say it makes stories, 15 that it is only a cost, 3 that it lets
+  players grief.
+- **Finding a game.** 11 slow, 3 cannot find a game, 2 fast. One reviewer: "the player base maxes out
+  at 20 players on a good day" (206169848, their estimate).
+- **Hosts and strangers.** 5 were kicked from games - one for being level 1 (232726539) - and 1 for not
+  speaking Russian (56698566); 6 say teammates run ahead and leave them. But 6 found the community
+  welcoming, 4 made friends with strangers, and several were taught the game by veterans.
+- **Servers.** 5 blame lag on player hosting (55605139, 67373670); 5 mention dedicated servers.
+- **The shared map.** Players can draw on the map everyone sees - 4 enjoy it ("Writing on the map was the
+  best part", 73680129), mostly for jokes.
+
+### Combat, movement and feel
+- **Shooting** feels good to 15 ("more in-depth than just holding left click", 116902512).
+- **Reloading throws away the bullets left in the magazine** - 5 single it out ("the biggest annoyance of
+  all time", 93601907); seen in no other game.
+- **Melee:** 1 says it does not land, 1 that it "felt fantastic" (222913178).
+- **Controls:** 13 call them responsive and clear; 4 miss bindings; 2 needed hours to adjust; 11
+  mention controllers - missing support, or prompts showing the wrong buttons (222913178).
+- **Camera:** top-down. 7 like it, 5 say it gets in the way, 7 want another view; 8 say first person can
+  be reached by command, mod or setting (reviewers' words).
+- **Reading the screen:** 5 say it is too dark to see, 2 that threats are hard to tell apart (the grey
+  look, 193736079), 1 shot teammates in the dark (223372985).
+
+### Enemies, bosses and difficulty
+- 89 say it is hard in a good way, 29 that the difficulty settings are well spaced; 3 praise fine-tuning
+  (extra alien waves, full friendly-fire damage, 138975819); 10 say too hard; 3 say the last mission is
+  far harder than the rest.
+- 10 like the variety of aliens, 6 want more; 9 hate the parasite; 5 love the pressure of the swarm.
+
+### Progression, loot, randomness and grind
+- 61 praise the range of weapons and gear, 42 the unlocks as you level; 11 say the tools combine into
+  tactics (the Tesla gun against shielded aliens, the welder to seal doors, 223760264).
+- **Classes:** 76 say each plays its own way; 10 that every role is needed; **9 say one class - the
+  tech, the only one who opens doors - is required to finish**, and "If the tech dies before the mission
+  is complete, you will have to restart the level" (93601907). One says each class has a stronger and a
+  weaker marine (171470107); another that the gaps are small so "you cant accidentally mess up by
+  picking 'wrong' one" (223760264).
+- **Achievements:** 21 enjoy them; 4 say only grinding finishes them - 100,000 kills would take "over
+  200 hours" (147804079).
+- **Randomness:** 3 say an enemy "director" changes each try of a level (reviewers' words).
+
+### Runs, content and replay value
+No runs: one fixed campaign of seven missions. 191 say too little, 40 ran out of things fast, 18 call it
+repetitive, 80 keep coming back. Missions take "9-20 min" (223760264); estimates for the whole campaign
+run from about 2 hours to "4–6 hours" (225005600).
+
+### Money and price
+Free, with nothing to buy: 420 praise the price, 14 note there is no shop. Nothing about money is
+complained about.
+
+### Tech: performance, crashes, bugs
+24 say it runs on modest PCs, 5 that it is well made for speed, 5 that it is small ("only 2 gigs"); 4
+call it demanding. 8 say it will not start; 4 crash again and again; 3 say it upsets the whole PC. 9 say
+it vanished from their Steam library, and 2 say they cannot remove it from their account.
+
+### The studio, updates and community
+- **Valve barely touched it:** 85 say updates stopped; Steam shows two small updates, in 2012 and 2020.
+  Some reviewers call it a "tech demo"; Valve's intent was not checked.
+- **The community kept it alive** with maps and mods (78), then with its own follow-up, Reactive Drop
+  (88 point to it; reviewers say it added campaigns, Workshop support and solo bots - not checked).
+- **The Team Fortress 2 hat:** 304 reviews say they came for it, rising from about 3.5 of every 100
+  reviews before 2017 to 10-13 after. Some stayed ("Came for the Team fortress 2 hat. Stayed because the
+  game is actually pretty damn good", 72060435, 80 found it helpful); some call the whole game "Play this
+  game. Get a hat. Leave." (229252733). 2 used a tool that unlocks achievements instead.
+- **The community's own culture:** reviews that teach the game (12), copied joke texts (11), checkbox
+  templates (5), and copies of earlier reviews (2).
+
+### What players asked for
+More content or campaigns (34 "more, please"; 191 too little); a sequel (27); Steam Workshop (23); solo
+play or bots without the console (35 cannot play alone); controller support (11 mention controllers);
+Linux, Mac, phones or the Steam Deck (7, 4 of them Linux); more players (77 say it is thin).
+
+### Only in this game
+- **One class is required to finish** (the tech opens doors) - 9.
+- **Reloading throws away the rest of the magazine** - 5.
+- **Players draw on the shared map** - 4.
+- **Community maps are a chore to install and join** - 8.
+- **Used as a free set of tools for other projects** - 8 (map making, film lighting files).
+- **The game vanished from their library** - 9; **cannot remove it from their account** - 2.
+- **Kicked for not speaking the other players' language** - 1.
+
+### For Dominion - our reading
+1. **A four-player game must still work for one, two or three.** Evidence: "nobody plays" rose every
+   period to 5.7 per 100; cannot be played alone 35 and small groups struggle 22 - both the most of any
+   game we read; works alone only 30 (16th of 23). Dominion could scale enemies to the squad and treat
+   solo-with-bots as a real mode. **Strong.**
+2. **Put the bots in the menu, with simple orders.** Evidence: reviewers teach each other console
+   commands to add bots (7 of the 12 teaching reviews); 6 call the bots useless; one wishes for squad
+   orders "xcom but in real time" (223760264). **Strong.**
+3. **Keep content coming, or "too little" turns into "nobody plays".** Evidence: too little 191,
+   falling from 9.2 to 2.1 per 100 as nobody-plays rose from 1.8 to 5.7; two small updates in sixteen
+   years; 88 point players to the fan follow-up that kept adding. Dominion's runs help, but new content
+   matters as much. **Strong.**
+4. **Teamwork that every class needs is the heart of a squad game - but no single class should be the
+   only key.** Evidence: rewards teamwork 136, the most of any game per review; one class required 9,
+   with a restart if the tech dies. Dominion could let any class do a slower version of a key task.
+   **Medium.**
+5. **Keep friendly fire, with a setting.** Evidence: 37 stories against 15 cost and 3 griefing; cost
+   complaints rose after 2024. **Medium.**
+6. **Make player-made content easy to share and join.** Evidence: mods add to it 78 (3rd of 23), but
+   no Workshop 23 and custom maps a chore 8 - joining a game on a custom map needed files by hand
+   (116902512). **Medium.**
+7. **A reward in another game brings players who leave.** Evidence: 304 came for the hat; thumbs-down
+   reviews show a median of 1 hour. If Dominion ever ties a reward to another game, expect short,
+   negative visits. **Medium.**
+8. **Keep dark sci-fi levels readable.** Evidence: too dark 5, threats unclear 2, teammates shot in the
+   dark 1. **Weak.**
+9. **Do not waste a reload.** Evidence: 5, seen in no other game. **Weak.**
+10. **Let hosts kick, but protect newcomers.** Evidence: 5 kicked, one for being level 1; 1 kicked for
+    language. **Weak.**
+11. **Controllers and a clean launch still matter years on.** Evidence: 11 mention controllers; 8 cannot
+    start the game. **Weak.**
+
+### Limits
+- 34.9% of reviews read, ±2.04% on whole-sample shares; per period ±1.5% to ±7.3%. The first period is
+  the least certain (its busy months were read at 20 each).
+- Reviews are very short: from 2019 on, 12 to 26 of every 50 were five words or fewer, and 1,277 of
+  5,779 points are a bare thumbs up. Many were written for the hat.
+- 281 reviews (7.8%) were edited later; they are counted on the day they were first written.
+- **Not checked:** the hat's conditions; what Reactive Drop adds; player counts; what console commands
+  do; Valve's intent ("tech demo"); the game's origin as a mod of another game; a claim that it inspired
+  Helldivers.
+- Crude remarks, slurs, a review about a friend who died, family details in joke reviews and named
+  players are left out.
+
+---
 
 ## R.E.P.O.
 
