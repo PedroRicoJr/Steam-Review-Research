@@ -13728,3 +13728,9 @@ First unit of the 16:44 firing. The last 24 reviews, 2026-09-06 to 2026-10-07, a
 **No modes built.** **236369657** (7 found it helpful) says an update cut the stats so every colour now gives only health and damage, leaving three players of one class as mirror images (reviewer's account, not checked; it matches 223729899 in round 957). **235737626** says the latest update made the game incredibly easy, as 232895957 said in round 960. 235252556 finds the combat sluggish with weightless attack animations and the timer too tight to farm gold for a build. 235132133 calls 8-player lobbies unheard of in the genre. 235786100 and 235102993 have family details left out. 0 reviews left; 774 of 774 read.
 
 **Next:** the weighted stats, then the English findings page, the master page, the cross-game section and the takeaways entry.
+
+## Notes - round 962 (LORT weighted stats)
+
+Second unit of the 16:44 firing. `count.py --group lort/english` wrote the 10 monthly stats files and the group file: 3,287 reviews counted, 774 read, 1,585 observations (2.0 per review; the sum of the 16 batch counts, 103 to 40, is also 1,585). All 10 months are partly read; the heaviest weight is 2026-01 at about x8. Top weighted tags: thumbs up with no reason 13.9%, much better with friends 6.9%, explained by naming other games 3.7%, wants more because it is good 3.3%. No tree change.
+
+**Next:** the English findings page, from `templates/findings-english-page.md`.
