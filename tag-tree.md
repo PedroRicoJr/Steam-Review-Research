@@ -12664,6 +12664,20 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 844, Risk of Rain Returns batch 7.** Built under Rule C. `findphrase` for original was better, original is better, worse than the original and stick with the original found no earlier sighting. **Re-homed 1:** 152611852 (round 838), which sends players to the original with the Starstorm fan mod, from `marketing.reputation.a-named-rival-does-it-better` - the original is not a rival but the game this one remakes.
 
+## Modes added in Risk of Rain Returns batch 8 - round 845 (Rule C)
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.leaves-out-what-the-sequel-added` | **−** | A remake or earlier-set game lacks systems players know from the series' later game, and the reviewer misses them by name. **Distinct from `.the-remake-changes-too-little`** (no named feature, just too little change). Risk of Rain Returns 150188755 (*"no scrappers, no printers"*), 150187949, 150392209 (*"Sad that they don't have the Scrappers, 3D Printers, and the Lunar stuff from RoR 2"*). |
+
+### `narrative.tone`
+| Mode | | Definition |
+|---|---|---|
+| `.the-game-mocks-you-when-you-lose` | **−** | The game greets each loss with a put-down line, and the reviewer takes it as the developers insulting their own players. Risk of Rain Returns 150182600 (*"the entirely unnecessary put-down lines thrown at you every time you lose"*). |
+
+🔑 **Round 845, Risk of Rain Returns batch 8.** Built under Rule C. `findphrase` for printer, scrapper, insult, taunt, when you lose and every time you die found no earlier sighting of either: the matches are an item someone liked, insults between players, and enemy taunts. Clearly telegraphed attacks already go to `game-design.readability.reads-at-a-glance` and were filed there.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

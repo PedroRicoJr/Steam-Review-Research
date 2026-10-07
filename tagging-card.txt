@@ -1988,3 +1988,5 @@ game-design.co-op-design.a-dead-player-keeps-playing | + | A player who dies in 
 game-design.modes.the-original-rules-are-an-option | + | A remake or reworked game keeps the older rules as a setting, so players can choose the original way to play o
 game-design.randomness.cannot-take-unwanted-items-out-of-the-pool | - | The player wants a way to remove items they never want from the random drop pool - a ban list, a limited numbe
 marketing.positioning.the-original-was-better-than-the-remake | - | The reviewer says the earlier game - as it was, or with a fan mod - is the better way to play than its remake.
+marketing.positioning.leaves-out-what-the-sequel-added | - | A remake or earlier-set game lacks systems players know from the series' later game, and the reviewer misses t
+narrative.tone.the-game-mocks-you-when-you-lose | - | The game greets each loss with a put-down line, and the reviewer takes it as the developers insulting their ow
