@@ -1,0 +1,562 @@
+{
+ "R001": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Stage-1 elites and unspent gold filed under challenge-outgrows-the-player, which the card defines as a late-game losing slope; this is an early-game difficulty complaint."
+ },
+ "R002": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R003": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R004": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R005": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R006": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R007": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R008": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R009": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R010": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R011": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R012": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R013": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R014": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R015": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R016": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R017": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R018": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R019": {
+  "notes": 5,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 2,
+  "why": "Not covered: it plays almost exactly like Risk of Rain 2 as a side-scroller with the same appeal; it is somewhat difficult and each run is a little different."
+ },
+ "R020": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R021": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R022": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R023": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Not covered: \"the fighting is perfect\" (point 2 of the list)."
+ },
+ "R024": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R025": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R026": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R027": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R028": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R029": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R030": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R031": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R032": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R033": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R034": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R035": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R036": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R037": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R038": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R039": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R040": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R041": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R042": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R043": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R044": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Not covered: the routes and the fun relics."
+ },
+ "R045": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R046": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R047": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R048": {
+  "notes": 5,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R049": {
+  "notes": 12,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R050": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R051": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R052": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R053": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R054": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R055": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R056": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R057": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R058": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R059": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R060": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R061": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R062": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R063": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R064": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R065": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R066": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R067": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R068": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R069": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R070": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R071": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R072": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R073": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R074": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R075": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R076": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R077": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R078": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R079": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R080": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ }
+}

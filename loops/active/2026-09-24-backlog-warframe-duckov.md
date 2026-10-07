@@ -5,7 +5,7 @@
 
 **Standing order (Rico, 2026-09-25): keep running forever and never stop to ask.** When a unit needs a decision, take the safest default, write the question and the default taken in `OPEN-WITH-RICO.md`, and carry on with the next unit. New subjects still go to Rico the same way (parked, not waited on). Reports stay one line.
 
-**Pace (Rico, 2026-10-07): six units a firing, on a quality test.** Each hourly Routine firing now does **up to six units in a row**, each checked, committed and pushed before the next, stopping early if the next firing is under 10 minutes away. Rico's words: "bump it to six batches per run. Do this for 4 batches and then test quality. If there's a drop, go back to 3. If there's no difference, double it and test again" - read as four firings at six (the test set), then the test; at no difference, twelve a firing for four firings and test again. The test is `scripts/pace_qc.py` (plan below, under **Pace test**). **Before that (Rico, 2026-10-05: "increase the rate of batches"):** each hourly Routine firing did **up to three units in a row**, each checked, committed and pushed before the next, stopping early if the next firing is under 10 minutes away. **Earlier pace (Rico, 2026-09-28):** the hourly Routine alone; the 30-minute in-session timer is no longer re-created. **Loops only (Rico, 2026-09-26):** work is done only in a timer firing - the 30-minute in-session timer or the hourly backstop - one unit per firing. No units by hand between firings, even when the next step is known.
+**Pace (Rico, 2026-10-07): twelve units a firing, on a second quality test** - six passed the first test (round 869, **Pace test** below). Each hourly Routine firing now does **up to twelve units in a row**, each checked, committed and pushed before the next, stopping early if the next firing is under 10 minutes away. Rico's words: "bump it to six batches per run. Do this for 4 batches and then test quality. If there's a drop, go back to 3. If there's no difference, double it and test again" - read as four firings at six (the test set), then the test; at no difference, twelve a firing for four firings and test again. The test is `scripts/pace_qc.py` (plan below, under **Pace test**). **Before that (Rico, 2026-10-05: "increase the rate of batches"):** each hourly Routine firing did **up to three units in a row**, each checked, committed and pushed before the next, stopping early if the next firing is under 10 minutes away. **Earlier pace (Rico, 2026-09-28):** the hourly Routine alone; the 30-minute in-session timer is no longer re-created. **Loops only (Rico, 2026-09-26):** work is done only in a timer firing - the 30-minute in-session timer or the hourly backstop - one unit per firing. No units by hand between firings, even when the next step is known.
 
 **Done when:** never, by the standing order - after each game's findings, the next game starts. Archive this file only if Rico stops it.
 
@@ -32,9 +32,17 @@ subject. The length bands adjust for length; the blind audit does not depend on 
 against 7-12 (same pace) gave p = 0.79 (A) and p = 0.94 (B), as expected. The Fisher function matches scipy's `fisher_exact` on three
 test tables.
 
+**Result of the first test (round 869, 2026-10-07; evidence in `qc/pace-test-2026-10-07/`).** Base: batches 1-12 (600 reviews). Test: batches 13-31 (933 reviews).
+- A. Notes per review, length-adjusted: test minus base +0.037, p = 0.55. No difference.
+- B. Reviews with only plain notes: base 46.5%, test 43.2%; CMH p = 0.047 - a real difference, but **in the test's favour** (fewer plain-only reviews), so not a drop. Part of it may be content: later reviews hold fewer one-word puns than launch week.
+- C. Blind audit, 40 reviews a side, scored by a helper agent that saw only the review texts, the notes and the tag card: notes wrong 1 of 66 (base) against 0 of 69 (test), Fisher p = 0.49; missed points per review 0.00 against 0.10, shuffle p = 0.24; reviews with any error 1 (2%) against 3 (8%), Fisher p = 0.62 - a gap of 6 points, under the 10-point guard.
+- **No drop by the rule set before the test, so the pace doubles to twelve.** Watch item: all three missed-point reviews were on the faster side (3 reviews, 4 points); not significant, but the next audit should check it. The four audit findings were fixed after scoring (one re-home, four bullets added).
+
+**Second test (set before it starts).** Base: the six-a-firing batches (Risk of Rain Returns 13-31). Test: the batches read in the first four firings at twelve a firing - the next game's, so the game differs; the length bands adjust the counts tests, and the blind audit (same method, 40 a side) carries the most weight. Same tests and the same drop rule, with one addition: **missed points per review at least 0.25 higher on the test side** also counts as a drop, given the watch item. A drop sends the pace back to six; no drop keeps twelve and is reported to Rico, who said to double once and test again.
+
 ## Stages and steps
 
-**Each firing does up to SIX units of work (Rico, 2026-10-07; three from 2026-10-05), each fully checked, committed and pushed to `main`, then a short
+**Each firing does up to TWELVE units of work (Rico, 2026-10-07: six passed its test in round 869; three from 2026-10-05), each fully checked, committed and pushed to `main`, then a short
 report.** Work in this order:
 
 1. **Backlog rounds** until no row in `tag-tree-backlog.tsv` has status `open`. One round = the next

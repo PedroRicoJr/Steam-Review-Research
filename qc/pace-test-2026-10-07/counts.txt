@@ -1,0 +1,11 @@
+base 600 reviews, test 933 reviews
+
+length band   base n  notes/rev  plain-only   test n  notes/rev  plain-only
+1-5              207       1.00         84%      332       1.00         79%
+6-15             166       1.10         43%      258       1.08         43%
+16-40            112       1.48         26%      180       1.52         15%
+41-100            66       2.68          3%      109       2.56          2%
+101-+             49       5.98          6%       54       6.76          0%
+
+A. notes per review, length-adjusted: test minus base = +0.042   p = 0.5072
+B. reviews with only plain notes: base 46.5%, test 43.2% (raw); CMH chi2 = 3.93   p = 0.0474
