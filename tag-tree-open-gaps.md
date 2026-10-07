@@ -13912,3 +13912,11 @@ First unit of the 18:44 firing. 50 reviews, 2025-07-23 to 2025-10-07, all in Ear
 **No modes built.** **205579674** (thumbs down) came back after almost two years of early access to find base building and movement as basic as at launch, missed spheres still unrecoverable, and stamina so short you drown by a ledge, while the studio made collaborations with Terraria and Ultrakill and, it says, a spin-off called Palfarm - all the reviewer's account, not checked. **The removed Pal throw** comes up again (204438342), after round 982. **201670417** (699 hours) praises hosting your own server, sandbox settings for every attribute and no microtransactions. **201667844** (thumbs down, 239 hours) finds no story, no real multiplayer purpose, material grinding and end-game cheesing. **203284488** loves petting the Pals, their expressive animations, and throwing a penguin as a grenade. 203283291 (thumbs down) accuses it of using AI (reviewer's claim). Protest notes against Nintendo continue; 204438342 says Nintendo filed patents on flying mounts mid-lawsuit (reviewer's account). 203288325 credits the reviewer's own channels. 206153803's personal details are left out. Batch sizes for the scripts: `--sizes 50x18`.
 
 **Next:** Palworld batch 19 (50 reviews).
+
+## Notes - round 986 (Palworld batch 19)
+
+Second unit of the 18:44 firing. 50 reviews, 2025-10-07 to 2025-12-23, all in Early Access; 2 thumbs down; 60 bullets, 1.20 per review; unknown share 38%; none excluded. Id list matched before the dry run.
+
+**No modes built.** A quiet batch of short praise. Points of substance: crashes at character creation recur (208085593); servers need fixing and a fear of losing items (209331862); a mini-map request (206143888); character creation's body slider is barely usable and more eye and hair options are wanted (214039572); a wish for a more consistent art direction (208672428); a police response to crimes (212814354, `world-reacts-to-you`). 212187996 (thumbs down) calls it loved only because Nintendo won't make the genre. 207420501 refunded to join console friends, then bought it again. 208089997 does not own the game and awaits an Ultrakill collaboration (reviewer's account). Protest notes against Nintendo continue (208085593, 212189117, 213381077, 213380707). Batch sizes for the scripts: `--sizes 50x19`.
+
+**Next:** Palworld batch 20 (50 reviews).
