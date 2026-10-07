@@ -13840,3 +13840,11 @@ Fourth unit of the 17:44 firing. 50 reviews, all written 2024-02-29 in Early Acc
 **No modes built.** The two fullest reviews: **159567280** lists many ways to play (work the Pals, explore, towers and boss lairs) against copy-paste terrain, Pals stuck on roofs, world settings not explained plainly, and slow, clunky mounts; **159568884** reached 100% of Pals, bosses, towers and journals in 112 hours. **The grind and the settings:** 159570920 says the world settings let you lighten the grind; 159570369 (348 hours) finds it repetitive with a long grind to max level. 159572500 looks forward to PvP and arenas (reviewer's account of the plans, not checked). 159572816's personal details are left out. Batch sizes for the scripts: `--sizes 50x9`.
 
 **Next:** Palworld batch 10 (50 reviews).
+
+## Notes - round 977 (Palworld batch 10)
+
+Fifth unit of the 17:44 firing. 50 reviews, 2024-02-29 to 2024-03-31, all in Early Access; 4 thumbs down; 60 bullets, 1.20 per review; unknown share 32%; none excluded. Id list matched before the dry run. Two notes were re-homed before commit: 160069861 ("you can progress without fighting a boss") from `you-can-change-your-mind` to `you-set-your-own-goals`, and 159565836 ("no real goal") from `the-way-onward-is-hard-to-find` to `the-game-sets-no-goals`; a new mode was considered and not built because these two already exist (`findphrase` for "many ways", "however you want", "whatever you want" and "play your way" found no closer home).
+
+**No modes built.** **159565836** (thumbs down) finds the world empty and dull, the Pals' design clashing with it, recycled assets and no goal. **160069861** says "Pokémon with guns" does it a disservice: an open world you build as you like, where climbing almost anything is the best part. Crashes at character creation recur (160067570, as 157813355 in round 973). **160622654**, edited 2024-09-20, backs the developers in a lawsuit with Nintendo (reviewer's account, not checked). **161298414** is the copied "single father" meme text already seen in other games (`repeats-a-copied-meme-text`). 160069579 says get it on sale - not much content yet. Batch sizes for the scripts: `--sizes 50x10`.
+
+**Next:** Palworld batch 11 (50 reviews).
