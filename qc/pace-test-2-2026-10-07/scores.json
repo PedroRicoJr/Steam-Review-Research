@@ -1,0 +1,562 @@
+{
+ "R001": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Wrong tag: review says only that multiplayer is bad 'unless you are a big hacker'; no mechanism named, but tag asserts host-IP joining."
+ },
+ "R002": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R003": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R004": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R005": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R006": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R007": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R008": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R009": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R010": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R011": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R012": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R013": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 1,
+  "why": "Wrong tag: 'different game modes are fun' filed under the-challenge-mode-is-fun (a specific trials mode) where modes.good-selection fits. Missed: 'enemies are challenging and interesting' folded into a role-design note, not filed as enemy praise."
+ },
+ "R014": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R015": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R016": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R017": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R018": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R019": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R020": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R021": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R022": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R023": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R024": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R025": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R026": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R027": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R028": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R029": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R030": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R031": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: says it is better because Gearbox did not develop it."
+ },
+ "R032": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R033": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R034": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R035": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R036": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R037": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R038": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Wrong tag: reviewer's point is extreme difficulty they enjoy ('godlike skills or luck'), not that luck decides over skill; filed as luck-decides-the-outcome (bad)."
+ },
+ "R039": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R040": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R041": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R042": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Wrong tag: review only says it has multiplayer; much-better-with-friends (game transformed by playing with friends) is not said."
+ },
+ "R043": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R044": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R045": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R046": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R047": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R048": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R049": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R050": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R051": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R052": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R053": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R054": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R055": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R056": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R057": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R058": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R059": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R060": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: the shared-screen limits made an active item (Marble Gate) useless."
+ },
+ "R061": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Wrong tag: a fond wish that Gearbox keep updating it, filed as update-cadence.too-slow (bad); reviewer does not say updates are too rare."
+ },
+ "R062": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: 'its age shows' (dated) folded into a replayability note, not filed as a complaint."
+ },
+ "R063": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R064": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 2,
+  "why": "Missed: the game is very hard (has not got past level 2); high replay value."
+ },
+ "R065": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: 'good bit of customization' folded into a marketing comparison note, not filed as build praise."
+ },
+ "R066": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R067": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R068": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R069": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R070": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: 'still degrading on death' (harsh punishment on death)."
+ },
+ "R071": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R072": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Wrong tag: 'getting multiplayer to work is annoying' names no mechanism; tag asserts host-IP joining."
+ },
+ "R073": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Wrong tag: slow character movement plus poor maps filed under the-levels-do-not-suit-the-movement, whose definition says the movement is fun; reviewer calls movement slow (movement.sluggish)."
+ },
+ "R074": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R075": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R076": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "Wrong tag: complaint is that the stage-5 teleporter needs a different button; tag is for one button doing several jobs and picking the wrong one."
+ },
+ "R077": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: comparison to RoR2 (better graphics, worse gameplay) folded into a dopamine-hit note, not filed."
+ },
+ "R078": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R079": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R080": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ }
+}
