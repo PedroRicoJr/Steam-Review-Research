@@ -12793,6 +12793,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1038, Mass Effect: Andromeda batch 9.** Built under Rule C, on 105427241 ("those remnants sure love sudoku, huh") and 107537195 ("Super fun until you get to the puzzles"); 97082291 (round 1036, "3 sudoku-type puzzles at 3 very similar-looking alien buildings") was filed under `production.content-variety.repetitive` before the mode existed.
 
+## Modes added in Mass Effect: Andromeda batch 10 - round 1039 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.a-companion-app-plays-part-of-the-game` | **+** | A separate app, usually on a phone, lets the player run part of the game away from the PC - sending teams on timed missions, collecting their rewards - and the reviewer counts that as making the part more enjoyable or more rewarding. **Distinct from `engineering.platform-support.clumsy-on-a-phone`** (the whole game played on a phone; here a side app) and from `.a-mode-stands-out` (a mode inside the game). |
+
+🔑 **Round 1039, Mass Effect: Andromeda batch 10.** Built under Rule C on the first sighting, 113911607: the companion app "will allow you to play the very time consuming apex missions mini game on your mobile device making it actually enjoyable and with proper upgrades, very profitable" (reviewer's account; the app's current state not checked). `findphrase` for "companion app" found one earlier note, about a different game's quests.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

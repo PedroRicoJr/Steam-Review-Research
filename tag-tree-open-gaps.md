@@ -14337,3 +14337,13 @@ Seventeenth unit of the 21:44 firing (twenty a firing; test set of the third pac
 **What the batch says:** 103242690 (34 found it helpful) gives the fullest case for `your-choices-change-nothing`: the tone options "change nothing, unlocks nothing, and influences nothing", and the chosen background is never mentioned. 104847426 (56 found it helpful) calls it "almost criminally underrated". 105821960 spent most of 168 hours in the multiplayer, "a little above average". 106352557 compares EA and BioWare giving up with another studio that fixed its game and shipped all its DLC (reviewer's account). 105837067 says maxed abilities weakened past level 35. 106984650 was "flashbanged every time i opened up the menu" (`too-bright-to-look-at`).
 
 **Next:** Mass Effect: Andromeda batch 10 (50 reviews).
+
+## Notes - round 1039 (Mass Effect: Andromeda batch 10)
+
+Eighteenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2022-02-07 to 2022-04-22; 9 thumbs down; 160 bullets; none excluded; 0 Early Access.
+
+**One mode built (Rule C):** `game-design.modes.a-companion-app-plays-part-of-the-game` (+), on 113911607: the companion app "will allow you to play the very time consuming apex missions mini game on your mobile device making it actually enjoyable and with proper upgrades, very profitable" (reviewer's account; the app's current state not checked). `findphrase` for "companion app" found one earlier note, about a different game. Tree 2,007 -> 2,008.
+
+**What the batch says:** the forced travel scenes are the most common single fault (5 `cannot-skip-what-the-game-plays-at-you`), and the new puzzle mode had 3 more notes (111257292, 112242363 "alien sudoku", 113907115: one vault "took me like 2 hours"). 111709783 (68 found it helpful): "I lost 20 hours because origin kept trying to use cloud saves despite me selecting the option for local saves". 113891821 says rover banter is cut off when companions point out enemies (`told-during-the-fighting-so-it-is-lost`). 112242363 ran it on Linux, solid with a custom Proton build, and on a 21:9 screen. One crude objection to the same-sex romance options and one one-line accusation against the developer are recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 11 (50 reviews).
