@@ -14293,3 +14293,11 @@ Twelfth unit of the 21:44 firing (twenty a firing; test set of the third pace te
 **What the batch says:** "judged unfairly" is again the most common thumbs-up note (9), and faces again the most common fault (8). Two say Origin itself crashes the game or makes it hard to open (85723442, 86162008); 86149632 got "Missing Online Access" and could not play. 84753581 says squadmates can no longer be ordered to use abilities as in the older games (`cannot-command-your-bots`). 84225661: "there's only one ending" (filed with `your-choices-change-nothing`). 85197121 came through EA's subscription. 87173397 refunded it even at £8.24.
 
 **Next:** Mass Effect: Andromeda batch 5 (50 reviews).
+
+## Notes - round 1034 (Mass Effect: Andromeda batch 5)
+
+Thirteenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2021-02-28 to 2021-05-15; 8 thumbs down; 156 bullets; none excluded; 0 Early Access.
+
+**No modes built.** The multiplayer gets its first real notes: 2 say it is fun or decent (88506756; 88495418, "Multiplayer APEX missions are decent enough"), 1 calls it weak (90321853), and 88495418 says its microtransactions give new players a poor "reward vs. time spent playing ratio". Five notes say the game was fixed by patches (`fixed-what-mattered`), against 10 `falls-short-of-the-studios-earlier-games`. 88960362 is the batch's longest review (71 hours): no Paragon or Renegade and black-and-white arguments, a crew of copies of trilogy characters, only about four outfits, and the game would not start if Origin was already open (reviewer's account). 91166401 says it refused to load and Origin reported it as not installed, for "quite a few others" too. 91530617 came through EA's subscription.
+
+**Next:** Mass Effect: Andromeda batch 6 (50 reviews).
