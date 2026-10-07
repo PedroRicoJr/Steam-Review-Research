@@ -14214,3 +14214,9 @@ Second unit of the 21:44 firing (twenty a firing; outside both pace-test sets). 
 **No modes built.** All about the multiplayer: 237085666 says that "As of Oct 2026 people still play the MP, best times to play are after school/work hours as more people are on"; 234351890 praises "NO MICRO TRANSACTIONS" - "You have to grind for everything u want and it just keeps u wanting to play"; 235544049 calls its absence from the Legendary Edition "a travesty"; 235663157 and 234351890 ask for a new game with it.
 
 **Next:** Mass Effect 3 (2012) weighted counts (`count.py --group mass-effect-3/english`), then the findings pages.
+
+## Notes - round 1024 (Mass Effect 3 (2012) weighted stats)
+
+Third unit of the 21:44 firing (twenty a firing). `count.py --group mass-effect-3/english` wrote the 77 monthly stats files and the group file: 1,757 reviews counted, 1,057 read, 1,598 observations (1.5 per review; the count of bullet lines in the 1,057 summaries is also 1,598). All 77 months are partly read; the heaviest weight is 2020-06 at about x4. Top weighted tags: thumbs up with no reason 10.9%, the ending lets it down 5.6%, a mode stands out (the co-op multiplayer) 5.5%, will not start at all 4.7%, unwanted third-party software (the Origin and EA launchers) 3.9%. No tree change.
+
+**Next:** the English findings page, from `templates/findings-english-page.md`.
