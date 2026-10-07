@@ -13960,3 +13960,13 @@ Seventh unit of the 18:44 firing. 50 reviews, 2026-07-23 to 2026-07-31; 1 thumbs
 **No modes built.** The one thumbs down, **231159983**, says it crashes every 5-20 minutes with "Could not save". **1.0 praise** continues (231159760, 231159002, 231158948, 231778143). 231158504 wants a first-person view and says your own shots are blocked by terrain and your own Pal, while Pal abilities pass through everything. 231778624: whoever created the server must be logged in for others to play. 231778143 wants more reliable control of Pals - one uses its strongest move just before a catch. 231160155 cannot get past character creation without crashes yet recommends it from streams. 231777615 links a video review. Protest notes against Nintendo continue. Batch sizes for the scripts: `--sizes 50x24`.
 
 **Next:** Palworld batch 25 (50 reviews).
+
+## Notes - round 992 (Palworld batch 25)
+
+Eighth unit of the 18:44 firing. 50 reviews, 2026-07-31 to 2026-08-15; 2 thumbs down; 65 bullets, 1.30 per review; unknown share 43% (many bare thumbs and one-word reviews); none excluded. None carries the Early Access flag.
+
+**No modes built.** The two thumbs down: **232306334** - keeps crashing on save, and the issue returns after a fix; **231776049** - a crude joke, no reason given. 232927896 expected little from the cute, gimmicky look and got hooked (filed as looks-like-a-joke, plays like a real game); it calls the challenge about right. 232306071 says it is worth $60 at $30, and its only complaints are an occasional glitch and inventory management. 232306282 finds catching, missions, base building, base jobs and crafting a lot at once. 232927042: Pal pathing still needs polish. 232928192 runs it on a 7-year-old laptop. 231777043 hated it for years as a Pokémon fan and was won over once they bought it. Batch sizes for the scripts: `--sizes 50x25`.
+
+**Fix to round 991:** 231158948 says "much better than at launch" and does not name 1.0; it is praise of growth, not of 1.0 by name.
+
+**Next:** Palworld batch 26 (50 reviews).
