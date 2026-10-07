@@ -14319,3 +14319,11 @@ Fifteenth unit of the 21:44 firing (twenty a firing; test set of the third pace 
 **No modes built.** The quest structure is the main fault: errands, padding and back-and-forth travel take 11 notes between them (95798252: basic tasks keep turning into "use 3 terminals"; 97082291: "3 sudoku-type puzzles at 3 very similar-looking alien buildings"). Three say the game is best played with mods that fill its gaps (`mods-are-expected-to-fill-the-gaps`; 96710219 installed "12 mods just to patch biggest potential annoyances"). Two lost saves to corruption (95771693, 96225163), and 96714957 says EA's launcher counts as play time - 197 hours shown, "Maybe 60" played (reviewer's account). The cover system and the missing squad orders come back (96702921). One crude remark about the makers' politics is recorded only as such; the people it names are left out.
 
 **Next:** Mass Effect: Andromeda batch 8 (50 reviews).
+
+## Notes - round 1037 (Mass Effect: Andromeda batch 8)
+
+Sixteenth unit of the 21:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2021-09-06 to 2021-11-22; 11 thumbs down; 158 bullets; none excluded; 0 Early Access.
+
+**No modes built.** Three say the game was shelved before it was finished (`updates-stopped`; 100694093: "This game didn't deserve to be shelved"). The multiplayer is called "not good enough to keep me playing" (99808523) and "a tagged-on Multiplayer that no one plays" (101075933, 3/10, about 20 mods installed). 101064581 lost the cloud save ("Keep an extra back up of your own save file") and says nearly every asari shares one model. 99406519 gets motion sickness from the star map's zooms (`causes-motion-sickness`). 101064581 is filed under `the-cover-system-works-well` for being able to "use random things as cover". 101516128's crude jab at EA is recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 9 (50 reviews).
