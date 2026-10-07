@@ -18,6 +18,10 @@ for a real drop in quality before going on. This script is that test.
     # 3. score the audit the auditor filled in
     python scripts/pace_qc.py ... --score DIR
 
+    # base and test from two different games (second test, round 924)
+    python scripts/pace_qc.py risk-of-rain-returns/english --sizes 50x30,33 --base 13:31 \
+        --test-group risk-of-rain-2013/english --test-sizes 50x48 --test 1:48
+
 Tests, each two-sided, each at p < 0.05 (no correction for several tests,
 on purpose: it makes a drop easier to find, which is the safe side):
 
@@ -242,12 +246,14 @@ def main():
     ap.add_argument("--audit", type=int, default=0, help="draw a blind sample of N reviews a side")
     ap.add_argument("--out", default="", help="folder for the blind audit files")
     ap.add_argument("--score", default="", help="folder holding key.json and the auditor's scores.json")
+    ap.add_argument("--test-group", default="", help="take the test batches from another group (default: the same group)")
+    ap.add_argument("--test-sizes", default="", help="batch sizes for --test-group (default: --sizes)")
     x = ap.parse_args()
     sizes = parse_sizes(x.sizes)
     bl, bh = map(int, x.base.split(":"))
     tl, th = map(int, x.test.split(":"))
     a = rows_for(x.group, sizes, bl, bh)
-    b = rows_for(x.group, sizes, tl, th)
+    b = rows_for(x.test_group or x.group, parse_sizes(x.test_sizes) if x.test_sizes else sizes, tl, th)
     if x.score:
         score(x.score)
         return
