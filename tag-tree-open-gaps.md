@@ -13768,3 +13768,11 @@ Seventh unit of the 16:44 firing. No reviews read.
 - **Pull:** `pull_sample.py --only palworld/english`, planned 1,637, **got 1,325**, all ids distinct. **Actual margin +/-3.13%** (Rule 12, the `pull_sample.true_moe` formula on the count actually pulled per month). 2024-01 came back with 198 of 495 wanted: windows w1-w3 hold no reviews (w4 99, w5 99), so that month is read at weight x369. 2026-10, seven days old, returned 5 of 20. Read as pulled under Rico's ruling of 2026-09-04.
 - **GAMES-TODO:** row 20 of section 4; `planning/third-person-shooter-list.md` C6 marked WIP.
 - **Next:** Palworld batch 1 (50 reviews).
+
+## Notes - round 968 (Palworld batch 1)
+
+Eighth unit of the 16:44 firing. The first 50 reviews, all written 2024-01-24 in Early Access; 7 thumbs down; 75 bullets, 1.50 per review; unknown share 24%; 28 of 50 are 15 words or fewer; none excluded. Id list matched before the dry run.
+
+**No modes built** - a new genre for the corpus (creature catching, base building, survival), but every point found a home: the hunger system on `world-interaction.chores-instead-of-play`, base-building verdicts on the two `base-building` modes, the Pals' work pathing on `ai-teammates.gets-stuck` (the Pals are the player's helpers). **Launch-week servers** are the thumbs-down theme: official servers crash every 30 minutes or so, players spawn under the map and drown, lag of 5-6 seconds, characters gone, servers wiped (156739243, 156739230), endless loading screens for days with no word from the devs (156739181, 10 found it helpful; 156739090) - all the reviewers' account. **Comparisons:** Pokémon and Ark in most short reviews; Craftopia once (156738931). 156739341 praises no microtransactions. Several reviews joke about the Pals' forced labour; they are recorded as "a dark joke" without the wording. Batch sizes for the scripts: `--sizes 50`.
+
+**Next:** Palworld batch 2 (50 reviews).
