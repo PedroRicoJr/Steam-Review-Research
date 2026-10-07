@@ -3047,3 +3047,106 @@ below is our reading of what players said, not something the reviews said.
   `scripts/steam_counts.py 248820`); none pulled.
 
 ⚠️ **The corpus is now 35 games and 41,472 English summaries (42,234 in all languages).**
+
+## 32. ⭐ What the twenty-sixth large game adds - LORT, added 2026-10-07
+
+**A fantasy co-op action roguelite on runs for 1 to 8 players online, fighting toward an escape: Big
+Distraction, in Early Access since 2026-01-21, $14.99 (Steam store data).** 774 of 3,287 English
+reviews, a 23.5% sample at ±3.49%, across 10 months (2026-01 to 2026-10), all written in Early Access;
+80.7% up; 1,585 bullets, 2.05 per review; 230 distinct tags, **2 used by no other game, both built in
+the one LORT block (round 952)**. Its lobby takes up to eight players (store). Full read in
+`lort-english.md`, ranked lists in `lort.md`, plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-31** (every bullet whose mode is + or -, `review.*` included; one
+Python pass over `raw/*/english/summaries/*/[0-9]*.md` on 2026-10-07, counting (good) and (bad) bullets;
+it gives the same figures as `scripts/findings_tables.py` for LORT and Risk of Rain (2013); round 965
+note):
+
+| | Risk of Rain 2 | Crab Champions | Roboquest | ELDEN RING NIGHTREIGN | ARC Raiders | **LORT** | Aliens: Fireteam Elite | Back 4 Blood |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 95.6% | 97.5% | 96.4% | 87.8% | 79.7% | **80.7%** | 81.3% | 69.2% |
+| Bullets per review | 1.43 | 1.52 | 2.37 | 1.88 | 1.56 | **2.05** | 2.94 | 2.63 |
+| Praise per 100 | 104.9 | 123.2 | 173.6 | 105.3 | 86.8 | **102.5** | 124.6 | 118.0 |
+| Complaint per 100 | 18.0 | 18.7 | 40.8 | 64.0 | 56.7 | **81.7** | 141.8 | 137.2 |
+| Praise to complaint | 5.8 : 1 | 6.6 : 1 | 4.3 : 1 | 1.6 : 1 | 1.5 : 1 | **1.25 : 1** | 0.88 : 1 | 0.86 : 1 |
+
+**Eighteenth of 26 groups with 300 or more kept reviews by praise to complaint**, behind ARC Raiders
+(1.53 : 1) and ahead of Aliens: Fireteam Elite (0.88 : 1); among the run-based co-op roguelites read,
+only DRG: Rogue Core (0.61) and Terminull Brigade (0.36) sit lower.
+
+### 🔑 The finding: a game built for a big group is first of 26 on every complaint about group size
+
+Reviews carrying each mode, per 100 kept reviews, and LORT's rank among the 26 large groups (the same
+Python pass, round 965 note):
+
+| | **LORT** | Rank of 26 | Highest elsewhere |
+|---|---|---|---|
+| The group size is right (praise) | **2.6** (20) | 1st | no other group above 0.1 |
+| Much better with friends | **13.3** (103) | 2nd | R.E.P.O. 16.6 |
+| Punishing solo | **2.8** (22) | 3rd | Redfall 3.1 |
+| The scaling outpaces a full group | **0.9** (7) | 1st | The First Descendant 0.2 |
+| Teammates with different builds split the rewards | **0.4** (3) | only game | — |
+| Dying makes the next try harder | **1.0** (8) | 1st | Escape from Duckov 0.4 |
+| A character is too weak | **2.3** (18) | 1st | DRG: Rogue Core 1.2 |
+| Nothing left to chase | **1.4** (11) | 1st | ARC Raiders 1.2 |
+| Wants more because it is good | **6.2** (48) | 1st | ELDEN RING NIGHTREIGN 2.4 |
+| A named rival does it better | **3.0** (23) | 2nd | The First Descendant 7.0 |
+| Bullet sponges | **1.9** (15) | 2nd | Immortal: Unchained 2.1 |
+| Badly scaled difficulty | **2.8** (22) | 2nd | Immortal: Unchained 3.9 |
+
+**Caution:** the two co-op modes built in round 952 and `the-group-size-is-right` may be under-used in
+games read before them; the ranks for those rows can overstate LORT's lead.
+
+LORT is sold for "1–8 player co-op" and players love the size of the group (first of 26), but it leads
+the corpus on the problems of tuning for many group sizes at once: the numbers outpace small groups,
+solo is third-worst, a death penalty that stacks spirals a group, and - unique to it - a mixed group
+shares out the same stat camps, so playing together can make each player weaker. It is also first of 26
+for wanting more *because* it is good and for nothing left to chase: an Early Access game whose players
+reached its end in hours.
+
+### In plain words
+
+A game for up to eight friends is loved for exactly that, and blamed for what it costs: tuning that
+fits the full lobby leaves one or two players behind, and rewards that each player needs differently
+get split thin in a group. Players reached the end of this early-access game quickly and asked for more
+rather than leaving angry. Most of them judge it against *Risk of Rain 2*.
+
+### For Dominion — what changes
+
+- **Confirms lesson 1 ("Make the game best with friends, and make that easy") - and adds: tune for each
+  group size.** 103 say much better with friends (2nd of 26) and 20 praise the 8-player lobby (1st), but
+  27 reviews say solo is punishing or unplayable and 7 that a small group faces a full group's numbers.
+  Dominion is four players at most; it must still be tested at 1, 2 and 3.
+- **Adds: never split what each player needs.** The stat-camp split (3 reviews, only game). If
+  Dominion's classes need different resources, give each player their own drop.
+- **Confirms lesson 10 ("Expect 'not enough content' to be the fans' main complaint"):** too little 4.0
+  per 100 (8th), nothing left to chase 1.4 (1st), wants more 6.2 (1st).
+- **Confirms lesson 16 ("Expect to be compared"):** 83 of 774 reviews name *Risk of Rain*; a rival
+  does it better 3.0 per 100, 2nd of 26.
+- **Confirms lesson 25 ("If Dominion goes into Early Access, hope lasts about two years"):** 31 notes on
+  the potential (3rd of 26) in a game ten months into Early Access; the thumb held near 80%.
+- **Confirms lesson 35 ("Let players set the difficulty"):** difficulty settings arrived in March by
+  reviewers' account; then the gap between easy and normal became the complaint.
+- **Adds: a listen-server host must not take the group down with it.** A host crash loading the next
+  map, a host who kicks everyone in the last boss phase, and boss effects shown only on the host's
+  screen (223654623, 218744090, 223218666): Dominion needs rejoin or host migration and full
+  replication to clients.
+
+### Other ways it stands out in the corpus
+
+- **Eight players a lobby;** 2.6 per 100 praise the group size, 1st of 26.
+- **A character is too weak** 2.3, 1st (DRG: Rogue Core 1.2) - melee most.
+- **Dying makes the next try harder** 1.0, 1st (Escape from Duckov 0.4) - a max-health loss per death.
+- **Wants more because it is good** 6.2, 1st (ELDEN RING NIGHTREIGN 2.4).
+
+### What this game does NOT settle
+
+- **Third person and aiming.** Reviewers call the camera third person and top-down; the store does not
+  say. Melee against ranged is the aiming debate here.
+- **Extraction.** Runs end in an escape; nothing is carried out.
+- **Monetisation.** Bought once in Early Access; no shop is reviewed.
+- **A finished game.** Every review is from Early Access; the 1.0 verdict is unknown.
+- **The non-English audience.** 1,320 reviews in other languages (4,607 in all, 3,287 English,
+  `scripts/steam_counts.py 2956680`); none pulled.
+
+⚠️ **The corpus is now 36 games and 42,246 English summaries (43,008 in all languages).**

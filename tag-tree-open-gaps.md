@@ -13746,3 +13746,9 @@ Third unit of the 16:44 firing. `findings/lort-english.md` written from `templat
 Fourth unit of the 16:44 firing. `findings/lort.md` written from `templates/findings-master-page.md`, from the same `findings_tables.py` run as round 963. The plain-words column was checked against the bullets of each mode: the named rivals are *Risk of Rain (2)* in most notes, then *Megabonk* (3) and *Muck*, *Gunfire Reborn*, *Nightreign*, *Atlyss*, *Battleborn* and *Shape of Dreams* once or twice; the hated enemies are snipers in 6 of 12 notes and goblins in 3; the weak characters are melee in about 11 of 18 and the archer or agility heroes in 5; the dominant pick is the mage in 7 of 18.
 
 **Next:** the cross-game section for LORT.
+
+## Notes - round 965 (cross-game section 32: LORT)
+
+Fifth unit of the 16:44 firing. Section 32 appended to `findings/cross-game.md` from `templates/cross-game-section.md`. The comparison table and the rank (18th of 26 by praise to complaint) come from one Python pass over `raw/*/english/summaries/*/[0-9]*.md` counting (good) and (bad) bullets per group with 300+ kept reviews; it reproduces `findings_tables.py`'s figures for LORT (102.5 and 81.7 per 100) and Risk of Rain (2013) (131.5 and 47.4). The mode table counts reviews carrying each mode per 100 kept reviews in each of the 26 groups, with sample thumbs-up from the sample files. Corpus count by Python: 36 games, 42,246 English summaries, 43,008 in all languages. Non-English LORT reviews: 4,607 - 3,287 = 1,320 (`steam_counts.py 2956680`). **Reworded before commit:** "the first game in the corpus with a lobby of eight" and "the lowest of the run-based co-op games" were not checked against every game's player count and were wrong or unproven respectively - DRG: Rogue Core (0.61) and Terminull Brigade (0.36) sit lower; the section now says only that the lobby takes up to eight (store).
+
+**Next:** the LORT entry in `DOMINION-TAKEAWAYS.md`.
