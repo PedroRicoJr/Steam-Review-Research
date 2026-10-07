@@ -13920,3 +13920,11 @@ Second unit of the 18:44 firing. 50 reviews, 2025-10-07 to 2025-12-23, all in Ea
 **No modes built.** A quiet batch of short praise. Points of substance: crashes at character creation recur (208085593); servers need fixing and a fear of losing items (209331862); a mini-map request (206143888); character creation's body slider is barely usable and more eye and hair options are wanted (214039572); a wish for a more consistent art direction (208672428); a police response to crimes (212814354, `world-reacts-to-you`). 212187996 (thumbs down) calls it loved only because Nintendo won't make the genre. 207420501 refunded to join console friends, then bought it again. 208089997 does not own the game and awaits an Ultrakill collaboration (reviewer's account). Protest notes against Nintendo continue (208085593, 212189117, 213381077, 213380707). Batch sizes for the scripts: `--sizes 50x19`.
 
 **Next:** Palworld batch 20 (50 reviews).
+
+## Notes - round 987 (Palworld batch 20)
+
+Third unit of the 18:44 firing. 50 reviews, 2025-12-23 to 2026-03-07, all in Early Access; 3 thumbs down; 60 bullets, 1.20 per review; unknown share 35%; none excluded. Id list matched before the dry run. Words per bullet in long reviews is 140 this batch because one bullet summarises a copied checklist template (216644921).
+
+**No modes built.** **Co-op connections:** all 3 thumbs down are about loading - 215439707 always times out joining a friend's world, 217296290 sometimes never loads in multiplayer, 216048213 can't launch its world. **217819208** asks why the revealing female Pals and NPCs have no male equivalents. **217818210** is a parody essay in Lovecraft's style on the Pals' treatment (7/10). 219486205 wishes it were first person. 216045048 and 217296379 wait for 1.0. 219482230 is in Turkish. Family details in 217297504 and 218906854 are left out. Batch sizes for the scripts: `--sizes 50x20`.
+
+**Next:** Palworld batch 21 (50 reviews).
