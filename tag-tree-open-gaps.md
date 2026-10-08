@@ -14397,3 +14397,11 @@ Fourth unit of the 02:44 firing (twenty a firing; test set of the third pace tes
 **No modes built.** The launcher keeps the game from starting: 140938995 (563 hours shown, 27 found it helpful): "good enough game if one can get to launch 1 out of 50 tries"; 140077502: "a coin flip whether or not this game will launch"; 139328399 needs "roughly half an hour to get the game actually running" through the EA app, then hits corrupted saves. Five launcher notes in all. All reviewers' accounts. 140503351 compares the multiplayer to "gears of war horde mode", calls it "new player friendly" and says "there are still players, at least as of June 2023". 142609702 names the ruin vaults that fix each planet's climate as "the main highlight of the game" - the opposite reading to the puzzle complaints - and says its achievements work with the EA app on Steam. 138315436 is a thumbs down whose only words are "the multiplayer is decent".
 
 **Next:** Mass Effect: Andromeda batch 17 (50 reviews).
+
+## Notes - round 1046 (Mass Effect: Andromeda batch 17)
+
+Fifth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2023-07-22 to 2023-10-07; 21 thumbs down, the most of any batch so far; 131 bullets; none excluded; 0 Early Access.
+
+**No modes built.** The cover system splits again: 147833318 says automatic cover "can be extremely frustrating - sometimes i walk up to a boulder but i don't enter cover"; 146365254 (100%, 150 hours, many mods) calls it "floaty and clunky" and says the squad and enemy AI are worse than the trilogy's; against that 144805583 likes that "teammates being able to hold their own though they cannot be controlled". 144811433 sets the length against the payoff: as long as the first three games together "you get 1 big climax to the story, while in the first 3 games you had 3". The multiplayer: 145408243 says it is "still essentially what it was in ME3 but somehow feels like it's 'less'"; 146814567: "Multiplayer isnt bad either". Five objections to the cast's politics are recorded only as such; one crude joke naming real people is left out.
+
+**Next:** Mass Effect: Andromeda batch 18 (50 reviews).
