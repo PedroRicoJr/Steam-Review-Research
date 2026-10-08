@@ -14487,3 +14487,11 @@ Fifteenth unit of the 02:44 firing (twenty a firing; test set of the third pace 
 **No modes built.** The multiplayer in late 2025, two readings: 205495146 (18 found it helpful) was "Surprised to discover Multiplayer still active" and says it is "pretty much the same" as Mass Effect 3's "with the plus of being able to jet jump"; 206804915 "saw 2 people over like 5 hours" (`one-mode-has-no-players`) and notes strike teams can earn the multiplayer rewards without playing it. 203766809 says the game worked on Linux until the EA launcher stopped loading it. 203217382 crafted armour that never reached the inventory, a bug they read has existed since launch. 206804915 calls it "the most stable game i have ever played". 207391202 found the Architect boss fights terrifying at first, then something to look forward to. Three crude remarks (203580721, 204273741, 208631324) and one rant with claims about spyware (206755695) are recorded only as crude remarks; the claims are left out.
 
 **Next:** Mass Effect: Andromeda batch 28 (50 reviews).
+
+## Notes - round 1057 (Mass Effect: Andromeda batch 28)
+
+Sixteenth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2025-11-07 to 2026-01-23; 18 thumbs down; 103 bullets; none excluded; 0 Early Access.
+
+**No modes built.** The EA app is the batch's biggest fault: 10 notes between `will-not-start-at-all` (4) and the launcher (6). 209870570 tried in 2023, 2024 and November 2025 and each time the app refused to launch it ("Error on our end"); 211947156 (12 found it helpful) says the EA app runs none of their EA games and the refund was rejected; 216624410: "Game used to work, now it doesn't"; 214762407 says mods suddenly stopped working and the game went back to needing the Origin desktop app. 209327593 (20 found it helpful): "If I buy it through Steam, it should launch through Steam." All reviewers' accounts. 209779807 says the choices offer only extremes with "No middle ground". 212722000 calls it "a loading screen festival". 209823197 says it plays well on a handheld PC or the Steam Deck - against round 1047's 149214377, who could not get past the launcher on the Deck. One crude political one-liner is recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 29 (50 reviews).
