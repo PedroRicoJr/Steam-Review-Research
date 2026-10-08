@@ -14413,3 +14413,11 @@ Sixth unit of the 02:44 firing (twenty a firing; test set of the third pace test
 **No modes built.** Saves are the sharpest fault this batch: 150874782 "gets a no because ea deleted my save"; 154250876 (end of 2023) loses hours as "all auto and manual saves are crashed"; 150187323 says "Some missions lock you out from saving". 149214377 could not get past "Something wen't wrong" in the EA launcher on the Steam Deck. 149250591 (54 found it helpful) sums up the open-world fault: "another 10 minutes to drive in a boring snowy tundra to get to an objective I have already done 3 times before". 153078103 says a key briefing is cut off when the tram ride ends before the speech does - the same lost-dialogue fault seen with the rover banter. 150150584 says about five achievements are bugged. One note on the multiplayer: 152973461 "Cool lultiplayer".
 
 **Next:** Mass Effect: Andromeda batch 19 (50 reviews).
+
+## Notes - round 1048 (Mass Effect: Andromeda batch 19)
+
+Seventh unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2023-12-22 to 2024-03-07; 15 thumbs down; 118 bullets; none excluded; 0 Early Access; one review in Spanish (156456292).
+
+**No modes built.** On choices the batch leans the other way for once: 4 notes say they matter or that the four-tone replies beat Paragon/Renegade (156477798 "I approve that paragon and renegade mechanics are absent"; 160066091) against 3 that they change nothing (158842066: "this game only has one ENDING....so... kind of pointless choices"). 156477798 also praises cover that is "smooth and automatic when exiting by simply moving away". Two could not start it at all (156502530 after "nearly 10 hours debugging"; 159506385 after 9+ hours with the EA app). 158330320 lists the fixes it wants: more linear areas, fewer filler side missions, less travel - "the amount of times you leave a planet and then immediately get a new quest telling you to go back on the planet". 157632990: "the multiplayer is fun".
+
+**Next:** Mass Effect: Andromeda batch 20 (50 reviews).
