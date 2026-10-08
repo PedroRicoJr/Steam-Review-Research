@@ -14471,3 +14471,11 @@ Thirteenth unit of the 02:44 firing (twenty a firing; test set of the third pace
 **No modes built.** `your-choices-change-nothing` has its biggest batch yet (8 notes; 193913173 "the options you pick in dialogues, don't have impact into the story"; 195997556, 270+ hours: "The illusion of choice is just that"). The multiplayer in spring 2025 splits two ways: 193913173 "liked that the multiplayer still functions and you can meet pros and noobs in them"; 196577834 calls it "UNPLAYABLE" with no detail. 193849623 says the game is buggier on Steam now than it was on Origin in 2017 (`less-stable-than-it-used-to-be`). 192228600 could not play single player while the internet was down; 193870644 is made to "continually re-login". 194926299 blames having to hold the button for every door, container and conversation. 195439473 attributes the cuts to EA wanting multiplayer microtransactions (reviewer's view). One remark calling characters checkbox diversity is recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 26 (50 reviews).
+
+## Notes - round 1055 (Mass Effect: Andromeda batch 26)
+
+Fourteenth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2025-06-05 to 2025-08-23; 17 thumbs down; 110 bullets; none excluded; 0 Early Access.
+
+**No modes built.** Squad AI comes up three times this batch (197922315: "the team mate AI is better thought of as 3 year olds with a controller"; 199867179: companions "run around out of cover" even when ordered to a spot; 201562775: teammates "feel really useless most of the time on insanity"). 197332070 repeats the call for the ship's video-call room to replace the flights ("Rather than use that, you'll fly one of the most advanced starships around the galaxy...for conversations"). 197753087 (16 found it helpful) says the game no longer downloads on Steam at all. 202679651 lost a romance and a loyalty mission when a crash altered the save. 200387306 names the mods that made it playable (rover handling, jetpack for all profiles). The multiplayer: 200469138 "the multiplayer is bad". One crude political one-liner is recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 27 (50 reviews).
