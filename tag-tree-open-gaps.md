@@ -14439,3 +14439,11 @@ Ninth unit of the 02:44 firing (twenty a firing; test set of the third pace test
 **No modes built.** 170581381 (117 found it helpful): the EA launcher "literally stops the game from launching. it does the opposite of what a GAME LAUNCHER is supposed to do"; 168626644: "Half the time the game won't launch"; four launcher notes in all. 171570078 (72 found it helpful) bought it at 80% off after years of avoiding it and calls the reputation "just not true". 171153289 gives the fullest list of travel and nagging faults: 5-second planet drops, take-off and landing animations "EVERY TIME", the ship's AI's "little weather comments every five seconds", and the rover slowing to a crawl in 4WD on any hill. 166408264 says the game makes cooling fans "scream" on console and PC. Four objections to the cast's politics, one of them an abusive rant (170483519), are recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 22 (50 reviews).
+
+## Notes - round 1051 (Mass Effect: Andromeda batch 22)
+
+Tenth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2024-08-06 to 2024-10-23; 13 thumbs down; 105 bullets; none excluded; 0 Early Access; one review in Spanish (172138254) and one in Malay (174478230).
+
+**No modes built.** 175579602 (10 found it helpful) gives the batch's fullest list: it "Runs extremely smooth", quest tracking "actually tell[s] you where to go", but there is no crouch, "less areas scattered about to take cover behind" and auto-cover fails on "oddly shaped" objects; no control of the team's powers; no health kits, so "It's either find a health 'station' or die"; an augmentation bug makes weapons "fire endlessly"; and the mystery ends when a second race "understands everyone perfectly". 174884380 says Mass Effect 3's cover was better. 177581610 (77 found it helpful) calls the game "a miracle" for its exploration and its "Existential themes". 172126939 lost every save slot in one crash. 173117820: "The Multiplayer is good." One crude remark (175567560) is recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 23 (50 reviews).
