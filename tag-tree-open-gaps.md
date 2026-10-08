@@ -14389,3 +14389,11 @@ Third unit of the 02:44 firing (twenty a firing; test set of the third pace test
 **No modes built.** The EA app switch reaches this game in spring 2023, as it did Mass Effect 3: 135252166 (459 found it helpful, the most of any Andromeda review so far): "Game has been rendered unplayable due to EA turning off Origin and forcing me to update to the EA Play app, which doesn't work for ANY of my EA games through Steam." Two more are locked out over DLC the system says they lack (`locked-out-of-my-own-account`; 136271430: "my save gets corrupted by missing dlc that is installed but EA says otherwise"; 136726674). Five launcher notes in all, plus two saves that did not keep and one bugged save. All reviewers' accounts. 135783659 (121 found it helpful) calls it "legitimately the best Mass Effect Game" and describes the crew distrusting the untested hero and becoming "A family". The multiplayer: 134154498 was surprised "there are still many people playing online"; 136278154: "MP is a lot of fun too".
 
 **Next:** Mass Effect: Andromeda batch 16 (50 reviews).
+
+## Notes - round 1045 (Mass Effect: Andromeda batch 16)
+
+Fourth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2023-05-06 to 2023-07-23; 14 thumbs down; 105 bullets; none excluded; 0 Early Access; one review in French with the reviewer's own English (140489366).
+
+**No modes built.** The launcher keeps the game from starting: 140938995 (563 hours shown, 27 found it helpful): "good enough game if one can get to launch 1 out of 50 tries"; 140077502: "a coin flip whether or not this game will launch"; 139328399 needs "roughly half an hour to get the game actually running" through the EA app, then hits corrupted saves. Five launcher notes in all. All reviewers' accounts. 140503351 compares the multiplayer to "gears of war horde mode", calls it "new player friendly" and says "there are still players, at least as of June 2023". 142609702 names the ruin vaults that fix each planet's climate as "the main highlight of the game" - the opposite reading to the puzzle complaints - and says its achievements work with the EA app on Steam. 138315436 is a thumbs down whose only words are "the multiplayer is decent".
+
+**Next:** Mass Effect: Andromeda batch 17 (50 reviews).
