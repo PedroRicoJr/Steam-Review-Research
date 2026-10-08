@@ -14365,3 +14365,11 @@ Twentieth unit of the 21:44 firing - the firing did all twenty (twenty a firing;
 **This firing (21:44):** twenty units, rounds 1022-1041 - the end of Mass Effect 3 (2012) and its pages (1022-1028), the Andromeda pick (1029) and Andromeda batches 1-12 (1030-1041). It is the first of the four firings at twenty that the third pace test counts.
 
 **Next:** Mass Effect: Andromeda batch 13 (50 reviews).
+
+## Notes - round 1042 (Mass Effect: Andromeda batch 13)
+
+First unit of the 02:44 firing (twenty a firing; the second firing at twenty, test set of the third pace test). The loop was paused by Rico at 22:27 on 2026-10-07 and turned back on before this firing; the 22:44 to 01:44 firings did not run. 50 reviews, 2022-09-22 to 2022-12-07; 14 thumbs down; 126 bullets; none excluded; 0 Early Access.
+
+**No modes built.** 124698290 (19 found it helpful) sharpens `your-choices-change-nothing`: "I really wanted the decision between establishing a scientific or military first colony to have impact, and it just doesn't" - yet the same review prefers the subtler options to "the strict Paragon or Renegade binary choice". 123093045 suggests "a video conference thing on your ship ... if it had been utilized better, 90% of the travel could have been cut out". Quests that hide what to do next have 3 more notes (`hides-information`), and 4 reviews met bugs that blocked progress (123462218: "not being able to return to your ship"). 128122593 says it is unplayable on the Steam Deck. Two objections to the cast's politics and one crude remark about a designer are recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 14 (50 reviews).
