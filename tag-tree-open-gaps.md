@@ -14463,3 +14463,11 @@ Twelfth unit of the 02:44 firing (twenty a firing; test set of the third pace te
 **No modes built.** The multiplayer's loot-pack grind, from a reviewer who left the game farming its currency with a cheat (188451465, 149 hours shown): "it would take you the better part of at least 1000, IRL, hours to begin to play with the upper tier of weapons for the online, PVE, part of the game", and even "more than 140 million in game currency" could not unlock every weapon and armour set. Reviewer's figures, not checked; filed under `what-you-buy-is-a-random-draw` and `grindy`, with the cheating under `used-a-cheat-to-get-through-it`. The same review's political rant is recorded only as such, as is 186821336's remark naming real people, who are left out. 186221534 says squad and enemy AI "sometimes ... is criminally malfunctioning", and there is no squad order screen. 186838913 says the game loses momentum in its last third because developers were moved to Anthem (reviewer's claim). 188391658 (10 found it helpful) calls the companions "discount versions" of the trilogy's.
 
 **Next:** Mass Effect: Andromeda batch 25 (50 reviews).
+
+## Notes - round 1054 (Mass Effect: Andromeda batch 25)
+
+Thirteenth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2025-03-23 to 2025-06-07; 16 thumbs down; 114 bullets; none excluded; 0 Early Access.
+
+**No modes built.** `your-choices-change-nothing` has its biggest batch yet (8 notes; 193913173 "the options you pick in dialogues, don't have impact into the story"; 195997556, 270+ hours: "The illusion of choice is just that"). The multiplayer in spring 2025 splits two ways: 193913173 "liked that the multiplayer still functions and you can meet pros and noobs in them"; 196577834 calls it "UNPLAYABLE" with no detail. 193849623 says the game is buggier on Steam now than it was on Origin in 2017 (`less-stable-than-it-used-to-be`). 192228600 could not play single player while the internet was down; 193870644 is made to "continually re-login". 194926299 blames having to hold the button for every door, container and conversation. 195439473 attributes the cuts to EA wanting multiplayer microtransactions (reviewer's view). One remark calling characters checkbox diversity is recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 26 (50 reviews).
