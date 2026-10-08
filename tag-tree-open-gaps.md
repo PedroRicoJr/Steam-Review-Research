@@ -14421,3 +14421,13 @@ Seventh unit of the 02:44 firing (twenty a firing; test set of the third pace te
 **No modes built.** On choices the batch leans the other way for once: 4 notes say they matter or that the four-tone replies beat Paragon/Renegade (156477798 "I approve that paragon and renegade mechanics are absent"; 160066091) against 3 that they change nothing (158842066: "this game only has one ENDING....so... kind of pointless choices"). 156477798 also praises cover that is "smooth and automatic when exiting by simply moving away". Two could not start it at all (156502530 after "nearly 10 hours debugging"; 159506385 after 9+ hours with the EA app). 158330320 lists the fixes it wants: more linear areas, fewer filler side missions, less travel - "the amount of times you leave a planet and then immediately get a new quest telling you to go back on the planet". 157632990: "the multiplayer is fun".
 
 **Next:** Mass Effect: Andromeda batch 20 (50 reviews).
+
+## Notes - round 1049 (Mass Effect: Andromeda batch 20)
+
+Eighth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2024-03-06 to 2024-05-23; 16 thumbs down; 93 bullets; none excluded; 0 Early Access; one review in Slovak (160602819).
+
+**No modes built.** 163344995 (154 found it helpful): bugs and performance "are now solved for the most part", but "The main story, flimsy as it is, is copied beat for beat from the original trilogy" and the side content "smothers the main story with fillers". 160610933 (31 found it helpful) says characters "basically stop reacting to stuff or getting more voice lines after the midway point" and that outposts never show progress. 161801432 (25 found it helpful, "Over 600 hours on other platforms") praises cover that engages with "a satisfying *thunk*". 160604427 got past the launcher by "logging into the EA store first, then launching it from there" (reviewer's fix). The multiplayer: 163887034 "truly impressive"; 163178640 "pretty cool". One crude slur in 160602819 is recorded only as such.
+
+**Rule 7 watch.** `batch_quality.py` shows notes per long review falling across this game: 5.4-7.3 in batches 1-8, 3.2-4.8 in batches 11-20 (3.7 here), with words of review per note rising from 26-49 to 49-75. The Mass Effect 3 base batches ran 1.7-3.8 notes per long review, so Andromeda is still at or above the base; the early Andromeda batches were unusually dense. The third pace test (`pace_qc.py`, length-adjusted, plus the blind audit) is the check that decides; this is recorded so it is not missed. The remaining batches of this firing keep to one note per distinct point.
+
+**Next:** Mass Effect: Andromeda batch 21 (50 reviews).
