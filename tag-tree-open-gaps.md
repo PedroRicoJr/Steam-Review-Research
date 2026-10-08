@@ -14405,3 +14405,11 @@ Fifth unit of the 02:44 firing (twenty a firing; test set of the third pace test
 **No modes built.** The cover system splits again: 147833318 says automatic cover "can be extremely frustrating - sometimes i walk up to a boulder but i don't enter cover"; 146365254 (100%, 150 hours, many mods) calls it "floaty and clunky" and says the squad and enemy AI are worse than the trilogy's; against that 144805583 likes that "teammates being able to hold their own though they cannot be controlled". 144811433 sets the length against the payoff: as long as the first three games together "you get 1 big climax to the story, while in the first 3 games you had 3". The multiplayer: 145408243 says it is "still essentially what it was in ME3 but somehow feels like it's 'less'"; 146814567: "Multiplayer isnt bad either". Five objections to the cast's politics are recorded only as such; one crude joke naming real people is left out.
 
 **Next:** Mass Effect: Andromeda batch 18 (50 reviews).
+
+## Notes - round 1047 (Mass Effect: Andromeda batch 18)
+
+Sixth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2023-10-04 to 2023-12-23; 19 thumbs down; 103 bullets; none excluded; 0 Early Access.
+
+**No modes built.** Saves are the sharpest fault this batch: 150874782 "gets a no because ea deleted my save"; 154250876 (end of 2023) loses hours as "all auto and manual saves are crashed"; 150187323 says "Some missions lock you out from saving". 149214377 could not get past "Something wen't wrong" in the EA launcher on the Steam Deck. 149250591 (54 found it helpful) sums up the open-world fault: "another 10 minutes to drive in a boring snowy tundra to get to an objective I have already done 3 times before". 153078103 says a key briefing is cut off when the tram ride ends before the speech does - the same lost-dialogue fault seen with the rover banter. 150150584 says about five achievements are bugged. One note on the multiplayer: 152973461 "Cool lultiplayer".
+
+**Next:** Mass Effect: Andromeda batch 19 (50 reviews).
