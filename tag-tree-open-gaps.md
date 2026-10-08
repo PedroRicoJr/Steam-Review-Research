@@ -14381,3 +14381,11 @@ Second unit of the 02:44 firing (twenty a firing; test set of the third pace tes
 **No modes built.** The move from Origin to the EA app shows up here, months before Mass Effect 3's 2023 lockouts: 131411262 (2023-01-23) says the app replaced Origin, cannot be moved out of Program Files, and "can't even play any games that requires this bs app offline"; 131425967 changed to a thumbs down because "the EA Launcher app deleted mods for ALL my games on Steam" (`the-studio-blocks-mods`); 133305663 had to reset a forgotten EA password to play single player. All reviewers' accounts. 129805119 ("this game is fun and i'm tired of pretending it isn't", 122 found it helpful) leads the 8 `judged-unfairly` notes. 128629412 (306 hours) praises cover "without getting glued to it" but says squadmates were made tanky to cover weak AI. 131946425 calls "Both the single player and multiplayer" fantastic. 132751668 gave a thumbs down only because the visor is clear in play but tinted in the store pictures.
 
 **Next:** Mass Effect: Andromeda batch 15 (50 reviews).
+
+## Notes - round 1044 (Mass Effect: Andromeda batch 15)
+
+Third unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2023-02-21 to 2023-05-07; 17 thumbs down; 112 bullets; none excluded; 0 Early Access.
+
+**No modes built.** The EA app switch reaches this game in spring 2023, as it did Mass Effect 3: 135252166 (459 found it helpful, the most of any Andromeda review so far): "Game has been rendered unplayable due to EA turning off Origin and forcing me to update to the EA Play app, which doesn't work for ANY of my EA games through Steam." Two more are locked out over DLC the system says they lack (`locked-out-of-my-own-account`; 136271430: "my save gets corrupted by missing dlc that is installed but EA says otherwise"; 136726674). Five launcher notes in all, plus two saves that did not keep and one bugged save. All reviewers' accounts. 135783659 (121 found it helpful) calls it "legitimately the best Mass Effect Game" and describes the crew distrusting the untested hero and becoming "A family". The multiplayer: 134154498 was surprised "there are still many people playing online"; 136278154: "MP is a lot of fun too".
+
+**Next:** Mass Effect: Andromeda batch 16 (50 reviews).
