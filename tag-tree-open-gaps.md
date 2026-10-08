@@ -14373,3 +14373,11 @@ First unit of the 02:44 firing (twenty a firing; the second firing at twenty, te
 **No modes built.** 124698290 (19 found it helpful) sharpens `your-choices-change-nothing`: "I really wanted the decision between establishing a scientific or military first colony to have impact, and it just doesn't" - yet the same review prefers the subtler options to "the strict Paragon or Renegade binary choice". 123093045 suggests "a video conference thing on your ship ... if it had been utilized better, 90% of the travel could have been cut out". Quests that hide what to do next have 3 more notes (`hides-information`), and 4 reviews met bugs that blocked progress (123462218: "not being able to return to your ship"). 128122593 says it is unplayable on the Steam Deck. Two objections to the cast's politics and one crude remark about a designer are recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 14 (50 reviews).
+
+## Notes - round 1043 (Mass Effect: Andromeda batch 14)
+
+Second unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2022-12-07 to 2023-02-21; 11 thumbs down; 126 bullets; none excluded; 0 Early Access; one review in Russian (132372053).
+
+**No modes built.** The move from Origin to the EA app shows up here, months before Mass Effect 3's 2023 lockouts: 131411262 (2023-01-23) says the app replaced Origin, cannot be moved out of Program Files, and "can't even play any games that requires this bs app offline"; 131425967 changed to a thumbs down because "the EA Launcher app deleted mods for ALL my games on Steam" (`the-studio-blocks-mods`); 133305663 had to reset a forgotten EA password to play single player. All reviewers' accounts. 129805119 ("this game is fun and i'm tired of pretending it isn't", 122 found it helpful) leads the 8 `judged-unfairly` notes. 128629412 (306 hours) praises cover "without getting glued to it" but says squadmates were made tanky to cover weak AI. 131946425 calls "Both the single player and multiplayer" fantastic. 132751668 gave a thumbs down only because the visor is clear in play but tinted in the store pictures.
+
+**Next:** Mass Effect: Andromeda batch 15 (50 reviews).
