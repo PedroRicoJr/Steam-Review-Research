@@ -14431,3 +14431,11 @@ Eighth unit of the 02:44 firing (twenty a firing; test set of the third pace tes
 **Rule 7 watch.** `batch_quality.py` shows notes per long review falling across this game: 5.4-7.3 in batches 1-8, 3.2-4.8 in batches 11-20 (3.7 here), with words of review per note rising from 26-49 to 49-75. The Mass Effect 3 base batches ran 1.7-3.8 notes per long review, so Andromeda is still at or above the base; the early Andromeda batches were unusually dense. The third pace test (`pace_qc.py`, length-adjusted, plus the blind audit) is the check that decides; this is recorded so it is not missed. The remaining batches of this firing keep to one note per distinct point.
 
 **Next:** Mass Effect: Andromeda batch 21 (50 reviews).
+
+## Notes - round 1050 (Mass Effect: Andromeda batch 21)
+
+Ninth unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2024-05-21 to 2024-08-07; 17 thumbs down; 128 bullets; none excluded; 0 Early Access; one review in Russian (165797456). Notes per long review back up to 4.8 (round 1049's Rule 7 watch).
+
+**No modes built.** 170581381 (117 found it helpful): the EA launcher "literally stops the game from launching. it does the opposite of what a GAME LAUNCHER is supposed to do"; 168626644: "Half the time the game won't launch"; four launcher notes in all. 171570078 (72 found it helpful) bought it at 80% off after years of avoiding it and calls the reputation "just not true". 171153289 gives the fullest list of travel and nagging faults: 5-second planet drops, take-off and landing animations "EVERY TIME", the ship's AI's "little weather comments every five seconds", and the rover slowing to a crawl in 4WD on any hill. 166408264 says the game makes cooling fans "scream" on console and PC. Four objections to the cast's politics, one of them an abusive rant (170483519), are recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 22 (50 reviews).
