@@ -14447,3 +14447,11 @@ Tenth unit of the 02:44 firing (twenty a firing; test set of the third pace test
 **No modes built.** 175579602 (10 found it helpful) gives the batch's fullest list: it "Runs extremely smooth", quest tracking "actually tell[s] you where to go", but there is no crouch, "less areas scattered about to take cover behind" and auto-cover fails on "oddly shaped" objects; no control of the team's powers; no health kits, so "It's either find a health 'station' or die"; an augmentation bug makes weapons "fire endlessly"; and the mystery ends when a second race "understands everyone perfectly". 174884380 says Mass Effect 3's cover was better. 177581610 (77 found it helpful) calls the game "a miracle" for its exploration and its "Existential themes". 172126939 lost every save slot in one crash. 173117820: "The Multiplayer is good." One crude remark (175567560) is recorded only as such.
 
 **Next:** Mass Effect: Andromeda batch 23 (50 reviews).
+
+## Notes - round 1052 (Mass Effect: Andromeda batch 23)
+
+Eleventh unit of the 02:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2024-10-21 to 2025-01-07; 16 thumbs down; 117 bullets; none excluded; 0 Early Access.
+
+**No modes built.** The multiplayer's state by late 2024, from its most-played reviewer here: 178574192 (1,643 hours shown, 13 found it helpful) - "game is dead. ea wont do anything to update it. Game is full of cheaters. new players wont play with pros and the pros will only play with their buddies so that means there are no games ... who wants to play a co-op game solo". Filed under `dead-game`, `cheaters-spoil-matches` and `veterans-will-not-help-newcomers`. 178126599 bought it for $5 and "had fun in the multiplayer with friends". 182797225 (57 found it helpful): the EA launcher often won't launch it, then crashes in cutscenes and quest-breaking bugs. 181992572 (76 found it helpful) praises the premise as a clean break but says it was abandoned before it had "more time in the oven". 184966689 shares a start-up fix (turn off forced ASLR in Windows exploit protection - reviewer's account). Four crude or political remarks are recorded only as such.
+
+**Next:** Mass Effect: Andromeda batch 24 (50 reviews).
