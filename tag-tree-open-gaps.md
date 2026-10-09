@@ -15261,3 +15261,13 @@ Seventh unit of the 14:44 firing. Arma 3 batch 43: 50 reviews, 57 bullets (1.14 
 - 108649006: "kind of lacking of players"; 109751338, a Project Reality player, found it still fun in 2022 within "a community with the same vibes and culture".
 
 **Next:** Arma 3 batch 44 (50 reviews).
+
+## Notes - round 1139 (Arma 3 batch 44)
+
+Eighth unit of the 14:44 firing. Arma 3 batch 44: 50 reviews, 57 bullets (1.14 per review), 5 thumbs down, written 2022-02-21 to 2022-04-30. **40 of 50 reviews are 15 words or fewer**; 54% of bullets are bare thumbs up. No tree change.
+
+- **The long thumbs down:** 111772944 (3,204 hours shown, edited 2026) - 30 fps on a Ryzen 9 and RTX 4070, crashes on firing, laser designators and lock-on broken, the campaign soft-locking, Apex bought "just so I can actually use half the content", an AI teammate shooting them in the first mission, 10 fps in the Spearhead DLC.
+- **Footage taken for real war:** 112718995 - "there are people thinking gameplay footage is real life combat footage from the east" (2022).
+- 111265211 (1,524 hours shown) - "Devs producing new content and quality improvements very often"; 112259793 says after the first single-player scenario the rest were paid DLC (the reviewer's account).
+
+**Next:** Arma 3 batch 45 (50 reviews).
