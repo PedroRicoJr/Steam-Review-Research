@@ -14559,3 +14559,14 @@ Eighth unit of the 08:44 firing (twenty a firing). Section 35 appended to `findi
 Ninth unit of the 08:44 firing (twenty a firing). The Mass Effect: Andromeda entry written into `DOMINION-TAKEAWAYS.md` from `templates/dominion-takeaways-entry.md`, placed before Mass Effect 3 (2012), with a row in the games list and in the main table (70.9% up, 105.9 praise and 147.0 complaints per 100, 0.72 : 1, 2.65 points per review, section 35). Every number was taken from the English page, the master page or cross-game section 35. GAMES-TODO row 22 marked **Done**. 11 lessons; the strongest are the combat (127), no launcher or server wait between the player and the game (70 and 25), no errands or padding (first of 29 on all three) and never losing a save (20).
 
 **Next:** Sniper Elite: Resistance (GAMES-TODO row 23, Rico's pick of 2026-10-09): measure, size, pull. The next firing is the fourth at twenty; the third pace test runs after it (loop file, **Pace test**). Andromeda batches 29-32 were written in this firing with more notes per review than batches 11-28 (3.5 against 2.3; `batch_quality.py`), which the test should see.
+
+## Notes - round 1067 (Sniper Elite: Resistance: grid, pull)
+
+Tenth unit of the 08:44 firing (twenty a firing). No reviews read.
+
+- **Why this game:** Rico's pick on 2026-10-09, in chat ("Add this game ... I specifically want to see if players like or hate that other players can invade their mission to kill them"), queued as GAMES-TODO row 23 next after Andromeda. A keyword scan of its invasion mode was written first, outside the sampled read (`findings/sniper-elite-resistance-invasion-scan.md`).
+- **Grid:** `build_grid.py --only sniper-elite-resistance --languages english` (slug added, first month 2025-01): **3,304 English reviews across 22 months, 2025-01 to 2026-10**; the largest month is 2025-02 (927, 28.1%).
+- **Pull:** `pull_sample.py --only sniper-elite-resistance/english`, planned 1,060, **got 971**, all ids distinct. **Actual margin +/-3.02%** (Rule 12, from the count pulled per month). The game's reviews start on 2025-01-28, so the weekly windows of 2025-01 were mostly empty: 25 of 102 wanted, read at weight x13.0. 2026-10 returned 9 of 20. Read as pulled under Rico's ruling of 2026-09-04; `scripts/pull_month_from_day.py` stays unused.
+- **Third pace test:** this game is not in the test set (the test set is the first game started at twenty, Andromeda).
+
+**Next:** Sniper Elite: Resistance batch 1 (50 reviews). The third pace test runs after the next firing, the fourth at twenty.
