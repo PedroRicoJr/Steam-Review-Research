@@ -1,0 +1,888 @@
+[
+ {
+  "code": "R001",
+  "review_text": "Good game. Better than ME 1, 2 and 3 IMO as more freedom of movements and specialisation and weapons and armors. A good 100 hours of play if you do all the quests and side-quests and take the time to read all the dialogues. More quests and side quests to do than No Man's Sky or Starfield as they both feel very empty compare to Andromeda.",
+  "notes": [
+   "- Better than 1-3 for freedom of movement, specialisation and gear.",
+   "    → marketing.reputation.lives-up-to-the-studios-earlier-games (good)",
+   "- A good 100 hours; more quests than two recent space-exploration games, which feel empty by comparison.",
+   "    → production.content-amount.plenty                       (good)"
+  ]
+ },
+ {
+  "code": "R002",
+  "review_text": "not bad",
+  "notes": [
+   "- 'not bad'.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R003",
+  "review_text": "It's alright.\n\nThe story, with the extended ending, isn't half bad. And the story in general is pretty ok. It has some top-notch, emotional, scenes to boot.\n\nIt is the least-RPG out of the 3, and essentially a shooter with RPG elements to it. Personally, I hate the combat. I can't see for ♥♥♥♥ over the shoulder, and sprinting will have you gluing yourself to anything in front of you, making it really annoying.\n\nThe DLC is hit and miss. Shooting, and shooting is the theme of most of them. But the Citadel DLC is pretty good for the most part, as it doesnt take itself that seriously, and is light-hearted.",
+  "notes": [
+   "- The least RPG of the three, a shooter with RPG elements.",
+   "    → game-design.progression.complexity.shallow             (bad)",
+   "- Hates the combat: can't see over the shoulder, sprinting glues you to cover.",
+   "    → game-design.game-feel.controls.one-button-does-too-many-things (bad)",
+   "- The DLC is hit and miss; Citadel is good.",
+   "    → publishing.dlc-and-editions.dlc-not-worth-it           (bad)",
+   "- Some top-notch emotional scenes.",
+   "    → narrative.story.worth-following                        (good)"
+  ]
+ },
+ {
+  "code": "R004",
+  "review_text": "Very disappointed, the facial expressions are like those from PS2-era games. It's sad that the legend has been tarnished because of this game",
+  "notes": [
+   "- Facial expressions like a PS2-era game; tarnished the series.",
+   "    → art.animation.the-faces-do-not-move                    (bad)"
+  ]
+ },
+ {
+  "code": "R005",
+  "review_text": "A good ending to a Great trilogy, but only if you have the MEHEM (Mass Effect Happy Ending Mod), otherwise the ending is a BIG let down.",
+  "notes": [
+   "- A great trilogy's end - but only with the happy-ending mod.",
+   "    → narrative.story.the-ending-lets-it-down                (bad)"
+  ]
+ },
+ {
+  "code": "R006",
+  "review_text": "[If you're experiencing FPS issues due to the forced Origin Overlay, you'll find the fix here: https://github.com/ME3Tweaks/d3d9-blank-proxy/releases/tag/1.0 , it works for just about any EA game with this issue and literally takes 30 seconds to install, god bless the author]\n\nThis series is lifechanging, and this particular game made me nearly resort to alcohol with how it ripped my heart out and turned it to dust. I keep making the mistake of falling in love with BioWare characters and then letting them walk all over me with their dying or punching me straight (gay) in the face with skewed morals I don't agree with and what not. \n\nI usually just tell people I like this game series for the hot aliens because I'm way too insecure to tell everyone just how brutally emotionally investing it is; this is the kind of game you really get heated arguing about, it's just that good. \n\nAll I can really say is, play Mass Effect, then play Mass Effect 2, then play Mass Effect 3.\n\nAlso, no Shepard without Vakarian.",
+  "notes": [
+   "- Links a 30-second fix for the forced Origin overlay (49 found it helpful).",
+   "    → community.player-conduct.players-teach-each-other-the-fix (good)",
+   "- Life-changing and emotionally gripping; play all three in order.",
+   "    → narrative.story.lost-on-new-players                    (bad)",
+   "- Loves the characters.",
+   "    → narrative.characters-writing.funny-or-memorable        (good)"
+  ]
+ },
+ {
+  "code": "R007",
+  "review_text": "Every time I try to play this game there is something wrong with the launcher!",
+  "notes": [
+   "- Something is wrong with the launcher every time.",
+   "    → engineering.access.unwanted-third-party-software       (bad)"
+  ]
+ },
+ {
+  "code": "R008",
+  "review_text": "LOOK AT WHAT THEY DID TO MY BOY!!! WHHYYYYYYYY!!! AAAHHHHH-HA-HA- WHYYYYYY",
+  "notes": [
+   "- A meme reaction about what was done to the series.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)"
+  ]
+ },
+ {
+  "code": "R009",
+  "review_text": "Ending aside (which I like), this is a great conclusion to an epic trilogy",
+  "notes": [
+   "- A great conclusion; likes the ending.",
+   "    → narrative.story.the-ending-lands                       (good)"
+  ]
+ },
+ {
+  "code": "R010",
+  "review_text": "all time fav",
+  "notes": [
+   "- All-time favourite.",
+   "    → marketing.reputation.best-in-its-category              (good)"
+  ]
+ },
+ {
+  "code": "R011",
+  "review_text": "I miss the elcor",
+  "notes": [
+   "- Misses one of the trilogy's races.",
+   "    → production.content-amount.a-favourite-from-the-last-game-is-missing (bad)"
+  ]
+ },
+ {
+  "code": "R012",
+  "review_text": "an amazing game. so underrated",
+  "notes": [
+   "- Amazing and underrated.",
+   "    → marketing.reputation.judged-unfairly                   (good)"
+  ]
+ },
+ {
+  "code": "R013",
+  "review_text": "It has a cool setting and good mechanics but it's buggy and the storytelling is bad. It had so much potential.\n\n6.5/10",
+  "notes": [
+   "- Cool setting and good mechanics, but buggy with bad storytelling; 6.5/10.",
+   "    → engineering.bugs.buggy                                 (bad)"
+  ]
+ },
+ {
+  "code": "R014",
+  "review_text": "Everyone talks too much\n\n\nEDIT:  Actually shocked by how much fun this game was.  It doesn't feel like Mass Effect, but they have the core of a genuinely fun and engaging RPG here.  There's just some major problems that drag it down\n\n\n- It's not \"Mass Effect\".  The story and setting genuinely feels like it was originally written as its own unique thing and was only later tied to the Mass Effect franchise.  The arks even have a departure date from the Milky Way galaxy of just after ME, before ME3, and possibly but not quite during ME2, so it doesn't have to commit to any decisions or endings as canon.\n\nThis isn't a bad thing and it's not a big deal unless you're an absolutely die-hard ME fan who needs a genuine sequel.  The problem only starts to occur when so many different interactions and missions and side missions involve basically staring at Mass Effect lore and giving a big shrug.  \n\nThere's a whole sidequest plotline involving digging into who was behind the expedition to begin with, and once it becomes clear it's tied with the events in ME3, it just kind of ends without resolution.\n\nThere's somewhat frequent appearances from Krogan females and references to the genophage, with ultimately the idea behind it being \"we'll figure something out\"\n\n\n\n- The game feels incomplete and lots of elements feel rushed.  There's a whole long sequence near the beginning where you have to deal with the fact that the planet that your expedition flagged as potentially life-habitable was altered in the 600ish years since you first went out and now needs lots of work and won't have enough resources to support full colonization.  You're left with the choice as to whether to make the first outpost devoted to Science (research, terraforming, etc) or Military (security, defense, etc).  \n\nThe choice you make is supposed to have lasting consequences, including possible civil unrest.  It also never comes up again.  \n\n\nThere's like 4 or 5 full planets to engage with, but after the first one, you basically never have to balance between Guns and Butter, nor can you micromanage the larger settlement decisions anymore.\n\n\nRelated to that, there's constant situations where missions force you to make choices that supposedly have lasting consequences, but they just don't.  You'll be face with a situation as to whether to execute someone or arrest them, and it doesn't matter which you pick.  You can make the extra effort in a mission to save everyone or save someone who normally dies, and you basically never see them again.  You're lucky to get a thank-you email.\n\n\nThere's also what appears to be a big trove of weapons and armor to collect, research, upgrade, and personalize, but once you're about 50% through the game, suddenly there's nothing new anymore.  You've got all the weapons and armor and upgrades and you just have to grind for upgrades.  \n\n\nThe option to upgrade them has level requirements that are are reasonable, but after level 5, it unlocks a new Advanced tree with 5 more levels, except each level is unlocked after you gain 10 levels for each weapon level.  You can pretty much 100% the entire game and barely get above Lvl 60, but that only gets you 2 extra weapon levels.  \n\n\nThere's also a large number of very minor bugs that only seem to reflect how rushed the final product was.  There's map icons for things that either don't exist or have spawned under the map.  There's a huge number of little objects and crafting ingredients, and most of them are completely useless, either meant to be sold or just duplicate crafting material.  There are different armor and weapon rarities, but they don't apply to individual weapons and armor.  This means basically every gun type of Gun A is going to be Common, and every gun type of Gun B is going to be Rare.  None of the guns are inherently better than the other, so this rarity system is completely unused.\n\n\n\n- Everyone talks too much.  I don't know if there's more dialogue in this game than in any of the other Mass Effect games, but it feels like it has as much dialogue as all 3 of the original games combined.  Everyone has something to say and all the time in the world to say it and very little of what they have to say is either important or interesting enough to stay a while and listen.  If the voice actors got paid by the word, they'd be multi-millionaires.\n\n\n\nUltimately, I had a lot of fun with this game for about the first 60 hours.  Then I found myself bored and forcibly dragging along main quest missions, skipping tons of dialogue, just to finish up the last 20 hours.  It's worth playing, but could have been so much more, especially if it was its own unique setting and story.",
+  "notes": [
+   "- Everyone talks too much, as much as the whole trilogy; they ended up skipping dialogue.",
+   "    → narrative.story.the-game-talks-too-much                (bad)",
+   "- Feels written as its own thing and tied to Mass Effect later; shrugs at the lore.",
+   "    → narrative.world-and-setting.does-not-feel-like-the-source-it-adapts (bad)",
+   "- The sponsor plot and the genophage threads end without resolution.",
+   "    → narrative.story.still-unfinished-years-on              (bad)",
+   "- Incomplete and rushed in many parts.",
+   "    → production.launch-state.rushed-out-by-the-owner        (bad)",
+   "- Choices never matter: the science-or-military outpost never comes up again, and execute or arrest changes nothing.",
+   "    → narrative.story.your-choices-change-nothing            (bad)",
+   "- After the first planet you never manage settlements again.",
+   "    → narrative.world-and-setting.what-you-do-never-changes-the-world (bad)",
+   "- Nothing new to find in gear after about halfway; just grinding upgrades.",
+   "    → game-design.progression.unlock-pace.nothing-left-to-chase (bad)",
+   "- The advanced weapon tree needs ten levels per step; a full run gives two extra weapon levels.",
+   "    → game-design.progression.unlock-pace.grindy             (bad)",
+   "- Many minor bugs: map icons for things that don't exist or spawned under the map.",
+   "    → engineering.bugs.buggy                                 (bad)",
+   "- Most crafting items are useless.",
+   "    → game-design.power-balance.some-options-are-useless     (bad)",
+   "- Rarity is fixed per gun type and means nothing.",
+   "    → game-design.power-balance.rarity-does-not-match-usefulness (bad)",
+   "- Fun for 60 hours, then a bored drag through the last 20.",
+   "    → production.content-amount.sprawling-to-a-fault         (bad)"
+  ]
+ },
+ {
+  "code": "R015",
+  "review_text": "Don't know what people are complaining about it not working. Works for me TM. And at 2560x1440. Multiplayer works too and still holds up. Get the DLC free from Origin. Same thing with ME2. Google how to get ME1 DLC officially for free.",
+  "notes": [
+   "- Works for them at 2560x1440; the multiplayer works and holds up; get the DLC free from Origin.",
+   "    → engineering.platform-support.runs-well-on-my-platform  (good)"
+  ]
+ },
+ {
+  "code": "R016",
+  "review_text": "Good game to play even in 2024. The character movements during cut scenes are bit weird but. if you dont mind that, It is a good game to pass your time with.",
+  "notes": [
+   "- Still good in 2024, if you don't mind odd cutscene movement.",
+   "    → art.animation.stiff-or-clunky                          (bad)"
+  ]
+ },
+ {
+  "code": "R017",
+  "review_text": "First, I'll say that requiring a connection to the EA portal in order to play single player campaign is asinine.  It took me twice as long to start the game because I had to go look for my password, realize I don't have the password anymore, go through the process of changing the password... all for something I haven't used since the SIMS 4 back in 2014. \n\nIt's a decent game if your pc can handle it.  My old pc couldn't, despite playing newer games with better graphics at higher fps, so I gave up on this game for a while.  My new pc runs very smooth, and I haven't had an performance issues since.\n\n12th Gen Intel(R) Core(TM) i7-12700F   2.10 GHz - 16GB RAM\n\nI've changed my review to \"Yes\" because, despite its glaring issues, it's actually been rather fun exploring Andromeda. The combat is fairly good when modded, though still not as good as predecessors. I found myself liking some of the characters' personalities and disliking others, as it should be.  I'm not finished with the game, but so far I haven't really found any of the women all that attractive except Suvi, and she's not interested in men. I mean Sarah is kinda cute in a way, but she's also your sister (or yourself). There are mods that somewhat address this, but not entirely. Your RI choice will most likely be entirely personality-based, which... may have been the goal, come to think of it. \n\nThe new races added in this game are decently interesting. Kett are, without giving anything away, analogous in their ideology to a certain race in Star Trek. IYKYK. It isn't bad. Just is what it is. Angarans seem to be favored by the current writers, which makes sense being their addition to the universe, but makes them seem a little silly at times. They wear their emotions on their sleeves, yet they make naturally adept poker players?  What? I wasn't aware showing your true emotions was a boon in poker, but okay. Otherwise, they're fairly interesting, and their eyes are mesmerizing. Just their eyes. I will never be able to unsee a shirtless Angaran. You've been warned. I guess it's more realistic than sexy aliens, but it seems pretty off-brand for Mass Effect.\n\nIf you enjoy lore and exploration, this could be worth giving a try.",
+  "notes": [
+   "- Needing the EA account to play single player is asinine; had to reset a long-forgotten password.",
+   "    → engineering.access.account-or-platform-gate            (~)",
+   "- Their old PC couldn't run it despite running newer games.",
+   "    → engineering.performance.poorly-optimised               (bad)",
+   "- Fun exploring; combat fairly good when modded.",
+   "    → community.user-created-content.mods-extend-the-game    (good)",
+   "- Likes some characters' personalities and not others.",
+   "    → narrative.characters-writing.funny-or-memorable        (good)"
+  ]
+ },
+ {
+  "code": "R018",
+  "review_text": "I went through quite the emotional roller coaster with this one. The gameplay is awesome , the characters are well-built, the story is interesting, the ending is debatable. Would play again and would recommend to everyone :)",
+  "notes": [
+   "- Awesome gameplay, well-built characters; the ending is debatable.",
+   "    → narrative.story.the-ending-lets-it-down                (bad)"
+  ]
+ },
+ {
+  "code": "R019",
+  "review_text": "so so so so so so so so boring. If you're looking for a boring game, then this is it. Enjoy being bored if you buy it after reading this review....",
+  "notes": [
+   "- So boring.",
+   "    → review.negative.unknown                                (bad)"
+  ]
+ },
+ {
+  "code": "R020",
+  "review_text": "Mass Effect 3 is as fun today as when I first played it when it launched.",
+  "notes": [
+   "- As fun today as at launch.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R021",
+  "review_text": "wtf terrible fps ... i got a alienware laptop and run every game 60+ and this is terrible",
+  "notes": [
+   "- Thumbs down (12 found it helpful): terrible frame rate on a laptop that runs everything else at 60+.",
+   "    → engineering.performance.unstable-framerate             (bad)"
+  ]
+ },
+ {
+  "code": "R022",
+  "review_text": "Well, it's the last Mass Effect game in the Mass Effect trilogy. Released in 2012, game certainly feels dated in 2021. What doesn't feel dated though is the writing, the story, the character development, the soundtrack. It's a testament to how big of an impact these games had back then.\n\nThe shooting mechanics, the movement are a bit dated and stiff. Fortunately, that's not what the game focuses on. You spend time talking with crew mates, resolving political tension, etc... Some of the writing feel a little rushed, but it doesn't really matter because the story beats are well done. The dialogue feels natural enough that most dialogue choices that you can pick don't feel out of place. There will never be a moment where, you say one thing but the other character just derails the entire conversation.  \nSpeaking of dialogue choices, the dialogue options are limited compared to the previous games. You can only play it straight, or be a jerk to everyone you meet. There's not a lot of nuances as to how you respond to people, sadly. \n\nAnother thing I have to mention is that the Steam release is really buggy compared to the Origin version. Steam achievements sometimes don't unlock. The game sometimes doesn't detect Origin, causing the game to exit to desktop. Also, this is probably not related to Steam, but talking to Joker sometimes causes your character to be stuck in place. These issues are annoying, not game-breaking, but can be detrimental to your enjoyment, especially when this is the final game in the Mass Effect trilogy.\n\nDo I recommend this game? Well... yes and no. Mass Effect Legendary Edition is coming soon, with all DLCs included. Unfortunately, the Legendary Edition does not come with the co op mode for ME3. Co op mode is decent and if you just want to have an excuse to spend more time with the combat, it's definitely worth trying out.\n\nThe entire game is such a ♥♥♥♥♥♥♥ roller coaster. Over the course of the trilogy, these games make me care about the characters as they go though many conflicts, life-and-death situations. By the time the game ended, it was like saying goodbye to all the people that had fought with me throughout the trilogy. I'm gonna miss these characters a lot.\n\n8/10",
+  "notes": [
+   "- Edited 2021-05-31: shooting and movement feel dated and stiff; the writing, story and soundtrack don't.",
+   "    → narrative.story.worth-following                        (good)",
+   "- Dialogue options cut to playing it straight or being a jerk.",
+   "    → game-design.progression.complexity.shallow             (bad)",
+   "- The Steam release is buggier than Origin's: achievements fail, Origin not detected, stuck by Joker.",
+   "    → engineering.bugs.buggy                                 (bad)",
+   "- The Legendary Edition does not have the co-op mode; the co-op is worth trying for more combat (reviewer's account).",
+   "    → game-design.modes.a-mode-stands-out                    (good)",
+   "- Like saying goodbye to people who fought beside you; 8/10.",
+   "    → narrative.characters-writing.funny-or-memorable        (good)"
+  ]
+ },
+ {
+  "code": "R023",
+  "review_text": "having a bad day shepard?",
+  "notes": [
+   "- A line from the game.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R024",
+  "review_text": "One of my all time favorites. Love to mod it.  Insanity mod is great.",
+  "notes": [
+   "- A favourite; loves modding it - an Insanity mod.",
+   "    → community.user-created-content.mods-extend-the-game    (good)"
+  ]
+ },
+ {
+  "code": "R025",
+  "review_text": "you can't even get the EA launcher to actually launch the game then if it does miraculously launch after trying repeatedly, you have to deal with \r\n- crashes and freezes constantly in cutscenes and loading screens\r\n-  so many bugs that either break quests or gameplay in certain instances entirely\r\n- poorly developed quest tracking and mapping in areas with multiple levels and spaces\r\n- even the mako was made worse in the form of the nomad which has no maneuverability (literally worse than ME1)\r\n\r\na shame since the OG ME games are amazing. the world design and graphics in this game can be beautiful, on the off chance it actually runs correctly. as a player, theres no reason i have to download multiple mods just to make the game halfway playable",
+  "notes": [
+   "- The EA launcher often won't launch the game.",
+   "    → engineering.access.will-not-start-at-all               (bad)",
+   "- Blames the launcher.",
+   "    → engineering.access.unwanted-third-party-software       (bad)",
+   "- Crashes and freezes in cutscenes and loading screens.",
+   "    → engineering.stability.crashes-repeatedly               (bad)",
+   "- Bugs that break quests or gameplay.",
+   "    → engineering.bugs.breaks-play                           (bad)",
+   "- Poor quest tracking in multi-level areas.",
+   "    → game-design.level-design.the-way-onward-is-hard-to-find (bad)",
+   "- The rover handles worse than the first game's.",
+   "    → game-design.game-feel.controls.vehicles-handle-badly   (bad)",
+   "- Needs several mods to be halfway playable.",
+   "    → community.user-created-content.mods-are-expected-to-fill-the-gaps (bad)"
+  ]
+ },
+ {
+  "code": "R026",
+  "review_text": "good game with good combat just hate that they all look so ugly and unnatural story is good just a bad facial movement good voice actors",
+  "notes": [
+   "- Good combat and story; everyone looks ugly and unnatural.",
+   "    → art.character-design.cast-is-off-putting               (bad)",
+   "- Good voice actors.",
+   "    → audio.voice-performance.well-acted                     (good)"
+  ]
+ },
+ {
+  "code": "R027",
+  "review_text": "A small but dedicated fanbase keep the multiplayer alive and well.  The Legendary Edition Remaster missed a huge mark by not including it. The price is worth the experience of an amazing Co-op tactical shooter.",
+  "notes": [
+   "- A small but dedicated fanbase keeps the multiplayer alive; 'an amazing Co-op tactical shooter'.",
+   "    → community.population.healthy                           (good)",
+   "- The Legendary Edition 'missed a huge mark' leaving it out.",
+   "    → game-design.modes.a-mode-stands-out                    (good)"
+  ]
+ },
+ {
+  "code": "R028",
+  "review_text": "Absolutely the best game in the series minus the endings, everything is fun!",
+  "notes": [
+   "- The best of the series except the endings.",
+   "    → marketing.reputation.lives-up-to-the-studios-earlier-games (good)"
+  ]
+ },
+ {
+  "code": "R029",
+  "review_text": "Bought this on sale with the Legendary Edition bundle because I'm desperate to play multiplayer again on PC. Just noticed that the entire DLC collection is not included in this \"deluxe\" edition, which I didn't buy this for anyway, but still thought it was pretty ♥♥♥♥♥♥. Do I believe this game is worth every penny because it's near and dear to my heart? Hell yes. Do I believe it should still be $60 almost nine years after release? Hell no.",
+  "notes": [
+   "- Bought it with the Legendary Edition bundle just to play the multiplayer again on PC.",
+   "    → game-design.modes.a-mode-stands-out                    (good)",
+   "- The 'deluxe' edition lacks the DLC; nearly $60 nine years on is too much.",
+   "    → publishing.price.too-high-for-what-it-is               (bad)"
+  ]
+ },
+ {
+  "code": "R030",
+  "review_text": "While not as good as the original trilogy there's still a lot to like about this game. Id say if you enjoyed the originals then get this game but don't go in with too high expectations.\nThat being said I think that the exploration is the best in the series and the combat is also incredibly smooth. The third pillar of mass effect story and dialog is where this game falters. Its not awful and there are some legitimately great high points but its definitely not to the quality of the other mass effect games.",
+  "notes": [
+   "- The best exploration of the series and very smooth combat.",
+   "    → narrative.world-and-setting.world-worth-exploring      (good)",
+   "- Story and dialogue are where it falters, with some great high points.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)"
+  ]
+ },
+ {
+  "code": "R031",
+  "review_text": "Absolutely beautiful and thrilling - if you can get past the kinda monotonous bit post-prologue.\r\nAmazing combat mechanics - melee and biotics make you feel like a freakin superhero! \r\nThe exploration part is pretty vast, engaging and beautiful, feels like a good balance of action and space exploration.\r\nLove the characters and their development is also well thought out and rewarding.\r\nLastly, the customization is freakin' nuts, crafting weapons and mods feels great!\r\nA bit over 30% through and I can't wait to see what lies in store!\r\n\r\nP.S: Speaking of completion percentages - that's one of many nifty quality-of-life features I appreciate, along with the concise mission tracking and story summary via the journal and the codex respectively.",
+  "notes": [
+   "- Beautiful and thrilling.",
+   "    → art.fidelity.looks-great                               (good)",
+   "- A monotonous stretch after the prologue.",
+   "    → game-design.pacing.slow-to-get-going                   (bad)",
+   "- Melee and biotics make you feel like a superhero.",
+   "    → game-design.game-feel.combat.makes-you-feel-superhumanly-strong (good)",
+   "- Vast, engaging exploration balanced with action.",
+   "    → narrative.world-and-setting.world-worth-exploring      (good)",
+   "- Loves the characters and how they develop.",
+   "    → narrative.characters-writing.funny-or-memorable        (good)",
+   "- Wild customisation: crafting weapons and mods feels great.",
+   "    → game-design.progression.build-and-customisation.deep-and-varied (good)",
+   "- Completion percentages, concise mission tracking and codex story summaries.",
+   "    → game-design.ui-ux.quality-of-life-is-looked-after      (good)"
+  ]
+ },
+ {
+  "code": "R032",
+  "review_text": "Great space-adventure.\n9 / 10\n\nThe bad:\n- the EA logon you have to create first is a pain\n- Game crashes whenever I approach a cannon that I'm supposed to control and then I have to reboot.",
+  "notes": [
+   "- A great space adventure, 9/10.",
+   "    → review.positive.unknown                                (good)",
+   "- The EA logon is a pain; crashes whenever they approach a cannon they must control.",
+   "    → engineering.stability.crashes-repeatedly               (bad)"
+  ]
+ },
+ {
+  "code": "R033",
+  "review_text": "Rough around the edges, but has a lot of heart",
+  "notes": [
+   "- Rough around the edges, but a lot of heart.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R034",
+  "review_text": "Being a huge fan of the original trilogy (yes even the third one) I was looking forward to playing this but after seeing the terrible launch I decided to wait for some patches and a discount.\n\nAfter some years I found the opportunity to check it out with the EA Play subscription(which is really nice by the way although you will run out of great games pretty quickly).\n\nAfter playing for quite some hours and finishing almost everything I have come to the conclusion that this is at best a mediocre game and specifically a bad mass effect game.\n\nThe good:\n+ Good looking environments.\n+ Fun gunplay and abilities.\n+ Interesting setting.\n+ Decent soundtrack.\n+ Pretty good gear.\n+ Some memorable story and side quest moments.\n\nThe bad:\n- Ugly faces.\n- Clunky animations.\n- A bit convoluted story.\n- Bad voice acting (for the most part) or bad voice acting direction?\n- Very few meaningful choices.\n- Terrible dialog wheel.\n- Way too many meaningless side quests and collectables.\n- Very few species and alien variety.\n- Annoying crew mates with bland personalities and uninteresting interactions.(One of the worst offenses)\n- Bad planet navigation.\n- Huge time wasted traveling from planet to planet and leaving and entering your ship for minor quest progression.\n- Uninteresting protagonist.\n- Disappointing conclusion to many quests.\n- A general feeling that you are wasting your time on many occasions doing dull and unimportant chores or doing things you have no say in.\n\nIn conclusion Andromeda for some reason is a considerable downgrade from the previous mass effect games improving honestly only in gun fights and biotic abilities and overall being worse in almost every other aspect and you are left with a sour taste that all charm the original trilogy had its now gone. Another example that Bioware has lost its touch and as far as I am concerned I will not be looking forward to the sequel or any other new game developed by them.\n\nFinal score 5/10.",
+  "notes": [
+   "- A trilogy fan who waited for patches and played it through EA's subscription.",
+   "    → marketing.discovery.came-through-a-subscription        (~)",
+   "- Good-looking environments, fun gunplay and abilities, decent music and gear.",
+   "    → game-design.game-feel.combat.impactful                 (good)",
+   "- Ugly faces and clunky animations.",
+   "    → art.animation.the-faces-do-not-move                    (bad)",
+   "- Mostly bad voice acting or direction.",
+   "    → audio.voice-performance.badly-acted                    (bad)",
+   "- Very few meaningful choices.",
+   "    → narrative.story.your-choices-change-nothing            (bad)",
+   "- A terrible dialogue wheel.",
+   "    → game-design.ui-ux.hides-information                    (bad)",
+   "- Far too many meaningless side quests and collectables.",
+   "    → production.content-variety.side-content-is-empty-errands (bad)",
+   "- Very few species.",
+   "    → production.content-amount.a-favourite-from-the-last-game-is-missing (bad)",
+   "- Annoying crewmates with bland personalities, and an uninteresting hero.",
+   "    → narrative.characters-writing.flat-or-annoying          (bad)",
+   "- Bad planet navigation.",
+   "    → game-design.level-design.the-way-onward-is-hard-to-find (bad)",
+   "- Huge time lost travelling between planets and in and out of the ship for small quest steps.",
+   "    → production.content-variety.quests-send-you-back-and-forth (bad)",
+   "- Mediocre at best; will not look forward to the studio's next games. 5/10.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)"
+  ]
+ },
+ {
+  "code": "R035",
+  "review_text": "It's fun. There is some wacky random bugs here and there. The lack of variety amongst enemies is a little disappointing considering this is an entire galaxy, but overall worth it. Also, the amount of non skippable little cut scenes is really annoying especially when I have to travel between planets/systems. Just let me go, please. final complaint: Why can't I save whenever I want on certain missions or in certain areas? so silly",
+  "notes": [
+   "- Fun overall.",
+   "    → review.positive.unknown                                (good)",
+   "- Wacky random bugs.",
+   "    → engineering.bugs.buggy                                 (bad)",
+   "- Little enemy variety for a whole galaxy.",
+   "    → game-design.enemy-design.variety-lacking               (bad)",
+   "- Many unskippable little scenes when travelling between planets.",
+   "    → game-design.ui-ux.cannot-skip-what-the-game-plays-at-you (bad)",
+   "- Can't save whenever you like in some missions and areas.",
+   "    → game-design.session-flexibility.cannot-save-and-come-back (bad)"
+  ]
+ },
+ {
+  "code": "R036",
+  "review_text": "pretty sweet.",
+  "notes": [
+   "- 'pretty sweet'.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R037",
+  "review_text": "No Quarian no like",
+  "notes": [
+   "- No quarians, no like.",
+   "    → production.content-amount.a-favourite-from-the-last-game-is-missing (bad)"
+  ]
+ },
+ {
+  "code": "R038",
+  "review_text": "I don't understand the hate this game gets but I love how everything comes together in the end! The additional DLC makes the game story to the end of the trilogy much more memorable and emotional when the end is finally here! I have done 7 playthroughs and still feel the same every time! Def recommend the entire trilogy!",
+  "notes": [
+   "- Edited 2023-11-12: loves how it all comes together; seven playthroughs.",
+   "    → narrative.story.the-ending-lands                       (good)",
+   "- The DLC makes the end more memorable.",
+   "    → publishing.dlc-and-editions.dlc-is-fair                (good)"
+  ]
+ },
+ {
+  "code": "R039",
+  "review_text": "[b]Edit Note:[/b] [i]Mass Effect 3[/i] has an unremovable Origin overlay included. This may damage performance for you. Check the Steam forums (or google) to do a quick fix for this if you notice any framerate issues. I initially refunded this game on day one, gave it a negative review for performance issues, then repurchased it later, once I found a fix online, and changed my review to a thumbs-up.\n\nLike [url=https://steamcommunity.com/id/greatjon_umber/recommended/24980]my review for Mass Effect 2[/url], it's difficult for me to speak in a balanced manner about BioWare's [i]Mass Effect 3[/i] because it's one of my favorite games of all-time.\n\nThis game exhibits all the strengths in atmosphere that the prior games do. Its worldbuilding is second-to-none in gaming; this feels like a real galaxy, with real politics, and real culture and history, and it's a pleasure to exist in. The soundtrack—although done by Clint Mansell this time around instead of the typical Jack Wall effort—is phenomenal and does a lot to help shape the atmosphere. And [i]Mass Effect 3[/i]'s characters—carried over from the prior two games (if they survived)—are some of the most genuine-feeling characters in the medium.\n\nThat brings me to my first caveat: Don't play [i]Mass Effect 3[/i] if you haven't played the first two games. You're going to be dropped into a strange situation for which you have zero context. You're not going to know any of the characters or the world, and all of the moments which are meant to be emotionally resonant will fall flat for you because you lack important context provided by the prior two games. With this series perhaps more than any other, it's paramount that you start from the first game and play your way through completely. Doing otherwise will rob you of all the great emotional moments and reveals of the later games in the trilogy because you haven't been properly set up for them, and even [i]if[/i] you go back and play the earlier games afterwards, you will still be robbed of the genuine reaction you would have had had you played the games in order.\n\nLots of praise is given to the writing of the [i]Mass Effect[/i] series, and a lot of it is deserved. However, with [i]Mass Effect 3[/i], I noticed the writing dip into the unevenness for the first time.\n\nPlenty of fuss has been made about the ending not being satisfying, and I mostly agree with that. But I tend to find the \"[i]Mass Effect 3[/i] has great writing and a terrible ending\" statement to be untrue. There are some really, [i]really[/i] great and satisfying arcs in this game, which I can't really mention by name without spoiling the experience for players. But for each one of those, there's an equally dissatisfying, contrived plot point which seems like it has had too much material cut and fails to make sense without the story. For example, at about the midway point of the game, there's a sudden and drastic attack which feels like it has no set-up and lots of holes. And late in the game, a key battle takes place off-screen leading to a sudden and colossal loss, which is barely even commented on by the characters. It has always seemed to me that this battle was meant to be in the game and unfortunately cut due to development concerns.\n\nIn addition to these, does anyone like Kai Leng? [i]Anyone!?[/i] He's by far the worst, most artificial character in the entire series. He has no backstory, serves little point other than to rile the player with cheesy one-liners. Go away, Kai Leng. Nobody likes you. In addition to this, the Illusive Man loses all the nuance which made him such a fantastic, morally gray character in [i]Mass Effect 2[/i]. This poor character turn was extremely disappointing to me.\n\nThose criticisms aside, the two arcs I previously mentioned as being excellent (one in particular, involving synthetic hivemind robots and certain aliens who must wear suits all the time due to their failing immune systems) are a couple of my favorite stories in gaming history. I've been playing games for nearly 35 years, now, and I still tear up at portions of this game because of how strong the emotional impact of the story is, and how much history I've built up with these characters over the past two games.\n\nWith [i]Mass Effect 3[/i]'s writing, you've got to take the good with the bad. Some portions will fall flat—Sure. But the portions that strike you are so damned good that they're enough to elevate this game for me. It may not be as consistently well-written as the first two games, but it's damn close to hitting the same highs. And for me, that's more than enough to suggest this game.\n\nI'd be remiss not to mention the gameplay, too. [i]Mass Effect 3[/i] plays easily the best of the three games in the trilogy. Shepard is granted added mobility, cover finally works well, and friendly AI is hugely improved from [i]Mass Effect 2[/i]. It's so much fun to play as a Vanguard, for example, zipping around the map, blasting enemies here and there while creating biotic detonations. Ditto to Engineers, who finally get detonations of their own now, or Adepts, who are detonation machines. Soldiers are the same as always; lots of firepower and hardiness. And those who play Infiltrator can cloak and snipe all they want. It all works phenomenally well and is rather well-balanced.\n\nIn addition to this, [i]Mass Effect 3[/i] has the best set-pieces in series history. The scale is much larger here (for obvious reasons, if you know what occurs in the plot), but the actual enemy engagements are more varied than in previous games. Some of the situations which you are put into make you feel the moment so much more: Engaging in combat on a fallen planet with an orbital cannon firing and shaking the entire screen, deafening you. Or making a mad dash back and forth and trying not to get blasted by a giant laser cannon as an enormous enemy bears down on you. How about spacewalking, in vacuum, down a tube which is falling apart as a space battle rages on just outside. Mix in the fantastic combat with moments such as these and you find yourself fully immersed in an epic space opera like no other game has ever managed before. It's fantastic, even playing this stuff 8 years later. If you like space opera, the stuff in this game will blow your hair back, guaranteed.\n\nThere's so much variance with how to play this game. The plot changes due to all of the past decisions incorporated into it, your chosen character class will strongly affect how combat flows and which companions you use, even your Shepard's chosen gender will change things up. This kind of variance has led to me putting hundreds of hours into this game ([url=https://i.imgur.com/CQvullk.png]500+ on console[/url], [url=https://i.imgur.com/JTyp0dB.png]250+ on Origin[/url], and now, Steam), replaying the campaign endlessly just because I enjoy the combat and its strongly affecting plot moments so much. I've never played and replayed a single player game like this before and I don't really expect to with any other game ever again. And, man, I don't even have enough space to talk about the multiplayer! It's great! I expected it to be tacked-on crap when I first picked this game up in 2012, but it's actually quite good. Give it a whirl if you get a chance!\n\nBasically: If you've played the first two games, you've got to play this one. If you haven't, pick up [i]Mass Effect[/i] and enjoy the ride. Maybe this trilogy will become your favorite gaming experience, as it has been for me over the past decade. And make sure you play this game [b]with all DLC included[/b]. There are some really, [i]really[/i] important lore reveals packed in with the DLC that should not be missed!\n\nFeel free to follow [url=https://store.steampowered.com/curator/32979487-Greatjon-Umber/]my Curator page[/url] if you like my reviews.",
+  "notes": [
+   "- Edited 2020-09-05: refunded on day one over performance, rebought after finding a fix for the forced Origin overlay.",
+   "    → publishing.refund.rebought-after-refund                (~)",
+   "- Worldbuilding second to none - a galaxy with real politics, culture and history.",
+   "    → narrative.world-and-setting.world-worth-exploring      (good)",
+   "- A phenomenal soundtrack.",
+   "    → audio.music.fits-the-game                              (good)",
+   "- Don't play it without the first two games - the emotional moments will fall flat.",
+   "    → narrative.story.lost-on-new-players                    (bad)",
+   "- The writing is uneven for the first time; a mid-game attack has no set-up.",
+   "    → narrative.story.thin-or-forgettable                    (bad)",
+   "- One new villain is the worst character in the series, and an old one loses his nuance.",
+   "    → narrative.characters-writing.flat-or-annoying          (bad)",
+   "- Two story arcs are among the best in games.",
+   "    → narrative.story.worth-following                        (good)",
+   "- Plays best of the three: more mobility, cover that works, much better squad AI; every class plays differently.",
+   "    → game-design.role-design.each-role-plays-its-own-way    (good)",
+   "- The best set-pieces in the series.",
+   "    → marketing.reputation.lives-up-to-the-studios-earlier-games (good)",
+   "- Past decisions, class and even gender change the playthrough; hundreds of hours over replays.",
+   "    → narrative.story.your-choices-change-the-story          (good)"
+  ]
+ },
+ {
+  "code": "R040",
+  "review_text": "Game is made by some guy named hair that hates white people, and some social media \"sexism\" grifter man hater that made a living accusing everything of sexism even when it wasn't. Found this out after I finished the game and went searching for why it was the way it was. And it really shows. All the good, virtuous \"leaders\" are women. All the bad guys, well are guys. The only straight white guy in the game [spoiler] dies in the first 20 minutes [/spoiler]. You get to watch these two Krogan fight and it's just the most lame thing I ever seen I couldn't help but lmao at it. It's like the people working on it hated working for people who hated them based on their sex and skin color, so did a piss poor job at every aspect making this, whatever they could get away with. The glitch videos from around release time are straight up comical, and the parodies of this are the best part of \"Andromeda.\" \n\nAnd the dumbass always online data collection launcher from EA you have to download to run this counts as play time. Whatever nefarious thing it's doing in the background while it's running when I wasn't even playing counts. No way in Hell I spent 197 hours playing this. Maybe 60. I loved the old Mass Effect trilogy so I did everything in the game, tried to like it, but it's made by ♥♥♥♥♥♥♥♥ that used it as some kind of outlet for their obsession with identity politics. Sad cause this could've been great.  \n\nThis goes on sale for 5 bucks often, if you have to play it I'd wait for that. And still recommend against it because this'll sour all the fond memories of the trilogy you have if you're even a little bit sensitive to MMO style fetch quests, your choices not mattering except to change the tone of the dialogue, empty bland open worlds, and intersectional SJW nonsense they put in entertainment. This is what happens when the woke side of Gamergate makes a game.",
+  "notes": [
+   "- A crude remark about the makers' politics.",
+   "    → marketing.reputation.studio-politics-put-me-off        (bad)",
+   "- EA's always-online launcher counts as play time: 197 hours shown, about 60 played.",
+   "    → review.says-the-recorded-playtime-is-wrong             (~)",
+   "- MMO-style fetch quests.",
+   "    → production.content-variety.side-content-is-empty-errands (bad)",
+   "- Choices change only the tone of the dialogue.",
+   "    → narrative.story.your-choices-change-nothing            (bad)",
+   "- Empty, bland open worlds.",
+   "    → game-design.world-interaction.world-ignores-you        (bad)",
+   "- Wait for the $5 sale, if at all.",
+   "    → publishing.sale-dependency.buy-on-sale-only            (bad)"
+  ]
+ },
+ {
+  "code": "R041",
+  "review_text": "This game is hard to describe if you really get into it. It's Betamax. It's Waterworld. It's Sewer Shark. It's ultimately fun.",
+  "notes": [
+   "- Hard to describe; likened to famous flops, but ultimately fun.",
+   "    → marketing.reputation.explained-by-naming-other-games   (~)"
+  ]
+ },
+ {
+  "code": "R042",
+  "review_text": "ME3 multiplayer still working and being played by a pretty active community to this day is one of the strongest reasons why this version of Mass Effect 3 remains a solid contender against the Legendary Edition's version of ME3. \n\nI adore the character variance, there's nothing quite like experiencing being a Geth Juggernaut and face tanking some of the scariest enemies in the game for your team or slamming enemies down with a giant hammer as a Krogan. It makes playing as just Shepard in the compaign feel so much boring when I can be a Geth, Volus, or even a Collector Trooper in multiplayer honestly (and that's just to name a few).",
+  "notes": [
+   "- The multiplayer, still played by a fairly active community, is why this version competes with the Legendary Edition.",
+   "    → community.population.healthy                           (good)",
+   "- Loves the character range - tanking as a Geth Juggernaut, a Krogan with a hammer, a Volus or a Collector; the campaign's Shepard feels boring beside them.",
+   "    → game-design.role-design.each-role-plays-its-own-way    (good)"
+  ]
+ },
+ {
+  "code": "R043",
+  "review_text": "constant issues with my save games, seem to be an issue from when the game was originally released and EA never bothered to sort it out",
+  "notes": [
+   "- Constant save-game problems since release that EA never fixed.",
+   "    → engineering.stability.the-save-was-lost                (bad)"
+  ]
+ },
+ {
+  "code": "R044",
+  "review_text": "Well it's actually much more fun than expected so far",
+  "notes": [
+   "- More fun than expected so far.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R045",
+  "review_text": "While nowhere near as good as the original trilogy, it's still a great game for anyone who loves SRPGs with dialogue/romance options and character development.\n\nPS: I bought this here in order to escape the Origin launcher, but nope. EA's gotta be EA.",
+  "notes": [
+   "- Nowhere near the trilogy but great for dialogue and romance fans.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)",
+   "- Bought on Steam to escape Origin, but still needs it.",
+   "    → engineering.access.unwanted-third-party-software       (bad)"
+  ]
+ },
+ {
+  "code": "R046",
+  "review_text": "The multiplayer still goes hard af and remains active to this day.",
+  "notes": [
+   "- The multiplayer 'still goes hard' and is active.",
+   "    → community.population.healthy                           (good)"
+  ]
+ },
+ {
+  "code": "R047",
+  "review_text": "ahh darling darling",
+  "notes": [
+   "- A line from the game.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R048",
+  "review_text": "Singleplayer campaign is 10/10. Imo people dog on the ending too hard, yes it couldve been better but what we have is enough.\r\n\r\nI mainly bought this game for multiplayer and it is suprisingly not dead. Takes about 30 seconds to queue into any game at any time on any difficulty. The crate system sucks but you can use mods to give you infinite money if you just want to play without the grind.",
+  "notes": [
+   "- The campaign is 10/10; the ending is enough.",
+   "    → narrative.story.the-ending-lands                       (good)",
+   "- Bought mainly for the multiplayer: 'about 30 seconds to queue into any game at any time on any difficulty' (14 found it helpful).",
+   "    → community.population.healthy                           (good)",
+   "- The crate system sucks; mods give infinite money to skip the grind.",
+   "    → publishing.monetisation-practice.what-you-buy-is-a-random-draw (bad)"
+  ]
+ },
+ {
+  "code": "R049",
+  "review_text": "i saw people may be upset because they love the series so much. \nBuy it for cheap and play it with no expectations, you will have fun. especially if you enjoy space, action, and exploration with choices matter. also fun multiplayer",
+  "notes": [
+   "- Buy it cheap with no expectations; space, action and exploration where choices matter.",
+   "    → narrative.story.your-choices-change-the-story          (good)",
+   "- Fun multiplayer.",
+   "    → game-design.modes.a-mode-stands-out                    (good)"
+  ]
+ },
+ {
+  "code": "R050",
+  "review_text": "Excellent game! The story is captivating and the action is engaging!",
+  "notes": [
+   "- A captivating story and engaging action.",
+   "    → narrative.story.worth-following                        (good)"
+  ]
+ },
+ {
+  "code": "R051",
+  "review_text": "What is more powerful, A race of bio-technical ships that enslave races on a cycle-based system at the height of said race's evolution... or origin running in the background?\n\nTheres a fix for it though",
+  "notes": [
+   "- A joke: what is more powerful than the Reapers - Origin running in the background; there is a fix.",
+   "    → community.player-conduct.players-teach-each-other-the-fix (good)"
+  ]
+ },
+ {
+  "code": "R052",
+  "review_text": "I usually wait until a finish a game to write a review but I just cant get something out of my head while playing this: This feels like Mass Effect made by amateurs. Everything about it is just kinda janky and amateurish. Quests not triggering correctly, NPCs spouting dialogue that makes zero sense in the context of the choices I made, enemies getting stuck in terrain and walls, human type characters looking just super weird and animating similarly, auto saves breaking and not loading properly, mostly forgettable companion cast (aside from Jaal and Drack), the romance dialogue options making Ryder sound like a proper sex pest that should be reported to HR. I could go on... This game constantly has me eye-rolling. \n\nThere are just so many things wrong with this game. Despite that, I enjoy the lower stakes story compared to the original trilogy. This is a story about finding a new home for the residents of the Milky Way. I find helping the different planets and creating conditions for eventual settlement with outposts quite compelling. The combat is also enjoyable with the combination of your party and your own skills.\n\nDespite my complaints and eye rolling, I do still somewhat recommend this. If you're a fan of Mass Effect, its worth checking out as a companion piece. If you've never played a Mass Effect game, just get the remastered trilogy.\n\nEdit: Changing this to a negative review after finishing the excellent Dragon Age Inquisition. Seriously Bioware, what happened for you to greenlight releasing a game like ME: Andromeda?",
+  "notes": [
+   "- Feels made by amateurs: quests not triggering, enemies stuck in walls.",
+   "    → engineering.bugs.breaks-play                           (bad)",
+   "- NPCs say things that make no sense given the choices made.",
+   "    → engineering.bugs.buggy                                 (bad)",
+   "- Autosaves break and fail to load.",
+   "    → engineering.stability.the-save-was-lost                (bad)",
+   "- Weird-looking human characters.",
+   "    → art.animation.the-faces-do-not-move                    (bad)",
+   "- A forgettable cast except two; creepy romance lines.",
+   "    → narrative.characters-writing.flat-or-annoying          (bad)",
+   "- The lower-stakes story of finding a home is compelling.",
+   "    → narrative.story.worth-following                        (good)",
+   "- Changed to negative after finishing another BioWare game they found excellent.",
+   "    → marketing.reputation.explained-by-naming-other-games   (~)"
+  ]
+ },
+ {
+  "code": "R053",
+  "review_text": "The Good: The main campaign is engaging and the galactic views are stunning. It’s the ultimate \"low-stress\" game for unwinding after a long day.\nThe Bad: Secondary missions lack variety and can feel like a chore, also some planets are just like a bit repetitive.\nIf you want a space-travel simulator to pair with your favorite podcasts or playlists, this is a must-play. Just manage your expectations regarding the side content.",
+  "notes": [
+   "- An engaging main campaign.",
+   "    → narrative.story.worth-following                        (good)",
+   "- Stunning galactic views.",
+   "    → art.fidelity.looks-great                               (good)",
+   "- A low-stress game to unwind to, with a podcast or playlist.",
+   "    → game-design.pacing.a-game-you-can-unwind-to            (good)",
+   "- Side missions lack variety and feel like a chore.",
+   "    → production.content-variety.side-content-is-empty-errands (bad)",
+   "- Some planets are repetitive.",
+   "    → production.content-variety.repetitive                  (bad)"
+  ]
+ },
+ {
+  "code": "R054",
+  "review_text": "Compared against the Mass Effect OT, this game clearly fails to capture the same magic, but it's still judged a bit too harshly. The bar was set impossibly high and that this followed up the closure of the OT, which itself ended quite controversially (and rushed), pretty much doomed it to failure, at least initially. It seems people are slowly coming around to it's charm since it's gameplay really is solid, and the characters, though not as memorable as Wrex, Garrus, Tali, Liara, etc., still have their place. The writing a major \"Achilles' heel\" of this game, but it does improve as the story progresses. \r\n\r\nBasically, if you ever wanted to play an open-world game set in the Mass Effect universe, minus the exemplary writing, iconic characters, and decade-long buildup, you should give this a chance. Especially discounted as it now is!",
+  "notes": [
+   "- Lacks the trilogy's magic but judged too harshly after the trilogy's ending.",
+   "    → marketing.reputation.judged-unfairly                   (good)",
+   "- The gameplay really is solid.",
+   "    → game-design.game-feel.combat.impactful                 (good)",
+   "- The writing is its Achilles heel, though it improves; the characters are less memorable.",
+   "    → narrative.characters-writing.flat-or-annoying          (bad)",
+   "- Worth it discounted.",
+   "    → publishing.sale-dependency.buy-on-sale-only            (bad)"
+  ]
+ },
+ {
+  "code": "R055",
+  "review_text": "I was originally not going to buy this game despite having ME1 and ME2, but after hearing there are ways to fix it I ended up going for it while it was on sale. I had to tweak the game files twice just to make it run properly, but once you get it done a second time the rest of it was smooth sailing. I could care less about the ending at this point since to me Mass Effect was always about the characters, as well as the story. I don't think ME3 has that great of a plot, but the interactions with all the characters made up for most of my problems with it. As for the problems I have with the game, well.\n\nI hate that now you actually have to buy the Extended Cut ending DLC even though it used to be free, but since it's with the other major DLCs you have to buy it. I'll never understand the point of the child, neither will I ever understand how Shepard has known James Vega since we never got to know him which results in a personal disconnect. Why does Shepard feel so close to that child on Earth? Sure it's sad for him to be taken out, but he must have known at this point the Reapers were killing just about all of organic life with the exception of the yahg funnily enough.\n\nFor the positives, I haven't tried the multiplayer out yet but I did enjoy it a lot on the Xbox 360 and might give it a shot eventually on here. The gameplay is easily the best in the series, and with the right builds for squadmates like Garrus you can make every fight a joke, even on Insanity. The characters are still pretty great (except Jacob and Ashley) and holy cow does Kaidan turn a complete 180 from boring to one of the best human squadmates in the entire series. He actually feels, well human. All of the characters felt real to the point where they're people I'd want to hang out with. It's the only reason I've played the trilogy at least once a year, it's very rare to find a game that gives you beloved characters that feel real.\n\nMass Effect 3 overall has problems that mostly stem from EA's influence damaging this incredible trilogy and I will never forgive them for that, but it also features some of the best moments the trilogy has to offer. And when I fully 100%'d the entire trilogy last night, I actually cried. I cried because I felt happy that characters I consider friends, characters I consider family can finally be at peace and live a normal life. They wouldn't have to keep fighting anymore, they could all finally rest.\n\nSo, do I think this game is worth getting? If you already finished the first two games, go for it. Just wait for a sale so you can get all of the DLC content, trust me your experience will be so much better this way. And make sure to check the guides here so you can fix the technical problems like getting rid of the Origin overlay which causes the framerate to tank. But yeah, that's about all I have to say.\n\nEdit: I have played the multiplayer and it's just as fun as it is on the 360, so happy that it's still active to this day. If the devs of Legendary Edition are reading this, for the love of god add the multiplayer back in because the multiplayer is what really makes this game so fun.",
+  "notes": [
+   "- Edited 2021-04-06: had to tweak the game files twice to make it run; then smooth.",
+   "    → engineering.access.had-to-find-the-fix-yourself        (bad)",
+   "- The Extended Cut ending, once free, now has to be bought with the other DLC.",
+   "    → publishing.monetisation-practice.what-was-free-is-now-paid (bad)",
+   "- Never understood the dream child or why Shepard knows a new squadmate.",
+   "    → narrative.story.thin-or-forgettable                    (bad)",
+   "- The best gameplay in the series; the right squad builds make even Insanity easy.",
+   "    → marketing.reputation.lives-up-to-the-studios-earlier-games (good)",
+   "- Characters that feel real - why they replay the trilogy every year.",
+   "    → narrative.characters-writing.funny-or-memorable        (good)",
+   "- The multiplayer is as fun as on the 360 and still active; asks the Legendary Edition to bring it back - 'the multiplayer is what really makes this game so fun'.",
+   "    → game-design.modes.a-mode-stands-out                    (good)",
+   "- Wait for a sale to get all the DLC.",
+   "    → publishing.sale-dependency.buy-on-sale-only            (bad)"
+  ]
+ },
+ {
+  "code": "R056",
+  "review_text": "You have to interact with EA's app.",
+  "notes": [
+   "- You have to use EA's app.",
+   "    → engineering.access.unwanted-third-party-software       (bad)"
+  ]
+ },
+ {
+  "code": "R057",
+  "review_text": "Game from 2017 that is still, to this very day plagued by bugs and other issues. Visually very pretty, gunplay is okay, but atleast in the first five hours I can safely say that it is not on the same level as the OG trilogy. The characters range from semi-interesting to having the personality of a wet tissue paper. The whole premise with the Arks and settling new worlds is catchy, at least in my case, sadly I can't continue any further because of a game-breaking bug which is apparently unfixable, no amount of reloading saves, different approaches or even starting a whole new game seems to fix it. If you're thinking of getting Mass Effect, get the Legendary Edition which is thousand times better, AND actually works. As for Andromeda itself, if you really want to, buy it cheap during a big sale if you really, really, really want to try it out.",
+  "notes": [
+   "- Still bugged; a game-breaking bug no reload or restart fixes.",
+   "    → engineering.bugs.breaks-play                           (bad)",
+   "- Characters range from semi-interesting to wet tissue.",
+   "    → narrative.characters-writing.flat-or-annoying          (bad)",
+   "- Get the trilogy remaster instead.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)"
+  ]
+ },
+ {
+  "code": "R058",
+  "review_text": "yes yes",
+  "notes": [
+   "- 'yes yes'.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R059",
+  "review_text": "great game",
+  "notes": [
+   "- 'great game'.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R060",
+  "review_text": "tl:dr 8/10. Good game with better gameplay than the last, but an ending that's... ehhhhh. All the DLC is worth it, recommend ending with the Citadel DLC and pretending that's how the game ends.(Scroll to bottom for short bonus Andromeda review)\n\nIn this final installment to the Mass Effect trilogy, the galaxy faces a cosmic threat unlike anything before it; the Reapers have finally shown up to destroy all that live in the galaxy, and as Commander Shepherd it's your duty to unite all the species in order to stand a chance against these virtually invincible foes. This game does an excellent job in keeping a consistent feeling of finality, and you really feel the stakes no matter where you go or who you fight. Despite this, it's also the least well written of the first three(not including andromeda, this is a masterpiece in comparison to that game). Most likely, this has to do with the last minute scramble, where they decided to scrap the story and start over. Aside from the DLC character Javik, none of the squadmates are half as interesting as the ones in ME2. They also lack \"loyalty missions\", which is a shame as that was the most interesting part of ME2. I put \"loyalty missions\" in quotes because they didn't have to be missions to gain your squadmates \"loyalty\", it makes sense they would be already invested considering what they're fighting. Just having missions personal to the squadmates would have been nice. As for the story itself, it has great moments, a couple dumb ones, and then an ending that... well, I'm not sure I'd say it's as bad as people made it out to be a few years back, but it does throw away all the choices and impact you had up until then, and for a game literally called Mass Effect, that's pretty grievous.\n\nOut of all the Mass Effect games that count as Mass Effect games, *ahem*♥♥♥♥ andromeda*ahem*, this one has the best gunplay, but the least amount of RPG elements. I recommend getting mods that add different powers and new weapons, but even without these add-ons what's already there is very fun. The playstyles feel a lot more unique than before: as a vanguard, I feel like a krogan who charges in head first and shotguns everything in the face, whereas in previous games playing a vanguard was just playing a slightly more aggressive adept. That said, I kinda wish they didn't sacrifice as many of the RPG elements for combat gameplay. It may be bias; I'm able to play and enjoy New Vegas despite having horrible combat, or Pathologic despite having horrible...well, everything. I just find good RPG elements fun enough to carry a game more so than combat. Even when I take that into account, however, I still think this game is lacking in regards to RPG elements, especially considering this takes place during a time where such crucial choices are being made and the fate of the entire galaxy is at stake.\n\nSometimes I want to say Mass Effect 3 is a 9/10, sometimes I feel like it's closer to a 7. Despite the fact I recognize ME2 as being the best of the three games, however, every time I play through the series there's always a part of me that's excited to start this one, and I think that says something about what this game has to offer. Not the best game in the series, but at least it's not Andromeda. Speaking of which... \n\nBONUS REVIEW: I'm not buying Andromeda again on steam just to review it, but since I played it on Origin I feel like I should get my opinion out here in some capacity. 5/10, super average at best with a story that sucks, almost a lower score but the atleast the multiplayer's kinda fun.",
+  "notes": [
+   "- 8/10 (17 found it helpful): better gameplay than the last, an ending that throws away your choices.",
+   "    → narrative.story.the-ending-lets-it-down                (bad)",
+   "- The least well-written of the trilogy; squadmates less interesting than the second game's and no personal missions.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)",
+   "- A constant feeling of finality - you feel the stakes everywhere.",
+   "    → narrative.story.worth-following                        (good)",
+   "- The best gunplay of the series; classes play far more distinctly, e.g. the Vanguard.",
+   "    → game-design.role-design.each-role-plays-its-own-way    (good)",
+   "- Fewer RPG elements, traded for combat.",
+   "    → game-design.progression.complexity.shallow             (bad)",
+   "- All the DLC is worth it; end with the Citadel DLC.",
+   "    → publishing.dlc-and-editions.dlc-is-fair                (good)",
+   "- Mods add powers and weapons.",
+   "    → community.user-created-content.mods-extend-the-game    (good)",
+   "- Andromeda, by comparison: 5/10.",
+   "    → marketing.reputation.better-than-the-sequel-that-followed (good)"
+  ]
+ },
+ {
+  "code": "R061",
+  "review_text": "Worth one playthrough. The combat is lots of fun, so if that's the most important part for you in an RPG and you are coming from something like Fallout 4, you won't be disappointed.",
+  "notes": [
+   "- Worth one playthrough for the fun combat.",
+   "    → game-design.game-feel.combat.impactful                 (good)"
+  ]
+ },
+ {
+  "code": "R062",
+  "review_text": "Its okay",
+  "notes": [
+   "- It's okay.",
+   "    → review.calls-it-average-rather-than-good-or-bad        (~)"
+  ]
+ },
+ {
+  "code": "R063",
+  "review_text": "Truly a mass of effects in Andromeda",
+  "notes": [
+   "- A pun on the title.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R064",
+  "review_text": "Mass Effect 3 is an extremely flawed game, most of it's flaws stemming from the fact that EA (who else?) rushed it out, and it shows.\n\nModels are constantly clipping through each other, not attaching to each other when they should, and the animations just show a general lack of polish.\n\nThe companion selection is pitiful. Not a single companion introduced in ME2 made it into ME3 as more than a cameo. Or at most, a few of them have a brief role in the story, but still never join you as companions. And this problem leaks out into other aspects of the game. If certain characters were available as companions, some key decisions in the game would have a lot more stake to them, which would have made it a lot more tense, and made the payoff a lot better.\n\nIn addition, there is one much more massive problem. In, mind you, a ROLE PLAYING GAME, almost all of the dialogue is from on-rails cut scenes. \nDialogue options are rare, and even when you get one, almost every single dialogue choice has been reduced to 2 options. Say the nice thing, or say the mean thing.\nI cannot truly express how terrible this is. In the previous two games, dialogue choices were plentiful and had some amount of depth, usually including a 3rd, neutral option, or even a 4th option. But now the system is shallow and terrible, and I blame EA for this.\n\nAnd, of course, you've all probably heard of the fabled ending, even if you've never played a Mass Effect game.\nI all honesty, I can personally say that the ending...  wasn't that bad. And I feel like a lot of people at least somewhat agree. I mean, when ME3 came out, everyone was furious at the ending, but now that it's been 8 years, everyone seems to have calmed down a bit, and realized that the ending isn't TOO bad.\nMind you, it still is nowhere near as good as fans would've liked, but my only criticism is that I personally wanted a bit MORE of an epilogue.\n\nBut, by now, you're probably wondering why I'm still recommending this game, so I'll get to the pros right now.\n\nThe combat itself is the best in the series They've introduced a new combat roll mechanic, which works pretty well, even though it's assigned to the same key as 'run' and 'take cover'. In ME3, you're now allowed to carry all types of weapons, no matter your class, though each weapon has a weight, and the more your total weapons weigh, the slower your powers recharge. This system actually allows you to customize your character a lot more than in the previous 2 games.\n\nTying into my previous point, the enemy design is also really great! There are 3 different factions you fight throughout the game, and each enemy on each faction serves a specific purpose.\nFor the most part, there are 3 different purposes that a type of enemy can serve. There are basic foot soldiers who are just used as cannon fodder, there are enemies the force you into cover (such as the ATLAS mechs, the ravangers, and the geth rocket troopers), and enemies that try to flush you from cover (such as the phantoms, the banshees, and the geth hunters).\nThese main 3 enemy varieties force you to make tactical decisions on the spot about who to kill first, where should I get to cover, what you should use your powers on.\nIn addition, some enemies serve another purpose, such the centurions, which can throw smoke grenades, or mauraders, which buff other enemies.\n\nAnd though the dialogue choices are terrible, the writing itself is great! All of the characters feel so much more real then in the previous games, especially in their interactions with each other. All of your companions actually act like friends around each other, and it's great!\n\nAnd, surprisingly enough, the tacked on multiplayer mode is genuinely fun, despite the lootbox mechanic. It's a PVE, so I feel like the lootbox system works better than it should have.\n\nAnd the DLC is well worth the hefty price, and I highly suggest you get it. Even just for the citadel DLC alone, which is fantastic.\n\nAnyways, this has been my long winded ME3 rant. Thank you for coming to my Ted Talk.",
+  "notes": [
+   "- Edited 2020-12-02: rushed out and it shows - clipping models and unpolished animations.",
+   "    → engineering.bugs.buggy                                 (bad)",
+   "- No companion from the second game returns as more than a cameo.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)",
+   "- Dialogue is mostly cutscenes and cut to two choices, nice or mean.",
+   "    → game-design.progression.complexity.shallow             (bad)",
+   "- The ending isn't that bad; wanted more of an epilogue.",
+   "    → narrative.story.the-ending-lets-it-down                (bad)",
+   "- The best combat in the series: a new combat roll, any weapon on any class with weight slowing your powers.",
+   "    → game-design.progression.build-and-customisation.deep-and-varied (good)",
+   "- Great enemy design: three factions whose units pin you, flush you from cover or support others.",
+   "    → game-design.enemy-design.good-variety                  (good)",
+   "- The companions act like friends with each other.",
+   "    → narrative.characters-writing.funny-or-memorable        (good)",
+   "- The multiplayer is genuinely fun; as PvE the loot boxes work better than they should.",
+   "    → game-design.modes.a-mode-stands-out                    (good)",
+   "- The DLC is worth the price; Citadel above all.",
+   "    → publishing.dlc-and-editions.dlc-is-fair                (good)"
+  ]
+ },
+ {
+  "code": "R065",
+  "review_text": "good game",
+  "notes": [
+   "- Good game.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R066",
+  "review_text": "Great Game",
+  "notes": [
+   "- Great game.",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R067",
+  "review_text": "ME: Andromeda wants you to become much more of an explorer than Commander Shepard ever was. And I liked the idea at first: More open levels with nonlinear exploration, securing colonies, exploring the secrets of a completely new galaxy, but unfortunately the game feels awfully unpolished with clownish AI, lifeless characters and a dull presentation. It's something I can forgive small indie studios, but not a game with AAA-ambitions.",
+  "notes": [
+   "- Liked the explorer idea, but it is unpolished, with lifeless characters and a dull presentation.",
+   "    → production.craftsmanship.needs-more-work               (bad)",
+   "- Lifeless characters.",
+   "    → narrative.characters-writing.flat-or-annoying          (bad)"
+  ]
+ },
+ {
+  "code": "R068",
+  "review_text": "There are roughly 170 million insects for every person on Earth.",
+  "notes": [
+   "- An insect fact (12 found it helpful).",
+   "    → review.positive.unknown                                (good)"
+  ]
+ },
+ {
+  "code": "R069",
+  "review_text": "actually a good game. it isn't the originally mass effect but it's own thing.",
+  "notes": [
+   "- A good game, its own thing.",
+   "    → marketing.reputation.judged-unfairly                   (good)"
+  ]
+ },
+ {
+  "code": "R070",
+  "review_text": "For a game about discovery, exploration and adventure, there are many factors in the game that takes away the feeling of even being an explorer. WE never get to establish first contact, WE don't get experience of being a pioneer since there are bases in planets we land. Character development isn't that great either - at times, it feels like the game is trying to force us to care about the crew.\n\nI'll probably keep pushing through it out of my love for the original trilogy, but so far it's a disappointing game.",
+  "notes": [
+   "- For a game about discovery, you never make first contact and bases already sit on the planets.",
+   "    → narrative.world-and-setting.breaks-its-own-fiction     (bad)",
+   "- The game forces you to care about the crew.",
+   "    → narrative.characters-writing.flat-or-annoying          (bad)",
+   "- Disappointing for a trilogy fan.",
+   "    → marketing.reputation.falls-short-of-the-studios-earlier-games (bad)"
+  ]
+ },
+ {
+  "code": "R071",
+  "review_text": "i like siele again and again",
+  "notes": [
+   "- Edited 2026-08-13: likes it again and again.",
+   "    → game-design.replayability.keeps-pulling-you-back       (good)"
+  ]
+ },
+ {
+  "code": "R072",
+  "review_text": "it was challenging",
+  "notes": [
+   "- 'it was challenging'.",
+   "    → game-design.difficulty-tuning.satisfyingly-hard        (good)"
+  ]
+ },
+ {
+  "code": "R073",
+  "review_text": "Due to EA being EA your Ol' Pal Brois does not recommend this game. The game requires a constant connection to EA servers via the EA App (makes Origin look good) or if you have the tech know-how, Origin.\r\n\r\nThere are many users having key issues when buying here on Steam due to the Origin/EA App ongoing issues. Don't blame Steam here.\r\n\r\nJust watch long plays on YouTube to avoid installing sus launchers on your machine.\r\n\r\nThe story, graphics, music etc is good.",
+  "notes": [
+   "- Thumbs down after 699 hours: needs a constant connection to EA's servers through the EA app; many Steam buyers have key problems.",
+   "    → engineering.access.requires-internet                   (bad)",
+   "- Good story, graphics and music.",
+   "    → narrative.story.worth-following                        (good)"
+  ]
+ },
+ {
+  "code": "R074",
+  "review_text": "Mass Effect 3 (2012) the end of the Mass Effect Trilogy story from 07' to 2012' - I just finished the third game today with a friend (watching) that had previously played it and oh boy! WHAT AN ADVENTURE WE HAD! The game has a solid... solid continuation from the second Mass Effect! They all flow so well together... the story telling was perfect for me. This entry eats protein all day and then decides to do weights for like 20 hours because all the action ect... get's puuuumped up to 11... which it should for a final installment. Characters are all pretty much amazing, most are interesting and worthwhile listening to... maybe except one but I won't say who! (You know who you are). This one has the best combat out of the trilogy... gunplay and stuff just feels nice as hell, the powers you possess are awesome to use and feel impactful as well, couldn't recommend it enough. Choice I felt like came big into play with this one... you see decisions from the first and second game come into play in this one which just makes it all feel so connected and good! So yeah, Mass Effect 3! A felt like was a great way to end off the trilogy for me! I was quite happy with my ending :). Game gets a solid 9/10 as well. Is it my favourite in the series? I dunno, I feel like it's tied between 2 or 3... might have to do another play through to fully decide but what you need to go and do is buy this! START WITH MASS EFFECT 1 AND SMASH THE TRILOGY OUT! play em all!! I did over the past couple of weeks and woowee what a fun time I've had! GET IT NOW!",
+  "notes": [
+   "- Played with a friend watching: the best combat of the trilogy, impactful powers.",
+   "    → marketing.reputation.lives-up-to-the-studios-earlier-games (good)",
+   "- Decisions from the first two games come into play.",
+   "    → narrative.story.your-choices-change-the-story          (good)",
+   "- Happy with their ending; 9/10.",
+   "    → narrative.story.the-ending-lands                       (good)"
+  ]
+ },
+ {
+  "code": "R075",
+  "review_text": "I remember being completely lost in bugs when I played this one the first time around.\n\nIt's a lot better now, certainly a lot better than the other Mass Effect games in that the bugs are fixed. Also, it's not as terrible of a game as the cancel cultrue would have you believe. Yes the tasks are a little lackluster but show me a modern game of this genere where they are not. The completionist in you will want to do them anyways. Older games were better of course, but... The story is engaging enough to keep you playing.\n\nExcept obviously, don't pay 45 € for it on EA's site. Add it to you wishlist, wait for a sale and then buy it for 5 €.",
+  "notes": [
+   "- Lost in bugs first time; much better now.",
+   "    → live-ops.patch-quality.fixed-what-mattered             (good)",
+   "- Lacklustre tasks, as in most such games.",
+   "    → production.content-variety.side-content-is-empty-errands (bad)",
+   "- Wait for a 5 euro sale rather than pay 45 on EA's site.",
+   "    → publishing.sale-dependency.buy-on-sale-only            (bad)"
+  ]
+ },
+ {
+  "code": "R076",
+  "review_text": "8/23/2023: Game is still unplayable via Steam, but totally functional when downloaded via the EA app.\n\nIf you run into issues starting the game or verifying your key, and you installed via Steam, uninstall and reinstall on EA.\n\nUnacceptable and hopefully temporary workaround, but at least it's playable.",
+  "notes": [
+   "- Dated 8/23/2023 (19 found it helpful): unplayable through Steam, fine when reinstalled through the EA app.",
+   "    → community.player-conduct.players-teach-each-other-the-fix (good)"
+  ]
+ },
+ {
+  "code": "R077",
+  "review_text": "This is still one of my favorite multiplayer games of all time. I'm glad the servers are still alive",
+  "notes": [
+   "- Still one of their favourite multiplayer games; glad the servers are alive.",
+   "    → community.population.healthy                           (good)"
+  ]
+ },
+ {
+  "code": "R078",
+  "review_text": "A great ending to a trilogy. I am happy that I had a chance to be a part of the story. Never cared so much for the characters in the game. Will continue with Andromeda, hope that more Mass Effect games will come. Thank you BioWare!",
+  "notes": [
+   "- A great end; never cared so much for characters.",
+   "    → narrative.story.the-ending-lands                       (good)"
+  ]
+ },
+ {
+  "code": "R079",
+  "review_text": "There's a few problems with this game. \n\n1) EA is part of this social trend to over-represent women in entertainment. Aria, EDI, Liara, etc... \n2) EA is heavily promoting homosexuality.  Seriously, this is excessive. \n3) The gameplay is often lacking. The AI is severely sub-par and underwhelming, and often there's simply no enemies when there probably should be.\n\nBecause of this, the storyline and gameplay are lacking. 5/10",
+  "notes": [
+   "- Thumbs down: objects to the cast's representation of women and gay characters.",
+   "    → narrative.characters-writing.cast-politics-put-me-off  (bad)",
+   "- Sub-par AI; sometimes no enemies where they should be.",
+   "    → game-design.enemy-design.poor-ai-behaviour             (bad)"
+  ]
+ },
+ {
+  "code": "R080",
+  "review_text": "Had a few minor crashes during my playthrough, but the checkpoints and autosaves were good enough to prevent me from having more than a few minutes of lost progress because of them.\n\nOverall the story was pretty good and the occasional small plotholes or weird dialogue choices didn't really hurt it. I'll blame it on translation issues since I played the game in german. Not gonna get into any further detail about it since any comment would be a spoiler. \n\nOne thing that did bother me was the clunky cover mechanics and the overall choice to make spacebar do pretty much everything. From getting into cover, to jumping over it to interacting with objects. I ended up dead a few times because of that and also getting cover behind objects that I wanted to interact with instead which looked quite silly. But that was really the only Issue I had with the game besides the mentioned crashes.\n\nSo if you don't mind the small risk of maybe one or two game crashes and the slightly clunky mechanics (which might not be clunky at all in your eyes, who knows), then you should give it a go. Especially if you played the previous games.",
+  "notes": [
+   "- A few minor crashes; checkpoints and autosaves kept the loss to minutes.",
+   "    → engineering.bugs.rare-and-minor                        (good)",
+   "- Spacebar does cover, vault and interact - died a few times taking cover instead of using things.",
+   "    → game-design.game-feel.controls.one-button-does-too-many-things (bad)",
+   "- A good story with small plot holes.",
+   "    → narrative.story.worth-following                        (good)"
+  ]
+ }
+]
