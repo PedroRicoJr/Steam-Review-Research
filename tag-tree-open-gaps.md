@@ -15803,3 +15803,17 @@ Sixth unit of the 18:44 firing. Space Marine (2011) batch 17: 50 reviews, 91 bul
 - 15242795: enemies gain health as your weapons improve. 14894296: cutscenes can't be skipped after a checkpoint restart. 15629616 (thumbs down) wanted a strategy game.
 
 **Next:** Space Marine batch 18 (50 reviews).
+
+## Notes - round 1186 (Space Marine batch 18)
+
+Seventh unit of the 18:44 firing. Space Marine (2011) batch 18: 50 reviews, 141 bullets (2.82 per review), 3 thumbs down, written 2015-05-06 to 2015-07-23. 11 reviews are 15 words or fewer. No tree change. A crude jab at console players in 16914515 is recorded only as a jab.
+
+- **Heal by killing, under pressure:** 16099003 (2 found it helpful) - "there's no cover system and no health packs ... enemies will try to scrum you when you go to replenish your health, making battles even more desperate and ultimately fun". Also "runs well on even modest pcs". 15909422: "instead of hiding behind a wall ... for a few seconds".
+- **Versus on PC:** 16217538 - "with mice being so accurate some of the sniper-style weapons have become way more effective in PvP than they really should be"; early matches are rough with "veteran players combined with most of the gear and perks not being unlocked yet"; the horde mode "you can play solo and can use to farm some of the weapon challenges".
+- **Lag and cheats:** 15825686 (thumbs down) - "you can melee attack someone 5 times and do no damage ... Hacking is very rampant now ... My guess is there is no anti-cheat" (reviewer's claim). 16772862 (215 hours): "Less cheaters in multiplayer would make it perfect."
+- **Friends:** 15944679 - "multiplayer doesn't allows you to set up a multiplayer game with friends"; 16773450 says the opposite: "its easy to make a game for it with friends".
+- **Paid modes split players:** 16106436 (thumbs down, 10 found it helpful) - "community splitting multiplayer dlc = epic fail"; 17023991 - one co-op mode "has to be purchased for $12.99" (reviewer's account).
+- **Final boss, again:** 16088020, 16903550 and 17059841 all name the quick-time-event final fight. 17023991 instead liked the final mission's "flying and punching".
+- 15935663: Ork voice lines repeat ("Spice Mureen!"), a gamepad is a must. 16219268: the drop-in opening promised freedom, then "just an arena fight, followed by arena fights". 16771244: no skirmish mode for replay.
+
+**Next:** Space Marine batch 19 (50 reviews).
