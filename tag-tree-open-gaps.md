@@ -15567,3 +15567,12 @@ Tenth unit of the 16:44 firing. Appended section 37 to `findings/cross-game.md` 
 Eleventh unit of the 16:44 firing. Wrote the Arma 3 entry in `DOMINION-TAKEAWAYS.md` from `templates/dominion-takeaways-entry.md`, newest first, with its index row and its row in the plain-words comparison table (between Risk of Rain (2013) and Warframe, 2.6 : 1). Twelve lessons; the first three are about a player who runs the enemy side (Zeus), as a second form of Rico's bounty hunter beside Sniper Elite: Resistance's invader. No tag names in the entry. **Arma 3 is Done:** GAMES-TODO row 24 and `planning/third-person-shooter-list.md` C31 set to Done. No tree change.
 
 **Next:** pick the next game from `planning/`, closest to Dominion first, and record the pick and why.
+
+## Notes - round 1167 (next game picked: Warhammer 40,000: Space Marine (2011); grid running)
+
+Twelfth and last unit of the 16:44 firing (twelve a firing; the firing did 12 units, rounds 1156-1167: Arma 3 batches 61-66, the weighted counts, the English page, master page, cross-game section 37, the takeaways entry, and this pick). No reviews read.
+
+- **Why this game:** after Arma 3 the loop takes the next game from `planning/`, closest to Dominion first (Rico, 2026-09-25). **Warhammer 40,000: Space Marine - Anniversary Edition (C36a, appid 55150)** is a third-person sci-fi shooter, the predecessor of Space Marine 2 (Done), and has a four-player co-op mode against the game's own enemies: a Steam product update of 2011-10-26 (`ISteamNews/GetNewsForApp`, appid 55150) says "Exterminatus mode pits an elite squad of four Space Marines against hordes of alien enemies in a score based fight to the death". Its store page (read 2026-10-09) lists Single-player and Multi-player but does not mark co-op, so the co-op comes from the studio's update, not the categories. $39.99; 33,644 reviews, 92%, Very Positive; 20,164 English (`scripts/steam_counts.py 55150`). Weighed against it: HITMAN 2 (C27) marks Online Co-op, but its co-op is the Sniper Assassin mode in a stealth game and it is off sale; STAR WARS Battlefront II (2017) marks only PvP; the rest of the third-person list is single-player or PvP (round 1094).
+- **Grid:** slug `space-marine-2011` added to `build_grid.py` (from 2011-09); `build_grid.py --only space-marine-2011 --languages english` is running at the time of this note. Its total, the pull and GAMES-TODO row 25 go in the next round note.
+
+**Next:** finish the Space Marine grid, pull the sample, record the count and margin, add GAMES-TODO row 25.

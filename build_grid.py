@@ -82,6 +82,7 @@ GAMES = {
     "mass-effect-andromeda":  (1238000, 2020, 6),   # third-person sci-fi shooter RPG with online co-op (planning C16e); the 2017 game, on Steam since 2020-06-11
     "sniper-elite-resistance": (2169200, 2025, 1), # third-person sniper shooter with online co-op and Axis Invasion PvP (Rico's pick, GAMES-TODO row 23); released 2025-01-30, Deluxe early access from 2025-01-28
     "arma-3":                (107410, 2013, 1),    # military shooter with online co-op against AI and online PvP, third-person tag (planning C31); released 2013-09-12, Early Access before that (grid from 2013-01 to catch it)
+    "space-marine-2011":     (55150, 2011, 9),     # Warhammer 40,000: Space Marine (2011), third-person sci-fi shooter; Exterminatus: four Space Marines against hordes (Steam product update 2011-10-26); planning C36a
 }
 LANGUAGES = ["english", "schinese", "spanish", "latam", "russian", "brazilian"]
 

@@ -93,7 +93,7 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 | C33b | STAR WARS Battlefront (2015) | 1237980 | Jun 11, 2020 | 5,893 | 79% | 3,015 | no |  |
 | C34 | Batman: Arkham Origins | 209000 | Oct 24, 2013 | 65,589 | 90% | 31,116 | no |  |
 | C35 | Aliens: Fireteam Elite | 1549970 | Aug 23, 2021 | 27,159 | 80% | 17,605 | **Done** | no new pull |
-| C36a | Warhammer 40,000: Space Marine - Anniversary Edition | 55150 | Sep 5, 2011 | 33,566 | 92% | 20,134 | no | the 2011 game. The Master Crafted Edition is a separate app, 3169520, 432 reviews, under the 500 floor |
+| C36a | Warhammer 40,000: Space Marine - Anniversary Edition | 55150 | Sep 5, 2011 | 33,566 | 92% | 20,134 | **WIP** (row 25 of `GAMES-TODO.md`, picked 2026-10-09, round 1167) | the 2011 game. The Master Crafted Edition is a separate app, 3169520, 432 reviews, under the 500 floor |
 | C36b | Warhammer 40,000: Space Marine 2 | 2183900 | Sep 9, 2024 | 226,535 | 84% | 125,523 | **Done** | no new pull |
 
 **Also named:** Crab Champions is on this tag too. It is already row A7 in the roguelike list.
