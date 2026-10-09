@@ -15712,3 +15712,16 @@ Eleventh unit of the 17:44 firing. Space Marine (2011) batch 10: 50 reviews, 78 
 - 136269: many own it from the Humble Bundle. 5043501 (50 found it helpful): "Relic really loves this universe, and it shows". Short reviews in Russian (2), French, Portuguese, Italian and Finnish.
 
 **Next:** Space Marine batch 11 (50 reviews).
+
+## Notes - round 1179 (Space Marine batch 11)
+
+Twelfth and last unit of the 17:44 firing (twelve a firing; the firing did 12 units, rounds 1168-1179: the Space Marine grid fix and pull, then batches 1-11; one mode built). Space Marine (2011) batch 11: 50 reviews, 97 bullets (1.94 per review), 3 thumbs down, written 2013-11-12 to 2014-01-31. 20 reviews are 15 words or fewer. No tree change.
+
+- **The most-helpful review so far:** 7690498 (126 found it helpful) - "the only one I've gone through that captured a fraction of the atmosphere and 'flavour' of the 40k universe"; "One thing this game absolutely nailed was the scale"; "an ability to parry would have been nice"; and checkpoints "frequently placed before an unskippable in engine cutscene ... which generally pre-empted a major engagement you could easily lose ... only to then repeat the whole scene again".
+- **Online gone by January 2014:** 8584649 (thumbs down, 19 found it helpful) - "It takes roughly ten minutes to find a match ... full of AFK people, or a team of Over the top gamers ... All the DLC playlists are empty, and even Exterminatus mode is dead"; 8216532 - "the other 4 or 5 players that still play", Exterminatus "21 repetitive waves of overpowered enemies in the slightly more popular and less broken" mode.
+- **Paying for modes and gear:** 8057916 - "they make you pay for all the war gear and different armor sets, and even the game types"; 8909380 - "Dreadnoughts are DLC? Heresy".
+- **Healing, a complaint:** 7946089 - "the way to regain health is tedious (and during the animation you're forced into, you can just lose the health you're trying to gain back)". Most others praise it (8909380, 8812479).
+- **Lore and context:** 8211243 (thumbs down, re-reviewed 2017) - without 40k knowledge "much of it won't 'click'"; the melta gun and lascannon "infinitely better than pretty much everything else". 7944790 - the community "added members to play prearranged games and it rocked".
+- 8812971 (thumbs down): a shooter where Dawn of War was strategy.
+
+**Next:** Space Marine batch 12 (50 reviews).
