@@ -14770,3 +14770,9 @@ First unit of the 10:44 firing (twelve a firing). Wrote `findings/sniper-elite-r
 Second unit of the 10:44 firing. Wrote `findings/sniper-elite-resistance.md` from `templates/findings-master-page.md`: the division table, the top 25 complaints and praise with a plain-words column, and the finding - a stranger hunting players inside their own mission is liked by both sides when it is fair and can be turned off (42 reviews play to invade, 14 enjoy being invaded, 6 find it unwelcome; the draw holds from 4.1 per 100 at launch to 5.2 in 2026). No tree change.
 
 **Next:** cross-game section 36 (Sniper Elite: Resistance) in `findings/cross-game.md`, from `templates/cross-game-section.md`.
+
+## Notes - round 1092 (cross-game section 36: Sniper Elite: Resistance)
+
+Third unit of the 10:44 firing. Appended section 36 to `findings/cross-game.md` from `templates/cross-game-section.md`. One Python pass over `raw/*/english/summaries/*/[0-9]*.md` (skipping excluded reviews; 40 games, 47,184 English summaries, 30 groups with 300+ kept reviews) gives this game 88.1 praise and 109.8 complaints per 100, the same as `findings_tables.py`; 23rd of 30 by praise to complaint (0.80 : 1), between Back 4 Blood and Mass Effect: Andromeda. Ranks by reviews carrying a mode, per 100: 1st on the three invasion modes (no other game has them), should have been an add-on 10.8 (next DRG: Rogue Core 1.1), more of the same is the point 15.8, changes too little 5.0, recycled assets 4.7, paid content already in the last game 1.9, a new war or era 1.4, stealth 2.7, levels too small 2.6; 2nd on well-built levels, weak AI, too few enemies, cheaters; 3rd on too easy and on falling short of the studio's earlier games; 21st on better with friends. Corpus line: 40 games, 47,184 English summaries, 47,946 in all languages. No tree change.
+
+**Next:** the Sniper Elite: Resistance entry in `DOMINION-TAKEAWAYS.md`, from `templates/dominion-takeaways-entry.md` (then the game is Done).

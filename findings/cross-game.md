@@ -3470,3 +3470,113 @@ noticed.
   grid, `scripts/steam_counts.py 1238000`); none pulled.
 
 ⚠️ **The corpus is now 39 games and 46,213 English summaries (46,975 in all languages).**
+
+## 36. ⭐ What the thirtieth large game adds - Sniper Elite: Resistance, added 2026-10-09
+
+**A third-person stealth sniping game in occupied France with a two-player co-op campaign, four-player
+Survival, PvP, and Axis Invasion, where another player enters your mission as an enemy sniper: Rebellion;
+released 2025-01-30; $49.99 (Steam store). Rico's pick, to answer whether players like or hate being
+invaded.** 971 of 3,304 English reviews, a 29.4% sample at ±3.02%, across 22 months (2025-01 to 2026-10);
+76.1% up; 1,956 bullets, 2.01 per review; 199 distinct tags, **6 used by no other game, all about invasions,
+built in its own blocks (rounds 1068-1073)**, led by `invading-another-players-mission-is-the-draw` (44).
+Full read in `sniper-elite-resistance-english.md`, ranked lists in `sniper-elite-resistance.md`, plain-words
+lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-35** (every bullet whose mode is + or -, `review.*` included; one
+Python pass over `raw/*/english/summaries/*/[0-9]*.md` on 2026-10-09, skipping excluded reviews; it gives
+the same figures as `scripts/findings_tables.py` for this game (88.1 and 109.8); round 1092 note):
+
+| | LORT | Aliens: Fireteam Elite | Back 4 Blood | **Sniper Elite: Resistance** | Mass Effect: Andromeda | The First Descendant |
+|---|---|---|---|---|---|---|
+| Thumbs up, sample | 80.7% | 81.3% | 69.2% | **76.1%** | 70.9% | 64.5% |
+| Bullets per review | 2.05 | 2.94 | 2.63 | **2.01** | 2.65 | 2.37 |
+| Praise per 100 | 102.5 | 124.6 | 118.0 | **88.1** | 105.9 | 83.6 |
+| Complaint per 100 | 81.7 | 141.8 | 137.2 | **109.8** | 147.0 | 122.2 |
+| Praise to complaint | 1.25 : 1 | 0.88 : 1 | 0.86 : 1 | **0.80 : 1** | 0.72 : 1 | 0.68 : 1 |
+
+**Twenty-third of 30 groups with 300 or more kept reviews by praise to complaint**, between Back 4 Blood
+(0.86 : 1) and Mass Effect: Andromeda (0.72 : 1). Its thumb (76.1%) is higher than any game below it: the
+complaints are many but mild, and 23.2 of every 100 reviews are a bare thumbs up.
+
+### 🔑 The finding: the only game in the corpus where other players hunt you inside your own mission - and players like it
+
+Reviews carrying each mode, per 100 kept reviews, and this game's rank among the 30 large groups (the same
+Python pass, round 1092 note):
+
+| | **Sniper Elite: Resistance** | Rank of 30 | Highest elsewhere |
+|---|---|---|---|
+| Invading another player's mission is the draw | **4.3** (42) | 1st | none |
+| Being invaded by another player is fun | **1.4** (14) | 1st | none |
+| The invaded player has the upper hand | **1.5** (15) | 1st | none |
+| Should have been an add-on | **10.8** (105) | 1st | DRG: Rogue Core 1.1 |
+| More of the same is the point | **15.8** (153) | 1st | Earth Defense Force 5 0.7 |
+| The sequel changes too little | **5.0** (49) | 1st | Earth Defense Force 5 0.9 |
+| Recycled assets | **4.7** (46) | 1st | Elden Ring Nightreign 2.2 |
+| Content behind a second purchase | **1.9** (18) | 1st | Mass Effect 3 0.9 |
+| Wants this formula in another licence (a new war or era) | **1.4** (14) | 1st | Aliens: Fireteam Elite 0.07 |
+| Stealth is an option | **2.7** (26) | 1st | Warframe 0.03 |
+| The levels are too small | **2.6** (25) | 1st | Risk of Rain 2 0.1 |
+| Level design well built | **6.1** (59) | 2nd | Immortal: Unchained 10.1 |
+| Poor AI behaviour | **3.3** (32) | 2nd | Redfall 12.1 |
+| Too few enemies on screen | **1.6** (16) | 2nd | Redfall 3.4 |
+| Cheaters spoil matches | **1.8** (17) | 2nd | ARC Raiders 2.6 |
+| Too easy | **2.9** (28) | 3rd | Terminull Brigade 3.9 |
+| Falls short of the studio's earlier games | **5.5** (53) | 3rd | Mass Effect: Andromeda 13.3 |
+| Much better with friends | **2.6** (25) | 21st | R.E.P.O. 16.6 |
+
+**On invasions:** 67 reviews take a side - 43 only praise, 14 only complain, 10 both (English page,
+section 3a). The keyword scan of all 3,304 reviews, done by hand before the read, found the same lean: 130
+like, 29 dislike, 24 mixed of 183 with a stance (`sniper-elite-resistance-invasion-scan.md`). The praise
+holds from launch (4.1 per 100) to 2026 (5.2). The complaints are about fairness - the host's wall vision,
+hosts who clear and trap the map before an invasion can start, a thin invader kit, hosts who quit - and,
+from the host's side, invasions that come one after another.
+
+**On the add-on argument:** the corpus has never seen a sequel so plainly read as an expansion. "Should
+have been an add-on" is ten times the next game's rate, and "more of the same is the point" twenty times -
+the same fact, read by two kinds of fan.
+
+### In plain words
+
+This is the first game in the study where another player can enter your mission to hunt you. Most players
+who talk about it like it, from both sides: invaders play for it, and many of the hunted say it keeps them
+alert. The complaints are about fairness and pacing, not the idea. The rest of the game is a fan's sequel:
+liked by those who wanted more of the same, faulted by those who wanted something new, and called too easy
+and too empty by both.
+
+### For Dominion — what changes
+
+- **Adds: a player-hunter inside a co-op mission works, if it is fair and optional.** 42 reviews play to
+  invade, 14 enjoy being hunted, 6 find it unwelcome. Keep an off and invite-only switch, balance what each
+  side can see, let the hunter enter while the AI is still there, give a quiet spell between hunters, and
+  pay the hunter even if the squad quits. This is the evidence for Rico's bounty-hunter idea.
+- **Confirms lesson 16 ("Expect to be compared"):** 3rd of 30 on falling short of the studio's earlier
+  games, and 1st by ten times on "should have been an add-on". A follow-up that reuses the last game's
+  maps, guns and menus is judged as a paid expansion.
+- **Confirms lesson 15 ("Price fairly; 'wait for a sale' is a warning sign"):** 4.3 per 100 say buy on
+  sale, 5th of 30, and paid guns already in the last game are 1st of 30 (1.9).
+- **Confirms lesson 35 ("Let players set the difficulty"):** 3rd of 30 on too easy and 2nd on weak AI;
+  fans of the series want the hardest setting to bite.
+- **Qualifies lesson 1 ("Make the game best with friends"):** the co-op campaign is praised at 2.6 per
+  100, 21st of 30; here the other player people talk about is the one hunting them.
+- **Adds: anti-cheat has to work and must not break co-op.** Cheaters are 2nd of 30 (1.8), and a few
+  reviews say the anti-cheat caused crashes or co-op input lag (reviewers' account). A hunter mode raises
+  the cost of both.
+
+### Other ways it stands out in the corpus
+
+- **Stealth as a way to play** 2.7 per 100, 1st (next 0.03).
+- **Levels too small** 2.6, 1st (next 0.1), beside well-built levels at 6.1, 2nd: liked, but wanted bigger.
+- **A new war or era** 1.4, 1st: 14 reviews ask for the Pacific, the Eastern Front, Vietnam, Korea or the
+  Cold War.
+
+### What this game does NOT settle
+
+- **Runs, extraction and four-player squads.** None: the campaign is two players, and invasions hunt a solo
+  player or a duo. How a hunter fares against four is not in these reviews.
+- **The invasion settings and the anti-camping system.** The reviewers' account, not checked.
+- **Two read paces.** Batches 1-10 at twenty a firing, 11-20 at twelve (about 2.2 and 1.9 notes per
+  review); the ranks count reviews carrying a mode, not bullets, which softens it.
+- **The non-English audience.** 3,068 reviews in other languages (6,372 in all, 3,304 English,
+  `scripts/steam_counts.py 2169200`); none pulled.
+
+⚠️ **The corpus is now 40 games and 47,184 English summaries (47,946 in all languages).**
