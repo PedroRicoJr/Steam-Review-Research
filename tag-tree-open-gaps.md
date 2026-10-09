@@ -15401,3 +15401,15 @@ Seventh unit of the 15:44 firing. Arma 3 batch 55: 50 reviews, 61 bullets (1.22 
 - 167443139: "70% of my hours logged are from me falling asleep waiting for this game to load".
 
 **Next:** Arma 3 batch 56 (50 reviews).
+
+## Notes - round 1151 (Arma 3 batch 56)
+
+Eighth unit of the 15:44 firing. Arma 3 batch 56: 50 reviews, 61 bullets (1.22 per review), 6 thumbs down, written 2024-08-23 to 2024-10-31. 43 reviews are 15 words or fewer. No tree change. The first run was refused by `write_batch` (173149869 left out of the draft, named as LOST); nothing was written, the review was added, and the rerun passed.
+
+- **The single-player thumbs down:** 173149345 - "The save system for single player campaign is unusable"; no "indicators" or "arrows" for incoming fire: "It's not realistic for me to not be able to know where the enemy is shooting from, it's just needless difficulty"; "This is a sandbox, not a game" (with a crude jab at hardcore fans).
+- **Paid vehicles again:** 175057791 (thumbs down) - confusing interface, hostile players, FPS drops, "Game FORCES YOU to buy DLC if you wanna drive specific vehicles".
+- **Antistasi:** 173151074 - "What the Steam store page does not tell you is that Arma 3 is a platform for the most fun asymmetric guerrilla warfare simulator I have ever played" (links Antistasi Ultimate); great solo, better with friends.
+- **Waiting for a sequel:** 177606137 - "We will get GTA VI before Arma 4".
+- Two short reviews in Dutch and Croatian.
+
+**Next:** Arma 3 batch 57 (50 reviews).
