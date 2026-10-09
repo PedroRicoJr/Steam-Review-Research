@@ -15133,3 +15133,14 @@ Seventh unit of the 13:44 firing. Arma 3 batch 31: 50 reviews read, 49 kept and 
 - 54385789 says the Contact expansion gave it "a good engaging single player story"; 53945796 could not run BattlEye at all and was refused a refund at 12 hours.
 
 **Next:** Arma 3 batch 32 (50 reviews).
+
+## Notes - round 1127 (Arma 3 batch 32)
+
+Eighth unit of the 13:44 firing. Arma 3 batch 32: 50 reviews, 74 bullets (1.48 per review), 5 thumbs down, written 2019-08-23 to 2019-10-31. 29 reviews are 15 words or fewer. No tree change.
+
+- **A new player's first night:** 55132716 (81 found it helpful) - servers that need mods they don't have, an objective 3 km away across an empty island, both base helicopters locked ("This is premium content, you must purchase helicopter DLC"), a dead sniper's rifle locked behind Marksmen, then death and a respawn 3 km away. Quit.
+- **DLC items in the world:** 55232507 - DLC gear replaces base gear, so enemies drop items that trigger an ad pop-up mid-combat when you re-arm; 28 euros for the game plus 34 for Marksmen and Contact.
+- **Getting started:** 55498746 - almost every private server runs "their own army bootcamp"; get a mic and learn radio etiquette. 55003260 - great with friends on a proper dedicated server.
+- 54906785 likes the "subtle and believable" near-future setting; 55132062 lists the mods that make it "+1000% better".
+
+**Next:** Arma 3 batch 33 (50 reviews).
