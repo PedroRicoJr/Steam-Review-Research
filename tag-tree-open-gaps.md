@@ -15972,3 +15972,15 @@ Second unit of the 20:44 firing. Space Marine (2011) batch 28: 50 reviews, 89 bu
 - 33738003 (thumbs down): an hour, "it loaded for 90% of it". 32972239 (thumbs down): "had its' budget cut half way through"; DOOM (2016) did attack-to-heal better. 33499942: online "most of the people ... are veterans".
 
 **Next:** Space Marine batch 29 (50 reviews).
+
+## Notes - round 1198 (Space Marine batch 29)
+
+Third and last unit of the 20:44 firing (rounds 1196-1198; three units). Space Marine (2011) batch 29: 50 reviews, 77 bullets (1.54 per review), 4 thumbs down, written 2017-08-28 to 2017-11-29. 14 reviews are 15 words or fewer. No tree change. Family details in 34587290 are left out.
+
+- **What the melee is for:** 35231417 - "For you to get the real feel of the rage ... you have to wade into the melee combat ... stun and ork, then grab him one armed pick him up then body slam him and finally ... step on his head"; it also warns of fatigue after 6-7 hours straight, "the repetition that a space marine must feel after killing thousands of orks". 36001673: "you can be injured during executions".
+- **Wrong weapons, no way back:** 34871011 - "the checkpoint was after the point at which you could chose your weapons and I got stuck with completely the wrong set of weaponry" (as 21988216 said in round 1190).
+- **Multiplayer in late 2017:** 36307795 (9 found it helpful) - "The vast majority of those that do are veterans ... point-fodder ... absolutely awful team-balancing"; only Seize Ground runs and the Dreadnought modes are "hardly ever played". 35925729 (866 hours, thumbs down): "you even get a big delay if the host is in the same room (irl) with you". 35889774: wishes horde servers were still there.
+- **Paid extras:** 35554715 - "buy the cheaper, base game ... instead of the master collection (that includes all the redundant DLCs)"; 34940228 likewise. 35243076 (thumbs down): "General feel of the game being a cash grab", and servo-skull sounds go on playing after pickup.
+- 36060060 (thumbs down, 6 found it helpful): "Game gave me a jetpack. I was happy. Game took away my jetpack. I uninstalled." 34861739 (thumbs down): "this game needs at least doubel the amount of Orks". 35362562: missions "way too easy (even on hard)", but hundreds of hours in multiplayer.
+
+**Next:** Space Marine batch 30 (50 reviews).
