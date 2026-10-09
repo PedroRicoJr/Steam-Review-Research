@@ -12840,6 +12840,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1071, Sniper Elite: Resistance batch 4.** Built under Rule C on the first sighting, 188446767: the invader lost the options "to tech for damage", "tipping the balance ultimately towards the allied player with their legal wallha... sorry, focus ability", and "It's not fun as an invader, and not fun as an allied player". `findphrase` for "focus ability", "wallhack" and "upper hand" found no earlier note about a host's advantage over an invader.
 
+## Modes added in Sniper Elite: Resistance batch 6 - round 1073 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-invaded-player-can-quit-to-rob-the-invader` | **−** | In a game where one player can invade another's mission, the host can leave, reload or die on purpose when an invader arrives, and the invader then gets no reward for the time spent hunting. **Distinct from `.the-invaded-player-has-the-upper-hand`** (the host's tools tilt the fight; here the host ends the fight) and from `community.player-conduct.quitting-mid-match` (quitting a shared match, not escaping an invader). |
+
+🔑 **Round 1073, Sniper Elite: Resistance batch 6.** Built under Rule C on the first sighting, 188728825: "still 50% of the time you invade someone they either just save&quit or die before you can kill them (Meaning you get no reward)" (reviewer's estimate). `findphrase` found no earlier note.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

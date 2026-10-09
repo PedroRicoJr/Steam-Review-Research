@@ -2012,3 +2012,4 @@ game-design.modes.the-invader-is-kept-short-of-gear | - | The player who invades
 game-design.modes.being-invaded-by-another-player-is-fun | + | Another player can enter the reviewer's own mission against the computer as an enemy hunter, and the reviewer 
 game-design.modes.the-invaded-player-has-the-upper-hand | - | In a game where one player can invade another's mission, the reviewer says the host is given what the invader 
 game-design.modes.being-invaded-is-unwelcome | - | The reviewer does not enjoy another player entering their own mission as an enemy - it is unfair, too frequent
+game-design.modes.the-invaded-player-can-quit-to-rob-the-invader | - | In a game where one player can invade another's mission, the host can leave, reload or die on purpose when an 
