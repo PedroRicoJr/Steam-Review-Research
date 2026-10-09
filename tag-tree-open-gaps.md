@@ -15909,3 +15909,16 @@ Done in chat on Rico's word (2026-10-09), between firings. No reviews read; no t
 **Next:** Space Marine batch 24 (50 reviews), one unit a firing.
 
 **Pace set (Rico, in chat, after the table above): THREE units a firing.** "I think 3 per turn is best then." The Routine text, the loop file and STATUS say three.
+
+## Notes - round 1193 (Space Marine batch 24)
+
+First unit of the 19:44 firing, the first at three units a firing (Rico, 2026-10-09). Space Marine (2011) batch 24: 50 reviews, 92 bullets (1.84 per review), 7 thumbs down, written 2016-08-05 to 2016-10-22. 22 reviews are 15 words or fewer. No tree change. A crude wish in 25878627 is left out.
+
+- **Executions leave you open, again:** 24910515 (8 found it helpful) - "locks the player into a sychronised slow motion animation ... (all enemies remain active during this time leaving the player incredibly vunerable)"; 25878627 - "Half the time I ... die, and then the smarmy reload screen 'reminds' me to perform executions to regain health". Against them, 25328503: "Disgrace and penalties await you if you go the cowards way of hiding behind a box".
+- **The middle ground that fails:** 25511444 (14 found it helpful) - "Because you're so weak, going full on melee is not feasible, but the enemies can be bullet sponges so you may run out of ammo"; ally AI "sometimes don't shoot ... the enemy will ignore your squad mates and charge straight for you"; "There is no upgrade system".
+- **The same three set-ups:** 25318709 (thumbs down, edited 2020) lists them: push to a stronger group, hold a locked area against waves from a ledge you can't reach, and a boss arena "for a cinematographic KO". Also lore complaints (guardsmen, not Skitarii, on a forge world).
+- **Hosting and paid modes:** 25880817 - "'migrating host' is pop out on your screen ... 'migrate host simulator'"; nobody plays Dreadnought Assault even after buying it.
+- **Invisible walls:** 24910515 ("invisible walls or ancle hieght impassable terrain") and 25898562 (thumbs down: "Corridor shooter with a lot of invisible walls").
+- 24910515 also notes chapters can be replayed from the menu, and that both multiplayer modes can be hosted alone. One of its bullets was moved after the write, from the final-boss mode to plain praise: it described button-prompt sections in general, not the final boss.
+
+**Next:** Space Marine batch 25 (50 reviews).
