@@ -15625,3 +15625,16 @@ Fourth unit of the 17:44 firing. Space Marine (2011) batch 3: 50 reviews, 108 bu
 - 2612288 (edited 2022): "There are no micro-transactions or non-fungible tokens (NFTs) in this game!" One short review in Italian.
 
 **Next:** Space Marine batch 4 (50 reviews).
+
+## Notes - round 1172 (Space Marine batch 4)
+
+Fifth unit of the 17:44 firing. Space Marine (2011) batch 4: 50 reviews, 69 bullets (1.38 per review), 3 thumbs down, written 2012-04-17 to 2012-07-07. 17 reviews are 15 words or fewer. No tree change. Personal details in 5158436 left out; a political remark (193547) and a jab at Space Marine 2's writer (3502817) recorded only as such.
+
+- **Co-op forces teamwork:** 461080 - Exterminatus "will force you to teamwork unlike any other game I have ever played", but peer-to-peer means "make sure you got buddies with good pings", and "some unlocks can only be gained in Versus matches"; 1312063 - "multiplayer has really come into it's own with the Horde Mode that was added post release".
+- **The add-ons split the players:** 40636 - "expansions hurt the game by dividing its already small population into sub groups based on what expansion you did or did not own".
+- **Peer-to-peer, at its worst:** 858981 (thumbs down) - hosts "usually either live in the UK, or in Africa ... the game locking itself every 5 minute for about 3 minutes saying 'Changing Host'"; also a console port "with little video settings".
+- **Population, both ways in mid-2012:** 1189333 (thumbs down) - "not enough people online"; 5851551 - "a dedicated and fun online community"; 1462161 - "MP seems quite active".
+- **Sequel wished for** (written before Space Marine 2 was announced): 3527631, 1729387 ("we will never get a sequel"), 5292821.
+- 3005994: "the endgame where the CPU cheeses you out with lame tactics". Short reviews in German and Russian.
+
+**Next:** Space Marine batch 5 (50 reviews).
