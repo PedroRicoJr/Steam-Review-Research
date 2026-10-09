@@ -15884,3 +15884,24 @@ Twelfth and last unit of the 18:44 firing (rounds 1180-1191). Space Marine (2011
 - 24591116 wanted larger scale: "You're usually in a 3 man squad or on your own". 23698251 (thumbs down) found the tone childish.
 
 **Next:** Space Marine batch 24 (50 reviews).
+
+## Notes - round 1192 (the counting script fails loudly; old lists checked; pace cut to one)
+
+Done in chat on Rico's word (2026-10-09), between firings. No reviews read; no tree change.
+
+- **`build_grid.py`:** a month Steam never answers is asked once more at the end of its list. If it is still unanswered it is written to the list as `missing`, never as empty. The build prints `FAILED` with the months and exits with an error, and `grid.md` shows `MISSING`. **`pull_sample.py`** skips any list with a missing month and says why. Tested with a fake Steam that never answered 2012-09 and answered 2013-01 only on the last pass: 2012-09 was marked missing with exit code 1, and 2013-01 was filled in.
+- **Old lists, checked locally** (no calls to Steam): of 57 lists, two have an empty month between months of 5 or more reviews, `deep-rock-galactic/latam` 2019-08 and `die-after-sunset/english` 2022-03. Both are listed in GAMES-TODO "Months to check again". The check cannot see a miss at the start or end of a list.
+- **Usage and pace.** Rico: the weekly limit reset at 5 AM his time, and 7 hours later 9% was used. In that window (12:00 to 19:25 UTC, taking his time as UTC-7), git shows 85 units in 7 firings at twelve: 77 review batches, plus Arma 3's counts, pages and takeaways and Space Marine's pick, grid and pull. That is about 0.106% of the week per unit. The 9% also covers chat turns and any other use on the account, and each firing has a start-up cost that a one-unit firing still pays, so small paces will cost more per unit than this.
+
+| Units a firing | Per firing | Per day (24 firings) | Per full week (168 firings) |
+|---|---|---|---|
+| 12 | ~1.3% | ~31% | ~213% |
+| 10 | ~1.1% | ~25% | ~178% |
+| 5 | ~0.5% | ~13% | ~89% |
+| 3 | ~0.3% | ~8% | ~53% |
+| 2 | ~0.2% | ~5% | ~36% |
+| 1 | ~0.1% | ~2.5% | ~18% |
+
+The pace was one unit a firing until 2026-10-05, three from 2026-10-05, then six, twelve and twenty from 2026-10-07, and twelve again from round 1080. Pace is now **one unit a firing** until Rico picks a number. The Routine text, the loop file and STATUS all say so.
+
+**Next:** Space Marine batch 24 (50 reviews), one unit a firing.

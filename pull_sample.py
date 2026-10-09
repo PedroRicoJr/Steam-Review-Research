@@ -137,6 +137,12 @@ def main():
     for key, cell in sorted(grid["cells"].items()):
         if not cell["total"] or args.only not in key:
             continue
+        if cell.get("missing"):
+            # build_grid.py could not get a count for these months; a sample drawn now would
+            # silently leave them out (round 1192).
+            print("SKIPPED %s: grid months missing (%s); rebuild with build_grid.py --only first"
+                  % (key, ", ".join(cell["missing"])))
+            continue
         game, lang = key.split("/")
         months = cell["months"]
         appid = cell["appid"]

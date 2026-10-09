@@ -23,6 +23,17 @@ for counts and ratings, `api/appdetails` for release dates. Nothing here is esti
 
 ---
 
+## Months to check again (round 1192)
+
+`build_grid.py` used to write a month as empty when Steam did not answer (found in round 1168: Space Marine lost 2021-11, 122 reviews, then 2012-09). A local check of every list in `raw/_shape/grid.json` (57 game-and-language lists, no calls to Steam) looked for an empty month sitting between two months with 5 or more reviews each. Two turned up. **Check these again later with `build_grid.py --only <game>`:**
+
+| List | Empty month | Reviews the month before / after | Why it matters |
+|---|---|---|---|
+| `deep-rock-galactic/latam` | 2019-08 | 6 / 5 | Sample pulled from this list; a real month would be missing from it |
+| `die-after-sunset/english` | 2022-03 | 14 / 5 | Read as a census of 51; a real month means unread reviews |
+
+This local check cannot see a month missed at the start or end of a list, or an empty month next to months with fewer than 5 reviews. Only asking Steam again can rule those out. Since round 1192, `build_grid.py` marks an unanswered month as missing, stops with an error, and `pull_sample.py` refuses to pull that list.
+
 ## 1. The queue — cleared to pull
 
 **In this order. One game finished completely before the next starts.**

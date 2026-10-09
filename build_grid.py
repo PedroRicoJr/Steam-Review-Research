@@ -158,6 +158,7 @@ def main():
         for lang in langs:
             key = "%s/%s" % (game, lang)
             grid["cells"][key] = {"appid": appid, "months": {}, "total": 0}
+            unanswered = []
             for y, m in months(y0, m0):
                 a, b = month_bounds(y, m)
                 n = count(appid, lang, a, b)
@@ -169,7 +170,8 @@ def main():
                     time.sleep(3 + again * 3)
                     n = count(appid, lang, a, b)
                 if n is None:
-                    print("  WARNING: no answer for %s %d-%02d; the month is missing" % (key, y, m))
+                    print("  WARNING: no answer for %s %d-%02d; asked again at the end" % (key, y, m))
+                    unanswered.append((y, m))
                 done += 1
                 if n:
                     grid["cells"][key]["months"]["%d-%02d" % (y, m)] = n
@@ -179,6 +181,21 @@ def main():
                     print("  %d/%d  (%.0f%%)  ~%.0f min left"
                           % (done, todo, 100.0 * done / todo, (el / done) * (todo - done) / 60))
                 time.sleep(0.35)
+            # One last pass over the months Steam never answered, after a longer pause. A month still
+            # unanswered is written to the cell as "missing" - never as empty - and pull_sample.py
+            # refuses to pull a cell that has one (round 1192).
+            still = []
+            for y, m in unanswered:
+                time.sleep(10)
+                a, b = month_bounds(y, m)
+                n = count(appid, lang, a, b)
+                if n is None:
+                    still.append("%d-%02d" % (y, m))
+                elif n:
+                    grid["cells"][key]["months"]["%d-%02d" % (y, m)] = n
+                    grid["cells"][key]["total"] += n
+            if still:
+                grid["cells"][key]["missing"] = still
             c = grid["cells"][key]
             print("%-34s %9s reviews across %3d months"
                   % (key, format(c["total"], ","), len(c["months"])))
@@ -192,6 +209,9 @@ def main():
              "**NOT COMMITTED** - regenerate rather than store.", "",
              "| cell | months | total reviews | biggest month |", "|---|---|---|---|"]
     for key, c in sorted(grid["cells"].items()):
+        if c.get("missing"):
+            lines.append("| `%s` | MISSING %s | - | - |" % (key, ", ".join(c["missing"])))
+            continue
         if not c["months"]:
             lines.append("| `%s` | 0 | 0 | - |" % key)
             continue
@@ -202,6 +222,13 @@ def main():
         fh.write("\n".join(lines) + "\n")
 
     print("\ndone in %.1f min -> %s" % ((time.time() - t0) / 60, OUT))
+    bad = {k: c["missing"] for k, c in grid["cells"].items() if c.get("missing")}
+    if bad:
+        print("\nFAILED: Steam never answered for these months, so their counts are unknown:")
+        for k, ms in sorted(bad.items()):
+            print("  %s: %s" % (k, ", ".join(ms)))
+        print("Run again with --only <game> before pulling; pull_sample.py refuses these cells.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
