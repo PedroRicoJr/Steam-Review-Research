@@ -15751,3 +15751,16 @@ Second unit of the 18:44 firing. Space Marine (2011) batch 13: 50 reviews, 89 bu
 - 10039379 (thumbs down) calls it "full of micro-transactions" (the reviewer's word for its paid add-ons) and a "money grab"; 10283029 (thumbs down) carries crude jabs at the studio, recorded only as such. One short review in Korean.
 
 **Next:** Space Marine batch 14 (50 reviews).
+
+## Notes - round 1182 (Space Marine batch 14)
+
+Third unit of the 18:44 firing. Space Marine (2011) batch 14: 50 reviews, 91 bullets (1.82 per review), 3 thumbs down, written 2014-06-30 to 2014-09-15. 18 reviews are 15 words or fewer. No tree change.
+
+- **Exterminatus, fully described (46 found it helpful):** 11907183 - "a max of 4 players ... 2 exterminatus gamemodes and 3 maps. Each map contains 4 arenas and each arena contains 5 waves. The 4th arena however has a bonus round"; the Chaos Unleashed DLC adds a mode where "your team are the Chaos marines fighting waves of Orcs, Imperial guard and Space Marines". 11929354 adds "kill 20 enemies in 10 seconds" challenges and hold-the-point objectives between waves. 11813860: "holding back hordes of orks as a 4 player team is awesome".
+- **The satire (34 found it helpful, thumbs down):** 11931300 - "Space Marines are terrified of direct assault ... THQ's idea of close combat is X,X,X,Y (B) over and over ... the same corridors, rooms, and debris in all of their buildings".
+- **Matchmaking:** 11058180 - "isn't region locked, so you may very well end up getting teamed up with some dude from Tokyo who is hosting the match"; DLC "I can't play since no one that plays has it".
+- **Players:** 12091938 - multiplayer "filled with clans ... that mostly consist of ... rascists" (recorded as abuse, slurs not repeated).
+- **Healing and difficulty, the thumbs-down view:** 11992611 - "artifical difficulty at the hands of greater NUMBERS", checkpoints, and finishers "that ... allow you to take damage while going in for a healing meale kill".
+- 11231075: the camera zooms in tight spaces so "i didnt realise quite how many Orks i had on me"; 11483292: the heaviest melee weapon blocks heavy guns, "pick off flying tanky enemies with nothing but a pistol"; 11472387: "exploration is not really rewarded".
+
+**Next:** Space Marine batch 15 (50 reviews).
