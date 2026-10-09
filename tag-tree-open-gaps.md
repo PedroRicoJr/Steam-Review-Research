@@ -15599,3 +15599,16 @@ Second unit of the 17:44 firing. Space Marine (2011) batch 1: 50 reviews, 85 bul
 - Comparisons: Gears of War (3), Halo, God of War, Dynasty Warriors. Four short reviews in Russian, Korean, French and Spanish.
 
 **Next:** Space Marine batch 2 (50 reviews).
+
+## Notes - round 1170 (Space Marine batch 2)
+
+Third unit of the 17:44 firing. Space Marine (2011) batch 2: 50 reviews, 77 bullets (1.54 per review), 1 thumbs down, written 2011-11-18 to 2012-02-07. 24 reviews are 15 words or fewer. No tree change.
+
+- **Exterminatus, the four-player wave mode, praised:** 555932 - "Exterminatus is like Last Stand but with more control, and it feels great to blast through waves of foes in this arena style combat"; 4348487 - "a good 'horde mode' game for your coop buddies"; 491395 - "Multiplayer co-op is fun". Filed as a mode that stands out.
+- **Heal by executing, again:** 555932 - "Combat is hightened by the stun to exicute mechanic to recover health mid-fight. Orcs no longer become fearsome foes, but tasty mobile health packs"; 4307712 - "you also regain health by finishing off your enemies in a really brutal fashion".
+- **Multiplayer at launch:** 2386535 - "Trying to find a match was like trying to find a needle in a haystack" (and that 90% of buyers left, the reviewer's claim); 1052427 - multiplayer "favors players who have played longer with more perks".
+- **Money:** 145400 - "having the Dreadnoughts as DLC ... reeks of moneygrubbing", and worry about THQ "going under" (reviewer's account); 1052427 - $50 too much, worth it on sale.
+- **Aging:** 990060 turned its review to thumbs down in 2015 ("did not withstand the test of time"); 2208142 in 2026 - "Outdated but it's good. Or at least, it was."
+- 504671: "The end boss is ridiculous". Two short reviews in Russian.
+
+**Next:** Space Marine batch 3 (50 reviews).
