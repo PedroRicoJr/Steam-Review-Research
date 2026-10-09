@@ -15487,3 +15487,15 @@ Second unit of the 16:44 firing. Arma 3 batch 62: 50 reviews, 75 bullets (1.50 p
 - 216017493 (thumbs down): "harder than tarkov and no community with 500 dlcs". Two short reviews in Spanish and Portuguese.
 
 **Next:** Arma 3 batch 63 (50 reviews).
+
+## Notes - round 1158 (Arma 3 batch 63)
+
+Third unit of the 16:44 firing. Arma 3 batch 63: 50 reviews, 56 bullets (1.12 per review), 6 thumbs down, written 2026-02-07 to 2026-04-15. 38 reviews are 15 words or fewer. No tree change. A health detail in 219479274 is left out; the bullet keeps only that a motor limitation makes mouse and keyboard hard and that they want controller support.
+
+- **"Basically dead":** 218322157 (929 hours, 8 found it helpful, thumbs down) - "dont get it unless you already have a group games basically dead and dont waste your money on CDLCs no one plays them all the videos that make the game look cool are all closed communities".
+- **Zeus and the editor, solo:** 222180917 (13 found it helpful) - "barely touch the multiplayer server. I always stay at my editor, set up Zeus, and having fun with the AI" (33rd game-master sighting). 219489254 jokes about a Zeus player striking them down.
+- **Lost saves:** 222756109 (thumbs down) - save files corrupted on two installs: "You WILL lose save progress without warning ... the further you progress, the worse".
+- **BattlEye:** 220119022 (thumbs down) - kicked "as soon as i get into a game".
+- 218900568: "makes it onto the news outlets almost every major war"; 223330628: "+ lots of mods to choose from / - lots of mods to choose from". Short reviews in Persian and Turkish.
+
+**Next:** Arma 3 batch 64 (50 reviews).
