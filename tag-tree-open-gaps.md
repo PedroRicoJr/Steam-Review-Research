@@ -15229,3 +15229,14 @@ Fourth unit of the 14:44 firing. Arma 3 batch 40: 50 reviews read, 49 kept and 5
 - 92067850: 30 fps with CPU and GPU both at 25-40% use.
 
 **Next:** Arma 3 batch 41 (50 reviews).
+
+## Notes - round 1136 (Arma 3 batch 41)
+
+Fifth unit of the 14:44 firing. Arma 3 batch 41: 50 reviews, 54 bullets (1.08 per review), 4 thumbs down, written 2021-07-07 to 2021-09-15. 35 reviews are 15 words or fewer; only one is long. No tree change.
+
+- **Communities:** 95805588 - "they won't hesitate to kick toxicity to the curb"; 96262745 - "takes a while to find which server is right for you but once you've got it you'll find a great team"; 96716787 recommends a Star Wars "starsim" group; 96261795 wishes more people played.
+- **Persistent modes:** 98960445 - from quick skirmishes "to the Grand persistent, over some weeks (capture the Island) Game-modes".
+- **The thumbs down:** 97135981 - "Maybe it was a good game in 2013, but you need to move on in 2021"; 99418135 - 30-40% CPU and GPU use and 25-40 fps; two one-liners.
+- 97644699: tutorials and guides make it accessible.
+
+**Next:** Arma 3 batch 42 (50 reviews).
