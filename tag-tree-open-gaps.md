@@ -14959,3 +14959,13 @@ Third unit of the 12:45 firing. Arma 3 batch 15: 50 reviews read, 49 kept and 72
 - 21037231: "amazing except if you want to go online and dont have DLCS".
 
 **Next:** Arma 3 batch 16 (50 reviews).
+
+## Notes - round 1111 (Arma 3 batch 16)
+
+Fourth unit of the 12:45 firing. Arma 3 batch 16: 50 reviews, 73 bullets (1.46 per review), 2 thumbs down (an apostrophe and a crude jab), written 2016-04-22 to 2016-06-30. 29 reviews are 15 words or fewer. No tree change.
+
+- **Read:** DLC price and practice (5: 23577994 says Epoch servers are full of DLC guns you can't pick up without paying $15); performance (6); friends or a group make it (6: 22576861 hated it until joining a group found on Reddit).
+- 23010922 sums up the pace: time goes on the Workshop, the arsenal, briefings, travel and being lost, then "for a glorious five minutes there will be utter chaos ... there is nothing more fun than an Arma mission gone wrong".
+- 23316892 likes a visual update ahead of the Tanoa map (Apex); 23442964 says Life role-play servers have no "community spirit".
+
+**Next:** Arma 3 batch 17 (50 reviews).
