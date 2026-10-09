@@ -15155,3 +15155,14 @@ Ninth unit of the 13:44 firing. Arma 3 batch 33: 50 reviews, 69 bullets (1.38 pe
 - 61908545 asks for DX12 or Vulkan; fps stays capped with low CPU and GPU load.
 
 **Next:** Arma 3 batch 34 (50 reviews).
+
+## Notes - round 1129 (Arma 3 batch 34)
+
+Tenth unit of the 13:44 firing. Arma 3 batch 34: 50 reviews, 74 bullets (1.48 per review), 8 thumbs down, written 2020-01-23 to 2020-03-31. 36 reviews are 15 words or fewer. No tree change.
+
+- **Single player, from three sides:** 65116884 bought it for the campaign and found Operation Flashpoint's pathfinding bugs, "ESP" enemies, cryptic orders, an editor with no instructions and DLC placeholders in it; 65666343 cannot survive on the lowest difficulty against enemies who spot from kilometres; 62298438 says single player is fine if you treat it as a separate game.
+- **Multiplayer access:** 64676824 - base-game servers are hard to find, modded ones are passworded or demand you join a military-sim group, many of which are "edgy 17 year old kids ... abusing their leadership"; every server they find has 90+ ping; they mostly build missions for 4-6 friends.
+- **A full review:** 65114794 - flexibility is the strength; the costs are old scrolling menus, squad orders nested four or five lists deep, "a million keyboard shortcuts", lag, wilful vehicles and under 30 fps; "a real diamond in the rough" online with teamwork.
+- 62298980: the DLC makes it enjoyable, and the long setup and tutorial ran past the refund window.
+
+**Next:** Arma 3 batch 35 (50 reviews).
