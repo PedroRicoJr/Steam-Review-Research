@@ -15197,3 +15197,13 @@ First unit of the 14:44 firing (twelve a firing). Arma 3 batch 37: 50 reviews, 6
 - **Read:** a mature, welcoming community (3); free mods better than the paid DLC (77620914); "jumping straight into a milsim community was the best this i could've done" (76400925).
 
 **Next:** Arma 3 batch 38 (50 reviews).
+
+## Notes - round 1133 (Arma 3 batch 38)
+
+Second unit of the 14:44 firing. Arma 3 batch 38: 50 reviews, 57 bullets (1.14 per review), 1 thumbs down (a meme), written 2020-11-22 to 2021-01-31. **41 of 50 reviews are 15 words or fewer**, the most of any batch, so 46% of bullets are bare thumbs up. No tree change.
+
+- **Zeus:** 81803352 - "almost fully immerses you ... especially in game modes like combat patrol, and Zeus"; 83688330 - 800 hours in the editor "and zeus singleplayer with ai only". Twenty-four game-master sightings; the second shows Zeus used alone, as a sandbox director.
+- **Why it's tense:** 84754367 - every round in every magazine is tracked, and dying means "a 10 minute ride from base from a real human pilot", so "real team guys using real team tactics is mandatory". 79685370 (43 found it helpful), a console SOCOM player: "take fire you will die, and need to communicate with your team".
+- 81806460 says it paved the way for later titles; 81295328 came because of a YouTuber.
+
+**Next:** Arma 3 batch 39 (50 reviews).
