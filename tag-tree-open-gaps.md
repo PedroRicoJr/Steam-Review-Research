@@ -14529,3 +14529,9 @@ Fourth unit of the 08:44 firing (twenty a firing; test set of the third pace tes
 **No modes built.** EA or its app comes up in 8 of the 35: 235774872 scores the game -6 of 10, taking 10 points off for the app ("a piece of adware" that wastes resources, causes errors and pops up), 236631885 says the launcher does not "let me play the game i purchased", 236578061 says "EA deleted a bunch of my owned games" (reviewer's claim, not checked); two of the eight are crude rants at EA, recorded only as such. 236942682 and 234112900 both say the ending is strong - 236942682: "the finale is better than the whole game put together". 236910877 (5 found it helpful): Ryder is "the perfect hero straight off an Alliance recruitment poster", and the main story is "maybe ten to twelve hours". 235313103 defends the lack of consequences, since "ME1 actually suffers from much of the same limitations". 237102219 crashed on the tram at default GPU settings and on the first planet after undervolting.
 
 **Next:** Mass Effect: Andromeda weighted counts (`count.py --group mass-effect-andromeda/english`), then the findings pages.
+
+## Notes - round 1062 (Mass Effect: Andromeda weighted stats)
+
+Fifth unit of the 08:44 firing (twenty a firing). `count.py --group mass-effect-andromeda/english` wrote the 77 monthly stats files and the group file: 11,214 reviews counted, 1,585 read, 4,196 observations (2.6 per review; the count of bullet lines in the 1,585 summaries is also 4,196). 75 of 77 months are partly read; the heaviest weight is 2020-06 at about x13. Top weighted tags: thumbs up with no reason 6.4%, falls short of the studio's earlier games 4.9%, judged unfairly 4.6%, the story is worth following 3.1%, flat or annoying characters 3.0%. No tree change.
+
+**Next:** the English findings page, from `templates/findings-english-page.md`.
