@@ -15984,3 +15984,17 @@ Third and last unit of the 20:44 firing (rounds 1196-1198; three units). Space M
 - 36060060 (thumbs down, 6 found it helpful): "Game gave me a jetpack. I was happy. Game took away my jetpack. I uninstalled." 34861739 (thumbs down): "this game needs at least doubel the amount of Orks". 35362562: missions "way too easy (even on hard)", but hundreds of hours in multiplayer.
 
 **Next:** Space Marine batch 30 (50 reviews).
+
+## Notes - round 1199 (Space Marine batch 30)
+
+First unit of the 21:44 firing. Space Marine (2011) batch 30: 50 reviews, 94 bullets (1.88 per review), 4 thumbs down, written 2017-11-28 to 2018-02-14. 17 reviews are 15 words or fewer. No tree change. A crude nickname for Titus in 38555969 is left out.
+
+- **A fan mod:** 38272314 (edited 2020) points to "Space Marine Augmented ... Balance fixes, New content (weapons, perks and armor pieces ...), Anticheat, Advanced profile services, Community events" (filed as mods extending the game; first mention of it in this game).
+- **No wrong way to play:** 37892896 - "does not punish you for picking up 1 play-style and sticking with through the entire game ... There is no wrong answer"; 38072936 (4 found it helpful) - "all of them are viable to finish the game", but on higher difficulty "how accurate the enemies are" pushes you to "take cover when the game wasn't designed for it".
+- **Power without the PvP haircut:** 39041749 - "while other games water down the power of the space marines for PVP balance, this game lets you go crazy with the true power of a space marine".
+- **Too easy, again:** 38555969 - "I picked this up now on hard mode with absolutely no difficulty ... you're pretty much an ultrawoodchipper regardless"; only rocket-heavy open areas feel hard, "more cheese difficulty". Against it, 39335761 (thumbs down) quit at one room of Orks, nobs and exploding squigs and watched a let's play instead.
+- **Where it stops short:** 39747258 - finishers "take too long and the variety is limited"; no dismemberment, so "a full auto rocket launcher ... has the same effect on the enemy as a 5.56 rifle"; wants campaign co-op "rather than useless AI".
+- **Population, early 2018:** 38425827 (45 found it helpful) "you can find full games daily in Versus and Coop"; 39796157 "does not actually take to long to find a match"; but 38533070 "no online activity....at all" and 39689131 "no one plays the multiplayer any more".
+- 38134792 (thumbs down): the Ork machine in the promo pictures is only in the online DLC (reviewer's correction). 39358277: no quick turn.
+
+**Next:** Space Marine batch 31 (50 reviews).
