@@ -15282,3 +15282,13 @@ Ninth unit of the 14:44 firing. Arma 3 batch 45: 50 reviews, 53 bullets (1.06 pe
 - 118872085 recommends joining a clan; 118875978 - "do have need friends".
 
 **Next:** Arma 3 batch 46 (50 reviews).
+
+## Notes - round 1141 (Arma 3 batch 46)
+
+Tenth unit of the 14:44 firing. Arma 3 batch 46: 50 reviews, 55 bullets (1.10 per review), 4 thumbs down, written 2022-07-23 to 2022-09-30. **41 of 50 reviews are 15 words or fewer.** No tree change. 2,300 of 3,270 read.
+
+- **Teaching:** 123089023 - "Many of the Bootcamp and VR Training elements do not work or are almost impossible ... planting explosives or finding enemies"; four hours learning, then no refund. 123101807 - not for the impatient or those unwilling to code.
+- **Fewer players:** 119840425 - "it dosen't have enough players these days"; 121132777 - "Simulator of: 'receiving mission file', 'Waiting for Host' and 'Conection Lost'".
+- 119345350: robbed on Life servers by polite robbers "who helped teach me the keys". Two reviews make crude ethnic jabs, recorded as such.
+
+**Next:** Arma 3 batch 47 (50 reviews).
