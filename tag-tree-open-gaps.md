@@ -15674,3 +15674,16 @@ Eighth unit of the 17:44 firing. Space Marine (2011) batch 7: 50 reviews, 74 bul
 - A jab at young players (2338190) recorded only as such. Short reviews in Portuguese, Russian, Spanish and Chinese (the last: "the boss fights are weak").
 
 **Next:** Space Marine batch 8 (50 reviews).
+
+## Notes - round 1176 (Space Marine batch 8)
+
+Ninth unit of the 17:44 firing. Space Marine (2011) batch 8: 50 reviews, 72 bullets (1.44 per review), 0 thumbs down, written 2013-02-24 to 2013-05-23. 21 reviews are 15 words or fewer. No tree change.
+
+- **A shrinking online side in 2013:** "needs way more people playing it" (4795533), "The Online community is too small" (4412300), "wish i had more friends who played this game" (1160873), "probably dead by now (matchmaking :()" (493837); against "Multiplayer is still up and running" (1468039) and a console player who could "find people ... In ALL the game modes" (3162296, on Xbox 360).
+- **Exterminatus with friends:** 1671057 - "a great challenge to get into with a couple friends"; 4493114 - "PvP Multiplayer and Co-Op Horde Multiplayer modes ... good value for money"; 4891954 - "co-op is fun with friends".
+- **A sound bug:** 4596882 - sound "about 2 seconds slower then the part you play ... for me and allot of others".
+- **Try first:** 3162296 (2 found it helpful) - the demo's two levels "are essentially copied and pasted out of the game"; "a VERY simple control system that'll have you taking on Hordes of Orks in maybe a minute"; the music is "the highlight".
+- **Bomb squigs:** 1062150 - "about 50 of per area ... They will kill you in one or two explosions", plus lifts and doors.
+- 2692313: "you can't choose the map that you want"; 4572264 (edited 2017): "Dead multyplayer, Bad dlc's, Toxic comunity". Short reviews in German, Russian (2) and Spanish.
+
+**Next:** Space Marine batch 9 (50 reviews).
