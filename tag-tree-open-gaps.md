@@ -15350,3 +15350,16 @@ Third unit of the 15:44 firing. Arma 3 batch 51: 50 reviews, 58 bullets (1.16 pe
 - 145873988: performance needs "a CPU handed to you from the gods ... arma 4 where are youuuuuuu"; 148309021 wants GTA V's physics.
 
 **Next:** Arma 3 batch 52 (50 reviews).
+
+## Notes - round 1147 (Arma 3 batch 52)
+
+Fourth unit of the 15:44 firing. Arma 3 batch 52: 50 reviews, 73 bullets (1.46 per review), 5 thumbs down, written 2023-10-23 to 2023-12-31. 32 reviews are 15 words or fewer. No tree change.
+
+- **A fix from round 1145:** 141009992 ("not for me; get this if you like sandboxy shooters") had been filed under the live-ops note for updates adding unwanted content, a wrong pick of constant. Re-homed with `rehome` to the note on who a review is written for; dircheck 0 after. The only other Arma use of that live-ops note (34804196, forced DLC downloads) is correct.
+- **The newcomer's thumbs down:** 150189141 - aiming "zooms instead", missions "spent trying to catch up to your teammates", the UAV controls, and key binding: "changing any of the key bindings requires a programmer ... you cant change the key bindings for character movement!!!" (reviewer's account).
+- **A newcomer's thumbs up:** 150188583 - modded Antistasi is "really fun", official servers didn't work, worth it at 6 euro, still looking for a unit.
+- **Performance:** 149727654 (55 found it helpful) - recommended specs, "28 FPS, no matter what graphics settings".
+- **Content depends on the community:** 149279186 (1,615 hours) - "The content is up to which missions you are able to get your hands on"; their unit's mission makers put out new missions every week. 152611442 - mods needed to look decent take "more space then the actual game".
+- 152612932: the Apple version "basically unplayable"; 153675283: "strategic squad with PUBG looting".
+
+**Next:** Arma 3 batch 53 (50 reviews).
