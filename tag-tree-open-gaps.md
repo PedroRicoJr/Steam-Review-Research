@@ -14897,3 +14897,14 @@ Ninth unit of the 11:44 firing. Arma 3 batch 9: 50 reviews, 78 bullets (1.56 per
 - AI teammates are "like the halo marines" (13748169); enemy AI that "can see through walls" (14001577).
 
 **Next:** Arma 3 batch 10 (50 reviews).
+
+## Notes - round 1105 (Arma 3 batch 10)
+
+Tenth unit of the 11:44 firing. Arma 3 batch 10: 50 reviews, 94 bullets (1.88 per review), 4 thumbs down, written 2015-01-23 to 2015-03-31. 21 reviews are 15 words or fewer. No tree change.
+
+- **Zeus, the game-master mode,** named three more times (14585147, 15026755: "The Zeus addition to the real time editing of scenarios has made this so much better tahn arma 2"); six sightings in three batches.
+- **Read:** community modes (9) and stories from them (6: 14783061, 60 found it helpful - a King of the Hill helicopter ride that ends in one rocket); performance (8); bought at full price just before a half-price sale (3); the tutorials and training section help (3).
+- **Life servers:** 14133673 met no friendly player - "shooting me, tazering me or hancuffing me to sell to another more advanced player"; also "1k commands".
+- **The thumbs down:** 14377315 (under 25 fps for two years, Operation Arrowhead better, $16 for two helicopters, a washed-out sky); 14911599 (frame rates on a GTX 980); 15145669 (bugs and lag); 14134038 (thumb down, text "i like").
+
+**Next:** Arma 3 batch 11 (50 reviews).
