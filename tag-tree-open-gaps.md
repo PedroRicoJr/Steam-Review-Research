@@ -14570,3 +14570,13 @@ Tenth unit of the 08:44 firing (twenty a firing). No reviews read.
 - **Third pace test:** this game is not in the test set (the test set is the first game started at twenty, Andromeda).
 
 **Next:** Sniper Elite: Resistance batch 1 (50 reviews). The third pace test runs after the next firing, the fourth at twenty.
+
+## Notes - round 1068 (Sniper Elite: Resistance batch 1)
+
+Eleventh unit of the 08:44 firing (twenty a firing; outside the third pace test's test set). 50 reviews, 2025-01-31 to 2025-02-07 (the first week after release); 19 thumbs down; 152 bullets; none excluded; 0 Early Access; one review in Portuguese.
+
+**2 modes built (Rule C), for Rico's question about invasions:** `game-design.modes.invading-another-players-mission-is-the-draw` (+), on 187397935 ("Invasion mode is the only mode I can derive joy from"), and `game-design.modes.the-invader-is-kept-short-of-gear` (−), on 187403725 ("a whopping 4 rifles"; the invader "cant pick up medpacks, ammo ..anything..."). `findphrase` found no earlier note about one player entering another's mission. Four reviews in this batch name invading as the draw (186859887 bought the game only for it; 187358082 put all four hours into it); 186860175 calls it "more of a gimmick" once the campaign is done and 187403725 "short time fun" (both under `a-mode-falls-flat`). 187403725 also says corpses despawn, taking the traps set on them for an invader (`wants-bodies-to-stay-as-cover`).
+
+The batch's main verdict is that it is Sniper Elite 5 again: 13 notes say it should have been an add-on to Sniper Elite 5 at a lower price, 8 that it changes too little, and 12 that more of the same is the point. Other points: movement that won't take stairs, ladders or low walls (6), too few multiplayer maps (3 reviews), the propaganda timed missions split (2 like, 2 dislike). 187385522 (975 hours shown) says it was outsourced and that they were blocked on the Steam forum for reporting bugs (reviewer's claims, not checked). One crude remark is recorded only as such; a reviewer's personal details are left out.
+
+**Next:** Sniper Elite: Resistance batch 2 (50 reviews).

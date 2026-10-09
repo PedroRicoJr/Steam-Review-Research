@@ -12811,6 +12811,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1060, Mass Effect: Andromeda batch 31.** Built under Rule C on the first sighting, 230501249: "You can't fly your ship by your own but you can indeed have too much fun". `findphrase` for "fly your ship", "fly the ship", "fly the tempest", "pilot the ship" and "can't fly" found no earlier note.
 
+## Modes added in Sniper Elite: Resistance batch 1 - round 1068 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.invading-another-players-mission-is-the-draw` | **+** | The game lets a player enter another player's mission against the computer as an enemy hunter, and the reviewer counts invading - hunting the other player through their level - as a main reason to play or to buy. **Distinct from `.the-pvp-is-good`** (a separate player-versus-player mode with its own maps; here one player drops into another's mission) and from `.the-pvp-is-what-keeps-it-alive` (a claim about the player base). |
+| `.the-invader-is-kept-short-of-gear` | **−** | The player who invades another player's mission gets a narrow choice of weapons, or cannot pick up the ammunition, healing or items the host can, and the reviewer counts that as unfair or dull for the invader. **Distinct from `game-design.progression.build-and-customisation.shallow-options`** (few build choices in the game as a whole; here only the invader's kit) and from `.invading-another-players-mission-is-the-draw` (whether invading is fun at all). |
+
+🔑 **Round 1068, Sniper Elite: Resistance batch 1.** Built under Rule C on the first sightings: 187397935 ("Invasion mode is the only mode I can derive joy from") and 187403725 ("the Invader loadout choices are extremely limited..like, a whopping 4 rifles", and the invader "cant pick up medpacks, ammo ..anything..."). `findphrase` for "invad" and "invasion" found no earlier note about one player entering another's mission. Rico asked on 2026-10-09 whether players like or hate being invaded; the keyword scan is `findings/sniper-elite-resistance-invasion-scan.md`.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
