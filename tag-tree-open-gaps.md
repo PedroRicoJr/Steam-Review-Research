@@ -15638,3 +15638,15 @@ Fifth unit of the 17:44 firing. Space Marine (2011) batch 4: 50 reviews, 69 bull
 - 3005994: "the endgame where the CPU cheeses you out with lame tactics". Short reviews in German and Russian.
 
 **Next:** Space Marine batch 5 (50 reviews).
+
+## Notes - round 1173 (Space Marine batch 5)
+
+Sixth unit of the 17:44 firing. Space Marine (2011) batch 5: 50 reviews, 80 bullets (1.60 per review), 1 thumbs down, written 2012-07-05 to 2012-09-22. 21 reviews are 15 words or fewer. No tree change.
+
+- **The co-op mode, the main thumbs-down view:** 4089035 - Exterminatus "is really good at first, especially with friends, however it quickly becomes old", and "the difficulty scales schizophrenically ... literally impossible to beat them unless you have a very well coordinated team, and a specific cookie-cutter loadout for your squad"; also "10 dollars for 3 ... maps". Praise continues elsewhere (4088355, 4815641, 5360572, 395321: "the co op exterminatus and multiplayer modes [are] where this one really shines").
+- **Versus balance and levelling:** 4089035 - "all classes and weapons are instead nuclear ICBMs ... a totally-not-copied-from-CoD leveling system"; 2661623 - frustration "at lacking enough levels to finish the rounds"; 75897 - customisation "LOCK[ED] AWAY" behind unlocks while "almost no one plays online".
+- **Peer-to-peer and matchmaking:** 4088355 - "no match making system, it just picks players and shoves them in a game"; 2449016 - P2P lets "people with low end systems and poor internet lag it out for everyone".
+- **Campaign faults named:** checkpoint-only saves (783587, 75897), a difficulty spike two thirds in (783587), lifts as loading screens ("Warhammer 40,000 Elevators", 1772925), a narrow field of view (1199339), slow-motion slowdowns (75897), stuck on the map after an execution (783587).
+- Short reviews in Russian (3), German, Portuguese and Japanese.
+
+**Next:** Space Marine batch 6 (50 reviews).
