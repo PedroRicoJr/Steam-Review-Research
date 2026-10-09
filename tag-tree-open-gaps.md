@@ -15612,3 +15612,16 @@ Third unit of the 17:44 firing. Space Marine (2011) batch 2: 50 reviews, 77 bull
 - 504671: "The end boss is ridiculous". Two short reviews in Russian.
 
 **Next:** Space Marine batch 3 (50 reviews).
+
+## Notes - round 1171 (Space Marine batch 3)
+
+Fourth unit of the 17:44 firing. Space Marine (2011) batch 3: 50 reviews, 108 bullets (2.16 per review), 0 thumbs down, written 2012-02-07 to 2012-04-22. 21 reviews are 15 words or fewer. No tree change (a first draft used a launch-state mode that does not exist; `write_batch` refused it before writing and it was replaced with "needs more work").
+
+- **Exterminatus, the co-op wave mode, is a reason to buy:** 1798579 - "The exterminatus game mode is why I bought Space Marine. Waves and waves of enemies against you and 3 teammates. Pure adrenaline, pure massacre, pure fun"; 318771, otherwise a letdown review - "The only good thing about the game is the late co-op DLC addition: Exterminatus. I only keep going back for that"; 4293784 - "you really feel the pressure of battle when your relying on people you've just met"; 1090803 - "only has a few maps but is a riot when you can pull together a few buds".
+- **Peer-to-peer hurts versus more than co-op:** 2053336 - P2P "isn't such an obstacle in the Exterminatus 4 pl co-op mode", but "spazes out in the 8vs8 pvp modes with multiple host migrations per match, shoddy hit detection or poor match making"; 850398 - "No serverbrowser and no dedicated servers ... switching host every few minutes"; 1090803 - lag "if the host is not on your content (which happens about half of the time)".
+- **Asked for:** a co-op campaign - 1930315: "In singleplayer you are always surrounded with two or more NPCs ... swapping these airheads with real people?"; more factions in multiplayer (3750360, 564801, 318771).
+- **The final boss:** 1324050 - "A quick-time event for a final boss sequence. Not a battle"; 2618173 - "Boss fight was a bit anticlimactic".
+- **Paid add-on split:** 545373 - "The dreadnaught DLC isn't very wide-spread among the playerbase, so you may have a hard time finding a game for it"; 2962353 - updates "add an expensive DLC" instead of fixes.
+- 2612288 (edited 2022): "There are no micro-transactions or non-fungible tokens (NFTs) in this game!" One short review in Italian.
+
+**Next:** Space Marine batch 4 (50 reviews).
