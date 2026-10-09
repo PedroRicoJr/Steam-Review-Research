@@ -14758,3 +14758,9 @@ Eleventh unit of the 09:44 firing (twelve a firing). The last 21 reviews, 2026-0
 Twelfth and last unit of the 09:44 firing (twelve a firing; the firing did 12 units, rounds 1078-1089, including the third pace test in round 1080). `count.py --group sniper-elite-resistance/english` wrote the 22 monthly stats files and the group file: 3,304 reviews counted, 971 read, 1,956 observations (2.0 per review; the count of bullet lines in the 971 summaries is also 1,956). 18 of 22 months are partly read; the heaviest weight is 2025-01 at about x13. Top weighted tags: thumbs up with no reason 10.5%, more of the same is the point 7.7%, should have been an add-on 5.8%, falls short of the studio's earlier games 3.0%, changes too little 2.9%; invading another player's mission is the draw is 11th at 2.1%. No tree change.
 
 **Next:** the English findings page, from `templates/findings-english-page.md`, with Rico's invasion question answered from the full read.
+
+## Notes - round 1090 (Sniper Elite: Resistance English findings page)
+
+First unit of the 10:44 firing (twelve a firing). Wrote `findings/sniper-elite-resistance-english.md` from `templates/findings-english-page.md`: 971 of 3,304 read (±3.02%), 76.1% thumbs up, 1,956 bullets on 199 tags, 6 used in this game only; 109.8 complaints and 88.1 praise per 100 (ratio 0.80); thumbs up by period 72.8% launch, 75.8% spring 2025, 78.4% late 2025, 78.4% 2026. Rico's invasion question answered from the full read: 67 reviews take a side on invasion - 43 praise only, 14 complain only, 10 both; the page closes with 12 Dominion lessons for the bounty-hunter idea. No tree change.
+
+**Next:** the Sniper Elite: Resistance master page, from `templates/findings-master-page.md`.
