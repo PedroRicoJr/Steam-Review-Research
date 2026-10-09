@@ -14824,3 +14824,13 @@ Second unit of the 11:44 firing. Arma 3 batch 2: 50 reviews, 100 bullets (2.00 p
 - `fina3.sh` now passes `--sizes 50xN` to `batch_quality.py`.
 
 **Next:** Arma 3 batch 3 (50 reviews).
+
+## Notes - round 1098 (Arma 3 batch 3)
+
+Third unit of the 11:44 firing. Arma 3 batch 3: 50 reviews, 87 bullets (1.74 per review), all thumbs up, written 2013-08-06 to 2013-10-15 (Beta, then the 2013-09-12 release). 28 reviews are 15 words or fewer. No tree change.
+
+- **Read:** realism is the draw (14); mods and the editor (8; 1691726: the editor lets beginners set up a scenario "without much knowlegde"); play with a group or on coordinated servers (4); the maps are big enough to turn into walking (2).
+- **Complaints from thumbs-up reviews:** 1738038 - little content at release (one jet, copy-and-paste armies), no campaign yet and the promised free campaign DLC awaited, no rocket backblast or bipods, stupid AI; wait for a lower price. 1691726: bad netcode and low frame rates online "doesn't really matter how beefy computer you have". 2555660: it "lost arma feeling" and aims at a wider audience. 6539293: bugs, stupid AI, clunky controls.
+- 708714 says a Metascore of 73 is unfair (the reviewer's figure, not checked). 2647581 leaves out a personal detail; recorded as realism praise only.
+
+**Next:** Arma 3 batch 4 (50 reviews).
