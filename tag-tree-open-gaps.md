@@ -16075,3 +16075,17 @@ First unit of the 23:44 firing. Space Marine (2011) batch 36: 50 reviews, 83 bul
 - 50510965: a Chaos psyker's beam "would lock onto you ... and kill you in 3 seconds flat" (filed as one overtuned enemy). 50243193 claims "passionate developers, free content, no loot boxes" with 0 hours played (reviewer's account; may describe another game). 49831298 (thumbs down): the last boss "isnt even possible on Hard".
 
 **Next:** Space Marine batch 37 (50 reviews).
+
+## Notes - round 1206 (Space Marine batch 37)
+
+Second unit of the 23:44 firing. Space Marine (2011) batch 37: 50 reviews, 79 bullets (1.58 per review), 5 thumbs down, written 2019-05-19 to 2019-08-05. 18 reviews are 15 words or fewer. No tree change.
+
+- **The melee asks for skill:** 50859568 - "You absolutely need to start you combo's before you enemy reaches you ... There's no Arkham/Assassins creed timed combat. You need to crowd control intelligently, kite around mobs ... There are no warnings or prompts". 50933327: heal-by-kill "solves the vulnerability of melee combat", but "Late game melee is hard to justify due to the danger".
+- **Aiming:** 51348866 (thumbs down) - "Look sensitivity changes depending on the depth that the reticle is focused on, making aiming nearly impossible"; also "Just idling for cards".
+- **Population, mid-2019:** 54114699 - "it peaked at 200 players today" (reviewer's figure); 54374785 - "I rarely find a Multiplayer game besides the Horde mode"; 53938064 and 54084764 wish more played.
+- **Windows 10:** 54248767 - never crashed, but "you may need to run the .exe in Windows 7 Compatiblity mode", citing PCGamingWiki (not checked). 54118882 (thumbs down): fixing a small window broke the resolution so the sides are cut off.
+- **Where the humanity is:** 54248767 - "Humans are more endearing ... than in other Warhammer 40K stories, mostly because you meet ordinary Guards and hear reports from medics". 51366358: the Ork warboss "was the best vilian by far, the Caos element felt like it was tacked on".
+- **The fullest thumbs-down this batch:** 54257218 - "Huge empty corridors, an elevator ride, enclosed empty corridors, another elevator ride"; "Friendly AI is brain-dead"; no cover system in "an almost borderline copy of Gears"; points to Inversion instead.
+- More free copies (51071748, 51128654, 54248767, 54374785). 51160924 (74 found it helpful): a checklist rating it "Worth every penny ... Worth playing every year or so".
+
+**Next:** Space Marine batch 38 (50 reviews).
