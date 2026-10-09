@@ -15100,3 +15100,14 @@ Fourth unit of the 13:44 firing. Arma 3 batch 28: 50 reviews, 71 bullets (1.42 p
 - **Over time:** 45548059 says five years of DLC and content made it rich, but the engine shows its age next to Enfusion; 47217434 says the "Make ArmA not War" contest damaged the modding community's openness.
 
 **Next:** Arma 3 batch 29 (50 reviews).
+
+## Notes - round 1124 (Arma 3 batch 29)
+
+Fifth unit of the 13:44 firing. Arma 3 batch 29: 50 reviews, 74 bullets (1.48 per review), 5 thumbs down, written 2019-01-07 to 2019-03-15. 24 reviews are 15 words or fewer. No tree change.
+
+- **The long thumbs down:** 49573340 (297 hours shown) - "a great sandwich, that also happens to have bells hanging from it": CPU-bound performance that falls from 60 to 25 fps once AI join, confusing ballistics, a three-step DLC nag ending in a mid-screen pop-up, desync, clipping into walls and sealed containers, endless keybinds and a mission editor that needs coding - yet "the Community is the most amazing part of this game". It also says the studio emails legal threats to people who edit its code (the reviewer's claim, not checked).
+- **DLC both ways:** 48348336 - £9.99 for three tanks, most DLC needed to enjoy it; 48659330 - "can seem pay to win"; 49142059 - you can still join DLC servers, just not use the DLC gear.
+- **The studio and modders:** 49286593 says its openness to modders "literally help facilitate entire game genres from modders made developers".
+- 49576010 recommends the Pilgrimage mod for single players.
+
+**Next:** Arma 3 batch 30 (50 reviews).
