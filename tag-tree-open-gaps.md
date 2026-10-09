@@ -15535,3 +15535,9 @@ Sixth unit of the 16:44 firing. Arma 3 batch 66: 20 reviews, 27 bullets (1.35 pe
 - 235867819: "100 hours and i still dont know how triggers work in the editor".
 
 **Next:** Arma 3 weighted counts (`count.py`), then the English findings page, master page, cross-game section and DOMINION-TAKEAWAYS entry, from `templates/`.
+
+## Notes - round 1162 (Arma 3 weighted stats)
+
+Seventh unit of the 16:44 firing. `count.py --group arma-3/english` wrote the 164 monthly stats files and the group file: 140,386 reviews counted, 3,270 read, 4,639 observations (1.4 per review; the count of bullet lines in the summaries is also 4,639). All 164 months are partly read; the group file names 2019-11 as the heaviest weight, at about x166. Top weighted tags: thumbs up with no reason 29.9%, a true simulation not an arcade shooter 6.8%, mods extend the game 5.4%, a mod adds a mode the studio never shipped 3.6%, poorly optimised 3.5%, much better with friends 2.5%. The game-master mode (Zeus) is 27th at 0.7% (31 notes). No tree change.
+
+**Next:** the Arma 3 English findings page, from `templates/findings-english-page.md`.
