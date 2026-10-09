@@ -15870,3 +15870,17 @@ Eleventh unit of the 18:44 firing. Space Marine (2011) batch 22: 50 reviews, 116
 - 22636113 (thumbs down): "map DLC keeps me from playing more than one game". 22624949 (1,099 hours): Chaos Unleashed is "the more hardcore of exterminatus". 22838949 (48 found it helpful): Titus can't block, the melta spreads "like a naff shottgunn".
 
 **Next:** Space Marine batch 23 (50 reviews).
+
+## Notes - round 1191 (Space Marine batch 23)
+
+Twelfth and last unit of the 18:44 firing (rounds 1180-1191). Space Marine (2011) batch 23: 50 reviews, 92 bullets (1.84 per review), 7 thumbs down, written 2016-05-22 to 2016-08-07. 20 reviews are 15 words or fewer. No tree change. A crude remark in 23716180 is recorded only as a remark.
+
+- **One re-home from batch 20:** 18478476's "ranged units at the back while melee swarms you" moved from overwhelming numbers to `game-design.enemy-design.ranged-enemies-hit-you-from-anywhere-while-you-are-swarmed`, which says exactly that. Later batches will use it for the same complaint.
+- **Heal-by-execution, again:** 24286246 (thumbs down) - "you STILL TAKE DAMAGE DURING THE ANIMATIONS; most of my deaths came from getting shot, exploded or ganged up on while trying to get some health back ... without a way to block or avoid damage other than the mostly useless combat roll". Against it, 23254189: "You truly feel like an angel of death ... you get health back by murdering enemies".
+- **The finale:** 24443150 (thumbs down) - "Ends with a ... series of QTEs ... why isn't the rest of the game like that? Why save that turd for the finale?" 23716180 (thumbs down): "just one" boss fight, and on hard the AI "doesnt pay attention to you if you're a certain distance away".
+- **Camera:** 23700479 - "the marine take up 1/3 of the screen, and many times will block your view"; also says the source code was lost (reviewer's claim, not checked).
+- **Edited in 2024:** 23413546 describes an "Anniversary Edition" with "all previously released DLC, along with enhanced graphics and improved performance" (reviewer's account; ties to the re-release noted in round 1175).
+- **Newcomers:** 24556783 knew nothing of 40k yet "the world and character design ... really give you a sense of what this universe is like", but was "board after the first hour"; 24146181: "This is what got me interested in WH40K". Filed under works for people new to the source.
+- 24591116 wanted larger scale: "You're usually in a 3 man squad or on your own". 23698251 (thumbs down) found the tone childish.
+
+**Next:** Space Marine batch 24 (50 reviews).
