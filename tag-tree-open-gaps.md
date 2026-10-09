@@ -15413,3 +15413,15 @@ Eighth unit of the 15:44 firing. Arma 3 batch 56: 50 reviews, 61 bullets (1.22 p
 - Two short reviews in Dutch and Croatian.
 
 **Next:** Arma 3 batch 57 (50 reviews).
+
+## Notes - round 1152 (Arma 3 batch 57)
+
+Ninth unit of the 15:44 firing. Arma 3 batch 57: 50 reviews, 76 bullets (1.52 per review), 3 thumbs down, written 2024-11-07 to 2025-01-15. 28 reviews are 15 words or fewer. No tree change.
+
+- **The in-game shop, from a 5-hour player:** 183520833 (thumbs down) - "U wanna pick this weapon up? game stops and opens menu TO BUY dLC ... A WHOLE SCREEN WILL BE COVEREd IN dLC ICON ANd IT WILL CONSTNALY TELL U TO BUY IT", and the main menu tells owners about sales; plus robotic faces, clipping camera, odd animations, and "the first time i see sucha vehicle driving system of including mouse". The pop-up shop complaint now comes from new players in 2024 as it did in earlier years.
+- **The other side of the DLC:** 185058192 (20 found it helpful) - "don't be put off by bohemia's dlc policy ... all those dlcs you see on the store page are completely optional. Most of the good ... is going to be from the workshop"; "you aren't gonna know ... how to play it in your first 200 hours or so".
+- **The editor:** 181180173 - "Creating scenarios to be played with friends is what I enjoy most"; 178565179 - "a really well made scenario creator/editor".
+- **Hardware, both ways:** 178567584 - the best PC "still only get 50 frames"; 184357029 - an i5-6300U laptop with Intel 520 graphics at 20-40 fps.
+- 182847146: "2-4 controls bound to each key, It's hilarious how none of those seem to be 'jump'".
+
+**Next:** Arma 3 batch 58 (50 reviews).
