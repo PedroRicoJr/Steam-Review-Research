@@ -161,6 +161,15 @@ def main():
             for y, m in months(y0, m0):
                 a, b = month_bounds(y, m)
                 n = count(appid, lang, a, b)
+                # A failed or blank answer is asked again before a month is taken as empty:
+                # one silent miss dropped 2021-11 (122 reviews) and another 2012-09 (round 1168).
+                for again in range(2):
+                    if n:
+                        break
+                    time.sleep(3 + again * 3)
+                    n = count(appid, lang, a, b)
+                if n is None:
+                    print("  WARNING: no answer for %s %d-%02d; the month is missing" % (key, y, m))
                 done += 1
                 if n:
                     grid["cells"][key]["months"]["%d-%02d" % (y, m)] = n

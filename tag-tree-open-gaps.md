@@ -15576,3 +15576,13 @@ Twelfth and last unit of the 16:44 firing (twelve a firing; the firing did 12 un
 - **Grid:** slug `space-marine-2011` added to `build_grid.py` (from 2011-09); `build_grid.py --only space-marine-2011 --languages english` is running at the time of this note. Its total, the pull and GAMES-TODO row 25 go in the next round note.
 
 **Next:** finish the Space Marine grid, pull the sample, record the count and margin, add GAMES-TODO row 25.
+
+## Notes - round 1168 (Space Marine (2011): grid fixed, pull done, GAMES-TODO row 25)
+
+First unit of the 17:44 firing. No reviews read.
+
+- **A grid fault, found and fixed:** the first grid (round 1167) summed 20,043 against Steam's 20,164 English. 2021-11 was missing - the month counts 122 - and a rebuild then dropped 2012-09 (37) instead. `build_grid.py` took a failed or blank answer from Steam as an empty month. It now asks twice more before doing so and prints a warning if no answer comes. The third build: **20,165 across 182 months, 2011-09 to 2026-10**, one more than `steam_counts.py 55150` gave earlier in the day. Other games' grids were built before the fix; a check of whether any lost a month is parked as a watch item here, not yet run.
+- **Pull:** `pull_sample.py --only space-marine-2011/english`, planned 3,625 (the floor of 20 a month sets the size), **got 3,566**, all distinct (24.3 min, then 2021-11 added on resume). **Actual margin +/-2.24%** (Rule 12, the `true_moe` formula on the count pulled per month). 19 months returned fewer than 20 (lowest 15; 2026-10, nine days old, 10). The heaviest weight is 2024-09, the month Space Marine 2 came out: 1,184 reviews (5.9% of the group) read through 20, x10.5 the average. Read as pulled under Rico's ruling of 2026-09-04.
+- **Store (read 2026-10-09):** Warhammer 40,000: Space Marine - Anniversary Edition; developer and publisher Relic Entertainment; 2011-09-05; $39.99; genre Action; categories Single-player, Multi-player; 33,644 reviews, 92%, Very Positive.
+
+**Next:** Space Marine batch 1 (50 reviews).
