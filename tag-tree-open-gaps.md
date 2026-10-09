@@ -14929,3 +14929,13 @@ Twelfth and last unit of the 11:44 firing (twelve a firing; the firing did 12 un
 - 17434377 asks for a console game like it.
 
 **Next:** Arma 3 batch 13 (50 reviews).
+
+## Notes - round 1108 (Arma 3 batch 13)
+
+First unit of the 12:45 firing (twelve a firing). Arma 3 batch 13: 50 reviews read, 49 kept and 93 bullets (1.90 per kept review), 3 thumbs down, written 2015-09-07 to 2015-11-15. **1 excluded:** 18647471 describes "thousand enemies", "monsters" and "character progression", none of which Arma 3 has, so it reads as a review of another game; written by hand as not a review of the game before the batch, as `write_batch.py` asks. No tree change.
+
+- **Zeus** described in full by 18939697: "a god mode where someone can edit the map and/or help and/or challenge players ... You get a new game basically every time", with two complaints - its controls are hard to learn, and "sometimes you can just get a troll that wants to make everyone mad". Seventh game-master sighting.
+- **Read:** performance (7); community modes (6); DLC that should have been in the game or is overpriced (4: 17932176 regrets paying for it at all); still $60 two to three years on (3; 17932345 says the price keeps friends out).
+- **Over time:** 18269802 says Apex fixed much of the optimisation and later updates undid it; 18490569 (edited 2023) says the player base has shrunk over ten years and it still runs badly, while waiting for Arma 4.
+
+**Next:** Arma 3 batch 14 (50 reviews).
