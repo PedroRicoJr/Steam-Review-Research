@@ -15187,3 +15187,13 @@ Twelfth and last unit of the 13:44 firing (twelve a firing; the firing did 12 un
 - 71197935 has moved on to Arma Reforger; 73179612 wishes the AI were easier to command; 71767364 says it is good to cheat in.
 
 **Next:** Arma 3 batch 37 (50 reviews).
+
+## Notes - round 1132 (Arma 3 batch 37)
+
+First unit of the 14:44 firing (twelve a firing). Arma 3 batch 37: 50 reviews, 67 bullets (1.34 per review), 7 thumbs down, written 2020-09-07 to 2020-11-15. 35 reviews are 15 words or fewer. No tree change.
+
+- **A shrinking player base:** 76402263 (2,138 hours shown) - good three years ago "when the milsims ... had actual communities", now screaming children, and "the devs have just left this series to die with no sequel in sight"; 76832849 - "dont buy this game now and expect to have more than 2 servers of your desired game mode".
+- **The thumbs down also:** 76040252 - crashes every 15 minutes, PS2-era looks, $10 for vehicles and classes; 79329898 - fun only with friends "the same way I enjoy D&D", with wrong helicopter physics, draining stamina and "the most ridiculous control scheme".
+- **Read:** a mature, welcoming community (3); free mods better than the paid DLC (77620914); "jumping straight into a milsim community was the best this i could've done" (76400925).
+
+**Next:** Arma 3 batch 38 (50 reviews).
