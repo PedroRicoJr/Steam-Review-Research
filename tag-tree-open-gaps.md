@@ -15843,3 +15843,17 @@ Ninth unit of the 18:44 firing. Space Marine (2011) batch 20: 50 reviews, 104 bu
 - 18785856 wanted more fellow Space Marines and war machines on the field. 18634830: Titus is voiced by Mark Strong (reviewer's account).
 
 **Next:** Space Marine batch 21 (50 reviews).
+
+## Notes - round 1189 (Space Marine batch 21)
+
+Tenth unit of the 18:44 firing. Space Marine (2011) batch 21: 50 reviews, 104 bullets (2.08 per review), 3 thumbs down, written 2015-12-23 to 2016-03-07. 16 reviews are 15 words or fewer; one (20866935) is in French. No tree change.
+
+- **No cover, both ways:** 20529176 - "Space Marine removes that entirely. You ARE the cover. You can wade into a mob of enemies, without dying every 3 seconds". 19882839 - "I would have enjoyed a cover system ... my only cover was standing behind some boxes and if I moved at all I would have nothing but rockets in my face" (filed as an expected mode missing).
+- **Ranged enemies make it trial and error:** 20499145 - "toward the halfway point of the game, the game starts to give you many enemies with very powerful ranged weapons. This creates a 'trial and error' type of gameplay loop"; melee "only really get 2 combos ... about 6 -8 [executions] total. You may execute well over 100 enemies".
+- **Versus details:** 20529176 - "gets repedative with the 4 maps (excluding expansions). You also can't choose which side you are on pre-match"; perks behind challenges "brutally difficult without help". 20525312 (thumbs down): "rewarding AFKer's while providing no way to kick them ... aimbots and cheats cover most pvp servers".
+- **Money:** 20525312 - "a rediculous amount of DLC on Day 1 ... completely useless as no one plays it now"; 20692955 - "who ... is going to buy online DLC if there is no-one to play with!?" 21211157 (thumbs down): "Definitely not worth $30".
+- **Wanting more:** 20370547 - "You wont see any other Space Marines until a certain point ... you fight with them for a measly 5 minutes"; also "So. Many. Elevators." 21198031 wanted the jump pack for the whole game.
+- **Dedicated servers wished for:** 19881763 - "It would be great ... if the new owner (SEGA) added in a few dedicated servers". 21323376: a "lazy console port" that lags unless you update your BIOS (reviewer's claim).
+- 21370914: hand-holding for the first quarter, then "insane". 21211157: on normal "enemies will literally run away from you". 21684600 still played regularly after 5 years, "plenty of people on line".
+
+**Next:** Space Marine batch 22 (50 reviews).
