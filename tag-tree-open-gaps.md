@@ -15177,3 +15177,13 @@ Eleventh unit of the 13:44 firing. Arma 3 batch 35: 50 reviews, 67 bullets (1.34
 - 68758549 calls it "the least volatile game community I have come across in years".
 
 **Next:** Arma 3 batch 36 (50 reviews).
+
+## Notes - round 1131 (Arma 3 batch 36)
+
+Twelfth and last unit of the 13:44 firing (twelve a firing; the firing did 12 units, rounds 1120-1131, Arma 3 batches 25-36; two reviews excluded as copypasta). Arma 3 batch 36: 50 reviews, 57 bullets (1.14 per review), 4 thumbs down, written 2020-06-22 to 2020-08-31. **40 of 50 reviews are 15 words or fewer**, so 53% of bullets are bare thumbs up - the lowest note rate of the read, from the reviews' length, not a change in method (`batch_quality.py`; the length-adjusted check belongs to the next pace test). No tree change. The first run was refused for one LOST review (73942992, a one-liner left out of the script); added and rerun, nothing written in between. 1,800 of 3,270 read.
+
+- **Units:** 73942816 - YouTube clips mislead, most of an operation is "driving, Walking or flying and not actual Combat", and finding the right unit is hard; 75237935 - "dont play public servers. join a unit".
+- **Mods carry it:** 74806516 (edited 2026) - without Dynamic Recon Ops, Dynamic Civil War and OPCOM "Arma 3 would be a waste of money"; version 2.20 now uses all your hardware, while creator DLC scenarios are badly optimised.
+- 71197935 has moved on to Arma Reforger; 73179612 wishes the AI were easier to command; 71767364 says it is good to cheat in.
+
+**Next:** Arma 3 batch 37 (50 reviews).
