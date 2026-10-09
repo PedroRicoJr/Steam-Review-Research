@@ -15817,3 +15817,16 @@ Seventh unit of the 18:44 firing. Space Marine (2011) batch 18: 50 reviews, 141 
 - 15935663: Ork voice lines repeat ("Spice Mureen!"), a gamepad is a must. 16219268: the drop-in opening promised freedom, then "just an arena fight, followed by arena fights". 16771244: no skirmish mode for replay.
 
 **Next:** Space Marine batch 19 (50 reviews).
+
+## Notes - round 1187 (Space Marine batch 19)
+
+Eighth unit of the 18:44 firing. Space Marine (2011) batch 19: 50 reviews, 125 bullets (2.50 per review), 4 thumbs down, written 2015-07-22 to 2015-10-07. 20 reviews are 15 words or fewer; one (17542951) is empty. No tree change. Family details in 17178766 are left out.
+
+- **Rocket Orks and the heal-by-execution rule:** 18047300 - the small rocket Orks "activly punish you for going into melee ... the execution animation takes so long for each enemy, that one rocket orc can do aproximatly 110% of your health in about half of the animation"; stuck 3 hours in. 18039917 (thumbs down): "performing the same ... finishing move over and over again to regenerate health is a wearying necessity", and with "no a cover system" you are "obliterated in seconds flat if you aren't constantly leaching enemies for health". 17531356: deaths come from strings of long-range hits near the end.
+- **Peer-to-peer, the clearest case so far:** 18135720 - "the Peer to Peer (P2P) matchmaking system, lifted directly from console games, means you have ridiculous lag and rubber-banding ... 'Waiting For Host' becomes the bane of the game ... my own gaming community ... have pretty much stopped playing it". The same review praises builds that "really make a difference to both the way you play and feel". 17675735 (thumbs down): the Steam copy plays 100-200ms worse online than their retail copy (reviewer's account).
+- **Players thinning out:** 17178766 - "only a few options have a large enough playerbase to be viable"; 17400693 - "dead, atleast 90% of the modes" (reviewer's estimate); 17178202 - "Peek number of player daily is ~300" (reviewer's figure), so "you will spend more time playing only CO-OP mode". 17531356 still found both modes "a really fun time with people still playing as of August 2015".
+- **Final boss:** 17318050 ("a dull sequence of the same QTEs over and over again") and 18135720 ("It's like you've been guided to win").
+- **Sequel:** 18245960 (53 found it helpful), an Ork-speak joke edited in 2022: "Itz da Tyranobs insted?" 18255250: "SEGA PLEASE GIB MOAR".
+- 17305449: met none of the bugs others report; wants Orks or Guard in horde mode, as in Dawn of War II. 17934951: a buggy launch since patched. 18139550: a fan-run chapter league on Xbox 360 (reviewer's account).
+
+**Next:** Space Marine batch 20 (50 reviews).
