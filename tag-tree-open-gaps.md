@@ -15830,3 +15830,16 @@ Eighth unit of the 18:44 firing. Space Marine (2011) batch 19: 50 reviews, 125 b
 - 17305449: met none of the bugs others report; wants Orks or Guard in horde mode, as in Dawn of War II. 17934951: a buggy launch since patched. 18139550: a fan-run chapter league on Xbox 360 (reviewer's account).
 
 **Next:** Space Marine batch 20 (50 reviews).
+
+## Notes - round 1188 (Space Marine batch 20)
+
+Ninth unit of the 18:44 firing. Space Marine (2011) batch 20: 50 reviews, 104 bullets (2.08 per review), 3 thumbs down, written 2015-10-05 to 2015-12-23. 17 reviews are 15 words or fewer. No tree change.
+
+- **The case against the no-cover design:** 18478476 (thumbs down, 8 found it helpful) - "Cover is for ... Space Marine is designed to keep you in the fight. They completely failed on this ... Your shields go down in an instant ... During the cut scenes for the executions, you can (and will) still get hit"; enemies have "unnatural accuracy" and fire through their own allies; fights are "back peddling into corners". 18607693 (thumbs down): "you can get killed during sequence, like WTF!" Against them, 19156681: "the Space Marine has no need for chest high walls", and 19501515: "you feel impressive and overwhelmingly powerful most times. Though the game can at times quickly show you just how mortal you are".
+- **Checkpoints and the finale:** 18478476 - dying puts you "back right before a lengthy cut scene ... Which are unskippable"; the last wave fight is "insanely harder than the last boss", which is "1-1-1, hit space, 1-1-1, hit space. Hit F, cutscene".
+- **Versus is for veterans by late 2015:** 18460585 - "you usually have 1 server running and the players are arond lv40 with most weapon unlocks"; 18476568 - the few left "can kill you blindfolded and the ping is real"; 19170445 - "the guys in there was so powerful I was getting it handed to me".
+- **DLC split, again:** 19891139 - "I shouldn't need to get DLC to play game modes all my friends have"; 18478476 and 19501515 both say skip the DLC.
+- **Enemy variety:** 18354334 ("could use a bit more variety, but they spice it up in the 2nd half"), 19501515 ("mostly the same handful of types"), 19492260 ("fight almost every enemy type within the first fifteen minutes").
+- 18785856 wanted more fellow Space Marines and war machines on the field. 18634830: Titus is voiced by Mark Strong (reviewer's account).
+
+**Next:** Space Marine batch 21 (50 reviews).
