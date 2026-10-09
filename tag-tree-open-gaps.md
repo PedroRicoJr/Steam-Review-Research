@@ -16024,3 +16024,16 @@ Third and last unit of the 21:44 firing (rounds 1199-1201; three units). Space M
 - 42026507 (thumbs down, 23 found it helpful): a black screen on every start after the first; "SEGA customer service does not support it anymore ... STEAM refused a refund" (reviewer's account). 43199644 says it would have given a neutral rating if Steam allowed one.
 
 **Next:** Space Marine batch 33 (50 reviews).
+
+## Notes - round 1202 (Space Marine batch 33)
+
+First unit of the 22:44 firing. Space Marine (2011) batch 33: 50 reviews, 84 bullets (1.68 per review), 9 thumbs down, written 2018-07-19 to 2018-10-07. 17 reviews are 15 words or fewer; 43950495 is in French. No tree change. Crude remarks in 44497275, 44497810 and 45009069 are recorded only as remarks.
+
+- **The free giveaway of September 2018:** several reviews say the game was given away: 44621334 - "there are people playing mutiplayer right now because it was just free for a few weeks"; 44618106 - "now that it's free the playerbase has been revived!"; 45009565 "got this beautifull game on day free"; 44615750, 44497654; and Humble Bundle copies (44497694, 44622800, 45019444). These are the reviewers' accounts, not checked. Filed under trying it because it was free and under a healthy population.
+- **Achievements:** 43952728 (96 found it helpful) - "Approximate amount of time to 100%: 80 hours ... Multiplayer achievements: Yes, Really Grindy ones"; the Chaos Invasion DLC's "Heretic" achievement is "almost impossible even with a crew of 4" because "Almost nobody plays the DLC".
+- **Versus as a low level, 2018:** 44172792 (thumbs down) - "constant host migration ... the server finding potential games and refusing to connect"; higher levels "win nine times out of ten"; kills "credited to a higher-ranked ally ... Because of this it is impossible to unlock weapon perks"; "hacking is rife". The "toxic community" bullet was moved after the write from the fanbase mode to the player-conduct parent.
+- **Difficulty that changes the genre:** 44497275 (thumbs down) - on easy and medium "you can rush in the crowds ... because you heal it off", on hard you must "play tactically like it's a cover shooter", with no cover mechanics (filed as badly scaled difficulty).
+- **Clarity:** 44733417 (thumbs down) - "the camera zooming in and out of geometry or particles obscuring the view ... a button smashing exercise". 44871091: "too much ammo - making it more scarce would have added drama".
+- 44750284 (thumbs down): "Every time the protagonist said 'Out of fuel' a puppy died"; wants more all-marine battles like chapter 16. 44102979: "Shame you can't direct your squad".
+
+**Next:** Space Marine batch 34 (50 reviews).
