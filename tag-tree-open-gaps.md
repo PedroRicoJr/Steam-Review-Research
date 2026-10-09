@@ -15547,3 +15547,9 @@ Seventh unit of the 16:44 firing. `count.py --group arma-3/english` wrote the 16
 Eighth unit of the 16:44 firing. Wrote `findings/arma-3-english.md` from `templates/findings-english-page.md`: 3,264 of 140,386 read (±2.00%), 90.7% thumbs up, 4,639 bullets on 236 tags, 4 used in this game only; 37.5 complaints and 97.4 praise per 100 (2.6 praise to each complaint; only Crab Champions, Deep Rock Galactic and Alien Swarm have fewer complaints per 100). Thumbs up by period 98.0% (2013), 89.6%, 88.0%, 91.5%, 91.5%, 91.1% (2025-2026). Three stories: Zeus, the game-master mode (31 notes, 35 reviews name it, no complaints about the idea); the paid add-ons, pop-ups, split servers and the 2026 subscription (111 reviews, 63 of the 305 thumbs down); and a game carried by mods and player groups. **Checked against the store (2026-10-09):** "Subscribe to the Arma 3 Pass ... $8.99 / month", and the base game "includes the Apex and Contact expansions". The page closes with 12 Dominion lessons, the first three about a player who directs the enemy side. No tree change.
 
 **Next:** the Arma 3 master page, from `templates/findings-master-page.md`.
+
+## Notes - round 1164 (Arma 3 master page)
+
+Ninth unit of the 16:44 firing. Wrote `findings/arma-3.md` from `templates/findings-master-page.md`: the division table, the top 25 complaints and praise with a plain-words column, and the finding - a game that hands players the tools to run it for each other lasts over a decade, as long as it doesn't charge them to play together (Zeus praised in 31 notes with no complaint about the idea; fan-made modes 171; against servers split by add-ons 21, locked gear 36, pop-ups 25 and the 2026 pass 6). No tree change.
+
+**Next:** cross-game section 37 (Arma 3) in `findings/cross-game.md`, from `templates/cross-game-section.md`.
