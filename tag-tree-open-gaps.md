@@ -15339,3 +15339,14 @@ Second unit of the 15:44 firing. Arma 3 batch 50: 50 reviews, 65 bullets (1.30 p
 - 140124789 is written in Arabic (a lovely game, but you need people with you).
 
 **Next:** Arma 3 batch 51 (50 reviews).
+
+## Notes - round 1146 (Arma 3 batch 51)
+
+Third unit of the 15:44 firing. Arma 3 batch 51: 50 reviews, 58 bullets (1.16 per review), 3 thumbs down, written 2023-08-07 to 2023-10-15. 42 reviews are 15 words or fewer, the most of any Arma batch so far, which is why notes per review are low. No tree change.
+
+- **The paywall, from a newcomer:** 147382101 (thumbs down, under an hour) - "So I have to spend $100+ just to play this game? All servers require pretty much every expansion pack to play ... RIP OFF!" (reviewer's account of the servers); 144288428 - "one of the best shooters ever, i dont like that the dlcs exist though".
+- **Stuck at the start:** 146361284 - "Can't get beyond the training"; 146360372 - "no server found and i cant use mods"; 144292343 - hours to get the mic working, then advises a fun group before a serious one (a crude jab at the serious ones).
+- **Mods as the fix:** 146351007 - "you'll have to be very forgiving ... either that or mod the heck out of it - and it seems the majority of the community has done the latter".
+- 145873988: performance needs "a CPU handed to you from the gods ... arma 4 where are youuuuuuu"; 148309021 wants GTA V's physics.
+
+**Next:** Arma 3 batch 52 (50 reviews).
