@@ -12830,6 +12830,16 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1069, Sniper Elite: Resistance batch 2.** Built under Rule C on the first sighting, 187314581: "I find Axis Invasion really fun, no matter what end of it I end up being" (filed on both sides). Its negative mirror - being invaded too often, or not wanting it at all - is not built until a review says it.
 
+## Modes added in Sniper Elite: Resistance batch 4 - round 1071 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.the-invaded-player-has-the-upper-hand` | **−** | In a game where one player can invade another's mission, the reviewer says the host is given what the invader cannot match - an ability that shows enemies through walls, a sense of where the invader is, time to trap the map first - so the fight is tilted against the invader. **Distinct from `.the-invader-is-kept-short-of-gear`** (the invader's own kit is thin; here the host's tools are the problem) and from `community.player-conduct.cheaters-spoil-matches` (an advantage from cheating, not from the rules). |
+| `.being-invaded-is-unwelcome` | **−** | The reviewer does not enjoy another player entering their own mission as an enemy - it is unfair, too frequent, gets in the way of finishing, or simply not wanted. **The negative mirror of `.being-invaded-by-another-player-is-fun`.** |
+
+🔑 **Round 1071, Sniper Elite: Resistance batch 4.** Built under Rule C on the first sighting, 188446767: the invader lost the options "to tech for damage", "tipping the balance ultimately towards the allied player with their legal wallha... sorry, focus ability", and "It's not fun as an invader, and not fun as an allied player". `findphrase` for "focus ability", "wallhack" and "upper hand" found no earlier note about a host's advantage over an invader.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

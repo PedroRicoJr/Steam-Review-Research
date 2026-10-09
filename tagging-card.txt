@@ -2010,3 +2010,5 @@ game-design.world-interaction.you-cannot-pilot-your-own-ship | - | The game give
 game-design.modes.invading-another-players-mission-is-the-draw | + | The game lets a player enter another player's mission against the computer as an enemy hunter, and the reviewe
 game-design.modes.the-invader-is-kept-short-of-gear | - | The player who invades another player's mission gets a narrow choice of weapons, or cannot pick up the ammunit
 game-design.modes.being-invaded-by-another-player-is-fun | + | Another player can enter the reviewer's own mission against the computer as an enemy hunter, and the reviewer 
+game-design.modes.the-invaded-player-has-the-upper-hand | - | In a game where one player can invade another's mission, the reviewer says the host is given what the invader 
+game-design.modes.being-invaded-is-unwelcome | - | The reviewer does not enjoy another player entering their own mission as an enemy - it is unfair, too frequent

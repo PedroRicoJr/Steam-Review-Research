@@ -14598,3 +14598,13 @@ Thirteenth unit of the 08:44 firing (twenty a firing; outside the third pace tes
 **No modes built.** On the invasions: 187867920 found Axis Invasion "really fun. You get to infiltrate someone else's campaign and try to kill them, cat-and-mouse style"; 187835218 explains why the maps suit invading - Dead Drop has vantage points, close quarters and tunnels, so the host can take objectives in any order and the invader must work out where they are, where SE5's first map let the invader "fairly easily guess where someone was" (filed under `well-built`); 187877976 calls it "somewhat fun" but hurt by the smaller weapon roster (`the-invader-is-kept-short-of-gear`); 187901177 tried it and it was not for them; 187816550 (340 found it helpful, the most so far) says it returns "in an almost identical form" and that multiplayer has cheaters despite Denuvo (reviewer's account). The rest repeats the first weeks: 12 notes say it should have been SE5 DLC, 9 that more of the same is fine, 5 that it changes too little; empty maps with too few enemies, easy, braindead AI. One political remark about a future setting is recorded only as that.
 
 **Next:** Sniper Elite: Resistance batch 4 (50 reviews).
+
+## Notes - round 1071 (Sniper Elite: Resistance batch 4)
+
+Fourteenth unit of the 08:44 firing (twenty a firing; outside the third pace test's test set). 50 reviews, 2025-02-11 to 2025-02-21; 12 thumbs down; 120 bullets; none excluded.
+
+**2 modes built (Rule C):** `game-design.modes.the-invaded-player-has-the-upper-hand` (−) and `game-design.modes.being-invaded-is-unwelcome` (−), both on 188446767 (7 found it helpful): the invader lost the options "to tech for damage" (no trench gun, "KAR98K is a DLC"), "tipping the balance ultimately towards the allied player with their legal wallha... sorry, focus ability", and "It's not fun as an invader, and not fun as an allied player". Other invasion points: 188390746 bought it for invasion mode after watching videos; 188367443 (1,200 invasion kills in SE5) says Harry's constant talk lets an invader overhear the host.
+
+Paid extras arrive in this batch: 188367857 (146 found it helpful) objects that the M1911 and Kar98k, already in SE5, are locked as DLC, and refunded; 187742179 (81 found it helpful) calls a $35 season pass "a slap in the face" and says they beat the game on medium in 39 minutes (reviewer's account); 188367443 that rifle mods sit behind DLC - 3 notes in all under `content-behind-a-second-purchase`. 188315420 (258 found it helpful) lists it as unfinished: missing mechanics, story, cinematics and animations, recycled faces and placeholder-quality music. 7 notes say it should have been SE5 DLC.
+
+**Next:** Sniper Elite: Resistance batch 5 (50 reviews).
