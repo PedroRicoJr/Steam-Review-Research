@@ -14834,3 +14834,13 @@ Third unit of the 11:44 firing. Arma 3 batch 3: 50 reviews, 87 bullets (1.74 per
 - 708714 says a Metascore of 73 is unfair (the reviewer's figure, not checked). 2647581 leaves out a personal detail; recorded as realism praise only.
 
 **Next:** Arma 3 batch 4 (50 reviews).
+
+## Notes - round 1099 (Arma 3 batch 4)
+
+Fourth unit of the 11:44 firing. Arma 3 batch 4: 50 reviews, 83 bullets (1.66 per review), 1 thumbs down, written 2013-10-22 to 2013-12-31 (after release, as the campaign episodes began). 23 reviews are 15 words or fewer. No tree change.
+
+- **Read:** realism is the draw (16); mods, the Workshop and the editor (12); a heavy machine needed (7: "Nothing on Earth can run this game", 7958886; 16-20 fps on a good mid-range PC, 7957938); better than Arma 2 (6); best with friends or a group (6); the first campaign episode, Survive, praised for its story and its pacing ("when a mortar hits nearby, it actually has impact because they are not being spammed", 7590299).
+- **Launch state:** 7958055, 7957938 and 8061333 say it came out of beta short of vehicles and weapons and felt unfinished. The one thumbs down, 8056631, says a December update brought bugs, crashes and high ping.
+- 7719455 (1,988 hours shown, edited from 2013 to 2025) tracks the game over time: smooth at first, then "low performing, buggy, storage hogging, memory leaking" by 2016, then multi-threading added in later updates.
+
+**Next:** Arma 3 batch 5 (50 reviews).
