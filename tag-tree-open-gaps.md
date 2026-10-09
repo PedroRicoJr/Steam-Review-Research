@@ -15425,3 +15425,15 @@ Ninth unit of the 15:44 firing. Arma 3 batch 57: 50 reviews, 76 bullets (1.52 pe
 - 182847146: "2-4 controls bound to each key, It's hilarious how none of those seem to be 'jump'".
 
 **Next:** Arma 3 batch 58 (50 reviews).
+
+## Notes - round 1153 (Arma 3 batch 58)
+
+Tenth unit of the 15:44 firing. Arma 3 batch 58: 50 reviews read, 49 kept and 63 bullets (1.29 per kept review), 3 thumbs down, written 2025-01-23 to 2025-03-31. 37 reviews are 15 words or fewer. No tree change.
+
+- **1 excluded:** 188986349 is the "this game saved my life" copypasta. A search of the samples found the same text ("the fruits of my 'labor'") word for word in Back 4 Blood, Earth Defense Force 5 and Mass Effect 3. Nothing in it is about Arma 3, so it is written by hand as not a review, as with the two Arma copypastas in rounds 1120 and 1126. (In those three other games it was summarised at face value; that is left alone here and noted for whoever next reviews copypasta handling.)
+- **A player's rules:** 190308156 (10 found it helpful) - "Learn what is meaning of getting ARMA'ed", "90% of the studders and fps losses are server related" (reviewer's claim), "Definetly BUY DLC: Apex, JETS, TANKS, HELICOPTERS and MARKSMEN".
+- **DLC price:** 188437776 (thumbs down, 1 hour) - "200 eur for dlc".
+- **Waiting:** 188435987 - "if you don't mind spending two hours on the loading screens"; 191685553 - 1,000 hours without multiplayer, "the best milsim right until Arma 4"; 186257238 - "Still better than reforger".
+- **Why a returning player came back:** 186852956 - after War Thunder and Enlisted, wants "slower play where thinking out weighs memorizing maps/keybinds"; plays without friends. One review in Ukrainian.
+
+**Next:** Arma 3 batch 59 (50 reviews).
