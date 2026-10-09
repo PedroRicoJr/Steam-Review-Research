@@ -14590,3 +14590,11 @@ Twelfth unit of the 08:44 firing (twenty a firing; outside the third pace test's
 The first week's verdict holds: 6 notes say it should have been an add-on to Sniper Elite 5, 6 that it changes too little, 9 that more of the same is fine, 4 that it reuses SE5's assets. Too little content in 5 notes, mostly the multiplayer's three or four maps (187312727, 8 found it helpful: "three little maps for 16 people"). 187319681 lists what the campaign lacks: "Way too few Germans", no tanks, turrets or machine-gun nests, about three enemy snipers, and paths that "paths like a train"; it also finished the Hitler DLC in 16 minutes (reviewer's account). 187338039 crashes to desktop after 5-10 minutes and is past the refund limit. One jab at the cast's diversity is recorded only as that.
 
 **Next:** Sniper Elite: Resistance batch 3 (50 reviews).
+
+## Notes - round 1070 (Sniper Elite: Resistance batch 3)
+
+Thirteenth unit of the 08:44 firing (twenty a firing; outside the third pace test's test set). 50 reviews, 2025-02-13 to 2025-02-14; 17 thumbs down; 116 bullets; none excluded. The first dry run was refused because 187884248 was LOST; it was added and the batch passed.
+
+**No modes built.** On the invasions: 187867920 found Axis Invasion "really fun. You get to infiltrate someone else's campaign and try to kill them, cat-and-mouse style"; 187835218 explains why the maps suit invading - Dead Drop has vantage points, close quarters and tunnels, so the host can take objectives in any order and the invader must work out where they are, where SE5's first map let the invader "fairly easily guess where someone was" (filed under `well-built`); 187877976 calls it "somewhat fun" but hurt by the smaller weapon roster (`the-invader-is-kept-short-of-gear`); 187901177 tried it and it was not for them; 187816550 (340 found it helpful, the most so far) says it returns "in an almost identical form" and that multiplayer has cheaters despite Denuvo (reviewer's account). The rest repeats the first weeks: 12 notes say it should have been SE5 DLC, 9 that more of the same is fine, 5 that it changes too little; empty maps with too few enemies, easy, braindead AI. One political remark about a future setting is recorded only as that.
+
+**Next:** Sniper Elite: Resistance batch 4 (50 reviews).
