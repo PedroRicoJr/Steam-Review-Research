@@ -15699,3 +15699,16 @@ Tenth unit of the 17:44 firing. Space Marine (2011) batch 9: 50 reviews, 82 bull
 - 1410057: "I wish relic had supported it more"; 291439 misses it on OS X. Short reviews in Portuguese (2), German and Korean.
 
 **Next:** Space Marine batch 10 (50 reviews).
+
+## Notes - round 1178 (Space Marine batch 10)
+
+Eleventh unit of the 17:44 firing. Space Marine (2011) batch 10: 50 reviews, 78 bullets (1.56 per review), 0 thumbs down, written 2013-08-02 to 2013-11-15. 17 reviews are 15 words or fewer. No tree change.
+
+- **By late 2013 versus is dead, co-op survives with friends:** 7391145 - "The multiplayer community for this game is basically dead. But if you round up some friends, you can play the co-op invasion mode, which is a lot of fun. Just make sure to go into the bonus round knowing that you'll probably not survive"; also 2860092, 932748, 7486372, 7338664 ("killed by peer to peer connection").
+- **Co-op as the newcomer's door:** 2057129 - latecomers "expect a lot of boots from online matches ... expect to be the cannon fodder. I suggest leveling your online stats in the co-op maps first as those players are a bit more forgiving"; 5000069 - Exterminatus "can get brutal in the later stages and requires good teamwork to even survive".
+- **How healing works, in detail:** 2057129 - "your shields regenerate if you dont get hit for a few seconds, your health can only regen if you perform a Melee execution, most enemies need to be stunned first"; ammo boxes are single-use.
+- **Versus balance:** 7324493 - "ASM/Raptor > Everything, Devestator/Havoc < Everything".
+- **Bosses:** 7425192 - "a horrible QTE boss fight"; 7594622 - "some of the boss battles are really lousy"; 254170 remembers only the last boss on hard.
+- 136269: many own it from the Humble Bundle. 5043501 (50 found it helpful): "Relic really loves this universe, and it shows". Short reviews in Russian (2), French, Portuguese, Italian and Finnish.
+
+**Next:** Space Marine batch 11 (50 reviews).
