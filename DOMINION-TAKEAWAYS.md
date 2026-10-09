@@ -1,4 +1,4 @@
-<!-- reviewed: 2026-10-07 | status: active | one entry per finished game, written from templates/dominion-takeaways-entry.md -->
+<!-- reviewed: 2026-10-09 | status: active | one entry per finished game, written from templates/dominion-takeaways-entry.md -->
 
 # Dominion takeaways — what every game we read teaches
 
@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Mass Effect: Andromeda | 2026-10-09 | 70.9% |
 | Mass Effect 3 (2012) | 2026-10-07 | 75.5% |
 | Palworld | 2026-10-07 | 93.6% |
 | LORT | 2026-10-07 | 80.7% |
@@ -158,6 +159,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | LORT | fantasy co-op runs, up to eight, Early Access | 80.7% | 102.5 | 81.7 | 1.25 : 1 | 2.05 | section 32 |
 | Aliens: Fireteam Elite | licensed co-op, players connect to each other | 81.3% | 124.6 | 141.8 | 0.88 : 1 | 2.94 | section 19 |
 | Back 4 Blood | four-player co-op, paid | 69.2% | 118.0 | 137.2 | 0.86 : 1 | 2.63 | section 19 |
+| Mass Effect: Andromeda | third-person sci-fi story game with open worlds and a four-player co-op wave mode, needs the EA app | 70.9% | 105.9 | 147.0 | 0.72 : 1 | 2.65 | section 35 |
 | The First Descendant | free third-person sci-fi looter, Unreal Engine 5 | 64.5% | 83.6 | 122.2 | 0.68 : 1 | 2.37 | section 25 |
 | Rogue Core (Deep Rock Galactic spin-off) | co-op runs, same studio as Deep Rock | 70.3% | 117.2 | 193.2 | 0.61 : 1 | 3.26 | section 19 |
 | Immortal: Unchained | single-player soulslike third-person shooter | 64.6% | 133.1 | 217.7 | 0.61 : 1 | 4.10 | section 19 |
@@ -1130,6 +1132,175 @@ reviews said.
 ---
 
 # The games
+
+## Mass Effect: Andromeda
+
+**Read:** 1,585 of 11,214 English reviews (14.1%; none left out), ±2.51%, written June 2020 to October
+2026 - from its Steam release to now. **70.9% thumbs up** in the sample (Steam, all languages: 74%,
+*Mostly Positive*). **Pages:** `findings/mass-effect-andromeda-english.md`,
+`findings/mass-effect-andromeda.md`, `findings/cross-game.md` section 35.
+
+**What it is:** a third-person sci-fi shooter with role-playing, the follow-up to the Mass Effect trilogy:
+a new hero, Ryder, leads a squad of three to find homes for colonists in another galaxy, with open
+planets, a six-wheeled vehicle (the Nomad) and a separate online co-op wave mode for up to four. Made by
+BioWare, published by Electronic Arts; first out in 2017, on Steam since 2020-06-11; $39.99 (checked
+2026-10-09), and it needs EA's own app to run. The Deluxe Edition's store text sells multiplayer booster
+packs. Who hosts the co-op is not on the store page; one reviewer says it is peer to peer.
+
+**How close to Dominion:** the co-op mode is close - four players, third person, sci-fi, waves of the
+game's own enemies. The combat (jump jets, dashes, powers) is close to what Dominion wants to feel like.
+The rest is a long story game with open worlds, not runs.
+
+### The short version (plain words)
+Players judge it against the three older games first: 213 times it was said to fall short of them, and
+187 times that it was judged unfairly. The combat is what people keep - praised 127 times, often by people
+who dislike the rest. The writing is what people leave over: of 461 thumbs down, the most common named
+reasons are falling short of the trilogy (88), flat characters and dialogue (81), the EA app (51) and a
+thin story (45). It is a game people buy on sale (110 times said). Its co-op mode is barely noticed: 56 of
+1,585 reviews mention it.
+
+### What players praised, most to least
+1. **It is better than its reputation** - 187. "This game has historically been almost criminally
+   underrated." (104847426, 56 found it helpful).
+2. **Great combat** - 127. "Amazing combat mechanics - melee and biotics make you feel like a freakin
+   superhero!" (232254261).
+3. **A good story** - 126; **likeable companions** - 119 (Drack, Vetra, Jaal and Peebee are named).
+4. **Worlds worth exploring** - 106; **looks great** - 75.
+5. **Free, deep builds** - 75: any power on any class, switchable profiles.
+6. **Patched into shape** - 64. "Facial animations are the only biggest letdown ... but most of them have
+   been fixed since the horribleness of release launch" (135783659, 121 found it helpful).
+7. **As good as the trilogy** - 55; **wants a sequel** - 55.
+8. **Plenty to do** - 42; **keeps coming back** - 26; **choices matter** - 26; **mods make it better** - 24.
+9. **Loves the Nomad** - 19; **jump jets and dashes feel good** - 22; **the co-op mode is good** - 19;
+   **likes the romances** - 19; **the ending works** - 18.
+
+### What players complained about, most to least
+1. **Worse than the trilogy** - 213 (88 thumbs-down reviews). "every time I do a quest I am reminded how
+   much weaker the writing is than the other 3 games" (229192970, 16 found it helpful).
+2. **Flat characters and cringe dialogue** - 134 (81 thumbs-down reviews); **the game talks too much** - 19.
+3. **Buy it only on sale** - 110.
+4. **Stiff, dead faces** - 98, mostly in the first year.
+5. **A thin, predictable story** - 90 (45 thumbs down); **story threads never resolved** - 48.
+6. **Buggy** - 80; **bugs that stop a quest or fight** - 34; **crashes** - 24; **lost saves** - 20.
+7. **Choices change nothing** - 79. "There is one ending" (231754651, 44 found it helpful).
+8. **Side quests are fetch errands** - 72; **repetitive** - 41; **quests send you planet to planet and
+   back** - 39; **content stretched to fill hours** - 30.
+9. **It needs Origin or the EA app** - 70 (51 thumbs down); **it won't start** - 25.
+10. **Travel scenes and cutscenes can't be skipped** - 48.
+11. **Reused places, enemies and plots** - 35; **clumsy menus** - 34; **old favourites missing** (the Mako,
+    old races, the power wheel) - 28; **can't command the squad** - 16; **three powers on the bar is too
+    few** - 19.
+
+Thumbs down show a median of 16 hours played; thumbs up 48.
+
+### How it changed over time
+- **Steam launch (June-August 2020):** 82.1% up. The faces at their worst (16.1 per 100 reviews) and the
+  missing favourites (10.7).
+- **Before the Legendary Edition (September 2020-April 2021):** 77.3% up; faces 11.9 per 100.
+- **2021-2022:** 75.5% up; faces down to 5.9; "patched into shape" peaks at 6.4 per 100.
+- **2023 to mid-2025:** 66.9-68.3% up.
+- **Late 2025-2026:** 65.5% up.
+
+The notes per review changed during the read (about 3.0, then 2.3, then 3.5 by batch), so only the thumb
+and the bigger swings above are read as real changes.
+
+### Co-op and online play
+- **Barely mentioned:** 56 of 1,585 reviews; 19 single it out, 9 say it still has players, 3 that it is
+  dead.
+- **Like Mass Effect 3's:** "If you were a fan of ME3 MP, you'll won't find much novelty" (205495146, 18
+  found it helpful); "fewer waves and monotonous missions" (94745289).
+- **Hosting (one reviewer's account, 95276834):** peer to peer, so friends far apart lag; dead enemies
+  linger and players teleport back; "Communicating with server" on every menu action, such as fitting a
+  weapon mod; no hard cover to reset your position on the host.
+- **Finding a game:** "only 2 other people online in about 5 hours" (206804915, 2025); new players avoid
+  veterans and veterans play only with friends, so lobbies stay empty (178574192, 1,643 hours shown).
+- **Tie-ins:** single-player strike teams earn multiplayer rewards without playing it (206804915); a phone
+  app once ran them (113911607).
+
+### Combat, movement and feel
+- The best-liked part (127): jump jets, dashes, biotics, mixing powers from every class.
+- Cover is automatic: 10 say it lets you down, 6 that it works.
+- Only three powers on the bar (19); reload and weapon swap share a button (217283500); the dodge can
+  throw you off cliffs (217283500); no squad commands (16).
+- The Nomad is loved (19) and handles badly for 11: "It feels good to drive until you inevitably spin out"
+  (235313103).
+
+### Enemies, bosses and difficulty
+- Too few enemy types and the same animals on every planet (15); bullet sponges on high settings (9);
+  too easy (9).
+- No one-on-one fight with the main villain (236652903). Two reviewers say enemies scale with your level,
+  so side quests give nothing (231754651, 232827869; not checked).
+
+### Progression, loot, randomness and grind
+- Deep builds and profiles (75) against shallow (12). One reviewer says letting any class use anything
+  "kills replayability" and the point of classes (230497936).
+- Crafting and research feel useless to some; gear rarity is fixed per gun type (221458305).
+
+### Runs, content and replay value
+- Not built on runs. Plenty to do (42) against empty errands (72), repetition (41), back-and-forth trips
+  (39) and padding (30). The vault puzzles wear thin (13). One reviewer says 30-40 hours is enough (235197927).
+
+### Money and price
+- Buy on sale (110); reviewers say it is often under $10 (235313103, 231157410); too high (15) against fair (13).
+
+### Tech: performance, crashes, bugs
+- Bugs (80), bugs that stop play (34), crashes (24), lost saves (20), long loads (10); well optimised (15)
+  against poorly (13). Saving is blocked in missions and vaults (9).
+- The EA app: "Game has been rendered unplayable due to EA turning off Origin and forcing me to update to
+  the EA Play app" (135252166, 459 found it helpful - the most-voted review in the sample); Origin's cloud
+  saves wiped 20 hours for 111709783. Not checked against EA.
+
+### The studio, updates and community
+- Patches fixed the worst (64), then stopped: one reviewer says the last single-player update came four
+  months after release (221423344, not checked); 21 say known bugs remain. Mods fill gaps (18) and add to
+  it (24). Reviewers blame EA's deadline.
+
+### What players asked for
+A sequel or the missing DLC (55); the quarians and their ark; the power wheel and squad commands back;
+choices that carry weight; a way to skip travel scenes (48); no EA app.
+
+### Only in this game
+- **Choices that change nothing** - 79 times, first named in this game.
+- **The vault puzzles wear thin** - 13; **the cover system lets you down** - 10, **works well** - 6.
+- **Every menu action waits on the server** (95276834); **a phone app plays part of the game** (113911607);
+  **you cannot fly your own ship** (230501249) - 1 each.
+- First of 29 large games on falling short of the studio's earlier games (13.3 of every 100 reviews), on
+  stiff faces (6.2), on empty errands (4.5) and on scenes that cannot be skipped (3.0).
+
+### For Dominion - our reading
+1. **Fast third-person movement with powers is what lasts.** 127 praise the combat, 2nd of 29 games,
+   including many who dislike the rest. Make Dominion's dash, jump and powers the first thing that feels
+   finished. *Strong.*
+2. **Let players mix builds, but give every class something only it can do.** 75 praise free builds; one
+   says open profiles make classes pointless. *Medium.*
+3. **Never put a launcher, a login or a server wait between the player and the game or its menus.** 70
+   object to the EA app, 25 could not start it; one reviewer says every co-op menu action waited on the
+   server. *Strong.*
+4. **On a listen server, choose hosts close to the players.** Peer-to-peer hosting lagged friends who
+   were far apart (95276834). *Medium.*
+5. **Keep veterans and newcomers in one pool.** Lobbies emptied when each side avoided the other
+   (178574192). *Weak.*
+6. **No errands, no padding, no back-and-forth.** First of 29 on all three (72, 30, 39). Every objective in
+   a Dominion run should be short and part of the run. *Strong.*
+7. **Let players skip any scene, especially travel.** 48 complaints, first of 29. *Medium.*
+8. **Get the faces and animation right before launch; players remember.** 98 complaints, 16 per 100 at
+   the start. *Medium.*
+9. **Never lose a save to cloud sync.** 20 lost saves. *Strong.*
+10. **Don't invite comparison with a beloved older game.** First of 29 on falling short of earlier games;
+    the argument lasted six years. *Medium* (lesson 16 across games).
+11. **A co-op mode beside a story game gets ignored.** 56 of 1,585 mention it. Dominion's co-op is the game
+    itself, so this is a warning against splitting it into a side mode. *Weak.*
+
+### Limits
+- 14.1% of English reviews, ±2.51%; periods ±4.8% to ±13.1%; June 2020 is read at ×13.
+- The notes per review changed during the read; per-100 changes over time are read with care.
+- 120 reviews (7.6%) were edited later and are counted on the day first written.
+- Checked: the store facts (BioWare, Electronic Arts, 2020-06-11, $39.99 on 2026-10-09, Online Co-op). Not
+  checked: EA's launcher change, the last patch date, peer-to-peer hosting, server waits, the co-op
+  population, level scaling, the phone app, the cut DLC.
+- Jabs are recorded only as "a crude jab" or "a crude remark".
+
+---
 
 ## Mass Effect 3 (2012)
 
