@@ -15511,3 +15511,15 @@ Fourth unit of the 16:44 firing. Arma 3 batch 64: 50 reviews, 57 bullets (1.14 p
 - 226894940: "The editor is the greatest gift for those with a god-complex"; 227450381 finds the editor the hardest part. Short reviews in Polish and Indonesian.
 
 **Next:** Arma 3 batch 65 (50 reviews).
+
+## Notes - round 1160 (Arma 3 batch 65)
+
+Fifth unit of the 16:44 firing. Arma 3 batch 65: 50 reviews, 71 bullets (1.42 per review), 6 thumbs down, written 2026-07-07 to 2026-09-15. 29 reviews are 15 words or fewer. No tree change. Personal remarks in 229876537, 232924559 and 234186397 left out. 231734698 is song lyrics only, kept as an unknown thumbs up as the corpus does elsewhere (e.g. 97633277, 45808268).
+
+- **A buyer's guide (101 found it helpful):** 232914868 - "This game is truly not for everyone - It takes several hours if not hundreds just to get into all of the controls"; vanilla comes with East Wind, tutorials, showcases "(Including Art of War and Zeus which were added for free)"; some mods need creator DLC (S.O.G. for Vietnam, Western Sahara); recommends the Ultimate edition; on the subscription: "Son..... You better not....". The fifth sighting of the new subscription mode.
+- **The DLC wall for a newcomer:** 229886256 (thumbs down) - "many times when I found a mission, weapon, vehicle, or aircraft that looked interesting ... I was immediately greeted with a 'Buy this DLC to access it' message"; also "the lack of proper explanation of the mechanics".
+- **Mod size:** 234196605 - "base game 30 gb mods 200 gb"; 232299410 - installing mods "blue screened my PC, and than uninstalled it self TWICE" (reviewer's account).
+- **A long fan review:** 233542929 - the showcases "provide an excellent way to get used to the aspects of the game", "the quickplay function is completely broken", "the best $30 you ever spent".
+- 230554370 compares the editor's learning curve with Reforger's game master; 234186397: "sat on a truck at a checkpoint for an hour ... the best combo of moments in gaming". One review in Spanish.
+
+**Next:** Arma 3 batch 66 (20 reviews, the last).
