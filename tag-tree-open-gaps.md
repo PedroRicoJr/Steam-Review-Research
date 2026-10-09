@@ -14939,3 +14939,13 @@ First unit of the 12:45 firing (twelve a firing). Arma 3 batch 13: 50 reviews re
 - **Over time:** 18269802 says Apex fixed much of the optimisation and later updates undid it; 18490569 (edited 2023) says the player base has shrunk over ten years and it still runs badly, while waiting for Arma 4.
 
 **Next:** Arma 3 batch 14 (50 reviews).
+
+## Notes - round 1109 (Arma 3 batch 14)
+
+Second unit of the 12:45 firing. Arma 3 batch 14: 50 reviews, 74 bullets (1.48 per review), 5 thumbs down, written 2015-11-22 to 2016-01-31. 22 reviews are 15 words or fewer. No tree change.
+
+- **Read:** community modes (8) and stories from role-play servers (7: drug runs, car thefts, a 40-player riot in Kavala Square); the game is lame or thin without mods (2: "If it wasn't for mods though it would be pretty lame", 20884002); fewer vehicles than Arma 2 (2).
+- **The thumbs down:** 20385879 - picking up a scope from paid DLC brought a pop-up, then a full-screen DLC logo every few minutes; they will never play again. 20713369 - no official servers or war modes, online is role-play "GTA meets 2nd life", a battle needs a closed community. 19717198 - a global anti-cheat ban with no reason given (the reviewer's account). 19398123 - still lags after years. 19556455 - thumb down, text praising.
+- 19891273 bought it for a MacBook, where it would not run.
+
+**Next:** Arma 3 batch 15 (50 reviews).
