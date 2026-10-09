@@ -16011,3 +16011,16 @@ Second unit of the 21:44 firing. Space Marine (2011) batch 31: 50 reviews, 102 b
 - 40442216: budget cuts "Favouring P2P hosting instead of dedicated servers" and "meant to be 3 instalments" (reviewer's account, not checked). 40447184: no bots and no one-on-one duel invites. 41471939 (thumbs down): mission chores - "Open the doors, open the clampers ... get grease for the cogs".
 
 **Next:** Space Marine batch 32 (50 reviews).
+
+## Notes - round 1201 (Space Marine batch 32)
+
+Third and last unit of the 21:44 firing (rounds 1199-1201; three units). Space Marine (2011) batch 32: 50 reviews, 102 bullets (2.04 per review), 12 thumbs down, written 2018-05-03 to 2018-07-22. 12 reviews are 15 words or fewer. No tree change. A crude remark in 43551554 is recorded only as a remark.
+
+- **The Anniversary Edition arrives (July 2018, by the reviews):** 43369658 (edited 2021) - "The Anniversary Edition isn't any kind of graphical remaster ... They've just shoved in the DLC which is just for multiplayer and tripled the price", though owners got it "as a free upgrade"; "maybe 250 players on a good day" (reviewer's account and figure). 43688934 (thumbs down, edited 2026): "slapping a new name on an old game and making ZERO changes ... 40 ... dollars". Ties to round 1175's re-release note and 40876842 in round 1200.
+- **The weapon rules, in full:** 42090414 - "there's clear 'best' guns ... the shotgun ... only 10 ammo ... the Lascannon ... only 15", while the pistol and bolter must stay; "you have to pick between using the best melee weapon or the best ranged weapons", yet stronger enemies need a higher-tier melee weapon to finish. 42558301 - the game "will often provide you with the mighty thunder hammer, close the door behind you, autosave, and then force you into a sniping section with only your pistol and bolter".
+- **Finishers, again and again:** 42090414 ("about 3 basic animations ... they don't prevent you from taking damage ... you only recover the health at the end"), 43199644 (thumbs down; "you're a sitting duck"), 43636256 (thumbs down; "don't kill us in the middle of the execution animation making us feel like the worthless whelps"), 41969096 and 43551554. 42362538 and 41969096 still like what it does to pacing: low health "forces you to play agressive".
+- **Movement and camera:** 43199644 - the roll is blocked by dying enemies and "A knee height barrier out of sandbags", and the camera is "so zoomed in that you can't see anything below your waist". 43551554 (thumbs down) - the camera "often gets stuck ... If you have Epilepsy, DO NOT GET THIS" (filed under the flashing warning for photosensitive players).
+- **Squigs and lasguns:** 42558301 - exploding squigs "Completely ruins the illusion of being an ultra-powerful space marine"; 43385172 - late lasgun swarms "will shred you" though in lore they're "a slingshot against plate mail".
+- 42026507 (thumbs down, 23 found it helpful): a black screen on every start after the first; "SEGA customer service does not support it anymore ... STEAM refused a refund" (reviewer's account). 43199644 says it would have given a neutral rating if Steam allowed one.
+
+**Next:** Space Marine batch 33 (50 reviews).
