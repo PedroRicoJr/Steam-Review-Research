@@ -15376,3 +15376,16 @@ Fifth unit of the 15:44 firing. Arma 3 batch 53: 50 reviews, 68 bullets (1.36 pe
 - 158926162 (2,366 hours) back on Linux through Proton: "Arma 3 is a toolkit more than it is a game". Two reviews in Russian.
 
 **Next:** Arma 3 batch 54 (50 reviews).
+
+## Notes - round 1149 (Arma 3 batch 54)
+
+Sixth unit of the 15:44 firing. Arma 3 batch 54: 50 reviews, 61 bullets (1.22 per review), 7 thumbs down, written 2024-03-23 to 2024-05-31. 35 reviews are 15 words or fewer. No tree change. One review mentions a family member; left out of the bullet.
+
+- **Old bugs and crashes:** 162955146 (880 hours, thumbs down) - "some of the day one bugs FROM THE ALPHA (like randomly starting to hover inside buildings) still haven't been patched", performs horribly, "only alive because of community missions and mods"; 161298985 - "my earphones running out of battery crashed the game", tabbing out crashes it.
+- **DLC:** 163935871 - "Unplayable without overpriced DLC. Instead of fixing the game, developers push out broken DLCs."
+- **Mac:** 163409114 - on Apple Silicon the native app "can not use ... and play with others online. It does not work. I have tested this." (reviewer's account).
+- **Units again:** 162957436 - "find a unit, only way to play this game"; 165934114 - friends plus a recent Liberation mission.
+- **Size:** 165930972 - "only if you have like 3 drives worth of space".
+- 161918525 gives a path in: "play eden editor then play scenarios then try milsim then addicted".
+
+**Next:** Arma 3 batch 55 (50 reviews).
