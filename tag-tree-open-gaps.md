@@ -14969,3 +14969,13 @@ Fourth unit of the 12:45 firing. Arma 3 batch 16: 50 reviews, 73 bullets (1.46 p
 - 23316892 likes a visual update ahead of the Tanoa map (Apex); 23442964 says Life role-play servers have no "community spirit".
 
 **Next:** Arma 3 batch 17 (50 reviews).
+
+## Notes - round 1112 (Arma 3 batch 17)
+
+Fifth unit of the 12:45 firing. Arma 3 batch 17: 50 reviews, 66 bullets (1.32 per review), 7 thumbs down, written 2016-07-07 to 2016-09-15 (after the Apex expansion, July 2016). 30 reviews are 15 words or fewer. No tree change.
+
+- **DLC and Apex:** 24341889 - DLC items placed in the game that you can't use until you pay; 24768564 - "if you dont have apex then good luck trying to play the game"; 25513762 - the full game with DLC costs far more than the sale price. 24942674 found the Apex edition worth $50 on sale.
+- **The thumbs down also:** 24767230 - "ugly to the core", soldiers like toy figures; 24941694 - died from a 5 cm fall in a co-op mission; 25101334 - a coded insult at the studio; 24342815 - thumb down, text "decent game".
+- **Read:** friends or a group (7); mods (8); "Arma physics" again (3).
+
+**Next:** Arma 3 batch 18 (50 reviews).
