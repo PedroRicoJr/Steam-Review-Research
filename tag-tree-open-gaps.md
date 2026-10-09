@@ -16062,3 +16062,16 @@ Third and last unit of the 22:44 firing (rounds 1202-1204; three units). Space M
 - 49415430: a perfect flank wiped by "a guy with Meltagun". 48986279: plays on an AMD APU with 4GB RAM. 49261581: bought all the DLC and can't find it (reviewer's account). 49081392 (thumbs down): "big room kill ..., next room, kill it ... a cut scene every other room".
 
 **Next:** Space Marine batch 36 (50 reviews).
+
+## Notes - round 1205 (Space Marine batch 36)
+
+First unit of the 23:44 firing. Space Marine (2011) batch 36: 50 reviews, 83 bullets (1.66 per review), 6 thumbs down, written 2019-03-06 to 2019-05-23. 13 reviews are 15 words or fewer. No tree change.
+
+- **A newcomer lever in versus:** 50731507 - "the game maintains balance by allowing you to copy the loadout of whoever killed you for your next death. This is very useful and keeps you from feeling like you'll never be able to get kills or level up" (filed under newcomers keeping up with veterans). Against it, 50146184 (13 found it helpful): "Clans dominate the Multiplayer scene", some weapons overpowered, the peer-to-peer host search "always trying to find a better host even though the original host was better", and "not protected by VAC".
+- **Doom before Doom:** 49708020 - finishers "which is the only way to replenish life, the no bulls***t straightforward arena-like gameplay ... very different of the 'cover-hiding/regenerating-health' shooters of it time"; "not perfect only because you don't drive the Titan". 49915673: "Doom Eternal at home".
+- **Price rise:** 49512500 (thumbs down, edited 2024) - "This was down to like 5 bucks at one point. The price was raised once space marine 2 was announced. Predatory behaviour" (reviewer's account; ties to the Anniversary Edition notes in rounds 1201 and 1203).
+- **Co-op scope:** 50639259 - "the COOP doesn't allow you to play the missions together only survival game mode".
+- **Will not start:** 50411461 (thumbs down), 50130203 ("keeps closing as soon as it starts up").
+- 50510965: a Chaos psyker's beam "would lock onto you ... and kill you in 3 seconds flat" (filed as one overtuned enemy). 50243193 claims "passionate developers, free content, no loot boxes" with 0 hours played (reviewer's account; may describe another game). 49831298 (thumbs down): the last boss "isnt even possible on Hard".
+
+**Next:** Space Marine batch 37 (50 reviews).
