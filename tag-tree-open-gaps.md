@@ -15001,3 +15001,14 @@ Seventh unit of the 12:45 firing. Arma 3 batch 19: 50 reviews, 73 bullets (1.46 
 - 28884477 notes there is no female character.
 
 **Next:** Arma 3 batch 20 (50 reviews).
+
+## Notes - round 1115 (Arma 3 batch 20)
+
+Eighth unit of the 12:45 firing. Arma 3 batch 20: 50 reviews, 77 bullets (1.54 per review), 9 thumbs down, written 2017-02-21 to 2017-04-30. 25 reviews are 15 words or fewer. No tree change. 1,000 of 3,270 read.
+
+- **Hosting your own game:** three reviews (30379208, 31472307, 30692100). 30692100 calls hosting for friends "a NIGHTMARE": UPnP, or a static IP and manual port forwarding, about two hours of research, and it gets in the way of Apex co-op. For Dominion, built on one player hosting, this is the cost of a hard-to-host listen server.
+- **Zeus:** 30529477 runs a 50-player military-sim group with three Zeus players and says Zeus is harder than fighting on the field. Ninth game-master sighting.
+- **DLC:** 31472148 (11 found it helpful) - "basically a 'BUY OUR DLC' simulator" from prompts on picking up guns or flying; 31475284 - paying twice the price for what Operation Flashpoint included; 30693275 and 30693659 - Apex and DLC should be in the game.
+- **The thumbs down also:** 31004096 - AI shown where it isn't, "a small pebble rips apart your tank"; 30247497 - lobbies that told them to go away and a black screen; 30860606 - sarcasm about low-end hardware.
+
+**Next:** Arma 3 batch 21 (50 reviews).
