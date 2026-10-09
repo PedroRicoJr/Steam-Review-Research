@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Sniper Elite: Resistance | 2026-10-09 | 76.1% |
 | Mass Effect: Andromeda | 2026-10-09 | 70.9% |
 | Mass Effect 3 (2012) | 2026-10-07 | 75.5% |
 | Palworld | 2026-10-07 | 93.6% |
@@ -159,6 +160,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | LORT | fantasy co-op runs, up to eight, Early Access | 80.7% | 102.5 | 81.7 | 1.25 : 1 | 2.05 | section 32 |
 | Aliens: Fireteam Elite | licensed co-op, players connect to each other | 81.3% | 124.6 | 141.8 | 0.88 : 1 | 2.94 | section 19 |
 | Back 4 Blood | four-player co-op, paid | 69.2% | 118.0 | 137.2 | 0.86 : 1 | 2.63 | section 19 |
+| Sniper Elite: Resistance | third-person stealth sniping, two-player co-op, other players can invade your mission | 76.1% | 88.1 | 109.8 | 0.80 : 1 | 2.01 | section 36 |
 | Mass Effect: Andromeda | third-person sci-fi story game with open worlds and a four-player co-op wave mode, needs the EA app | 70.9% | 105.9 | 147.0 | 0.72 : 1 | 2.65 | section 35 |
 | The First Descendant | free third-person sci-fi looter, Unreal Engine 5 | 64.5% | 83.6 | 122.2 | 0.68 : 1 | 2.37 | section 25 |
 | Rogue Core (Deep Rock Galactic spin-off) | co-op runs, same studio as Deep Rock | 70.3% | 117.2 | 193.2 | 0.61 : 1 | 3.26 | section 19 |
@@ -1132,6 +1134,210 @@ reviews said.
 ---
 
 # The games
+
+## Sniper Elite: Resistance
+
+**Read:** 971 of 3,304 English reviews (29.4%; none left out), ±3.02%, written January 2025 to October
+2026 - from release to now. **76.1% thumbs up** in the sample (Steam, all languages: 75%, *Mostly
+Positive*). **Pages:** `findings/sniper-elite-resistance-english.md`, `findings/sniper-elite-resistance.md`,
+`findings/cross-game.md` section 36.
+
+**What it is:** a third-person stealth sniping game set in occupied France in the Second World War. A
+British agent, Harry Hawker, works with the French Resistance through eight open missions. The whole
+campaign can be played with one friend; Survival takes up to four players against waves; there are
+player-versus-player modes; and **Axis Invasion** lets another player enter your mission as an enemy sniper
+to hunt you. Made and published by Rebellion; released 2025-01-30 (Deluxe early access from 2025-01-28);
+$49.99 (checked 2026-10-09); reviewers name paid weapon packs and a season pass. Reviewers say it runs on the same
+engine as Sniper Elite 5. Who hosts the co-op is not on the store page.
+
+**How close to Dominion:** third person, guns, and co-op with a friend. **Rico picked it for one thing:
+another player can join your mission to hunt you, the model for his idea of a bounty hunter who joins a
+Dominion run.** It has no runs, no extraction and no four-player campaign.
+
+### The short version (plain words)
+Players like the invasions. Of 67 reviews that take a side, 43 only praise them, 14 only complain and 10 do
+both; 42 play to invade and 14 enjoy being hunted, against 6 who don't want it. The complaints are about
+fairness - the hunted player sees too much, clears and traps the map first, or quits - not about the idea.
+The rest of the game is judged as an add-on to Sniper Elite 5: 105 times it was said it should have been
+one, and 63 of 232 thumbs-down reviews give that reason. Fans forgive it for the same reason: 153 times
+"more of the same" was said as praise. Many call it too easy and too empty.
+
+### What players praised, most to least
+1. **More of what they liked** - 153. "Great, like the others" (237116711).
+2. **Good, open level design** - 62. "the maps are much better for invading" (187835218).
+3. **Invading other players is why they play** - 44 times, in 42 reviews. "Invasion mode is the only mode I
+   can derive joy from" (187397935); "Went 20-0 in invasions until missing the kill shot on a duo"
+   (235363863).
+4. **Looks great** - 41; **great shooting and slow-motion kill cam** - 37.
+5. **Play loud or quiet** - 26. "Play your way: loud or stealthy, hide bodies or let them raise alarms"
+   (235793222).
+6. **Fun with a friend** - 25.
+7. **Few bugs** - 17; **likes Harry's one-liners** - 16; **a good story** - 16.
+8. **Being hunted is fun** - 14. "the panic in those first few invasions really can force you to take the
+   loud route" (188845339); "It will force you to pay attention to every detail of your visual and sound
+   environments" (195423507, 32 found it helpful).
+9. **Wants this game in another war or era** - 14; **plenty to do** - 13; **the best sniper game** - 13.
+10. **Many guns and options** - 11; **a slow, relaxing game** - 10; **the multiplayer is fun** - 10; **the
+    DLC is worth it** - 9.
+
+### What players complained about, most to least
+1. **Should have been Sniper Elite 5 DLC** - 105 (63 thumbs-down reviews give it as a reason). "A glorified
+   DLC dressed as a full game" (235303173).
+2. **Worse than Sniper Elite 5 or 4** - 53; **too little is new** - 49; **reused maps, guns and menus** - 47.
+3. **Buy it only on sale** - 42; **too pricey** - 24.
+4. **Too short** - 41: eight missions plus a short ninth, few multiplayer maps.
+5. **Buggy** - 35, mostly at launch; **bugs that stop a mission** - 21.
+6. **Dumb enemies** - 33. "Enemies never use the alarms" (236461811). **Too easy** - 30, even on the
+   hardest setting; **too few enemies** - 16; **small maps that need stealth more than sniping** - 25.
+7. **A thin story** - 26; **a dull or annoying hero** - 14; **weak voice acting** - 17.
+8. **A mode falls flat** - 25, mostly the timed propaganda missions.
+9. **Clumsy climbing, ladders and vaulting** - 20.
+10. **The hunted player has the upper hand** - 20 times, in 15 reviews (see co-op below).
+11. **Old favourites missing** - 19: Karl as a voiced lead, shooting tank crews through their visors.
+12. **Paid guns already in the last game** - 18. "lock the M1911 & the Kar98k as DLC ... These weapons were
+    already in the game, ripped directly from SE5" (188367857, 146 found it helpful).
+13. **Cheaters in player-versus-player** - 17.
+
+Hours shown on the review: median 20.9; thumbs down 15.2, thumbs up 22.8.
+
+### How it changed over time
+- **Launch (January-February 2025):** 72.8% up; 141.8 complaints per 100 reviews. Bugs 8.9 per 100; the
+  add-on complaint 16.1; "changes too little" 8.5.
+- **Spring 2025:** 75.8% up; complaints 103.9 per 100.
+- **Late 2025:** 78.4% up; complaints 86.5. Paid content complaints peak at 3.4 per 100.
+- **2026:** 78.4% up; complaints 90.0. Bugs about 1 per 100; the add-on complaint 7.4.
+- **The invasion praise holds** from 4.1 per 100 at launch to 5.2 in 2026. **The invader's complaint about
+  the host's edge grows** from 0.9 per 100 at launch to 2.4-2.8 after, as hosts learn to camp.
+- Praise stays flat at 63-67 per 100. Two reviewers say no update has come since mid-2025 (214700790,
+  224448342; not checked).
+
+### Co-op and online play
+- **The campaign plays with one friend** (25 say it is better that way); Survival takes four.
+- **Invasions - Rico's question.** 67 reviews take a side: 43 praise only, 14 complain only, 10 both. A
+  hand scan of all 3,304 reviews before the read found the same lean (130 like, 29 dislike, 24 mixed).
+  - **The hunted player sees too much** (15 reviews): a focus ability shows the hunter "through walls" and
+    gives "a sense of direction" (188687204, 202707573).
+  - **Hosts clear and trap the map first** - invasions start only after set objectives, so the hunter
+    faces one or two players and no soldiers to hide among (194280585, 1,304 hours shown). "75% of the games
+    you join are people who cleared the map and set hundreds of traps everywhere" (212479232, 66 found it
+    helpful; the reviewer's estimate). Co-op pairs camp harder.
+  - **The hunter is short of gear** (6): "A whopping 4 rifles", and the hunter "cant pick up medpacks, ammo
+    ..anything.." (187403725).
+  - **Hunters come one after another** (6 who find it unwelcome): "As soon as I killed one invading sniper,
+    another invasion would start almost immediately" (229873500).
+  - **Hosts quit to rob the hunter** (2): "50% of the time you invade someone they either just save&quit or
+    die before you can kill them" (188728825, the reviewer's estimate).
+  - **Hunting a pair is the fun part:** a duo hunt "is peak", a solo hunt "fairly boring and often one
+    sided" (188700759).
+  - **Settings, by reviewers' account:** invasions can be set "on / invite only / off" (212489988); campers
+    who stay in one place "get punished" (220131240), though another calls that "laughable" (215934628).
+- **Player-versus-player** is weaker: few maps, short-range maps that suit small guns (229110661),
+  cheaters (17), vote-kicks used against strong players (188191689, 202707573), lag (208571211), a lobby
+  that sends you back to the one you left 5-10 times (208571211).
+
+### Combat, movement and feel
+- The shooting and slow-motion kill cam are praised (37); the kill cam repeats, and its setting only
+  changes how often it plays (235311886).
+- Pistols and small guns are too strong ("Pistol Elite", 205535721).
+- Climbing, vaulting, stairs and ladders let players down (20); automatic cover snags on corners and the
+  controller has a large dead zone (187749877).
+
+### Enemies, bosses and difficulty
+- Weak enemy AI (33): no one uses alarms, enemies come one by one down the same path, targets grab a gun
+  and hunt you instead of fleeing (236461811).
+- Too easy (30), even on Authentic, the hardest setting: "even Authentic shows two white aiming stripes"
+  (233037207). Too few enemies (16); enemies that see through leaves and walls (several).
+
+### Progression, loot, randomness and grind
+- Workbenches must be found on each map to unlock weapon parts (several complaints); all useful skills are
+  unlocked by halfway (224328195).
+- Ammo, explosives and medkits are everywhere, so nothing is scarce and loadout choices stop mattering
+  (236461811, 235311886).
+
+### Runs, content and replay value
+- No runs. Eight missions plus a short ninth; "too little" (41). Some missions reuse others' maps (235793222,
+  230793530). Repetitive (15).
+
+### Money and price
+- Should have been DLC (105), buy on sale (42), too pricey (24), paid guns and a season pass (18); fair
+  only at sale prices (several). The paid G43, MP40, STG44 and P08 can be used in invasions but not in the
+  campaign loadout (218894849).
+
+### Tech: performance, crashes, bugs
+- Bugs (35) and mission-stopping bugs (21), mostly at launch: a weapon stuck reloading forever
+  (236344585), a replay with no satchel charges to finish a mission (235793222), an enemy made invisible by
+  a checkpoint reload (235311886). Many objective markers are broken (236449430).
+- Denuvo: crashes, or a character that kept moving 7-10 seconds after a key was released in co-op until it
+  was removed (206666503; the reviewer's account).
+
+### The studio, updates and community
+- Outsourcing claims, a reviewer blocked on the forum for reporting bugs (187385522), and no update since
+  mid-2025 (214700790, 224448342) - all the reviewers' account, not checked.
+
+### What players asked for
+- **For invasions:** possible from the start of a mission (194280585); invasion phones that show only a
+  rough direction (190207281); a shorter, wider anti-camping timer, limits on traps, and strikes for
+  repeat trap-mappers (212479232); a way to avoid such hosts (215934628); text, nearby voice or death
+  messages between hunter and hunted (188845339); a choice of solo or pair hunts, and a 2-versus-2
+  campaign mode (188700759, 190207281).
+- **For the game:** a new war or era (14: the Pacific, the Eastern Front, Vietnam, Korea, the Cold War);
+  more enemies and real difficulty; Karl back as a voiced lead; the paid guns free.
+
+### Only in this game
+- **Another player hunting you inside your mission** - the only game in the study with it. 42 play to
+  invade, 14 enjoy being hunted, 15 say the hunted side has the edge, 6 say the hunter is short of gear, 6
+  find it unwelcome, 2 say hosts quit to rob the hunter. Six new kinds of note were made for it.
+- First of 30 large games on "should have been an add-on" (10.8 of every 100 reviews, ten times the next
+  game), "more of the same is the point" (15.8), "changes too little" (5.0), reused assets (4.7), stealth as
+  a way to play (2.7) and small levels (2.6).
+
+### For Dominion - our reading
+These are suggestions for **Rico's bounty-hunter idea** and the rest of Dominion, drawn from the reviews.
+1. **Build the bounty hunter: players want this.** 42 reviews play to invade, 14 enjoy being hunted,
+   against 6 who don't want it; the praise holds for two years. *Strong.*
+2. **Keep an off switch and an invite-only setting.** The game has "on / invite only / off"; the 6 who
+   find it unwelcome want it off. Consider leaving it off for a player's first runs. *Strong.*
+3. **Space the hunters out.** "As soon as I killed one invading sniper, another invasion would start almost
+   immediately." Give the squad a quiet spell after beating a hunter. *Medium.*
+4. **Balance what each side can see, not just their guns.** The hunted side's wall vision is the top
+   fairness complaint (15 reviews). Whatever lets the squad see enemies should not show the hunter, or the
+   hunter should get the same. *Strong.*
+5. **Let the hunter in while the run is live.** Invasions that start only after objectives let hosts clear
+   and trap the map first. Let Dominion's hunter join mid-run, with the AI enemies still there as cover.
+   *Strong.*
+6. **Give the hunter a real kit and let them pick up supplies.** Four rifles and no pickups are named (6).
+   *Medium.*
+7. **Reward the hunter even if the squad quits or dies to the AI.** Reviewers estimate half or more of
+   invasions end with nothing. *Medium.*
+8. **Make anti-camping bite, and limit traps against hunters.** Trap-mapping hosts are the invaders' most
+   common complaint; a squad of four would camp harder than a pair. *Strong.*
+9. **Balance the hunter for a group.** Hunting a pair "is peak", a lone player "boring and often one
+   sided"; against four players the hunter needs more lives, AI help, or a goal like stealing the squad's
+   loot rather than wiping them. *Medium.*
+10. **Let hunter and squad talk.** Players ask for text, nearby voice or death messages. *Weak.*
+11. **Anti-cheat that works, and never one that breaks co-op.** Cheaters are 2nd of 30 games here (17
+    notes), and a few say the anti-cheat caused crashes or co-op lag. A hunter mode raises the cost of
+    both. *Medium.*
+12. **Never sell guns that were already in the game.** The paid M1911 and Kar98k draw the sharpest money
+    complaint (146 found it helpful). *Medium.*
+13. **A follow-up that reuses the last game's maps and menus is judged as an add-on.** First of 30 on that
+    complaint by ten times. If Dominion ever gets a sequel, it needs something plainly new. *Medium.*
+14. **Make the hardest setting truly hard, with enemies that react.** Too easy (30) and dumb enemies (33),
+    from the series' own fans. *Medium.*
+15. **Keep supplies scarce enough that choices matter.** Ammo and explosives everywhere made loadouts
+    pointless (2 detailed reviews). *Weak.*
+
+### Limits
+- 29.4% of English reviews, ±3.02%; periods ±5.5% to ±7.3%; January 2025 is read at ×13.
+- Read at two paces (twenty a firing, then twelve); notes per review run about 2.2 and 1.9.
+- 66 reviews (6.8%) were edited later and are counted on the day first written. 436 of 971 reviews are 15
+  words or fewer.
+- Checked: the store facts (Rebellion, 2025-01-30, $49.99, PvP and online co-op, the Axis Invasion text).
+  Not checked: every invasion figure reviewers give (75% trap maps, 50% quits), the invasion settings, the
+  anti-camping system, Denuvo's effects, outsourcing, forum bans, the last update date.
+- Invasions here hunt one or two players; how a hunter fares against four is not in these reviews.
+
+---
 
 ## Mass Effect: Andromeda
 
