@@ -15553,3 +15553,11 @@ Eighth unit of the 16:44 firing. Wrote `findings/arma-3-english.md` from `templa
 Ninth unit of the 16:44 firing. Wrote `findings/arma-3.md` from `templates/findings-master-page.md`: the division table, the top 25 complaints and praise with a plain-words column, and the finding - a game that hands players the tools to run it for each other lasts over a decade, as long as it doesn't charge them to play together (Zeus praised in 31 notes with no complaint about the idea; fan-made modes 171; against servers split by add-ons 21, locked gear 36, pop-ups 25 and the 2026 pass 6). No tree change.
 
 **Next:** cross-game section 37 (Arma 3) in `findings/cross-game.md`, from `templates/cross-game-section.md`.
+
+## Notes - round 1165 (cross-game section 37: Arma 3)
+
+Tenth unit of the 16:44 firing. Appended section 37 to `findings/cross-game.md` from `templates/cross-game-section.md`. One Python pass over every `raw/*/english/summaries/*/[0-9]*.md` (excluded reviews skipped; 41 groups, 31 with 300+ kept reviews) gave thumbs up, bullets per review, praise and complaints per 100 and the share of reviews carrying each mode; it matches `findings_tables.py` for Arma 3 (97.4 / 37.5) and Sniper Elite: Resistance (88.1 / 109.8). Arma 3 is 13th of 31 by praise to complaint (2.60 : 1) and 1st of 31 on the simulation, game-master, mod, fan-made-mode, player-group, making-tools, poorly-optimised, demanding-hardware, too-many-buttons and harmless-bugs modes; 2nd on pop-up storefronts, locked content and add-ons not worth it. Corpus now 41 games, 50,454 English summaries (51,216 in all).
+
+**A correction to round 1163:** the English page said only three games have fewer complaints per 100 than Arma 3. The pass shows eight (lowest Risk of Rain 2, 18.0; R.E.P.O., 18.6; Crab Champions, 18.7); the page now says so. No tree change.
+
+**Next:** the Arma 3 entry in `DOMINION-TAKEAWAYS.md`, from `templates/dominion-takeaways-entry.md`.

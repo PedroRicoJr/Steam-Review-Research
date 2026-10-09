@@ -3580,3 +3580,123 @@ and too empty by both.
   `scripts/steam_counts.py 2169200`); none pulled.
 
 ⚠️ **The corpus is now 40 games and 47,184 English summaries (47,946 in all languages).**
+
+## 37. ⭐ What the thirty-first large game adds - Arma 3, added 2026-10-09
+
+**A military simulation sandbox on large open islands: infantry, vehicles, helicopters and jets,
+single-player and co-op campaigns, online PvP and co-op, an editor, Zeus (one player runs the match as game
+master) and a large mod scene; Bohemia Interactive; released 2013-09-12; $29.99, paid add-ons, and since
+2026 an $8.99 monthly pass (Steam store, read 2026-10-09). Picked by the active loop from
+`planning/third-person-shooter-list.md` (C31) after Sniper Elite: Resistance.** 3,264 of 140,386 English
+reviews, a 2.3% sample at ±2.00%, across 164 months (2013-03 to 2026-10; only Alien Swarm, 193, spans more); 90.7% up; 4,639 bullets, 1.42 per review; 236 distinct tags, **4 used by no other game,
+all built in its own blocks (rounds 1096, 1102, 1103, 1159)**: `a-true-simulation-not-an-arcade-shooter`
+(319), `a-player-runs-the-match-as-game-master` (31), `the-simulation-is-less-real-than-it-claims` (11) and
+`a-subscription-was-added-after-launch` (6). Full read in `arma-3-english.md`, ranked lists in `arma-3.md`,
+plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-36** (every bullet whose mode is + or -, `review.*` included; one
+Python pass over `raw/*/english/summaries/*/[0-9]*.md` on 2026-10-09, skipping excluded reviews; it gives the
+same figures as `scripts/findings_tables.py` for this game (97.4 and 37.5) and for Sniper Elite: Resistance
+(88.1 and 109.8); round 1165 note):
+
+| | Alien Swarm | Risk of Rain (2013) | **Arma 3** | Warframe | Helldivers 2 | Sniper Elite: Resistance |
+|---|---|---|---|---|---|---|
+| Thumbs up, sample | 93.6% | 89.1% | **90.7%** | 89.9% | 83.3% | 76.1% |
+| Bullets per review | 1.60 | 1.95 | **1.42** | 2.01 | 1.79 | 2.01 |
+| Praise per 100 | 102.4 | 131.5 | **97.4** | 127.3 | 108.0 | 88.1 |
+| Complaint per 100 | 31.1 | 47.4 | **37.5** | 50.9 | 55.5 | 109.8 |
+| Praise to complaint | 3.29 : 1 | 2.78 : 1 | **2.60 : 1** | 2.50 : 1 | 1.95 : 1 | 0.80 : 1 |
+
+**Thirteenth of 31 groups with 300 or more kept reviews by praise to complaint**, between Risk of Rain
+(2013) and Warframe, two other games read over a decade or more. Its 1.42 bullets per review is the
+second lowest of the 31, after Palworld's 1.33: most reviews are a few words from players with hundreds of hours.
+
+### 🔑 The finding: the only game in the corpus where players run the game for each other - the mods, the modes and the enemy side - and it has lasted thirteen years
+
+Reviews carrying each mode, per 100 kept reviews, and this game's rank among the 31 large groups (the same
+Python pass, round 1165 note):
+
+| | **Arma 3** | Rank of 31 | Highest elsewhere |
+|---|---|---|---|
+| A true simulation, not an arcade shooter | **9.8** (319) | 1st | none |
+| A player runs the match as game master | **0.9** (31) | 1st | none |
+| Mods extend the game | **7.8** (256) | 1st | The Anacrusis 4.6 |
+| A mod adds a mode the studio never shipped | **5.2** (171) | 1st | Escape from Duckov 0.7 |
+| Players sorted themselves into groups | **1.3** (43) | 1st | ARC Raiders 0.1 |
+| Mods are expected to fill the gaps | **1.3** (44) | 1st | Mass Effect: Andromeda 1.1 |
+| The making tools are easy to use | **0.9** (31) | 1st | under 0.1 |
+| Poorly optimised | **4.8** (156) | 1st | The First Descendant 2.6 |
+| Demanding hardware | **2.4** (79) | 1st | Remnant II 1.2 |
+| Too many buttons to manage | **0.9** (28) | 1st | Helldivers 2 0.1 |
+| Bugs that are harmless and funny | **1.4** (45) | 1st | Helldivers 2 0.2 |
+| Aggressive storefront ("buy this" pop-ups in play) | **0.7** (24) | 2nd | Terminull Brigade 3.4 |
+| Content behind a second purchase | **1.1** (36) | 2nd | Sniper Elite: Resistance 1.9 |
+| Add-ons not worth it | **1.0** (34) | 2nd | Immortal: Unchained 1.6 |
+| The spaces are scaled too big | **1.1** (36) | 2nd | Immortal: Unchained 1.1 |
+| The runs turn into stories you retell | **1.7** (55) | 2nd | ARC Raiders 1.8 |
+| Players split across add-ons | **0.6** (21) | 3rd | Terminull Brigade 1.5 |
+| The AI always knows where you are | **0.8** (26) | 3rd | Immortal: Unchained 1.4 |
+| Overwhelming at first | **1.4** (47) | 3rd | Warframe 2.2 |
+| Still holds up years later | **0.9** (31) | 3rd | Risk of Rain (2013) 1.9 |
+| Much better with friends | **3.4** (112) | 21st | R.E.P.O. 16.6 |
+| Keeps pulling you back | **2.3** (75) | 21st | Risk of Rain 2 9.1 |
+| A fair price | **1.1** (36) | 26th | Alien Swarm 11.6 |
+
+**On Zeus:** 31 notes praise a player who directs the enemy side live - spawning units, giving orders,
+setting objectives - and 35 reviews name it; none complain about the idea. It runs at 0.6-1.7 per 100 in
+every period from 2014 to 2026 (English page, section 3a). The nearest thing elsewhere is Sniper Elite:
+Resistance's invader (section 36), one enemy fighter rather than a director.
+
+**On paying to play together:** 111 reviews carry a paid-content complaint, 63 of them thumbs down - a fifth
+of all 305 thumbs down. The pop-ups peak in 2017-2019 (2.1 per 100); the 2026 pass drew the most-helpful
+single review in the sample (224464924, 296 found it helpful).
+
+### In plain words
+
+Arma 3 is the first game in the study whose players run most of it for each other: they make the mods, the
+modes people actually play, the groups people join, and in Zeus even the enemy side of a match. That has kept
+it going for thirteen years at 90% thumbs up. Its complaints are the cost of the same openness: it runs
+badly, it is hard to learn without a group, and the paid add-ons split players by what each one bought.
+The newest complaint, a monthly pass, shows that players who build a game together watch hardest how the
+studio charges for it.
+
+### For Dominion — what changes
+
+- **Adds: a player who runs the enemy side is a loved mode, not only a hunter inside the squad's mission.**
+  Zeus (31 notes, no complaints about the idea) sits beside Sniper Elite: Resistance's invader (42 play to
+  invade). Rico's bounty hunter could come in two forms: a fighter who hunts the squad, and a director who
+  sets the run's enemies and traps. This is our reading.
+- **Confirms lesson 19 ("Let players make their own stories and fun") at its strongest:** 1st of 31 on
+  mods, fan-made modes, easy making tools and player groups; 2nd on stories from play.
+- **Confirms lesson 11 ("Performance faults can become the whole review page"):** 1st of 31 on poorly
+  optimised and on demanding hardware, for thirteen years, though both fall by about two thirds after 2019.
+- **Confirms lesson 15 ("Price fairly; 'wait for a sale' is a warning sign") and adds: never split a group
+  by what each player owns.** 2nd of 31 on "buy this" pop-ups, on locked content and on add-ons not worth
+  it; 3rd on players split across add-ons; 26th on a fair price.
+- **Confirms lesson 4 ("Plan for the day the player count falls"):** 14 notes, from 2016 to 2026, say
+  public servers are emptying; the game lives on in private groups.
+- **Qualifies lesson 1 ("Make the game best with friends, and make that easy"):** better with friends is
+  only 21st of 31 (3.4), but player groups are 1st (1.3) - here "friends" are often a unit found online.
+- **Adds: teach the controls in the game.** Too many keys is 1st of 31 (0.9), overwhelming at first 3rd
+  (1.4); the praised fixes are in-game tips and showcases.
+
+### Other ways it stands out in the corpus
+
+- **Bugs as comedy** 1.4 per 100, 1st (next Helldivers 2, 0.2): exploding trucks and flying tanks are told
+  as jokes, not complaints.
+- **The spaces are too big** 1.1, 2nd: long walks and helicopter waits on islands of many kilometres.
+- **The AI sees through cover** 0.8, 3rd.
+- **The shortest reviews of the long-lived games:** 2,078 of 3,264 are 15 words or fewer; the bare thumbs up
+  is 40.6 per 100.
+
+### What this game does NOT settle
+
+- **Runs, extraction, loot and third-person arena play.** None: it is a slow, open military sandbox.
+- **What Zeus is like for the players on the receiving end.** Almost every Zeus note is from the person
+  running it or from groups that chose it; no review describes being hunted by a stranger's Zeus.
+- **When the subscription began and what it covers.** The store shows the pass at $8.99 a month on
+  2026-10-09; the start date and the contents are the reviewers' account.
+- **The non-English audience.** 158,290 reviews in other languages (298,676 in all, 140,386 English,
+  `scripts/steam_counts.py 107410`); none pulled.
+
+⚠️ **The corpus is now 41 games and 50,454 English summaries (51,216 in all languages).**

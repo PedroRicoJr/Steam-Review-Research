@@ -142,8 +142,9 @@ thumbs up stayed at 88-92%. Performance complaints fell by about two thirds as c
 | 15 | `game-design.enemy-design.poor-ai-behaviour` | 20 | 0.6 |
 
 **1,225 complaint bullets (37.5 per 100 reviews) and 3,179 praise bullets (97.4 per 100): 2.6 praise to
-each complaint.** Counted the same way, only Crab Champions (18.7), Deep Rock Galactic (23.7) and Alien Swarm
-(31.1) have fewer complaints per 100 among the games in `cross-game.md`; Sniper Elite: Resistance has 109.8.
+each complaint.** Counted the same way over the 31 groups with 300 or more kept reviews (round 1165 pass),
+8 have fewer complaints per 100, the lowest Risk of Rain 2 (18.0), R.E.P.O. (18.6) and Crab Champions (18.7);
+Arma 3 is 13th of 31 by praise to complaint. Sniper Elite: Resistance has 109.8.
 
 **In plain words:** 156 say it runs badly and 79 that it needs a strong computer; 75 thumbs down give no
 reason; 44 that you need mods to make it good; 43 that it is buggy; 36 that useful gear is locked behind
