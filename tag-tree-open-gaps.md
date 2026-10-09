@@ -16037,3 +16037,16 @@ First unit of the 22:44 firing. Space Marine (2011) batch 33: 50 reviews, 84 bul
 - 44750284 (thumbs down): "Every time the protagonist said 'Out of fuel' a puppy died"; wants more all-marine battles like chapter 16. 44102979: "Shame you can't direct your squad".
 
 **Next:** Space Marine batch 34 (50 reviews).
+
+## Notes - round 1203 (Space Marine batch 34)
+
+Second unit of the 22:44 firing. Space Marine (2011) batch 34: 50 reviews, 85 bullets (1.70 per review), 9 thumbs down, written 2018-10-06 to 2018-12-23. 23 reviews are 15 words or fewer (the plain-only share is high this batch, 28%, from the many one-line cheers). No tree change.
+
+- **Never feeling stronger:** 45130742 (thumbs down) - "enemies are always as strong as you are leading to no feeling of actually growing stronger"; healing "takes dealing a precise amount of damage ... and a willingness to take more damage"; at range the stunned enemy can "un-stagger and regain some health before you can reload".
+- **Enemy AI, praised in detail:** 46440061 (102 hours, thumbs down for multiplayer) - Orks "hide themselves in a crack in the wall or wait around a corner", "start running zig-zag when you aim your gun at them", and ranged ones "actively look for the high ground". 47335274: "the orks would sometimes make a quick head dip motion just as I would be ready to make my head shot".
+- **Multiplayer faults, 2018:** 46440061 - "THQ made an unbalanced multiplayer ... Sega took the game over and refused to fix ANY of this"; "people started to hack their loadout slots"; DLC weapons are cosmetic ("the powersword is actually just a normal chainsword"). Against that, 47757649 found a match "fairly quickly (less than a min)".
+- **Hardware:** 45689234 (thumbs down, edited 2024) - "not compatible with modern CPUs with more than 8 CPU-cores ... (crashes on launch)", still failing on an i9 14900K (reviewer's account, not checked). 45281556: "no steam cloud".
+- **Price:** 47509477 (thumbs down, edited 2023) - "increase the price of the game after 10 years to 60 dollars ... Branded it as anniversary edition" (reviewer's figure).
+- 45395271 (thumbs down): allies "just stand and shoot and even that they do poorly"; melee and ranged "both systems aren't fully matured". 47506766: "Play on the easiest difficulty to feel like a primarch or play on hardest to feel the true 40k life" (filed as well-graded difficulty). Several more say they got it free (45397286, 47506766).
+
+**Next:** Space Marine batch 35 (50 reviews).
