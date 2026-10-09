@@ -15790,3 +15790,16 @@ Fifth unit of the 18:44 firing. Space Marine (2011) batch 16: 50 reviews, 72 bul
 - 14462459: the physical edition for $8 gives a Steam key.
 
 **Next:** Space Marine batch 17 (50 reviews).
+
+## Notes - round 1185 (Space Marine batch 17)
+
+Sixth unit of the 18:44 firing. Space Marine (2011) batch 17: 50 reviews, 91 bullets (1.82 per review), 7 thumbs down, written 2015-02-10 to 2015-05-07. 12 reviews are 15 words or fewer. No tree change. Health details in 14410679 and a referral code in 14905272 are left out.
+
+- **Lore context missing:** 14742064 - "barely any of this is explained to the player ... Does a stranger to WH40k know what is a forge world, a space marine, the imperial guard, chaos ... An entire universe of lore and barely any of it is expressed"; filed as lost on new players. Others say no lore is needed (15012969, 15722135).
+- **Ally AI, again:** 15426218 - "The only major flaw this game suffers from is stupid ally AI that will walk around in the open, take fire, and not return it. A great resolution to this would have been online co-op".
+- **The fan who found it awful:** 14682706 (thumbs down) - "Every area is structured as an 'arena' where you'll fight endless hordes of Orks ... When you die you never feel like it was your fault"; identical areas, no map, no going back. 15131915 (thumbs down, 16 found it helpful): "insane difficulty curves ... the game ends with a QTE boss battle".
+- **Multiplayer in 2015:** "alive and kicking play on the weekends" (15012969); "lacks a real community ... nobody playing" the Chaos DLC mode (15023264); "Having friends to play the multiplayer is a must" (15630196); P2P lag in Australia and "riddled with DLC; players had to buy more maps and game modes" (14905272).
+- **2026 view:** 15249106 (edited 2026) - played 15 years; display settings break (resolution "0x0", aspect "NaN:Nan"), "primitive" after the sequel, and multiplayer "still somewhat active ... considering %90 percent of fans migrated to the sequel" (reviewer's estimate).
+- 15242795: enemies gain health as your weapons improve. 14894296: cutscenes can't be skipped after a checkpoint restart. 15629616 (thumbs down) wanted a strategy game.
+
+**Next:** Space Marine batch 18 (50 reviews).
