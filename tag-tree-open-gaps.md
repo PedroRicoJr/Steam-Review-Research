@@ -15056,3 +15056,14 @@ Twelfth and last unit of the 12:45 firing (twelve a firing; the firing did 12 un
 - 39369009 tells a long survival-server story that ends in a truce with the killer.
 
 **Next:** Arma 3 batch 25 (50 reviews).
+
+## Notes - round 1120 (Arma 3 batch 25)
+
+First unit of the 13:44 firing (twelve a firing). Arma 3 batch 25: 50 reviews read, 49 kept and 87 bullets (1.78 per kept review), 10 thumbs down, written 2018-03-07 to 2018-05-15. **1 excluded:** 41633963 is a known joke copypasta (a "black protagonist", Minecraft, a family story) that says nothing true about Arma 3; written by hand as not a review of the game. No tree change.
+
+- **DLC:** 40833662 (89 found it helpful) - "near perfect if they could focus their resources optimizing the game instead of releasing overpriced DLCs"; four more say DLC is overpriced, needed on servers, or a disadvantage without it (40831680, 41782836, 41911623, 42053374). 41632755 takes the other side: you get every update and can play with owners, just not drive their vehicles.
+- **Zeus:** 41000661 is "a huge fan of Zeus (Free DLC offered by ARMA)". Thirteenth game-master sighting.
+- **AI:** 41632755 - enemies see through bushes and headshot from 800 m while ignoring fire; friendly crews ignore orders. 41001605 left for Squad over travel time and AI accuracy.
+- **Support:** 41188390 says the developers announced they would leave after the Tanks DLC (the reviewer's claim, not checked); 41511481 says drone bugs stay broken for years and reports are ignored.
+
+**Next:** Arma 3 batch 26 (50 reviews).
