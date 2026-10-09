@@ -1,0 +1,562 @@
+{
+ "R001": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R002": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R003": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R004": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R005": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R006": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "'Life-changing, play all three in order' is praise filed under narrative.story.lost-on-new-players (bad)."
+ },
+ "R007": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R008": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R009": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R010": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R011": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R012": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R013": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R014": {
+  "notes": 12,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 0,
+  "why": "'Incomplete and rushed' filed under rushed-out-by-the-owner, but the reviewer never blames an owner or publisher."
+ },
+ "R015": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R016": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R017": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 2,
+  "why": "Missed: combat still not as good as the predecessors; the new races (Kett, Angarans) interesting but Angarans silly/off-brand."
+ },
+ "R018": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: 'the story is interesting' (the one note is filed only under the ending)."
+ },
+ "R019": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R020": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R021": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R022": {
+  "notes": 5,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R023": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R024": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R025": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: world design and graphics can be beautiful."
+ },
+ "R026": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: bad facial movement."
+ },
+ "R027": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: the price is worth the experience."
+ },
+ "R028": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R029": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R030": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R031": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R032": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R033": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R034": {
+  "notes": 12,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 4,
+  "why": "Dialogue-wheel complaint filed under ui-ux.hides-information with no basis; missed interesting setting, memorable story/side-quest moments, convoluted story, disappointing quest conclusions."
+ },
+ "R035": {
+  "notes": 5,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R036": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R037": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R038": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: 'I don't understand the hate this game gets' (judged unfairly)."
+ },
+ "R039": {
+  "notes": 10,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 3,
+  "why": "Missed: mostly agrees the ending is unsatisfying; the multiplayer is great; play with all DLC for key lore reveals."
+ },
+ "R040": {
+  "notes": 6,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 3,
+  "why": "'Empty, bland open worlds' filed under world-interaction.world-ignores-you; missed the cast-politics complaint, the lame Krogan fight, comical release glitches."
+ },
+ "R041": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R042": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R043": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R044": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R045": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R046": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R047": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R048": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R049": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R050": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R051": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R052": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 1,
+  "missed_points": 1,
+  "why": "Change of verdict after another excellent BioWare game filed under explained-by-naming-other-games rather than a studio comparison; missed 'combat is enjoyable'."
+ },
+ "R053": {
+  "notes": 5,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R054": {
+  "notes": 4,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R055": {
+  "notes": 7,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: blames EA's influence for damaging the game."
+ },
+ "R056": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R057": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 4,
+  "why": "Missed: visually very pretty, gunplay okay, the Ark/settling premise is catchy, buy only cheap in a big sale."
+ },
+ "R058": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R059": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R060": {
+  "notes": 8,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R061": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R062": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R063": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R064": {
+  "notes": 9,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: the combat roll shares a key with run and take cover."
+ },
+ "R065": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R066": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R067": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: clownish AI."
+ },
+ "R068": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R069": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R070": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R071": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R072": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R073": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R074": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 2,
+  "why": "Missed: characters amazing and worth listening to; storytelling perfect, a solid continuation of the second game."
+ },
+ "R075": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 2,
+  "why": "Missed: not as terrible as its reputation; the story is engaging enough to keep playing."
+ },
+ "R076": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R077": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R078": {
+  "notes": 1,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R079": {
+  "notes": 2,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 0,
+  "why": ""
+ },
+ "R080": {
+  "notes": 3,
+  "wrong_claim": 0,
+  "wrong_tag": 0,
+  "missed_points": 1,
+  "why": "Missed: weird dialogue the reviewer blames on the German translation."
+ }
+}

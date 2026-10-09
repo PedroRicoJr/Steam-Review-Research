@@ -25,3 +25,10 @@ remove it when Rico rules.
   as it is and state the margin; the test files were deleted and the standard pull restored. Your word
   would switch it, at about 221 more reviews (4-5 batches).
 
+- **The third pace test (round 1080) found a drop at twenty on test B only.** Within length bands, more
+  of Andromeda's short reviews were left with only plain liked-it notes than Mass Effect 3's (p = 0.0019);
+  test A (notes per review) was in the faster side's favour and the blind audit found no real difference
+  (any-error 22% against 25%, missed points 0.28 against 0.47 per review, both under the guard lines).
+  B may reflect the reviews (Andromeda's short reviews are more often a bare "good game") as much as care,
+  and Andromeda's notes per long review dipped in batches 11-28. Default taken: **the rule set before the
+  test** - the pace is back to twelve. Your word would keep twenty or order a re-test.

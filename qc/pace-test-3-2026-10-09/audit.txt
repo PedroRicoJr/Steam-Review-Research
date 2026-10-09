@@ -1,0 +1,5 @@
+base: 40 reviews, 92 notes, 1 notes wrong (1.1%), 0.28 missed points per review, 9 reviews with any error (22%)
+test: 40 reviews, 111 notes, 4 notes wrong (3.6%), 0.47 missed points per review, 10 reviews with any error (25%)
+C1. notes wrong: Fisher p = 0.3799
+C2. missed points per review: test minus base = +0.20, shuffle p = 0.3837
+C3. reviews with any error: Fisher p = 1.0000
