@@ -14660,3 +14660,11 @@ Twentieth and last unit of the 08:44 firing (twenty a firing; outside the third 
 **The 08:44 firing did twenty units** (rounds 1058-1077): Mass Effect: Andromeda batches 29-32 (the last), its weighted counts, English page, master page, cross-game section 35 and takeaways entry (the game is Done); Sniper Elite: Resistance's grid and pull; and Sniper Elite: Resistance batches 1-10. It was the third firing at twenty; the third pace test runs after the next one. 7 modes built this firing, 6 of them for Rico's invasion question.
 
 **Next:** Sniper Elite: Resistance batch 11 (50 reviews).
+
+## Notes - round 1078 (Sniper Elite: Resistance batch 11)
+
+First unit of the 09:44 firing, the fourth firing at twenty (it reads a batch at twenty, so it counts toward the four; the third pace test's test set - Mass Effect: Andromeda batches 1-32 - was already complete). 50 reviews, 2025-07-06 to 2025-08-23; 12 thumbs down; 85 bullets; none excluded.
+
+**No modes built.** Invasions: 199808513 says invasions are "the only fun thing to do" but flawed - the host is "an annoying sniper that will camp forever, with traps and AP munition while you get barely any equipment and ammo + they kill around 90% of the AI"; 202707573 (834 hours shown, 15 found it helpful) says the invaded sniper "has the ability to sense the direction of the invader", so hosts "fill the map with mines and camp for an hour", and invasion is fun only on Authentic without that sense. The same review first reported off-map hackers and aimbots, then edited to say "the cheaters issue has been resolved and I give developers credit for it" (reviewer's account), and asks that vote-kick voters be shown by name. 200367188 says multiplayer gets costly because "everyone has moved onto the DLC". 7 notes say it should have been SE5 DLC; 9 that more of the same is fine. One crude jab at the hero's accent is recorded only as that; a reviewer's age is left out.
+
+**Next:** the third pace test (loop file, **Third test**), then Sniper Elite: Resistance batch 12.
