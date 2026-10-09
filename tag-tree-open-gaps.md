@@ -15463,3 +15463,15 @@ Twelfth and last unit of the 15:44 firing (twelve a firing; the firing did 12 un
 - Three short reviews in Portuguese and Arabic (one a political remark, recorded only as such).
 
 **Next:** Arma 3 batch 61 (50 reviews).
+
+## Notes - round 1156 (Arma 3 batch 61)
+
+First unit of the 16:44 firing. Arma 3 batch 61: 50 reviews, 57 bullets (1.14 per review), 5 thumbs down, written 2025-09-07 to 2025-11-15. 43 reviews are 15 words or fewer. No tree change.
+
+- **Eleven years on:** 204969545 (thumbs down) - "11 Years and the singleplayer campaign is still a buggy piece of crap".
+- **DLC, three ways:** 206118061 (thumbs down) - "Wanna hear a joke? (You cant cause you havent bought the dlc for the game)"; 206120982 - dislikes "the amount of paid DLC, but it's hard to make a live service game. Apex DLC is definitely worth purchasing on sale"; 204422839 - "If you Buy Everything on sale its cheap for the fun".
+- **Controls:** 208064033 (thumbs down) - "Spent more time trying to get these garbage controls layout correctly"; 208639833 - "New player. Confused".
+- **From Arma 2:** 208637266 (4 found it helpful) - "The sheer volume of content in 2 is something that cannot be topped, but there is something that just feels better when you're playing 3"; the editor "much quicker and easier"; "an absolute culture shock and nightmare" until it clicks.
+- 205579388: "the military shooter that everyone who plays CoD and Battlefield *say* they want, but don't actually". 204983298 plays on Linux. Three short reviews in Russian and Portuguese.
+
+**Next:** Arma 3 batch 62 (50 reviews).
