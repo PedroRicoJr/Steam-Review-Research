@@ -14802,3 +14802,14 @@ Sixth unit of the 10:44 firing. No reviews read.
 - 3,270 reviews at 50 a batch is 66 batches; at twelve units a firing, about six firings.
 
 **Next:** Arma 3 batch 1 (50 reviews).
+
+## Notes - round 1096 (Arma 3 batch 1)
+
+First unit of the 11:44 firing (twelve a firing). Arma 3 batch 1: 50 reviews, 78 bullets (1.56 per review), all thumbs up, written 2013-03-07 to 2013-05-15 - the Alpha months before the 2013-09-12 release (Steam's early-access flag is 0 on all 50). 30 reviews are 15 words or fewer; 7 are in other languages (German 4, French 2, Russian 1), tagged as such.
+
+- **One mode built under Rule C:** `marketing.positioning.a-true-simulation-not-an-arcade-shooter` (+), first sighting 5963348 ("Amazing hardcore sim with realstic fighting"). `findphrase` "realistic" (43 matches) and "simulation" (6) found no earlier note on realism as the draw. Used 13 times in this batch. Tree 2,015 -> 2,016; `summarise.py card` rerun.
+- **Read:** realism is the draw (13); better than Arma 2 (3); good value or great even as an alpha (5); co-op rewards teamwork (2: "everyone depends on you and you depend on everyone"); mods, the editor and community life servers (4); a heavy machine needed (2: "about 20 fps" on average PCs on the lowest settings, 6468167).
+- **The complaint review:** 2442334 (thumb up, 272 hours shown) lists awful vehicle physics, no jump, a step-up and a key that move you through objects and walls, a 1-metre fall that kills, extra guns and helicopters sold before game-breaking bugs are fixed, and "modders spend more time working on your game than your studio".
+- 6710481: the new launcher stopped the game running; later fixed by the reviewer.
+
+**Next:** Arma 3 batch 2 (50 reviews).

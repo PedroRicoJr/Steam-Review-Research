@@ -12849,6 +12849,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1073, Sniper Elite: Resistance batch 6.** Built under Rule C on the first sighting, 188728825: "still 50% of the time you invade someone they either just save&quit or die before you can kill them (Meaning you get no reward)" (reviewer's estimate). `findphrase` found no earlier note.
 
+## Modes added in Arma 3 batch 1 - round 1096 (Rule C)
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.a-true-simulation-not-an-arcade-shooter` | **+** | The reviewer praises the game as a realistic military simulation - "mil sim", "hardcore", "realistic fighting", "not your average shooter" - often set against arcade shooters such as Call of Duty or Battlefield; the realism and what it demands of the player are the draw. **Distinct from `game-design.game-feel.combat.impactful`** (how hits feel, not how real the war is), `marketing.reputation.best-in-its-category` (a ranking, not the kind of game) and `marketing.positioning.too-niche-to-bring-friends-along` (a complaint about the audience). |
+
+🔑 **Round 1096, Arma 3 batch 1.** Built under Rule C on the first sighting, 5963348: "Amazing hardcore sim with realstic fighting." `findphrase` "realistic" and "simulation" found no earlier note on realism as the draw (43 and 6 matches, all about looks, setting or other subjects).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
