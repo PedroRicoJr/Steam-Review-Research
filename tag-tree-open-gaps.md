@@ -14547,3 +14547,9 @@ Sixth unit of the 08:44 firing (twenty a firing). `findings/mass-effect-andromed
 Seventh unit of the 08:44 firing (twenty a firing). `findings/mass-effect-andromeda.md` written from `templates/findings-master-page.md`, from the same `findings_tables.py` run as round 1063; the plain-words column was checked against the bullets behind the lower-ranked modes (e.g. `a-favourite-from-the-last-game-is-missing` is mostly the Mako and the old races, `updates-stopped` is mostly support and DLC pulled early, `a-named-weapon-or-vehicle-is-loved` is the Nomad in 19 of 22).
 
 **Next:** cross-game section 35, from `templates/cross-game-section.md`.
+
+## Notes - round 1065 (cross-game section 35: Mass Effect: Andromeda)
+
+Eighth unit of the 08:44 firing (twenty a firing). Section 35 appended to `findings/cross-game.md` from `templates/cross-game-section.md`. The comparison table, the rank (23rd of 29 by praise to complaint) and the mode table come from the same Python pass as rounds 998 and 1027, over 29 groups with 300+ kept reviews (39 games, 46,110 kept English summaries; 46,213 English and 46,975 in all languages counted as files); it gives the same 105.9 and 147.0 per 100 as `findings_tables.py`. The mode ranks count reviews carrying a mode (211 for `falls-short-of-the-studios-earlier-games`, against 213 bullets). The section notes that Andromeda's bullets per review are high and uneven across the read, so its per-100 rows lean high.
+
+**Next:** the Mass Effect: Andromeda entry in `DOMINION-TAKEAWAYS.md`, from `templates/dominion-takeaways-entry.md`.

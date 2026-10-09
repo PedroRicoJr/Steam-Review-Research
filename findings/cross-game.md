@@ -3363,3 +3363,110 @@ bought.
   `scripts/steam_counts.py 1238020`); none pulled.
 
 ⚠️ **The corpus is now 38 games and 44,628 English summaries (45,390 in all languages).**
+
+## 35. ⭐ What the twenty-ninth large game adds - Mass Effect: Andromeda, added 2026-10-09
+
+**A third-person sci-fi shooter RPG with open planets, a vehicle and a separate online co-op wave mode
+for up to four: BioWare, published by Electronic Arts; the 2017 game, on Steam since 2020-06-11; $39.99;
+needs the EA app (Steam store; reviewers).** 1,585 of 11,214 English reviews, a 14.1% sample at ±2.51%,
+across 77 months (2020-06 to 2026-10); 70.9% up; 4,196 bullets, 2.65 per review; 291 distinct tags, **7
+used by no other game, all built in its own blocks (rounds 1030-1060)**, led by
+`your-choices-change-nothing` (79). Full read in `mass-effect-andromeda-english.md`, ranked lists in
+`mass-effect-andromeda.md`, plain-words lessons in `DOMINION-TAKEAWAYS.md`.
+
+**On the same count as sections 22-34** (every bullet whose mode is + or -, `review.*` included; one
+Python pass over `raw/*/english/summaries/*/[0-9]*.md` on 2026-10-09, skipping excluded reviews; it gives
+the same figures as `scripts/findings_tables.py` for Andromeda (105.9 and 147.0); round 1065 note):
+
+| | Mass Effect 3 (2012) | LORT | Aliens: Fireteam Elite | Back 4 Blood | **Mass Effect: Andromeda** | The First Descendant | Immortal: Unchained | DRG: Rogue Core |
+|---|---|---|---|---|---|---|---|---|
+| Thumbs up, sample | 75.5% | 80.7% | 81.3% | 69.2% | **70.9%** | 64.5% | 64.6% | 70.3% |
+| Bullets per review | 1.51 | 2.05 | 2.94 | 2.63 | **2.65** | 2.37 | 4.10 | 3.26 |
+| Praise per 100 | 82.2 | 102.5 | 124.6 | 118.0 | **105.9** | 83.6 | 133.1 | 117.2 |
+| Complaint per 100 | 62.3 | 81.7 | 141.8 | 137.2 | **147.0** | 122.2 | 217.7 | 193.2 |
+| Praise to complaint | 1.32 : 1 | 1.25 : 1 | 0.88 : 1 | 0.86 : 1 | **0.72 : 1** | 0.68 : 1 | 0.61 : 1 | 0.61 : 1 |
+
+**Twenty-third of 29 groups with 300 or more kept reviews by praise to complaint**, between Back 4 Blood
+(0.86 : 1) and The First Descendant (0.68 : 1). Its bullets per review are high, and uneven across the
+read (about 3.0, 2.3, then 3.5 by batch; English page, section 7), so the per-100 rows lean high; the
+ratio and the thumb do not depend on that.
+
+### 🔑 The finding: a sequel measured against its own family, and its side content, more than any game in the corpus
+
+Reviews carrying each mode, per 100 kept reviews, and Andromeda's rank among the 29 large groups (the
+same Python pass, round 1065 note):
+
+| | **Mass Effect: Andromeda** | Rank of 29 | Highest elsewhere |
+|---|---|---|---|
+| Falls short of the studio's earlier games | **13.3** (211) | 1st | Redfall 6.4 |
+| Judged unfairly | **11.7** (185) | 2nd | Redfall 12.2 |
+| Flat or annoying characters | **8.2** (130) | 1st | The Anacrusis 5.1 |
+| Funny or memorable characters | **7.4** (118) | 1st | Mass Effect 3 4.1 |
+| Story worth following | **7.9** (125) | 1st | Redfall 5.2 |
+| Thin or forgettable story | **5.7** (90) | 2nd | Redfall 6.9 |
+| The faces do not move | **6.2** (98) | 1st | Aliens: Fireteam Elite 1.3 |
+| Side content is empty errands | **4.5** (72) | 1st | Redfall 0.1 |
+| Quests send you back and forth | **2.5** (39) | 1st | Escape from Duckov 0.1 |
+| Padding a short game | **1.9** (30) | 1st | Aliens: Fireteam Elite 0.3 |
+| Cannot skip what the game plays at you | **3.0** (48) | 1st | Mass Effect 3 0.5 |
+| Still unfinished years on | **3.0** (48) | 1st | Warframe 0.03 |
+| Fixed what mattered | **4.0** (64) | 1st | DRG: Rogue Core 3.7 |
+| World worth exploring | **6.7** (106) | 1st | Remnant II 6.4 |
+| Combat impactful | **8.0** (127) | 2nd | Roboquest 9.4 |
+| Unwanted third-party software (the EA app) | **4.4** (70) | 2nd | Mass Effect 3 4.5 |
+| A mode stands out (the co-op multiplayer) | **1.2** (19) | 2nd | Mass Effect 3 12.0 |
+
+**Caution:** like Mass Effect 3, Andromeda is a story-led game, so its lead on the story and character
+modes (both ways) says as much about the kind of game as about how good the writing is. The rows that
+do not have that excuse are the side-content rows - empty errands, back-and-forth quests, padding - which
+open-world and looter games in the corpus could have carried and did not.
+
+Andromeda is the corpus's clearest case of a game read against its own family: first of 29 on falling
+short of the studio's earlier games, and second on being judged unfairly - the two sides of one argument
+running through all 77 months. Under the argument sit two things any game can learn from: its combat is
+praised by people who dislike the rest (2nd of 29), and its open-world filler is the worst-rated side
+content in the corpus. Its co-op wave mode, the part shaped like Dominion, is mentioned in 56 of 1,585
+reviews, against Mass Effect 3's 268 of 1,057.
+
+### In plain words
+
+A big studio's follow-up was judged mostly against the three games before it, and many players say it
+deserved better. What players praise is the moment-to-moment fighting and the worlds; what they
+complain about, besides the comparison, is filler: errands, trips back and forth, travel scenes they
+cannot skip. Its co-op mode, almost the same as the one that kept Mass Effect 3 alive, was barely
+noticed.
+
+### For Dominion — what changes
+
+- **Confirms lesson 16 ("Expect to be compared; do not invite the comparison yourself"):** the strongest
+  case yet - 13.3 per 100 say it falls short of the earlier games, 1st of 29, double the next game.
+- **Confirms lesson 10 ("fight repetition early"):** first of 29 on empty errands (4.5), back-and-forth
+  quests (2.5) and padding (1.9).
+- **Confirms lesson 6 ("Make movement feel quick"):** the combat - jump jets, dashes, powers on any class
+  - is praised at 8.0 per 100, 2nd of 29, by many who dislike the rest.
+- **Confirms lesson 5 ("Never lock the game behind an online check"):** 2nd of 29 on the launcher (4.4),
+  behind its own predecessor.
+- **Weakens nothing, but qualifies lesson 1 ("Make the game best with friends"):** a co-op mode beside a
+  story game goes unnoticed (19 single it out); the co-op has to be the game, as Dominion's is.
+- **Adds: let players skip travel and transition scenes.** First of 29 on scenes that cannot be skipped
+  (3.0).
+- **Touches lesson 12 ("Patch fast; a late rescue does not bring players back"):** first of 29 on fixes
+  that mattered (4.0), yet the thumb kept falling, from 82% at the Steam launch to 66-68% from 2023.
+
+### Other ways it stands out in the corpus
+
+- **Both sides of the writing:** flat characters 8.2 and memorable characters 7.4, both 1st.
+- **The faces** 6.2 per 100, 1st (next 1.3).
+- **Unfinished story** 3.0, 1st (next 0.03).
+
+### What this game does NOT settle
+
+- **Runs and roguelite progression.** None; the co-op mode is wave survival with unlocks.
+- **The co-op mode itself.** Too few reviews to rank its parts; its hosting and population are the
+  reviewers' account.
+- **Whether the note density changed the ranks.** The ranks count reviews carrying a mode, not bullets,
+  which softens it; the per-100 rows above may still lean high.
+- **The non-English audience.** 7,684 reviews in other languages (18,898 in all, 11,214 English in the
+  grid, `scripts/steam_counts.py 1238000`); none pulled.
+
+⚠️ **The corpus is now 39 games and 46,213 English summaries (46,975 in all languages).**
