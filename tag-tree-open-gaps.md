@@ -15327,3 +15327,15 @@ First unit of the 15:44 firing. Arma 3 batch 49: 50 reviews, 66 bullets (1.32 pe
 - 137572212 likes the East Wind campaign though others criticise it.
 
 **Next:** Arma 3 batch 50 (50 reviews).
+
+## Notes - round 1145 (Arma 3 batch 50)
+
+Second unit of the 15:44 firing. Arma 3 batch 50: 50 reviews, 65 bullets (1.30 per review), 4 thumbs down, written 2023-05-23 to 2023-07-31. 38 reviews are 15 words or fewer. No tree change. (The batch file's stats step failed on a placeholder line in the script after the write had gone through; the placeholder was removed and the stats re-run. Nothing written was affected: dircheck 0, check 0, no gaps.)
+
+- **Can't learn it:** 139708691 (thumbs down) - "watched atleast 5 tutorials did boot camp but have no ... idea on how to play this game"; 138858401 - "almost 100 hours on this game and I still have no idea how to play it".
+- **The way in:** 139697590 (1,253 hours) - "Find a unit get their modlist. Have fun. The first part can be non-trivial".
+- **Zeus:** 142156525 - "best mode is zues" (the 30th game-master sighting).
+- **Solo works too:** 143165136 plays only single player and calls the DLC and mod content "frankly insane", the creator DLCs "almost all excellent", despite "dated graphics and chuggy engine"; 143174214 - "great for solo or with friends".
+- 140124789 is written in Arabic (a lovely game, but you need people with you).
+
+**Next:** Arma 3 batch 51 (50 reviews).
