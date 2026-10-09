@@ -15023,3 +15023,14 @@ Ninth unit of the 12:45 firing. Arma 3 batch 21: 50 reviews, 77 bullets (1.54 pe
 - 33355662 names Arma as where Battlegrounds started and DayZ continues; also "AI ... smart when opposing you, but dumb as hell when you're ordering them around", and lone wolves get outgunned.
 
 **Next:** Arma 3 batch 22 (50 reviews).
+
+## Notes - round 1117 (Arma 3 batch 22)
+
+Tenth unit of the 12:45 firing. Arma 3 batch 22: 50 reviews, 63 bullets (1.26 per review, the lowest so far), 7 thumbs down, written 2017-07-23 to 2017-09-30. 30 reviews are 15 words or fewer. No tree change.
+
+- **Forced DLC downloads:** 34804196 (14 found it helpful) - an 8 GB update for a DLC "whose main selling point is a van", ambulances included, that then spams logos in the arsenal; mods fit whole campaigns in half the space. 34802966: "trying to challenge train simulator for most dlc".
+- **Returning players:** 33753400 came back after three years, could not work out how to play, and uninstalled.
+- **Over time:** 34091931 (edited 2020) says the modes that made the game popular are gone and one popular mode remains.
+- **Read:** performance (7); community modes (8); Squad named again - this time Arma is the better buy (33747538).
+
+**Next:** Arma 3 batch 23 (50 reviews).
