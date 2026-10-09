@@ -15650,3 +15650,15 @@ Sixth unit of the 17:44 firing. Space Marine (2011) batch 5: 50 reviews, 80 bull
 - Short reviews in Russian (3), German, Portuguese and Japanese.
 
 **Next:** Space Marine batch 6 (50 reviews).
+
+## Notes - round 1174 (Space Marine batch 6)
+
+Seventh unit of the 17:44 firing. Space Marine (2011) batch 6: 50 reviews, 73 bullets (1.46 per review), 3 thumbs down, written 2012-09-20 to 2012-12-07. 27 reviews are 15 words or fewer. No tree change. A joke review reading the Orks as a Second World War army (1311743) is recorded only as a political remark.
+
+- **The modes, described:** 3018384 - a Dreadnought mode (a team fights to summon and escort a Dreadnought) "is the most enjoyable yet a little broken"; Exterminatus "20 waves ... [of] hordes of orks to survive" on two maps, a third with DLC.
+- **Co-op holds up while versus empties:** 4673851 - "the co-op mode is also addictive"; 238678 (thumbs down, 6 found it helpful) - "Co-op multiplayer is fun, if repetitive"; versus "dead for the most part" by December 2012 (3696828), "a very small select group" (692929).
+- **AI companions:** 1290547 - "Sidekick AI is good enough were you never feel like you babysitting ... I would like to have provided orders to cover my while I rush ahead or to focus fire on a key target."
+- **No cover, by design:** 83611 - "In Space Marine you ARE the cover"; 2535642 - "must perform 'executions' in order to gain health".
+- 6107665 (211 hours): "could do with a jump button"; 6124689: the audio is "the best part". Short reviews in Russian (3).
+
+**Next:** Space Marine batch 7 (50 reviews).
