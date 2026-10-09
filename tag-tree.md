@@ -12894,6 +12894,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1175, Space Marine (2011) batch 7.** Built under Rule C on 3064342 (thumbs down, edited 2021): "they chose to re-release the same game but have it share the same ratings from the 2011 reviewed game ... ($75) re-run with reused reviews". `findphrase` "same reviews", "reused reviews" and "old reviews" found no earlier note. The price is the reviewer's account, not checked.
 
+## Modes added in Space Marine (2011) batch 22 - round 1190 (Rule C)
+
+### `narrative.story`
+| Mode | | Definition |
+|---|---|---|
+| `.the-logs-can-only-be-heard-from-a-menu` | **−** | Recorded logs or messages the player picks up can only be played from a menu with play stopped, not while moving on, so the player skips them and the story they carry is lost. **The opposite problem to `.told-during-the-fighting-so-it-is-lost`** (logs that play during combat and are drowned out), and distinct from `game-design.ui-ux.*` complaints about menus in general. |
+
+🔑 **Round 1190, Space Marine (2011) batch 22.** Built under Rule C on 22164593: "Not being able to listen to audio logs as you play, but having instead to stop playing, and go into the menu, means that I did not listen to them, and they wasted money on voice actors I will never hear." `findphrase` "audio log" and "listen to the logs" found only the opposite complaint (logs lost in the fighting).
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

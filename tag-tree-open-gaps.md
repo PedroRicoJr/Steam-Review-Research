@@ -15857,3 +15857,16 @@ Tenth unit of the 18:44 firing. Space Marine (2011) batch 21: 50 reviews, 104 bu
 - 21370914: hand-holding for the first quarter, then "insane". 21211157: on normal "enemies will literally run away from you". 21684600 still played regularly after 5 years, "plenty of people on line".
 
 **Next:** Space Marine batch 22 (50 reviews).
+
+## Notes - round 1190 (Space Marine batch 22)
+
+Eleventh unit of the 18:44 firing. Space Marine (2011) batch 22: 50 reviews, 116 bullets (2.32 per review), 7 thumbs down, written 2016-03-04 to 2016-05-23. 16 reviews are 15 words or fewer. **Tree 2,020 -> 2,021:** one mode built under Rule C (below).
+
+- **New mode `narrative.story.the-logs-can-only-be-heard-from-a-menu`** on 22164593: "Not being able to listen to audio logs as you play, but having instead to stop playing, and go into the menu, means that I did not listen to them, and they wasted money on voice actors I will never hear." `findphrase` "audio log" and "listen to the logs" found only the opposite complaint. The same review: keys can be rebound "only ... in the main menu/title screen, not in menus during the game".
+- **The fullest case against the melee loop:** 21988216 (thumbs down) - "enemies will stun you, but you do not stunlock enemies ... Your dodge roll and execution animations do not have any invincibility frames". Filed the missing invincibility under the movement set lacking genre-standard moves, as Gunfire Reborn 204410221 ("no invincibility frames" on the dash) was; no new mode. Its update: "any time you're presented with weapons in the game you'll never know which ones to pick, and certain encounters are CLEARLY designed for specific weapons".
+- **The opposite reading:** 22000362 - shields regenerate, health comes from executions, and "You need to make intelligent use of your dodges ... they provide a surprising depth"; the AI "will make use of grenades to get you in their line of fire ... attempt to flank you"; "frequently hitting 60 fps" on a dual-core PC.
+- **Save loss:** 22539848 (thumbs down) - "my save file corrupted ... It has a single savefile (smauto.dsav) ... Sega Support's only solution was create a new save file AKA restart the campaign"; 11 hours lost; also an "unbearable reverb" on sound effects.
+- **Asks of SEGA:** 22104315 - "add community-made servers - add steam workshop support - add bot matches". 21627992: no split-screen, no mods, "remove the grind for unlocking stuff in MP mode, at least if you just want to go play co-op".
+- 22636113 (thumbs down): "map DLC keeps me from playing more than one game". 22624949 (1,099 hours): Chaos Unleashed is "the more hardcore of exterminatus". 22838949 (48 found it helpful): Titus can't block, the melta spreads "like a naff shottgunn".
+
+**Next:** Space Marine batch 23 (50 reviews).
