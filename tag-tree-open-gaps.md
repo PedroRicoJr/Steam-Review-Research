@@ -16050,3 +16050,15 @@ Second unit of the 22:44 firing. Space Marine (2011) batch 34: 50 reviews, 85 bu
 - 45395271 (thumbs down): allies "just stand and shoot and even that they do poorly"; melee and ranged "both systems aren't fully matured". 47506766: "Play on the easiest difficulty to feel like a primarch or play on hardest to feel the true 40k life" (filed as well-graded difficulty). Several more say they got it free (45397286, 47506766).
 
 **Next:** Space Marine batch 35 (50 reviews).
+
+## Notes - round 1204 (Space Marine batch 35)
+
+Third and last unit of the 22:44 firing (rounds 1202-1204; three units). Space Marine (2011) batch 35: 50 reviews, 70 bullets (1.40 per review), 4 thumbs down, written 2018-12-21 to 2019-03-07. 16 reviews are 15 words or fewer; 48974811 is in Russian, 48159709 partly Spanish. No tree change. 48824241 is a joke thumbs down (filed as the thumb contradicting the text).
+
+- **Rebinding, again:** 48802301 - "Cant rebind keys"; 49210346 - "inability to rebind controls or change options in game"; both match 22164593 and 30184787 (only from the main menu). Also "checkpoints that make you rewatch the same cutscenes time and time again".
+- **The hammer trap:** 49254640 - "don't take hammer in chapter 13 ... that screwed my hard achievement run" (as 21988216 and 42558301 described).
+- **Population, early 2019:** co-op "still not death" (48163989), "still find games in the co-op mode" while versus is "basically completely dead" (48639106), "a small dedicated online player base" (48483138), "waiting for a match may take a couple of minutes - especially ... DLC" (49057800).
+- **Humble Bundle and free copies keep arriving:** 48268769, 48509030, 49101056 (Humble Bundle) and 48499440 ("only recommend this game if you can get it for free, which was my case").
+- 49415430: a perfect flank wiped by "a guy with Meltagun". 48986279: plays on an AMD APU with 4GB RAM. 49261581: bought all the DLC and can't find it (reviewer's account). 49081392 (thumbs down): "big room kill ..., next room, kill it ... a cut scene every other room".
+
+**Next:** Space Marine batch 36 (50 reviews).
