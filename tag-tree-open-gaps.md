@@ -14764,3 +14764,9 @@ Twelfth and last unit of the 09:44 firing (twelve a firing; the firing did 12 un
 First unit of the 10:44 firing (twelve a firing). Wrote `findings/sniper-elite-resistance-english.md` from `templates/findings-english-page.md`: 971 of 3,304 read (±3.02%), 76.1% thumbs up, 1,956 bullets on 199 tags, 6 used in this game only; 109.8 complaints and 88.1 praise per 100 (ratio 0.80); thumbs up by period 72.8% launch, 75.8% spring 2025, 78.4% late 2025, 78.4% 2026. Rico's invasion question answered from the full read: 67 reviews take a side on invasion - 43 praise only, 14 complain only, 10 both; the page closes with 12 Dominion lessons for the bounty-hunter idea. No tree change.
 
 **Next:** the Sniper Elite: Resistance master page, from `templates/findings-master-page.md`.
+
+## Notes - round 1091 (Sniper Elite: Resistance master page)
+
+Second unit of the 10:44 firing. Wrote `findings/sniper-elite-resistance.md` from `templates/findings-master-page.md`: the division table, the top 25 complaints and praise with a plain-words column, and the finding - a stranger hunting players inside their own mission is liked by both sides when it is fair and can be turned off (42 reviews play to invade, 14 enjoy being invaded, 6 find it unwelcome; the draw holds from 4.1 per 100 at launch to 5.2 in 2026). No tree change.
+
+**Next:** cross-game section 36 (Sniper Elite: Resistance) in `findings/cross-game.md`, from `templates/cross-game-section.md`.
