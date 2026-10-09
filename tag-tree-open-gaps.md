@@ -14908,3 +14908,13 @@ Tenth unit of the 11:44 firing. Arma 3 batch 10: 50 reviews, 94 bullets (1.88 pe
 - **The thumbs down:** 14377315 (under 25 fps for two years, Operation Arrowhead better, $16 for two helicopters, a washed-out sky); 14911599 (frame rates on a GTX 980); 15145669 (bugs and lag); 14134038 (thumb down, text "i like").
 
 **Next:** Arma 3 batch 11 (50 reviews).
+
+## Notes - round 1106 (Arma 3 batch 11)
+
+Eleventh unit of the 11:44 firing. Arma 3 batch 11: 50 reviews, 98 bullets (1.96 per review), 12 thumbs down (the most so far), written 2015-04-07 to 2015-06-15. 23 reviews are 15 words or fewer. No tree change.
+
+- **Thumbs down reasons:** frame rates and desync in multiplayer (15972421, 15497141: "It has gone from Beta to Alpha"); an unpatched campaign soft-lock and no support (15497570); enemy AI (15257553); stamina, sway and hit counts (16431200); glitches, inconsistent fall damage and a frustrating AI squad (16106443); kicked from servers (15972177); antivirus to be uninstalled for it to run (15971787); Apex servers empty because the DLC splits players (16250451); input lag and aim (15733473); crude insults at the players (15391627); a Russian joke (16248280).
+- **Co-op against AI:** Invade and Annex named twice as 30-60 players against the AI army (15628823, 15733313); Antistasi with friends (15971808); Domination (16106956).
+- **Read:** the editor and terrain tools are hard to learn (15392852); server admins with "a God complex" and TeamSpeak required (15845359); the studio's near-monopoly leaves it "little incentive to improve" (15629008).
+
+**Next:** Arma 3 batch 12 (50 reviews).
