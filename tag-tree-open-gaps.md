@@ -14979,3 +14979,14 @@ Fifth unit of the 12:45 firing. Arma 3 batch 17: 50 reviews, 66 bullets (1.32 pe
 - **Read:** friends or a group (7); mods (8); "Arma physics" again (3).
 
 **Next:** Arma 3 batch 18 (50 reviews).
+
+## Notes - round 1113 (Arma 3 batch 18)
+
+Sixth unit of the 12:45 firing. Arma 3 batch 18: 50 reviews, 81 bullets (1.62 per review), 7 thumbs down, written 2016-09-22 to 2016-11-30. 20 reviews are 15 words or fewer. No tree change. The first run was refused for one mistyped id (25788618 for 25788818); fixed and rerun, nothing written in between.
+
+- **Zeus again** (25913914): "basically it's a D&D type of game where someone is a Game Master and creates scenarios on the fly ... Every Zues match I have played (alot already) has been completely different". Eighth game-master sighting.
+- **DLC splits players:** 28109149 - multiplayer "basically dead", 2-6 players on most servers, and every server they found needed $15 of DLC; 25910436 - "$54 game that is pay to win" through $100 of DLC (the reviewer's view); 26746541 - fix the frame rate instead of selling Apex; 28108741 - an Apex watermark covered the screen in a scenario.
+- **The long thumbs down:** 26342806 (edited 2024) - the 2035 setting, armour hit boxes, stamina, poor performance across five graphics cards, AI teammates shooting them in the back, fans who defend every fault.
+- **Squad AI praised:** 25788614 says squad radio calls ("clear", "man down") are only made when a soldier could know, and veteran mode with one save makes every move matter.
+
+**Next:** Arma 3 batch 19 (50 reviews).
