@@ -15934,3 +15934,16 @@ Second unit of the 19:44 firing. Space Marine (2011) batch 25: 50 reviews, 92 bu
 - 28205018 (thumbs down): "Support is no where to be found ... DLC fest". 26325510: "Only Xbox 360 gamepad support". 28550833 says "Worth 90 dollars" with a thumbs down (filed as the thumb contradicting the text).
 
 **Next:** Space Marine batch 26 (50 reviews).
+
+## Notes - round 1195 (Space Marine batch 26)
+
+Third and last unit of the 19:44 firing (rounds 1193-1195; three units, the new pace). Space Marine (2011) batch 26: 50 reviews, 106 bullets (2.12 per review), 8 thumbs down, written 2017-01-05 to 2017-03-23. 14 reviews are 15 words or fewer; 29488257 is in French and English (the English half was used). No tree change.
+
+- **Grind for newcomers:** 30184787 (thumbs down, 5 found it helpful, edited 2024) - "I did not purchase this so that I could be used as a punching bag for the first 20 hours of online play before I can finally unlock the Customizer"; with one inexperienced partner the horde "2000 xp a run was sucking really really hard"; keys can only be checked "from the main menu ... you must abandon the campaign"; in 2024 "It hangs on the splash screen".
+- **Paid unlocks:** 30021309 - multiplayer sells "skins, weapons, gadgets" to players who would rather pay than earn them, "discouraging and more likely than not to make me quit the multiplayer" (filed as money buying an advantage).
+- **The shield, not you, is the badass:** 30370275 - "you only notice that the only thing making you feel like a badass...is your sheild"; Grimskull kills in one hit once it is gone; "If only the campaign was co-op". 30518133: Chaos marines "deal so much damage so quickly i had to hide behind cover".
+- **Peer-to-peer, again:** 30351010 - "No dedicated servers. Because of that the multiplayer died"; 30512624 - host migration with "some guy playing in a random country with high ping".
+- **Field of view:** 30693698 (thumbs down) - "low FOV which cannot be fixed at all ... nasty eye strain" within half an hour.
+- 29767305 (thumbs down): could not find the free demo the store mentions (reviewer's account, not checked). 29615561: a four-player LAN of Exterminatus "with combat knives only".
+
+**Next:** Space Marine batch 27 (50 reviews).
