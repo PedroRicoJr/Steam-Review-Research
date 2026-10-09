@@ -15251,3 +15251,13 @@ Sixth unit of the 14:44 firing. Arma 3 batch 42: 50 reviews, 61 bullets (1.22 pe
 - 99810566: the AI has "the most insane ... aimbot" or is "as dumb as rocks".
 
 **Next:** Arma 3 batch 43 (50 reviews).
+
+## Notes - round 1138 (Arma 3 batch 43)
+
+Seventh unit of the 14:44 firing. Arma 3 batch 43: 50 reviews, 57 bullets (1.14 per review), 4 thumbs down, written 2021-12-07 to 2022-02-14. **40 of 50 reviews are 15 words or fewer**, so 49% of bullets are bare thumbs up. No tree change.
+
+- **Performance, one core:** 105430701 - "apparently it only uses a single core"; 109213704 (2,171 hours shown) - "mostly locked to a single CPU core", 20-30 fps dips on an RTX 3090 "no matter the graphics settings", yet "truly an amazing game".
+- **Mods:** 109748940 - "Default gameplay is garbage. Only play with mods"; 105891955 - mods are easy to toggle, with compatibility warnings.
+- 108649006: "kind of lacking of players"; 109751338, a Project Reality player, found it still fun in 2022 within "a community with the same vibes and culture".
+
+**Next:** Arma 3 batch 44 (50 reviews).
