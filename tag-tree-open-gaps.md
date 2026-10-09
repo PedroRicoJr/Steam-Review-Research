@@ -15045,3 +15045,14 @@ Eleventh unit of the 12:45 firing. Arma 3 batch 23: 50 reviews, 76 bullets (1.52
 - **Faults named:** updates of 10-25 GB and no jumping (35557931); distant ground that hides prone players while bullets hit mounds you can't see, and ghillie suits useless at range (37964266).
 
 **Next:** Arma 3 batch 24 (50 reviews).
+
+## Notes - round 1119 (Arma 3 batch 24)
+
+Twelfth and last unit of the 12:45 firing (twelve a firing; the firing did 12 units, rounds 1108-1119, Arma 3 batches 13-24; two reviews excluded as about other games). Arma 3 batch 24: 50 reviews, 69 bullets (1.38 per review), 7 thumbs down, written 2017-12-23 to 2018-02-28. 34 reviews are 15 words or fewer. No tree change. 1,200 of 3,270 read.
+
+- **Zeus:** 39918146 - "a player sets up the AI and the scenario challenging other players, making it infinitely replayable"; their favourite. Twelfth game-master sighting, in nine of 24 batches.
+- **Without a group:** 39566526 lists the choices for a lone player - role-play servers that "are... not exactly Arma", missions against AI that get boring "very very very fast", or King of the Hill with a year-long learning curve; also terrible ally AI.
+- **Read:** performance (8); 40077733 (207 found it helpful) is a checklist review - masterpiece graphics, wait for a sale, a fast PC, easy to learn and hard to master, few bugs.
+- 39369009 tells a long survival-server story that ends in a truce with the killer.
+
+**Next:** Arma 3 batch 25 (50 reviews).
