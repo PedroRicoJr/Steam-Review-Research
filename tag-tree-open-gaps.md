@@ -15363,3 +15363,16 @@ Fourth unit of the 15:44 firing. Arma 3 batch 52: 50 reviews, 73 bullets (1.46 p
 - 152612932: the Apple version "basically unplayable"; 153675283: "strategic squad with PUBG looting".
 
 **Next:** Arma 3 batch 53 (50 reviews).
+
+## Notes - round 1148 (Arma 3 batch 53)
+
+Fifth unit of the 15:44 firing. Arma 3 batch 53: 50 reviews, 68 bullets (1.36 per review), 3 thumbs down, written 2024-01-07 to 2024-03-15. 33 reviews are 15 words or fewer. No tree change. (A first draft filed the AA-turret complaint below under "judged unfairly", a reputation note; caught in the dry run and moved to "losses feel arbitrary" before the write.)
+
+- **Public servers:** 159566378 (thumbs down) - "most servers are pay to win" (reviewer's account), "You have been killed from more than 2000 meters from an AA turret", then time and in-game money to get back; no teammate helped when pinned; "8/10 for the campaign, helicopter and jet system and a 5/10 for the multiplayer servers".
+- **The older game was freer:** 160061226 (thumbs down) - the first Arma let you "jump into any vehicle or aircraft mid mission ... the best part of arma was its utter freedom"; here "your always tied down to a team".
+- **Region:** 155513441 - "it have only Europe surver if you are from asia dont buy it" (reviewer's account).
+- **The way in:** 160615647 - start on King of the Hill, then RHS servers; "the harder more time consuming version of squad".
+- **Zeus:** 157289883 - joke edits, "past 70 hour mark i figured out you can make helicopters land in zeus" (31st game-master sighting).
+- 158926162 (2,366 hours) back on Linux through Proton: "Arma 3 is a toolkit more than it is a game". Two reviews in Russian.
+
+**Next:** Arma 3 batch 54 (50 reviews).
