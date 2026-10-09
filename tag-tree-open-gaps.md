@@ -15389,3 +15389,15 @@ Sixth unit of the 15:44 firing. Arma 3 batch 54: 50 reviews, 61 bullets (1.22 pe
 - 161918525 gives a path in: "play eden editor then play scenarios then try milsim then addicted".
 
 **Next:** Arma 3 batch 55 (50 reviews).
+
+## Notes - round 1150 (Arma 3 batch 55)
+
+Seventh unit of the 15:44 firing. Arma 3 batch 55: 50 reviews, 61 bullets (1.22 per review), 4 thumbs down, written 2024-06-07 to 2024-08-15. 36 reviews are 15 words or fewer. No tree change. Personal details in 166888542 and a named friend in 168639515 left out.
+
+- **A subscription claim, first sighting in Arma:** 171190279 (thumbs down, edited 2026) - "Adding a subscription model THIRTEEN YEARS after launch is a great way to alienate potential new players and cause an entire community ... to lose its already weakened trust" (reviewer's account, not checked). Filed under the studio losing trust, since that is what the review says the change did; `findphrase` style search of Arma summaries found no earlier "subscription".
+- **DLC as a wall:** 169284405 (thumbs down) - "the way steam sells all the dlc separatley is a scam. its no better than pay to play mobile games"; 168648427 - "make sure u buy the apex dlc too".
+- **A farewell:** 166888542 (9,847 hours) quits after 15 years of the series: "the best military simulator ever ... Big thanks to Bohemia and all the community for keeping this masterpiece together!"
+- **A newcomer's map of the game:** 170588329 - $2 in the sale, King of the Hill, mods for the Falklands, Korea, Soviet-Afghan and Iran-Iraq wars, runs on Intel UHD 620, "not really hard ... though be willing to learn".
+- 167443139: "70% of my hours logged are from me falling asleep waiting for this game to load".
+
+**Next:** Arma 3 batch 56 (50 reviews).
