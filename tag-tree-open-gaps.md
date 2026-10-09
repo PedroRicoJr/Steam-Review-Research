@@ -15960,3 +15960,15 @@ First unit of the 20:44 firing. Space Marine (2011) batch 27: 50 reviews, 91 bul
 - 31293618: "paid co-op" (the Chaos Unleashed DLC mode, reviewer's view). 30751628: "Horde mode is fantastic: you truly feel like a God among men".
 
 **Next:** Space Marine batch 28 (50 reviews).
+
+## Notes - round 1197 (Space Marine batch 28)
+
+Second unit of the 20:44 firing. Space Marine (2011) batch 28: 50 reviews, 89 bullets (1.78 per review), 6 thumbs down, written 2017-06-08 to 2017-08-31. 22 reviews are 15 words or fewer. No tree change. 34173479's guess about a romance subplot is left out.
+
+- **The fullest balanced account:** 32603911 (18 found it helpful) - "You feel like a tank, but you aren't invincible ... When you fight traitor marines, or other players in multiplayer, it feels like a clash between titans"; the factories "blare constant messages to long dead workers"; co-op waves rise "until you reach what is essentially an unbeatable last wave"; peer-to-peer is "a blessing or a curse ... there are no servers to be shut down"; "You can't choose which faction you play as ... you can't work towards cosmetics for one faction while playing the other".
+- **For newcomers:** 32578328 (132 found it helpful) - "the first Warhammer 40k game I really really enjoyed ... it doesn't require the massive wealth of knowledge"; "enough variety in location, ability and configurations that it rarely feels like a slog".
+- **Healing, again, both sides:** 32261288 - "prolonged kill animations that grant you health leave you exposed and you can lose just as much health as you gain"; 33488355 - "some tiny little orc will inevitably bump into you and kill you mid combo"; 34173479 (thumbs down) - healing only by executions that "enemies can counteract", "largely unexplained".
+- **Cover and collision:** 32261288 - own grenades bounce off rubble into you; 33488355 - "sniping behind the box but hitting the top of the box instead of the orc". Bugs: stuck in a wall and falling through the floor (32261288, 33920909); door prompts that never appear (33916824, chapters 3 and 7).
+- 33738003 (thumbs down): an hour, "it loaded for 90% of it". 32972239 (thumbs down): "had its' budget cut half way through"; DOOM (2016) did attack-to-heal better. 33499942: online "most of the people ... are veterans".
+
+**Next:** Space Marine batch 29 (50 reviews).
