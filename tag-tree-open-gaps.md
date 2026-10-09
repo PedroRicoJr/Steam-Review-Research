@@ -15450,3 +15450,16 @@ Eleventh unit of the 15:44 firing. Arma 3 batch 59: 50 reviews, 65 bullets (1.30
 - 192800508 (9 found it helpful): "stuck trying to figure out how to operate a radio for 15 minutes - and loving it"; 194429870: "why isnt jump on space".
 
 **Next:** Arma 3 batch 60 (50 reviews).
+
+## Notes - round 1155 (Arma 3 batch 60)
+
+Twelfth and last unit of the 15:44 firing (twelve a firing; the firing did 12 units, rounds 1144-1155, Arma 3 batches 49-60; one review excluded as copypasta, one bullet re-homed). Arma 3 batch 60: 50 reviews, 68 bullets (1.36 per review), 3 thumbs down, written 2025-06-22 to 2025-08-31. 37 reviews are 15 words or fewer. No tree change. 270 reviews remain (batches 61-66).
+
+- **Zeus and the DLC wall in one review:** 197906316 - "I especially love the zeus gamemode. Having a game master that directs, creates and simulates missions makes it even more fun to play" (the 32nd game-master sighting), then "Alot of the vehicles, weapons, attachments, levels and even clothing items are locked behind DLC ... you're stuck with certain things that can even handicap some of the gameplay elements". 197902943: "almost like playing D&D + mil sim".
+- **A one-hour newcomer:** 199887700 - no guide to online play, stamina that ruins aim, "only 4 slots for a pilot", a 15-minute ride then "INSTA death from ANti-AIR guns", and the DLC "should be included".
+- **Can't get in:** 203287431 (thumbs down) - two days stuck on the loading screen for any server, "apparently this has been a problem for years" (reviewer's account).
+- **What it asks of you:** 202196105 - "you really need to come into this game wanting to find mods and a community", "hiking 20 minutes to find any combat - and it could end without you firing a shot", shooting "intentionally feels clunky".
+- **A console player's view:** 199234277 - Ghost Recon still felt "gamey"; the single-player campaigns were enough.
+- Three short reviews in Portuguese and Arabic (one a political remark, recorded only as such).
+
+**Next:** Arma 3 batch 61 (50 reviews).
