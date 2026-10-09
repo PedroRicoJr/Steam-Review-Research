@@ -2009,3 +2009,4 @@ game-design.modes.a-companion-app-plays-part-of-the-game | + | A separate app, u
 game-design.world-interaction.you-cannot-pilot-your-own-ship | - | The game gives the player a ship that carries them between places, but travel is done from a map or a scene an
 game-design.modes.invading-another-players-mission-is-the-draw | + | The game lets a player enter another player's mission against the computer as an enemy hunter, and the reviewe
 game-design.modes.the-invader-is-kept-short-of-gear | - | The player who invades another player's mission gets a narrow choice of weapons, or cannot pick up the ammunit
+game-design.modes.being-invaded-by-another-player-is-fun | + | Another player can enter the reviewer's own mission against the computer as an enemy hunter, and the reviewer 

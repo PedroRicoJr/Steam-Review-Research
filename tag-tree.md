@@ -12821,6 +12821,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1068, Sniper Elite: Resistance batch 1.** Built under Rule C on the first sightings: 187397935 ("Invasion mode is the only mode I can derive joy from") and 187403725 ("the Invader loadout choices are extremely limited..like, a whopping 4 rifles", and the invader "cant pick up medpacks, ammo ..anything..."). `findphrase` for "invad" and "invasion" found no earlier note about one player entering another's mission. Rico asked on 2026-10-09 whether players like or hate being invaded; the keyword scan is `findings/sniper-elite-resistance-invasion-scan.md`.
 
+## Modes added in Sniper Elite: Resistance batch 2 - round 1069 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.being-invaded-by-another-player-is-fun` | **+** | Another player can enter the reviewer's own mission against the computer as an enemy hunter, and the reviewer counts being hunted that way - the tension, the cat and mouse - as part of the fun. **The host's side of `.invading-another-players-mission-is-the-draw`** (the invader's side) and distinct from `.the-pvp-is-good` (a separate player-versus-player mode). |
+
+🔑 **Round 1069, Sniper Elite: Resistance batch 2.** Built under Rule C on the first sighting, 187314581: "I find Axis Invasion really fun, no matter what end of it I end up being" (filed on both sides). Its negative mirror - being invaded too often, or not wanting it at all - is not built until a review says it.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

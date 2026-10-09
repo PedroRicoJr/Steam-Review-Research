@@ -14580,3 +14580,13 @@ Eleventh unit of the 08:44 firing (twenty a firing; outside the third pace test'
 The batch's main verdict is that it is Sniper Elite 5 again: 13 notes say it should have been an add-on to Sniper Elite 5 at a lower price, 8 that it changes too little, and 12 that more of the same is the point. Other points: movement that won't take stairs, ladders or low walls (4 reviews), too few or too small multiplayer maps (5 reviews), the propaganda timed missions split (2 like, 2 dislike). 187385522 (975 hours shown) says it was outsourced and that they were blocked on the Steam forum for reporting bugs (reviewer's claims, not checked). One crude remark is recorded only as such; a reviewer's personal details are left out.
 
 **Next:** Sniper Elite: Resistance batch 2 (50 reviews).
+
+## Notes - round 1069 (Sniper Elite: Resistance batch 2)
+
+Twelfth unit of the 08:44 firing (twenty a firing; outside the third pace test's test set). 50 reviews, 2025-02-05 to 2025-02-14; 10 thumbs down; 99 bullets; none excluded; one review in German, one with no text.
+
+**1 mode built (Rule C):** `game-design.modes.being-invaded-by-another-player-is-fun` (+), the host's side of round 1068's invader mode, on 187314581: "I find Axis Invasion really fun, no matter what end of it I end up being" (filed on both sides). The negative mirror waits for a review that says it.
+
+The first week's verdict holds: 6 notes say it should have been an add-on to Sniper Elite 5, 6 that it changes too little, 9 that more of the same is fine, 4 that it reuses SE5's assets. Too little content in 5 notes, mostly the multiplayer's three or four maps (187312727, 8 found it helpful: "three little maps for 16 people"). 187319681 lists what the campaign lacks: "Way too few Germans", no tanks, turrets or machine-gun nests, about three enemy snipers, and paths that "paths like a train"; it also finished the Hitler DLC in 16 minutes (reviewer's account). 187338039 crashes to desktop after 5-10 minutes and is past the refund limit. One jab at the cast's diversity is recorded only as that.
+
+**Next:** Sniper Elite: Resistance batch 3 (50 reviews).
