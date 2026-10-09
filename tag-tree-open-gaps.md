@@ -15034,3 +15034,14 @@ Tenth unit of the 12:45 firing. Arma 3 batch 22: 50 reviews, 63 bullets (1.26 pe
 - **Read:** performance (7); community modes (8); Squad named again - this time Arma is the better buy (33747538).
 
 **Next:** Arma 3 batch 23 (50 reviews).
+
+## Notes - round 1118 (Arma 3 batch 23)
+
+Eleventh unit of the 12:45 firing. Arma 3 batch 23: 50 reviews, 76 bullets (1.52 per review), 3 thumbs down, written 2017-10-07 to 2017-12-15. 30 reviews are 15 words or fewer. No tree change.
+
+- **Zeus:** 35557931 - "ZEUS mode = live mission editor, zeus player creates scenarios WHILE other players are playing". Eleventh game-master sighting.
+- **Getting in:** four reviews could not join servers or play - no servers joinable (36348872, 36540162), missing mods (36540052, who wants a refund), "I have no idea what I'm doing" (35760144).
+- **Groups:** 38140157 (70 found it helpful) calls it "likely the most organized gaming community ever ... tons of units, clans, streamers, gameplay styles, modmakers and events"; 37962170 advises finding a unit.
+- **Faults named:** updates of 10-25 GB and no jumping (35557931); distant ground that hides prone players while bullets hit mounds you can't see, and ghillie suits useless at range (37964266).
+
+**Next:** Arma 3 batch 24 (50 reviews).
