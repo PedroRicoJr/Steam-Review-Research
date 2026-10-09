@@ -12876,6 +12876,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1103, Arma 3 batch 8.** Built under Rule C on 12019488: "zeus allows players to run a realtime strategy game, spawing units and giving them direct orders and conditions to meet an objective." `findphrase` "game master", "gamemaster", "zeus" and "dungeon master" found no earlier note on the mode (one "Zeus patch" note, 10487105, is about an update). Close to Rico's bounty-hunter idea: a human directing the enemy side of a co-op run.
 
+## Modes added in Arma 3 batch 64 - round 1159 (Rule C)
+
+### `publishing.monetisation-practice`
+| Mode | | Definition |
+|---|---|---|
+| `.a-subscription-was-added-after-launch` | **−** | A game that was bought outright adds a paid monthly subscription (for example a pass to all its paid add-ons) years after release, and the reviewer objects to the subscription itself or to what it signals for the studio's future pricing. **Distinct from `.mtx-in-premium-game`** (one-off purchases inside a bought game, not a recurring fee), from `publishing.dlc-and-editions.*` (the add-ons themselves) and from `marketing.discovery.came-through-a-subscription` (playing it on a subscription service). |
+
+🔑 **Round 1159, Arma 3 batch 64.** Built under Rule C on 224464924 (296 found it helpful): "A subscription model has no place in this form for video games, it only can make sense for MMO's". `findphrase` "subscription" found one earlier note on the same change, Arma 3 171190279 (filed in round 1150 under the studio losing trust, now re-homed here), and none in other games: the other "subscription" notes are about playing on a subscription service or praise for having none.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

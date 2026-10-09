@@ -15499,3 +15499,15 @@ Third unit of the 16:44 firing. Arma 3 batch 63: 50 reviews, 56 bullets (1.12 pe
 - 218900568: "makes it onto the news outlets almost every major war"; 223330628: "+ lots of mods to choose from / - lots of mods to choose from". Short reviews in Persian and Turkish.
 
 **Next:** Arma 3 batch 64 (50 reviews).
+
+## Notes - round 1159 (Arma 3 batch 64)
+
+Fourth unit of the 16:44 firing. Arma 3 batch 64: 50 reviews, 57 bullets (1.14 per review), 5 thumbs down, written 2026-04-22 to 2026-06-30. 39 reviews are 15 words or fewer. **One mode built (Rule C); tree 2,018 -> 2,019.**
+
+- **New mode: `publishing.monetisation-practice.a-subscription-was-added-after-launch` (−).** On 2026-04-30 four reviews turned to thumbs down over a paid subscription added to the game: 224464924 (613 hours, **296 found it helpful**) - "A subscription model has no place in this form for video games, it only can make sense for MMO's"; 224999161 - "Love this game but leaving a bad review cause of the subscription pass"; 226868066 (2,652 hours) - a crude line about "the arma pass"; 224467725 (2,949 hours, 11 found it helpful) - "$9 a month for access to all the DLCs ... setting the stage for more aggressive monetisation", and wants Arma 4 "free of subscriptions, battle passes, FOMO, lootboxes". The price and timing are the reviewers' account, not checked. `findphrase` "subscription" found one earlier note on the same change (171190279, round 1150), which is **re-homed** here with `rehome`, its text trimmed, and a second bullet added under the studio losing trust (what that review also says). No other game has a note like it. dircheck 0 after.
+- **Zeus, once more:** 224467725 - "Arma 3 is military D&D ... nearly unheard of 'Zeus' game master mode lets you build and run unique missions and campaigns that naturally change based on player outcomes ... if you suddenly decide 'this Skywalker guy is trouble, we should take him out now,' you can do that and the GM can build on it" (34th game-master sighting). For Dominion: the review that loves the game master most is also the one most worried about how the studio will charge for it.
+- **Disk space:** 223877956 - mods took the install "from 30 GB to ~130 GB".
+- **10 fps jokes:** 224464577, 225611156, 228019081 ("1 fps is playable").
+- 226894940: "The editor is the greatest gift for those with a god-complex"; 227450381 finds the editor the hardest part. Short reviews in Polish and Indonesian.
+
+**Next:** Arma 3 batch 65 (50 reviews).
