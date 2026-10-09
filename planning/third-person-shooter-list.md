@@ -46,7 +46,7 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 | C16b | Mass Effect (2007) | 17460 | Dec 19, 2008 | 16,575 | 94% | 10,553 | no |  |
 | C16c | Mass Effect 2 (2010 Edition) | 24980 | (no date shown) | 15,544 | 94% | 9,927 | no | no store date shown; a newer re-listed page, 2362420, has only 386 reviews |
 | C16d | Mass Effect 3 N7 Digital Deluxe Edition (2012) | 1238020 | Jun 11, 2020 | 2,805 | 77% | 1,755 | **Done** (row 21 of `GAMES-TODO.md`; findings 2026-10-07, cross-game section 34, takeaways entry in) |  |
-| C16e | Mass Effect: Andromeda Deluxe Edition | 1238000 | Jun 11, 2020 | 18,837 | 74% | 11,181 | **WIP** (row 22 of `GAMES-TODO.md`, pulled 2026-10-07) |  |
+| C16e | Mass Effect: Andromeda Deluxe Edition | 1238000 | Jun 11, 2020 | 18,837 | 74% | 11,181 | **Done** (row 22 of `GAMES-TODO.md`; findings 2026-10-09, cross-game section 35, takeaways entry in) |  |
 | C17 | EARTH DEFENSE FORCE 5 | 1007040 | Jul 11, 2019 | 11,543 | 94% | 7,203 | **Done** (row 10 of `GAMES-TODO.md`; findings 2026-09-30, cross-game section 23) | online co-op and split-screen co-op |
 | C18 | Black Gunner Wukong | 2270750 | Feb 4, 2024 | 485 | 98% | 45 | no | **Under the 500 floor.** Rico's pick. Not Black Myth: Wukong (2358720), which is a different game |
 | C19 | Mad Max | 234140 | Sep 1, 2015 | 90,599 | 92% | 41,378 | no |  |
@@ -63,7 +63,7 @@ In the order Rico gave them. Where Rico said "all of them", every Steam app is a
 | C28 | The First Descendant | 2074920 | Jun 30, 2024 | 112,468 | 57% | 51,172 | **Done** (row 12 of `GAMES-TODO.md`; findings 2026-10-03, cross-game section 25) | free-to-play third-person co-op looter shooter |
 | C29 | Warframe | 230410 | Mar 25, 2013 | 683,928 | 87% | 302,897 | **STOPPED** at 700 read | Rico keeps it for third-person shooter research |
 | C30 | 007 First Light | 3768760 | May 26, 2026 | 46,725 | 91% | 23,792 | no |  |
-| C31 | Arma 3 | 107410 | Sep 12, 2013 | 298,392 | 90% | 140,271 | no |  |
+| C31 | Arma 3 | 107410 | Sep 12, 2013 | 298,392 | 90% | 140,271 | **WIP** (row 24 of `GAMES-TODO.md`, pulled 2026-10-09) |  |
 | C32a | Call of Duty (2003) | 2620 | Oct 13, 2006 | 7,873 | 95% | 3,896 | no | Rico: "all of the Call of Duties". First person. |
 | C32b | Call of Duty: United Offensive | 2640 | Oct 13, 2006 | 2,444 | 87% | 1,263 | no | expansion to the 2003 game, sold as its own app |
 | C32c | Call of Duty 2 | 2630 | Oct 13, 2006 | 11,591 | 94% | 5,167 | no |  |

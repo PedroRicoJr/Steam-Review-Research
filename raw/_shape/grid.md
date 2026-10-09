@@ -1,7 +1,7 @@
 # Corpus shape grid
 
 How many reviews exist for every game x language x month.
-Built 2026-10-09 09:02:50 UTC. Rebuild with `python build_grid.py`.
+Built 2026-10-09 10:58:17 UTC. Rebuild with `python build_grid.py`.
 
 **NOT COMMITTED** - regenerate rather than store.
 
@@ -12,6 +12,7 @@ Built 2026-10-09 09:02:50 UTC. Rebuild with `python build_grid.py`.
 | `aliens-fireteam-elite/english` | 62 | 17,551 | 2021-08 (4,450) |
 | `arc-raiders/english` | 12 | 251,588 | 2025-11 (106,277) |
 | `arcrunner/english` | 30 | 177 | 2023-05 (64) |
+| `arma-3/english` | 164 | 140,386 | 2019-11 (3,317) |
 | `back-4-blood/brazilian` | 59 | 2,092 | 2024-12 (182) |
 | `back-4-blood/english` | 59 | 33,769 | 2021-10 (7,631) |
 | `back-4-blood/latam` | 59 | 712 | 2021-10 (64) |
