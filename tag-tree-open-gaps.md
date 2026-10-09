@@ -15947,3 +15947,16 @@ Third and last unit of the 19:44 firing (rounds 1193-1195; three units, the new 
 - 29767305 (thumbs down): could not find the free demo the store mentions (reviewer's account, not checked). 29615561: a four-player LAN of Exterminatus "with combat knives only".
 
 **Next:** Space Marine batch 27 (50 reviews).
+
+## Notes - round 1196 (Space Marine batch 27)
+
+First unit of the 20:44 firing. Space Marine (2011) batch 27: 50 reviews, 91 bullets (1.82 per review), 8 thumbs down, written 2017-03-21 to 2017-06-05. 13 reviews are 15 words or fewer. No tree change. A crude remark in 31438440 is recorded only as a remark.
+
+- **How the world sells the power:** 31519876 (2,613 hours, 40 found it helpful) - "you can tell, not just from how powerful you are in combat, but from the way the world reacts to you ... 'I got to see a Space Marine before the end'"; lore comes through "automated announcements ... 'If you are injured, return to your quarters; the Machine God will watch over you'". 31735854: "even the sound of you running makes a resonating BOOM".
+- **Multiplayer in 2017:** 31519876 - public games "only happen in Seize Ground ... on classic maps"; DLC maps only "in private games, duels or arranged games with friends". 31283226 (thumbs down, 24 found it helpful): "daily population around 60 players, as of 2017" (reviewer's figure). 32044667 ("a ridiculous jump pack fest") and 32161944 ("thunderhammer and stalkerbolter spam") name what dominates; 32091042: newcomers "will get stomped".
+- **Too easy, or too spongy:** 31438440 (thumbs down) - "Even on Hard difficulty, this was so easy that it couldn't keep my interest"; 31283226 says start on hard, as "the first two-thirds of it are a boring slog". Against them, 31722756: on hard "the guns become almost mendatory" and "the third act ... The enemies become so bullet spongy".
+- **Breaks for good:** 31527288 (thumbs down) - the same game-breaking glitch through "4 fresh installs"; 30945140 (thumbs down) - a crash at one point stops them finishing. 32038136 (thumbs down): the Dreadnought DLC "doesn't work", with no support.
+- **Voices:** 31283226 heard "'Space Marine!' about a hunderd times"; 30953530: "bland, with monotone voices and no expressions"; the last boss "simply is quick time action".
+- 31293618: "paid co-op" (the Chaos Unleashed DLC mode, reviewer's view). 30751628: "Horde mode is fantastic: you truly feel like a God among men".
+
+**Next:** Space Marine batch 28 (50 reviews).
