@@ -15078,3 +15078,14 @@ Second unit of the 13:44 firing. Arma 3 batch 26: 50 reviews, 75 bullets (1.50 p
 - **Mods carry it:** 43704403 knows nobody who plays the base game; 42413195 (9,158 hours shown) says it is phenomenal only with community content and the official tools have "the GUI from twenty years ago".
 
 **Next:** Arma 3 batch 27 (50 reviews).
+
+## Notes - round 1122 (Arma 3 batch 27)
+
+Third unit of the 13:44 firing. Arma 3 batch 27: 50 reviews, 81 bullets (1.62 per review), 6 thumbs down, written 2018-08-07 to 2018-10-15. 24 reviews are 15 words or fewer. No tree change.
+
+- **Zeus three times:** "very fun and ingaging especially for long zues opperations" (44172997); multiplayer "(especially the gamemode 'Zeus') can be very fun" (44497739); and the base AI is "hard to deal with while Zeusing" (44335345). Seventeen game-master sightings.
+- **DLC splits players:** 45165361 - players without DLC "are denied a suprising chunk of servers"; 45283939 - buy all the DLC or servers lock their gear; 43989499 - can't pick up a weapon off the ground without its DLC.
+- **Communication:** 44334287 - "Arma isn't a game you play without friends or a mic"; operations go wrong when players refuse orders.
+- **The thumbs down also:** 43990807 - a global BattlEye ban and being told to rebuy (the reviewer's account); 44175355 - no M4 as a default weapon; 45283638 - aimbot-like AI, a frustrating campaign, a seven-tab squad command menu.
+
+**Next:** Arma 3 batch 28 (50 reviews).
