@@ -15541,3 +15541,9 @@ Sixth unit of the 16:44 firing. Arma 3 batch 66: 20 reviews, 27 bullets (1.35 pe
 Seventh unit of the 16:44 firing. `count.py --group arma-3/english` wrote the 164 monthly stats files and the group file: 140,386 reviews counted, 3,270 read, 4,639 observations (1.4 per review; the count of bullet lines in the summaries is also 4,639). All 164 months are partly read; the group file names 2019-11 as the heaviest weight, at about x166. Top weighted tags: thumbs up with no reason 29.9%, a true simulation not an arcade shooter 6.8%, mods extend the game 5.4%, a mod adds a mode the studio never shipped 3.6%, poorly optimised 3.5%, much better with friends 2.5%. The game-master mode (Zeus) is 27th at 0.7% (31 notes). No tree change.
 
 **Next:** the Arma 3 English findings page, from `templates/findings-english-page.md`.
+
+## Notes - round 1163 (Arma 3 English findings page)
+
+Eighth unit of the 16:44 firing. Wrote `findings/arma-3-english.md` from `templates/findings-english-page.md`: 3,264 of 140,386 read (±2.00%), 90.7% thumbs up, 4,639 bullets on 236 tags, 4 used in this game only; 37.5 complaints and 97.4 praise per 100 (2.6 praise to each complaint; only Crab Champions, Deep Rock Galactic and Alien Swarm have fewer complaints per 100). Thumbs up by period 98.0% (2013), 89.6%, 88.0%, 91.5%, 91.5%, 91.1% (2025-2026). Three stories: Zeus, the game-master mode (31 notes, 35 reviews name it, no complaints about the idea); the paid add-ons, pop-ups, split servers and the 2026 subscription (111 reviews, 63 of the 305 thumbs down); and a game carried by mods and player groups. **Checked against the store (2026-10-09):** "Subscribe to the Arma 3 Pass ... $8.99 / month", and the base game "includes the Apex and Contact expansions". The page closes with 12 Dominion lessons, the first three about a player who directs the enemy side. No tree change.
+
+**Next:** the Arma 3 master page, from `templates/findings-master-page.md`.
