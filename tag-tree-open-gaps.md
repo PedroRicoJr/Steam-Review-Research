@@ -15067,3 +15067,14 @@ First unit of the 13:44 firing (twelve a firing). Arma 3 batch 25: 50 reviews re
 - **Support:** 41188390 says the developers announced they would leave after the Tanks DLC (the reviewer's claim, not checked); 41511481 says drone bugs stay broken for years and reports are ignored.
 
 **Next:** Arma 3 batch 26 (50 reviews).
+
+## Notes - round 1121 (Arma 3 batch 26)
+
+Second unit of the 13:44 firing. Arma 3 batch 26: 50 reviews, 75 bullets (1.50 per review), 6 thumbs down, written 2018-05-23 to 2018-07-31. 30 reviews are 15 words or fewer. No tree change.
+
+- **DLC locks the servers:** 43548891 came back after a break and "can now find no servers that I can access ... all the servers now seem to require all the DLC"; 42196903 (24 found it helpful) says Apex ads block the screen in the base game; 43555282 says every DLC should have been an update. 42746068 says $80 of DLC made the game feel refreshed.
+- **Zeus:** 42746582 - "endless scenarios you can create with the eden editor or with the in game editor zeus". Fourteenth game-master sighting.
+- **The long thumbs down:** 43382476 (edited 2023) - Arma 2 was easier to get a battle going; a launcher that pushes DLC before the game loads, a maze of menus, a harder editor, AI headshots from 1 km, pop-in, long loads, broken key remapping, an unskippable campaign intro; a much stronger PC in 2023 still struggles with 10-versus-10.
+- **Mods carry it:** 43704403 knows nobody who plays the base game; 42413195 (9,158 hours shown) says it is phenomenal only with community content and the official tools have "the GUI from twenty years ago".
+
+**Next:** Arma 3 batch 27 (50 reviews).
