@@ -15303,3 +15303,15 @@ Eleventh unit of the 14:44 firing. Arma 3 batch 47: 50 reviews, 57 bullets (1.14
 - 123506246: "a 'game you really have to want to play' ... you are either making your own fun or having fun on somebody else's stuff"; 128128063 still wishes they could jump.
 
 **Next:** Arma 3 batch 48 (50 reviews).
+
+## Notes - round 1143 (Arma 3 batch 48)
+
+Twelfth and last unit of the 14:44 firing (twelve a firing; the firing did 12 units, rounds 1132-1143, Arma 3 batches 37-48). Arma 3 batch 48: 50 reviews, 67 bullets (1.34 per review), 5 thumbs down, written 2022-12-23 to 2023-02-28. 36 reviews are 15 words or fewer. No tree change.
+
+- **Zeus again:** 132862728 (1,023 hours) - "I highly, highly recommend playing and learning Zeus mode. It is one of the best game modes to ever grace a multiple player game, allowing a player to design, on the fly an entire mission."
+- **The long thumbs down:** 130934067 (2 hours) - the campaign turns into "a boring walking-simulator", squad mates "as blind and unresponsive as before", a poor server browser, modded servers that can't send the files, DLC-only servers, an ugly UI, BattlEye crashes (reviewer's account) and odd AI bugs: "Is this supposed to be 'realism'?"
+- **Old faults:** 132856300 (1,146 hours) - AI shooting through foliage and covered windows "haven't been fixed to this day"; 131424317 (638 hours) - 30-50 fps without a top CPU and RAM.
+- **Reforger:** 133312177 - still "the best milsim shooter", with options few newer games match.
+- 131966291: fun with friends, "a little boring" alone; 130372415: "join a unit"; 129813333: Life role-play servers.
+
+**Next:** Arma 3 batch 49 (50 reviews).
