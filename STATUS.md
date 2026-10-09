@@ -18,8 +18,8 @@ for how the loop runs, and the file in `loops/active/` for the steps.
 |---|---|
 | Updated | 2026-10-07 |
 | Current stage | After stage 3: games from `planning/`, closest to Dominion first - now Sniper Elite: Resistance, Rico's pick of 2026-10-09 (Mass Effect: Andromeda finished in round 1066; Mass Effect 3 (2012) finished in round 1028; Palworld finished in round 999; LORT finished in round 966; Risk of Rain (2013) finished in round 944; Risk of Rain Returns finished in round 874; Alien Swarm in round 836; R.E.P.O. in round 759; ELDEN RING NIGHTREIGN finished in round 722; Roboquest in round 691; The First Descendant in round 649; Crab Champions in round 614; EARTH DEFENSE FORCE 5 finished in round 580; Gunfire Reborn in round 541; Escape from Duckov in round 500; Warframe in round 474; the backlog in round 421) |
-| Last unit done | Round 1206: Space Marine batch 37 (1,850 of 3,566 read; no modes built) |
-| Next unit | Space Marine batch 38 (50 reviews) (GAMES-TODO row 25). **Pace: up to THREE units a firing** (Rico, 2026-10-09, after round 1192: picked from the measured usage table, ~0.42% of the week a firing; no raise without his word) |
+| Last unit done | Round 1207: Space Marine batch 38 (1,900 of 3,566 read; no modes built) |
+| Next unit | Space Marine batch 39 (50 reviews) (GAMES-TODO row 25). **Pace: up to THREE units a firing** (Rico, 2026-10-09, after round 1192: picked from the measured usage table, ~0.42% of the week a firing; no raise without his word) |
 | Backlog | finished: built 347, existing 133, skip 63 (the skips wait on Rico or are jokes) |
 | Tree | 2,021 tags |
 | Warframe | **Done** 2026-09-26 - 3,235 of 3,235 read; `findings/warframe-english.md`, `findings/warframe.md`, cross-game section 20 |

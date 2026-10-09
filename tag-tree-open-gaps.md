@@ -16089,3 +16089,16 @@ Second unit of the 23:44 firing. Space Marine (2011) batch 37: 50 reviews, 79 bu
 - More free copies (51071748, 51128654, 54248767, 54374785). 51160924 (74 found it helpful): a checklist rating it "Worth every penny ... Worth playing every year or so".
 
 **Next:** Space Marine batch 38 (50 reviews).
+
+## Notes - round 1207 (Space Marine batch 38)
+
+Third and last unit of the 23:44 firing (rounds 1205-1207; three units). Space Marine (2011) batch 38: 50 reviews, 84 bullets (1.68 per review), 9 thumbs down, written 2019-08-04 to 2019-10-23. 20 reviews are 15 words or fewer; 54890281 is in English and Polish, 55497757 in Indonesian. No tree change.
+
+- **Grimskull, the boss that works:** 55499128 - "He's smart, knows when to retreat (highly unusual for an Ork), sets traps, uses enemy equipment ... Nemeroth though... isn't ... a glorified QTE"; "the enemies ARE the health packs!"
+- **A 792-hour player, edited this week (2026-10-06):** 54719182 (thumbs down) - "they raised the price from 8 euro to 50 the day the Space Marine 2 Reveal Trailer came out ... an Anniversary Edition with not a single update patch"; versus "full of cheaters, people that break animations to glitch their way through everything and those who abuse the Peer to Peer connection" (reviewer's account; matches 49512500 in round 1205).
+- **The free giveaway's effect:** 55330741 (thumbs down) - "They gave it away for free, and that boosted multiplayer. However still small ... it was given away from free, it has not been updated in a while, and yet they want 30 dollars". 55231045, 54578107: free copies.
+- **Feel of the armour:** 55493914 (29 found it helpful) - "Power Armor feels like an actual Power Armor ... momentum when you run"; melee "swings have momentum and you can't interrupt animations"; ultrawide works, "the FOV could be a bit bigger". 55322739: crackling sound and mouse speed fixed by moving v-sync to the driver (reviewer's account).
+- **Difficulty lock:** 54890281 - "you can't change difficulty level after starting playthrough" (filed under being locked in once started, as an earlier sighting was).
+- 55614248 (14 found it helpful): Exterminatus "was added to the game for free. But if you feel like playing as Chaos instead, you'll need to pick up the Chaos Unleashed Map Pack". 55312443 (thumbs down): the jetpack fixes "the world's worst movement", then is taken away; "you don't get to control the titan". 54724509: no longer runs on Windows 10 1803 (thumbs up).
+
+**Next:** Space Marine batch 39 (50 reviews).
