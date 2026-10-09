@@ -15089,3 +15089,14 @@ Third unit of the 13:44 firing. Arma 3 batch 27: 50 reviews, 81 bullets (1.62 pe
 - **The thumbs down also:** 43990807 - a global BattlEye ban and being told to rebuy (the reviewer's account); 44175355 - no M4 as a default weapon; 45283638 - aimbot-like AI, a frustrating campaign, a seven-tab squad command menu.
 
 **Next:** Arma 3 batch 28 (50 reviews).
+
+## Notes - round 1123 (Arma 3 batch 28)
+
+Fourth unit of the 13:44 firing. Arma 3 batch 28: 50 reviews, 71 bullets (1.42 per review), 3 thumbs down, written 2018-10-23 to 2018-12-31. 30 reviews are 15 words or fewer. No tree change.
+
+- **Zeus:** 45548990 - "Zeus servers have a gamemaster that can create enemies in real time"; 47356580 - "there a zues' out there that will make bloodly amazing missions the people you pick to play with really matters". Nineteen game-master sightings.
+- **Groups and units:** five reviews point new players to military-sim units or organised groups (45829210, 47217434, 47996314, 47356580, 47220091); 47356580 says it "sucks if you play alone".
+- **Official modes:** 47556270 - "War Lords was the game mode I have been waiting for" (Warlords, the studio's own PvPvE mode, 2018).
+- **Over time:** 45548059 says five years of DLC and content made it rich, but the engine shows its age next to Enfusion; 47217434 says the "Make ArmA not War" contest damaged the modding community's openness.
+
+**Next:** Arma 3 batch 29 (50 reviews).
