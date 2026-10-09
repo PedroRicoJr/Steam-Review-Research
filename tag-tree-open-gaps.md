@@ -15111,3 +15111,14 @@ Fifth unit of the 13:44 firing. Arma 3 batch 29: 50 reviews, 74 bullets (1.48 pe
 - 49576010 recommends the Pilgrimage mod for single players.
 
 **Next:** Arma 3 batch 30 (50 reviews).
+
+## Notes - round 1125 (Arma 3 batch 30)
+
+Sixth unit of the 13:44 firing. Arma 3 batch 30: 50 reviews, 75 bullets (1.50 per review), 11 thumbs down, written 2019-03-23 to 2019-05-31. 28 reviews are 15 words or fewer. No tree change. 1,500 of 3,270 read.
+
+- **DLC turns the thumb:** 50274655 (82 found it helpful, 2,361 hours shown) - "devs add in tank interiors after at least 5+ years of asking (and you must pay for it)" instead of fixing issues; 50792030 - about $170 for the game and all DLC, and touching DLC items opens a store page; 50273418 - "pay to play. no servers available without dlc"; 50404407 - "Paid mods part 2" (creator DLC); 50409831 buys creator DLC only at 75% off.
+- **AI:** 50152542 bought it to build single-player battles and calls the AI "shockingly bad"; 50528120 (52 found it helpful) - squad AI steps into your line of fire and fails the mission, and the command menu is unchanged since Operation Flashpoint.
+- **Zeus:** 49714945 - "a good third person mechanic in zeus". Twentieth game-master sighting.
+- **Read:** mods (9); 50661592 says the studio has greatly improved performance over the years though it still swings from 120 to 20 fps; 50409705 - unmodded, "after about 100 hours you'll never want to touch it again".
+
+**Next:** Arma 3 batch 31 (50 reviews).
