@@ -15012,3 +15012,14 @@ Eighth unit of the 12:45 firing. Arma 3 batch 20: 50 reviews, 77 bullets (1.54 p
 - **The thumbs down also:** 31004096 - AI shown where it isn't, "a small pebble rips apart your tank"; 30247497 - lobbies that told them to go away and a black screen; 30860606 - sarcasm about low-end hardware.
 
 **Next:** Arma 3 batch 21 (50 reviews).
+
+## Notes - round 1116 (Arma 3 batch 21)
+
+Ninth unit of the 12:45 firing. Arma 3 batch 21: 50 reviews, 77 bullets (1.54 per review), 4 thumbs down, written 2017-05-07 to 2017-07-15. 31 reviews are 15 words or fewer. No tree change.
+
+- **Zeus:** 32093895 - "you will find yourself lost for hours just playing zues having large scale battles with tanks, helicopters, jets". Tenth game-master sighting.
+- **Read:** DLC split both ways (4 worth it or needed for good multiplayer; 4 too pricey or advertised too much); friends, groups and units (6); performance (5).
+- **The long thumbs down:** 31614614 - no melee or rappelling, DLC ads everywhere, lowering grass detail exposes anyone lying down, no wind so heavy machine guns snipe from 500 m, arguing on comms.
+- 33355662 names Arma as where Battlegrounds started and DayZ continues; also "AI ... smart when opposing you, but dumb as hell when you're ordering them around", and lone wolves get outgunned.
+
+**Next:** Arma 3 batch 22 (50 reviews).
