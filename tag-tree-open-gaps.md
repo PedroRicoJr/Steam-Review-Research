@@ -14792,3 +14792,13 @@ Fifth unit of the 10:44 firing. No reviews read.
 - **Pull:** `pull_sample.py --only arma-3/english`, planned 3,280 (±2.0%; the floor of 20 a month sets the size); running at the time of this note. Its result goes in the next round note.
 
 **Next:** finish the Arma 3 pull, record the count and margin, add GAMES-TODO row 24.
+
+## Notes - round 1095 (Arma 3: pull done, GAMES-TODO row 24)
+
+Sixth unit of the 10:44 firing. No reviews read.
+
+- **Pull:** `pull_sample.py --only arma-3/english` finished at 11:21 UTC (21.5 min): planned 3,280, **got 3,270**, all 3,270 ids distinct. **Actual margin +/-2.00%** (Rule 12, the `true_moe` formula on the count pulled per month). Every month returned its 20 but 2026-10 (nine days old, 10 of 20). The heaviest weight is 2019-11 at x3.9. Read as pulled under Rico's ruling of 2026-09-04.
+- **GAMES-TODO row 24** added (WIP); `planning/third-person-shooter-list.md` C31 marked WIP.
+- 3,270 reviews at 50 a batch is 66 batches; at twelve units a firing, about six firings.
+
+**Next:** Arma 3 batch 1 (50 reviews).
