@@ -14511,3 +14511,13 @@ Second unit of the 08:44 firing (twenty a firing; test set of the third pace tes
 **No modes built.** The combat is praised in 10 reviews, the thumbs-down ones included: 224386800 calls the gunplay "arguably the best in the franchise" before the "boring" plot, and 228520643 says they "never had this much fun with Mass Effect combat" but cannot finish it. Saves are the batch's sharpest fault: 223747128 ("Saved game got corrupted middle of playthrough") and 226760456 ("constant issues with my save games") - reviewers' accounts. 228062251 (12 found it helpful) says gear can only be changed at loadout points outside each area, filed under `missing-quality-of-life`. 227446433 (24 found it helpful) liked it far more on a replay and says story parts hide in side missions that look insignificant. 226892202 says dying too fast can soft-lock the game. 224933785 notes "a profound and inexplicable disconnect" between the world-building and the game you play. One remark blaming hiring politics is recorded only as that (226201540); one one-line joke is recorded as such.
 
 **Next:** Mass Effect: Andromeda batch 31 (50 reviews).
+
+## Notes - round 1060 (Mass Effect: Andromeda batch 31)
+
+Third unit of the 08:44 firing (twenty a firing; test set of the third pace test). 50 reviews, 2026-06-21 to 2026-09-07; 15 thumbs down; 184 bullets; none excluded; 0 Early Access.
+
+**1 mode built (Rule C):** `game-design.world-interaction.you-cannot-pilot-your-own-ship` (−), on its first sighting, 230501249: "You can't fly your ship by your own". `findphrase` found no earlier note.
+
+Two reviewers say the enemies scale with the player, so the side content gives nothing: 231754651 (44 found it helpful; it also says "you stop getting stronger after level 80") and 232827869 ("all the enemies are going to match your level") - filed under `levelling-up-changes-nothing`; reviewers' accounts, not checked. Both also say there is one ending whatever you choose. 232827869 notes the angara speak perfect English seconds after first contact. 230970079 (26 found it helpful) modded it after the trilogy remaster and "no amount of mods could save it". 230497936 says the open profiles let any class use anything, which "kills replayability" - filed under `roles-feel-samey`. The multiplayer splits: 229871418 says the horde mode is "active still", 230501249 says the servers won't work (both reviewers' accounts). 229823206 crashed "continuously" in one boss fight on two computers. Two crude jabs are recorded only as such; one review has no text.
+
+**Next:** Mass Effect: Andromeda batch 32 (35 reviews, the last).

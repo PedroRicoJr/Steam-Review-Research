@@ -12802,6 +12802,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1039, Mass Effect: Andromeda batch 10.** Built under Rule C on the first sighting, 113911607: the companion app "will allow you to play the very time consuming apex missions mini game on your mobile device making it actually enjoyable and with proper upgrades, very profitable" (reviewer's account; the app's current state not checked). `findphrase` for "companion app" found one earlier note, about a different game's quests.
 
+## Modes added in Mass Effect: Andromeda batch 31 - round 1060 (Rule C)
+
+### `game-design.world-interaction`
+| Mode | | Definition |
+|---|---|---|
+| `.you-cannot-pilot-your-own-ship` | **−** | The game gives the player a ship that carries them between places, but travel is done from a map or a scene and the player never flies it, and the reviewer counts that as something missing. **Distinct from `game-design.ui-ux.cannot-skip-what-the-game-plays-at-you`** (the travel scene cannot be skipped; here the wish is to fly at all) and from `game-design.game-feel.controls.vehicles-handle-badly` (a vehicle the player does drive). |
+
+🔑 **Round 1060, Mass Effect: Andromeda batch 31.** Built under Rule C on the first sighting, 230501249: "You can't fly your ship by your own but you can indeed have too much fun". `findphrase` for "fly your ship", "fly the ship", "fly the tempest", "pilot the ship" and "can't fly" found no earlier note.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
