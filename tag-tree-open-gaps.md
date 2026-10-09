@@ -15907,3 +15907,5 @@ Done in chat on Rico's word (2026-10-09), between firings. No reviews read; no t
 - **Share of the week, from those costs** (per firing = units x cost per unit; a week = 168 firings): 1 a firing = 0.20% a firing, ~33% a week; 3 = 0.42%, ~70%; 6 = 0.64%, ~108%; 12 = 1.29%, ~216%; 20 = 3.0%, ~500%. The pace was one unit a firing until 2026-10-05, three from 2026-10-05, then six, twelve and twenty from 2026-10-07, and twelve again from round 1080. Pace is now **one unit a firing** until Rico picks a number. The Routine text, the loop file and STATUS all say so. Scripts: `scripts/usage_from_log.py`, `scripts/usage_report.py`.
 
 **Next:** Space Marine batch 24 (50 reviews), one unit a firing.
+
+**Pace set (Rico, in chat, after the table above): THREE units a firing.** "I think 3 per turn is best then." The Routine text, the loop file and STATUS say three.
