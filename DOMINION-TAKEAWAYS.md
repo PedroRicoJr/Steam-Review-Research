@@ -50,6 +50,7 @@ lessons. Every number was again matched by script against the rebuilt pages.
 
 | Game | Findings written | Thumbs up (sample) |
 |---|---|---|
+| Arma 3 | 2026-10-09 | 90.7% |
 | Sniper Elite: Resistance | 2026-10-09 | 76.1% |
 | Mass Effect: Andromeda | 2026-10-09 | 70.9% |
 | Mass Effect 3 (2012) | 2026-10-07 | 75.5% |
@@ -150,6 +151,7 @@ section 19 and 116.0 in section 20). Each row says which section it is taken fro
 | Alien Swarm | free four-player co-op, top-down, 2010, one campaign | 93.6% | 102.4 | 31.1 | 3.3 : 1 | 1.60 | section 29 |
 | Palworld | open-world survival with creatures, third person, up to four (32 on a server) | 93.6% | 88.2 | 28.2 | 3.1 : 1 | 1.33 | section 33 |
 | Risk of Rain (2013) | 2D co-op runs, up to four, hosted by one player, 2013 | 89.1% | 131.5 | 47.4 | 2.8 : 1 | 1.95 | section 31 |
+| Arma 3 | military simulation sandbox, online co-op and PvP on player-run servers, a player can run the match as game master, 2013 | 90.7% | 97.4 | 37.5 | 2.6 : 1 | 1.42 | section 37 |
 | Warframe | free, long-running co-op | 89.9% | 127.3 | 50.9 | 2.5 : 1 | 2.01 | section 25 |
 | Helldivers 2 | co-op missions, live service | 83.3% | 108.0 | 55.5 | 1.95 : 1 | 1.79 | section 25 |
 | Space Marine 2 | licensed third-person co-op | 87.6% | 116.1 | 61.9 | 1.87 : 1 | 1.99 | section 19 |
@@ -1134,6 +1136,227 @@ reviews said.
 ---
 
 # The games
+
+## Arma 3
+
+**Read:** 3,264 of 140,386 English reviews (2.3%; 6 left out as not reviews of the game), ±2.00%, written
+March 2013 to October 2026 - from the paid Alpha to now. **90.7% thumbs up** in the sample (Steam, all
+languages: 90%, *Very Positive*). **Pages:** `findings/arma-3-english.md`, `findings/arma-3.md`,
+`findings/cross-game.md` section 37.
+
+**What it is:** a military simulation on huge open islands. Players fight as infantry, drive tanks, fly
+helicopters and jets, and follow realistic rules: one bullet can kill, guns drop and drift, and you walk a
+long way. There is a single-player campaign (East Wind), a co-op campaign (Apex Protocol), online play
+against or with other players on servers that players run, an editor for making missions, and **Zeus, a
+mode where one player acts as the game master** and builds the fight live for the others. Most people play
+modes made by fans, not by the studio. Made and published by Bohemia Interactive; released 2013-09-12
+after a paid Alpha and Beta from March 2013. $29.99 or $49.99 with all add-ons; the base game now includes
+the Apex and Contact add-ons; and since 2026 a monthly "Arma 3 Pass" at $8.99 (all checked on the store,
+2026-10-09). Reviewers name a first- and third-person view.
+
+**How close to Dominion:** online co-op squads with guns, and a player who runs the enemy side - close to
+Rico's bounty-hunter idea. It is not a run-based game, has no extraction or loot, is slow and realistic
+rather than an arena shooter, and runs on servers that players host for many people, not one player's
+machine for four.
+
+### The short version (plain words)
+Players love it because it feels like a real military simulation, and they stay for years because other
+players keep making new things for it: mods, whole new modes, and groups to play with. 319 times reviewers
+praise the realism, 256 times the mods, 171 times a fan-made mode. The top complaint is that it runs badly
+on any computer (156 times, plus 79 that it needs a strong one). The sharpest complaint is about paid
+add-ons: 111 reviews object to locked gear, "buy this" pop-ups during play, servers they can't join without
+add-ons, or the new monthly pass - and 63 of those are thumbs down, a fifth of all thumbs down. It is hard
+to learn (107 reviews), and players tell each other to play with friends or join a group.
+
+### What players praised, most to least
+1. **It feels like a real military simulation, not an arcade shooter** - 319 times. "the closest you'll get
+   to a military simulator without enlisting" (192800508).
+2. **Mods make it endless** - 256 times; 413 reviews mention mods or the Workshop. "Arma 3 is a toolkit
+   more than it is a game" (158926162).
+3. **A fan-made mode is what they play** - 171 times: Altis Life role-play (39 reviews name it), King of the
+   Hill (33), Antistasi (14), plus Exile, Wasteland, Invade and Annex, Liberation. "What the Steam store
+   page does not tell you is that Arma 3 is a platform for the most fun asymmetric guerrilla warfare
+   simulator I have ever played" (173151074).
+4. **Much better with friends** - 112 times.
+5. **Keeps pulling you back** - 75; **hard, then rewarding** - 65 ("once it clicks, it's insanely
+   rewarding", 192800508).
+6. **So much to do** - 59; **stories from matches** - 55 (a tank that "climbed a hill to run me over,
+   proceeded to do a back flip over my corpse", 208081194).
+7. **Looks great** - 51; **as good as Arma 2 and Operation Flashpoint** - 48.
+8. **Join a group of players (a "unit")** - 43. "Find a unit get their modlist. Have fun." (139697590)
+9. **Fair price** - 36; **the best military sim** - 35; **the add-ons are fair or optional** - 34.
+10. **Still good years later** - 31; **the mission editor is easy and fun** - 31.
+11. **Zeus, one player as game master** - 31 times, in 35 reviews that name it. "one of the best game modes
+    to ever grace a multiple player game, allowing a player to design, on the fly an entire mission"
+    (132862728).
+12. **Welcoming players** - 30; **a good campaign** - 30; **teamwork matters** - 27; **beats Battlefield
+    and Call of Duty** - 26; **hard in a good way** - 23; **steady updates** - 21; **nothing else like it**
+    - 18.
+13. **Funny bugs** - 45 times reviewers laugh at a bug rather than complain: trucks that explode on a
+    pebble, tanks that fly.
+
+### What players complained about, most to least
+1. **Runs badly** - 156 times; **needs a strong computer** - 79. 233 reviews raise one or both; 51 of them
+   are thumbs down, so most who complain still recommend it. "you could have the best CPU and GPU ... and
+   still only get 50 frames but damnit youll be happy about it" (178567584).
+2. **A thumbs down with no reason** - 75.
+3. **Only good with mods** - 44.
+4. **Buggy** - 43; **old bugs never fixed** - 14 ("day one bugs FROM THE ALPHA ... still haven't been
+   patched", 162955146).
+5. **Paid add-ons** - 111 reviews in all: **gear and maps locked behind add-ons** 36, **add-ons
+   overpriced** 34, **"buy this" pop-ups during play** 25, **servers you can't join without add-ons** 21,
+   **paying gives an edge** 5, **the monthly pass** 6. 63 of these 111 are thumbs down. "After paying $80,
+   Apex ads cover the screen" (42196903); "Every server they found needs $15 of extra DLC to join"
+   (28109149).
+6. **Buy it on sale** - 36.
+7. **Maps so big you walk for ages** - 36.
+8. **Too many keys** - 28 ("2-4 controls bound to each key, It's hilarious how none of those seem to be
+   'jump'", 182847146).
+9. **Enemy AI sees and shoots through bushes, smoke and walls** - 26; **dumb AI** - 20.
+10. **Needs a group to be fun** - 22.
+11. **Can't find a game or server** - 17; **lag** - 16; **nothing explains how to play** - 16.
+12. **Lost trust in the studio** - 15; **worse than Arma 2 or Flashpoint** - 15; **off-putting players** -
+    15; **clumsy menus** - 14; **public servers emptying** - 14; **griefers** - 12.
+13. Thumbs-down reviewers have a median of 15 hours; thumbs-up reviewers 107.5. The ones who complain
+    most are those who left early.
+
+### How it changed over time
+- **2013 (the paid Alpha, Beta and launch):** 98.0% thumbs up; the realism praised at 25.5 per 100 reviews.
+- **2014-2019:** 88-90% up; complaints peak at about 47-50 per 100; "runs badly" at 6.8-7.2 per 100. The
+  paid-add-on complaints peak in 2017-2019 (pop-ups 2.1, add-ons not worth it 1.9 per 100), when Apex and
+  the other big add-ons were new.
+- **2020 on:** 91-92% up; complaints about 23-27 per 100; "runs badly" down to 2.1-2.6 per 100 and "needs a
+  strong computer" to 0-0.9 as computers caught up. Joining a group shows up only from 2017 and stays.
+- **2026:** the monthly pass. Four thumbs down from 2026-04-30 on; one, "A subscription model has no place
+  in this form for video games" (224464924), was marked helpful by 296 people, the most of any review in
+  the sample.
+
+### Co-op and online play
+- Friends (112) and organised groups (43) carry it. 22 say it is no fun without a group, 7 that strangers
+  are poor company, 15 that the fanbase puts them off, 12 meet griefers.
+- Servers are run by players. Players can't find games (17), lag (16), get blocked by the anti-cheat (5),
+  or see hundreds of ping on nearby servers (237157970). The quick-play button is "completely broken"
+  (233542929, reviewer's account). 4 can't start their own game.
+- The paid add-ons split servers: some need add-ons to join (21).
+- Public servers have been "emptying" in 14 notes from 2016 ("most servers have 2-6 players", 28109149) to
+  2026 ("games basically dead", 218322157); the game lives on in private groups.
+- **Zeus:** one player runs the enemy side live - spawning soldiers and vehicles, giving orders, setting
+  goals. "Zeus is like D&D" (25913914); a 50-player group runs three Zeus players at once, and "Zeus is
+  harder than fighting on the field" (30529477); "Some Zeus players make bloody amazing missions; who you
+  play with matters" (47356580). Some play Zeus alone against the computer (83688330, 222180917).
+
+### Combat, movement and feel
+- One bullet can kill ("one bullet is a death sentence", 136757030); guns behave as expected (17);
+  "no spray-and-pray" is praised. Shooting "intentionally feels clunky; team work, positioning, and tactics
+  are vastly more important" (202196105).
+- Running drains stamina and ruins your aim (10).
+- Too many keys (28), hours to get used to the controls (13), an awkward default layout (6), no jump (6),
+  rebinding one key breaks others (3). Vehicles handle badly (9).
+- One player with a motor limitation could not play on mouse and keyboard and asks for controller support
+  (219479274).
+- Players love the Virtual Arsenal, where you build a loadout: "60-70% of these hours were spent in the
+  'virtual armory' playing soldier barbie" (196098637).
+
+### Enemies, bosses and difficulty
+- The computer enemies either see and shoot through bushes, smoke and walls (26) or act dumb (20). One long
+  review says both, and that friendly AI works only when you command it properly (213998490).
+- Hard in a good way (23); too hard (5). Dying feels fair to some: "the only game that doesn't make me mad
+  when I die" (213335318).
+- No bosses.
+
+### Progression, loot, randomness and grind
+None in the usual sense: no levels, no loot drops, no unlocks to grind. Loadouts are chosen freely in the
+Arsenal (15 praise the depth). Progress lives in the groups and the missions players make.
+
+### Runs, content and replay value
+- No runs. Missions and fan-made modes can last hours (4 say it needs long sessions).
+- Keeps pulling you back (75), stories from matches (55), plenty to do (14) against too little (10).
+- The maps are so big that some matches are long walks or long waits for a helicopter (36). "hiking 20
+  minutes to find any combat - and it could end without you firing a shot" (202196105).
+
+### Money and price
+- Fair price (36) against buy on sale (36). "$9 is way less than you expect it to be" (151185607).
+- Paid add-ons are the main money complaint (111 reviews, 63 thumbs down) - see the complaint list.
+- What players accept: add-on gear can be tried in the editor (35557931); the pop-ups are "annoying but it
+  goes away after a few seconds" (214761932); "all those dlcs you see on the store page are completely
+  optional" (185058192).
+- What they will not accept: being shut out of servers, pop-ups that cover the screen in a fight, and a
+  monthly fee. "it's very obvious that this is setting the stage for more aggressive monetization down the
+  road. Arma 4 is coming, and when it arrives I want it to be free of subscriptions, battle passes, FOMO,
+  lootboxes" (224467725).
+
+### Tech: performance, crashes, bugs
+- Runs badly (156) and needs a strong computer (79), blamed on the CPU and an old engine; better than it
+  used to be (5: "runs NOTICABLY better than how it did a few years ago", 213998490); fine on modest
+  hardware for 12.
+- Bugs (43), but often told as jokes (45). Old bugs never fixed (14). Saves lost (222756109), crashes (8),
+  long loading screens (3), and mods that grow the install "from 30 GB to ~130 GB" (223877956).
+
+### The studio, updates and community
+- Steady updates (21) and a studio that listens (4), against lost trust (15). One reviewer says the studio
+  threatened a modder with legal action (49573340, the reviewer's claim).
+- The community makes the game: mods, modes, units, missions. "the community of modders who keep it
+  playable is truly incredible" (237258658).
+- The newer Arma Reforger is named worse by 7 reviewers ("overall it is more playable than arma reforger",
+  237259997); 12 want Arma 4.
+
+### What players asked for
+- Arma 4 (12).
+- Jump and vault (6).
+- Co-op in the main campaign (1).
+- AI that cannot see through grass and smoke, built in rather than modded (213998490).
+- Better performance (many).
+- No subscriptions, battle passes or loot boxes in Arma 4 (224467725).
+- Controller support (219479274).
+
+### Only in this game
+- **One player running the match as game master for the others** (31 times), with no complaint about the
+  idea.
+- **Praise for the game as a real simulation** (319) and **complaints that it is less real than it
+  claims** (11).
+- **A monthly pass added to a game people already bought** (6 times; the most-helpful review in the
+  sample).
+- First of 31 large games on mods, fan-made modes, player groups, easy mission-making, runs badly, needs a
+  strong computer, too many keys, and funny bugs.
+
+### For Dominion - our reading
+1. **A player who runs the enemy side is a loved way to play.** Zeus is praised 31 times in 35 reviews,
+   with no complaint about the idea. Dominion could offer the bounty hunter in two forms: a fighter who hunts
+   the squad, and a "director" who sets the run's enemies and traps. *Strong.*
+2. **The director needs limits.** The fun depends on who runs it ("who you play with matters"). Give the
+   director a budget, cooldowns and a short tool list so a new one can't ruin a run. *Medium.*
+3. **Let one player practise directing against bots.** Several keen Zeus players use it alone. A solo
+   sandbox doubles as a tutorial for the role. *Weak.*
+4. **Never put a "buy this" pop-up inside play.** The most-quoted money complaint from 2014 to 2024; the
+   monthly pass drew a thumbs down with 296 helpful votes. *Strong.*
+5. **Never split a squad by what each player owns.** Servers that need add-ons (21) and gear one player
+   can't use are a reason to leave. Let anyone join any run, and let guests use the host's content.
+   *Strong.*
+6. **Fan-made rules keep a game alive.** 171 times players say a mode the studio never made is what they
+   play. Even small hooks for players to set up their own runs could pay off for years. *Medium.*
+7. **Teach the controls in the game, not on YouTube.** 107 reviews find it overwhelming or poorly
+   explained; in-game tips and showcases are praised. *Strong.*
+8. **Keep the controls few.** Too many keys is first of 31 games. *Medium.*
+9. **Run well on ordinary computers - especially the host's.** The top complaint for thirteen years.
+   Dominion's host machine runs the game for four; budget for it. *Strong.*
+10. **Make deaths readable.** Enemies that see through cover are the main AI complaint; a fair death is
+    praised. *Medium.*
+11. **Funny bugs are forgiven; lost progress is not.** 45 laugh at bugs; lost saves and broken missions
+    draw thumbs down. *Medium.*
+12. **Make it easy to bring a friend.** "Got in only because friends bought it" (214761932); much better with
+    friends 112 times. *Weak.*
+
+### Limits
+- 3,264 of 140,386 reviews, ±2.00%; each review in 2019-11 stands for about 166.
+- 2,078 reviews are 15 words or fewer, so most findings rest on the longer reviews.
+- 420 reviews (12.9%) were edited later; they are counted on the day first written.
+- Checked on the store: the editions, prices, the Apex and Contact add-ons now included, and the $8.99
+  monthly pass. Not checked: when the pass began, frame rates, anti-cheat bans, the legal-threat claim, AI
+  behaviour, which servers need which add-on.
+- Jabs and political remarks are recorded only as such; personal, family and health details are left out.
+- 158,290 reviews in other languages were not read.
+
+---
 
 ## Sniper Elite: Resistance
 

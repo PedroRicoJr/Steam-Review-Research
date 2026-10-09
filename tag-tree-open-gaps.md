@@ -15561,3 +15561,9 @@ Tenth unit of the 16:44 firing. Appended section 37 to `findings/cross-game.md` 
 **A correction to round 1163:** the English page said only three games have fewer complaints per 100 than Arma 3. The pass shows eight (lowest Risk of Rain 2, 18.0; R.E.P.O., 18.6; Crab Champions, 18.7); the page now says so. No tree change.
 
 **Next:** the Arma 3 entry in `DOMINION-TAKEAWAYS.md`, from `templates/dominion-takeaways-entry.md`.
+
+## Notes - round 1166 (Arma 3 takeaways entry; Arma 3 Done)
+
+Eleventh unit of the 16:44 firing. Wrote the Arma 3 entry in `DOMINION-TAKEAWAYS.md` from `templates/dominion-takeaways-entry.md`, newest first, with its index row and its row in the plain-words comparison table (between Risk of Rain (2013) and Warframe, 2.6 : 1). Twelve lessons; the first three are about a player who runs the enemy side (Zeus), as a second form of Rico's bounty hunter beside Sniper Elite: Resistance's invader. No tag names in the entry. **Arma 3 is Done:** GAMES-TODO row 24 and `planning/third-person-shooter-list.md` C31 set to Done. No tree change.
+
+**Next:** pick the next game from `planning/`, closest to Dominion first, and record the pick and why.
