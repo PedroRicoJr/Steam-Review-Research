@@ -14608,3 +14608,11 @@ Fourteenth unit of the 08:44 firing (twenty a firing; outside the third pace tes
 Paid extras arrive in this batch: 188367857 (146 found it helpful) objects that the M1911 and Kar98k, already in SE5, are locked as DLC, and refunded; 187742179 (81 found it helpful) calls a $35 season pass "a slap in the face" and says they beat the game on medium in 39 minutes (reviewer's account); 188367443 that rifle mods sit behind DLC - 3 notes in all under `content-behind-a-second-purchase`. 188315420 (258 found it helpful) lists it as unfinished: missing mechanics, story, cinematics and animations, recycled faces and placeholder-quality music. 7 notes say it should have been SE5 DLC.
 
 **Next:** Sniper Elite: Resistance batch 5 (50 reviews).
+
+## Notes - round 1072 (Sniper Elite: Resistance batch 5)
+
+Fifteenth unit of the 08:44 firing (twenty a firing; outside the third pace test's test set). 50 reviews, 2025-02-18 to 2025-02-28; 12 thumbs down; 106 bullets; none excluded.
+
+**No modes built.** Invasions: two short praises (188258600: "axis invasion is very amazing"; 188235731: "Axis Invasion!!"); 188976110 says the invasion rewards are the same as SE5's. The multiplayer's culture shows for the first time in 188191689 (1,393 hours shown): cheaters "getting out of map", teleporting and using unlimited ammo despite anti-cheat, a toxic community where reports do nothing, and vote-kicks used against strong or high-prestige players (filed under `the-host-can-remove-you-at-will`) - reviewer's account. The same review says Season Pass 1 sells back Karl and SE5's multiplayer maps, and an update broke a multiplayer map's ladders, unfixed for months. 12 notes say more of the same is the point and 5 that it should have been SE5 DLC; weak or predictable enemy AI comes up in 4 notes. 188237407 lost play to a patch that broke their older laptop (D3D12 error 887A0004) until a later update fixed it. One crude remark about the hero's voice is recorded only as that; two crude jokes about the kill cam are recorded as such.
+
+**Next:** Sniper Elite: Resistance batch 6 (50 reviews).
