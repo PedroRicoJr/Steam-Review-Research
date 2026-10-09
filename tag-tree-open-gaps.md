@@ -15144,3 +15144,14 @@ Eighth unit of the 13:44 firing. Arma 3 batch 32: 50 reviews, 74 bullets (1.48 p
 - 54906785 likes the "subtle and believable" near-future setting; 55132062 lists the mods that make it "+1000% better".
 
 **Next:** Arma 3 batch 33 (50 reviews).
+
+## Notes - round 1128 (Arma 3 batch 33)
+
+Ninth unit of the 13:44 firing. Arma 3 batch 33: 50 reviews, 69 bullets (1.38 per review), 2 thumbs down, written 2019-11-07 to 2020-01-15. 31 reviews are 15 words or fewer. No tree change. The first run was refused for one LOST review (61021571, a one-liner left out of the script); added and rerun, nothing written in between.
+
+- **Units and groups:** 57661345 - if public lobbies bore you, "try looking for a unit, there are plenty of them out there so there is one for everyone"; 59931553 - some groups take it too far, with a "two week probation period" under a teenage drill instructor.
+- **The thumbs down:** 61021240 - performance and stutter even in the first tutorial, poor sounds, "too realistic, turning it unfun", no servers near them in the Americas; 61492358 - the campaign falls apart near the end and the AI squad runs into enemy fire and obeys slowly.
+- **Read:** many very short reviews (31) and several "it's ok" jokes from players with thousands of hours (56726109, 57661562, 59454599 at 8,486 hours).
+- 61908545 asks for DX12 or Vulkan; fps stays capped with low CPU and GPU load.
+
+**Next:** Arma 3 batch 34 (50 reviews).
