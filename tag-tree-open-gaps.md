@@ -14949,3 +14949,13 @@ Second unit of the 12:45 firing. Arma 3 batch 14: 50 reviews, 74 bullets (1.48 p
 - 19891273 bought it for a MacBook, where it would not run.
 
 **Next:** Arma 3 batch 15 (50 reviews).
+
+## Notes - round 1110 (Arma 3 batch 15)
+
+Third unit of the 12:45 firing. Arma 3 batch 15: 50 reviews read, 49 kept and 72 bullets (1.47 per kept review), 5 thumbs down, written 2016-02-07 to 2016-04-15. **1 excluded:** 21554844 praises "the shadow and the blade" DLC, faster "ending turn times" and "different races", which belong to a turn-based strategy game (a Total War title); written by hand as not a review of the game. No tree change.
+
+- **Read:** performance (7: 21039569 gets 16-20 fps on a GTX 980 and 40-60 on an older GTX 580); community modes (5); "Arma physics" joked about (3); the population falling and players who don't talk (21373533, "The community is filled with quiet people with little to no communication").
+- 22165997 (1,423 hours shown) is a long feature tour: advanced ballistics with wind, part-by-part vehicle damage, radar for jets, many stances and fatigue, sound that arrives after a distant flash; and named faults - low fps, memory leaks, desync where hits don't register.
+- 21037231: "amazing except if you want to go online and dont have DLCS".
+
+**Next:** Arma 3 batch 16 (50 reviews).
