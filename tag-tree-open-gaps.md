@@ -15122,3 +15122,14 @@ Sixth unit of the 13:44 firing. Arma 3 batch 30: 50 reviews, 75 bullets (1.50 pe
 - **Read:** mods (9); 50661592 says the studio has greatly improved performance over the years though it still swings from 120 to 20 fps; 50409705 - unmodded, "after about 100 hours you'll never want to touch it again".
 
 **Next:** Arma 3 batch 31 (50 reviews).
+
+## Notes - round 1126 (Arma 3 batch 31)
+
+Seventh unit of the 13:44 firing. Arma 3 batch 31: 50 reviews read, 49 kept and 64 bullets (1.31 per kept review), 7 thumbs down, written 2019-06-07 to 2019-08-15. **1 excluded:** 54396157 is a crude encyclopedia copypasta with nothing about the game; written by hand as not a review. No tree change.
+
+- **Zeus and DLC:** 51243288 answers the DLC complaints - "you can literally use any DLC weapon or vehicle via the Zeus interface", with only the Tanoa and Livonia maps locked; 51387246 - "private Zeus servers in which the community really shines". Twenty-two game-master sightings.
+- **DLC on the other side:** 54260192 (11 found it helpful) - constant prompts to buy DLC to use an item or man a helicopter gun; 54257145 - "with all thease DLCs it feels like a EA".
+- **The community makes it:** 54502934 - "Community MAKES this game ... immediately after you buy this game search for a clan"; 54117627 (3,649 hours shown) describes ten years of shared memories with friends - Apex co-op at night, escaping Tanoa, lying in a ghillie as a platoon passes.
+- 54385789 says the Contact expansion gave it "a good engaging single player story"; 53945796 could not run BattlEye at all and was refused a refund at 12 hours.
+
+**Next:** Arma 3 batch 32 (50 reviews).
