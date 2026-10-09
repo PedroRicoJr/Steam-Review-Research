@@ -15218,3 +15218,14 @@ Third unit of the 14:44 firing. Arma 3 batch 39: 50 reviews, 67 bullets (1.34 pe
 - 88505298 cannot connect to any server on Linux; 87194207 praises the tutorials but says the AI sees through grass.
 
 **Next:** Arma 3 batch 40 (50 reviews).
+
+## Notes - round 1135 (Arma 3 batch 40)
+
+Fourth unit of the 14:44 firing. Arma 3 batch 40: 50 reviews read, 49 kept and 58 bullets (1.18 per kept review), 2 thumbs down, written 2021-04-22 to 2021-06-30. **1 excluded:** 92962703 is a travel essay about a holiday in Albania; written by hand as not a review of the game. 32 reviews are 15 words or fewer. No tree change. 2,000 of 3,270 read.
+
+- **Zeus:** 91194248 - "utilize Zeus to run your own scenarios"; 92494255 (edited 2024, 2,435 hours shown) - Eden and Zeus "both allow you to create missions for you and your friends". Twenty-seven game-master sightings.
+- **Creator DLC liked:** 92492195 is "currently in love with the new Vietnam community-made DLC's multiplayer co-op 'MIKE' mission"; 92492156: "the Nam is perfect timing".
+- **Hosting:** 91615808 - "You can't host servers to play multiplayer. That's a deal breaker for me." (the reviewer's view; the game does allow hosting, as earlier reviews describe, but not easily).
+- 92067850: 30 fps with CPU and GPU both at 25-40% use.
+
+**Next:** Arma 3 batch 41 (50 reviews).
