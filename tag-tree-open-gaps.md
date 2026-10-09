@@ -15240,3 +15240,14 @@ Fifth unit of the 14:44 firing. Arma 3 batch 41: 50 reviews, 54 bullets (1.08 pe
 - 97644699: tutorials and guides make it accessible.
 
 **Next:** Arma 3 batch 42 (50 reviews).
+
+## Notes - round 1137 (Arma 3 batch 42)
+
+Sixth unit of the 14:44 firing. Arma 3 batch 42: 50 reviews, 61 bullets (1.22 per review), 1 thumbs down, written 2021-09-22 to 2021-11-30. 33 reviews are 15 words or fewer. No tree change. The first run was refused for one LOST review (102845858, a one-line catchphrase left out); added and rerun, nothing written in between.
+
+- **Zeus and the arsenal:** 101109074 - the virtual arsenal "you should first be introduced to in your first minutes on a Zeus multiplayer server"; mods add "prefabs for Editor or Zeus". Twenty-eight game-master sightings. The same review: many expensive DLC lock jets, helicopters and even clothes, so the game "is very locked down" without them.
+- **The sandbox surprise:** 101997204 avoided it for years thinking it was "a boring PVP milsim game" and found a sandbox for AI battles with friends - 21 hours on the first day.
+- **Population:** 104906769 says "the player count is only growing"; 101992580 finds it hard to find a good public server.
+- 99810566: the AI has "the most insane ... aimbot" or is "as dumb as rocks".
+
+**Next:** Arma 3 batch 43 (50 reviews).
