@@ -15523,3 +15523,15 @@ Fifth unit of the 16:44 firing. Arma 3 batch 65: 50 reviews, 71 bullets (1.42 pe
 - 230554370 compares the editor's learning curve with Reforger's game master; 234186397: "sat on a truck at a checkpoint for an hour ... the best combo of moments in gaming". One review in Spanish.
 
 **Next:** Arma 3 batch 66 (20 reviews, the last).
+
+## Notes - round 1161 (Arma 3 batch 66, the last)
+
+Sixth unit of the 16:44 firing. Arma 3 batch 66: 20 reviews, 27 bullets (1.35 per review), 3 thumbs down, written 2026-09-22 to 2026-10-09. 10 reviews are 15 words or fewer. No tree change. **The read is complete: all 3,270 sampled reviews summarised** (3,264 kept, 6 excluded: two about other games, three copypastas, one travel essay); `summarise.py next` reports nothing left, `write_batch --gaps` no gaps, dircheck 0.
+
+- **Ping:** 237157970 (thumbs down) - King of the Hill with "constant lag and disconnects ... all of them appear to have hundreds of ping despite being close to me geographically. I feel like it wasn't like this in the past."
+- **Mods a decade on:** 237161070 (716 hours across Antistasi Ultimate, Impasse Total War and Dynamic CAS Ops) - modders "introduce completely new and innovative mechanics even a decade after launch"; FPS "can dip down into the 20-30s ... unless you're a pilot".
+- **Against Reforger:** 237259997 - back from 1,000+ hours of Reforger, "overall it is more playable than arma reforger".
+- **Solo for ten years:** 237258658 - "I never played online or made any actual legit missions or even played the campaign but the amount of fun I had ... and the community of modders who keep it playable is truly incredible".
+- 235867819: "100 hours and i still dont know how triggers work in the editor".
+
+**Next:** Arma 3 weighted counts (`count.py`), then the English findings page, master page, cross-game section and DOMINION-TAKEAWAYS entry, from `templates/`.
