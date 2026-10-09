@@ -15998,3 +15998,16 @@ First unit of the 21:44 firing. Space Marine (2011) batch 30: 50 reviews, 94 bul
 - 38134792 (thumbs down): the Ork machine in the promo pictures is only in the online DLC (reviewer's correction). 39358277: no quick turn.
 
 **Next:** Space Marine batch 31 (50 reviews).
+
+## Notes - round 1200 (Space Marine batch 31)
+
+Second unit of the 21:44 firing. Space Marine (2011) batch 31: 50 reviews, 102 bullets (2.04 per review), 7 thumbs down, written 2018-02-08 to 2018-04-28. 14 reviews are 15 words or fewer; 41150268 is in Russian, 41657868 in English and German. No tree change.
+
+- **Why the mix works, and why it doesn't:** 41316319 - "Space Marine is really two 6\10 games who combine into a single 9\10 game ... You switch between using close combat and shooting all the time, rarely going more than a minute before switching". 41440744 - "A bad cover shooter that tries to be a spectacle fighter and fails ... the ONLY safe way to fight stronger melee-based enemies is to back away from them and shoot them in the face"; enemies "happily stunlock you"; "It's STILL the best 40k action game out there". 41689814 and 41440744: the heaviest melee weapon limits your guns.
+- **Loadouts:** 41398040 - "there is always a drop right in front of the checkpoint with all the guns in the game", so no real choice; 39952216 (thumbs down) - "You cant try to sniper, stealth, ambush".
+- **The fan mod, again:** 40228234 (8 found it helpful, edited 2020) - "SPACE MARINE AUGMENTED ... MODDERS ARE REVIVING THIS GAME" (second sighting after 38272314).
+- **Later edits about the re-release:** 40876842 (202 hours, edited 2025) - "the half-assed 'remaster' ... It seems they have learnt NOTHING from splitting player bases"; the same review blames the Dreadnought Assault DLC for the split ("barely anyone got it on day 1") and notes "chapter-champion armor are locked behind a pay wall".
+- **Will not start:** 40775237 (thumbs down, 11 found it helpful) - "no longer functions on Windows 10 ... no attempt to fix"; 41304369 (edited 2024) - can't start any more. 41310559 says the opposite: no issues on Windows 10.
+- 40442216: budget cuts "Favouring P2P hosting instead of dedicated servers" and "meant to be 3 instalments" (reviewer's account, not checked). 40447184: no bots and no one-on-one duel invites. 41471939 (thumbs down): mission chores - "Open the doors, open the clampers ... get grease for the cogs".
+
+**Next:** Space Marine batch 32 (50 reviews).
