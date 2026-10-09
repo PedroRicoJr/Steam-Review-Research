@@ -15922,3 +15922,15 @@ First unit of the 19:44 firing, the first at three units a firing (Rico, 2026-10
 - 24910515 also notes chapters can be replayed from the menu, and that both multiplayer modes can be hosted alone. One of its bullets was moved after the write, from the final-boss mode to plain praise: it described button-prompt sections in general, not the final boss.
 
 **Next:** Space Marine batch 25 (50 reviews).
+
+## Notes - round 1194 (Space Marine batch 25)
+
+Second unit of the 19:44 firing. Space Marine (2011) batch 25: 50 reviews, 92 bullets (1.84 per review), 9 thumbs down, written 2016-10-17 to 2017-01-07. 18 reviews are 15 words or fewer; one (26668176) is just a full stop. No tree change.
+
+- **Why the heal rule works for some:** 28490964 (53 found it helpful) - "There aren't health pickups; if you're on low health you have to charge something and prove hard enough"; tough enemies are met "by itself the first time, and then after that ... a group of three or four". 28884893 (11 found it helpful): "your regeneration is not handed out to you, you have to work for it, and I like that"; a revered captain makes "an invincible power armored fighting machine" plausible. The same review: the final boss means "clicking your mouse as fast as you can. That feels cheap".
+- **...and why it fails for others:** 26697748 (thumbs down) - "your combos will get interupted before you can perform an execution"; the slowness "added no positive empowerment to offset the negative". 28543400 (thumbs down): "Most enemies are nothing but bullet sponges ... Even boss battles are just 'shoot it until it dies'", and dying means "do the entire segment all over again".
+- **Exterminatus in 2016:** 29087736 - "You and a team of up to three others [solo is allowed] fight five waves ... five arenas total"; "good for low level players since the PvP servers are full of max level people"; lascannons "two-shot kills, one-shot headshots". 26093124: only "1-3 matches a day for exterminatus". 28052453 (328 hours): Exterminatus "terrible due to bugs and balance".
+- **Region:** 28216731 - "If you live in Australia ... You will get put in American servers, with ping of 400 plus".
+- 28205018 (thumbs down): "Support is no where to be found ... DLC fest". 26325510: "Only Xbox 360 gamepad support". 28550833 says "Worth 90 dollars" with a thumbs down (filed as the thumb contradicting the text).
+
+**Next:** Space Marine batch 26 (50 reviews).
