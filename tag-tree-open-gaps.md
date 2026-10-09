@@ -14886,3 +14886,14 @@ Eighth unit of the 11:44 firing. Arma 3 batch 8: 50 reviews, 103 bullets (2.06 p
 - **The thumbs down:** 12715739 (1,342 hours shown) - bad engine and server performance, no shotgun, game-breaking bugs, a "steam ticket check fail" kick since alpha. 12298984 says the studio's servers were down for months (the reviewer's claim, not checked).
 
 **Next:** Arma 3 batch 9 (50 reviews).
+
+## Notes - round 1104 (Arma 3 batch 9)
+
+Ninth unit of the 11:44 firing. Arma 3 batch 9: 50 reviews, 78 bullets (1.56 per review), 4 thumbs down, written 2014-11-07 to 2015-01-15. 23 reviews are 15 words or fewer. No tree change.
+
+- **Read:** performance (9, the most so far: 13886850 gets 35-40 fps on a top PC "barely going above 30% usage for CPU and GPU"; 13275997 says co-op Invade and Annex runs lower than Altis Life); community modes (4) and stories from them (3); Zeus named again as "like an RTS" (13748559, the third game-master sighting).
+- **Release state:** 12957662 - no campaign at release, "more like a huge demo than a finished product", no help to learn or to find players; 13748559 - "a rocky start", campaign episodes added gradually.
+- **The thumbs down:** 13886850 and 13276061 (frame rates), 13885961 (a global BattlEye ban with no reason given and no reply; the reviewer's account), 13172774 (a joke).
+- AI teammates are "like the halo marines" (13748169); enemy AI that "can see through walls" (14001577).
+
+**Next:** Arma 3 batch 10 (50 reviews).
