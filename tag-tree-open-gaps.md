@@ -15166,3 +15166,14 @@ Tenth unit of the 13:44 firing. Arma 3 batch 34: 50 reviews, 74 bullets (1.48 pe
 - 62298980: the DLC makes it enjoyable, and the long setup and tutorial ran past the refund window.
 
 **Next:** Arma 3 batch 35 (50 reviews).
+
+## Notes - round 1130 (Arma 3 batch 35)
+
+Eleventh unit of the 13:44 firing. Arma 3 batch 35: 50 reviews, 67 bullets (1.34 per review), 5 thumbs down, written 2020-04-07 to 2020-06-15. 35 reviews are 15 words or fewer; 39% of bullets are bare thumbs up, the highest share so far. No tree change.
+
+- **Campaign bugs:** 68328497 - in the official "Old Man" campaign "over half of them never appeared", tasks stuck with no way to finish, and many players reported the same: "How ... does a company not test these things?". 68330922 and 68328817: you don't play it for the campaign.
+- **Still alive:** 66851817 (edited 2026) - "one of those rare games that just refuses to die", still supported after newer titles, best with friendly regional groups such as Australia's.
+- **The thumbs down also:** 67398749 - "bare bones and relied on modders ... It's almost a game"; 70463476 - a different key to enter and leave a vehicle, a map that doesn't mark you, and the base game felt like "an intro and one mission" (the reviewer's account).
+- 68758549 calls it "the least volatile game community I have come across in years".
+
+**Next:** Arma 3 batch 36 (50 reviews).
