@@ -15586,3 +15586,16 @@ First unit of the 17:44 firing. No reviews read.
 - **Store (read 2026-10-09):** Warhammer 40,000: Space Marine - Anniversary Edition; developer and publisher Relic Entertainment; 2011-09-05; $39.99; genre Action; categories Single-player, Multi-player; 33,644 reviews, 92%, Very Positive.
 
 **Next:** Space Marine batch 1 (50 reviews).
+
+## Notes - round 1169 (Space Marine batch 1)
+
+Second unit of the 17:44 firing. Space Marine (2011) batch 1: 50 reviews, 85 bullets (1.70 per review), 0 thumbs down, written 2011-09-07 to 2011-11-15 (launch). 21 reviews are 15 words or fewer. No tree change; the batch uses a new constants file for this game (`smtags.py` in the scratchpad), every tag checked against the card first.
+
+- **The heal-by-fighting loop:** 33426 - "the only way to gain health is to fight them. The health system works really well and keeps you in the fight and the executions you do to get health back is bloody awesome"; 1246291 - "No cover and NO health regeneration"; 1681312 - "Gears of War eschewing its ... cover system for a steroid-induced Fury system". The tree already had `fighting-is-how-you-heal` and `rewards-playing-aggressively`.
+- **Multiplayer unlocks:** five reviews say high-level players out-gun newcomers (502899, 4341864, 2085133, 4628765): "those that played more are rewarded with superior weapons and weapon perks".
+- **Peer-to-peer:** 2085133 - "too laggy since it lacks dedicated servers"; 788324 - "P2P to host servers is a extreemly large wrench in the gears".
+- **The co-op mode, Exterminatus:** 4628765 - "Exterminatus mode brings such a rush after getting thunder hammer"; 2205589 - "The co-op gamemode isn't too great though".
+- **Short:** five say the 8-hour campaign is short; 788324 regrets the studio saying it "probably will not make a sequal".
+- Comparisons: Gears of War (3), Halo, God of War, Dynasty Warriors. Four short reviews in Russian, Korean, French and Spanish.
+
+**Next:** Space Marine batch 2 (50 reviews).
