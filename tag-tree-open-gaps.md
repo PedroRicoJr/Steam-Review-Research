@@ -14864,3 +14864,14 @@ Sixth unit of the 11:44 firing. Arma 3 batch 6: 50 reviews, 76 bullets (1.52 per
 - 9754875 (65 found it helpful, the most this batch) laughed at the campaign guide begging you not to run over goats.
 
 **Next:** Arma 3 batch 7 (50 reviews).
+
+## Notes - round 1102 (Arma 3 batch 7)
+
+Seventh unit of the 11:44 firing. Arma 3 batch 7: 50 reviews, 82 bullets (1.64 per review), 6 thumbs down, written 2014-06-07 to 2014-08-15. 29 reviews are 15 words or fewer.
+
+- **One mode built under Rule C:** `marketing.positioning.the-simulation-is-less-real-than-it-claims` (−), the inverse of round 1096's realism mode, on 11253567 ("This is no longer a simulator. It has become a Bohemian Interactive fantasy"). `findphrase` "realistic simulation" found one earlier note: **re-homed** 4010348 (batch 2) from `marketing.reputation.unlike-anything-else` to the new mode. Tree 2,016 -> 2,017; `summarise.py card` rerun.
+- **Read:** stories players retell from community servers (4: "Got kidnapped. Was screemed at for 10 mins ... 11/10 would get kidnapped again", 10486945); realism the draw (9); short of vehicles and weapons (2); the maps make you walk (3: "YOU WILL LITERALLY WALK AROUND FOR 8 HOURS", 11253787).
+- **Zeus:** 10487105 says the Zeus patch (Zeus is the game-master mode, Steam store) brought "nothing but problems", with poor support afterwards.
+- **The long thumbs down:** 11253567 (edited 2020) - Contact is "essentially a $27 map", weapons and the western side nerfed, thermals see through glass; play it modded. 11721312 asks for more female characters.
+
+**Next:** Arma 3 batch 8 (50 reviews).

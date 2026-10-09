@@ -12858,6 +12858,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1096, Arma 3 batch 1.** Built under Rule C on the first sighting, 5963348: "Amazing hardcore sim with realstic fighting." `findphrase` "realistic" and "simulation" found no earlier note on realism as the draw (43 and 6 matches, all about looks, setting or other subjects).
 
+## Modes added in Arma 3 batch 7 - round 1102 (Rule C)
+
+### `marketing.positioning`
+| Mode | | Definition |
+|---|---|---|
+| `.the-simulation-is-less-real-than-it-claims` | **−** | The reviewer says the game is sold or seen as a realistic military simulation and is not one: weapons, vehicles, sensors or damage behave in ways the reviewer calls fantasy. **The inverse of `.a-true-simulation-not-an-arcade-shooter`.** Distinct from `game-design.power-balance.*` (balance between options, not faithfulness to the real thing) and from `marketing.promise-vs-reality.claim-was-untrue` (a specific store claim). |
+
+🔑 **Round 1102, Arma 3 batch 7.** Built under Rule C on 11253567: "This is no longer a simulator. It has become a Bohemian Interactive fantasy ... COMPLETE FAILURE TO COMPREHEND THAT THERMAL DOESN'T READ THROUGH GLASS". `findphrase` "realistic simulation" found one earlier note, 4010348 in batch 2 ("not a realistic simulation at all"), filed then under `marketing.reputation.unlike-anything-else`; it is re-homed here this round.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
