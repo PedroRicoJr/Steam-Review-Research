@@ -14990,3 +14990,14 @@ Sixth unit of the 12:45 firing. Arma 3 batch 18: 50 reviews, 81 bullets (1.62 pe
 - **Squad AI praised:** 25788614 says squad radio calls ("clear", "man down") are only made when a soldier could know, and veteran mode with one save makes every move matter.
 
 **Next:** Arma 3 batch 19 (50 reviews).
+
+## Notes - round 1114 (Arma 3 batch 19)
+
+Seventh unit of the 12:45 firing. Arma 3 batch 19: 50 reviews, 73 bullets (1.46 per review), 6 thumbs down, written 2016-12-07 to 2017-02-14. 27 reviews are 15 words or fewer. No tree change.
+
+- **Read:** performance (11, the most in any batch: "the worst engine ever created", 28568924; 30 fps on a laptop with no graphics card shows how CPU-bound it is, 29450702); mods (12); community servers and their people (5: trolls, and admins who "handled multiplayer situations in their servers rather poorly", 29603671).
+- **After Apex:** 28242755 - BattlEye fails to update and Workshop mods hit signature mismatches, where before Apex they worked on every server; 28884486 - "you need the dlc to actually play the game".
+- **The long thumbs down:** 29929874 - DLC pop-ups mid-firefight, campaign cutscenes replayed after every death, memory crashes, under 30 fps on an i7-6700K and GTX 1070, no support for modders or server owners, and weak radios and AI "for a realistic simulation".
+- 28884477 notes there is no female character.
+
+**Next:** Arma 3 batch 20 (50 reviews).
