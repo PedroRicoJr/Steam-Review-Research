@@ -15687,3 +15687,15 @@ Ninth unit of the 17:44 firing. Space Marine (2011) batch 8: 50 reviews, 72 bull
 - 2692313: "you can't choose the map that you want"; 4572264 (edited 2017): "Dead multyplayer, Bad dlc's, Toxic comunity". Short reviews in German, Russian (2) and Spanish.
 
 **Next:** Space Marine batch 9 (50 reviews).
+
+## Notes - round 1177 (Space Marine batch 9)
+
+Tenth unit of the 17:44 firing. Space Marine (2011) batch 9: 50 reviews, 82 bullets (1.64 per review), 1 thumbs down, written 2013-05-21 to 2013-08-31. 23 reviews are 15 words or fewer. No tree change.
+
+- **The final boss, the clearest complaint so far:** 2567195 (thumbs down, 5 found it helpful) - "Right before the big boss fight, you have this unskippable monolog the bad guys gives. So each time you have to re-try the final fight, you have to sti through the whole thing all over again", and the fight is "just a bunch of waves of enemies you fought before"; 2940824 - "The final boss battle is purely QTE. Really, guys? Stop doing this"; 4668866 - "the end boss is basically a QTE".
+- **The add-on split, two years on:** 3455529 - "You can find a match but only in certain gameplay modes, hardly ever in the DLC".
+- **Controls both ways:** 1305408 - "not a console port. It functions just as fine with mouse+ keyboard layout as it does with a controller"; 2284875 - "Playing with an xbox remote, this game is incredibly badass".
+- **The co-op mode as a find:** 465 - "Played it, beat it, loved it. Then I noticed the multiplayer for wave-based ork bashing"; 4286562 - "I recommend Exterminatus"; 2284875 - "especially survival mode".
+- 1410057: "I wish relic had supported it more"; 291439 misses it on OS X. Short reviews in Portuguese (2), German and Korean.
+
+**Next:** Space Marine batch 10 (50 reviews).
