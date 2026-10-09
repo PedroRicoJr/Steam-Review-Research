@@ -15662,3 +15662,15 @@ Seventh unit of the 17:44 firing. Space Marine (2011) batch 6: 50 reviews, 73 bu
 - 6107665 (211 hours): "could do with a jump button"; 6124689: the audio is "the best part". Short reviews in Russian (3).
 
 **Next:** Space Marine batch 7 (50 reviews).
+
+## Notes - round 1175 (Space Marine batch 7)
+
+Eighth unit of the 17:44 firing. Space Marine (2011) batch 7: 50 reviews, 74 bullets (1.48 per review), 2 thumbs down, written 2012-12-11 to 2013-02-20. 25 reviews are 15 words or fewer. **One mode built (Rule C); tree 2,019 -> 2,020.** A first draft named two modes that do not exist (a netcode and a session mode); `write_batch` refused them before writing and the nearest existing modes were used.
+
+- **New mode: `marketing.expectation-management.a-re-release-keeps-the-old-games-reviews` (−),** on 3064342 (thumbs down, edited 2021): "they chose to re-release the same game but have it share the same ratings from the 2011 reviewed game ... this ($75) re-run with reused reviews". `findphrase` "same reviews", "reused reviews", "old reviews": no earlier note. The price and what was re-released are the reviewer's account; the store page today is the Anniversary Edition on the same app (55150), which fits the complaint but was not checked further.
+- **The multiplayer's loadout rules:** 1514750 (3 found it helpful) - "you can copy the weapon loadout of the person who killed you. No requirements ... possible once"; class building from level 4; every known chapter's colours free; "the single player makes for a great tutorial on how to handle Multiplayer, which is pretty unforgiving".
+- **Netcode, the other view:** 1972409 - "decent lag compensation and speedy host migration (< 10 seconds)" against 2429848 (619 hours) - "P2P and permanent lagging game rounds"; and 2896491 - classes "pretty much balanced (Lags caused by P2P is not balanced, though)".
+- **Campaign:** 465671 - "Kill orks, hit switches rinse and repeat ... rewarded with a terribly unsatisfying ending", but checkpoints let you "jump in, kill some orks and get out"; 891754 dislikes having no cover system, against many who like it.
+- A jab at young players (2338190) recorded only as such. Short reviews in Portuguese, Russian, Spanish and Chinese (the last: "the boss fights are weak").
+
+**Next:** Space Marine batch 8 (50 reviews).

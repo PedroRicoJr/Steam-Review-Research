@@ -12885,6 +12885,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1159, Arma 3 batch 64.** Built under Rule C on 224464924 (296 found it helpful): "A subscription model has no place in this form for video games, it only can make sense for MMO's". `findphrase` "subscription" found one earlier note on the same change, Arma 3 171190279 (filed in round 1150 under the studio losing trust, now re-homed here), and none in other games: the other "subscription" notes are about playing on a subscription service or praise for having none.
 
+## Modes added in Space Marine (2011) batch 7 - round 1175 (Rule C)
+
+### `marketing.expectation-management`
+| Mode | | Definition |
+|---|---|---|
+| `.a-re-release-keeps-the-old-games-reviews` | **−** | The game is sold again in a new edition or at a new price on the same store page, and that page still shows the reviews written for the original release, so a buyer is judged to be misled by praise that was not written about what is now on sale. **Distinct from `.store-page-hides-a-dealbreaker`** (a fact left off the page, not old reviews carried over) and from `publishing.dlc-and-editions.owned-elsewhere-must-be-bought-again` (paying twice, not the reviews). |
+
+🔑 **Round 1175, Space Marine (2011) batch 7.** Built under Rule C on 3064342 (thumbs down, edited 2021): "they chose to re-release the same game but have it share the same ratings from the 2011 reviewed game ... ($75) re-run with reused reviews". `findphrase` "same reviews", "reused reviews" and "old reviews" found no earlier note. The price is the reviewer's account, not checked.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
