@@ -15725,3 +15725,16 @@ Twelfth and last unit of the 17:44 firing (twelve a firing; the firing did 12 un
 - 8812971 (thumbs down): a shooter where Dawn of War was strategy.
 
 **Next:** Space Marine batch 12 (50 reviews).
+
+## Notes - round 1180 (Space Marine batch 12)
+
+First unit of the 18:44 firing. Space Marine (2011) batch 12: 50 reviews, 77 bullets (1.54 per review), 6 thumbs down, written 2014-01-28 to 2014-04-15. 19 reviews are 15 words or fewer. No tree change.
+
+- **The co-op mode scales badly to small groups, but can be played alone:** 8885860 - "'multiplayer' also includes 1 to 4 player coop ... You can load a coop map by yourself and level alone if you cannot find coop partners ... much better than coop dying once people move on"; 9555577 (2022 update) - Exterminatus "is pretty much impossible to complete without all 4 players".
+- **Newcomers in versus, both ways:** 9093242 - "the majority of other players are high levelled with much better equipment"; 9330910 - "the Upgrade curve isn't TOO heavy, so a new player (with average skill) will be able to get at least a few kills".
+- **Controls on PC (14 found it helpful):** 9751553 - controls cannot be rebound and there is "NO controls menu ... for anything other than firing the gun and swinging", the health moves feel like a fighting game, and only 4 weapon slots.
+- **Online stability:** 9196921 (thumbs down) - "constant crashing mid match when playing online ... you will lose all ypur progress", though the Chaos Unleashed DLC is "worth getting ... just for the choas extermanatus"; 9679146 (thumbs down) - the audio lag "known for years". 9555577: no Australian servers.
+- **The case for Hard:** 9278499 - "the game forced me to constantly adapt my approach for each enemy group"; 13-15 hours on Hard.
+- 9297201 (thumbs down, 6 found it helpful): enemies "shouted 'SPACE MARINE' 30 times in each of the 1000 uninteresting combat encounters"; 9658560 praises it on a thumbs down.
+
+**Next:** Space Marine batch 13 (50 reviews).
