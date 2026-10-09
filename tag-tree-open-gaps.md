@@ -14854,3 +14854,13 @@ Fifth unit of the 11:44 firing. Arma 3 batch 5: 50 reviews, 86 bullets (1.72 per
 - 9376565 compares it to setting up toy soldiers: a big world and an editor for "your own stories".
 
 **Next:** Arma 3 batch 6 (50 reviews).
+
+## Notes - round 1101 (Arma 3 batch 6)
+
+Sixth unit of the 11:44 firing. Arma 3 batch 6: 50 reviews, 76 bullets (1.52 per review), 5 thumbs down, written 2014-03-23 to 2014-05-31. 28 reviews are 15 words or fewer. No tree change.
+
+- **Read:** community modes (6: Altis Life, Wasteland, Breaking Point, Epoch); a heavy machine needed (8, the most so far); boring alone and best with friends (4: "DON'T BUY UNLESS YOU HAVE FRIENDS", 9827571); realism the draw (7).
+- **The thumbs down:** 9828364 - no field-of-view slider, only a config file that sometimes resets; 9903141 - a global BattlEye ban after their stolen key was used for hacking (the reviewer's account); 9981245 - ads for expansion packs in front of the crosshair and most vehicles, guns and uniforms locked to paid packs (the reviewer's claim, not checked); 9757161 - crashes with no fix; 10122614 - lag on their graphics card.
+- 9754875 (65 found it helpful, the most this batch) laughed at the campaign guide begging you not to run over goats.
+
+**Next:** Arma 3 batch 7 (50 reviews).
