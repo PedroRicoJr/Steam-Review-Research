@@ -14813,3 +14813,14 @@ First unit of the 11:44 firing (twelve a firing). Arma 3 batch 1: 50 reviews, 78
 - 6710481: the new launcher stopped the game running; later fixed by the reviewer.
 
 **Next:** Arma 3 batch 2 (50 reviews).
+
+## Notes - round 1097 (Arma 3 batch 2)
+
+Second unit of the 11:44 firing. Arma 3 batch 2: 50 reviews, 100 bullets (2.00 per review), 3 thumbs down, written 2013-05-22 to 2013-07-31 (Alpha and Beta). 31 reviews are 15 words or fewer. No tree change.
+
+- **Read:** realism is the draw again (14); mods, the editor and community game modes (12, including Wasteland and Altis Life); a welcoming, mature community (3: "forget about COD/BF fanboys... they're simply not there", 588671); better than Arma 2 (5).
+- **The thumbs down:** 4010348 (791 hours shown, edited 2022) - "the best military sandbox game around. Mainly because it's the only one"; clunky, unoptimised, no better from 2013 to 2022; less content than Arma 2; DLC packs that give a few unlocks; slow hit registration; Squad named as the smoother rival; "the only thing keeping Arma 3 on life support is the Steam Workshop mods". 2099424: optimisation and "$12 DLC packs". 745478: multiplayer is the point, and the server browser "almost never works".
+- 2343533 (377 found it helpful, the most-voted so far): accurate ballistics, no story rails, total freedom, gear customisation, "worth its cost on 300%".
+- `fina3.sh` now passes `--sizes 50xN` to `batch_quality.py`.
+
+**Next:** Arma 3 batch 3 (50 reviews).
