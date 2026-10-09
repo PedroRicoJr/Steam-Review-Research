@@ -14752,3 +14752,9 @@ Eleventh unit of the 09:44 firing (twelve a firing). The last 21 reviews, 2026-0
 **No modes built.** 236461811 is the last batch's long review: the AI "never use the alarms", reinforcements barely exist and enemies "come one by one through the same path", explosives and supplies are everywhere "even on the hardest difficulty", so traps, loadout choices and talents stop mattering; the HUD has no middle ground between enemy-awareness text and no health or ammo; it praises full co-op and saving almost anywhere. 236396893: "the invasion mode is always a blast and keeps you on your toes". 236344585 hit an infinite reload loop that left a weapon unusable. 236449430 says many objective markers are broken.
 
 **Next:** Sniper Elite: Resistance weighted counts (`count.py --group sniper-elite-resistance/english`), then the findings pages - and Rico's invasion question answered from the full read.
+
+## Notes - round 1089 (Sniper Elite: Resistance weighted stats)
+
+Twelfth and last unit of the 09:44 firing (twelve a firing; the firing did 12 units, rounds 1078-1089, including the third pace test in round 1080). `count.py --group sniper-elite-resistance/english` wrote the 22 monthly stats files and the group file: 3,304 reviews counted, 971 read, 1,956 observations (2.0 per review; the count of bullet lines in the 971 summaries is also 1,956). 18 of 22 months are partly read; the heaviest weight is 2025-01 at about x13. Top weighted tags: thumbs up with no reason 10.5%, more of the same is the point 7.7%, should have been an add-on 5.8%, falls short of the studio's earlier games 3.0%, changes too little 2.9%; invading another player's mission is the draw is 11th at 2.1%. No tree change.
+
+**Next:** the English findings page, from `templates/findings-english-page.md`, with Rico's invasion question answered from the full read.
