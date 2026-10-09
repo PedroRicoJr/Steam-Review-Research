@@ -15207,3 +15207,14 @@ Second unit of the 14:44 firing. Arma 3 batch 38: 50 reviews, 57 bullets (1.14 p
 - 81806460 says it paved the way for later titles; 81295328 came because of a YouTuber.
 
 **Next:** Arma 3 batch 39 (50 reviews).
+
+## Notes - round 1134 (Arma 3 batch 39)
+
+Third unit of the 14:44 firing. Arma 3 batch 39: 50 reviews, 67 bullets (1.34 per review), 7 thumbs down, written 2021-02-07 to 2021-04-15. 37 reviews are 15 words or fewer. No tree change.
+
+- **Zeus:** 87636094 (1,765 hours shown) - "the real game starts when you join a unit and get into custom Zeus ops". Twenty-five game-master sightings.
+- **A public-server thumbs down:** 89464583 - spawn 3,000 m from the fight, no vehicle without DLC, DLC armour and weapons that outclass yours, a full-screen DLC pop-up every 5 minutes even in combat; "play a match for 2 hours and get approximately 30 seconds of actual combat".
+- **First 30 minutes:** 88045601 - 20 minutes to work out how to join a squad, no jump, strangers barking orders, no prompt for boarding a helicopter; recorded with its crude jab noted as such.
+- 88505298 cannot connect to any server on Linux; 87194207 praises the tutorials but says the AI sees through grass.
+
+**Next:** Arma 3 batch 40 (50 reviews).
