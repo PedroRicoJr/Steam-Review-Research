@@ -15271,3 +15271,14 @@ Eighth unit of the 14:44 firing. Arma 3 batch 44: 50 reviews, 57 bullets (1.14 p
 - 111265211 (1,524 hours shown) - "Devs producing new content and quality improvements very often"; 112259793 says after the first single-player scenario the rest were paid DLC (the reviewer's account).
 
 **Next:** Arma 3 batch 45 (50 reviews).
+
+## Notes - round 1140 (Arma 3 batch 45)
+
+Ninth unit of the 14:44 firing. Arma 3 batch 45: 50 reviews, 53 bullets (1.06 per review), 4 thumbs down, written 2022-05-07 to 2022-07-15. **41 of 50 reviews are 15 words or fewer.** No tree change.
+
+- **AI driving:** 115117996 - AI turns erratic driving any vehicle, so official missions that depend on it never finish; "The studio is aware of those issues since 2018 but won't patch" (the reviewer cites a forum thread; not checked).
+- **Reforger and Squad:** 115911590 - better than Arma Reforger "until more mods/patches come out"; 116301197 - a 3-hour YouTube tutorial before you start, so they will "just stick to squad".
+- **DLC:** 115121172 - "you need to install a lot of dlc to get campaigns"; 117430228 - "annoying ads for DLC's midgame like a mobile game".
+- 118872085 recommends joining a clan; 118875978 - "do have need friends".
+
+**Next:** Arma 3 batch 46 (50 reviews).
