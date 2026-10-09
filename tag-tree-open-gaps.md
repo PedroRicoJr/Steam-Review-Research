@@ -15475,3 +15475,15 @@ First unit of the 16:44 firing. Arma 3 batch 61: 50 reviews, 57 bullets (1.14 pe
 - 205579388: "the military shooter that everyone who plays CoD and Battlefield *say* they want, but don't actually". 204983298 plays on Linux. Three short reviews in Russian and Portuguese.
 
 **Next:** Arma 3 batch 62 (50 reviews).
+
+## Notes - round 1157 (Arma 3 batch 62)
+
+Second unit of the 16:44 firing. Arma 3 batch 62: 50 reviews, 75 bullets (1.50 per review), 3 thumbs down, written 2025-11-22 to 2026-01-31. 29 reviews are 15 words or fewer. No tree change.
+
+- **The AI, explained:** 213998490 (11 found it helpful) - "the very best a.i i have ever seen ... and also the very worst"; it sees through grass and smoke (mods fix both, "this should really be in the vanilla game"), and friendly AI only fails when not commanded: set "Engage at Will" and "they will break formation and engage". Also: the old engine "runs NOTICABLY better than how it did a few years ago".
+- **The storefront:** 213990294 (4 found it helpful, thumbs down) - "The base 'Game' is just a storefront to sell you the remaining 80% of the game through DLC"; 214761932 - without DLC you can join servers but "you would be forced into having in game popups ... it goes away after a few seconds so I really don't mind it"; DLC sales around 50%.
+- **Teaching:** 214761932 - "in game popup tips during campaigns and showcases ... extremely helpful ... without holding my hand"; 214776511 - "learn just enough to make you dangerous in the tutorials".
+- **Dying feels fair:** 213335318 - "Probably the only game that doesn't make me mad when I die".
+- 216017493 (thumbs down): "harder than tarkov and no community with 500 dlcs". Two short reviews in Spanish and Portuguese.
+
+**Next:** Arma 3 batch 63 (50 reviews).
