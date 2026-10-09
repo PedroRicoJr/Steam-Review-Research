@@ -15437,3 +15437,16 @@ Tenth unit of the 15:44 firing. Arma 3 batch 58: 50 reviews read, 49 kept and 63
 - **Why a returning player came back:** 186852956 - after War Thunder and Enlisted, wants "slower play where thinking out weighs memorizing maps/keybinds"; plays without friends. One review in Ukrainian.
 
 **Next:** Arma 3 batch 59 (50 reviews).
+
+## Notes - round 1154 (Arma 3 batch 59)
+
+Eleventh unit of the 15:44 firing. Arma 3 batch 59: 50 reviews, 65 bullets (1.30 per review), 4 thumbs down, written 2025-04-07 to 2025-06-15. 36 reviews are 15 words or fewer. No tree change.
+
+- **Loadouts as play:** 196098637 (22 found it helpful) - "A solid 60-70% of these hours were spent in the 'virtual armory' playing soldier barbie while the other 40-30% were spent in the most grueling and miserable combat simulator I've ever experienced ... 10/10".
+- **A balanced long review:** 194975903 - "The realism is insane", but "I kept dying because I couldn't spot enemies hiding in bushes", AI "dumb as a rock sometimes, either standing there or randomly one-shotting you from a mile away", a squad stuck in a rock forced a mission restart.
+- **Servers emptying:** 193936877 (thumbs down, 648 hours) - "the rp servers used to be so good ... and the Sog dlc servers but now its just private games only".
+- **Fixing it yourself:** 196658561 (thumbs down, 1,791 hours) - 20 hours of deleting the game, folders, backups and mods to stop errors: "Its won, im done".
+- **Mods as a chore:** 196113294 - "most of your time will be getting mods"; 194440601 - "WITH MODS ONLY".
+- 192800508 (9 found it helpful): "stuck trying to figure out how to operate a radio for 15 minutes - and loving it"; 194429870: "why isnt jump on space".
+
+**Next:** Arma 3 batch 60 (50 reviews).
