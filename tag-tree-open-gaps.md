@@ -15738,3 +15738,16 @@ First unit of the 18:44 firing. Space Marine (2011) batch 12: 50 reviews, 77 bul
 - 9297201 (thumbs down, 6 found it helpful): enemies "shouted 'SPACE MARINE' 30 times in each of the 1000 uninteresting combat encounters"; 9658560 praises it on a thumbs down.
 
 **Next:** Space Marine batch 13 (50 reviews).
+
+## Notes - round 1181 (Space Marine batch 13)
+
+Second unit of the 18:44 firing. Space Marine (2011) batch 13: 50 reviews, 89 bullets (1.78 per review), 5 thumbs down, written 2014-04-11 to 2014-06-30. 15 reviews are 15 words or fewer. No tree change. After the write, one bullet (10204515, the fury meter) was moved from a build-depth mode to combat impact with `rehome_bullet`, a better fit; dircheck 0 after.
+
+- **The thin-content case:** 10372181 (thumbs down, 21 found it helpful) - "This game was 4 years in the making, and has that feel that if they'd had 6 more months they could have made something truly awesome"; of 9 hours, "2 of those hours are spent riding in lifts" (reviewer's estimate); "one model per enemy class, making about 20 different things to hit in total ... When these same hordes attack in consecutive rooms for an hour, you give in to despair".
+- **Co-op that outlives the servers, with friends:** 10407362 - "effectively dead due to the producers going belly up - but if you've got a group of friends ... (thankfully weapon perks and armor pieces can be unlocked in private versus lobbies)", Exterminatus "outrageous, pulse-pounding fun when you get a group of friends together in a skype call"; 10204568 - "it would be nice to be able to play the 'horde mode' with others".
+- **The heal, again:** 10638045 - the finishing move "takes time and you can take damage as you perform it"; 10205096 - "taking cover is HERESY ... a relief from the mediocrity of other third-person shooters with cover".
+- **Versus in mid-2014:** "the community is full of experienced high level players" (10638045); "tryhards and pricks using the overpowered Vengeance Launcher" (10966861); "only two series of maps" for co-op; gameplay DLC "rarely" used.
+- **Teamwork in versus:** 9932888 - balance Tactical, Assault and Devastator; Assault players should leave ammo to the gunners.
+- 10039379 (thumbs down) calls it "full of micro-transactions" (the reviewer's word for its paid add-ons) and a "money grab"; 10283029 (thumbs down) carries crude jabs at the studio, recorded only as such. One short review in Korean.
+
+**Next:** Space Marine batch 14 (50 reviews).
