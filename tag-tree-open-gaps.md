@@ -15764,3 +15764,16 @@ Third unit of the 18:44 firing. Space Marine (2011) batch 14: 50 reviews, 91 bul
 - 11231075: the camera zooms in tight spaces so "i didnt realise quite how many Orks i had on me"; 11483292: the heaviest melee weapon blocks heavy guns, "pick off flying tanky enemies with nothing but a pistol"; 11472387: "exploration is not really rewarded".
 
 **Next:** Space Marine batch 15 (50 reviews).
+
+## Notes - round 1183 (Space Marine batch 15)
+
+Fourth unit of the 18:44 firing. Space Marine (2011) batch 15: 50 reviews, 96 bullets (1.92 per review), 4 thumbs down, written 2014-09-12 to 2014-11-30. 13 reviews are 15 words or fewer. No tree change.
+
+- **A filing watch item:** the tree has `game-design.game-feel.combat.makes-you-feel-superhumanly-strong` (+) and `never-makes-you-feel-as-strong-as-the-fiction-says` (−). Batches 1-14 filed "you feel like a Space Marine" notes under faithful-to-the-source, which fits when the review is about the lore; from this batch, notes about raw power ("a superhuman walking tank") go to the strength mode. Before the findings page, the faithful-to-the-source notes in batches 1-14 should be checked and the power ones moved. Parked here, not yet run.
+- **The co-op mode's limits:** 12951974 (52 found it helpful) - in Exterminatus "the important perks needed to improve your space marine's weaponry cannot be unlocked here", and the random challenges ("execute five headshots during a lull in the fighting where no orks are present") are hated; 12696800 - "the game's designed for exterminatus, so god only knows why there's not a left for dead style versus mode"; 12932219 - "so much more with co-op story mode".
+- **Campaign companions:** 12403253 (thumbs down, 9 found it helpful) - "two totally stupid followers ... like a walking talking cutscene ... even a small soldier ... does more kills than your followers in the entire game"; plus the "red carpet" tube levels and hits that "just splatter" without reactions.
+- **Bundles keep a population:** 12377136 (63 found it helpful) - "on sale every now and then, and even has been featured in Humble Bundle for several times (once for free). Thanks to this, there's still an active playerbase".
+- **Versus:** level 41 "really damages the match-making" (12696800); melta guns and lascannons kill instantly (12082302, 12951974); "remarkably well balanced minus a few melee collision detections" (12436934).
+- 12184153 (thumbs down, a tabletop player): "Ork boy wearing a t-shirt easily takes 4-5 rounds" and Ultramarines play like Space Wolves.
+
+**Next:** Space Marine batch 16 (50 reviews).
