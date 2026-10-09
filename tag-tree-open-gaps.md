@@ -15777,3 +15777,16 @@ Fourth unit of the 18:44 firing. Space Marine (2011) batch 15: 50 reviews, 96 bu
 - 12184153 (thumbs down, a tabletop player): "Ork boy wearing a t-shirt easily takes 4-5 rounds" and Ultramarines play like Space Wolves.
 
 **Next:** Space Marine batch 16 (50 reviews).
+
+## Notes - round 1184 (Space Marine batch 16)
+
+Fifth unit of the 18:44 firing. Space Marine (2011) batch 16: 50 reviews, 72 bullets (1.44 per review), 3 thumbs down, written 2014-11-28 to 2015-02-14. 18 reviews are 15 words or fewer. No tree change. A health detail in 13244567 and violent jabs at the designers in 13861744 are left out or recorded only as such.
+
+- **Versus is dead by early 2015, co-op hangs on:** 13844819 - "the multiplayer is dead. The Lobby-System is aweful ... I thought that I find more players in the DLC content but that is not the case"; 14438640 - "can still get a game but only in exterminatus mode"; 14106593 (thumbs down) - "8/10 at the great times back then....now around 4/10"; 14122510 - "if you ever see this review and the community is back, add me".
+- **The DLC split, named again:** 14349350 - "do not purchase Dreadnought pack DLC, not many people have that dlc and it will be very hard finding a battle"; 13952920 - $59.99 with all DLC "completley NOT worth it"; 13707668 - Chaos Unleashed is the one worth having, for its Exterminatus.
+- **What players asked for:** a co-op campaign (13707668), a skirmish mode against AI (14351967), more chapters, races and wargear in a sequel (13837819).
+- **Newcomers in versus:** 13952920 - "The online playerbase is a bunch of elitist neck-beards that hate new players ... requires that you join a group"; 14209789 - "you can boost by yourself in a private versus".
+- 13741721 (229 found it helpful, in Ork-speak): "Dis duznt hav hi system requires", but the music "is kinda unfitting".
+- 14462459: the physical edition for $8 gives a Steam key.
+
+**Next:** Space Marine batch 17 (50 reviews).
