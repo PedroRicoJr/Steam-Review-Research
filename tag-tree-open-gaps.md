@@ -14844,3 +14844,13 @@ Fourth unit of the 11:44 firing. Arma 3 batch 4: 50 reviews, 83 bullets (1.66 pe
 - 7719455 (1,988 hours shown, edited from 2013 to 2025) tracks the game over time: smooth at first, then "low performing, buggy, storage hogging, memory leaking" by 2016, then multi-threading added in later updates.
 
 **Next:** Arma 3 batch 5 (50 reviews).
+
+## Notes - round 1100 (Arma 3 batch 5)
+
+Fifth unit of the 11:44 firing. Arma 3 batch 5: 50 reviews, 86 bullets (1.72 per review), 4 thumbs down, written 2014-01-07 to 2014-03-15. 27 reviews are 15 words or fewer. No tree change.
+
+- **Read:** realism is the draw (14); community modes and mods (12, Wasteland and Altis Life most); better than Arma 2 (7; 9106950: "This is what a sequel looks like ... not the same thing with a couple of improvements"); the controls take getting used to and then pay off (5); the maps make you walk (3).
+- **The thumbs down:** 8721294 - 5-6 fps on the big island, the beta ran better than the release; 9110222 (623 hours shown) - AI walks and shoots through things, and every update breaks player-made maps, leaving the mappers to fix them; 9490047 - too broken to sell for 45 euros; 9210656 - "Worst game I have ever bought".
+- 9376565 compares it to setting up toy soldiers: a big world and an editor for "your own stories".
+
+**Next:** Arma 3 batch 6 (50 reviews).
