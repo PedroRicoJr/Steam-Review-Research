@@ -14918,3 +14918,14 @@ Eleventh unit of the 11:44 firing. Arma 3 batch 11: 50 reviews, 98 bullets (1.96
 - **Read:** the editor and terrain tools are hard to learn (15392852); server admins with "a God complex" and TeamSpeak required (15845359); the studio's near-monopoly leaves it "little incentive to improve" (15629008).
 
 **Next:** Arma 3 batch 12 (50 reviews).
+
+## Notes - round 1107 (Arma 3 batch 12)
+
+Twelfth and last unit of the 11:44 firing (twelve a firing; the firing did 12 units, rounds 1096-1107, Arma 3 batches 1-12). Arma 3 batch 12: 50 reviews, 73 bullets (1.46 per review), 6 thumbs down, written 2015-06-22 to 2015-08-31. 29 reviews are 15 words or fewer. No tree change. The first run was refused by `write_batch.py` for two LOST reviews (17685943, 17682280, both one-liners left out of the script); added and rerun, nothing written in between.
+
+- **Community conduct:** 17556567 (2,274 hours shown) - ban-happy admins on servers and forums, role-play servers full of people who don't role-play, team-killers after every sale, and a ban from the Steam discussion page for raising team-killing (the reviewer's account); 16816821 - children giving orders, teammates who shoot you, weeks for developer replies.
+- **The thumbs down:** 16630781 (11 found it helpful) - no sound, no servers found, vehicles that won't stop, the cursor crossing monitors; 16934014 (40 fps on an i7 and GTX 970); 17196022 (every Bohemia game stays glitchy after early access, "DayZ Standalone is a live proof"); 17434118 (BattlEye); two one-liners.
+- 16932118 (383 found it helpful): a comic beginner's guide - "you will get rekt ... but remember, it will be worth it".
+- 17434377 asks for a console game like it.
+
+**Next:** Arma 3 batch 13 (50 reviews).
