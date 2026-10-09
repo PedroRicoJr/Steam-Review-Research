@@ -14875,3 +14875,14 @@ Seventh unit of the 11:44 firing. Arma 3 batch 7: 50 reviews, 82 bullets (1.64 p
 - **The long thumbs down:** 11253567 (edited 2020) - Contact is "essentially a $27 map", weapons and the western side nerfed, thermals see through glass; play it modded. 11721312 asks for more female characters.
 
 **Next:** Arma 3 batch 8 (50 reviews).
+
+## Notes - round 1103 (Arma 3 batch 8)
+
+Eighth unit of the 11:44 firing. Arma 3 batch 8: 50 reviews, 103 bullets (2.06 per review), 1 thumbs down, written 2014-08-23 to 2014-10-31. 29 reviews are 15 words or fewer.
+
+- **One mode built under Rule C:** `game-design.modes.a-player-runs-the-match-as-game-master` (+), first sighting 12019488 ("zeus allows players to run a realtime strategy game, spawing units and giving them direct orders and conditions to meet an objective"); second sighting in the same batch, 12715968 ("a 'gamemaster' ( an other player ) uses the tools of the games to create missions ... bouth pvp and pve"). `findphrase` "game master", "gamemaster", "zeus" and "dungeon master" found no earlier note on it. **For Rico's bounty-hunter idea:** Arma 3 also has a human directing the enemy side of a co-op game, not only invading as one fighter. Tree 2,017 -> 2,018; `summarise.py card` rerun.
+- **12301991 (3,627 found it helpful, the most-voted review so far):** "no handholding here. No mini-maps, no enemy UI icons/indicators, no hit markers, no health bars" - a steep learning curve that makes the play distinctive; a three-act campaign; user-made modes "each could essentially be considered totally separate game".
+- **Read:** stories players retell (6); user-made modes (9); the game doesn't teach you (3: 11938814 says DayZ taught them more); the third-person camera named once (11837607).
+- **The thumbs down:** 12715739 (1,342 hours shown) - bad engine and server performance, no shotgun, game-breaking bugs, a "steam ticket check fail" kick since alpha. 12298984 says the studio's servers were down for months (the reviewer's claim, not checked).
+
+**Next:** Arma 3 batch 9 (50 reviews).

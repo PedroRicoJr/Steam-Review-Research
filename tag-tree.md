@@ -12867,6 +12867,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1102, Arma 3 batch 7.** Built under Rule C on 11253567: "This is no longer a simulator. It has become a Bohemian Interactive fantasy ... COMPLETE FAILURE TO COMPREHEND THAT THERMAL DOESN'T READ THROUGH GLASS". `findphrase` "realistic simulation" found one earlier note, 4010348 in batch 2 ("not a realistic simulation at all"), filed then under `marketing.reputation.unlike-anything-else`; it is re-homed here this round.
 
+## Modes added in Arma 3 batch 8 - round 1103 (Rule C)
+
+### `game-design.modes`
+| Mode | | Definition |
+|---|---|---|
+| `.a-player-runs-the-match-as-game-master` | **+** | One player takes the role of game master during play: spawning enemy units, giving them orders and setting objectives or events in real time for the other players, in co-op or PvP. Praised as a way to play. **Distinct from `.invading-another-players-mission-is-the-draw`** (the other player enters as one enemy fighter, not a director of the enemy side) and from `community.user-created-content.*` (content made before play, not run live). |
+
+🔑 **Round 1103, Arma 3 batch 8.** Built under Rule C on 12019488: "zeus allows players to run a realtime strategy game, spawing units and giving them direct orders and conditions to meet an objective." `findphrase` "game master", "gamemaster", "zeus" and "dungeon master" found no earlier note on the mode (one "Zeus patch" note, 10487105, is about an update). Close to Rico's bounty-hunter idea: a human directing the enemy side of a co-op run.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·

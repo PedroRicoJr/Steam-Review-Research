@@ -2015,3 +2015,4 @@ game-design.modes.being-invaded-is-unwelcome | - | The reviewer does not enjoy a
 game-design.modes.the-invaded-player-can-quit-to-rob-the-invader | - | In a game where one player can invade another's mission, the host can leave, reload or die on purpose when an 
 marketing.positioning.a-true-simulation-not-an-arcade-shooter | + | The reviewer praises the game as a realistic military simulation - "mil sim", "hardcore", "realistic fighting"
 marketing.positioning.the-simulation-is-less-real-than-it-claims | - | The reviewer says the game is sold or seen as a realistic military simulation and is not one: weapons, vehicle
+game-design.modes.a-player-runs-the-match-as-game-master | + | One player takes the role of game master during play: spawning enemy units, giving them orders and setting obj
