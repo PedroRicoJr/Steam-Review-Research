@@ -15292,3 +15292,14 @@ Tenth unit of the 14:44 firing. Arma 3 batch 46: 50 reviews, 55 bullets (1.10 pe
 - 119345350: robbed on Life servers by polite robbers "who helped teach me the keys". Two reviews make crude ethnic jabs, recorded as such.
 
 **Next:** Arma 3 batch 47 (50 reviews).
+
+## Notes - round 1142 (Arma 3 batch 47)
+
+Eleventh unit of the 14:44 firing. Arma 3 batch 47: 50 reviews, 57 bullets (1.14 per review), 3 thumbs down, written 2022-10-07 to 2022-12-15. 39 reviews are 15 words or fewer. No tree change.
+
+- **The paywall thumbs down:** 124288568 refunded after two days - "30 dollars was a lot of money for a game that is only really worth 10", DLCs at $10 each, "sick and tired of paywalls blocking you out of the real fun"; recommends the tank game GHPC.
+- **Reforger:** 128619558 - "Still better than Reforger" (two reviews now say so).
+- **Stories with friends:** 124742038 - an Antistasi campaign, a homemade AA truck launched into the sky, then everyone sniped from 2 km: "10/10".
+- 123506246: "a 'game you really have to want to play' ... you are either making your own fun or having fun on somebody else's stuff"; 128128063 still wishes they could jump.
+
+**Next:** Arma 3 batch 48 (50 reviews).
