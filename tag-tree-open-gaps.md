@@ -15315,3 +15315,15 @@ Twelfth and last unit of the 14:44 firing (twelve a firing; the firing did 12 un
 - 131966291: fun with friends, "a little boring" alone; 130372415: "join a unit"; 129813333: Life role-play servers.
 
 **Next:** Arma 3 batch 49 (50 reviews).
+
+## Notes - round 1144 (Arma 3 batch 49)
+
+First unit of the 15:44 firing. Arma 3 batch 49: 50 reviews, 66 bullets (1.32 per review), 2 thumbs down, written 2023-03-07 to 2023-05-15. 39 reviews are 15 words or fewer. No tree change.
+
+- **An AI-written review:** 136300676 (4,043 hours) ends "[i]review written by ChatGPT[/i]"; kept as a review of the game and summarised as written, with that noted in the bullet.
+- **The difficulty, in one line:** 136757030 - "running 500 meters feels like an achievement and one bullet is a death sentence ... the learning curve is basically Mount Everest".
+- **The editor as a toy box:** 135833436 - "Remember playing with the green and tan army men as a kid? Its like bringing all those scenarios you had in your head on to a playable, editable landscape"; 138360344 makes their own battles in the editor before trying multiplayer.
+- **Rivals:** 135829773 - a close second to Project Reality; 136758894 (thumbs down) - "there are better newer titles", King of the Hill the only mode of interest.
+- 137572212 likes the East Wind campaign though others criticise it.
+
+**Next:** Arma 3 batch 50 (50 reviews).
