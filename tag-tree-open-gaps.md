@@ -16375,3 +16375,17 @@ Second unit of the 06:44 firing. Space Marine (2011) batch 58: 50 reviews, 84 bu
 - **Price:** "Sega should really be giving this away for free as a form of promotion ahead of the release of SM2" (152949702).
 
 **Next:** Space Marine batch 59 (50 reviews).
+
+## Notes - round 1228 (Space Marine batch 59)
+
+Third and last unit of the 06:44 firing (rounds 1226-1228; three units). Space Marine (2011) batch 59: 50 reviews, 70 bullets (1.40 per review), 3 thumbs down, written 2024-01-07 to 2024-03-23. 32 reviews are 15 words or fewer. No tree change.
+
+- **A review that does not match the game:** 156616571 (43 hours, edited) is a long essay with details that are not in Space Marine (2011) - grav cannons, XP spent on skills, Metroidvania backtracking, Exterminatus "against endless waves of Tyranids" in "local split screen", a 10-12 hour campaign. Its general points (the ranged-melee synergy, the execution heal as "the heart of Space Marine's gameplay loop", the cathedral-factory scale, the weak final fight) agree with other reviews and are kept; the wrong details are marked as the reviewer's account and not used.
+- **Execution heal, again:** 159498981 - "Takedowns/glory kills don't have iframes so use with caution", plus "sometimes you get stuck to terrain and the NPCs block you from dodging"; "the rocket-orcs are really a pain".
+- **Offline bots wanted:** 160618083 - for Space Marine 2, "allow players to host their own private matches against Bots ... so we don't have to play online with a bunch of try-hards" (filed under an expected mode missing). Relevant to Dominion's PvP or invasion ideas: an offline bot version keeps the mode open to players who avoid other people.
+- **Hand-built levels as a plus:** 157269533 - "So tired of open world games that demand you spend all of your time exploring mostly empty terrain. It was refreshing to play a game with a focused narrative and handcrafted level design."
+- **The giveaway pays off late:** 157227574 got it free "some years ago" and only now played it; also "online achievements ... I'm never going to get" and the last sections "Throw ungodly hordes of enemies at the player".
+- **Price:** "expecting a full $60 for a repackaged version of a decade old game is ridiculous ... to try and squeeze some cash out of the game before it's sequel comes out in September" (160608835).
+- **Mods:** the Augmented mod (159955630) and a realism ReShade (158873037).
+
+**Next:** Space Marine batch 60 (50 reviews).
