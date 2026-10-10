@@ -16301,3 +16301,18 @@ Third and last unit of the 04:45 firing (rounds 1220-1222; three units). Space M
 - **Fix during the round:** two bullets were first written on a short name that pointed at the wrong mode; they were moved to varied play and replay pull before the batch was written.
 
 **Next:** Space Marine batch 54 (50 reviews).
+
+## Notes - round 1223 (Space Marine batch 54)
+
+First unit of the 05:44 firing. Space Marine (2011) batch 54: 50 reviews, 65 bullets (1.30 per review), 6 thumbs down, written 2022-12-23 to 2023-03-07. 31 reviews are 15 words or fewer; 133278887 is in Chinese. No tree change. A political remark in 131957553 is recorded only as a remark.
+
+- **The new bundled-edition mode, second sighting:** 131420020 (222 found it helpful, thumbs down) - "This game was $5.00 3 weeks ago. Now they're selling you the same game + garbage for $60."
+- **The sequel as a door in:** 130915733 (7 found it helpful) - "I knew nothing about Warhammer really until seeing the trailer for Space Marine 2 ... this game prompted me to start reading the Horus Heresy, watch lore videos online, and get interested in playing Darktide"; 129784436 adds the announced 40k TV show. Several more replay it as a "Space Marine 2 Waiting room" (131404710).
+- **Execution lock, again:** 133249273 (thumbs down) - "you're locked into a 10 second animation you can't cancel, taking damage all the while"; 134261783 (thumbs down) - "your fragile as paper while wielding thor's hammer".
+- **Veteran meta:** 131404710 - "there are people who only play this game, and if you are new, you will most probably not have a good time as these people formed a meta of weapons and moves they will abuse"; yet at peak times "a lobby or two that's full (16 player max) on seize ground", and 129797584 "was able to find people to play with in seconds".
+- **QTEs, the other side:** 131957553 - "I know a lot of people seems to hate QTE but ... they are done well in this game."
+- **Console controls on PC:** 133675613 (thumbs down) - "no one thought this through when it was developed for PC."
+- **Steam Deck:** two more say it runs well (131923262, 133272681).
+- 129113313 (60 found it helpful): "You heal by cutting Orks in half with a Chainsword, game is wild."
+
+**Next:** Space Marine batch 55 (50 reviews).
