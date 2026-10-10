@@ -16229,3 +16229,17 @@ First unit of the 03:44 firing. Space Marine (2011) batch 48: 50 reviews, 97 bul
 - **No campaign co-op:** 100694814 - "Theres no campaign co-op which is a bummer, but there IS a horde mode which is a LOT of fun."
 
 **Next:** Space Marine batch 49 (50 reviews).
+
+## Notes - round 1218 (Space Marine batch 49)
+
+Second unit of the 03:44 firing. Space Marine (2011) batch 49: 50 reviews, 63 bullets (1.26 per review), 6 thumbs down, written 2021-12-07 to 2022-02-21. 30 reviews are 15 words or fewer, which is why the notes per review are low. No tree change. A crude jab in 108584203 is recorded only as a jab.
+
+- **The price rise, still landing:** 110248679 (thumbs down) - "they changed the price from $15 to $60 because the new WH40k Space Marine is coming out"; 108040549 - "not worth $75 ... if it's ever under half price, it's worth a buy"; 108079504 is "good thing I bought the game on cdkeys".
+- **The sequel trailer brings players:** 105894762 bought it "after seeing the trailer for the upcoming sequel"; 106373747 thinks it "will outlive spacemarine 2".
+- **A paid item that never unlocked:** 105892417 (thumbs down) - all DLC "except the Blood Ravens skin, which remains locked ... Relic/Sega is not interested on solving the problem at all" (filed under no remedy for a purchase that went wrong).
+- **Cover without a cover system, again:** 109211926 - "it tries to be a cover shooter without a cover system"; 110200889 - a harder difficulty "would be more of the same, just more hiding behind cover", and "I'm this big ass juggernaut, I want to feel like I am unstoppable. This game sometimes gets it right but more often than not doesn't."
+- **Empty halls:** 109751957 - "literal hours of gameplay wandering impossibly huge hallways devoid of any features", yet "the final third ... a dazzling barrage of psychedelic particle effects".
+- **PvP achievements:** 110721906 (thumbs down) - the PvP achievements are "NOT immediately clear from simply looking at the names of them".
+- 108057943 (28 found it helpful): "that's what doom wants to become when it grows up".
+
+**Next:** Space Marine batch 50 (50 reviews).
