@@ -16215,3 +16215,17 @@ Third and last unit of the 02:44 firing (rounds 1214-1216; three units). Space M
 - 98579294 (128 found it helpful): "Why was there no continuation? At least do a remaster, please!"
 
 **Next:** Space Marine batch 48 (50 reviews).
+
+## Notes - round 1217 (Space Marine batch 48)
+
+First unit of the 03:44 firing. Space Marine (2011) batch 48: 50 reviews, 97 bullets (1.94 per review), 6 thumbs down, written 2021-09-14 to 2021-12-07. 29 reviews are 15 words or fewer; 104839532 is in Chinese. No tree change. Crude jabs in 101105884 are recorded only as jabs.
+
+- **The Anniversary price rise lands (October 2021):** 101082234 (220 found it helpful, thumbs down) - "marking the price up from $20 to $60 on an old ass game ... this is just scummy"; 101977415 (35 found it helpful, thumbs down) - "$69 CAD ... absurd for a ten year old game"; 102345240 blames "Game Workshop ... being greedy"; 102405314 and 101105884 point to key sites (filed under a third-party key site is cheaper); 105407472 (1,796 hours) - "not charge us for it like they tried to do with a 'new version' of the game which was only a few updates". Thumbs down here come from people who say they love the game.
+- **Allies who pull nothing:** 104902241 - teammates "can't hit anything", "block you while your fighting / rolling / dodging", and "all the enemies will aggro onto you and ignore your teammates"; 101105884 says the same. Both also name terrain that catches you ("every dumb little block 4 inches high").
+- **Heal by execution, its weak spot:** 104902241 - "At later levels you end up desperate through some sequences with a complete lack of fodder to execute for health."
+- **Lifts:** 104902241 - "if you were to play the drinking game where you take a shot every time you have to ride an elevator you'd die."
+- **Missing Mechanicus:** 101105884 and 103157891 both want tech-priests on a forge world (filed under an iconic thing missing); 101105884 adds that the factories are empty.
+- **PvP praise:** 101476875 (159 hours) - "there is no one cookie cutter OP weapon or loadout ... the weapons are mechanically so different"; "dreadnought assault is the best thing that ever happened in a shooting game". Against it, 101498864 - "to many op strats that are unfair to new players".
+- **No campaign co-op:** 100694814 - "Theres no campaign co-op which is a bummer, but there IS a horde mode which is a LOT of fun."
+
+**Next:** Space Marine batch 49 (50 reviews).
