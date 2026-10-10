@@ -16173,3 +16173,16 @@ Third and last unit of the 01:44 firing (rounds 1211-1213; three units). Space M
 - 84240123: the game would not let them in until it closed a day later. 82398993 (thumbs down): "Feels like a phone game".
 
 **Next:** Space Marine batch 45 (50 reviews).
+
+## Notes - round 1214 (Space Marine batch 45)
+
+First unit of the 02:44 firing. Space Marine (2011) batch 45: 50 reviews, 64 bullets (1.28 per review), 3 thumbs down, written 2021-01-23 to 2021-04-07. 29 reviews are 15 words or fewer; 89391976 is in Vietnamese. No tree change. A crude remark in 88946633 is recorded only as a remark.
+
+- **Power with threats:** 89344741 - Titus "grabs the front of [the turret] and manually cranks it around from the outside", yet "it's not like you're completely unstoppable: Ork Nobz ... Rokkit Boyz ... Bomb Squigz"; the allied guardsmen are "genuinely competent and effective" and Blood Ravens and Ultramarines join the bridge fight (filed under allies helping in combat); "a cooperative campaign would've done this game wonders".
+- **The craft of feedback:** 88473104 - "Making Doom 2016 before Doom 2016"; "When sprinting ... the stomping sounds are great, and the subtle camera shake is just a cherry on top"; the battlefields "feel grand, with so much chaos and infighting between factions"; trims wanted: "filler corridors hiding loading screens". Runs at about 60 fps on a 6-year-old laptop.
+- **The Chaos half, again:** 89847737 - "goes steadily downhill once the bullet-sponge, no-ragdoll-animations-having-ass Chaos enemies show up"; 86147696 - "Only crappy part was the turret lab level".
+- **Population, early 2021:** "a good and active community" (86658211), "still fairly active" (87107337), "essentially dead ... there are groups out there that put together multiplayer events" (87625626).
+- **Mods:** 87501002 (helmet and armour mods for the starting look) and 88490987 (a mod video).
+- 85725459 (14 found it helpful): an OK shooter played only a few hours per sitting, yet "the devs really put their heart and soul into the game".
+
+**Next:** Space Marine batch 46 (50 reviews).
