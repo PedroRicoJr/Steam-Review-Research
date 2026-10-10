@@ -16102,3 +16102,14 @@ Third and last unit of the 23:44 firing (rounds 1205-1207; three units). Space M
 - 55614248 (14 found it helpful): Exterminatus "was added to the game for free. But if you feel like playing as Chaos instead, you'll need to pick up the Chaos Unleashed Map Pack". 55312443 (thumbs down): the jetpack fixes "the world's worst movement", then is taken away; "you don't get to control the titan". 54724509: no longer runs on Windows 10 1803 (thumbs up).
 
 **Next:** Space Marine batch 39 (50 reviews).
+
+## Notes - round 1208 (Space Marine batch 39)
+
+First unit of the 00:44 firing. Space Marine (2011) batch 39: 50 reviews, 72 bullets (1.44 per review), 1 thumbs down, written 2019-10-21 to 2020-01-07. 29 reviews are 15 words or fewer (a short-review batch, so the plain-only share is high at 22%). No tree change.
+
+- **The vulnerable execution, defended:** 57152262 (34 found it helpful, edited 2020) - "performing executions still has the character vulnerable, so making one with a dozen enemies around can very well lead to death, this is a good mechanic that forces players to think more and not just spam executions". The same batch's only thumbs down, 59428051, calls it "an almost critical gameplay flaw ... you have to wait until there's only one enemy on their own to recover health".
+- **Unlocks across modes:** 57152262 - "the decision to bind certain co-op skill unlocks to PvP achievements is bad ... content gated behind a game mode that isn't much used any longer" (filed as gated behind a different mode, as 50731507 noted in round 1205).
+- **Missing gore and missing set pieces:** 60996774 - enemies "wont be bloodied or lose limbs"; "Needs a harder mode"; 57646801 - "I genuinely thought they were gunna introduce a Dreadnaught". 61007864: "the voices are very quiet".
+- 61474130: "drags a little near the end as you've pretty much seen everything ... before the last 2 hours"; the Ork warboss "wish he had more screen time". 61481678: "the horde-mode, is the real gem here".
+
+**Next:** Space Marine batch 40 (50 reviews).
