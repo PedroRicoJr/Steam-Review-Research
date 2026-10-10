@@ -16200,3 +16200,18 @@ Second unit of the 02:44 firing. Space Marine (2011) batch 46: 50 reviews, 78 bu
 - **Wanted:** 92437528 (37 found it helpful) - "The only thing that's missing is being able to play as an Imperial Guardsman."
 
 **Next:** Space Marine batch 47 (50 reviews).
+
+## Notes - round 1216 (Space Marine batch 47)
+
+Third and last unit of the 02:44 firing (rounds 1214-1216; three units). Space Marine (2011) batch 47: 50 reviews, 87 bullets (1.74 per review), 6 thumbs down, written 2021-06-30 to 2021-09-15. 31 reviews are 15 words or fewer; 94705700 is in Spanish. No tree change. A crude remark in 96245884 is recorded only as a remark.
+
+- **Re-homes from batch 46:** 92443581 "doom does it better" moved from naming other games to a named rival doing it better; 93814042 "Controls can be a little stiff" moved from stiff animation to unresponsive controls.
+- **Games Workshop, three ways:** 97638951 gives a thumbs down for "GW action against fandom" after 278 hours (filed as a protest vote); 96673522 - "GW sucks but the game is fun"; 96632814 - GW grants the licence "only to [bad] companies that make even [worse] games".
+- **Multiplayer toys, few rooms:** 95793784 - "loads of toys, but not enough rooms to play in": 2 modes and 3 maps against 8-9 mix-and-match armour sets with every piece paintable. 98534252 still found an Exterminatus game "in under 5 minutes" in 2021, with "a great sense of RP"; 98582190 found nothing by jumping in and had to arrange games on forums.
+- **Fixes you find yourself:** 95257112 needed VC_redist and DINPUT8.dll from a community guide before it ran on Windows 10. 97602923 (62 hours, thumbs down): sound "looping and crackling whenever there are a lot of enemies or a lot of bolter fire", no fix found.
+- **The second half, again:** 98546598 (7 found it helpful) - Grimskull is a favourite "because of how over the top" he is; Nemeroth "puts me to sleep with his constant monologuing"; his fight "was over with in 5 minutes"; the twist was seen "from a mile away".
+- **Set pieces:** 98916835 - "the occasional break in regular game play for some different, temporary mechanics keep it all the fresher (only one of which is a qte)".
+- **The hammer:** 95793432 - "Once i got my hands on hammer i basically paved my way through the game with it."
+- 98579294 (128 found it helpful): "Why was there no continuation? At least do a remaster, please!"
+
+**Next:** Space Marine batch 48 (50 reviews).
