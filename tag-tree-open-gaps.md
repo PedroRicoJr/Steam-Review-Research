@@ -16360,3 +16360,18 @@ First unit of the 06:44 firing. Space Marine (2011) batch 57: 50 reviews, 74 bul
 - 145409149 - "without any bloat or unnecessary moments ... the executions - *chef's kiss*".
 
 **Next:** Space Marine batch 58 (50 reviews).
+
+## Notes - round 1227 (Space Marine batch 58)
+
+Second unit of the 06:44 firing. Space Marine (2011) batch 58: 50 reviews, 84 bullets (1.68 per review), 5 thumbs down, written 2023-10-22 to 2024-01-07. 28 reviews are 15 words or fewer; 149138379 is in Ukrainian. No tree change.
+
+- **The loadout trap, third sighting:** 152996545 (thumbs down) - near the end, a long ranged fight "without any cover or chance to regen armour, stuck using a melee weapon that stopped me from using my two most powerful ranged weapons ... the save point didn't go far back enough to give me the option. The only way I could've prepared for this was knowing that it was coming up". Filed with the two earlier sightings under losses feeling arbitrary. For Dominion: never let a loadout picked before a checkpoint make the fight after it unwinnable; offer a weapon swap at the checkpoint.
+- **The full charge sheet:** 149226920 (thumbs down) - unskippable cutscenes made them quit at the final boss ("I'm just gonna go on Youtube to watch the ending"); bosses "too hard even on normal"; "Voice overs are limited and repetitive"; "You can't use enemy weaponry"; "There is a Titan that you never get to pilot"; "Half the time you'll die wondering wtf killed you".
+- **Cheesing against the fantasy:** 149170321 - "it felt like I was cheesing the game hiding behind cover and not marching through hoards of enemies like an Ultramarine should"; 152586980 - "The final enemies don't let you run and slaughter them, you need to take cover".
+- **Monetisation praise:** 152565332 - "most of the cosmetics and weapons you earn in-game instead of through battle passes, micro transactions"; customisation "arguably as good as Halo Reach"; but "a chance you'll run into cheaters".
+- **Fixes you hunt for:** a game.ini from the discussions (149730420, max 1080p) and CPU-core fiddling (149707204), both thumbs down.
+- **Not 40k enough:** 149675238 - "All the things that made me taking interest in 40k are missing" (filed under does not feel like the source).
+- **Movement:** 155507703 - "You cannot vault over obstacles, which makes movement a bit clunky"; "all the Ultramarines resemble similar facial structures".
+- **Price:** "Sega should really be giving this away for free as a form of promotion ahead of the release of SM2" (152949702).
+
+**Next:** Space Marine batch 59 (50 reviews).
