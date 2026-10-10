@@ -16417,3 +16417,17 @@ Second unit of the 07:44 firing. Space Marine (2011) batch 61: 50 reviews, 75 bu
 - **A correction before writing:** the cutscene-skip tip was first filed under cannot-skip; it was moved to a plain note, since the reviewer says skipping works.
 
 **Next:** Space Marine batch 62 (50 reviews).
+
+## Notes - round 1231 (Space Marine batch 62)
+
+Third and last unit of the 07:44 firing (rounds 1229-1231; three units). Space Marine (2011) batch 62: 50 reviews, 69 bullets (1.38 per review), 3 thumbs down, written 2024-08-23 to 2024-11-07. 33 reviews are 15 words or fewer; 173922168 is in Russian. No tree change. Crude jokes and jabs in 173927538 and 178111630 are recorded only as such.
+
+- **After the sequel's release (September 2024):** players now arrive from Space Marine 2 - 175578762 "Loved the second game tried this one ... some kinks that thankfully got worked out with the second game"; 175578398 bought it "because i kept hearing about the sequel". Price complaints continue ("lists at 70$, i spent 17.25", 175578398; "scummy and over priced this to profit off the hype of space marine 2", 174474488).
+- **Hard mode, from the Russian review (26 hours):** on hard "the armour is made of paper and enemies only get fatter", "ammo runs short, and going into melee is suicide" (translated); rocket Orks "sometimes too many ... you have to sit behind cover"; Chaos cultists "don't die from one shot", Chaos Marines are spongy, "sometimes it's unclear whether you're doing damage"; three bosses all faulted; allies "don't shoot". It praises the three jump-pack sections ("two of them with the hammer") and pans the aircraft turret level.
+- **Bosses as sponges:** 177104094 (33 found it helpful) - "Bullet sponges with little to no feedback. They are not fun to fight unlike the regular enemies"; also "no upgrades, no levels, just stupid fun".
+- **No growth:** 173115878 (thumbs down) - "fun at 3 hour earlier then it goes without progress to be stronger".
+- **A newcomer who bounced:** 178550105 (thumbs down, 5/10) - "Pew pew pew. Die a few times ... Rinse and repeat"; "I can't recall a single piece of music".
+- **Coming back to it:** 176112873 - first dismissed it as a Gears clone; after learning 40k, "it feels like stepping into something legendary".
+- **Fixes:** a Steam discussion fix to run it (176593294); "You will deal with crashes" (177601448). Steam Deck "flawless" (177605540).
+
+**Next:** Space Marine batch 63 (50 reviews).
