@@ -16389,3 +16389,17 @@ Third and last unit of the 06:44 firing (rounds 1226-1228; three units). Space M
 - **Mods:** the Augmented mod (159955630) and a realism ReShade (158873037).
 
 **Next:** Space Marine batch 60 (50 reviews).
+
+## Notes - round 1229 (Space Marine batch 60)
+
+First unit of the 07:44 firing. Space Marine (2011) batch 60: 50 reviews, 70 bullets (1.40 per review), 9 thumbs down, written 2024-03-23 to 2024-06-07. 30 reviews are 15 words or fewer; 161853622 is in Spanish. No tree change.
+
+- **A protest wave about the wider franchise (April-May 2024):** four thumbs down (163375042, 164870715 with 217 hours, 165934112 with 77 hours, 165922229 with 12 found it helpful) are political remarks about Warhammer lore in general, not about this game. Recorded only as political remarks, filed under a thumb that is a protest vote. They are 4 of this batch's 9 thumbs down, so the batch's thumbs-down share is inflated by an off-topic event; the findings page should note it when it counts thumbs down by period.
+- **Price, spring 2024:** 163343238 (33 found it helpful, thumbs down) - "Sega owns the game because they bought the rights (And Relic) at a liquidation sale", and it "crashes on launch" until "downloading a dll"; at $60 buy "Doom Eternal ... or ... Gears of War 3" (filed under a named rival doing it better). 164704098 (thumbs down) - "SIXTY DOLLARS ... laughable". 166412568 - limit your CPU cores to launch on a new PC.
+- **The execution heal, the full complaint again:** 165908641 (7 found it helpful, thumbs down) - "you can still take damage while doing glory-kills", "some little turd could come along and stand in your path when you press the command", and late on "grenades when you take cover, forcing you out, and if you dare to charge for some melee you'll soon see your shield and health disappear". Also: melee "don't stagger" big enemies; the Meltagun outclasses the rest; "no Terminators"; only "ONE" location.
+- **The hammer's swing:** 165409254 (101 hours, 11 found it helpful) - "the Blunder Hammer the way I be getting killed while stuck in that long ass swing animation."
+- **Sponges:** 164704098 - "a wet noodle and pea shooter for weapons. Enemies take days to eliminate."
+- **Camera:** 162436769 - "There is a game somewhere beneath hat screenshake and 20$ FOV."
+- 163348829 - "no piloting the titan" (fourth sighting).
+
+**Next:** Space Marine batch 61 (50 reviews).
