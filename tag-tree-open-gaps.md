@@ -16316,3 +16316,19 @@ First unit of the 05:44 firing. Space Marine (2011) batch 54: 50 reviews, 65 bul
 - 129113313 (60 found it helpful): "You heal by cutting Orks in half with a Chainsword, game is wild."
 
 **Next:** Space Marine batch 55 (50 reviews).
+
+## Notes - round 1224 (Space Marine batch 55)
+
+Second unit of the 05:44 firing. Space Marine (2011) batch 55: 50 reviews, 68 bullets (1.36 per review), 3 thumbs down, written 2023-03-06 to 2023-05-23. 25 reviews are 15 words or fewer. No tree change. A crude jab in 138873138 is recorded only as a jab.
+
+- **A loophole in the heal rule:** 134689621 - executions are "the only way to regain health (except playing to the next checkpoint, dying, reloading, and then being a full HP)", and "the game doesn't really incentives using melee through gameplay (as DOOM did)". For Dominion: if healing is tied to an action, make sure dying and reloading is not a cheaper heal.
+- **Audio logs liked:** 134689621 - "I do like the side-stories told through the collection of servo skulls which contains audio logs" (contrast the round 1190 mode: logs only playable from a menu).
+- **Peer-to-peer as a lifeline:** 134664497 - weekend horde games found "with quite a short wait time ... being p2p it just rely on the game itself without the need of mods or custom servers".
+- **Controls:** 135191462 - "like a dozen melee keybinds to the same key - right click" (filed under one button doing too many things); 137134495 - "really feels like a badly done console port" until they looked up how to play.
+- **Too easy, two more:** 137088328 - "Highest difficulty recommended otherwise too easy"; 137134495 - "how easy it played and how tube-like the levels are".
+- **Grind achievement:** 136292966 (7 found it helpful) - "they have to kill 40 thousand enemies for an achievement."
+- **Presentation complaints:** 138858012 (thumbs down) - "sound mixing is very bad (can't properly hear characters most of the time), way to much camera shake."
+- **Steam Deck:** three more (137402696, 57 found it helpful; 138315805 "all max out, 60 fps").
+- 137798135 - "where are the TECHPRIESTS" (third sighting of the missing Mechanicus).
+
+**Next:** Space Marine batch 56 (50 reviews).
