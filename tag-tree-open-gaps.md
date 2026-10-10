@@ -16285,3 +16285,19 @@ Second unit of the 04:45 firing. Space Marine (2011) batch 52: 50 reviews, 78 bu
 - **Neutral wanted:** 119736170 opens with "if only there was a neutral button".
 
 **Next:** Space Marine batch 53 (50 reviews).
+
+## Notes - round 1222 (Space Marine batch 53)
+
+Third and last unit of the 04:45 firing (rounds 1220-1222; three units). Space Marine (2011) batch 53: 50 reviews, 66 bullets (1.32 per review), 3 thumbs down, written 2022-10-06 to 2022-12-23. 25 reviews are 15 words or fewer; 125075640 is in Portuguese. No tree change.
+
+- **Price, late 2022:** 123845908 (16 found it helpful) - "Literally every negative review for this game is about the price ... the game itself is phenomenal"; 124719851 - "Very, VERY good game; Very, VERY bad price"; 123459029 (thumbs down) mocks a sale that "reduced" it "from £40 to just £10".
+- **The Anniversary bundle:** 124263293 - "I thought 'anniversary edition' would have some DLC that wasn't skins and game mode options for online MP"; with a "ghost town" multiplayer, "the DLC is useless" unless "you have a group of 6-8+ friends" (filed under add-ons not worth it).
+- **Achievements cut off by dead servers:** 123845908 - "you won't be able to 100% the achievements as a few require ranking up".
+- **Multiplayer, still split:** 124240084 - "online community is still active and PvP is really really fun"; 124719851 - "as fun as playing BO2 in high school", but "I am also convinced that the lobby I was in was the only one going" (best "in the very early hours of the weekend").
+- **Unlock pace:** 125082984 - "you'd have to play too much to unlock all of them", and wanted weapons "unlockable by purchase".
+- **Steam Deck, third sighting:** 124719851 - "played perfectly on Deck, with high settings".
+- **A named weapon moment:** 128604999 (13 found it helpful) - "when you pick up big freaking Astartes Thunder Hammer and every enemy will start to see fear. The moment I will never forget."
+- **Breakage:** 127634083 stopped running after an OS update (thumbs down); 128106767 has one part that "will not stop crashing".
+- **Fix during the round:** two bullets were first written on a short name that pointed at the wrong mode; they were moved to varied play and replay pull before the batch was written.
+
+**Next:** Space Marine batch 54 (50 reviews).
