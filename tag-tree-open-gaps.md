@@ -16149,3 +16149,16 @@ First unit of the 01:44 firing. Space Marine (2011) batch 42: 50 reviews, 65 bul
 - 71736033 (thumbs down) is upset that the game "have been crack". 71132901: "8 hours ... to easy".
 
 **Next:** Space Marine batch 43 (50 reviews).
+
+## Notes - round 1212 (Space Marine batch 43)
+
+Second unit of the 01:44 firing. Space Marine (2011) batch 43: 50 reviews, 58 bullets (1.16 per review), 3 thumbs down, written 2020-08-22 to 2020-11-07. 21 reviews are 15 words or fewer. No tree change.
+
+- **Where the ending loses people:** 76030804 - "The nature of the end game enemies eliminates a lot of weapon options, especially melee outside of spot duty, resulting in a slog through the final chapters and limping into a QTE final boss", after "a fun boss fight about 75% of the way" (the Ork warboss). 78479188 (thumbs down): "The final mission sucks".
+- **Armour behind the empty mode:** 75228158 - "its a shame not many people play vs mode to unlock the armour sets but exterminus is ace!" (third sighting of unlocks gated behind versus).
+- **Newcomers:** 76314485 (19 found it helpful) - "I AM NOT a Warhammer fanboy ... this game is an enjoyable third person shooter"; 78038747 (thumbs down) - "As someone with 0 interest in the 40k franchise, this game is completely forgettable ... Bayonetta is 10$ cheaper".
+- **Windows:** 77616197 (thumbs down) - "Doesn't work on modern hardware and latest Win10 release".
+- **Population, late 2020:** "servers are desolate" (74702468); online "only comes to life if it's organised" (76015988); "plenty of people still playing multiplayer" (76375689).
+- 77611191: "a melee system that can as simple or as complex as you want it to be". 78426335 and 78909791 recommend a controller.
+
+**Next:** Space Marine batch 44 (50 reviews).
