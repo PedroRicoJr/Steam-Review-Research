@@ -16403,3 +16403,17 @@ First unit of the 07:44 firing. Space Marine (2011) batch 60: 50 reviews, 70 bul
 - 163348829 - "no piloting the titan" (fourth sighting).
 
 **Next:** Space Marine batch 61 (50 reviews).
+
+## Notes - round 1230 (Space Marine batch 61)
+
+Second unit of the 07:44 firing. Space Marine (2011) batch 61: 50 reviews, 75 bullets (1.50 per review), 3 thumbs down, written 2024-06-07 to 2024-08-23. 29 reviews are 15 words or fewer. No tree change. Crude jabs in 171176816 and 172209892 are recorded only as jabs; personal details in 170549238 are left out.
+
+- **The run-up to Space Marine 2 (released September 2024):** 171171071 (172 found it helpful, thumbs down) - "Why does it cost 45 euro all of a sudden? ... because the sequel is coming out"; 171647945 (thumbs down) - "Absolutely shameful price change". Many others play it now "to get prepared for Space Marine 2".
+- **The game as design history:** 169936513 - it "seems to have pioneered the glory kill system that came to define the play of Doom 2016 ... It's pretty remarkable that a AA Warhammer spinoff became so influential on game design."
+- **Story read closely:** 170549238 (30 found it helpful) - a plot that is "nothing spectacular" carries "a surprisingly nuanced story" about Titus refusing dogma; "the villains being among the most enjoyable and well written". Same review: "I did get really tired of the chainsword's steely, industrial growl and the WAAAAGH of certain Orkz Nobz" (filed under grating voice and sound repetition); advises taking breaks against repetitive combat.
+- **One weapon, one move:** 167912195 (thumbs down) - "you will rarely use anything other than the standard bolter ... from the pool of special attacks you will use only stun all other techniques are useless". Against it, 172199179 - "The weapon selection can feel small ... but this gives each weapon its time in the spotlight".
+- **Fixes:** the SpaceMarineCoreFix on GitHub (169941039, "this shouldn't be an issue for a game that still gets updates"); mods Project Ultrakill and "near infinite gore", with a tip that holding Enter skips cutscenes (169277471).
+- **Ultrawide:** 167931611 - support "after the games been out for 13 years is awesome".
+- **A correction before writing:** the cutscene-skip tip was first filed under cannot-skip; it was moved to a plain note, since the reviewer says skipping works.
+
+**Next:** Space Marine batch 62 (50 reviews).
