@@ -16270,3 +16270,18 @@ First unit of the 04:45 firing. Space Marine (2011) batch 51: 50 reviews, 78 bul
 - 117961833 (76 found it helpful) is a joke review.
 
 **Next:** Space Marine batch 52 (50 reviews).
+
+## Notes - round 1221 (Space Marine batch 52)
+
+Second unit of the 04:45 firing. Space Marine (2011) batch 52: 50 reviews, 78 bullets (1.56 per review), 4 thumbs down, written 2022-07-21 to 2022-10-07. 25 reviews are 15 words or fewer; 120235289 is in Polish and 123045355 in Spanish. **One new mode, tree 2,021 -> 2,022.** A crude remark in 121861950 is recorded only as a remark.
+
+- **New mode (Rule C): `publishing.dlc-and-editions.only-sold-bundled-with-the-add-ons`.** 122580407 (8 found it helpful, thumbs down) - "They forcefully added in all the DLC on top of it ... half of the 'content' was released for multiplayer ... you don't get to choose that anymore. The base game used to be sold seperately at a far lower price". `findphrase` "sold separately" and "base game" found no earlier sighting. For Dominion: if paid add-ons are ever folded into one edition, keep a cheaper stand-alone version on sale.
+- **The price rise, still running:** "Why is a 10 year old game suddenly $60 again? No." (121096595); "Just dont pay $60 for it like a chump" (123030783, 81 found it helpful); "Sega ... decided to charge full price for an 11 year old game" (123494741, 36 found it helpful). One softener: 120681010 notes "people who purchased this game before now owns this newer version for free".
+- **Execution heal, from the Polish review:** rolls and executions give no invulnerability, so "the player runs to an enemy to restore health with the animation ... and dies from the others' shots" (translated). It also notes the hero gets winded after three melee swings.
+- **Allies:** 121128771 - squadmates "pop the odd Xeno, but thankfully, they can take care of themselves and you don't have to babysit them" (filed under allied soldiers pulling their weight).
+- **Encounter craft:** 121396286 - "ranged units in the back or taking high ground and close quarters units rushing you"; 121128771 - "by the end, there's just enough enemy variety and sheer overwhelming numbers that even the most vehement of berserkers will want to re-evaluate the situation before charing in".
+- **Melee aim:** 123102916 (thumbs down) - the swing goes in "the last direction you walked in, but it's often exactly the way you didn't intend."
+- **PvP balance:** 122179138 - "you can easily beat players with a level much higher than yours."
+- **Neutral wanted:** 119736170 opens with "if only there was a neutral button".
+
+**Next:** Space Marine batch 53 (50 reviews).

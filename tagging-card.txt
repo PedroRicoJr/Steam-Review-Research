@@ -2019,3 +2019,4 @@ game-design.modes.a-player-runs-the-match-as-game-master | + | One player takes 
 publishing.monetisation-practice.a-subscription-was-added-after-launch | - | A game that was bought outright adds a paid monthly subscription (for example a pass to all its paid add-ons) 
 marketing.expectation-management.a-re-release-keeps-the-old-games-reviews | - | The game is sold again in a new edition or at a new price on the same store page, and that page still shows th
 narrative.story.the-logs-can-only-be-heard-from-a-menu | - | Recorded logs or messages the player picks up can only be played from a menu with play stopped, not while movi
+publishing.dlc-and-editions.only-sold-bundled-with-the-add-ons | - | The game is no longer sold on its own: the store offers only an edition that folds in the paid add-ons at a hi

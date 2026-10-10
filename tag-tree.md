@@ -12903,6 +12903,15 @@ analyzer to help - because no one likes the idea of replaying for 10 hours just 
 
 🔑 **Round 1190, Space Marine (2011) batch 22.** Built under Rule C on 22164593: "Not being able to listen to audio logs as you play, but having instead to stop playing, and go into the menu, means that I did not listen to them, and they wasted money on voice actors I will never hear." `findphrase` "audio log" and "listen to the logs" found only the opposite complaint (logs lost in the fighting).
 
+## Modes added in Space Marine (2011) batch 52 - round 1221 (Rule C)
+
+### `publishing.dlc-and-editions`
+| Mode | | Definition |
+|---|---|---|
+| `.only-sold-bundled-with-the-add-ons` | **−** | The game is no longer sold on its own: the store offers only an edition that folds in the paid add-ons at a higher price, so a player who wants just the base game has to pay for add-ons they did not want. **Distinct from `.content-behind-a-second-purchase`** (expected content costs extra on top of the game; here the add-ons are forced into the one price) **and from `publishing.monetisation-practice.feels-like-a-cash-grab`** (the reviewer's verdict on a money move in general; this records the specific move of withdrawing the cheaper stand-alone version). |
+
+🔑 **Round 1221, Space Marine (2011) batch 52.** Built under Rule C on 122580407 (8 found it helpful, thumbs down): "They forcefully added in all the DLC on top of it ... half of the 'content' was released for multiplayer ... you don't get to choose that anymore. The base game used to be sold seperately at a far lower price than it's currently going for." `findphrase` "sold separately" found only a day-one DLC complaint (Mass Effect 3) and "base game" found no withdrawn stand-alone version. The price history is the reviewer's account, not checked.
+
 ## Parents with no modes yet
 
 `art.*` · `audio.*` · `narrative.*` · most of `localization.*` · `game-design.level-design` ·
