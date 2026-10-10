@@ -16125,3 +16125,15 @@ Second unit of the 00:44 firing. Space Marine (2011) batch 40: 50 reviews, 60 bu
 - 65103543: "get mods so you can have a helmet in singleplayer" (third mod mention). 65074457: "Wish it haddent been abandoned". 64570599: "Easy to play and walk away from".
 
 **Next:** Space Marine batch 41 (50 reviews).
+
+## Notes - round 1210 (Space Marine batch 41)
+
+Third and last unit of the 00:44 firing (rounds 1208-1210; three units). Space Marine (2011) batch 41: 50 reviews, 74 bullets (1.48 per review), 2 thumbs down, written 2020-03-23 to 2020-06-07. 26 reviews are 15 words or fewer. No tree change. The first dry run was refused for one skipped review (69689701), which was added before the write.
+
+- **The best Exterminatus account so far:** 66240417 (137 hours, 14 found it helpful, edited 2021) - "one of the most intense 4 player coop PVE modes out there ... point capture and randomly generated challenges ... 4 maps/stages on each game"; "Every single enemy in Exterminatus mode CAN be defeated in a hand to hand brawl ... It takes skill and timing"; controls "always do exactly what you tell them to"; "Space Marine pioneered 'push forward combat' ... Before DOOM 2016". Complaints: only 8 Exterminatus maps, and "certain weapon upgrades are gated behind the PVP multiplayer".
+- **The 2021 re-release, seen from 2021:** 70458869 (edited 2021) - "With the 10th Anniversary re-release, the multiplayer lives again" (reviewer's account; set against the price complaints in rounds 1201-1207).
+- **Being humbled:** 70107982 (172 hours) - the game "isn't shy of humbling you with specialized troops that can fold your 'invulnerability' like paper tissue"; Titus "a humble person ... willing to adapt to the situation instead of following the Codex blindly"; "the storm bolter should have replaced the main bolter".
+- **Checkpoints and clarity:** 68692736 - "death will come out of nowhere ... without a clear understanding of where the damage is actually originating"; "By far the worst part ... restarting at a check point that has a long walking or elevator sequence".
+- 69690436 (thumbs down): "a melee attack locks your character in the animation for multiple seconds". 68712272: "the last four hours are increasingly lame: perpetually-spawning spongey enemies, circle strafing bosses". 70427734: DLC chapter skins "don't affect anything".
+
+**Next:** Space Marine batch 42 (50 reviews).
