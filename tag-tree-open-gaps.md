@@ -16137,3 +16137,15 @@ Third and last unit of the 00:44 firing (rounds 1208-1210; three units). Space M
 - 69690436 (thumbs down): "a melee attack locks your character in the animation for multiple seconds". 68712272: "the last four hours are increasingly lame: perpetually-spawning spongey enemies, circle strafing bosses". 70427734: DLC chapter skins "don't affect anything".
 
 **Next:** Space Marine batch 42 (50 reviews).
+
+## Notes - round 1211 (Space Marine batch 42)
+
+First unit of the 01:44 firing. Space Marine (2011) batch 42: 50 reviews, 65 bullets (1.30 per review), 2 thumbs down, written 2020-06-07 to 2020-08-23. 31 reviews are 15 words or fewer, so the plain-only share is high (35%); most are one-line cheers. No tree change. Crude insults in 72758624 are recorded only as insults.
+
+- **The heal rule, named again:** 72746338 - "If they'd given some invulnerability during the takedown animation, it would have been a little more reliable"; no cover mechanic means "trying to hide from heavy enemy fire by positioning yourself behind some crates like a chump"; "the same 6 or so Ork enemies" until Chaos arrives. 73541651 (115 hours): "Every other action shooter type game (except Doom 2016) has you cower like a weakling to regain health".
+- **Multiplayer, mid-2020:** a small group arranges games through "discussion boards or reddit" and horde "is a blast to play with friends and strangers alike" (72261904); "CO-OP modes are still active ... PVP matches are hard to find" (73866622); "it seems nowone plays PvP" (73132107).
+- **Mods:** 70425455 ("some pretty cool mods with pretty simple install") and 74316262.
+- **Lore praise:** 72261904 - "They even managed to actually get the lore right for the Melta"; the hab blocks and orbital tether "look and feel as though they belong on Graia". 71716210 is sorry the Ork warboss was replaced by Nemeroth as the last villain.
+- 71736033 (thumbs down) is upset that the game "have been crack". 71132901: "8 hours ... to easy".
+
+**Next:** Space Marine batch 43 (50 reviews).
