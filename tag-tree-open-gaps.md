@@ -16113,3 +16113,15 @@ First unit of the 00:44 firing. Space Marine (2011) batch 39: 50 reviews, 72 bul
 - 61474130: "drags a little near the end as you've pretty much seen everything ... before the last 2 hours"; the Ork warboss "wish he had more screen time". 61481678: "the horde-mode, is the real gem here".
 
 **Next:** Space Marine batch 40 (50 reviews).
+
+## Notes - round 1209 (Space Marine batch 40)
+
+Second unit of the 00:44 firing. Space Marine (2011) batch 40: 50 reviews, 60 bullets (1.20 per review), 2 thumbs down, written 2020-01-07 to 2020-03-23. 33 reviews are 15 words or fewer (the lowest notes-per-review batch so far, from short cheers; 28% plain-only). No tree change.
+
+- **Mobility and screen shake:** 62282976 (edited 2022) - "the sprinting is pretty hard to control ... there is no way to quickly exit combat when your health is down. So once you're caught up in melee combat you either kill all your opponents or you die"; "the screen shakes a lot which makes it harder to control the battle".
+- **Glory kills compared to Doom:** 64635274 - "unlike Doom (2016) glory kills take too long and leave you vulnerable until it finishes".
+- **Difficulty both ways:** 63883343 (thumbs down) - normal "feeling more like 'F*** YOU'"; 65658110 - "Normal mode is rather too easy ... you'll feel more satisfied with the hardest difficulty"; 64324655: "recommend playing on the higher difficulties".
+- **Keys:** 65075276 (1,334 hours, written as a 2011 curator review) says "Key binding can be customized" with "full controller support", against the round-1205 and round-1204 complaints (rebinding only from the main menu).
+- 65103543: "get mods so you can have a helmet in singleplayer" (third mod mention). 65074457: "Wish it haddent been abandoned". 64570599: "Easy to play and walk away from".
+
+**Next:** Space Marine batch 41 (50 reviews).
