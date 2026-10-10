@@ -16243,3 +16243,16 @@ Second unit of the 03:44 firing. Space Marine (2011) batch 49: 50 reviews, 63 bu
 - 108057943 (28 found it helpful): "that's what doom wants to become when it grows up".
 
 **Next:** Space Marine batch 50 (50 reviews).
+
+## Notes - round 1219 (Space Marine batch 50)
+
+Third and last unit of the 03:44 firing (rounds 1217-1219; three units). Space Marine (2011) batch 50: 50 reviews, 73 bullets (1.46 per review), 2 thumbs down, written 2022-02-21 to 2022-05-07. 31 reviews are 15 words or fewer; 113832363 is in Russian. No tree change. Crude jokes and jabs in 114736744 and 115052920 are recorded only as jokes and jabs.
+
+- **The price, spring 2022:** "$75 australian, which is a little steep for a sub 10 hour campaign" (111251504); "for $60 dollars nope" (112217513); "not worth it for such a high price" (113087504, 31 found it helpful); "a key for $3. Not worth $40" (114233508); "45 Euros for a 2011 game that is only half-good" (115046278). Most of these still give a thumbs up.
+- **The power fantasy, named outright:** 111251504 (15 found it helpful) - "you do not have to choose between the melee or ranged path, you are a certified badass and lethal at any distance"; "the single strongest element in this game is the pacing. There is no filler" (filed under action that never stops); "Puzzles? Nah bro ... skill trees, experience points or gear upgrades? GTFO with that fluff." 113088685 - "especially when guardsmen look at you in awe".
+- **Multiplayer from a 113-hour player:** 113085602 - "three classes, perks ... and elaborate map design - with features that may be advantageous to certain classes"; the campaign "serves as a complete and adequate introduction to the multiplayer"; lag makes "enemies ... seem to teleport when dodge rolling"; "hardened players ... may make you throw your PC out the window during the first ... 70 hours"; "Seize Ground- Classic and Exterminatus" are where the players are. Against it, 113801546 calls it "pretty much dead" and 114267063 says it goes "stagnant quick ... unless you have one or two people you que with".
+- **The Chaos half, again:** 115046278 (thumbs down) - "The moment Chaos makes an appearance, the game's pace slows to a crawl ... a constant game of taking pop-shots from behind cover" (filed with the earlier second-half complaints under the ending letting it down).
+- **Steam Deck:** 115062590 (33 found it helpful) - "Butter smooth 60fps and still a blast."
+- 111157126 is the rare counter-voice on newcomers: the story "does expect you to have a ground knowledge of the 40K universe".
+
+**Next:** Space Marine batch 51 (50 reviews).
