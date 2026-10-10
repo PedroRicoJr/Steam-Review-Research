@@ -16256,3 +16256,17 @@ Third and last unit of the 03:44 firing (rounds 1217-1219; three units). Space M
 - 111157126 is the rare counter-voice on newcomers: the story "does expect you to have a ground knowledge of the 40K universe".
 
 **Next:** Space Marine batch 51 (50 reviews).
+
+## Notes - round 1220 (Space Marine batch 51)
+
+First unit of the 04:45 firing. Space Marine (2011) batch 51: 50 reviews, 78 bullets (1.56 per review), 6 thumbs down, written 2022-05-05 to 2022-07-23. 26 reviews are 15 words or fewer. No tree change. A crude joke in 116295992 is recorded only as a joke.
+
+- **Heal by execution, the full case against:** 115366906 (thumbs down) - "a surprisingly small health pool"; the heal is "extremely finicky ... an animation that is way longer than it needs to be"; "I never quite know from what direction I'll be attacked, or the number of enemies" (filed under unfair spawns); "The only way I could make progress ... was to play super lame and sit back with only a gun". 118416968 (12 found it helpful) adds "you are still vulnerable and can easily die during them ... some take longer. Which one will happen? Who knows", and calls Fury "a bandaid on some of the issues of combat system". For it: 116263200 (99 hours) - "This is a how action game set in Warhammer 40k universe shall be designed indeed."
+- **Melee depth:** 118416968 - "each weapon has them the EXACT same. And there is no such thing are delayed input combos or movement based combos."
+- **The Titan:** 115423885 - "there is a giant mech you do not control" (filed under an iconic thing there that you never use; the second sighting after the earlier Titan bullet).
+- **Price, mid 2022:** 117395182 (46 found it helpful, thumbs down) - the Anniversary upgrade "changed the price of a game that released in 2011 to a whopping $60"; it points to the June "Skull Throne" sale. 115009300 - "I payed 5 Euro, not 45 as now."
+- **The power fantasy in one line:** 117958884 - like the few minutes in other games "where you ... get into an unstoppable armoured vehicle ... but the feeling lasts the whole game".
+- **Steam Deck again:** 115423885 played it on Hard on Steam Deck; it "looked and ran great".
+- 117961833 (76 found it helpful) is a joke review.
+
+**Next:** Space Marine batch 52 (50 reviews).
