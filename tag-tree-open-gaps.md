@@ -16332,3 +16332,17 @@ Second unit of the 05:44 firing. Space Marine (2011) batch 55: 50 reviews, 68 bu
 - 137798135 - "where are the TECHPRIESTS" (third sighting of the missing Mechanicus).
 
 **Next:** Space Marine batch 56 (50 reviews).
+
+## Notes - round 1225 (Space Marine batch 56)
+
+Third and last unit of the 05:44 firing (rounds 1223-1225; three units). Space Marine (2011) batch 56: 50 reviews, 68 bullets (1.36 per review), 2 thumbs down, written 2023-05-23 to 2023-08-07. 34 reviews are 15 words or fewer. No tree change. Crude jokes in 139705793 and 139688670 are recorded only as jokes. The first dry run was refused because one review id was swapped with its neighbour (write_batch named it LOST); fixed before writing.
+
+- **Gear decides PvP:** 142145902 - "here the weapon damage increases once you level up ... Playing against others that are already maxed level I've been one shot many times." For Dominion's PvP or invasion ideas: keep levels from deciding fights.
+- **Execution invulnerability, again:** 140078510 - "the 'executions' should have made you invulnerable like in Doom 2016". Against it, 143547011 finds the finishers "awesome" and random enough "so it doesn't bore you out that quickly".
+- **Checkpoints:** 142656140 (thumbs down) - "mission checkpoints are few and VERY far between ... if you die to an Ork meteor that comes out of nowhere ... you gotta start the entire area over".
+- **The community lives on Discord:** 141491215 - "people do still play this. There is a large Discord community".
+- **Steam Deck:** 142655746 - "solid 60fps on high settings ... Also supports gyro aiming"; 143148394 - "runs flawlessly at max settings".
+- **Length done right:** 140078510 - "Exactly as long as it needed to be as well, which is rare"; but "the visuals get repetitive as the entire game is one long mission".
+- **Classes in PvP:** 140130015 - both sides "get their own classes ... and will play how you have picked them".
+
+**Next:** Space Marine batch 57 (50 reviews).
