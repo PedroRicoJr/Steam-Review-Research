@@ -16162,3 +16162,14 @@ Second unit of the 01:44 firing. Space Marine (2011) batch 43: 50 reviews, 58 bu
 - 77611191: "a melee system that can as simple or as complex as you want it to be". 78426335 and 78909791 recommend a controller.
 
 **Next:** Space Marine batch 44 (50 reviews).
+
+## Notes - round 1213 (Space Marine batch 44)
+
+Third and last unit of the 01:44 firing (rounds 1211-1213; three units). Space Marine (2011) batch 44: 50 reviews, 58 bullets (1.16 per review), 4 thumbs down, written 2020-11-06 to 2021-01-23. 37 reviews are 15 words or fewer, so the plain-only share is the highest yet (45%); the batch is mostly one-line cheers, not thinner reading. No tree change. Family details in 82965383 and a crude joke in 81758433 are left out.
+
+- **Why the last chapters lose players:** 83678710 - "the chaos forces are not nearly as fun to fight as the orks. The game almost becomes a cover shooter at points, worse still is all the chaos enemies dissolve into piddly puffs of sparkles and smoke when killed instead of exploding into gore!" 79641590 (thumbs down): snipers and rockets "spawning at the back of enemy packs" turn melee into "a hesitant melee while you wait for your ult", and bosses "just sending waves of mobs at you while you slowly chip away at a hidden health bar".
+- **Bugs fixed by settings:** 81251465 (edited) - "constantly tabbing out by itself, freezing, vanishing textures ... I cannot believe I paid money", then after changing graphics settings "You FEEL heavy and unstoppable. 100% worth the money".
+- **Population, winter 2020:** "Dont rely on full servers" (79247082); "the Multiplayer is STILL ALIVE" (81245099); "a bit of a ghost town at times but there are still people that play even to this day in 2021" (85230412); 85231143 (807 hours) writes a song parody about "ONE LOBBY ZERO MATCH ... WATCH THE RAPTOR FLY BY AS HE INSTAKILLS YOU".
+- 84240123: the game would not let them in until it closed a day later. 82398993 (thumbs down): "Feels like a phone game".
+
+**Next:** Space Marine batch 45 (50 reviews).
