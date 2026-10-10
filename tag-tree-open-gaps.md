@@ -16346,3 +16346,17 @@ Third and last unit of the 05:44 firing (rounds 1223-1225; three units). Space M
 - **Classes in PvP:** 140130015 - both sides "get their own classes ... and will play how you have picked them".
 
 **Next:** Space Marine batch 57 (50 reviews).
+
+## Notes - round 1226 (Space Marine batch 57)
+
+First unit of the 06:44 firing. Space Marine (2011) batch 57: 50 reviews, 74 bullets (1.48 per review), 6 thumbs down, written 2023-08-06 to 2023-10-23. 22 reviews are 15 words or fewer. No tree change.
+
+- **The hammer's cost, spelled out:** 146772716 - "I would have used the Thunder Hammer exclusively, but you can only utilize the Pistol and primary Boltor with it ... it's best to have access to your full arsenal than half of it"; they "found myself ignoring" the shotgun, grenade launcher and other rifles, and wanted "periodic loadout changes, or ... one universal loadout that leveled up". They liked "the armor gaining more elements to it" but wanted the changes "a little more noticeable", and call heal-by-finisher "dumb".
+- **The heal button was never learned:** 145848030 - the heal skill "can only fully charge when you hit enemy, by then I don't know how to use the skill because I forgot about which button ... after I have clear 25% of the map" (filed under poorly explained). For Dominion: teach the heal input more than once.
+- **Price gouging, as a protest:** 146794081 bought it at £8.99 on sale and still gives a thumbs down "because they are price gouging"; 148736874 - the price "was WAY lower before the announcement of the sequel"; 148725061 - "a pointless anniversary edition".
+- **Only for fans:** 144225304 (thumbs down) and 144799548 - "if you are not a warhammer fan you'l get bored half way through".
+- **Story wanted more 40k:** 146778175 - "an american-like army killing orcs", "just a teaser with name drops"; the twist "made it fresh again".
+- **Platforms:** Ubuntu 22.04 would not run it (145829295, thumbs down); a Windows 11 launch fix is on YouTube (147391659); Steam Deck "runs perfectly" (147346080).
+- 145409149 - "without any bloat or unnecessary moments ... the executions - *chef's kiss*".
+
+**Next:** Space Marine batch 58 (50 reviews).
