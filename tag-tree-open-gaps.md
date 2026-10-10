@@ -16186,3 +16186,17 @@ First unit of the 02:44 firing. Space Marine (2011) batch 45: 50 reviews, 64 bul
 - 85725459 (14 found it helpful): an OK shooter played only a few hours per sitting, yet "the devs really put their heart and soul into the game".
 
 **Next:** Space Marine batch 46 (50 reviews).
+
+## Notes - round 1215 (Space Marine batch 46)
+
+Second unit of the 02:44 firing. Space Marine (2011) batch 46: 50 reviews, 78 bullets (1.56 per review), 1 thumbs down, written 2021-04-05 to 2021-06-30. 22 reviews are 15 words or fewer. No tree change. Crude remarks in 92479237 and 94727756 are recorded only as remarks.
+
+- **The weight of the armour:** 91549989 (28 found it helpful) - "every step your character takes shakes the ground"; "Regular-sized human enemies can basically explode if you barrel into them at a full sprint"; yet "there's only one type of demon" and the psykers "act more like stationary turrets than interesting enemies". The turret and jump-jet sections break the levels up and "no section overstays its welcome" (filed under varied play).
+- **Set pieces, both ways:** 92914816 calls the jetpack sections "overpowered" and "awesome" in one breath and sums the game up as "a blend of Call of Duty and Dynasty Warriors".
+- **Ranged fire while swarmed, again:** 94754017 - "You are shot from every direction possible with no cover sistem and most weapon sucks on distances, at the same times you are attacked by many suicide soldiers".
+- **DLC split, as a cause of death:** 94186980 - "they made so many modes, the community was too fractured, which causes it to die off quickly"; also "turned Lascannons into sniper rifles" and a 5-10 second freeze on each melee swing at the Ork boss (reviewer's account).
+- **Newcomers, split:** 92443581 calls it "a good starting point" for Warhammer but "a bit shallow for old fans"; 93342218 would "struggle to suggest it to people new to 40k" because of "flat graphics, poor lighting, and shallow combat".
+- **Population, mid 2021:** "dead" (91195146, 92467319, 92443581) against "still a fair bit of people playing" (91994725) and "its online community still active" (93787465).
+- **Wanted:** 92437528 (37 found it helpful) - "The only thing that's missing is being able to play as an Imperial Guardsman."
+
+**Next:** Space Marine batch 47 (50 reviews).
